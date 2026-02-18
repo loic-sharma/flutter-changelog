@@ -23,7 +23,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add routes support in TestWidgetsApp
-  <sub>[#181695](https://github.com/flutter/flutter/pull/181695) merged on February 16, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181695) over 2 weeks, 345 additions and 14 deletions in 2 files</sub>
+  <sub>[#181695](https://github.com/flutter/flutter/pull/181695) merged on February 16, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/181695) over 2 weeks, 345 additions and 14 deletions in 2 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Илия](https://github.com/777genius)** &mdash; Add contentTextStyle support to SimpleDialog
