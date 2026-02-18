@@ -179,6 +179,3 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Resolve inconsistency with SchedulerBinding.scheduleTask usage recomm…<br />
   <sub>[#182531](https://github.com/flutter/flutter/pull/182531) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182531) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Ahmed Omer](https://github.com/ahmed-omer-talabat)** &mdash; Removed Material library import from decorated_sliver_test.dart<br />
-  <sub>[#182538](https://github.com/flutter/flutter/pull/182538) opened on on February 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182538) 114 additions and 88 deletions in 1 file</sub><br />
-
