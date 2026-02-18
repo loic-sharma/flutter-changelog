@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-16 commits.
+17 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController<br />
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) merged on February 18, 2026 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/180389) over 1 month, 346 additions and 16 deletions in 2 files</sub><br />
@@ -53,6 +53,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Remove material from actions test<br />
   <sub>[#181702](https://github.com/flutter/flutter/pull/181702) merged on February 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181702) over 2 weeks, 32 additions and 103 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark stable vulkan platform view tests as bringup<br />
+  <sub>[#182554](https://github.com/flutter/flutter/pull/182554) merged on February 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182554) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Analyzer, require 10.1.0, fix deprecations in dependency_graph.dart<br />
   <sub>[#182507](https://github.com/flutter/flutter/pull/182507) merged on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182507) over 5 hours, 26 additions and 26 deletions in 5 files</sub><br />
