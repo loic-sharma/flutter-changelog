@@ -4,7 +4,12 @@
 
 ### February 14, 2026 to February 20, 2026
 
-21 commits.
+23 commits.
+
+* **[Akhil George](https://github.com/akhil-ge0rge)** &mdash; Fix(Material): DateRangePicker ignores DatePickerTheme.dayShape
+  <sub>[#181658](https://github.com/flutter/flutter/pull/181658) merged on February 18, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/181658) over 2 weeks, 67 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+  <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/56a7c33e-ce91-4c30-8e62-ac0bceb1e3d3" width="350"><img src="https://github.com/user-attachments/assets/431c8ad2-0825-400a-8dd3-b264ec7430ce" width="350"></details></sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Allow TabBar to receive a TabBarScrollController
   <sub>[#180389](https://github.com/flutter/flutter/pull/180389) merged on February 18, 2026 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/180389) over 1 month, 346 additions and 16 deletions in 2 files</sub>
@@ -57,6 +62,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] RangeSlider  mouse interaction should change keyboard focus
   <sub>[#182185](https://github.com/flutter/flutter/pull/182185) merged on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182185) over 6 days, 187 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Noaman Monther](https://github.com/devnoaman)** &mdash; Fixing ExpansionTile expandedAlignment not Accepts AlignmentGeometry …
+  <sub>[#180814](https://github.com/flutter/flutter/pull/180814) merged on February 18, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/180814) over 1 month, 86 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Clean up cross imports in single_child_scroll_view_test.dart, decorated_sliver_test.dart, draggable_scrollable_sheet_test.dart
   <sub>[#181613](https://github.com/flutter/flutter/pull/181613) merged on February 18, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/181613) over 2 weeks, 176 additions and 160 deletions in 5 files</sub>
