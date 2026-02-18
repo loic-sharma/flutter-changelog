@@ -627,7 +627,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-8 commits.
+9 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature <br />
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub><br />
@@ -636,6 +636,10 @@
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera_android_camerax] Adds support for video stabilization<br />
   <sub>[#11020](https://github.com/flutter/packages/pull/11020) merged on February 17, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/11020) over 3 days, 585 additions and 9 deletions in 12 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; [camera_avfoundation] Pigeon swift migration - part 2<br />
+  <sub>[#10980](https://github.com/flutter/packages/pull/10980) merged on February 18, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/10980) over 1 week, 2103 additions and 2455 deletions in 38 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter_android] Add advanced markers support<br />
   <sub>[#10381](https://github.com/flutter/packages/pull/10381) merged on February 17, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/10381) over 3 months, 2706 additions and 273 deletions in 32 files</sub><br />
