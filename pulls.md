@@ -176,6 +176,3 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix: disable NavigationDestination tooltip when message is empty<br />
   <sub>[#182500](https://github.com/flutter/flutter/pull/182500) opened on on February 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182500) 48 additions and 22 deletions in 2 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; 3.41.2 Changelog<br />
-  <sub>[#182518](https://github.com/flutter/flutter/pull/182518) opened on on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182518) 5 additions and 0 deletions in 1 file</sub><br />
-
