@@ -117,7 +117,7 @@
   <sub>[#182246](https://github.com/flutter/flutter/pull/182246) opened on on February 11, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/182246) 510 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; dev: Use a super-parameter in several missed cases<br />
-  <sub>[#182251](https://github.com/flutter/flutter/pull/182251) opened on on February 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182251) 27 additions and 33 deletions in 7 files</sub><br />
+  <sub>[#182251](https://github.com/flutter/flutter/pull/182251) opened on on February 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182251) 27 additions and 33 deletions in 7 files</sub><br />
 
 * **[zionjo89757](https://github.com/zionjo89757)** &mdash; Add pauseWhenNoListeners optimization to AnimationController<br />
   <sub>[#182270](https://github.com/flutter/flutter/pull/182270) opened on on February 12, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/182270) 344 additions and 3 deletions in 4 files</sub><br />
@@ -149,6 +149,9 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show warning when plugins do not support SwiftPM<br />
   <sub>[#182506](https://github.com/flutter/flutter/pull/182506) opened on on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182506) 36 additions and 4 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add buffer around rerasterized input to fragment shaders to maintain coordinate space when clipped<br />
+  <sub>[#182512](https://github.com/flutter/flutter/pull/182512) opened on on February 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182512) 125 additions and 5 deletions in 3 files</sub><br />
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Copy Flutter framework to Add to App FlutterPluginRgistrant<br />
   <sub>[#182523](https://github.com/flutter/flutter/pull/182523) opened on on February 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) 302 additions and 32 deletions in 2 files</sub><br />
 
@@ -166,4 +169,7 @@
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Rename "dart-pkg" to "dart_pkg" in the Fuchsia Flutter Engine<br />
   <sub>[#182574](https://github.com/flutter/flutter/pull/182574) opened on on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182574) 59 additions and 57 deletions in 52 files</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; framework: Use a super-parameter in several missed cases<br />
+  <sub>[#182580](https://github.com/flutter/flutter/pull/182580) opened on on February 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182580) 11 additions and 27 deletions in 3 files</sub><br />
 
