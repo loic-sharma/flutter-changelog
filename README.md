@@ -900,7 +900,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-7 commits.
+8 commits.
 
 * **[Hamza Gohar](https://github.com/HamzaGohar-2k23-BSCS-249)** &mdash; Typo in implicit-animations.md<br />
   <sub>[#13076](https://github.com/flutter/website/pull/13076) merged on February 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13076) over 2 days, 3 additions and 3 deletions in 1 file</sub><br />
@@ -913,6 +913,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Include site sections on mobile sidenav<br />
   <sub>[#13085](https://github.com/flutter/website/pull/13085) merged on February 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13085) over 8 hours, 23 additions and 25 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Mate Narh](https://github.com/spartaninzaghi)** &mdash; Typo Fix: Rename ContactsListPage to ContactListsPage<br />
+  <sub>[#13091](https://github.com/flutter/website/pull/13091) merged on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13091) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Mention that UIScene is now the default<br />
   <sub>[#13090](https://github.com/flutter/website/pull/13090) merged on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13090) over 18 hours, 18 additions and 14 deletions in 1 file</sub><br />
