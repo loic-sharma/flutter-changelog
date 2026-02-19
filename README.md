@@ -700,11 +700,15 @@
 
 ### February 14, 2026 to February 20, 2026
 
-17 commits.
+19 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature <br />
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Camille Simon](https://github.com/camsim99), [Enrico Zamagni](https://github.com/ezamagni-tg), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [ash2moon](https://github.com/ash2moon), and [3 others](https://github.com/flutter/packages/pull/9925)</sub><br />
+
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #167410: _initCalled completed twice<br />
+  <sub>[#9694](https://github.com/flutter/packages/pull/9694) merged on February 19, 2026 &mdash; **Small:** [54 comments](https://github.com/flutter/packages/pull/9694) over 6 months, 82 additions and 92 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera_android_camerax] Adds support for video stabilization<br />
   <sub>[#11020](https://github.com/flutter/packages/pull/11020) merged on February 17, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/11020) over 3 days, 585 additions and 9 deletions in 12 files</sub><br />
@@ -741,6 +745,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update repo for 3.41<br />
   <sub>[#11017](https://github.com/flutter/packages/pull/11017) merged on February 17, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/11017) over 4 days, 327 additions and 241 deletions in 170 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Robert Ancell](https://github.com/robert-ancell), [Matt Boetger](https://github.com/mboetger), [Tarrin Neal](https://github.com/tarrinneal), and [1 other](https://github.com/flutter/packages/pull/11017)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix add-marker crash on Android<br />
+  <sub>[#11061](https://github.com/flutter/packages/pull/11061) merged on February 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11061) over 17 hours, 77 additions and 41 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; [camera][google_fonts] Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks<br />
   <sub>[#11009](https://github.com/flutter/packages/pull/11009) merged on February 18, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11009) over 5 days, 42 additions and 24 deletions in 17 files</sub><br />
