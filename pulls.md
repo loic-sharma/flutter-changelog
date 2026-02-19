@@ -176,3 +176,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; flutter_tools: Use a super-parameter in several missed cases<br />
   <sub>[#182581](https://github.com/flutter/flutter/pull/182581) opened on on February 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182581) 43 additions and 94 deletions in 11 files</sub><br />
 
+* **[Aditya Rathore](https://github.com/itsAdityaRathore)** &mdash; Fix typos in method names across multiple files<br />
+  <sub>[#182584](https://github.com/flutter/flutter/pull/182584) opened on on February 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182584) 7 additions and 7 deletions in 7 files</sub><br />
+
