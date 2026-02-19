@@ -143,6 +143,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add buffer around rerasterized input to fragment shaders to maintain coordinate space when clipped<br />
   <sub>[#182512](https://github.com/flutter/flutter/pull/182512) opened on on February 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182512) 125 additions and 5 deletions in 3 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182522) 1792 additions and 349 deletions in 18 files</sub><br />
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Copy Flutter framework to Add to App FlutterPluginRgistrant<br />
   <sub>[#182523](https://github.com/flutter/flutter/pull/182523) opened on on February 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) 302 additions and 32 deletions in 2 files</sub><br />
 
@@ -172,4 +175,7 @@
 
 * **[Rick Hohler](https://github.com/rickhohler)** &mdash; Consolidate Swift Package Manager logic and harden integration tests<br />
   <sub>[#182638](https://github.com/flutter/flutter/pull/182638) opened on on February 19, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182638) 1128 additions and 751 deletions in 22 files</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove `ExtendSelectionByPageIntent`<br />
+  <sub>[#182642](https://github.com/flutter/flutter/pull/182642) opened on on February 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182642) 0 additions and 56 deletions in 2 files</sub><br />
 
