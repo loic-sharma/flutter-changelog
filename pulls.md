@@ -89,9 +89,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
   <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Stop double loading fonts for WebParagraph<br />
-  <sub>[#182026](https://github.com/flutter/flutter/pull/182026) opened on on February 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182026) 18 additions and 94 deletions in 2 files</sub><br />
-
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 

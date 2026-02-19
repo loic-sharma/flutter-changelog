@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-35 commits.
+36 commits.
 
 * **[Akhil George](https://github.com/akhil-ge0rge)** &mdash; Fix(Material): DateRangePicker ignores DatePickerTheme.dayShape
   <sub>[#181658](https://github.com/flutter/flutter/pull/181658) merged on February 18, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/181658) over 2 weeks, 67 additions and 9 deletions in 2 files</sub>
@@ -47,13 +47,13 @@
   <sub>[#181267](https://github.com/flutter/flutter/pull/181267) merged on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181267) over 4 weeks, 11 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from interactive_viewer_test.dart
-  <sub>[#181465](https://github.com/flutter/flutter/pull/181465) merged on February 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181465) over 3 weeks, 296 additions and 468 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate abi build paths to use new abi filtering api #AGP9
   <sub>[#181828](https://github.com/flutter/flutter/pull/181828) merged on February 19, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/181828) over 2 weeks, 185 additions and 76 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from interactive_viewer_test.dart
+  <sub>[#181465](https://github.com/flutter/flutter/pull/181465) merged on February 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181465) over 3 weeks, 296 additions and 468 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give guided error message when CocoaPod and SwiftPM dependency conflicts
   <sub>[#182392](https://github.com/flutter/flutter/pull/182392) merged on February 18, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/182392) over 5 days, 152 additions and 13 deletions in 5 files</sub>
@@ -103,17 +103,21 @@
   <sub>[#181702](https://github.com/flutter/flutter/pull/181702) merged on February 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181702) over 2 weeks, 32 additions and 103 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from ticker mode test
-  <sub>[#181696](https://github.com/flutter/flutter/pull/181696) merged on February 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181696) over 2 weeks, 5 additions and 4 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
-
 * **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Move SelectionArea web test from widgets to material folder
   <sub>[#181951](https://github.com/flutter/flutter/pull/181951) merged on February 19, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/181951) over 1 week, 77 additions and 149 deletions in 4 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from ticker mode test
+  <sub>[#181696](https://github.com/flutter/flutter/pull/181696) merged on February 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181696) over 2 weeks, 5 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark stable vulkan platform view tests as bringup
   <sub>[#182554](https://github.com/flutter/flutter/pull/182554) merged on February 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182554) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Stop double loading fonts for WebParagraph
+  <sub>[#182026](https://github.com/flutter/flutter/pull/182026) merged on February 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182026) over 1 week, 18 additions and 94 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub>
 
 * **[Akshat.Shukla](https://github.com/Akshat-Shuklaaa)** &mdash; docs: fix grammar in animation library documentation
   <sub>[#182461](https://github.com/flutter/flutter/pull/182461) merged on February 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182461) over 2 days, 1 addition and 1 deletion in 1 file</sub>
@@ -716,7 +720,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-22 commits.
+23 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature 
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub>
@@ -745,6 +749,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [cupertino_ui] Add cupertino_ui package
   <sub>[#11042](https://github.com/flutter/packages/pull/11042) merged on February 18, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/11042) over 21 hours, 152 additions and 0 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [google_maps_flutter_ios] Migrate to UIScene
+  <sub>[#11001](https://github.com/flutter/packages/pull/11001) merged on February 19, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11001) over 1 week, 81 additions and 38 deletions in 21 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Steven Landow](https://github.com/stevenctl)** &mdash; [vector_graphics_compiler] support percentage units SVG shape attributes
   <sub>[#10577](https://github.com/flutter/packages/pull/10577) merged on February 18, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/10577) over 2 months, 155 additions and 5 deletions in 5 files</sub>
