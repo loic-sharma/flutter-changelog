@@ -740,7 +740,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-25 commits.
+26 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature 
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub>
@@ -809,6 +809,10 @@
 * **[Google Admin](https://github.com/google-admin)** &mdash; Refactor Github Action per b/485167538
   <sub>[#11051](https://github.com/flutter/packages/pull/11051) merged on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11051) over 1 hour, 6 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [quick_actions_android] Remove deprecated usesCleartextTraffic
+  <sub>[#11063](https://github.com/flutter/packages/pull/11063) merged on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11063) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [quick_actions] Remove usesCleartextTraffic 
   <sub>[#11064](https://github.com/flutter/packages/pull/11064) merged on February 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11064) over 23 hours, 1 addition and 2 deletions in 2 files</sub>
@@ -972,7 +976,11 @@
 
 ### February 14, 2026 to February 20, 2026
 
-8 commits.
+9 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a recipe for the record package
+  <sub>[#13075](https://github.com/flutter/website/pull/13075) merged on February 19, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/website/pull/13075) over 6 days, 175 additions and 15 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Hamza Gohar](https://github.com/HamzaGohar-2k23-BSCS-249)** &mdash; Typo in implicit-animations.md
   <sub>[#13076](https://github.com/flutter/website/pull/13076) merged on February 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13076) over 2 days, 3 additions and 3 deletions in 1 file</sub>
