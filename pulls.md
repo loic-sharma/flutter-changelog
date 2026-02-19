@@ -176,6 +176,9 @@
 * **[Aditya Rathore](https://github.com/itsAdityaRathore)** &mdash; Fix typos in method names across multiple files<br />
   <sub>[#182584](https://github.com/flutter/flutter/pull/182584) opened on on February 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182584) 7 additions and 7 deletions in 7 files</sub><br />
 
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Remove iOS build configuration check when building with flavors<br />
+  <sub>[#182610](https://github.com/flutter/flutter/pull/182610) opened on on February 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182610) 70 additions and 47 deletions in 2 files</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Manual dart sdk flutter 174bcc79 25ff 4267 8e26 d0e902f18681 1771486449<br />
   <sub>[#182624](https://github.com/flutter/flutter/pull/182624) opened on on February 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182624) 7 additions and 2 deletions in 6 files</sub><br />
 

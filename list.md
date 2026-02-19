@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-32 commits.
+33 commits.
 
 * **[Akhil George](https://github.com/akhil-ge0rge)** &mdash; Fix(Material): DateRangePicker ignores DatePickerTheme.dayShape
   <sub>[#181658](https://github.com/flutter/flutter/pull/181658) merged on February 18, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/181658) over 2 weeks, 67 additions and 9 deletions in 2 files</sub>
@@ -130,6 +130,10 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix iOS CI tests for Xcode 26 Swift compatibility
   <sub>[#182132](https://github.com/flutter/flutter/pull/182132) merged on February 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182132) over 1 week, 33 additions and 3 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Skia from dfe78d132e24 to 7bbdc51ab0aa (8 revisions)
+  <sub>[#182612](https://github.com/flutter/flutter/pull/182612) merged on February 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182612) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [Reland] Cupertino cross imports
   <sub>[#182416](https://github.com/flutter/flutter/pull/182416) merged on February 17, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/182416) over 3 days, 728 additions and 877 deletions in 21 files</sub>
