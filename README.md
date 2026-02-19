@@ -716,7 +716,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-19 commits.
+22 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature <br />
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub><br />
@@ -781,6 +781,18 @@
 * **[Google Admin](https://github.com/google-admin)** &mdash; Refactor Github Action per b/485167538<br />
   <sub>[#11051](https://github.com/flutter/packages/pull/11051) merged on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11051) over 1 hour, 6 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [image_picker_android] Remove deprecated usesCleartextTraffic<br />
+  <sub>[#11059](https://github.com/flutter/packages/pull/11059) merged on February 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11059) over 23 hours, 12 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [file_selector_android] Remove deprecated usesCleartextTraffic<br />
+  <sub>[#11057](https://github.com/flutter/packages/pull/11057) merged on February 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11057) over 1 day, 12 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [webview_flutter_android] Remove usesCleartextTraffic<br />
+  <sub>[#11066](https://github.com/flutter/packages/pull/11066) merged on February 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11066) over 18 hours, 8 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Fix syntax error in auto-labeler<br />
   <sub>[#11052](https://github.com/flutter/packages/pull/11052) merged on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11052) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
