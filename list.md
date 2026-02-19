@@ -700,7 +700,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-16 commits.
+17 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature 
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub>
@@ -749,6 +749,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Update Android to exoplayer 1.9.1
   <sub>[#10904](https://github.com/flutter/packages/pull/10904) merged on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10904) over 3 weeks, 24 additions and 8 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; [cupertino_ui, material_ui] Fix capitalization in README section headers
+  <sub>[#11058](https://github.com/flutter/packages/pull/11058) merged on February 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11058) over 15 hours, 4 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Google Admin](https://github.com/google-admin)** &mdash; Refactor Github Action per b/485167538
   <sub>[#11051](https://github.com/flutter/packages/pull/11051) merged on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11051) over 1 hour, 6 additions and 4 deletions in 2 files</sub>
