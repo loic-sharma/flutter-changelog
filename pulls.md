@@ -60,7 +60,7 @@
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
 
 * **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
-  <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
 
 * **[Divith S](https://github.com/Divith123)** &mdash; RFC: Opt-in Semantic Shadow Tree for Flutter Web SEO<br />
   <sub>[#181127](https://github.com/flutter/flutter/pull/181127) opened on on January 18, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/181127) 6578 additions and 0 deletions in 20 files</sub><br />
@@ -144,7 +144,7 @@
   <sub>[#182512](https://github.com/flutter/flutter/pull/182512) opened on on February 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182512) 125 additions and 5 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
-  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182522) 1792 additions and 349 deletions in 18 files</sub><br />
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/182522) 1774 additions and 349 deletions in 18 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Copy Flutter framework to Add to App FlutterPluginRgistrant<br />
   <sub>[#182523](https://github.com/flutter/flutter/pull/182523) opened on on February 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) 302 additions and 32 deletions in 2 files</sub><br />
@@ -175,7 +175,4 @@
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove `ExtendSelectionByPageIntent`<br />
   <sub>[#182642](https://github.com/flutter/flutter/pull/182642) opened on on February 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182642) 0 additions and 56 deletions in 2 files</sub><br />
-
-* **[Hari07](https://github.com/Hari-07)** &mdash; Implements `ClipRSuperellipse` on backdrop filter on platform view<br />
-  <sub>[#182643](https://github.com/flutter/flutter/pull/182643) opened on on February 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182643) 120 additions and 2 deletions in 4 files</sub><br />
 
