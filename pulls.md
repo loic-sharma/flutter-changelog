@@ -170,3 +170,6 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Remove iOS build configuration check when building with flavors<br />
   <sub>[#182610](https://github.com/flutter/flutter/pull/182610) opened on on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182610) 69 additions and 47 deletions in 2 files</sub><br />
 
+* **[Rick Hohler](https://github.com/rickhohler)** &mdash; Consolidate Swift Package Manager logic and harden integration tests<br />
+  <sub>[#182638](https://github.com/flutter/flutter/pull/182638) opened on on February 19, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182638) 1128 additions and 751 deletions in 22 files</sub><br />
+
