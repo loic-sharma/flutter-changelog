@@ -176,6 +176,3 @@
 * **[Aditya Rathore](https://github.com/itsAdityaRathore)** &mdash; Fix typos in method names across multiple files<br />
   <sub>[#182584](https://github.com/flutter/flutter/pull/182584) opened on on February 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182584) 7 additions and 7 deletions in 7 files</sub><br />
 
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Remove iOS build configuration check when building with flavors<br />
-  <sub>[#182610](https://github.com/flutter/flutter/pull/182610) opened on on February 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182610) 70 additions and 47 deletions in 2 files</sub><br />
-
