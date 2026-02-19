@@ -134,9 +134,6 @@
 * **[Nour](https://github.com/MohammedTarigg)** &mdash; Improve SwiftPM minimum platform mismatch diagnostics<br />
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182375) 234 additions and 5 deletions in 5 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give guided message when project is not compatible with SwiftPM<br />
-  <sub>[#182394](https://github.com/flutter/flutter/pull/182394) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182394) 116 additions and 21 deletions in 3 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show warning when plugins do not support SwiftPM<br />
   <sub>[#182506](https://github.com/flutter/flutter/pull/182506) opened on on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182506) 36 additions and 4 deletions in 2 files</sub><br />
 
