@@ -179,3 +179,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove `ExtendSelectionByPageIntent`<br />
   <sub>[#182642](https://github.com/flutter/flutter/pull/182642) opened on on February 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182642) 0 additions and 56 deletions in 2 files</sub><br />
 
+* **[Hari07](https://github.com/Hari-07)** &mdash; Implements `ClipRSuperellipse` on backdrop filter on platform view<br />
+  <sub>[#182643](https://github.com/flutter/flutter/pull/182643) opened on on February 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182643) 120 additions and 2 deletions in 4 files</sub><br />
+
