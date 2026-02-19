@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-30 commits.
+31 commits.
 
 * **[Akhil George](https://github.com/akhil-ge0rge)** &mdash; Fix(Material): DateRangePicker ignores DatePickerTheme.dayShape<br />
   <sub>[#181658](https://github.com/flutter/flutter/pull/181658) merged on February 18, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/181658) over 2 weeks, 67 additions and 9 deletions in 2 files</sub><br />
@@ -78,6 +78,10 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Clean up cross imports in single_child_scroll_view_test.dart, decorated_sliver_test.dart, draggable_scrollable_sheet_test.dart<br />
   <sub>[#181613](https://github.com/flutter/flutter/pull/181613) merged on February 18, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/181613) over 2 weeks, 176 additions and 160 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Marks Mac_arm64_mokey entrypoint_dart_registrant unflaky<br />
+  <sub>[#181648](https://github.com/flutter/flutter/pull/181648) merged on February 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181648) over 3 weeks, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from Modal barrier tests<br />
   <sub>[#181708](https://github.com/flutter/flutter/pull/181708) merged on February 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181708) over 2 weeks, 23 additions and 23 deletions in 2 files</sub><br />
