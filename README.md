@@ -768,7 +768,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-32 commits.
+33 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature <br />
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub><br />
@@ -805,6 +805,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Improve iOS shared code validation<br />
   <sub>[#11070](https://github.com/flutter/packages/pull/11070) merged on February 20, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/11070) over 1 day, 452 additions and 168 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[Rick Hohler](https://github.com/rickhohler)** &mdash; [webview_flutter_wkwebview] Fix crash when calling setOnConsoleMessage multiple times<br />
+  <sub>[#10922](https://github.com/flutter/packages/pull/10922) merged on February 20, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/10922) over 3 weeks, 38 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Steven Landow](https://github.com/stevenctl)** &mdash; [vector_graphics_compiler] support percentage units SVG shape attributes<br />
   <sub>[#10577](https://github.com/flutter/packages/pull/10577) merged on February 18, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/10577) over 2 months, 155 additions and 5 deletions in 5 files</sub><br />
