@@ -748,7 +748,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-30 commits.
+32 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature 
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub>
@@ -814,6 +814,10 @@
   <sub>[#10904](https://github.com/flutter/packages/pull/10904) merged on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/10904) over 3 weeks, 24 additions and 8 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Kallen Tu](https://github.com/kallentu)** &mdash; [rfw] Remove old TODOs for code block languages.
+  <sub>[#11080](https://github.com/flutter/packages/pull/11080) merged on February 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11080) over 21 hours, 0 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; [cupertino_ui, material_ui] Fix capitalization in README section headers
   <sub>[#11058](https://github.com/flutter/packages/pull/11058) merged on February 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11058) over 15 hours, 4 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -821,6 +825,10 @@
 * **[Google Admin](https://github.com/google-admin)** &mdash; Refactor Github Action per b/485167538
   <sub>[#11051](https://github.com/flutter/packages/pull/11051) merged on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11051) over 1 hour, 6 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [google_maps_flutter] Remove usesCleartextTraffic 
+  <sub>[#11079](https://github.com/flutter/packages/pull/11079) merged on February 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11079) over 1 day, 1 addition and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [interactive_media_ads] Remove usesCleartextTraffic 
   <sub>[#11065](https://github.com/flutter/packages/pull/11065) merged on February 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11065) over 1 day, 1 addition and 1 deletion in 1 file</sub>
