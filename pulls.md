@@ -9,7 +9,7 @@
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[JHubi1](https://github.com/JHubi1)** &mdash; [`FlexibleSpaceBar`] `expandedTitlePadding` and `titleCurve`<br />
-  <sub>[#176863](https://github.com/flutter/flutter/pull/176863) opened on on October 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/176863) 61 additions and 19 deletions in 2 files</sub><br />
+  <sub>[#176863](https://github.com/flutter/flutter/pull/176863) opened on on October 10, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/176863) 61 additions and 19 deletions in 2 files</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
