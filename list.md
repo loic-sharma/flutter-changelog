@@ -992,15 +992,23 @@
 
 ### February 14, 2026 to February 20, 2026
 
-10 commits.
+13 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a recipe for the record package
   <sub>[#13075](https://github.com/flutter/website/pull/13075) merged on February 19, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/website/pull/13075) over 6 days, 175 additions and 15 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up and follow-up from recent release-related PRs
+  <sub>[#13064](https://github.com/flutter/website/pull/13064) merged on February 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13064) over 1 week, 22 additions and 18 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Hamza Gohar](https://github.com/HamzaGohar-2k23-BSCS-249)** &mdash; Typo in implicit-animations.md
   <sub>[#13076](https://github.com/flutter/website/pull/13076) merged on February 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13076) over 2 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Mark the site as documenting 3.41
+  <sub>[#13098](https://github.com/flutter/website/pull/13098) merged on February 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13098) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update some doc links
   <sub>[#13096](https://github.com/flutter/website/pull/13096) merged on February 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13096) over 6 hours, 3 additions and 3 deletions in 3 files</sub>
@@ -1013,6 +1021,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Include site sections on mobile sidenav
   <sub>[#13085](https://github.com/flutter/website/pull/13085) merged on February 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13085) over 8 hours, 23 additions and 25 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a recipe for the flutter_soloud package
+  <sub>[#13097](https://github.com/flutter/website/pull/13097) merged on February 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13097) over 16 hours, 212 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[Mate Narh](https://github.com/spartaninzaghi)** &mdash; Typo Fix: Rename ContactsListPage to ContactListsPage
   <sub>[#13091](https://github.com/flutter/website/pull/13091) merged on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13091) over 1 day, 1 addition and 1 deletion in 1 file</sub>

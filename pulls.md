@@ -198,11 +198,14 @@
   <sub>[#182663](https://github.com/flutter/flutter/pull/182663) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182663) 52 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor bin/ shell scripts for better performance and safety<br />
-  <sub>[#182674](https://github.com/flutter/flutter/pull/182674) opened on on February 20, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/182674) 32 additions and 34 deletions in 8 files</sub><br />
+  <sub>[#182674](https://github.com/flutter/flutter/pull/182674) opened on on February 20, 2026 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/182674) 53 additions and 55 deletions in 19 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix Chat invite link<br />
   <sub>[#182675](https://github.com/flutter/flutter/pull/182675) opened on on February 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182675) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor Windows .ps1 executable scripts<br />
   <sub>[#182676](https://github.com/flutter/flutter/pull/182676) opened on on February 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182676) 3 additions and 3 deletions in 2 files</sub><br />
+
+* **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; fix: Rename noFrequencyBasedMinification to useFrequencyBasedMinifica…<br />
+  <sub>[#182679](https://github.com/flutter/flutter/pull/182679) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182679) 12 additions and 11 deletions in 3 files</sub><br />
 
