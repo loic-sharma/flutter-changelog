@@ -1059,7 +1059,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a recipe for the flutter_soloud package
-  <sub>[#13097](https://github.com/flutter/website/pull/13097) merged on February 20, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13097) over 16 hours, 212 additions and 2 deletions in 2 files</sub>
+  <sub>[#13097](https://github.com/flutter/website/pull/13097) merged on February 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13097) over 16 hours, 212 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Khanh Nguyen](https://github.com/khanhnwin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[Mate Narh](https://github.com/spartaninzaghi)** &mdash; Typo Fix: Rename ContactsListPage to ContactListsPage
