@@ -207,5 +207,5 @@
   <sub>[#182688](https://github.com/flutter/flutter/pull/182688) opened on on February 20, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/182688) 320 additions and 85 deletions in 6 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Call dart::bin::Platform::Initialize during Dart VM startup<br />
-  <sub>[#182689](https://github.com/flutter/flutter/pull/182689) opened on on February 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182689) 21 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#182689](https://github.com/flutter/flutter/pull/182689) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182689) 21 additions and 0 deletions in 3 files</sub><br />
 
