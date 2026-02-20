@@ -179,12 +179,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move widget_preview_scaffold into pub workspace<br />
   <sub>[#182627](https://github.com/flutter/flutter/pull/182627) opened on on February 19, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/182627) 256 additions and 54 deletions in 3 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove `ExtendSelectionByPageIntent`<br />
-  <sub>[#182642](https://github.com/flutter/flutter/pull/182642) opened on on February 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182642) 0 additions and 56 deletions in 2 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update CHANGELOG for 3.41.2 stable hotfix<br />
-  <sub>[#182647](https://github.com/flutter/flutter/pull/182647) opened on on February 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182647) 7 additions and 0 deletions in 1 file</sub><br />
-
 * **[Zulkhaif Ahmed](https://github.com/zulkaif121)** &mdash; Fix TestBorder cross-import in material_test.dart (#182636)<br />
   <sub>[#182650](https://github.com/flutter/flutter/pull/182650) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182650) 37 additions and 1 deletion in 2 files</sub><br />
 
