@@ -27,6 +27,10 @@
   <sub>[#180802](https://github.com/flutter/flutter/pull/180802) merged on February 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180802) over 1 month, 39 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [jesswrd](https://github.com/jesswrd)</sub>
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland #179643, only scroll hit-testable primary scroll views on status bar tap
+  <sub>[#182391](https://github.com/flutter/flutter/pull/182391) merged on February 19, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/182391) over 6 days, 523 additions and 178 deletions in 20 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Nour](https://github.com/MohammedTarigg)** &mdash; flutter_tools: Copy vendored frameworks from plugin podspecs in ios/macos-framework builds
   <sub>[#180135](https://github.com/flutter/flutter/pull/180135) merged on February 18, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/180135) over 2 months, 1025 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
@@ -38,10 +42,6 @@
 * **[walley892](https://github.com/walley892)** &mdash; Implement getUniformMatX and getUniformMatXArray functionality on web
   <sub>[#182249](https://github.com/flutter/flutter/pull/182249) merged on February 17, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/182249) over 5 days, 1275 additions and 23 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland #179643, only scroll hit-testable primary scroll views on status bar tap
-  <sub>[#182391](https://github.com/flutter/flutter/pull/182391) merged on February 19, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/182391) over 6 days, 523 additions and 178 deletions in 20 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Remove specific iOS extended attributes to fix code signing
   <sub>[#180710](https://github.com/flutter/flutter/pull/180710) merged on February 19, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/180710) over 1 month, 316 additions and 95 deletions in 7 files</sub>

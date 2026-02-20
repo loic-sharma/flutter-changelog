@@ -207,7 +207,7 @@
   <sub>[#182676](https://github.com/flutter/flutter/pull/182676) opened on on February 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182676) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Fix Android Studio pluginsPath when version is unknown (do not use 0.0)<br />
-  <sub>[#182681](https://github.com/flutter/flutter/pull/182681) opened on on February 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182681) 49 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#182681](https://github.com/flutter/flutter/pull/182681) opened on on February 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182681) 68 additions and 12 deletions in 2 files</sub><br />
 
 * **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Rename noFrequencyBasedMinification to useFrequencyBasedMinification<br />
   <sub>[#182684](https://github.com/flutter/flutter/pull/182684) opened on on February 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182684) 12 additions and 11 deletions in 3 files</sub><br />
