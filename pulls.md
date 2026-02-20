@@ -176,9 +176,6 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Remove iOS build configuration check when building with flavors<br />
   <sub>[#182610](https://github.com/flutter/flutter/pull/182610) opened on on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182610) 69 additions and 47 deletions in 2 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move widget_preview_scaffold into pub workspace<br />
-  <sub>[#182627](https://github.com/flutter/flutter/pull/182627) opened on on February 19, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/182627) 256 additions and 54 deletions in 3 files</sub><br />
-
 * **[Zulkhaif Ahmed](https://github.com/zulkaif121)** &mdash; Fix TestBorder cross-import in material_test.dart (#182636)<br />
   <sub>[#182650](https://github.com/flutter/flutter/pull/182650) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182650) 37 additions and 1 deletion in 2 files</sub><br />
 
