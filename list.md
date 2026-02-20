@@ -748,7 +748,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-27 commits.
+28 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature 
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub>
@@ -817,6 +817,10 @@
 * **[Google Admin](https://github.com/google-admin)** &mdash; Refactor Github Action per b/485167538
   <sub>[#11051](https://github.com/flutter/packages/pull/11051) merged on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11051) over 1 hour, 6 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [interactive_media_ads] Remove usesCleartextTraffic 
+  <sub>[#11065](https://github.com/flutter/packages/pull/11065) merged on February 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11065) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [image_picker] Remove usesCleartextTraffic
   <sub>[#11076](https://github.com/flutter/packages/pull/11076) merged on February 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11076) over 5 hours, 1 addition and 2 deletions in 2 files</sub>
