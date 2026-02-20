@@ -99,7 +99,7 @@
   <sub>[#182092](https://github.com/flutter/flutter/pull/182092) opened on on February 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182092) 37 additions and 1 deletion in 3 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove FlutterFramework app migration<br />
-  <sub>[#182100](https://github.com/flutter/flutter/pull/182100) opened on on February 9, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/182100) 347 additions and 755 deletions in 11 files</sub><br />
+  <sub>[#182100](https://github.com/flutter/flutter/pull/182100) opened on on February 9, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/182100) 343 additions and 749 deletions in 11 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate print tasks to use configuration avoidance api<br />
   <sub>[#182119](https://github.com/flutter/flutter/pull/182119) opened on on February 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182119) 115 additions and 48 deletions in 5 files</sub><br />
@@ -201,5 +201,8 @@
   <sub>[#182674](https://github.com/flutter/flutter/pull/182674) opened on on February 20, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/182674) 32 additions and 34 deletions in 8 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix Chat invite link<br />
-  <sub>[#182675](https://github.com/flutter/flutter/pull/182675) opened on on February 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182675) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#182675](https://github.com/flutter/flutter/pull/182675) opened on on February 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182675) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor Windows .ps1 executable scripts<br />
+  <sub>[#182676](https://github.com/flutter/flutter/pull/182676) opened on on February 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182676) 3 additions and 3 deletions in 2 files</sub><br />
 
