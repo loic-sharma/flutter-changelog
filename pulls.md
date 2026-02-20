@@ -197,3 +197,9 @@
 * **[Jhonacode](https://github.com/JhonaCodes)** &mdash; Fix SelectionArea handles overlapping context menu on Android<br />
   <sub>[#182663](https://github.com/flutter/flutter/pull/182663) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182663) 52 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor bin/ shell scripts for better performance and safety<br />
+  <sub>[#182674](https://github.com/flutter/flutter/pull/182674) opened on on February 20, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/182674) 32 additions and 34 deletions in 8 files</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix Chat invite link<br />
+  <sub>[#182675](https://github.com/flutter/flutter/pull/182675) opened on on February 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182675) 1 addition and 1 deletion in 1 file</sub><br />
+
