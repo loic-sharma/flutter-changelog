@@ -186,5 +186,5 @@
   <sub>[#182650](https://github.com/flutter/flutter/pull/182650) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182650) 37 additions and 1 deletion in 2 files</sub><br />
 
 * **[Laurent PAGE](https://github.com/pagetronic)** &mdash; Allows customization of the mouse cursor via ThemeData for InkWell/InkResponse<br />
-  <sub>[#182652](https://github.com/flutter/flutter/pull/182652) opened on on February 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182652) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#182652](https://github.com/flutter/flutter/pull/182652) opened on on February 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182652) 3 additions and 1 deletion in 1 file</sub><br />
 
