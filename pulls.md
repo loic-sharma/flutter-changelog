@@ -191,3 +191,6 @@
 * **[Hari07](https://github.com/Hari-07)** &mdash; Improve non rect platform view rendering <br />
   <sub>[#182662](https://github.com/flutter/flutter/pull/182662) opened on on February 20, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182662) 132 additions and 7 deletions in 4 files</sub><br />
 
+* **[Jhonacode](https://github.com/JhonaCodes)** &mdash; Fix SelectionArea handles overlapping context menu on Android<br />
+  <sub>[#182663](https://github.com/flutter/flutter/pull/182663) opened on on February 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182663) 2 additions and 1 deletion in 1 file</sub><br />
+
