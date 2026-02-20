@@ -112,7 +112,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Don't compile shaders to SkSL unless --sksl arg is present
-  <sub>[#182519](https://github.com/flutter/flutter/pull/182519) merged on February 20, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/182519) over 2 days, 239 additions and 296 deletions in 14 files</sub>
+  <sub>[#182519](https://github.com/flutter/flutter/pull/182519) merged on February 20, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/182519) over 2 days, 239 additions and 296 deletions in 14 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add RawTooltip.ignorePointer
