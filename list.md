@@ -4,7 +4,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-41 commits.
+43 commits.
 
 * **[Akhil George](https://github.com/akhil-ge0rge)** &mdash; Fix(Material): DateRangePicker ignores DatePickerTheme.dayShape
   <sub>[#181658](https://github.com/flutter/flutter/pull/181658) merged on February 18, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/181658) over 2 weeks, 67 additions and 9 deletions in 2 files</sub>
@@ -39,6 +39,10 @@
   <sub>[#182249](https://github.com/flutter/flutter/pull/182249) merged on February 17, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/182249) over 5 days, 1275 additions and 23 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland #179643, only scroll hit-testable primary scroll views on status bar tap
+  <sub>[#182391](https://github.com/flutter/flutter/pull/182391) merged on February 19, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/182391) over 6 days, 523 additions and 178 deletions in 20 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Muhammad Saqib Javed](https://github.com/Saqib198)** &mdash; Remove specific iOS extended attributes to fix code signing
   <sub>[#180710](https://github.com/flutter/flutter/pull/180710) merged on February 19, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/180710) over 1 month, 316 additions and 95 deletions in 7 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
@@ -51,6 +55,18 @@
   <sub>[#181267](https://github.com/flutter/flutter/pull/181267) merged on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/181267) over 4 weeks, 11 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove Material import from scroll_view_test.dart
+  <sub>[#181281](https://github.com/flutter/flutter/pull/181281) merged on February 19, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/181281) over 4 weeks, 588 additions and 593 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update create template to always generate both SwiftPM and CocoaPods support for iOS/macOS plugins
+  <sub>[#181251](https://github.com/flutter/flutter/pull/181251) merged on February 19, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/181251) over 4 weeks, 308 additions and 115 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate abi build paths to use new abi filtering api #AGP9
+  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) merged on February 19, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/181828) over 2 weeks, 185 additions and 76 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd), [Gray Mackall](https://github.com/gmackall)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give guided error message when CocoaPod and SwiftPM dependency conflicts
   <sub>[#182392](https://github.com/flutter/flutter/pull/182392) merged on February 18, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/182392) over 5 days, 152 additions and 13 deletions in 5 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
@@ -59,25 +75,13 @@
   <sub>[#180556](https://github.com/flutter/flutter/pull/180556) merged on February 18, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/180556) over 1 month, 224 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update create template to always generate both SwiftPM and CocoaPods support for iOS/macOS plugins
-  <sub>[#181251](https://github.com/flutter/flutter/pull/181251) merged on February 19, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/181251) over 4 weeks, 308 additions and 115 deletions in 7 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove Material import from scroll_view_test.dart
-  <sub>[#181281](https://github.com/flutter/flutter/pull/181281) merged on February 19, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/181281) over 4 weeks, 588 additions and 593 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from interactive_viewer_test.dart
-  <sub>[#181465](https://github.com/flutter/flutter/pull/181465) merged on February 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181465) over 3 weeks, 296 additions and 468 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
-
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "[Android] Add mechanism for setting Android engine flags via …
   <sub>[#182388](https://github.com/flutter/flutter/pull/182388) merged on February 17, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182388) over 3 days, 567 additions and 2017 deletions in 24 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate abi build paths to use new abi filtering api #AGP9
-  <sub>[#181828](https://github.com/flutter/flutter/pull/181828) merged on February 19, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/181828) over 2 weeks, 185 additions and 76 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd), [Gray Mackall](https://github.com/gmackall)</sub>
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from interactive_viewer_test.dart
+  <sub>[#181465](https://github.com/flutter/flutter/pull/181465) merged on February 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/181465) over 3 weeks, 296 additions and 468 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] RangeSlider  mouse interaction should change keyboard focus
   <sub>[#182185](https://github.com/flutter/flutter/pull/182185) merged on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182185) over 6 days, 187 additions and 2 deletions in 2 files</sub>
@@ -123,13 +127,17 @@
   <sub>[#181951](https://github.com/flutter/flutter/pull/181951) merged on February 19, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/181951) over 1 week, 77 additions and 149 deletions in 4 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark stable vulkan platform view tests as bringup
+  <sub>[#182554](https://github.com/flutter/flutter/pull/182554) merged on February 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182554) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Skia from 7bbdc51ab0aa to ce5854495a3a
   <sub>[#182637](https://github.com/flutter/flutter/pull/182637) merged on February 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182637) over 2 hours, 5 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unmark stable vulkan platform view tests as bringup
-  <sub>[#182554](https://github.com/flutter/flutter/pull/182554) merged on February 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182554) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace References to `flutter/engine` with `flutter/flutter`
+  <sub>[#182600](https://github.com/flutter/flutter/pull/182600) merged on February 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182600) over 12 hours, 11 additions and 10 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]add integration test for original untappable web view link behind context menu bug
   <sub>[#182111](https://github.com/flutter/flutter/pull/182111) merged on February 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182111) over 1 week, 174 additions and 0 deletions in 6 files</sub>

@@ -177,5 +177,5 @@
   <sub>[#182642](https://github.com/flutter/flutter/pull/182642) opened on on February 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182642) 0 additions and 56 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update CHANGELOG for 3.41.2 stable hotfix<br />
-  <sub>[#182647](https://github.com/flutter/flutter/pull/182647) opened on on February 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182647) 7 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#182647](https://github.com/flutter/flutter/pull/182647) opened on on February 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182647) 7 additions and 0 deletions in 1 file</sub><br />
 
