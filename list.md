@@ -748,7 +748,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-28 commits.
+30 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature 
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub>
@@ -781,6 +781,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [google_maps_flutter_ios] Migrate to UIScene
   <sub>[#11001](https://github.com/flutter/packages/pull/11001) merged on February 19, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11001) over 1 week, 81 additions and 38 deletions in 21 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Improve iOS shared code validation
+  <sub>[#11070](https://github.com/flutter/packages/pull/11070) merged on February 20, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/11070) over 1 day, 452 additions and 168 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Steven Landow](https://github.com/stevenctl)** &mdash; [vector_graphics_compiler] support percentage units SVG shape attributes
   <sub>[#10577](https://github.com/flutter/packages/pull/10577) merged on February 18, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/10577) over 2 months, 155 additions and 5 deletions in 5 files</sub>
@@ -861,6 +865,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update release to 3.41
   <sub>[#11014](https://github.com/flutter/packages/pull/11014) merged on February 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11014) over 4 days, 22 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "#167410: _initCalled completed twice (#9694)"
+  <sub>[#11084](https://github.com/flutter/packages/pull/11084) merged on February 20, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11084) over 3 hours, 96 additions and 81 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 ### February 7, 2026 to February 13, 2026
 
