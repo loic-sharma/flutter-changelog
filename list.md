@@ -988,7 +988,7 @@
 
 ### February 14, 2026 to February 20, 2026
 
-9 commits.
+10 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a recipe for the record package
   <sub>[#13075](https://github.com/flutter/website/pull/13075) merged on February 19, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/website/pull/13075) over 6 days, 175 additions and 15 deletions in 4 files</sub>
@@ -996,6 +996,10 @@
 
 * **[Hamza Gohar](https://github.com/HamzaGohar-2k23-BSCS-249)** &mdash; Typo in implicit-animations.md
   <sub>[#13076](https://github.com/flutter/website/pull/13076) merged on February 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13076) over 2 days, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update some doc links
+  <sub>[#13096](https://github.com/flutter/website/pull/13096) merged on February 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13096) over 6 hours, 3 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update links to learning resources page
