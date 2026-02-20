@@ -188,3 +188,6 @@
 * **[Laurent PAGE](https://github.com/pagetronic)** &mdash; Allows customization of the mouse cursor via ThemeData for InkWell/InkResponse<br />
   <sub>[#182652](https://github.com/flutter/flutter/pull/182652) opened on on February 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182652) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[Hari07](https://github.com/Hari-07)** &mdash; Improve non rect platform view rendering <br />
+  <sub>[#182662](https://github.com/flutter/flutter/pull/182662) opened on on February 20, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182662) 132 additions and 7 deletions in 4 files</sub><br />
+
