@@ -1059,8 +1059,8 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a recipe for the flutter_soloud package
-  <sub>[#13097](https://github.com/flutter/website/pull/13097) merged on February 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13097) over 16 hours, 212 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub>
+  <sub>[#13097](https://github.com/flutter/website/pull/13097) merged on February 20, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13097) over 16 hours, 212 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Khanh Nguyen](https://github.com/khanhnwin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[Mate Narh](https://github.com/spartaninzaghi)** &mdash; Typo Fix: Rename ContactsListPage to ContactListsPage
   <sub>[#13091](https://github.com/flutter/website/pull/13091) merged on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13091) over 1 day, 1 addition and 1 deletion in 1 file</sub>
