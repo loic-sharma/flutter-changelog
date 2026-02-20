@@ -179,3 +179,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update CHANGELOG for 3.41.2 stable hotfix<br />
   <sub>[#182647](https://github.com/flutter/flutter/pull/182647) opened on on February 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182647) 7 additions and 0 deletions in 1 file</sub><br />
 
+* **[Zulkhaif Ahmed](https://github.com/zulkaif121)** &mdash; Fix TestBorder cross-import in material_test.dart (#182636)<br />
+  <sub>[#182650](https://github.com/flutter/flutter/pull/182650) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182650) 37 additions and 1 deletion in 2 files</sub><br />
+
