@@ -185,6 +185,9 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Move more getters from userMessages class to the appropriate places<br />
   <sub>[#182656](https://github.com/flutter/flutter/pull/182656) opened on on February 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182656) 91 additions and 87 deletions in 6 files</sub><br />
 
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [ios][engine] Fix keyboard flicker when switching text fields<br />
+  <sub>[#182661](https://github.com/flutter/flutter/pull/182661) opened on on February 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182661) 124 additions and 12 deletions in 2 files</sub><br />
+
 * **[Hari07](https://github.com/Hari-07)** &mdash; Improve non rect platform view rendering <br />
   <sub>[#182662](https://github.com/flutter/flutter/pull/182662) opened on on February 20, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182662) 132 additions and 7 deletions in 4 files</sub><br />
 
