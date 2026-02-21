@@ -138,7 +138,7 @@
   <sub>[#182371](https://github.com/flutter/flutter/pull/182371) opened on on February 13, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/182371) 936 additions and 54 deletions in 17 files</sub><br />
 
 * **[Nour](https://github.com/MohammedTarigg)** &mdash; Improve SwiftPM minimum platform mismatch diagnostics<br />
-  <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182375) 177 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182375) 177 additions and 0 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show warning when plugins do not support SwiftPM<br />
   <sub>[#182506](https://github.com/flutter/flutter/pull/182506) opened on on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182506) 36 additions and 4 deletions in 2 files</sub><br />
@@ -228,5 +228,5 @@
   <sub>[#182709](https://github.com/flutter/flutter/pull/182709) opened on on February 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182709) 207 additions and 4 deletions in 6 files</sub><br />
 
 * **[Samuel Abada](https://github.com/Mastersam07)** &mdash; feat: Add --no-uninstall flag to flutter test for integration tests<br />
-  <sub>[#182714](https://github.com/flutter/flutter/pull/182714) opened on on February 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182714) 145 additions and 2 deletions in 5 files</sub><br />
+  <sub>[#182714](https://github.com/flutter/flutter/pull/182714) opened on on February 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182714) 145 additions and 2 deletions in 5 files</sub><br />
 
