@@ -215,3 +215,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll zlib to 7eda07b1e067<br />
   <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Samuel Abada](https://github.com/Mastersam07)** &mdash; feat: Add --base-href support to flutter run for web<br />
+  <sub>[#182709](https://github.com/flutter/flutter/pull/182709) opened on on February 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182709) 204 additions and 4 deletions in 6 files</sub><br />
+
