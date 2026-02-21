@@ -1087,7 +1087,7 @@
   <sub>Reviewed by: [Khanh Nguyen](https://github.com/khanhnwin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[Mate Narh](https://github.com/spartaninzaghi)** &mdash; Typo Fix: Rename ContactsListPage to ContactListsPage<br />
-  <sub>[#13091](https://github.com/flutter/website/pull/13091) merged on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13091) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#13091](https://github.com/flutter/website/pull/13091) merged on February 19, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13091) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Mention that UIScene is now the default<br />
