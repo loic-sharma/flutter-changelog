@@ -237,5 +237,5 @@
   <sub>[#182727](https://github.com/flutter/flutter/pull/182727) opened on on February 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182727) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Nikhil Bansal](https://github.com/nikb7)** &mdash; Enable inline text prediction on iOS (issue #135221)<br />
-  <sub>[#182728](https://github.com/flutter/flutter/pull/182728) opened on on February 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182728) 109 additions and 2 deletions in 8 files</sub><br />
+  <sub>[#182728](https://github.com/flutter/flutter/pull/182728) opened on on February 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182728) 237 additions and 5 deletions in 12 files</sub><br />
 
