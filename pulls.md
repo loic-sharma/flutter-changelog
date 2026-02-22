@@ -233,3 +233,6 @@
 * **[Samuel Abada](https://github.com/Mastersam07)** &mdash; feat: Add --no-uninstall flag to flutter test for integration tests<br />
   <sub>[#182714](https://github.com/flutter/flutter/pull/182714) opened on on February 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182714) 145 additions and 2 deletions in 5 files</sub><br />
 
+* **[Salvatore Pelligra](https://github.com/iazel)** &mdash; Enable SafeArea on Scaffold bottomSheet<br />
+  <sub>[#182727](https://github.com/flutter/flutter/pull/182727) opened on on February 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182727) 1 addition and 1 deletion in 1 file</sub><br />
+
