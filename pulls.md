@@ -221,6 +221,9 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Call dart::bin::Platform::Initialize during Dart VM startup<br />
   <sub>[#182689](https://github.com/flutter/flutter/pull/182689) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182689) 21 additions and 0 deletions in 3 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP-stable] fixes a status bar tap crash<br />
+  <sub>[#182691](https://github.com/flutter/flutter/pull/182691) opened on on February 20, 2026 &mdash; **Medium:** [31 comments](https://github.com/flutter/flutter/pull/182691) 332 additions and 93 deletions in 6 files</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll zlib to 7eda07b1e067<br />
   <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 1 addition and 1 deletion in 1 file</sub><br />
 
