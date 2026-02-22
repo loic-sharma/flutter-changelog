@@ -240,5 +240,5 @@
   <sub>[#182728](https://github.com/flutter/flutter/pull/182728) opened on on February 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182728) 186 additions and 5 deletions in 11 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `SizedBox.square()`<br />
-  <sub>[#182731](https://github.com/flutter/flutter/pull/182731) opened on on February 22, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182731) 731 additions and 1107 deletions in 104 files</sub><br />
+  <sub>[#182731](https://github.com/flutter/flutter/pull/182731) opened on on February 22, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182731) 734 additions and 1101 deletions in 104 files</sub><br />
 
