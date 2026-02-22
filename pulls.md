@@ -192,7 +192,7 @@
   <sub>[#182656](https://github.com/flutter/flutter/pull/182656) opened on on February 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182656) 91 additions and 87 deletions in 6 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `getPluginList `<br />
-  <sub>[#182660](https://github.com/flutter/flutter/pull/182660) opened on on February 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182660) 0 additions and 18 deletions in 1 file</sub><br />
+  <sub>[#182660](https://github.com/flutter/flutter/pull/182660) opened on on February 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182660) 0 additions and 18 deletions in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [ios][engine] Fix keyboard flicker when switching text fields<br />
   <sub>[#182661](https://github.com/flutter/flutter/pull/182661) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182661) 127 additions and 12 deletions in 2 files</sub><br />
