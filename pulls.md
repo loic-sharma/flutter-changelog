@@ -237,7 +237,7 @@
   <sub>[#182727](https://github.com/flutter/flutter/pull/182727) opened on on February 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182727) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Nikhil Bansal](https://github.com/nikb7)** &mdash; Enable inline text prediction on iOS (issue #135221)<br />
-  <sub>[#182728](https://github.com/flutter/flutter/pull/182728) opened on on February 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182728) 186 additions and 5 deletions in 11 files</sub><br />
+  <sub>[#182728](https://github.com/flutter/flutter/pull/182728) opened on on February 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182728) 184 additions and 5 deletions in 11 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `SizedBox.square()`<br />
   <sub>[#182731](https://github.com/flutter/flutter/pull/182731) opened on on February 22, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182731) 734 additions and 1101 deletions in 104 files</sub><br />
@@ -246,7 +246,7 @@
   <sub>[#182740](https://github.com/flutter/flutter/pull/182740) opened on on February 23, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/182740) 506 additions and 493 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Respect per-field autovalidateMode priority<br />
-  <sub>[#182752](https://github.com/flutter/flutter/pull/182752) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182752) 190 additions and 110 deletions in 4 files</sub><br />
+  <sub>[#182752](https://github.com/flutter/flutter/pull/182752) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182752) 182 additions and 81 deletions in 4 files</sub><br />
 
 * **[Jeff Ward](https://github.com/fuzzybinary)** &mdash; Add valuePublishedByPlugin to PluginRegistrar<br />
   <sub>[#182753](https://github.com/flutter/flutter/pull/182753) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182753) 14 additions and 0 deletions in 2 files</sub><br />
