@@ -15,7 +15,7 @@
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
-  <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
+  <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
 
 * **[LeeChenZe](https://github.com/leechenze)** &mdash; Add someone to the AUTHORS file.<br />
   <sub>[#178453](https://github.com/flutter/flutter/pull/178453) opened on on November 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178453) 1 addition and 0 deletions in 1 file</sub><br />
@@ -31,9 +31,6 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179810) 179 additions and 179 deletions in 10 files</sub><br />
-
-* **[Samasameh20](https://github.com/Samasameh20)** &mdash; sama<br />
-  <sub>[#179822](https://github.com/flutter/flutter/pull/179822) opened on on December 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/179822) 0 additions and 0 deletions in 1 file</sub><br />
 
 * **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
   <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/180131) 106 additions and 54 deletions in 2 files</sub><br />
@@ -213,5 +210,5 @@
   <sub>[#182789](https://github.com/flutter/flutter/pull/182789) opened on on February 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182789) 41 additions and 0 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add vmservices for accessibilityEvaluation<br />
-  <sub>[#182791](https://github.com/flutter/flutter/pull/182791) opened on on February 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182791) 364 additions and 109 deletions in 5 files</sub><br />
+  <sub>[#182791](https://github.com/flutter/flutter/pull/182791) opened on on February 23, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182791) 506 additions and 109 deletions in 5 files</sub><br />
 

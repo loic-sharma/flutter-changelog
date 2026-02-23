@@ -4,7 +4,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-7 commits.
+8 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Copy Flutter framework to Add to App FlutterPluginRgistrant
   <sub>[#182523](https://github.com/flutter/flutter/pull/182523) merged on February 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) over 5 days, 302 additions and 32 deletions in 2 files</sub>
@@ -17,6 +17,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor bin/ shell scripts for better performance and safety
   <sub>[#182674](https://github.com/flutter/flutter/pull/182674) merged on February 23, 2026 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/182674) over 2 days, 54 additions and 56 deletions in 19 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Move more getters from userMessages class to the appropriate places
+  <sub>[#182656](https://github.com/flutter/flutter/pull/182656) merged on February 23, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/182656) over 3 days, 91 additions and 87 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify batch release mode requirements
   <sub>[#182228](https://github.com/flutter/flutter/pull/182228) merged on February 23, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182228) over 1 week, 3 additions and 1 deletion in 1 file</sub>
@@ -821,7 +825,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-5 commits.
+6 commits.
 
 * **[Anderson André](https://github.com/Anderson-Andre-P)** &mdash; docs: reorganize Online Courses page by language and fix alphabetical…
   <sub>[#13104](https://github.com/flutter/website/pull/13104) merged on February 23, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13104) over 1 day, 35 additions and 14 deletions in 1 file</sub>
@@ -833,6 +837,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Small clean up and fixes to recent audio cookbook recipes
   <sub>[#13101](https://github.com/flutter/website/pull/13101) merged on February 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13101) over 2 days, 48 additions and 61 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Anderson André](https://github.com/Anderson-Andre-P)** &mdash; fix: remove duplicate course
+  <sub>[#13110](https://github.com/flutter/website/pull/13110) merged on February 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13110) over 3 hours, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Ryota Kobayashi](https://github.com/naipaka)** &mdash; Fix incorrect path for generated bindings in package_ffi docs
