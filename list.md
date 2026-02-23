@@ -553,9 +553,22 @@
 
 ## flutter/packages
 
+### February 21, 2026 to February 27, 2026
+
+2 commits.
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter_platform_interface] Add iOS warning for PinConfig 
+  <sub>[#11100](https://github.com/flutter/packages/pull/11100) merged on February 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11100) over 4 hours, 17 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 44a626f4f002 to 90673a4eef27 (10 revisions)
+  <sub>[#11090](https://github.com/flutter/packages/pull/11090) merged on February 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11090) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 ### February 14, 2026 to February 20, 2026
 
-33 commits.
+<details>
+<summary>33 commits...</summary>
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] Adds audio track metadata fetching and audio track selection feature 
   <sub>[#9925](https://github.com/flutter/packages/pull/9925) merged on February 17, 2026 &mdash; **Large:** [150 comments](https://github.com/flutter/packages/pull/9925) over 5 months, 916 additions and 54 deletions in 7 files</sub>
@@ -688,6 +701,8 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Revert "#167410: _initCalled completed twice (#9694)"
   <sub>[#11084](https://github.com/flutter/packages/pull/11084) merged on February 20, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11084) over 3 hours, 96 additions and 81 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+</details>
 
 ### February 7, 2026 to February 13, 2026
 

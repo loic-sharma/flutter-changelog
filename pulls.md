@@ -135,7 +135,7 @@
   <sub>[#182366](https://github.com/flutter/flutter/pull/182366) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Implement popup windows for macOS<br />
-  <sub>[#182371](https://github.com/flutter/flutter/pull/182371) opened on on February 13, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/182371) 936 additions and 54 deletions in 17 files</sub><br />
+  <sub>[#182371](https://github.com/flutter/flutter/pull/182371) opened on on February 13, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/182371) 980 additions and 54 deletions in 18 files</sub><br />
 
 * **[Nour](https://github.com/MohammedTarigg)** &mdash; Improve SwiftPM minimum platform mismatch diagnostics<br />
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182375) 177 additions and 0 deletions in 2 files</sub><br />
