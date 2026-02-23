@@ -784,9 +784,18 @@
 
 ## flutter/website
 
+### February 21, 2026 to February 27, 2026
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Small clean up and fixes to recent audio cookbook recipes
+  <sub>[#13101](https://github.com/flutter/website/pull/13101) merged on February 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13101) over 2 days, 48 additions and 61 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### February 14, 2026 to February 20, 2026
 
-13 commits.
+<details>
+<summary>13 commits...</summary>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a recipe for the record package
   <sub>[#13075](https://github.com/flutter/website/pull/13075) merged on February 19, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/website/pull/13075) over 6 days, 175 additions and 15 deletions in 4 files</sub>
@@ -839,6 +848,8 @@
 * **[IMØ](https://github.com/warioddly)** &mdash; Rename onPressed to nextArticleCallback in ArticlePage
   <sub>[#13066](https://github.com/flutter/website/pull/13066) merged on February 16, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13066) over 3 days, 5 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### February 7, 2026 to February 13, 2026
 

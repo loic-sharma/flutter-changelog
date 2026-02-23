@@ -108,7 +108,7 @@
   <sub>[#182224](https://github.com/flutter/flutter/pull/182224) opened on on February 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182224) 23 additions and 2 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify batch release mode requirements<br />
-  <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#182228](https://github.com/flutter/flutter/pull/182228) opened on on February 11, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182228) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Prompt plugin authors to add Swift Package Manager compatibility to their plugin<br />
   <sub>[#182246](https://github.com/flutter/flutter/pull/182246) opened on on February 11, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/182246) 510 additions and 0 deletions in 2 files</sub><br />
@@ -187,9 +187,6 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace an instance of flutter/engine with flutter/flutter<br />
   <sub>[#182655](https://github.com/flutter/flutter/pull/182655) opened on on February 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182655) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `getPluginList `<br />
-  <sub>[#182660](https://github.com/flutter/flutter/pull/182660) opened on on February 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182660) 0 additions and 18 deletions in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [ios][engine] Fix keyboard flicker when switching text fields<br />
   <sub>[#182661](https://github.com/flutter/flutter/pull/182661) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182661) 127 additions and 12 deletions in 2 files</sub><br />
