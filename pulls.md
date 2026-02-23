@@ -209,9 +209,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `SizedBox.square()`<br />
   <sub>[#182731](https://github.com/flutter/flutter/pull/182731) opened on on February 22, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182731) 734 additions and 1101 deletions in 104 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Respect per-field autovalidateMode priority<br />
-  <sub>[#182752](https://github.com/flutter/flutter/pull/182752) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182752) 182 additions and 81 deletions in 4 files</sub><br />
-
 * **[Jeff Ward](https://github.com/fuzzybinary)** &mdash; Add valuePublishedByPlugin to PluginRegistrar<br />
   <sub>[#182753](https://github.com/flutter/flutter/pull/182753) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182753) 14 additions and 0 deletions in 2 files</sub><br />
 
