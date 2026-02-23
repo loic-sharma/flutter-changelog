@@ -195,7 +195,7 @@
   <sub>[#182689](https://github.com/flutter/flutter/pull/182689) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182689) 21 additions and 0 deletions in 3 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll zlib to 7eda07b1e067<br />
-  <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 2 additions and 23 deletions in 2 files</sub><br />
 
 * **[Samuel Abada](https://github.com/Mastersam07)** &mdash; feat: Add --base-href support to flutter run for web<br />
   <sub>[#182709](https://github.com/flutter/flutter/pull/182709) opened on on February 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182709) 207 additions and 4 deletions in 6 files</sub><br />
@@ -216,5 +216,8 @@
   <sub>[#182778](https://github.com/flutter/flutter/pull/182778) opened on on February 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182778) 25 additions and 1 deletion in 1 file</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
-  <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182785) 42 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182785) 40 additions and 1 deletion in 2 files</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y][Web] Support isAccessibilityFocusBlocked flag on web<br />
+  <sub>[#182789](https://github.com/flutter/flutter/pull/182789) opened on on February 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182789) 41 additions and 0 deletions in 2 files</sub><br />
 
