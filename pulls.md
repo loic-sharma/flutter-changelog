@@ -104,9 +104,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate print tasks to use configuration avoidance api<br />
   <sub>[#182119](https://github.com/flutter/flutter/pull/182119) opened on on February 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182119) 115 additions and 48 deletions in 5 files</sub><br />
 
-* **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Use bilinear filtering for non-uniform scaled text<br />
-  <sub>[#182224](https://github.com/flutter/flutter/pull/182224) opened on on February 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182224) 23 additions and 2 deletions in 1 file</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Prompt plugin authors to add Swift Package Manager compatibility to their plugin<br />
   <sub>[#182246](https://github.com/flutter/flutter/pull/182246) opened on on February 11, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/182246) 510 additions and 0 deletions in 2 files</sub><br />
 
@@ -221,9 +218,6 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: add code review guidance to CONTRIBUTING.md<br />
   <sub>[#182778](https://github.com/flutter/flutter/pull/182778) opened on on February 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182778) 25 additions and 1 deletion in 1 file</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Refactor impellerc_main to better organize some of its logic<br />
-  <sub>[#182783](https://github.com/flutter/flutter/pull/182783) opened on on February 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182783) 92 additions and 80 deletions in 1 file</sub><br />
-
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
-  <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182785) 42 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182785) 42 additions and 1 deletion in 2 files</sub><br />
 
