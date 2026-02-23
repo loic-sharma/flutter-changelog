@@ -809,7 +809,11 @@
 
 ### February 21, 2026 to February 27, 2026
 
-3 commits.
+5 commits.
+
+* **[Anderson André](https://github.com/Anderson-Andre-P)** &mdash; docs: reorganize Online Courses page by language and fix alphabetical…
+  <sub>[#13104](https://github.com/flutter/website/pull/13104) merged on February 23, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13104) over 1 day, 35 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to jaspr_content version 0.5.0
   <sub>[#13108](https://github.com/flutter/website/pull/13108) merged on February 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13108) over 6 hours, 4 additions and 4 deletions in 2 files</sub>
@@ -817,6 +821,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Small clean up and fixes to recent audio cookbook recipes
   <sub>[#13101](https://github.com/flutter/website/pull/13101) merged on February 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13101) over 2 days, 48 additions and 61 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Ryota Kobayashi](https://github.com/naipaka)** &mdash; Fix incorrect path for generated bindings in package_ffi docs
+  <sub>[#13100](https://github.com/flutter/website/pull/13100) merged on February 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13100) over 2 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; Fix grammar and improve phrasing in README
