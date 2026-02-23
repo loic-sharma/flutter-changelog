@@ -204,7 +204,7 @@
   <sub>[#182663](https://github.com/flutter/flutter/pull/182663) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182663) 52 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor bin/ shell scripts for better performance and safety<br />
-  <sub>[#182674](https://github.com/flutter/flutter/pull/182674) opened on on February 20, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/182674) 54 additions and 56 deletions in 19 files</sub><br />
+  <sub>[#182674](https://github.com/flutter/flutter/pull/182674) opened on on February 20, 2026 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/182674) 54 additions and 56 deletions in 19 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor Windows .ps1 executable scripts<br />
   <sub>[#182676](https://github.com/flutter/flutter/pull/182676) opened on on February 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182676) 3 additions and 3 deletions in 2 files</sub><br />
