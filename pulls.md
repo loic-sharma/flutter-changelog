@@ -102,7 +102,7 @@
   <sub>[#182100](https://github.com/flutter/flutter/pull/182100) opened on on February 9, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/182100) 343 additions and 749 deletions in 11 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate print tasks to use configuration avoidance api<br />
-  <sub>[#182119](https://github.com/flutter/flutter/pull/182119) opened on on February 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182119) 115 additions and 48 deletions in 5 files</sub><br />
+  <sub>[#182119](https://github.com/flutter/flutter/pull/182119) opened on on February 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182119) 115 additions and 48 deletions in 5 files</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Use bilinear filtering for non-uniform scaled text<br />
   <sub>[#182224](https://github.com/flutter/flutter/pull/182224) opened on on February 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182224) 23 additions and 2 deletions in 1 file</sub><br />
@@ -147,7 +147,7 @@
   <sub>[#182512](https://github.com/flutter/flutter/pull/182512) opened on on February 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182512) 125 additions and 5 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
-  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/182522) 1774 additions and 349 deletions in 18 files</sub><br />
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/182522) 1774 additions and 349 deletions in 18 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Copy Flutter framework to Add to App FlutterPluginRgistrant<br />
   <sub>[#182523](https://github.com/flutter/flutter/pull/182523) opened on on February 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) 302 additions and 32 deletions in 2 files</sub><br />
@@ -197,9 +197,6 @@
 * **[Jhonacode](https://github.com/JhonaCodes)** &mdash; Fix SelectionArea handles overlapping context menu on Android<br />
   <sub>[#182663](https://github.com/flutter/flutter/pull/182663) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182663) 52 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor bin/ shell scripts for better performance and safety<br />
-  <sub>[#182674](https://github.com/flutter/flutter/pull/182674) opened on on February 20, 2026 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/182674) 54 additions and 56 deletions in 19 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor Windows .ps1 executable scripts<br />
   <sub>[#182676](https://github.com/flutter/flutter/pull/182676) opened on on February 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182676) 3 additions and 3 deletions in 2 files</sub><br />
 
@@ -244,4 +241,7 @@
 
 * **[Jeff Ward](https://github.com/fuzzybinary)** &mdash; Add valuePublishedByPlugin to PluginRegistrar<br />
   <sub>[#182753](https://github.com/flutter/flutter/pull/182753) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182753) 14 additions and 0 deletions in 2 files</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: add code review guidance to CONTRIBUTING.md<br />
+  <sub>[#182778](https://github.com/flutter/flutter/pull/182778) opened on on February 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182778) 25 additions and 1 deletion in 1 file</sub><br />
 

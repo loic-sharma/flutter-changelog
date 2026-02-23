@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### February 21, 2026 to February 27, 2026
+
+1 commits.
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor bin/ shell scripts for better performance and safety
+  <sub>[#182674](https://github.com/flutter/flutter/pull/182674) merged on February 23, 2026 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/182674) over 2 days, 54 additions and 56 deletions in 19 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 ### February 14, 2026 to February 20, 2026
 
-53 commits.
+<details>
+<summary>53 commits...</summary>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add fields getter to FormState
   <sub>[#180815](https://github.com/flutter/flutter/pull/180815) merged on February 21, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/180815) over 1 month, 155 additions and 0 deletions in 2 files</sub>
@@ -218,6 +227,8 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [Reland] Cupertino cross imports
   <sub>[#182416](https://github.com/flutter/flutter/pull/182416) merged on February 17, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/182416) over 3 days, 728 additions and 877 deletions in 21 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+</details>
 
 ### February 7, 2026 to February 13, 2026
 
