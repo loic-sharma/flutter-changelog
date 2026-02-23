@@ -212,3 +212,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add vmservices for accessibilityEvaluation<br />
   <sub>[#182791](https://github.com/flutter/flutter/pull/182791) opened on on February 23, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182791) 506 additions and 109 deletions in 5 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GoogleTest to e9907112b472<br />
+  <sub>[#182795](https://github.com/flutter/flutter/pull/182795) opened on on February 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182795) 109 additions and 120 deletions in 5 files</sub><br />
+
