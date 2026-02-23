@@ -812,7 +812,7 @@
 5 commits.
 
 * **[Anderson André](https://github.com/Anderson-Andre-P)** &mdash; docs: reorganize Online Courses page by language and fix alphabetical…<br />
-  <sub>[#13104](https://github.com/flutter/website/pull/13104) merged on February 23, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13104) over 1 day, 35 additions and 14 deletions in 1 file</sub><br />
+  <sub>[#13104](https://github.com/flutter/website/pull/13104) merged on February 23, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13104) over 1 day, 35 additions and 14 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to jaspr_content version 0.5.0<br />

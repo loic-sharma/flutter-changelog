@@ -179,9 +179,6 @@
 * **[Laurent PAGE](https://github.com/pagetronic)** &mdash; Allows customization of the mouse cursor via ThemeData for InkWell/InkResponse<br />
   <sub>[#182652](https://github.com/flutter/flutter/pull/182652) opened on on February 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182652) 3 additions and 1 deletion in 1 file</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace more references to `flutter/engine` with `flutter/flutter`<br />
-  <sub>[#182654](https://github.com/flutter/flutter/pull/182654) opened on on February 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182654) 4 additions and 4 deletions in 4 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace an instance of flutter/engine with flutter/flutter<br />
   <sub>[#182655](https://github.com/flutter/flutter/pull/182655) opened on on February 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182655) 2 additions and 2 deletions in 1 file</sub><br />
 
