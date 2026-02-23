@@ -140,9 +140,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
   <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/182522) 1811 additions and 347 deletions in 18 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Copy Flutter framework to Add to App FlutterPluginRgistrant<br />
-  <sub>[#182523](https://github.com/flutter/flutter/pull/182523) opened on on February 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) 302 additions and 32 deletions in 2 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 second grouped test<br />
   <sub>[#182529](https://github.com/flutter/flutter/pull/182529) opened on on February 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182529) 144 additions and 0 deletions in 8 files</sub><br />
 
@@ -191,9 +188,6 @@
 * **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Rename noFrequencyBasedMinification to useFrequencyBasedMinification<br />
   <sub>[#182684](https://github.com/flutter/flutter/pull/182684) opened on on February 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182684) 12 additions and 11 deletions in 3 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Call dart::bin::Platform::Initialize during Dart VM startup<br />
-  <sub>[#182689](https://github.com/flutter/flutter/pull/182689) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182689) 21 additions and 0 deletions in 3 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll zlib to 7eda07b1e067<br />
   <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 2 additions and 23 deletions in 2 files</sub><br />
 
@@ -220,4 +214,7 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y][Web] Support isAccessibilityFocusBlocked flag on web<br />
   <sub>[#182789](https://github.com/flutter/flutter/pull/182789) opened on on February 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182789) 41 additions and 0 deletions in 2 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add vmservices for accessibilityEvaluation<br />
+  <sub>[#182791](https://github.com/flutter/flutter/pull/182791) opened on on February 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182791) 364 additions and 109 deletions in 5 files</sub><br />
 
