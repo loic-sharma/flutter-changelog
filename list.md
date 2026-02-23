@@ -4,7 +4,15 @@
 
 ### February 21, 2026 to February 27, 2026
 
-4 commits.
+7 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Copy Flutter framework to Add to App FlutterPluginRgistrant
+  <sub>[#182523](https://github.com/flutter/flutter/pull/182523) merged on February 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) over 5 days, 302 additions and 32 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress indicator to artifact downloads
+  <sub>[#181808](https://github.com/flutter/flutter/pull/181808) merged on February 23, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/181808) over 3 weeks, 301 additions and 56 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor bin/ shell scripts for better performance and safety
   <sub>[#182674](https://github.com/flutter/flutter/pull/182674) merged on February 23, 2026 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/182674) over 2 days, 54 additions and 56 deletions in 19 files</sub>
@@ -21,6 +29,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove --disable-gpu from flutter chrome tests
   <sub>[#182618](https://github.com/flutter/flutter/pull/182618) merged on February 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182618) over 4 days, 1 addition and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Dart SDK from f8fac50475b8 to fd3dce5b6a4e (6 revisions)
+  <sub>[#182768](https://github.com/flutter/flutter/pull/182768) merged on February 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182768) over 1 hour, 5 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### February 14, 2026 to February 20, 2026
 
