@@ -243,5 +243,8 @@
   <sub>[#182731](https://github.com/flutter/flutter/pull/182731) opened on on February 22, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182731) 734 additions and 1101 deletions in 104 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move Linux FFI window code into own module<br />
-  <sub>[#182740](https://github.com/flutter/flutter/pull/182740) opened on on February 23, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/182740) 506 additions and 493 deletions in 2 files</sub><br />
+  <sub>[#182740](https://github.com/flutter/flutter/pull/182740) opened on on February 23, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/182740) 506 additions and 493 deletions in 2 files</sub><br />
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Respect per-field autovalidateMode priority<br />
+  <sub>[#182752](https://github.com/flutter/flutter/pull/182752) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182752) 190 additions and 110 deletions in 4 files</sub><br />
 
