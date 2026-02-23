@@ -242,3 +242,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `SizedBox.square()`<br />
   <sub>[#182731](https://github.com/flutter/flutter/pull/182731) opened on on February 22, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182731) 734 additions and 1101 deletions in 104 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move Linux FFI window code into own module<br />
+  <sub>[#182740](https://github.com/flutter/flutter/pull/182740) opened on on February 23, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/182740) 506 additions and 493 deletions in 2 files</sub><br />
+
