@@ -248,3 +248,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Respect per-field autovalidateMode priority<br />
   <sub>[#182752](https://github.com/flutter/flutter/pull/182752) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182752) 190 additions and 110 deletions in 4 files</sub><br />
 
+* **[Jeff Ward](https://github.com/fuzzybinary)** &mdash; Add valuePublishedByPlugin to PluginRegistrar<br />
+  <sub>[#182753](https://github.com/flutter/flutter/pull/182753) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182753) 14 additions and 0 deletions in 2 files</sub><br />
+
