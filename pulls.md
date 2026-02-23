@@ -105,7 +105,7 @@
   <sub>[#182119](https://github.com/flutter/flutter/pull/182119) opened on on February 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182119) 115 additions and 48 deletions in 5 files</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Use bilinear filtering for non-uniform scaled text<br />
-  <sub>[#182224](https://github.com/flutter/flutter/pull/182224) opened on on February 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182224) 23 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#182224](https://github.com/flutter/flutter/pull/182224) opened on on February 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182224) 23 additions and 2 deletions in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Prompt plugin authors to add Swift Package Manager compatibility to their plugin<br />
   <sub>[#182246](https://github.com/flutter/flutter/pull/182246) opened on on February 11, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/182246) 510 additions and 0 deletions in 2 files</sub><br />
@@ -140,11 +140,8 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show warning when plugins do not support SwiftPM<br />
   <sub>[#182506](https://github.com/flutter/flutter/pull/182506) opened on on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182506) 36 additions and 4 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add buffer around rerasterized input to fragment shaders to maintain coordinate space when clipped<br />
-  <sub>[#182512](https://github.com/flutter/flutter/pull/182512) opened on on February 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182512) 125 additions and 5 deletions in 3 files</sub><br />
-
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
-  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/182522) 1774 additions and 349 deletions in 18 files</sub><br />
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/182522) 1811 additions and 347 deletions in 18 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Copy Flutter framework to Add to App FlutterPluginRgistrant<br />
   <sub>[#182523](https://github.com/flutter/flutter/pull/182523) opened on on February 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) 302 additions and 32 deletions in 2 files</sub><br />
@@ -197,14 +194,8 @@
 * **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Rename noFrequencyBasedMinification to useFrequencyBasedMinification<br />
   <sub>[#182684](https://github.com/flutter/flutter/pull/182684) opened on on February 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182684) 12 additions and 11 deletions in 3 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP-beta] fixes a status bar tap crash<br />
-  <sub>[#182688](https://github.com/flutter/flutter/pull/182688) opened on on February 20, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/182688) 332 additions and 93 deletions in 6 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Call dart::bin::Platform::Initialize during Dart VM startup<br />
   <sub>[#182689](https://github.com/flutter/flutter/pull/182689) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182689) 21 additions and 0 deletions in 3 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP-stable] fixes a status bar tap crash<br />
-  <sub>[#182691](https://github.com/flutter/flutter/pull/182691) opened on on February 20, 2026 &mdash; **Medium:** [31 comments](https://github.com/flutter/flutter/pull/182691) 332 additions and 93 deletions in 6 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll zlib to 7eda07b1e067<br />
   <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 1 addition and 1 deletion in 1 file</sub><br />
@@ -221,9 +212,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `SizedBox.square()`<br />
   <sub>[#182731](https://github.com/flutter/flutter/pull/182731) opened on on February 22, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182731) 734 additions and 1101 deletions in 104 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move Linux FFI window code into own module<br />
-  <sub>[#182740](https://github.com/flutter/flutter/pull/182740) opened on on February 23, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/182740) 506 additions and 493 deletions in 2 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Respect per-field autovalidateMode priority<br />
   <sub>[#182752](https://github.com/flutter/flutter/pull/182752) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182752) 182 additions and 81 deletions in 4 files</sub><br />
 
@@ -232,6 +220,9 @@
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: add code review guidance to CONTRIBUTING.md<br />
   <sub>[#182778](https://github.com/flutter/flutter/pull/182778) opened on on February 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182778) 25 additions and 1 deletion in 1 file</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Refactor impellerc_main to better organize some of its logic<br />
+  <sub>[#182783](https://github.com/flutter/flutter/pull/182783) opened on on February 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182783) 92 additions and 80 deletions in 1 file</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
   <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182785) 42 additions and 1 deletion in 2 files</sub><br />
