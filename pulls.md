@@ -233,3 +233,6 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: add code review guidance to CONTRIBUTING.md<br />
   <sub>[#182778](https://github.com/flutter/flutter/pull/182778) opened on on February 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182778) 25 additions and 1 deletion in 1 file</sub><br />
 
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
+  <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182785) 42 additions and 1 deletion in 2 files</sub><br />
+
