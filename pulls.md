@@ -8,9 +8,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
-* **[JHubi1](https://github.com/JHubi1)** &mdash; [`FlexibleSpaceBar`] `expandedTitlePadding` and `titleCurve`<br />
-  <sub>[#176863](https://github.com/flutter/flutter/pull/176863) opened on on October 10, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/176863) 61 additions and 19 deletions in 2 files</sub><br />
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
   <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
 
@@ -56,9 +53,6 @@
 * **[ruskryzhanovskiy](https://github.com/RusKryzhanovskiy)** &mdash; flutter clean: add --xcode-clean option to control Xcode cleaning<br />
   <sub>[#181079](https://github.com/flutter/flutter/pull/181079) opened on on January 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181079) 216 additions and 9 deletions in 2 files</sub><br />
 
-* **[Bodhi Russell Silberling](https://github.com/bodhisilberling)** &mdash; Improve tooltip position context docs<br />
-  <sub>[#181300](https://github.com/flutter/flutter/pull/181300) opened on on January 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/181300) 106 additions and 1 deletion in 2 files</sub><br />
-
 * **[Aman Kumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -84,13 +78,10 @@
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate print tasks to use configuration avoidance api<br />
-  <sub>[#182119](https://github.com/flutter/flutter/pull/182119) opened on on February 9, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182119) 115 additions and 48 deletions in 5 files</sub><br />
+  <sub>[#182119](https://github.com/flutter/flutter/pull/182119) opened on on February 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182119) 115 additions and 48 deletions in 5 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; dev: Use a super-parameter in several missed cases<br />
   <sub>[#182251](https://github.com/flutter/flutter/pull/182251) opened on on February 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182251) 27 additions and 33 deletions in 7 files</sub><br />
-
-* **[zionjo89757](https://github.com/zionjo89757)** &mdash; Add pauseWhenNoListeners optimization to AnimationController<br />
-  <sub>[#182270](https://github.com/flutter/flutter/pull/182270) opened on on February 12, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/182270) 344 additions and 3 deletions in 4 files</sub><br />
 
 * **[Soufian El-Fouzari](https://github.com/SoufianElfouzari)** &mdash; Improved complete hello_world example: Added German versions, and widget tests, formatted and added Keys to other examples. <br />
   <sub>[#182297](https://github.com/flutter/flutter/pull/182297) opened on on February 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182297) 79 additions and 5 deletions in 6 files</sub><br />
@@ -108,7 +99,7 @@
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182375) 177 additions and 0 deletions in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
-  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/182522) 1917 additions and 347 deletions in 18 files</sub><br />
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/182522) 1941 additions and 347 deletions in 18 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Resolve inconsistency with SchedulerBinding.scheduleTask usage recomm…<br />
   <sub>[#182531](https://github.com/flutter/flutter/pull/182531) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182531) 2 additions and 2 deletions in 1 file</sub><br />
