@@ -4,7 +4,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-12 commits.
+13 commits.
 
 * **[Maik Wild](https://github.com/Valansch)** &mdash; Fix textscaler clamp assertion error
   <sub>[#181716](https://github.com/flutter/flutter/pull/181716) merged on February 23, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/181716) over 3 weeks, 85 additions and 3 deletions in 2 files</sub>
@@ -29,6 +29,10 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress indicator to artifact downloads
   <sub>[#181808](https://github.com/flutter/flutter/pull/181808) merged on February 23, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/181808) over 3 weeks, 301 additions and 56 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Remove material from ticker provider test
+  <sub>[#181697](https://github.com/flutter/flutter/pull/181697) merged on February 24, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181697) over 3 weeks, 37 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify batch release mode requirements
   <sub>[#182228](https://github.com/flutter/flutter/pull/182228) merged on February 23, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182228) over 1 week, 3 additions and 1 deletion in 1 file</sub>
