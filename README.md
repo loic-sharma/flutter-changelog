@@ -654,7 +654,11 @@
 
 ### February 21, 2026 to February 27, 2026
 
-3 commits.
+4 commits.
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [google_sign_in_android] Remove usesCleartextTraffic <br />
+  <sub>[#11077](https://github.com/flutter/packages/pull/11077) merged on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11077) over 5 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Updates `README` to recommend that a single `AdsLoader` should be used per page<br />
   <sub>[#11103](https://github.com/flutter/packages/pull/11103) merged on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11103) over 21 hours, 9 additions and 4 deletions in 5 files</sub><br />
