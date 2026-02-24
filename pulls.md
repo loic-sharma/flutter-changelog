@@ -219,5 +219,5 @@
   <sub>[#182799](https://github.com/flutter/flutter/pull/182799) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182799) 7 additions and 2 deletions in 3 files</sub><br />
 
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr<br />
-  <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182815) 35 additions and 26 deletions in 4 files</sub><br />
+  <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182815) 35 additions and 26 deletions in 4 files</sub><br />
 
