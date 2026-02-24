@@ -152,9 +152,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; framework: Use a super-parameter in several missed cases<br />
   <sub>[#182580](https://github.com/flutter/flutter/pull/182580) opened on on February 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182580) 11 additions and 27 deletions in 3 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; flutter_tools: Use a super-parameter in several missed cases<br />
-  <sub>[#182581](https://github.com/flutter/flutter/pull/182581) opened on on February 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182581) 43 additions and 94 deletions in 11 files</sub><br />
-
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Remove iOS build configuration check when building with flavors<br />
   <sub>[#182610](https://github.com/flutter/flutter/pull/182610) opened on on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182610) 69 additions and 47 deletions in 2 files</sub><br />
 
@@ -179,17 +176,8 @@
 * **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Fix Android Studio pluginsPath when version is unknown (do not use 0.0)<br />
   <sub>[#182681](https://github.com/flutter/flutter/pull/182681) opened on on February 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182681) 68 additions and 12 deletions in 2 files</sub><br />
 
-* **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Rename noFrequencyBasedMinification to useFrequencyBasedMinification<br />
-  <sub>[#182684](https://github.com/flutter/flutter/pull/182684) opened on on February 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182684) 12 additions and 11 deletions in 3 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll zlib to 7eda07b1e067<br />
   <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 2 additions and 23 deletions in 2 files</sub><br />
-
-* **[Samuel Abada](https://github.com/Mastersam07)** &mdash; feat: Add --base-href support to flutter run for web<br />
-  <sub>[#182709](https://github.com/flutter/flutter/pull/182709) opened on on February 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182709) 207 additions and 4 deletions in 6 files</sub><br />
-
-* **[Samuel Abada](https://github.com/Mastersam07)** &mdash; feat: Add --no-uninstall flag to flutter test for integration tests<br />
-  <sub>[#182714](https://github.com/flutter/flutter/pull/182714) opened on on February 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182714) 145 additions and 2 deletions in 5 files</sub><br />
 
 * **[Salvatore Pelligra](https://github.com/iazel)** &mdash; Enable SafeArea on Scaffold bottomSheet<br />
   <sub>[#182727](https://github.com/flutter/flutter/pull/182727) opened on on February 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182727) 1 addition and 1 deletion in 1 file</sub><br />
