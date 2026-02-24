@@ -4,7 +4,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-21 commits.
+22 commits.
 
 * **[Maik Wild](https://github.com/Valansch)** &mdash; Fix textscaler clamp assertion error
   <sub>[#181716](https://github.com/flutter/flutter/pull/181716) merged on February 23, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/181716) over 3 weeks, 85 additions and 3 deletions in 2 files</sub>
@@ -13,6 +13,10 @@
 * **[Emma Twersky](https://github.com/twerske)** &mdash; Update roadmap for 2026
   <sub>[#182798](https://github.com/flutter/flutter/pull/182798) merged on February 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182798) over 40 minutes, 84 additions and 51 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
+
+* **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; [Impeller] Fix fail to render pixel buffer texture on Linux
+  <sub>[#181656](https://github.com/flutter/flutter/pull/181656) merged on February 24, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/181656) over 3 weeks, 110 additions and 1 deletion in 5 files</sub>
+  <sub>Reviewed by: [almassolarenergi](https://github.com/almassolarenrgi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] scroll iOS iframe text input into view
   <sub>[#179759](https://github.com/flutter/flutter/pull/179759) merged on February 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/179759) over 2 months, 309 additions and 41 deletions in 4 files</sub>
@@ -881,7 +885,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-8 commits.
+9 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Edge to edge behavior on Android
   <sub>[#13099](https://github.com/flutter/website/pull/13099) merged on February 24, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/website/pull/13099) over 3 days, 39 additions and 29 deletions in 1 file</sub>
@@ -889,6 +893,10 @@
 
 * **[Anderson André](https://github.com/Anderson-Andre-P)** &mdash; docs: reorganize Online Courses page by language and fix alphabetical…
   <sub>[#13104](https://github.com/flutter/website/pull/13104) merged on February 23, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13104) over 1 day, 35 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Design Doc: Replace BlockSemantics with new flag
+  <sub>[#13113](https://github.com/flutter/website/pull/13113) merged on February 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13113) over 58 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add Devtools release notes for version 2.55.0

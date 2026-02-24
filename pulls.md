@@ -167,14 +167,11 @@
 * **[Jeff Ward](https://github.com/fuzzybinary)** &mdash; Add ability to access plugins from other plugins<br />
   <sub>[#182753](https://github.com/flutter/flutter/pull/182753) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182753) 95 additions and 0 deletions in 4 files</sub><br />
 
-* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: add code review guidance to CONTRIBUTING.md<br />
-  <sub>[#182778](https://github.com/flutter/flutter/pull/182778) opened on on February 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182778) 25 additions and 1 deletion in 1 file</sub><br />
-
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
   <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182785) 40 additions and 1 deletion in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add vmservices for accessibilityEvaluation<br />
-  <sub>[#182791](https://github.com/flutter/flutter/pull/182791) opened on on February 23, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182791) 506 additions and 110 deletions in 6 files</sub><br />
+  <sub>[#182791](https://github.com/flutter/flutter/pull/182791) opened on on February 23, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182791) 510 additions and 110 deletions in 6 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GoogleTest to e9907112b472<br />
   <sub>[#182795](https://github.com/flutter/flutter/pull/182795) opened on on February 23, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/182795) 157 additions and 170 deletions in 7 files</sub><br />
@@ -196,4 +193,7 @@
 
 * **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Use positive naming: assumeDirectorySymlinks and enableServiceAuthCodes<br />
   <sub>[#182850](https://github.com/flutter/flutter/pull/182850) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182850) 53 additions and 52 deletions in 25 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump dart rev for 3.42<br />
+  <sub>[#182853](https://github.com/flutter/flutter/pull/182853) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182853) 1 addition and 1 deletion in 1 file</sub><br />
 
