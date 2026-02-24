@@ -93,7 +93,7 @@
   <sub>[#182092](https://github.com/flutter/flutter/pull/182092) opened on on February 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182092) 37 additions and 1 deletion in 3 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove FlutterFramework app migration<br />
-  <sub>[#182100](https://github.com/flutter/flutter/pull/182100) opened on on February 9, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/182100) 343 additions and 749 deletions in 11 files</sub><br />
+  <sub>[#182100](https://github.com/flutter/flutter/pull/182100) opened on on February 9, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/182100) 469 additions and 749 deletions in 11 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Migrate print tasks to use configuration avoidance api<br />
   <sub>[#182119](https://github.com/flutter/flutter/pull/182119) opened on on February 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182119) 115 additions and 48 deletions in 5 files</sub><br />
@@ -159,7 +159,7 @@
   <sub>[#182610](https://github.com/flutter/flutter/pull/182610) opened on on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182610) 69 additions and 47 deletions in 2 files</sub><br />
 
 * **[Zulkhaif Ahmed](https://github.com/zulkaif121)** &mdash; Fix TestBorder cross-import in material_test.dart (#182636)<br />
-  <sub>[#182650](https://github.com/flutter/flutter/pull/182650) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182650) 37 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#182650](https://github.com/flutter/flutter/pull/182650) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182650) 38 additions and 1 deletion in 2 files</sub><br />
 
 * **[Laurent PAGE](https://github.com/pagetronic)** &mdash; Allows customization of the mouse cursor via ThemeData for InkWell/InkResponse<br />
   <sub>[#182652](https://github.com/flutter/flutter/pull/182652) opened on on February 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182652) 3 additions and 1 deletion in 1 file</sub><br />
