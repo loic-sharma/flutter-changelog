@@ -10,21 +10,21 @@
   <sub>[#182523](https://github.com/flutter/flutter/pull/182523) merged on February 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) over 5 days, 302 additions and 32 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
-* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress indicator to artifact downloads<br />
-  <sub>[#181808](https://github.com/flutter/flutter/pull/181808) merged on February 23, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/181808) over 3 weeks, 301 additions and 56 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor bin/ shell scripts for better performance and safety<br />
   <sub>[#182674](https://github.com/flutter/flutter/pull/182674) merged on February 23, 2026 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/182674) over 2 days, 54 additions and 56 deletions in 19 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Move more getters from userMessages class to the appropriate places<br />
-  <sub>[#182656](https://github.com/flutter/flutter/pull/182656) merged on February 23, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/182656) over 3 days, 91 additions and 87 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress indicator to artifact downloads<br />
+  <sub>[#181808](https://github.com/flutter/flutter/pull/181808) merged on February 23, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/181808) over 3 weeks, 301 additions and 56 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify batch release mode requirements<br />
   <sub>[#182228](https://github.com/flutter/flutter/pull/182228) merged on February 23, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182228) over 1 week, 3 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Move more getters from userMessages class to the appropriate places<br />
+  <sub>[#182656](https://github.com/flutter/flutter/pull/182656) merged on February 23, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/182656) over 3 days, 91 additions and 87 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jaime Wren](https://github.com/jwren)** &mdash; running-apps: update running-apps to use Duration.ago()<br />
   <sub>[#182172](https://github.com/flutter/flutter/pull/182172) merged on February 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182172) over 1 week, 10 additions and 60 deletions in 2 files</sub><br />
