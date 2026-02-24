@@ -4,7 +4,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-13 commits.
+15 commits.
 
 * **[Maik Wild](https://github.com/Valansch)** &mdash; Fix textscaler clamp assertion error
   <sub>[#181716](https://github.com/flutter/flutter/pull/181716) merged on February 23, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/181716) over 3 weeks, 85 additions and 3 deletions in 2 files</sub>
@@ -38,6 +38,10 @@
   <sub>[#182228](https://github.com/flutter/flutter/pull/182228) merged on February 23, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182228) over 1 week, 3 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Refactor impellerc_main to better organize some of its logic
+  <sub>[#182783](https://github.com/flutter/flutter/pull/182783) merged on February 24, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/182783) over 15 hours, 100 additions and 79 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Move more getters from userMessages class to the appropriate places
   <sub>[#182656](https://github.com/flutter/flutter/pull/182656) merged on February 23, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/182656) over 3 days, 91 additions and 87 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -49,6 +53,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove --disable-gpu from flutter chrome tests
   <sub>[#182618](https://github.com/flutter/flutter/pull/182618) merged on February 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182618) over 4 days, 1 addition and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `getPluginList `
+  <sub>[#182660](https://github.com/flutter/flutter/pull/182660) merged on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182660) over 3 days, 0 additions and 18 deletions in 1 file</sub>
+  <sub>Reviewed by: [ELIEZER MUNUNGA](https://github.com/Eliezermga), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material in context_menu_controller_test, icon_test, list_wheel_scroll_view_test, media_query_test, platform_menu_bar_test
   <sub>[#182697](https://github.com/flutter/flutter/pull/182697) merged on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182697) over 3 days, 129 additions and 139 deletions in 6 files</sub>
