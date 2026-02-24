@@ -198,5 +198,5 @@
   <sub>[#182857](https://github.com/flutter/flutter/pull/182857) opened on on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182857) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][win32] Fix overflow in TaskRunnerWindow.<br />
-  <sub>[#182864](https://github.com/flutter/flutter/pull/182864) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182864) 16 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#182864](https://github.com/flutter/flutter/pull/182864) opened on on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182864) 16 additions and 10 deletions in 3 files</sub><br />
 

@@ -59,7 +59,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Fix overflow in TaskRunnerWindow.
-  <sub>[#182822](https://github.com/flutter/flutter/pull/182822) merged on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182822) over 8 hours, 16 additions and 10 deletions in 3 files</sub>
+  <sub>[#182822](https://github.com/flutter/flutter/pull/182822) merged on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182822) over 8 hours, 16 additions and 10 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Jaime Wren](https://github.com/jwren)** &mdash; running-apps: update running-apps to use Duration.ago()
