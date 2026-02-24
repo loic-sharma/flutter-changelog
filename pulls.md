@@ -197,3 +197,9 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump dart rev for 3.42<br />
   <sub>[#182853](https://github.com/flutter/flutter/pull/182853) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182853) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix failure on Firefox 148<br />
+  <sub>[#182855](https://github.com/flutter/flutter/pull/182855) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182855) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable indentical code folding for the engine.<br />
+  <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182856) 7 additions and 3 deletions in 1 file</sub><br />
+
