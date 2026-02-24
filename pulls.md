@@ -222,5 +222,8 @@
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182815) 42 additions and 26 deletions in 4 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Empty TaskRunner::ProcessTasks must return nanoseconds::max<br />
-  <sub>[#182822](https://github.com/flutter/flutter/pull/182822) opened on on February 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182822) 14 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#182822](https://github.com/flutter/flutter/pull/182822) opened on on February 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182822) 19 additions and 10 deletions in 3 files</sub><br />
+
+* **[Aditya Rathore](https://github.com/itsAdityaRathore)** &mdash; Add refreshToolbar method to SelectableRegionState for dynamic toolba…<br />
+  <sub>[#182824](https://github.com/flutter/flutter/pull/182824) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182824) 71 additions and 0 deletions in 2 files</sub><br />
 
