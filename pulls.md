@@ -99,7 +99,7 @@
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182375) 177 additions and 0 deletions in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
-  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/182522) 1941 additions and 347 deletions in 18 files</sub><br />
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/182522) 1941 additions and 347 deletions in 18 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Resolve inconsistency with SchedulerBinding.scheduleTask usage recomm…<br />
   <sub>[#182531](https://github.com/flutter/flutter/pull/182531) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182531) 2 additions and 2 deletions in 1 file</sub><br />
