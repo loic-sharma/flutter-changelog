@@ -215,3 +215,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GoogleTest to e9907112b472<br />
   <sub>[#182795](https://github.com/flutter/flutter/pull/182795) opened on on February 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182795) 109 additions and 120 deletions in 5 files</sub><br />
 
+* **[Emma Twersky](https://github.com/twerske)** &mdash; Update roadmap for 2026<br />
+  <sub>[#182798](https://github.com/flutter/flutter/pull/182798) opened on on February 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182798) 21 additions and 53 deletions in 1 file</sub><br />
+
