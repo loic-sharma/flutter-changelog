@@ -4,7 +4,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-20 commits.
+21 commits.
 
 * **[Maik Wild](https://github.com/Valansch)** &mdash; Fix textscaler clamp assertion error
   <sub>[#181716](https://github.com/flutter/flutter/pull/181716) merged on February 23, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/181716) over 3 weeks, 85 additions and 3 deletions in 2 files</sub>
@@ -29,6 +29,10 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress indicator to artifact downloads
   <sub>[#181808](https://github.com/flutter/flutter/pull/181808) merged on February 23, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/181808) over 3 weeks, 301 additions and 56 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove FlutterFramework app migration
+  <sub>[#182100](https://github.com/flutter/flutter/pull/182100) merged on February 24, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/182100) over 2 weeks, 469 additions and 749 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Remove material from ticker provider test
   <sub>[#181697](https://github.com/flutter/flutter/pull/181697) merged on February 24, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181697) over 3 weeks, 37 additions and 7 deletions in 2 files</sub>
@@ -877,7 +881,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-7 commits.
+8 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Edge to edge behavior on Android
   <sub>[#13099](https://github.com/flutter/website/pull/13099) merged on February 24, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/website/pull/13099) over 3 days, 39 additions and 29 deletions in 1 file</sub>
@@ -885,6 +889,10 @@
 
 * **[Anderson André](https://github.com/Anderson-Andre-P)** &mdash; docs: reorganize Online Courses page by language and fix alphabetical…
   <sub>[#13104](https://github.com/flutter/website/pull/13104) merged on February 23, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13104) over 1 day, 35 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Add Devtools release notes for version 2.55.0
+  <sub>[#13111](https://github.com/flutter/website/pull/13111) merged on February 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13111) over 19 hours, 16 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to jaspr_content version 0.5.0
