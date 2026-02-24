@@ -215,9 +215,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GoogleTest to e9907112b472<br />
   <sub>[#182795](https://github.com/flutter/flutter/pull/182795) opened on on February 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182795) 109 additions and 120 deletions in 5 files</sub><br />
 
-* **[Emma Twersky](https://github.com/twerske)** &mdash; Update roadmap for 2026<br />
-  <sub>[#182798](https://github.com/flutter/flutter/pull/182798) opened on on February 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182798) 84 additions and 51 deletions in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ImGui to v1.92.6-docking<br />
   <sub>[#182799](https://github.com/flutter/flutter/pull/182799) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182799) 7 additions and 2 deletions in 3 files</sub><br />
 
