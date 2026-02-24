@@ -218,6 +218,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ImGui to v1.92.6-docking<br />
   <sub>[#182799](https://github.com/flutter/flutter/pull/182799) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182799) 7 additions and 2 deletions in 3 files</sub><br />
 
-* **[Ishan Singh](https://github.com/coder-ishan)** &mdash; fix:patch ios build codesign<br />
-  <sub>[#182814](https://github.com/flutter/flutter/pull/182814) opened on on February 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182814) 6 additions and 1 deletion in 2 files</sub><br />
+* **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr<br />
+  <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182815) 35 additions and 26 deletions in 4 files</sub><br />
 
