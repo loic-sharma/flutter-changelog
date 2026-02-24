@@ -630,7 +630,11 @@
 
 ### February 21, 2026 to February 27, 2026
 
-2 commits.
+3 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Updates `README` to recommend that a single `AdsLoader` should be used per page
+  <sub>[#11103](https://github.com/flutter/packages/pull/11103) merged on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11103) over 21 hours, 9 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter_platform_interface] Add iOS warning for PinConfig 
   <sub>[#11100](https://github.com/flutter/packages/pull/11100) merged on February 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11100) over 4 hours, 17 additions and 2 deletions in 3 files</sub>

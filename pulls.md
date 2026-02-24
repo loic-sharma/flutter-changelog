@@ -213,5 +213,5 @@
   <sub>[#182824](https://github.com/flutter/flutter/pull/182824) opened on on February 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182824) 110 additions and 0 deletions in 2 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
-  <sub>[#182836](https://github.com/flutter/flutter/pull/182836) opened on on February 24, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/182836) 603 additions and 11 deletions in 6 files</sub><br />
+  <sub>[#182836](https://github.com/flutter/flutter/pull/182836) opened on on February 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/182836) 603 additions and 11 deletions in 6 files</sub><br />
 
