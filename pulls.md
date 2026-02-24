@@ -122,9 +122,6 @@
 * **[Apoorv Darshan](https://github.com/apoorvdarshan)** &mdash; Remove material imports from navigator_on_did_remove_page_test and scrollable_in_overlay_test<br />
   <sub>[#182546](https://github.com/flutter/flutter/pull/182546) opened on on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182546) 40 additions and 26 deletions in 3 files</sub><br />
 
-* **[David Bebawy](https://github.com/dbebawy)** &mdash; Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
-  <sub>[#182552](https://github.com/flutter/flutter/pull/182552) opened on on February 18, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/182552) 474 additions and 14 deletions in 7 files</sub><br />
-
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Rename "dart-pkg" to "dart_pkg" in the Fuchsia Flutter Engine<br />
   <sub>[#182574](https://github.com/flutter/flutter/pull/182574) opened on on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182574) 60 additions and 58 deletions in 53 files</sub><br />
 
@@ -152,9 +149,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor Windows .ps1 executable scripts<br />
   <sub>[#182676](https://github.com/flutter/flutter/pull/182676) opened on on February 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182676) 3 additions and 3 deletions in 2 files</sub><br />
 
-* **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Fix Android Studio pluginsPath when version is unknown (do not use 0.0)<br />
-  <sub>[#182681](https://github.com/flutter/flutter/pull/182681) opened on on February 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182681) 68 additions and 12 deletions in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll zlib to 7eda07b1e067<br />
   <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 2 additions and 23 deletions in 2 files</sub><br />
 
@@ -163,9 +157,6 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `SizedBox.square()`<br />
   <sub>[#182731](https://github.com/flutter/flutter/pull/182731) opened on on February 22, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182731) 734 additions and 1101 deletions in 104 files</sub><br />
-
-* **[Jeff Ward](https://github.com/fuzzybinary)** &mdash; Add ability to access plugins from other plugins<br />
-  <sub>[#182753](https://github.com/flutter/flutter/pull/182753) opened on on February 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182753) 95 additions and 0 deletions in 4 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
   <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182785) 40 additions and 1 deletion in 2 files</sub><br />
