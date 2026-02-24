@@ -111,7 +111,7 @@
   <sub>[#182297](https://github.com/flutter/flutter/pull/182297) opened on on February 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182297) 79 additions and 5 deletions in 6 files</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Fixes future warning for `await`ing `Future` returns in `async` bodies inside `try` blocks<br />
-  <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#182301](https://github.com/flutter/flutter/pull/182301) opened on on February 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182301) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />

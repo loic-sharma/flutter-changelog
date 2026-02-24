@@ -4,7 +4,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-16 commits.
+17 commits.
 
 * **[Maik Wild](https://github.com/Valansch)** &mdash; Fix textscaler clamp assertion error<br />
   <sub>[#181716](https://github.com/flutter/flutter/pull/181716) merged on February 23, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/181716) over 3 weeks, 85 additions and 3 deletions in 2 files</sub><br />
@@ -53,6 +53,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove --disable-gpu from flutter chrome tests<br />
   <sub>[#182618](https://github.com/flutter/flutter/pull/182618) merged on February 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182618) over 4 days, 1 addition and 10 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace more references to `flutter/engine` with `flutter/flutter`<br />
+  <sub>[#182654](https://github.com/flutter/flutter/pull/182654) merged on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182654) over 4 days, 4 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Carousel: Migration from Scrollable+Viewport to CustomScrollView<br />
   <sub>[#182475](https://github.com/flutter/flutter/pull/182475) merged on February 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182475) over 1 week, 99 additions and 24 deletions in 2 files</sub><br />
