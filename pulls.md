@@ -218,7 +218,7 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ImGui to v1.92.6-docking<br />
   <sub>[#182799](https://github.com/flutter/flutter/pull/182799) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182799) 7 additions and 2 deletions in 3 files</sub><br />
 
-* **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr<br />
+* **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Fix overflow in TaskRunnerWindow.<br />
