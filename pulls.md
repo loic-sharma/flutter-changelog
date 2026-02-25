@@ -153,5 +153,8 @@
   <sub>[#182910](https://github.com/flutter/flutter/pull/182910) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182910) 96 additions and 24 deletions in 2 files</sub><br />
 
 * **[josué TETE](https://github.com/veinardt)** &mdash; Marche<br />
-  <sub>[#182911](https://github.com/flutter/flutter/pull/182911) opened on on February 25, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/182911) 1358 additions and 535 deletions in 139 files</sub><br />
+  <sub>[#182911](https://github.com/flutter/flutter/pull/182911) opened on on February 25, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/182911) 1358 additions and 535 deletions in 139 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Exclude arm64 if any dependencies do and print warning when using Xcode 26<br />
+  <sub>[#182913](https://github.com/flutter/flutter/pull/182913) opened on on February 25, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182913) 489 additions and 85 deletions in 7 files</sub><br />
 
