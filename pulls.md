@@ -125,9 +125,6 @@
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
   <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182785) 47 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GoogleTest to e9907112b472<br />
-  <sub>[#182795](https://github.com/flutter/flutter/pull/182795) opened on on February 23, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/182795) 157 additions and 170 deletions in 7 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ImGui to v1.92.6-docking<br />
   <sub>[#182799](https://github.com/flutter/flutter/pull/182799) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182799) 7 additions and 2 deletions in 3 files</sub><br />
 
@@ -135,7 +132,7 @@
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
-  <sub>[#182836](https://github.com/flutter/flutter/pull/182836) opened on on February 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/182836) 591 additions and 11 deletions in 6 files</sub><br />
+  <sub>[#182836](https://github.com/flutter/flutter/pull/182836) opened on on February 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/182836) 594 additions and 11 deletions in 6 files</sub><br />
 
 * **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Use positive naming: assumeDirectorySymlinks and enableServiceAuthCodes<br />
   <sub>[#182850](https://github.com/flutter/flutter/pull/182850) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182850) 53 additions and 52 deletions in 25 files</sub><br />
@@ -154,4 +151,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add test for WindowPositioner.toString<br />
   <sub>[#182906](https://github.com/flutter/flutter/pull/182906) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182906) 19 additions and 0 deletions in 1 file</sub><br />
+
+* **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; OutlineInputBorder: Fix label animation and gap rendering<br />
+  <sub>[#182910](https://github.com/flutter/flutter/pull/182910) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182910) 86 additions and 21 deletions in 2 files</sub><br />
 
