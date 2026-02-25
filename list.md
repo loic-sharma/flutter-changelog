@@ -686,7 +686,11 @@
 
 ### February 21, 2026 to February 27, 2026
 
-4 commits.
+5 commits.
+
+* **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera] add video stabilization
+  <sub>[#7108](https://github.com/flutter/packages/pull/7108) merged on February 25, 2026 &mdash; **Extra large:** [195 comments](https://github.com/flutter/packages/pull/7108) over 19 months, 2276 additions and 4 deletions in 8 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Viktor Gyenes](https://github.com/gyenesvi), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [google_sign_in_android] Remove usesCleartextTraffic 
   <sub>[#11077](https://github.com/flutter/packages/pull/11077) merged on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11077) over 5 days, 1 addition and 1 deletion in 1 file</sub>
