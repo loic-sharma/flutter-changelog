@@ -690,7 +690,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-7 commits.
+9 commits.
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera] add video stabilization
   <sub>[#7108](https://github.com/flutter/packages/pull/7108) merged on February 25, 2026 &mdash; **Extra large:** [196 comments](https://github.com/flutter/packages/pull/7108) over 19 months, 2276 additions and 4 deletions in 8 files</sub>
@@ -699,6 +699,14 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera] Convert iOS event channel to Pigeon
   <sub>[#11109](https://github.com/flutter/packages/pull/11109) merged on February 25, 2026 &mdash; **Extra large:** [66 comments](https://github.com/flutter/packages/pull/11109) over 22 hours, 777 additions and 877 deletions in 65 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Tidy up some contributing text, and note tools needed for formatting.
+  <sub>[#11113](https://github.com/flutter/packages/pull/11113) merged on February 25, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/11113) over 19 hours, 1 addition and 79 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [video_player_android] Remove usesCleartextTraffic
+  <sub>[#11075](https://github.com/flutter/packages/pull/11075) merged on February 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11075) over 5 days, 6 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Adjust the version/changelog checklist entries
   <sub>[#11120](https://github.com/flutter/packages/pull/11120) merged on February 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11120) over 39 minutes, 4 additions and 6 deletions in 1 file</sub>
@@ -941,7 +949,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-9 commits.
+10 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Edge to edge behavior on Android
   <sub>[#13099](https://github.com/flutter/website/pull/13099) merged on February 24, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/website/pull/13099) over 3 days, 39 additions and 29 deletions in 1 file</sub>
@@ -965,6 +973,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Small clean up and fixes to recent audio cookbook recipes
   <sub>[#13101](https://github.com/flutter/website/pull/13101) merged on February 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13101) over 2 days, 48 additions and 61 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Embed Flutter + Antigravity YouTube video
+  <sub>[#13116](https://github.com/flutter/website/pull/13116) merged on February 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13116) over 25 minutes, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Anderson André](https://github.com/Anderson-Andre-P)** &mdash; fix: remove duplicate course
