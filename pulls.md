@@ -123,7 +123,7 @@
   <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 2 additions and 23 deletions in 2 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
-  <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182785) 44 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182785) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GoogleTest to e9907112b472<br />
   <sub>[#182795](https://github.com/flutter/flutter/pull/182795) opened on on February 23, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/182795) 157 additions and 170 deletions in 7 files</sub><br />
@@ -151,4 +151,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Change default cache extent<br />
   <sub>[#182905](https://github.com/flutter/flutter/pull/182905) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182905) 39 additions and 18 deletions in 5 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add test for WindowPositioner.toString<br />
+  <sub>[#182906](https://github.com/flutter/flutter/pull/182906) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182906) 19 additions and 0 deletions in 1 file</sub><br />
 
