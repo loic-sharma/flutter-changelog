@@ -690,7 +690,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-6 commits.
+7 commits.
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera] add video stabilization
   <sub>[#7108](https://github.com/flutter/packages/pull/7108) merged on February 25, 2026 &mdash; **Extra large:** [196 comments](https://github.com/flutter/packages/pull/7108) over 19 months, 2276 additions and 4 deletions in 8 files</sub>
@@ -699,6 +699,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera] Convert iOS event channel to Pigeon
   <sub>[#11109](https://github.com/flutter/packages/pull/11109) merged on February 25, 2026 &mdash; **Extra large:** [66 comments](https://github.com/flutter/packages/pull/11109) over 22 hours, 777 additions and 877 deletions in 65 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Adjust the version/changelog checklist entries
+  <sub>[#11120](https://github.com/flutter/packages/pull/11120) merged on February 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11120) over 39 minutes, 4 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [google_sign_in_android] Remove usesCleartextTraffic 
   <sub>[#11077](https://github.com/flutter/packages/pull/11077) merged on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11077) over 5 days, 1 addition and 1 deletion in 1 file</sub>

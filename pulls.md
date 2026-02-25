@@ -99,7 +99,7 @@
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182375) 177 additions and 0 deletions in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
-  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/182522) 1941 additions and 347 deletions in 18 files</sub><br />
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/182522) 1940 additions and 347 deletions in 18 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Resolve inconsistency with SchedulerBinding.scheduleTask usage recomm…<br />
   <sub>[#182531](https://github.com/flutter/flutter/pull/182531) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182531) 2 additions and 2 deletions in 1 file</sub><br />
@@ -108,7 +108,7 @@
   <sub>[#182546](https://github.com/flutter/flutter/pull/182546) opened on on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182546) 40 additions and 26 deletions in 3 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Rename "dart-pkg" to "dart_pkg" in the Fuchsia Flutter Engine<br />
-  <sub>[#182574](https://github.com/flutter/flutter/pull/182574) opened on on February 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182574) 60 additions and 58 deletions in 53 files</sub><br />
+  <sub>[#182574](https://github.com/flutter/flutter/pull/182574) opened on on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182574) 60 additions and 58 deletions in 53 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; framework: Use a super-parameter in several missed cases<br />
   <sub>[#182580](https://github.com/flutter/flutter/pull/182580) opened on on February 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182580) 11 additions and 27 deletions in 3 files</sub><br />
@@ -138,7 +138,7 @@
   <sub>[#182731](https://github.com/flutter/flutter/pull/182731) opened on on February 22, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182731) 734 additions and 1101 deletions in 104 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
-  <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182785) 40 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182785) 44 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GoogleTest to e9907112b472<br />
   <sub>[#182795](https://github.com/flutter/flutter/pull/182795) opened on on February 23, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/182795) 157 additions and 170 deletions in 7 files</sub><br />
