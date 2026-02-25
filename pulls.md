@@ -141,7 +141,7 @@
   <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182785) 40 additions and 1 deletion in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add vmservices for accessibilityEvaluation<br />
-  <sub>[#182791](https://github.com/flutter/flutter/pull/182791) opened on on February 23, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182791) 508 additions and 111 deletions in 6 files</sub><br />
+  <sub>[#182791](https://github.com/flutter/flutter/pull/182791) opened on on February 23, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182791) 496 additions and 111 deletions in 6 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GoogleTest to e9907112b472<br />
   <sub>[#182795](https://github.com/flutter/flutter/pull/182795) opened on on February 23, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/182795) 157 additions and 170 deletions in 7 files</sub><br />
