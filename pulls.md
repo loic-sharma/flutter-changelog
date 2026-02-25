@@ -176,3 +176,6 @@
 * **[Ryota Kobayashi](https://github.com/naipaka)** &mdash; refactor: duplicate MockClipboard to material to fix cross-import<br />
   <sub>[#182882](https://github.com/flutter/flutter/pull/182882) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182882) 32 additions and 1 deletion in 2 files</sub><br />
 
+* **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual roll Dart SDK to 3.12.0-183.0.dev<br />
+  <sub>[#182883](https://github.com/flutter/flutter/pull/182883) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182883) 19 additions and 27 deletions in 2 files</sub><br />
+

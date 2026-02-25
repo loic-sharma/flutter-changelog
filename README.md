@@ -4,7 +4,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-29 commits.
+30 commits.
 
 * **[Maik Wild](https://github.com/Valansch)** &mdash; Fix textscaler clamp assertion error<br />
   <sub>[#181716](https://github.com/flutter/flutter/pull/181716) merged on February 23, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/181716) over 3 weeks, 85 additions and 3 deletions in 2 files</sub><br />
@@ -21,6 +21,10 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] scroll iOS iframe text input into view<br />
   <sub>[#179759](https://github.com/flutter/flutter/pull/179759) merged on February 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/179759) over 2 months, 309 additions and 41 deletions in 4 files</sub><br />
   <sub>Reviewed by: </sub><br />
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Use AnimationStyle curve and reverseCurve in ModalBottomSheet animation<br />
+  <sub>[#181403](https://github.com/flutter/flutter/pull/181403) merged on February 25, 2026 &mdash; **Small:** [56 comments](https://github.com/flutter/flutter/pull/181403) over 1 month, 220 additions and 20 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Copy Flutter framework to Add to App FlutterPluginRgistrant<br />
   <sub>[#182523](https://github.com/flutter/flutter/pull/182523) merged on February 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) over 5 days, 302 additions and 32 deletions in 2 files</sub><br />
