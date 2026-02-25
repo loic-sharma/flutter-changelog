@@ -107,9 +107,6 @@
 * **[Apoorv Darshan](https://github.com/apoorvdarshan)** &mdash; Remove material imports from navigator_on_did_remove_page_test and scrollable_in_overlay_test<br />
   <sub>[#182546](https://github.com/flutter/flutter/pull/182546) opened on on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182546) 40 additions and 26 deletions in 3 files</sub><br />
 
-* **[Michael Brase](https://github.com/mbrase)** &mdash; Rename "dart-pkg" to "dart_pkg" in the Fuchsia Flutter Engine<br />
-  <sub>[#182574](https://github.com/flutter/flutter/pull/182574) opened on on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182574) 60 additions and 58 deletions in 53 files</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; framework: Use a super-parameter in several missed cases<br />
   <sub>[#182580](https://github.com/flutter/flutter/pull/182580) opened on on February 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182580) 11 additions and 27 deletions in 3 files</sub><br />
 
