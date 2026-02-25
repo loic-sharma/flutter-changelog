@@ -29,9 +29,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179810) 179 additions and 179 deletions in 10 files</sub><br />
 
-* **[Franklyn Roberto](https://github.com/Franklyn-R-Silva)** &mdash; Migrate CalendarDatePicker to declarative live regions for accessibility<br />
-  <sub>[#180131](https://github.com/flutter/flutter/pull/180131) opened on on December 19, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/180131) 106 additions and 54 deletions in 2 files</sub><br />
-
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
@@ -129,7 +126,7 @@
   <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182785) 44 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GoogleTest to e9907112b472<br />
-  <sub>[#182795](https://github.com/flutter/flutter/pull/182795) opened on on February 23, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/182795) 157 additions and 170 deletions in 7 files</sub><br />
+  <sub>[#182795](https://github.com/flutter/flutter/pull/182795) opened on on February 23, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/182795) 157 additions and 170 deletions in 7 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ImGui to v1.92.6-docking<br />
   <sub>[#182799](https://github.com/flutter/flutter/pull/182799) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182799) 7 additions and 2 deletions in 3 files</sub><br />
@@ -145,9 +142,6 @@
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable indentical code folding for the engine.<br />
   <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182856) 8 additions and 21 deletions in 2 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add toString methods for window positioner classes<br />
-  <sub>[#182857](https://github.com/flutter/flutter/pull/182857) opened on on February 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182857) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ryota Kobayashi](https://github.com/naipaka)** &mdash; refactor: duplicate MockClipboard to material to fix cross-import<br />
   <sub>[#182882](https://github.com/flutter/flutter/pull/182882) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182882) 32 additions and 1 deletion in 2 files</sub><br />
