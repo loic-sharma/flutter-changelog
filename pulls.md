@@ -152,9 +152,6 @@
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add warning for plugins not migrated to UIScene<br />
-  <sub>[#182826](https://github.com/flutter/flutter/pull/182826) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182826) 55 additions and 4 deletions in 3 files</sub><br />
-
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) opened on on February 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/182836) 591 additions and 11 deletions in 6 files</sub><br />
 
@@ -173,6 +170,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add toString methods for window positioner classes<br />
   <sub>[#182857](https://github.com/flutter/flutter/pull/182857) opened on on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182857) 9 additions and 0 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][win32] Fix overflow in TaskRunnerWindow.<br />
-  <sub>[#182864](https://github.com/flutter/flutter/pull/182864) opened on on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182864) 16 additions and 10 deletions in 3 files</sub><br />
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `UnlabaledLeafNodeEvaluation`<br />
+  <sub>[#182872](https://github.com/flutter/flutter/pull/182872) opened on on February 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182872) 172 additions and 0 deletions in 2 files</sub><br />
 
