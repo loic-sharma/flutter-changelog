@@ -690,7 +690,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-9 commits.
+10 commits.
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera] add video stabilization<br />
   <sub>[#7108](https://github.com/flutter/packages/pull/7108) merged on February 25, 2026 &mdash; **Extra large:** [196 comments](https://github.com/flutter/packages/pull/7108) over 19 months, 2276 additions and 4 deletions in 8 files</sub><br />
@@ -702,6 +702,10 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Tidy up some contributing text, and note tools needed for formatting.<br />
   <sub>[#11113](https://github.com/flutter/packages/pull/11113) merged on February 25, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/11113) over 19 hours, 1 addition and 79 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [google_sign_in] Remove usersCleartextTraffic<br />
+  <sub>[#11121](https://github.com/flutter/packages/pull/11121) merged on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11121) over 1 hour, 1 addition and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [video_player_android] Remove usesCleartextTraffic<br />
