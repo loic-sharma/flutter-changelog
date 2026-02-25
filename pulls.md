@@ -98,9 +98,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
   <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/182522) 1940 additions and 347 deletions in 18 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Resolve inconsistency with SchedulerBinding.scheduleTask usage recomm…<br />
-  <sub>[#182531](https://github.com/flutter/flutter/pull/182531) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182531) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Remove iOS build configuration check when building with flavors<br />
   <sub>[#182610](https://github.com/flutter/flutter/pull/182610) opened on on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182610) 69 additions and 47 deletions in 2 files</sub><br />
 
@@ -151,4 +148,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused function prototype<br />
   <sub>[#182915](https://github.com/flutter/flutter/pull/182915) opened on on February 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182915) 0 additions and 12 deletions in 1 file</sub><br />
+
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
+  <sub>[#182917](https://github.com/flutter/flutter/pull/182917) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182917) 72 additions and 20 deletions in 2 files</sub><br />
 
