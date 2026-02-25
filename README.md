@@ -31,8 +31,8 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor bin/ shell scripts for better performance and safety<br />
-  <sub>[#182674](https://github.com/flutter/flutter/pull/182674) merged on February 23, 2026 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/182674) over 2 days, 54 additions and 56 deletions in 19 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+  <sub>[#182674](https://github.com/flutter/flutter/pull/182674) merged on February 23, 2026 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/182674) over 2 days, 54 additions and 56 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Copy Flutter framework to Add to App FlutterPluginRgistrant<br />
   <sub>[#182523](https://github.com/flutter/flutter/pull/182523) merged on February 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/182523) over 5 days, 302 additions and 32 deletions in 2 files</sub><br />

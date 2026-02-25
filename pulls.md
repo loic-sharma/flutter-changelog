@@ -101,12 +101,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Resolve inconsistency with SchedulerBinding.scheduleTask usage recomm…<br />
   <sub>[#182531](https://github.com/flutter/flutter/pull/182531) opened on on February 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182531) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Apoorv Darshan](https://github.com/apoorvdarshan)** &mdash; Remove material imports from navigator_on_did_remove_page_test and scrollable_in_overlay_test<br />
-  <sub>[#182546](https://github.com/flutter/flutter/pull/182546) opened on on February 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182546) 40 additions and 26 deletions in 3 files</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; framework: Use a super-parameter in several missed cases<br />
-  <sub>[#182580](https://github.com/flutter/flutter/pull/182580) opened on on February 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182580) 11 additions and 27 deletions in 3 files</sub><br />
-
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Remove iOS build configuration check when building with flavors<br />
   <sub>[#182610](https://github.com/flutter/flutter/pull/182610) opened on on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182610) 69 additions and 47 deletions in 2 files</sub><br />
 
@@ -115,9 +109,6 @@
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [ios][engine] Fix keyboard flicker when switching text fields<br />
   <sub>[#182661](https://github.com/flutter/flutter/pull/182661) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182661) 127 additions and 12 deletions in 2 files</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor Windows .ps1 executable scripts<br />
-  <sub>[#182676](https://github.com/flutter/flutter/pull/182676) opened on on February 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182676) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll zlib to 7eda07b1e067<br />
   <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 2 additions and 23 deletions in 2 files</sub><br />
@@ -157,4 +148,7 @@
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; test: remove unnecessary Material import in sliver_constraints_test (…<br />
   <sub>[#182914](https://github.com/flutter/flutter/pull/182914) opened on on February 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182914) 5 additions and 5 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused function prototype<br />
+  <sub>[#182915](https://github.com/flutter/flutter/pull/182915) opened on on February 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182915) 0 additions and 12 deletions in 1 file</sub><br />
 
