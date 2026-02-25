@@ -690,7 +690,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-10 commits.
+11 commits.
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera] add video stabilization
   <sub>[#7108](https://github.com/flutter/packages/pull/7108) merged on February 25, 2026 &mdash; **Extra large:** [196 comments](https://github.com/flutter/packages/pull/7108) over 19 months, 2276 additions and 4 deletions in 8 files</sub>
@@ -703,6 +703,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Tidy up some contributing text, and note tools needed for formatting.
   <sub>[#11113](https://github.com/flutter/packages/pull/11113) merged on February 25, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/11113) over 19 hours, 1 addition and 79 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Federate READMEs
+  <sub>[#11112](https://github.com/flutter/packages/pull/11112) merged on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11112) over 23 hours, 102 additions and 106 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [google_sign_in] Remove usersCleartextTraffic
   <sub>[#11121](https://github.com/flutter/packages/pull/11121) merged on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11121) over 1 hour, 1 addition and 2 deletions in 2 files</sub>

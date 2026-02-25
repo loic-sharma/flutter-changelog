@@ -119,9 +119,6 @@
 * **[Zulkhaif Ahmed](https://github.com/zulkaif121)** &mdash; Fix TestBorder cross-import in material_test.dart (#182636)<br />
   <sub>[#182650](https://github.com/flutter/flutter/pull/182650) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182650) 38 additions and 1 deletion in 2 files</sub><br />
 
-* **[Laurent PAGE](https://github.com/pagetronic)** &mdash; Allows customization of the mouse cursor via ThemeData for InkWell/InkResponse<br />
-  <sub>[#182652](https://github.com/flutter/flutter/pull/182652) opened on on February 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182652) 3 additions and 1 deletion in 1 file</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [ios][engine] Fix keyboard flicker when switching text fields<br />
   <sub>[#182661](https://github.com/flutter/flutter/pull/182661) opened on on February 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182661) 127 additions and 12 deletions in 2 files</sub><br />
 
@@ -130,12 +127,6 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll zlib to 7eda07b1e067<br />
   <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 2 additions and 23 deletions in 2 files</sub><br />
-
-* **[Salvatore Pelligra](https://github.com/iazel)** &mdash; Enable SafeArea on Scaffold bottomSheet<br />
-  <sub>[#182727](https://github.com/flutter/flutter/pull/182727) opened on on February 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182727) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `SizedBox.square()`<br />
-  <sub>[#182731](https://github.com/flutter/flutter/pull/182731) opened on on February 22, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182731) 734 additions and 1101 deletions in 104 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
   <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182785) 44 additions and 1 deletion in 2 files</sub><br />
@@ -167,9 +158,6 @@
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual roll Dart SDK to 3.12.0-184.0.dev<br />
   <sub>[#182883](https://github.com/flutter/flutter/pull/182883) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182883) 6 additions and 14 deletions in 2 files</sub><br />
 
-* **[Hamid Shakeri](https://github.com/Hamidrzash)** &mdash; Add scrollPadding property to DropdownMenu and DropdownMenuFormField<br />
-  <sub>[#182892](https://github.com/flutter/flutter/pull/182892) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182892) 65 additions and 0 deletions in 4 files</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dart to 3.12.0-113.2<br />
-  <sub>[#182899](https://github.com/flutter/flutter/pull/182899) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182899) 3 additions and 3 deletions in 1 file</sub><br />
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Change default cache extent<br />
+  <sub>[#182905](https://github.com/flutter/flutter/pull/182905) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182905) 39 additions and 18 deletions in 5 files</sub><br />
 
