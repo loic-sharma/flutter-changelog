@@ -173,3 +173,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `UnlabaledLeafNodeEvaluation`<br />
   <sub>[#182872](https://github.com/flutter/flutter/pull/182872) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182872) 201 additions and 0 deletions in 2 files</sub><br />
 
+* **[Ryota Kobayashi](https://github.com/naipaka)** &mdash; refactor: duplicate MockClipboard to material to fix cross-import<br />
+  <sub>[#182882](https://github.com/flutter/flutter/pull/182882) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182882) 32 additions and 1 deletion in 2 files</sub><br />
+
