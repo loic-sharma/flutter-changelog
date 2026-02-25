@@ -140,9 +140,6 @@
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
   <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182785) 40 additions and 1 deletion in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Add vmservices for accessibilityEvaluation<br />
-  <sub>[#182791](https://github.com/flutter/flutter/pull/182791) opened on on February 23, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/182791) 496 additions and 111 deletions in 6 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll GoogleTest to e9907112b472<br />
   <sub>[#182795](https://github.com/flutter/flutter/pull/182795) opened on on February 23, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/182795) 157 additions and 170 deletions in 7 files</sub><br />
 
@@ -158,17 +155,14 @@
 * **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Use positive naming: assumeDirectorySymlinks and enableServiceAuthCodes<br />
   <sub>[#182850](https://github.com/flutter/flutter/pull/182850) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182850) 53 additions and 52 deletions in 25 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump dart rev for 3.42<br />
-  <sub>[#182853](https://github.com/flutter/flutter/pull/182853) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182853) 15 additions and 8 deletions in 3 files</sub><br />
-
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable indentical code folding for the engine.<br />
   <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182856) 8 additions and 21 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add toString methods for window positioner classes<br />
   <sub>[#182857](https://github.com/flutter/flutter/pull/182857) opened on on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182857) 9 additions and 0 deletions in 1 file</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `UnlabaledLeafNodeEvaluation`<br />
-  <sub>[#182872](https://github.com/flutter/flutter/pull/182872) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182872) 201 additions and 0 deletions in 2 files</sub><br />
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Roll Firefox to 148<br />
+  <sub>[#182859](https://github.com/flutter/flutter/pull/182859) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182859) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ryota Kobayashi](https://github.com/naipaka)** &mdash; refactor: duplicate MockClipboard to material to fix cross-import<br />
   <sub>[#182882](https://github.com/flutter/flutter/pull/182882) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182882) 32 additions and 1 deletion in 2 files</sub><br />
@@ -178,4 +172,7 @@
 
 * **[Hamid Shakeri](https://github.com/Hamidrzash)** &mdash; Add scrollPadding property to DropdownMenu and DropdownMenuFormField<br />
   <sub>[#182892](https://github.com/flutter/flutter/pull/182892) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182892) 65 additions and 0 deletions in 4 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dart to 3.12.0-113.2<br />
+  <sub>[#182899](https://github.com/flutter/flutter/pull/182899) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182899) 3 additions and 3 deletions in 1 file</sub><br />
 
