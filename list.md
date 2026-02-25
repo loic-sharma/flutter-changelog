@@ -111,7 +111,7 @@
   <sub>Reviewed by: [ELIEZER MUNUNGA](https://github.com/Eliezermga), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material in context_menu_controller_test, icon_test, list_wheel_scroll_view_test, media_query_test, platform_menu_bar_test
-  <sub>[#182697](https://github.com/flutter/flutter/pull/182697) merged on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182697) over 3 days, 129 additions and 139 deletions in 6 files</sub>
+  <sub>[#182697](https://github.com/flutter/flutter/pull/182697) merged on February 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182697) over 3 days, 129 additions and 139 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Dart SDK from f8fac50475b8 to fd3dce5b6a4e (6 revisions)
