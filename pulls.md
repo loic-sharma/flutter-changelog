@@ -150,5 +150,8 @@
   <sub>[#182906](https://github.com/flutter/flutter/pull/182906) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182906) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; OutlineInputBorder: Fix label animation and gap rendering<br />
-  <sub>[#182910](https://github.com/flutter/flutter/pull/182910) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182910) 86 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#182910](https://github.com/flutter/flutter/pull/182910) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182910) 96 additions and 24 deletions in 2 files</sub><br />
+
+* **[josué TETE](https://github.com/veinardt)** &mdash; Marche<br />
+  <sub>[#182911](https://github.com/flutter/flutter/pull/182911) opened on on February 25, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/182911) 1358 additions and 535 deletions in 139 files</sub><br />
 
