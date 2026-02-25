@@ -176,3 +176,6 @@
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual roll Dart SDK to 3.12.0-184.0.dev<br />
   <sub>[#182883](https://github.com/flutter/flutter/pull/182883) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182883) 6 additions and 14 deletions in 2 files</sub><br />
 
+* **[Hamid Shakeri](https://github.com/Hamidrzash)** &mdash; Add scrollPadding property to DropdownMenu and DropdownMenuFormField<br />
+  <sub>[#182892](https://github.com/flutter/flutter/pull/182892) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182892) 54 additions and 0 deletions in 4 files</sub><br />
+

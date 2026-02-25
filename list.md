@@ -4,11 +4,15 @@
 
 ### February 21, 2026 to February 27, 2026
 
-31 commits.
+32 commits.
 
 * **[Maik Wild](https://github.com/Valansch)** &mdash; Fix textscaler clamp assertion error
   <sub>[#181716](https://github.com/flutter/flutter/pull/181716) merged on February 23, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/181716) over 3 weeks, 85 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[serbandin](https://github.com/serbandin)** &mdash; fix-huawei-imagereader-166481
+  <sub>[#181931](https://github.com/flutter/flutter/pull/181931) merged on February 25, 2026 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/181931) over 2 weeks, 47 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Emma Twersky](https://github.com/twerske)** &mdash; Update roadmap for 2026
   <sub>[#182798](https://github.com/flutter/flutter/pull/182798) merged on February 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182798) over 40 minutes, 84 additions and 51 deletions in 2 files</sub>
@@ -686,11 +690,15 @@
 
 ### February 21, 2026 to February 27, 2026
 
-5 commits.
+6 commits.
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera] add video stabilization
   <sub>[#7108](https://github.com/flutter/packages/pull/7108) merged on February 25, 2026 &mdash; **Extra large:** [195 comments](https://github.com/flutter/packages/pull/7108) over 19 months, 2276 additions and 4 deletions in 8 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Viktor Gyenes](https://github.com/gyenesvi), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera] Convert iOS event channel to Pigeon
+  <sub>[#11109](https://github.com/flutter/packages/pull/11109) merged on February 25, 2026 &mdash; **Extra large:** [66 comments](https://github.com/flutter/packages/pull/11109) over 22 hours, 777 additions and 877 deletions in 65 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [google_sign_in_android] Remove usesCleartextTraffic 
   <sub>[#11077](https://github.com/flutter/packages/pull/11077) merged on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11077) over 5 days, 1 addition and 1 deletion in 1 file</sub>
