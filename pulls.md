@@ -159,7 +159,7 @@
   <sub>[#182850](https://github.com/flutter/flutter/pull/182850) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182850) 53 additions and 52 deletions in 25 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Bump dart rev for 3.42<br />
-  <sub>[#182853](https://github.com/flutter/flutter/pull/182853) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182853) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#182853](https://github.com/flutter/flutter/pull/182853) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182853) 15 additions and 8 deletions in 3 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable indentical code folding for the engine.<br />
   <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182856) 8 additions and 21 deletions in 2 files</sub><br />
