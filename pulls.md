@@ -63,7 +63,7 @@
   <sub>[#181650](https://github.com/flutter/flutter/pull/181650) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181650) 5 additions and 4 deletions in 1 file</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix wrong link to `Testing the engine readme file`<br />
-  <sub>[#181827](https://github.com/flutter/flutter/pull/181827) opened on on February 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181827) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#181827](https://github.com/flutter/flutter/pull/181827) opened on on February 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181827) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link to c_cpp_properties.json reference in `Setting-up-the-Engine-development-environment.md`<br />
   <sub>[#181829](https://github.com/flutter/flutter/pull/181829) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181829) 1 addition and 1 deletion in 1 file</sub><br />
@@ -141,7 +141,7 @@
   <sub>[#182914](https://github.com/flutter/flutter/pull/182914) opened on on February 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182914) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused function prototype<br />
-  <sub>[#182915](https://github.com/flutter/flutter/pull/182915) opened on on February 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182915) 0 additions and 12 deletions in 1 file</sub><br />
+  <sub>[#182915](https://github.com/flutter/flutter/pull/182915) opened on on February 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182915) 0 additions and 12 deletions in 1 file</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
   <sub>[#182917](https://github.com/flutter/flutter/pull/182917) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182917) 72 additions and 20 deletions in 2 files</sub><br />
@@ -172,4 +172,7 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace the rest of the references to `flutter/engine` with `flutter/flutter`<br />
   <sub>[#182938](https://github.com/flutter/flutter/pull/182938) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182938) 14 additions and 15 deletions in 4 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove some instances of useMaterial3: true<br />
+  <sub>[#182944](https://github.com/flutter/flutter/pull/182944) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182944) 22 additions and 84 deletions in 7 files</sub><br />
 
