@@ -134,9 +134,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_view_new_sized_to_content()<br />
   <sub>[#182924](https://github.com/flutter/flutter/pull/182924) opened on on February 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182924) 208 additions and 32 deletions in 9 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add raw sliver app bar<br />
-  <sub>[#182925](https://github.com/flutter/flutter/pull/182925) opened on on February 26, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/182925) 1598 additions and 335 deletions in 3 files</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; a11y: expose selectable paragraph semantics as read-only text field<br />
   <sub>[#182928](https://github.com/flutter/flutter/pull/182928) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182928) 38 additions and 0 deletions in 2 files</sub><br />
 
@@ -159,8 +156,14 @@
   <sub>[#182967](https://github.com/flutter/flutter/pull/182967) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182967) 23 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Timeout when waiting for the correct sized frame from Flutter.<br />
-  <sub>[#182971](https://github.com/flutter/flutter/pull/182971) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182971) 247 additions and 37 deletions in 11 files</sub><br />
+  <sub>[#182971](https://github.com/flutter/flutter/pull/182971) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182971) 246 additions and 37 deletions in 11 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add desktop review teams<br />
-  <sub>[#182972](https://github.com/flutter/flutter/pull/182972) opened on on February 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182972) 48 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#182972](https://github.com/flutter/flutter/pull/182972) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182972) 48 additions and 0 deletions in 3 files</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add dev/benchmarks/README.md<br />
+  <sub>[#182976](https://github.com/flutter/flutter/pull/182976) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182976) 10 additions and 0 deletions in 1 file</sub><br />
+
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
+  <sub>[#182977](https://github.com/flutter/flutter/pull/182977) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182977) 71 additions and 21 deletions in 2 files</sub><br />
 
