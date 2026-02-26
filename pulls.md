@@ -167,3 +167,6 @@
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; Support mixed color spaces in `Color.lerp`<br />
   <sub>[#182934](https://github.com/flutter/flutter/pull/182934) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182934) 124 additions and 26 deletions in 3 files</sub><br />
 
+* **[laishere](https://github.com/laishere)** &mdash; Fix PlatformView scaling in showCupertinoSheet transitions<br />
+  <sub>[#182935](https://github.com/flutter/flutter/pull/182935) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182935) 112 additions and 6 deletions in 4 files</sub><br />
+
