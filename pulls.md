@@ -126,7 +126,7 @@
   <sub>[#182882](https://github.com/flutter/flutter/pull/182882) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182882) 32 additions and 1 deletion in 2 files</sub><br />
 
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual roll Dart SDK to 3.12.0-184.0.dev<br />
-  <sub>[#182883](https://github.com/flutter/flutter/pull/182883) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182883) 34 additions and 38 deletions in 5 files</sub><br />
+  <sub>[#182883](https://github.com/flutter/flutter/pull/182883) opened on on February 25, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/182883) 311 additions and 42 deletions in 6 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Change default cache extent<br />
   <sub>[#182905](https://github.com/flutter/flutter/pull/182905) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182905) 141 additions and 98 deletions in 11 files</sub><br />
