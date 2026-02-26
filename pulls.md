@@ -152,3 +152,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
   <sub>[#182917](https://github.com/flutter/flutter/pull/182917) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182917) 72 additions and 20 deletions in 2 files</sub><br />
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] in calendar date picker, remove SemanticsService.sendAnnouncement usage for android. <br />
+  <sub>[#182918](https://github.com/flutter/flutter/pull/182918) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182918) 141 additions and 12 deletions in 2 files</sub><br />
+
