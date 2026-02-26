@@ -799,7 +799,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-13 commits.
+14 commits.
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera] add video stabilization<br />
   <sub>[#7108](https://github.com/flutter/packages/pull/7108) merged on February 25, 2026 &mdash; **Extra large:** [196 comments](https://github.com/flutter/packages/pull/7108) over 19 months, 2276 additions and 4 deletions in 8 files</sub><br />
@@ -816,6 +816,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [rfw] Remove outdated info from README<br />
   <sub>[#11123](https://github.com/flutter/packages/pull/11123) merged on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11123) over 6 hours, 5 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Use function types in order to avoid dynamic calls<br />
+  <sub>[#11130](https://github.com/flutter/packages/pull/11130) merged on February 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11130) over 1 hour, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Revert androidx.datastore:datastore to 1.1.7<br />
   <sub>[#11128](https://github.com/flutter/packages/pull/11128) merged on February 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11128) over 20 minutes, 6 additions and 4 deletions in 3 files</sub><br />
