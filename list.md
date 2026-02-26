@@ -820,7 +820,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-17 commits.
+18 commits.
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera] add video stabilization
   <sub>[#7108](https://github.com/flutter/packages/pull/7108) merged on February 25, 2026 &mdash; **Extra large:** [196 comments](https://github.com/flutter/packages/pull/7108) over 19 months, 2276 additions and 4 deletions in 8 files</sub>
@@ -837,6 +837,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [rfw] Remove outdated info from README
   <sub>[#11123](https://github.com/flutter/packages/pull/11123) merged on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11123) over 6 hours, 5 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ian Hickson](https://github.com/Hixie)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [webview_flutter] Remove usesCleartextTraffic
+  <sub>[#11124](https://github.com/flutter/packages/pull/11124) merged on February 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11124) over 22 hours, 16 additions and 3 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon]: Correct comment references in doc comments
   <sub>[#11129](https://github.com/flutter/packages/pull/11129) merged on February 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11129) over 4 hours, 7 additions and 5 deletions in 1 file</sub>

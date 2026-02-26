@@ -170,3 +170,12 @@
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window<br />
   <sub>[#182963](https://github.com/flutter/flutter/pull/182963) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182963) 53 additions and 1 deletion in 2 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: pre-land changes for perfetto update<br />
+  <sub>[#182965](https://github.com/flutter/flutter/pull/182965) opened on on February 26, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182965) 250 additions and 961 deletions in 8 files</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
+  <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182966) 7870 additions and 7460 deletions in 73 files</sub><br />
+
+* **[Sumo ](https://github.com/CorpX430)** &mdash; Create pylint.yml<br />
+  <sub>[#182967](https://github.com/flutter/flutter/pull/182967) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182967) 23 additions and 0 deletions in 1 file</sub><br />
+
