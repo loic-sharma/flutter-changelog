@@ -146,9 +146,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 80743bd43fd5b38fedc503308e7a652e23d3ec93<br />
   <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 10 additions and 6 deletions in 6 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support sending window constraints in metrics events<br />
-  <sub>[#182921](https://github.com/flutter/flutter/pull/182921) opened on on February 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182921) 69 additions and 30 deletions in 4 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_view_new_sized_to_content()<br />
   <sub>[#182924](https://github.com/flutter/flutter/pull/182924) opened on on February 26, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182924) 211 additions and 34 deletions in 9 files</sub><br />
 
@@ -171,10 +168,10 @@
   <sub>[#182963](https://github.com/flutter/flutter/pull/182963) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182963) 53 additions and 1 deletion in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: pre-land changes for perfetto update<br />
-  <sub>[#182965](https://github.com/flutter/flutter/pull/182965) opened on on February 26, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/182965) 250 additions and 961 deletions in 8 files</sub><br />
+  <sub>[#182965](https://github.com/flutter/flutter/pull/182965) opened on on February 26, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/182965) 234 additions and 566 deletions in 8 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
-  <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182966) 7870 additions and 7460 deletions in 73 files</sub><br />
+  <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
 
 * **[Sumo ](https://github.com/CorpX430)** &mdash; Create pylint.yml<br />
   <sub>[#182967](https://github.com/flutter/flutter/pull/182967) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182967) 23 additions and 0 deletions in 1 file</sub><br />
