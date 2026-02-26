@@ -170,3 +170,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove some instances of useMaterial3: true<br />
   <sub>[#182944](https://github.com/flutter/flutter/pull/182944) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182944) 22 additions and 84 deletions in 7 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add calls to await `flutterDriver.waitUntilFirstFrameRasterized()` for all `android_engine_test` screenshot tests<br />
+  <sub>[#182961](https://github.com/flutter/flutter/pull/182961) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182961) 6 additions and 0 deletions in 6 files</sub><br />
+
