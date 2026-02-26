@@ -132,7 +132,7 @@
   <sub>[#182883](https://github.com/flutter/flutter/pull/182883) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182883) 34 additions and 38 deletions in 5 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Change default cache extent<br />
-  <sub>[#182905](https://github.com/flutter/flutter/pull/182905) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182905) 39 additions and 18 deletions in 5 files</sub><br />
+  <sub>[#182905](https://github.com/flutter/flutter/pull/182905) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182905) 141 additions and 98 deletions in 11 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add test for WindowPositioner.toString<br />
   <sub>[#182906](https://github.com/flutter/flutter/pull/182906) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182906) 19 additions and 0 deletions in 1 file</sub><br />
@@ -152,6 +152,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
   <sub>[#182917](https://github.com/flutter/flutter/pull/182917) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182917) 72 additions and 20 deletions in 2 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] in calendar date picker, remove SemanticsService.sendAnnouncement usage for android. <br />
-  <sub>[#182918](https://github.com/flutter/flutter/pull/182918) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182918) 141 additions and 12 deletions in 2 files</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 80743bd43fd5b38fedc503308e7a652e23d3ec93<br />
+  <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 7 additions and 3 deletions in 3 files</sub><br />
 
