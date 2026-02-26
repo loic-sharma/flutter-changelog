@@ -167,3 +167,9 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; a11y: expose selectable paragraph semantics as read-only text field<br />
   <sub>[#182928](https://github.com/flutter/flutter/pull/182928) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182928) 21 additions and 0 deletions in 2 files</sub><br />
 
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add a ResidentCompilerFactory to create ResidentCompiler instances.<br />
+  <sub>[#182930](https://github.com/flutter/flutter/pull/182930) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182930) 25 additions and 16 deletions in 7 files</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add a getter in run.dart to access use-application-binary flag.<br />
+  <sub>[#182931](https://github.com/flutter/flutter/pull/182931) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182931) 20 additions and 3 deletions in 2 files</sub><br />
+
