@@ -29,6 +29,9 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179810) 179 additions and 179 deletions in 10 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow windows to be created undecorated<br />
+  <sub>[#179859](https://github.com/flutter/flutter/pull/179859) opened on on December 14, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/179859) 146 additions and 21 deletions in 20 files</sub><br />
+
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
@@ -109,9 +112,6 @@
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable indentical code folding for the engine.<br />
   <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182856) 8 additions and 21 deletions in 2 files</sub><br />
-
-* **[Ryota Kobayashi](https://github.com/naipaka)** &mdash; refactor: duplicate MockClipboard to material to fix cross-import<br />
-  <sub>[#182882](https://github.com/flutter/flutter/pull/182882) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182882) 32 additions and 1 deletion in 2 files</sub><br />
 
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual roll Dart SDK to 3.12.0-184.0.dev<br />
   <sub>[#182883](https://github.com/flutter/flutter/pull/182883) opened on on February 25, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/182883) 311 additions and 42 deletions in 6 files</sub><br />
