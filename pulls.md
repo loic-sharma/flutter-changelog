@@ -107,9 +107,6 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) opened on on February 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/182836) 594 additions and 11 deletions in 6 files</sub><br />
 
-* **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Use positive naming: assumeDirectorySymlinks and enableServiceAuthCodes<br />
-  <sub>[#182850](https://github.com/flutter/flutter/pull/182850) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182850) 53 additions and 52 deletions in 25 files</sub><br />
-
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable indentical code folding for the engine.<br />
   <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182856) 8 additions and 21 deletions in 2 files</sub><br />
 
@@ -123,7 +120,7 @@
   <sub>[#182904](https://github.com/flutter/flutter/pull/182904) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182904) 196 additions and 38 deletions in 5 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Change default cache extent<br />
-  <sub>[#182905](https://github.com/flutter/flutter/pull/182905) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182905) 161 additions and 108 deletions in 13 files</sub><br />
+  <sub>[#182905](https://github.com/flutter/flutter/pull/182905) opened on on February 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/182905) 241 additions and 174 deletions in 18 files</sub><br />
 
 * **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; OutlineInputBorder: Fix label animation and gap rendering<br />
   <sub>[#182910](https://github.com/flutter/flutter/pull/182910) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182910) 96 additions and 24 deletions in 2 files</sub><br />
@@ -131,14 +128,11 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; test: remove unnecessary Material import in sliver_constraints_test (…<br />
   <sub>[#182914](https://github.com/flutter/flutter/pull/182914) opened on on February 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182914) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
-  <sub>[#182917](https://github.com/flutter/flutter/pull/182917) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182917) 72 additions and 20 deletions in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 80743bd43fd5b38fedc503308e7a652e23d3ec93<br />
   <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 10 additions and 6 deletions in 6 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_view_new_sized_to_content()<br />
-  <sub>[#182924](https://github.com/flutter/flutter/pull/182924) opened on on February 26, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182924) 208 additions and 32 deletions in 9 files</sub><br />
+  <sub>[#182924](https://github.com/flutter/flutter/pull/182924) opened on on February 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182924) 208 additions and 32 deletions in 9 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add raw sliver app bar<br />
   <sub>[#182925](https://github.com/flutter/flutter/pull/182925) opened on on February 26, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/182925) 1598 additions and 335 deletions in 3 files</sub><br />
@@ -158,12 +152,15 @@
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window<br />
   <sub>[#182963](https://github.com/flutter/flutter/pull/182963) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182963) 53 additions and 1 deletion in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; licenses_cpp: pre-land changes for perfetto update<br />
-  <sub>[#182965](https://github.com/flutter/flutter/pull/182965) opened on on February 26, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/182965) 234 additions and 566 deletions in 8 files</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
   <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
 
 * **[Sumo ](https://github.com/CorpX430)** &mdash; Create pylint.yml<br />
   <sub>[#182967](https://github.com/flutter/flutter/pull/182967) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182967) 23 additions and 0 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Timeout when waiting for the correct sized frame from Flutter.<br />
+  <sub>[#182971](https://github.com/flutter/flutter/pull/182971) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182971) 247 additions and 37 deletions in 11 files</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add desktop review teams<br />
+  <sub>[#182972](https://github.com/flutter/flutter/pull/182972) opened on on February 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182972) 48 additions and 0 deletions in 3 files</sub><br />
 
