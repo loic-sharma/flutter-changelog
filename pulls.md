@@ -96,7 +96,7 @@
   <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182375) 177 additions and 0 deletions in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
-  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/182522) 1940 additions and 347 deletions in 18 files</sub><br />
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/182522) 1940 additions and 347 deletions in 18 files</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Remove iOS build configuration check when building with flavors<br />
   <sub>[#182610](https://github.com/flutter/flutter/pull/182610) opened on on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182610) 69 additions and 47 deletions in 2 files</sub><br />
@@ -127,6 +127,9 @@
 
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual roll Dart SDK to 3.12.0-184.0.dev<br />
   <sub>[#182883](https://github.com/flutter/flutter/pull/182883) opened on on February 25, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/182883) 311 additions and 42 deletions in 6 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; User activitiy fallbacks for unmigrated plugins<br />
+  <sub>[#182904](https://github.com/flutter/flutter/pull/182904) opened on on February 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182904) 196 additions and 38 deletions in 5 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Change default cache extent<br />
   <sub>[#182905](https://github.com/flutter/flutter/pull/182905) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182905) 161 additions and 108 deletions in 13 files</sub><br />
@@ -166,4 +169,7 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove some instances of useMaterial3: true<br />
   <sub>[#182944](https://github.com/flutter/flutter/pull/182944) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182944) 22 additions and 84 deletions in 7 files</sub><br />
+
+* **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window<br />
+  <sub>[#182963](https://github.com/flutter/flutter/pull/182963) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182963) 53 additions and 1 deletion in 2 files</sub><br />
 
