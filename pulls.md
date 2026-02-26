@@ -159,7 +159,7 @@
   <sub>[#182921](https://github.com/flutter/flutter/pull/182921) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182921) 69 additions and 30 deletions in 4 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_view_new_sized_to_content()<br />
-  <sub>[#182924](https://github.com/flutter/flutter/pull/182924) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182924) 201 additions and 29 deletions in 9 files</sub><br />
+  <sub>[#182924](https://github.com/flutter/flutter/pull/182924) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182924) 211 additions and 34 deletions in 9 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add raw sliver app bar<br />
   <sub>[#182925](https://github.com/flutter/flutter/pull/182925) opened on on February 26, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/182925) 1598 additions and 335 deletions in 3 files</sub><br />
