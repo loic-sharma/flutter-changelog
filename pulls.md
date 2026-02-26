@@ -30,7 +30,7 @@
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179810) 179 additions and 179 deletions in 10 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow windows to be created undecorated<br />
-  <sub>[#179859](https://github.com/flutter/flutter/pull/179859) opened on on December 14, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/179859) 146 additions and 21 deletions in 20 files</sub><br />
+  <sub>[#179859](https://github.com/flutter/flutter/pull/179859) opened on on December 14, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/179859) 150 additions and 21 deletions in 20 files</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
@@ -67,9 +67,6 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link to c_cpp_properties.json reference in `Setting-up-the-Engine-development-environment.md`<br />
   <sub>[#181829](https://github.com/flutter/flutter/pull/181829) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181829) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ CI ] Don't crash analysis when ktlint isn't on PATH<br />
-  <sub>[#181854](https://github.com/flutter/flutter/pull/181854) opened on on February 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181854) 17 additions and 7 deletions in 1 file</sub><br />
 
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
