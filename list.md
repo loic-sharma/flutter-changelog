@@ -799,7 +799,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-14 commits.
+15 commits.
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera] add video stabilization
   <sub>[#7108](https://github.com/flutter/packages/pull/7108) merged on February 25, 2026 &mdash; **Extra large:** [196 comments](https://github.com/flutter/packages/pull/7108) over 19 months, 2276 additions and 4 deletions in 8 files</sub>
@@ -816,6 +816,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [rfw] Remove outdated info from README
   <sub>[#11123](https://github.com/flutter/packages/pull/11123) merged on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11123) over 6 hours, 5 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ian Hickson](https://github.com/Hixie)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [espresso] Remove usesCleartextTraffic
+  <sub>[#11125](https://github.com/flutter/packages/pull/11125) merged on February 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11125) over 20 hours, 42 additions and 5 deletions in 5 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Use function types in order to avoid dynamic calls
   <sub>[#11130](https://github.com/flutter/packages/pull/11130) merged on February 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11130) over 1 hour, 4 additions and 4 deletions in 1 file</sub>
@@ -1078,7 +1082,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-10 commits.
+12 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Edge to edge behavior on Android
   <sub>[#13099](https://github.com/flutter/website/pull/13099) merged on February 24, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/website/pull/13099) over 3 days, 39 additions and 29 deletions in 1 file</sub>
@@ -1086,6 +1090,10 @@
 
 * **[Anderson André](https://github.com/Anderson-Andre-P)** &mdash; docs: reorganize Online Courses page by language and fix alphabetical…
   <sub>[#13104](https://github.com/flutter/website/pull/13104) merged on February 23, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13104) over 1 day, 35 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add missing redirect from old get-started/install links
+  <sub>[#13118](https://github.com/flutter/website/pull/13118) merged on February 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13118) over 6 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Design Doc: Replace BlockSemantics with new flag
@@ -1103,6 +1111,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Small clean up and fixes to recent audio cookbook recipes
   <sub>[#13101](https://github.com/flutter/website/pull/13101) merged on February 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13101) over 2 days, 48 additions and 61 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [website] Remove usesCleartextTraffic
+  <sub>[#13117](https://github.com/flutter/website/pull/13117) merged on February 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13117) over 20 hours, 14 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Embed Flutter + Antigravity YouTube video
   <sub>[#13116](https://github.com/flutter/website/pull/13116) merged on February 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13116) over 25 minutes, 5 additions and 0 deletions in 1 file</sub>

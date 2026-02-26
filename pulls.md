@@ -156,7 +156,7 @@
   <sub>[#182925](https://github.com/flutter/flutter/pull/182925) opened on on February 26, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/182925) 1598 additions and 335 deletions in 3 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; a11y: expose selectable paragraph semantics as read-only text field<br />
-  <sub>[#182928](https://github.com/flutter/flutter/pull/182928) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182928) 21 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#182928](https://github.com/flutter/flutter/pull/182928) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182928) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; Support mixed color spaces in `Color.lerp`<br />
   <sub>[#182934](https://github.com/flutter/flutter/pull/182934) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182934) 124 additions and 26 deletions in 3 files</sub><br />
