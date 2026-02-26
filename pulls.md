@@ -167,9 +167,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace the rest of the references to `flutter/engine` with `flutter/flutter`<br />
   <sub>[#182938](https://github.com/flutter/flutter/pull/182938) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182938) 14 additions and 15 deletions in 4 files</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove some instances of useMaterial3: true<br />
-  <sub>[#182944](https://github.com/flutter/flutter/pull/182944) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182944) 22 additions and 84 deletions in 7 files</sub><br />
-
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window<br />
   <sub>[#182963](https://github.com/flutter/flutter/pull/182963) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182963) 53 additions and 1 deletion in 2 files</sub><br />
 
