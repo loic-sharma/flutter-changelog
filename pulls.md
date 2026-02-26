@@ -110,9 +110,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll zlib to 7eda07b1e067<br />
   <sub>[#182692](https://github.com/flutter/flutter/pull/182692) opened on on February 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182692) 2 additions and 23 deletions in 2 files</sub><br />
 
-* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix RawAutocomplete crash when options are hidden<br />
-  <sub>[#182785](https://github.com/flutter/flutter/pull/182785) opened on on February 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182785) 47 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
@@ -159,5 +156,11 @@
   <sub>[#182920](https://github.com/flutter/flutter/pull/182920) opened on on February 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182920) 114 additions and 21 deletions in 4 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support sending window constraints in metrics events<br />
-  <sub>[#182921](https://github.com/flutter/flutter/pull/182921) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182921) 69 additions and 34 deletions in 4 files</sub><br />
+  <sub>[#182921](https://github.com/flutter/flutter/pull/182921) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182921) 69 additions and 30 deletions in 4 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_view_new_sized_to_content()<br />
+  <sub>[#182924](https://github.com/flutter/flutter/pull/182924) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182924) 201 additions and 29 deletions in 9 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add raw sliver app bar<br />
+  <sub>[#182925](https://github.com/flutter/flutter/pull/182925) opened on on February 26, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/182925) 1598 additions and 335 deletions in 3 files</sub><br />
 
