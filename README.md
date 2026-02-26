@@ -11,7 +11,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[serbandin](https://github.com/serbandin)** &mdash; fix-huawei-imagereader-166481<br />
-  <sub>[#181931](https://github.com/flutter/flutter/pull/181931) merged on February 25, 2026 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/181931) over 2 weeks, 47 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#181931](https://github.com/flutter/flutter/pull/181931) merged on February 25, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/181931) over 2 weeks, 47 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Emma Twersky](https://github.com/twerske)** &mdash; Update roadmap for 2026<br />
@@ -316,9 +316,17 @@
   <sub>[#182185](https://github.com/flutter/flutter/pull/182185) merged on February 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182185) over 6 days, 187 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add RawTooltip.ignorePointer<br />
+  <sub>[#182527](https://github.com/flutter/flutter/pull/182527) merged on February 19, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182527) over 1 day, 94 additions and 8 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Shortcircuit if Tooltip message and richMessage are empty<br />
   <sub>[#182524](https://github.com/flutter/flutter/pull/182524) merged on February 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182524) over 3 days, 34 additions and 19 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
+
+* **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Refactor autofill_group_test.dart to remove Material dependencies<br />
+  <sub>[#181903](https://github.com/flutter/flutter/pull/181903) merged on February 19, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/181903) over 2 weeks, 54 additions and 64 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material imports from Inherited Model, Magnifier, SafeArea, UndoHistory, Navigator and Layers test<br />
   <sub>[#181709](https://github.com/flutter/flutter/pull/181709) merged on February 19, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/181709) over 2 weeks, 229 additions and 243 deletions in 6 files</sub><br />
@@ -327,10 +335,6 @@
 * **[Noaman Monther](https://github.com/devnoaman)** &mdash; Fixing ExpansionTile expandedAlignment not Accepts AlignmentGeometry …<br />
   <sub>[#180814](https://github.com/flutter/flutter/pull/180814) merged on February 18, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/180814) over 1 month, 86 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Refactor autofill_group_test.dart to remove Material dependencies<br />
-  <sub>[#181903](https://github.com/flutter/flutter/pull/181903) merged on February 19, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/181903) over 2 weeks, 54 additions and 64 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Clean up cross imports in single_child_scroll_view_test.dart, decorated_sliver_test.dart, draggable_scrollable_sheet_test.dart<br />
   <sub>[#181613](https://github.com/flutter/flutter/pull/181613) merged on February 18, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/181613) over 2 weeks, 176 additions and 160 deletions in 5 files</sub><br />
@@ -343,10 +347,6 @@
 * **[b-luk](https://github.com/b-luk)** &mdash; Don't compile shaders to SkSL unless --sksl arg is present<br />
   <sub>[#182519](https://github.com/flutter/flutter/pull/182519) merged on February 20, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/182519) over 2 days, 239 additions and 296 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add RawTooltip.ignorePointer<br />
-  <sub>[#182527](https://github.com/flutter/flutter/pull/182527) merged on February 19, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182527) over 1 day, 94 additions and 8 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Remove material from Modal barrier tests<br />
   <sub>[#181708](https://github.com/flutter/flutter/pull/181708) merged on February 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/181708) over 2 weeks, 23 additions and 23 deletions in 2 files</sub><br />

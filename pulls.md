@@ -164,3 +164,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: add raw sliver app bar<br />
   <sub>[#182925](https://github.com/flutter/flutter/pull/182925) opened on on February 26, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/182925) 1598 additions and 335 deletions in 3 files</sub><br />
 
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; a11y: expose selectable paragraph semantics as read-only text field<br />
+  <sub>[#182928](https://github.com/flutter/flutter/pull/182928) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182928) 21 additions and 0 deletions in 2 files</sub><br />
+
