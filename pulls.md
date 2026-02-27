@@ -30,7 +30,7 @@
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179810) 179 additions and 179 deletions in 10 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow windows to be created undecorated<br />
-  <sub>[#179859](https://github.com/flutter/flutter/pull/179859) opened on on December 14, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/179859) 150 additions and 21 deletions in 20 files</sub><br />
+  <sub>[#179859](https://github.com/flutter/flutter/pull/179859) opened on on December 14, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/179859) 150 additions and 21 deletions in 20 files</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
@@ -81,7 +81,7 @@
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Clean up `animation_controller.dart`<br />
-  <sub>[#182338](https://github.com/flutter/flutter/pull/182338) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182338) 33 additions and 49 deletions in 1 file</sub><br />
+  <sub>[#182338](https://github.com/flutter/flutter/pull/182338) opened on on February 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182338) 33 additions and 49 deletions in 1 file</sub><br />
 
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add Michal Kucharski to AUTHORS<br />
   <sub>[#182366](https://github.com/flutter/flutter/pull/182366) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) 1 addition and 0 deletions in 1 file</sub><br />
