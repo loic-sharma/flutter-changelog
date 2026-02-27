@@ -155,3 +155,6 @@
 * **[Fatahillah Alvarisi](https://github.com/alvarisi)** &mdash; docs: document Play Console symbol upload for Android desymbolication<br />
   <sub>[#182985](https://github.com/flutter/flutter/pull/182985) opened on on February 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182985) 39 additions and 0 deletions in 1 file</sub><br />
 
+* **[Alex](https://github.com/AlexanderLek)** &mdash; Fix modal barrier tap passthrough during iOS back swipe<br />
+  <sub>[#182994](https://github.com/flutter/flutter/pull/182994) opened on on February 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182994) 116 additions and 4 deletions in 2 files</sub><br />
+
