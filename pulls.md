@@ -92,8 +92,8 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
   <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/182522) 1940 additions and 347 deletions in 18 files</sub><br />
 
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Remove iOS build configuration check when building with flavors<br />
-  <sub>[#182610](https://github.com/flutter/flutter/pull/182610) opened on on February 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182610) 69 additions and 47 deletions in 2 files</sub><br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
+  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182788) 151 additions and 53 deletions in 11 files</sub><br />
 
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
@@ -172,4 +172,10 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]flutter#182361 Fix delegate copy on plugins init<br />
   <sub>[#183016](https://github.com/flutter/flutter/pull/183016) opened on on February 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183016) 96 additions and 19 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][web] Fix stack corruption in Skwasm and harden withStackScope API<br />
+  <sub>[#183022](https://github.com/flutter/flutter/pull/183022) opened on on February 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183022) 141 additions and 19 deletions in 5 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] Fix stack corruption in Skwasm and harden withStackScope API<br />
+  <sub>[#183023](https://github.com/flutter/flutter/pull/183023) opened on on February 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183023) 141 additions and 19 deletions in 5 files</sub><br />
 
