@@ -92,9 +92,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
   <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/182522) 1940 additions and 347 deletions in 18 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
-  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182788) 151 additions and 53 deletions in 11 files</sub><br />
-
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
@@ -147,7 +144,7 @@
   <sub>[#182967](https://github.com/flutter/flutter/pull/182967) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182967) 23 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Timeout when waiting for the correct sized frame from Flutter.<br />
-  <sub>[#182971](https://github.com/flutter/flutter/pull/182971) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182971) 41 additions and 8 deletions in 5 files</sub><br />
+  <sub>[#182971](https://github.com/flutter/flutter/pull/182971) opened on on February 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182971) 41 additions and 8 deletions in 5 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add dev/benchmarks/README.md<br />
   <sub>[#182976](https://github.com/flutter/flutter/pull/182976) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182976) 10 additions and 0 deletions in 1 file</sub><br />
