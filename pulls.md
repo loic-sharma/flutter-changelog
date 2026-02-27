@@ -123,7 +123,7 @@
   <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 10 additions and 6 deletions in 6 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable SwiftPM by default on master and beta<br />
-  <sub>[#182923](https://github.com/flutter/flutter/pull/182923) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182923) 135 additions and 32 deletions in 11 files</sub><br />
+  <sub>[#182923](https://github.com/flutter/flutter/pull/182923) opened on on February 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182923) 135 additions and 32 deletions in 11 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; a11y: expose selectable paragraph semantics as read-only text field<br />
   <sub>[#182928](https://github.com/flutter/flutter/pull/182928) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182928) 38 additions and 0 deletions in 2 files</sub><br />
