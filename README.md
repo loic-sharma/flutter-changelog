@@ -44,7 +44,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[eMxPi](https://github.com/eMxPi)** &mdash; flutter#182361 Fix delegate copy on plugins init<br />
-  <sub>[#182362](https://github.com/flutter/flutter/pull/182362) merged on February 27, 2026 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/182362) over 2 weeks, 96 additions and 19 deletions in 2 files</sub><br />
+  <sub>[#182362](https://github.com/flutter/flutter/pull/182362) merged on February 27, 2026 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/182362) over 2 weeks, 96 additions and 19 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Remove shared rendering data from TextFrame<br />
