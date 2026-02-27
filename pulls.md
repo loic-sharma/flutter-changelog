@@ -152,12 +152,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
   <sub>[#182977](https://github.com/flutter/flutter/pull/182977) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182977) 71 additions and 21 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] Fix failure on Firefox 148<br />
-  <sub>[#182981](https://github.com/flutter/flutter/pull/182981) opened on on February 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182981) 2 additions and 5 deletions in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][web] Fix failure on Firefox 148<br />
-  <sub>[#182982](https://github.com/flutter/flutter/pull/182982) opened on on February 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182982) 2 additions and 5 deletions in 1 file</sub><br />
-
 * **[Fatahillah Alvarisi](https://github.com/alvarisi)** &mdash; docs: document Play Console symbol upload for Android desymbolication<br />
   <sub>[#182985](https://github.com/flutter/flutter/pull/182985) opened on on February 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182985) 39 additions and 0 deletions in 1 file</sub><br />
 
