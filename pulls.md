@@ -179,3 +179,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Exclude arm64 if any dependencies do and print warning when using Xcode 26<br />
   <sub>[#183028](https://github.com/flutter/flutter/pull/183028) opened on on February 27, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/183028) 470 additions and 90 deletions in 7 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll RapidJSON to a branch based on the current upstream head<br />
+  <sub>[#183048](https://github.com/flutter/flutter/pull/183048) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183048) 1 addition and 1 deletion in 1 file</sub><br />
+
