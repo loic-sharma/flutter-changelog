@@ -164,3 +164,6 @@
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Nick Fisher](https://github.com/nmfisher)** &mdash; Update fl_texture_gl.h<br />
+  <sub>[#182999](https://github.com/flutter/flutter/pull/182999) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182999) 0 additions and 3 deletions in 1 file</sub><br />
+
