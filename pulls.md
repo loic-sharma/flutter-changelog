@@ -104,6 +104,9 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable indentical code folding for the engine.<br />
   <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182856) 8 additions and 21 deletions in 2 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Roll Chrome to 145<br />
+  <sub>[#182860](https://github.com/flutter/flutter/pull/182860) opened on on February 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182860) 11 additions and 7 deletions in 4 files</sub><br />
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; User activitiy fallbacks for unmigrated plugins<br />
   <sub>[#182904](https://github.com/flutter/flutter/pull/182904) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182904) 196 additions and 38 deletions in 5 files</sub><br />
 
