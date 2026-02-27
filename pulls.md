@@ -167,9 +167,6 @@
 * **[Nick Fisher](https://github.com/nmfisher)** &mdash; Update fl_texture_gl.h<br />
   <sub>[#182999](https://github.com/flutter/flutter/pull/182999) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182999) 0 additions and 3 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Re-add extended attribute removed by SwiftPM<br />
-  <sub>[#183011](https://github.com/flutter/flutter/pull/183011) opened on on February 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183011) 85 additions and 41 deletions in 3 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]flutter#182361 Fix delegate copy on plugins init<br />
   <sub>[#183016](https://github.com/flutter/flutter/pull/183016) opened on on February 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183016) 96 additions and 19 deletions in 2 files</sub><br />
 
