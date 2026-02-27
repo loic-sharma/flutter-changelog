@@ -119,6 +119,9 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 80743bd43fd5b38fedc503308e7a652e23d3ec93<br />
   <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 10 additions and 6 deletions in 6 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable SwiftPM by default on master and beta<br />
+  <sub>[#182923](https://github.com/flutter/flutter/pull/182923) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182923) 135 additions and 32 deletions in 11 files</sub><br />
+
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; a11y: expose selectable paragraph semantics as read-only text field<br />
   <sub>[#182928](https://github.com/flutter/flutter/pull/182928) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182928) 38 additions and 0 deletions in 2 files</sub><br />
 
@@ -165,5 +168,8 @@
   <sub>[#182999](https://github.com/flutter/flutter/pull/182999) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182999) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update engine version for 3.41<br />
-  <sub>[#183010](https://github.com/flutter/flutter/pull/183010) opened on on February 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183010) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#183010](https://github.com/flutter/flutter/pull/183010) opened on on February 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183010) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Re-add extended attribute removed by SwiftPM<br />
+  <sub>[#183011](https://github.com/flutter/flutter/pull/183011) opened on on February 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183011) 85 additions and 41 deletions in 3 files</sub><br />
 
