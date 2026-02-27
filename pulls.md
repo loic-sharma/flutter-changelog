@@ -167,9 +167,6 @@
 * **[Nick Fisher](https://github.com/nmfisher)** &mdash; Update fl_texture_gl.h<br />
   <sub>[#182999](https://github.com/flutter/flutter/pull/182999) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182999) 0 additions and 3 deletions in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update engine version for 3.41<br />
-  <sub>[#183010](https://github.com/flutter/flutter/pull/183010) opened on on February 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183010) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Re-add extended attribute removed by SwiftPM<br />
   <sub>[#183011](https://github.com/flutter/flutter/pull/183011) opened on on February 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183011) 85 additions and 41 deletions in 3 files</sub><br />
 
