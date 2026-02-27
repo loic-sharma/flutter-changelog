@@ -105,7 +105,7 @@
   <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182856) 8 additions and 21 deletions in 2 files</sub><br />
 
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual roll Dart SDK to 3.12.0-184.0.dev<br />
-  <sub>[#182883](https://github.com/flutter/flutter/pull/182883) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182883) 47 additions and 43 deletions in 5 files</sub><br />
+  <sub>[#182883](https://github.com/flutter/flutter/pull/182883) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182883) 51 additions and 43 deletions in 6 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; User activitiy fallbacks for unmigrated plugins<br />
   <sub>[#182904](https://github.com/flutter/flutter/pull/182904) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182904) 196 additions and 38 deletions in 5 files</sub><br />
@@ -156,5 +156,8 @@
   <sub>[#182985](https://github.com/flutter/flutter/pull/182985) opened on on February 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182985) 39 additions and 0 deletions in 1 file</sub><br />
 
 * **[Alex](https://github.com/AlexanderLek)** &mdash; Fix modal barrier tap passthrough during iOS back swipe<br />
-  <sub>[#182994](https://github.com/flutter/flutter/pull/182994) opened on on February 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182994) 116 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#182994](https://github.com/flutter/flutter/pull/182994) opened on on February 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182994) 116 additions and 4 deletions in 2 files</sub><br />
+
+* **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
+  <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
