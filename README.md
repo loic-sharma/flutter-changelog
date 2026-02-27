@@ -907,7 +907,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Revert androidx.datastore:datastore to 1.1.7<br />
-  <sub>[#11128](https://github.com/flutter/packages/pull/11128) merged on February 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11128) over 20 minutes, 6 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#11128](https://github.com/flutter/packages/pull/11128) merged on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11128) over 20 minutes, 6 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Federate READMEs<br />
