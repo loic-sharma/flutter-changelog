@@ -176,3 +176,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] Fix stack corruption in Skwasm and harden withStackScope API<br />
   <sub>[#183023](https://github.com/flutter/flutter/pull/183023) opened on on February 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183023) 141 additions and 19 deletions in 5 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Exclude arm64 if any dependencies do and print warning when using Xcode 26<br />
+  <sub>[#183028](https://github.com/flutter/flutter/pull/183028) opened on on February 27, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/183028) 470 additions and 90 deletions in 7 files</sub><br />
+
