@@ -104,9 +104,6 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable indentical code folding for the engine.<br />
   <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182856) 8 additions and 21 deletions in 2 files</sub><br />
 
-* **[Slava Egorov](https://github.com/mraleph)** &mdash; Manual roll Dart SDK to 3.12.0-184.0.dev<br />
-  <sub>[#182883](https://github.com/flutter/flutter/pull/182883) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182883) 51 additions and 43 deletions in 6 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; User activitiy fallbacks for unmigrated plugins<br />
   <sub>[#182904](https://github.com/flutter/flutter/pull/182904) opened on on February 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182904) 196 additions and 38 deletions in 5 files</sub><br />
 
