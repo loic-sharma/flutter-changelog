@@ -1236,7 +1236,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-12 commits.
+13 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Edge to edge behavior on Android
   <sub>[#13099](https://github.com/flutter/website/pull/13099) merged on February 24, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/website/pull/13099) over 3 days, 39 additions and 29 deletions in 1 file</sub>
@@ -1245,6 +1245,10 @@
 * **[Anderson André](https://github.com/Anderson-Andre-P)** &mdash; docs: reorganize Online Courses page by language and fix alphabetical…
   <sub>[#13104](https://github.com/flutter/website/pull/13104) merged on February 23, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13104) over 1 day, 35 additions and 14 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Flutter iOS role application link
+  <sub>[#13121](https://github.com/flutter/website/pull/13121) merged on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13121) over 14 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add missing redirect from old get-started/install links
   <sub>[#13118](https://github.com/flutter/website/pull/13118) merged on February 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13118) over 6 hours, 1 addition and 0 deletions in 1 file</sub>
