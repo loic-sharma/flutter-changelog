@@ -146,9 +146,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Timeout when waiting for the correct sized frame from Flutter.<br />
   <sub>[#182971](https://github.com/flutter/flutter/pull/182971) opened on on February 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182971) 41 additions and 8 deletions in 5 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add dev/benchmarks/README.md<br />
-  <sub>[#182976](https://github.com/flutter/flutter/pull/182976) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182976) 10 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
   <sub>[#182977](https://github.com/flutter/flutter/pull/182977) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182977) 71 additions and 21 deletions in 2 files</sub><br />
 
