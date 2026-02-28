@@ -96,7 +96,7 @@
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
-  <sub>[#182836](https://github.com/flutter/flutter/pull/182836) opened on on February 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/182836) 594 additions and 11 deletions in 6 files</sub><br />
+  <sub>[#182836](https://github.com/flutter/flutter/pull/182836) opened on on February 24, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/182836) 594 additions and 11 deletions in 6 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable indentical code folding for the engine.<br />
   <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182856) 8 additions and 21 deletions in 2 files</sub><br />
