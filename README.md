@@ -933,7 +933,7 @@
 
 ### February 21, 2026 to February 27, 2026
 
-20 commits.
+21 commits.
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera] add video stabilization<br />
   <sub>[#7108](https://github.com/flutter/packages/pull/7108) merged on February 25, 2026 &mdash; **Extra large:** [196 comments](https://github.com/flutter/packages/pull/7108) over 19 months, 2276 additions and 4 deletions in 8 files</sub><br />
@@ -942,6 +942,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera] Convert iOS event channel to Pigeon<br />
   <sub>[#11109](https://github.com/flutter/packages/pull/11109) merged on February 25, 2026 &mdash; **Extra large:** [66 comments](https://github.com/flutter/packages/pull/11109) over 22 hours, 777 additions and 877 deletions in 65 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Reduce reply-handling duplication in generated Dart code.<br />
+  <sub>[#11114](https://github.com/flutter/packages/pull/11114) merged on February 28, 2026 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/11114) over 3 days, 2237 additions and 3809 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes lossless transition from Dart Color to native UIColor when calling `setBackgroundColor`<br />
   <sub>[#10610](https://github.com/flutter/packages/pull/10610) merged on February 27, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/packages/pull/10610) over 2 months, 525 additions and 64 deletions in 20 files</sub><br />
