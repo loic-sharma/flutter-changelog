@@ -183,5 +183,5 @@
   <sub>[#183059](https://github.com/flutter/flutter/pull/183059) opened on on February 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183059) 166 additions and 1 deletion in 7 files</sub><br />
 
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix formatting, capitalization, and grammar in activation issue template<br />
-  <sub>[#183061](https://github.com/flutter/flutter/pull/183061) opened on on February 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183061) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#183061](https://github.com/flutter/flutter/pull/183061) opened on on February 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183061) 3 additions and 3 deletions in 1 file</sub><br />
 
