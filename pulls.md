@@ -203,3 +203,6 @@
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [Android] Use EdgeToEdge.enable/WindowCompat for edge-to-edge mode instead of deprecated View flags<br />
   <sub>[#183072](https://github.com/flutter/flutter/pull/183072) opened on on February 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183072) 153 additions and 21 deletions in 2 files</sub><br />
 
+* **[Alexander Dmitriev](https://github.com/BrainLUX)** &mdash; Replace BorderRadius.circular with const BorderRadius.all and update documentation examples<br />
+  <sub>[#183074](https://github.com/flutter/flutter/pull/183074) opened on on February 28, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/183074) 195 additions and 145 deletions in 41 files</sub><br />
+
