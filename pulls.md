@@ -197,3 +197,6 @@
 * **[GyuBin Hwang](https://github.com/SpiralMomentum)** &mdash; Fix _PlatformViewPlaceholderBox crash when detached during fast scroll<br />
   <sub>[#183069](https://github.com/flutter/flutter/pull/183069) opened on on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183069) 90 additions and 1 deletion in 2 files</sub><br />
 
+* **[GyuBin Hwang](https://github.com/SpiralMomentum)** &mdash; Make TextDecoration final and unify maskValue across platforms<br />
+  <sub>[#183070](https://github.com/flutter/flutter/pull/183070) opened on on February 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183070) 5 additions and 2 deletions in 2 files</sub><br />
+
