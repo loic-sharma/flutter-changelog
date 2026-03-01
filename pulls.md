@@ -218,3 +218,6 @@
 * **[Viacheslav "Slava" Riabinin](https://github.com/sla-000)** &mdash; Improve SafeArea widgets with baseMinimum property to solve unwanted padding accumulation in nested layouts<br />
   <sub>[#183090](https://github.com/flutter/flutter/pull/183090) opened on on March 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183090) 268 additions and 14 deletions in 2 files</sub><br />
 
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Fix RouteAware.didPushNext documentation inaccuracy<br />
+  <sub>[#183097](https://github.com/flutter/flutter/pull/183097) opened on on March 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183097) 7 additions and 2 deletions in 1 file</sub><br />
+
