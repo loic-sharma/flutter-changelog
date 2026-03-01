@@ -956,7 +956,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [rfw] Remove outdated info from README<br />
-  <sub>[#11123](https://github.com/flutter/packages/pull/11123) merged on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11123) over 6 hours, 5 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#11123](https://github.com/flutter/packages/pull/11123) merged on February 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11123) over 6 hours, 5 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Tidy GeneratorAdapters to be const, with getters instead of fields<br />
