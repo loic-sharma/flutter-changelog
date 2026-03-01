@@ -206,3 +206,6 @@
 * **[Alexander Dmitriev](https://github.com/BrainLUX)** &mdash; Replace BorderRadius.circular with const BorderRadius.all and update documentation examples<br />
   <sub>[#183074](https://github.com/flutter/flutter/pull/183074) opened on on February 28, 2026 &mdash; **Medium:** [41 comments](https://github.com/flutter/flutter/pull/183074) 195 additions and 145 deletions in 41 files</sub><br />
 
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: guard auto-scroll against Offset.infinite in _ScrollableSelectionContainerDelegate<br />
+  <sub>[#183079](https://github.com/flutter/flutter/pull/183079) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183079) 1 addition and 1 deletion in 1 file</sub><br />
+
