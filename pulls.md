@@ -212,6 +212,9 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: use double quotes in settings.gradle.kts template<br />
   <sub>[#183081](https://github.com/flutter/flutter/pull/183081) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183081) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update absorbPointer example and test to a more simple version<br />
+  <sub>[#183084](https://github.com/flutter/flutter/pull/183084) opened on on March 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183084) 79 additions and 44 deletions in 3 files</sub><br />
+
 * **[GyuBin Hwang](https://github.com/SpiralMomentum)** &mdash; [framework] Add fadeOutPlaceholder parameter to FadeInImage<br />
   <sub>[#183086](https://github.com/flutter/flutter/pull/183086) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183086) 99 additions and 27 deletions in 2 files</sub><br />
 
