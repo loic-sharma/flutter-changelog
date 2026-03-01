@@ -219,5 +219,5 @@
   <sub>[#183086](https://github.com/flutter/flutter/pull/183086) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183086) 99 additions and 27 deletions in 2 files</sub><br />
 
 * **[Viacheslav "Slava" Riabinin](https://github.com/sla-000)** &mdash; Improve SafeArea widgets with baseMinimum property to solve unwanted padding accumulation in nested layouts<br />
-  <sub>[#183090](https://github.com/flutter/flutter/pull/183090) opened on on March 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183090) 268 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#183090](https://github.com/flutter/flutter/pull/183090) opened on on March 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183090) 268 additions and 14 deletions in 2 files</sub><br />
 
