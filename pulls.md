@@ -219,7 +219,7 @@
   <sub>[#183097](https://github.com/flutter/flutter/pull/183097) opened on on March 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183097) 15 additions and 2 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FFI code for windowing<br />
-  <sub>[#183098](https://github.com/flutter/flutter/pull/183098) opened on on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183098) 106 additions and 36 deletions in 1 file</sub><br />
+  <sub>[#183098](https://github.com/flutter/flutter/pull/183098) opened on on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183098) 106 additions and 36 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add a Clarification for the docs of suggestionsBuilder of SearchAnchor<br />
   <sub>[#183106](https://github.com/flutter/flutter/pull/183106) opened on on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183106) 1 addition and 0 deletions in 1 file</sub><br />
@@ -231,5 +231,5 @@
   <sub>[#183110](https://github.com/flutter/flutter/pull/183110) opened on on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183110) 95 additions and 0 deletions in 2 files</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix emoji insertion corruption by using grapheme-aware text operations<br />
-  <sub>[#183112](https://github.com/flutter/flutter/pull/183112) opened on on March 2, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/183112) 389 additions and 19 deletions in 2 files</sub><br />
+  <sub>[#183112](https://github.com/flutter/flutter/pull/183112) opened on on March 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/183112) 389 additions and 19 deletions in 2 files</sub><br />
 
