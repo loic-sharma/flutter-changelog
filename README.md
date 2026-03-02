@@ -4,11 +4,15 @@
 
 ### February 28, 2026 to March 6, 2026
 
-2 commits.
+3 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add information to issue triage page<br />
   <sub>[#182145](https://github.com/flutter/flutter/pull/182145) merged on March 2, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182145) over 2 weeks, 30 additions and 14 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [rules] Fix a few issues in the full-length rules file<br />
+  <sub>[#182725](https://github.com/flutter/flutter/pull/182725) merged on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182725) over 1 week, 22 additions and 33 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Roll Chrome to 145<br />
   <sub>[#182860](https://github.com/flutter/flutter/pull/182860) merged on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182860) over 5 days, 9 additions and 7 deletions in 4 files</sub><br />

@@ -30,7 +30,7 @@
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179810) 179 additions and 179 deletions in 10 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow windows to be created undecorated<br />
-  <sub>[#179859](https://github.com/flutter/flutter/pull/179859) opened on on December 14, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/179859) 155 additions and 22 deletions in 20 files</sub><br />
+  <sub>[#179859](https://github.com/flutter/flutter/pull/179859) opened on on December 14, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/179859) 155 additions and 22 deletions in 20 files</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
@@ -227,6 +227,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-stable] Update lifecycle event loops to be mutation-safe<br />
   <sub>[#183125](https://github.com/flutter/flutter/pull/183125) opened on on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183125) 99 additions and 22 deletions in 2 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump engine version for 3.42.0-0.2.pre.<br />
-  <sub>[#183126](https://github.com/flutter/flutter/pull/183126) opened on on March 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183126) 1 addition and 1 deletion in 1 file</sub><br />
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]uikit for admob banner in scrollable list gesture issue<br />
+  <sub>[#183128](https://github.com/flutter/flutter/pull/183128) opened on on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183128) 238 additions and 38 deletions in 10 files</sub><br />
 
