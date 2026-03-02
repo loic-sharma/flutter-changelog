@@ -862,9 +862,18 @@
 
 ## flutter/website
 
+### February 28, 2026 to March 6, 2026
+
+1 commits.
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Design Doc: Decoupling Menu State from Presentation
+  <sub>[#13127](https://github.com/flutter/website/pull/13127) merged on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13127) over 5 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### February 21, 2026 to February 27, 2026
 
-13 commits.
+<details>
+<summary>13 commits...</summary>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Edge to edge behavior on Android
   <sub>[#13099](https://github.com/flutter/website/pull/13099) merged on February 24, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/website/pull/13099) over 3 days, 39 additions and 29 deletions in 1 file</sub>
@@ -917,6 +926,8 @@
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; Fix grammar and improve phrasing in README
   <sub>[#13106](https://github.com/flutter/website/pull/13106) merged on February 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13106) over 7 hours, 24 additions and 24 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### February 14, 2026 to February 20, 2026
 
