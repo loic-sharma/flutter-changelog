@@ -36,6 +36,10 @@
   <sub>[#182912](https://github.com/flutter/flutter/pull/182912) merged on February 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182912) over 1 day, 141 additions and 19 deletions in 5 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
+* **[Emma Twersky](https://github.com/twerske)** &mdash; Update roadmap for 2026
+  <sub>[#182798](https://github.com/flutter/flutter/pull/182798) merged on February 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182798) over 40 minutes, 84 additions and 51 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
+
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Use bilinear filtering for non-uniform scaled text
   <sub>[#182224](https://github.com/flutter/flutter/pull/182224) merged on February 26, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/182224) over 2 weeks, 68 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -48,10 +52,6 @@
 * **[serbandin](https://github.com/serbandin)** &mdash; fix-huawei-imagereader-166481
   <sub>[#181931](https://github.com/flutter/flutter/pull/181931) merged on February 25, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/181931) over 2 weeks, 47 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Emma Twersky](https://github.com/twerske)** &mdash; Update roadmap for 2026
-  <sub>[#182798](https://github.com/flutter/flutter/pull/182798) merged on February 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182798) over 40 minutes, 84 additions and 51 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Linux build hooks: Read compiler config from CMakeCache.txt
   <sub>[#181004](https://github.com/flutter/flutter/pull/181004) merged on February 27, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/181004) over 1 month, 304 additions and 127 deletions in 13 files</sub>
@@ -891,11 +891,15 @@
 
 ### February 28, 2026 to March 6, 2026
 
-3 commits.
+4 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Adjust caution note for `firebase_options.dart`
   <sub>[#12995](https://github.com/flutter/website/pull/12995) merged on March 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/12995) over 1 month, 15 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update title for Flutter setup documentation
+  <sub>[#13120](https://github.com/flutter/website/pull/13120) merged on March 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13120) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Adds go link for dependency package hosting design doc
   <sub>[#13129](https://github.com/flutter/website/pull/13129) merged on March 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13129) over 55 minutes, 1 addition and 0 deletions in 1 file</sub>
