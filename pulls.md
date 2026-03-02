@@ -218,3 +218,6 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Fix RouteAware.didPushNext documentation inaccuracy<br />
   <sub>[#183097](https://github.com/flutter/flutter/pull/183097) opened on on March 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183097) 7 additions and 2 deletions in 1 file</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FFI code for windowing<br />
+  <sub>[#183098](https://github.com/flutter/flutter/pull/183098) opened on on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183098) 106 additions and 36 deletions in 1 file</sub><br />
+
