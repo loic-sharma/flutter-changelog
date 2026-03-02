@@ -215,6 +215,3 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]uikit for admob banner in scrollable list gesture issue<br />
   <sub>[#183128](https://github.com/flutter/flutter/pull/183128) opened on on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183128) 238 additions and 38 deletions in 10 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.41.3.<br />
-  <sub>[#183131](https://github.com/flutter/flutter/pull/183131) opened on on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183131) 5 additions and 0 deletions in 1 file</sub><br />
-
