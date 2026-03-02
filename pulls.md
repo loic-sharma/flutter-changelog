@@ -186,7 +186,7 @@
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183063) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; Fix black screen issue when rendering pixel buffer on Linux<br />
-  <sub>[#183065](https://github.com/flutter/flutter/pull/183065) opened on on February 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183065) 48 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#183065](https://github.com/flutter/flutter/pull/183065) opened on on February 28, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183065) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[GyuBin Hwang](https://github.com/SpiralMomentum)** &mdash; Fix _PlatformViewPlaceholderBox crash when detached during fast scroll<br />
   <sub>[#183069](https://github.com/flutter/flutter/pull/183069) opened on on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183069) 90 additions and 1 deletion in 2 files</sub><br />
@@ -231,5 +231,5 @@
   <sub>[#183110](https://github.com/flutter/flutter/pull/183110) opened on on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183110) 95 additions and 0 deletions in 2 files</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix emoji insertion corruption by using grapheme-aware text operations<br />
-  <sub>[#183112](https://github.com/flutter/flutter/pull/183112) opened on on March 2, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/183112) 377 additions and 19 deletions in 2 files</sub><br />
+  <sub>[#183112](https://github.com/flutter/flutter/pull/183112) opened on on March 2, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/183112) 389 additions and 19 deletions in 2 files</sub><br />
 
