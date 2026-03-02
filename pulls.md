@@ -36,7 +36,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Md Mushfiqur Rahim](https://github.com/MD-Mushfiqur123)** &mdash; add my name<br />
-  <sub>[#180284](https://github.com/flutter/flutter/pull/180284) opened on on December 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180284) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#180284](https://github.com/flutter/flutter/pull/180284) opened on on December 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180284) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add test to verify that ffigen-generated code is uptodate<br />
   <sub>[#180680](https://github.com/flutter/flutter/pull/180680) opened on on January 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/180680) 31 additions and 0 deletions in 1 file</sub><br />
@@ -199,12 +199,6 @@
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix emoji insertion corruption by using grapheme-aware text operations<br />
   <sub>[#183112](https://github.com/flutter/flutter/pull/183112) opened on on March 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/183112) 389 additions and 19 deletions in 2 files</sub><br />
-
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Fix NavigationDestination.tooltip not respecting empty string<br />
-  <sub>[#183119](https://github.com/flutter/flutter/pull/183119) opened on on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183119) 26 additions and 22 deletions in 1 file</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-stable] Update lifecycle event loops to be mutation-safe<br />
-  <sub>[#183125](https://github.com/flutter/flutter/pull/183125) opened on on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183125) 99 additions and 22 deletions in 2 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]uikit for admob banner in scrollable list gesture issue<br />
   <sub>[#183128](https://github.com/flutter/flutter/pull/183128) opened on on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183128) 238 additions and 38 deletions in 10 files</sub><br />
