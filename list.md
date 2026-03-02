@@ -864,7 +864,11 @@
 
 ### February 28, 2026 to March 6, 2026
 
-1 commits.
+2 commits.
+
+* **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Adjust caution note for `firebase_options.dart`
+  <sub>[#12995](https://github.com/flutter/website/pull/12995) merged on March 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/12995) over 1 month, 15 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Design Doc: Decoupling Menu State from Presentation
   <sub>[#13127](https://github.com/flutter/website/pull/13127) merged on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13127) over 5 hours, 1 addition and 0 deletions in 1 file</sub>
