@@ -101,9 +101,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; User activitiy fallbacks for unmigrated plugins<br />
   <sub>[#182904](https://github.com/flutter/flutter/pull/182904) opened on on February 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182904) 196 additions and 38 deletions in 5 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Change default cache extent<br />
-  <sub>[#182905](https://github.com/flutter/flutter/pull/182905) opened on on February 25, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/182905) 514 additions and 248 deletions in 30 files</sub><br />
-
 * **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; OutlineInputBorder: Fix label animation and gap rendering<br />
   <sub>[#182910](https://github.com/flutter/flutter/pull/182910) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182910) 96 additions and 24 deletions in 2 files</sub><br />
 
@@ -113,20 +110,11 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 80743bd43fd5b38fedc503308e7a652e23d3ec93<br />
   <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 10 additions and 6 deletions in 6 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable SwiftPM by default on master and beta<br />
-  <sub>[#182923](https://github.com/flutter/flutter/pull/182923) opened on on February 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182923) 135 additions and 32 deletions in 11 files</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; a11y: expose selectable paragraph semantics as read-only text field<br />
   <sub>[#182928](https://github.com/flutter/flutter/pull/182928) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182928) 38 additions and 0 deletions in 2 files</sub><br />
 
-* **[Lukas Klingsbo](https://github.com/spydon)** &mdash; Support mixed color spaces in `Color.lerp`<br />
-  <sub>[#182934](https://github.com/flutter/flutter/pull/182934) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182934) 124 additions and 26 deletions in 3 files</sub><br />
-
 * **[laishere](https://github.com/laishere)** &mdash; Fix PlatformView scaling in showCupertinoSheet transitions<br />
   <sub>[#182935](https://github.com/flutter/flutter/pull/182935) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182935) 216 additions and 7 deletions in 5 files</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace the rest of the references to `flutter/engine` with `flutter/flutter`<br />
-  <sub>[#182938](https://github.com/flutter/flutter/pull/182938) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182938) 14 additions and 15 deletions in 4 files</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window<br />
   <sub>[#182963](https://github.com/flutter/flutter/pull/182963) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182963) 53 additions and 1 deletion in 2 files</sub><br />
@@ -175,9 +163,6 @@
 
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix wording and suggest GitHub Gist for sharing large logs<br />
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183063) 3 additions and 3 deletions in 1 file</sub><br />
-
-* **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; Fix black screen issue when rendering pixel buffer on Linux<br />
-  <sub>[#183065](https://github.com/flutter/flutter/pull/183065) opened on on February 28, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183065) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[GyuBin Hwang](https://github.com/SpiralMomentum)** &mdash; Fix _PlatformViewPlaceholderBox crash when detached during fast scroll<br />
   <sub>[#183069](https://github.com/flutter/flutter/pull/183069) opened on on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183069) 90 additions and 1 deletion in 2 files</sub><br />
@@ -229,4 +214,7 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]uikit for admob banner in scrollable list gesture issue<br />
   <sub>[#183128](https://github.com/flutter/flutter/pull/183128) opened on on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183128) 238 additions and 38 deletions in 10 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.41.3.<br />
+  <sub>[#183131](https://github.com/flutter/flutter/pull/183131) opened on on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183131) 5 additions and 0 deletions in 1 file</sub><br />
 
