@@ -165,7 +165,7 @@
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183063) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[GyuBin Hwang](https://github.com/SpiralMomentum)** &mdash; Fix _PlatformViewPlaceholderBox crash when detached during fast scroll<br />
-  <sub>[#183069](https://github.com/flutter/flutter/pull/183069) opened on on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183069) 90 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#183069](https://github.com/flutter/flutter/pull/183069) opened on on February 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183069) 90 additions and 1 deletion in 2 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [Android] Use EdgeToEdge.enable/WindowCompat for edge-to-edge mode instead of deprecated View flags<br />
   <sub>[#183072](https://github.com/flutter/flutter/pull/183072) opened on on February 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183072) 174 additions and 21 deletions in 2 files</sub><br />
@@ -190,9 +190,6 @@
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Fix RouteAware.didPushNext documentation inaccuracy<br />
   <sub>[#183097](https://github.com/flutter/flutter/pull/183097) opened on on March 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183097) 15 additions and 2 deletions in 1 file</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FFI code for windowing<br />
-  <sub>[#183098](https://github.com/flutter/flutter/pull/183098) opened on on March 2, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/183098) 677 additions and 599 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add a Clarification for the docs of suggestionsBuilder of SearchAnchor<br />
   <sub>[#183106](https://github.com/flutter/flutter/pull/183106) opened on on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183106) 1 addition and 0 deletions in 1 file</sub><br />
