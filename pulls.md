@@ -152,9 +152,6 @@
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]flutter#182361 Fix delegate copy on plugins init<br />
-  <sub>[#183016](https://github.com/flutter/flutter/pull/183016) opened on on February 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183016) 96 additions and 19 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][web] Fix stack corruption in Skwasm and harden withStackScope API<br />
   <sub>[#183022](https://github.com/flutter/flutter/pull/183022) opened on on February 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183022) 141 additions and 19 deletions in 5 files</sub><br />
 
@@ -225,5 +222,8 @@
   <sub>[#183112](https://github.com/flutter/flutter/pull/183112) opened on on March 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/183112) 389 additions and 19 deletions in 2 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Fix NavigationDestination.tooltip not respecting empty string<br />
-  <sub>[#183119](https://github.com/flutter/flutter/pull/183119) opened on on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183119) 25 additions and 22 deletions in 1 file</sub><br />
+  <sub>[#183119](https://github.com/flutter/flutter/pull/183119) opened on on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183119) 26 additions and 22 deletions in 1 file</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-stable] Update lifecycle event loops to be mutation-safe<br />
+  <sub>[#183125](https://github.com/flutter/flutter/pull/183125) opened on on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183125) 99 additions and 22 deletions in 2 files</sub><br />
 
