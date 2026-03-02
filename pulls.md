@@ -230,3 +230,6 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Fix SelectableText right-click selecting word on web/desktop<br />
   <sub>[#183110](https://github.com/flutter/flutter/pull/183110) opened on on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183110) 95 additions and 0 deletions in 2 files</sub><br />
 
+* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix emoji insertion corruption by using grapheme-aware text operations<br />
+  <sub>[#183112](https://github.com/flutter/flutter/pull/183112) opened on on March 2, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/183112) 377 additions and 19 deletions in 2 files</sub><br />
+
