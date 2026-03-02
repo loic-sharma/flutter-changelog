@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### February 28, 2026 to March 6, 2026
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add information to issue triage page<br />
+  <sub>[#182145](https://github.com/flutter/flutter/pull/182145) merged on March 2, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182145) over 2 weeks, 30 additions and 14 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 ### February 21, 2026 to February 27, 2026
 
-94 commits.
+<details>
+<summary>94 commits...</summary>
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash; Fix issue where web embedder is synthesizing key up events too eagerly<br />
   <sub>[#180692](https://github.com/flutter/flutter/pull/180692) merged on February 27, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/180692) over 1 month, 322 additions and 85 deletions in 2 files</sub><br />
@@ -384,6 +393,8 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Reland: remove material in context_menu_controller_test, icon_test, list_wheel_scroll_view_test, media_query_test, platform_menu_bar_test<br />
   <sub>[#182891](https://github.com/flutter/flutter/pull/182891) merged on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182891) over 1 day, 130 additions and 139 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+</details>
 
 ### February 14, 2026 to February 20, 2026
 
