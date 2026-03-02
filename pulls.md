@@ -219,5 +219,5 @@
   <sub>[#183134](https://github.com/flutter/flutter/pull/183134) opened on on March 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183134) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build App and native asset frameworks for Add to App FlutterPluginRegistrant<br />
-  <sub>[#183136](https://github.com/flutter/flutter/pull/183136) opened on on March 2, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/183136) 1399 additions and 48 deletions in 9 files</sub><br />
+  <sub>[#183136](https://github.com/flutter/flutter/pull/183136) opened on on March 2, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183136) 1399 additions and 48 deletions in 9 files</sub><br />
 
