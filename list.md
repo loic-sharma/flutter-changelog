@@ -633,9 +633,18 @@
 
 ## flutter/packages
 
+### February 28, 2026 to March 6, 2026
+
+1 commits.
+
+* **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS
+  <sub>[#11134](https://github.com/flutter/packages/pull/11134) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11134) over 3 days, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Marcin Chudy](https://github.com/mchudy), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### February 21, 2026 to February 27, 2026
 
-21 commits.
+<details>
+<summary>21 commits...</summary>
 
 * **[Rui Craveiro](https://github.com/ruicraveiro)** &mdash; [camera] add video stabilization
   <sub>[#7108](https://github.com/flutter/packages/pull/7108) merged on February 25, 2026 &mdash; **Extra large:** [196 comments](https://github.com/flutter/packages/pull/7108) over 19 months, 2276 additions and 4 deletions in 8 files</sub>
@@ -720,6 +729,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 44a626f4f002 to 90673a4eef27 (10 revisions)
   <sub>[#11090](https://github.com/flutter/packages/pull/11090) merged on February 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11090) over 2 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### February 14, 2026 to February 20, 2026
 
