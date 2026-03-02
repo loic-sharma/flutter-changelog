@@ -227,3 +227,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-stable] Update lifecycle event loops to be mutation-safe<br />
   <sub>[#183125](https://github.com/flutter/flutter/pull/183125) opened on on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183125) 99 additions and 22 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump engine version for 3.42.0-0.2.pre.<br />
+  <sub>[#183126](https://github.com/flutter/flutter/pull/183126) opened on on March 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183126) 1 addition and 1 deletion in 1 file</sub><br />
+
