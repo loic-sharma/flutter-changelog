@@ -91,7 +91,7 @@
   <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Use AnimationStyle curve and reverseCurve in ModalBottomSheet animation<br />
-  <sub>[#181403](https://github.com/flutter/flutter/pull/181403) merged on February 25, 2026 &mdash; **Small:** [58 comments](https://github.com/flutter/flutter/pull/181403) over 1 month, 220 additions and 20 deletions in 2 files</sub><br />
+  <sub>[#181403](https://github.com/flutter/flutter/pull/181403) merged on February 25, 2026 &mdash; **Small:** [59 comments](https://github.com/flutter/flutter/pull/181403) over 1 month, 220 additions and 20 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor bin/ shell scripts for better performance and safety<br />
@@ -271,7 +271,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Run webparagraph tests in CI<br />
-  <sub>[#182092](https://github.com/flutter/flutter/pull/182092) merged on February 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182092) over 2 weeks, 37 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#182092](https://github.com/flutter/flutter/pull/182092) merged on February 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182092) over 2 weeks, 37 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add missing mutation-safe delegate iteration and use idomatic syntax<br />
@@ -647,7 +647,11 @@
 
 ### February 28, 2026 to March 6, 2026
 
-1 commits.
+2 commits.
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Switch Indent class to manage all writes with a StringBuffer<br />
+  <sub>[#11133](https://github.com/flutter/packages/pull/11133) merged on March 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11133) over 3 days, 55 additions and 46 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#11134](https://github.com/flutter/packages/pull/11134) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11134) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
