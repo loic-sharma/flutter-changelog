@@ -218,3 +218,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FFI code for windowing<br />
   <sub>[#183098](https://github.com/flutter/flutter/pull/183098) opened on on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183098) 106 additions and 36 deletions in 1 file</sub><br />
 
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add a Clarification for the docs of suggestionsBuilder of SearchAnchor<br />
+  <sub>[#183106](https://github.com/flutter/flutter/pull/183106) opened on on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183106) 1 addition and 0 deletions in 1 file</sub><br />
+
