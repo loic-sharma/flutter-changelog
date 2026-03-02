@@ -158,9 +158,6 @@
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[Nick Fisher](https://github.com/nmfisher)** &mdash; Update fl_texture_gl.h<br />
-  <sub>[#182999](https://github.com/flutter/flutter/pull/182999) opened on on February 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182999) 0 additions and 4 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]flutter#182361 Fix delegate copy on plugins init<br />
   <sub>[#183016](https://github.com/flutter/flutter/pull/183016) opened on on February 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183016) 96 additions and 19 deletions in 2 files</sub><br />
 
