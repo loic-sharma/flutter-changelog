@@ -221,3 +221,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add a Clarification for the docs of suggestionsBuilder of SearchAnchor<br />
   <sub>[#183106](https://github.com/flutter/flutter/pull/183106) opened on on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183106) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add scrollPadding property to DropdownMenu<br />
+  <sub>[#183109](https://github.com/flutter/flutter/pull/183109) opened on on March 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183109) 37 additions and 0 deletions in 2 files</sub><br />
+
