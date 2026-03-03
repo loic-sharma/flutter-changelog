@@ -203,9 +203,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-specify the ndk version in various test apps, to prevent ndk download<br />
   <sub>[#183134](https://github.com/flutter/flutter/pull/183134) opened on on March 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183134) 37 additions and 4 deletions in 35 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build App and native asset frameworks for Add to App FlutterPluginRegistrant<br />
-  <sub>[#183136](https://github.com/flutter/flutter/pull/183136) opened on on March 2, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/183136) 1511 additions and 48 deletions in 10 files</sub><br />
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Slider] Refactor test "Value indicator appears when it should"<br />
   <sub>[#183143](https://github.com/flutter/flutter/pull/183143) opened on on March 2, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/183143) 205 additions and 114 deletions in 3 files</sub><br />
 
