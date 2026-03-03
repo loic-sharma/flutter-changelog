@@ -675,7 +675,11 @@
 
 ### February 28, 2026 to March 6, 2026
 
-3 commits.
+4 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Add initial non-plugin package support for Kotlin Gradle<br />
+  <sub>[#11127](https://github.com/flutter/packages/pull/11127) merged on March 3, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/11127) over 5 days, 778 additions and 228 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Stop display link on dispose<br />
   <sub>[#11118](https://github.com/flutter/packages/pull/11118) merged on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11118) over 5 days, 29 additions and 1 deletion in 4 files</sub><br />
