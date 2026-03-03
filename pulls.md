@@ -162,7 +162,7 @@
   <sub>[#183079](https://github.com/flutter/flutter/pull/183079) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183079) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: use double quotes in settings.gradle.kts template<br />
-  <sub>[#183081](https://github.com/flutter/flutter/pull/183081) opened on on March 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183081) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#183081](https://github.com/flutter/flutter/pull/183081) opened on on March 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183081) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update absorbPointer example and test to a more simple version<br />
   <sub>[#183084](https://github.com/flutter/flutter/pull/183084) opened on on March 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183084) 79 additions and 44 deletions in 3 files</sub><br />
@@ -202,4 +202,7 @@
 
 * **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183180) 38 additions and 0 deletions in 5 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [stable] Add changelog for 3.41.4.<br />
+  <sub>[#183183](https://github.com/flutter/flutter/pull/183183) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183183) 6 additions and 0 deletions in 1 file</sub><br />
 

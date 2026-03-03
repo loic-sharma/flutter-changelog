@@ -4,7 +4,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-13 commits.
+14 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build App and native asset frameworks for Add to App FlutterPluginRegistrant
   <sub>[#183136](https://github.com/flutter/flutter/pull/183136) merged on March 3, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/183136) over 21 hours, 1511 additions and 48 deletions in 10 files</sub>
@@ -37,6 +37,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [rules] Fix a few issues in the full-length rules file
   <sub>[#182725](https://github.com/flutter/flutter/pull/182725) merged on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182725) over 1 week, 22 additions and 33 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]uitest for admob banner in scrollable list gesture issue
+  <sub>[#183128](https://github.com/flutter/flutter/pull/183128) merged on March 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183128) over 1 day, 232 additions and 38 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use isA to test for exceptions
   <sub>[#183129](https://github.com/flutter/flutter/pull/183129) merged on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183129) over 4 hours, 19 additions and 13 deletions in 1 file</sub>
