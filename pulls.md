@@ -86,9 +86,6 @@
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add Michal Kucharski to AUTHORS<br />
   <sub>[#182366](https://github.com/flutter/flutter/pull/182366) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Nour](https://github.com/MohammedTarigg)** &mdash; Improve SwiftPM minimum platform mismatch diagnostics<br />
-  <sub>[#182375](https://github.com/flutter/flutter/pull/182375) opened on on February 13, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/182375) 154 additions and 0 deletions in 2 files</sub><br />
-
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
   <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/182522) 2026 additions and 347 deletions in 18 files</sub><br />
 
@@ -117,7 +114,7 @@
   <sub>[#182935](https://github.com/flutter/flutter/pull/182935) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182935) 216 additions and 7 deletions in 5 files</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window<br />
-  <sub>[#182963](https://github.com/flutter/flutter/pull/182963) opened on on February 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182963) 53 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#182963](https://github.com/flutter/flutter/pull/182963) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182963) 53 additions and 1 deletion in 2 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
   <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
@@ -168,7 +165,7 @@
   <sub>[#183079](https://github.com/flutter/flutter/pull/183079) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183079) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: use double quotes in settings.gradle.kts template<br />
-  <sub>[#183081](https://github.com/flutter/flutter/pull/183081) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183081) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#183081](https://github.com/flutter/flutter/pull/183081) opened on on March 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183081) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update absorbPointer example and test to a more simple version<br />
   <sub>[#183084](https://github.com/flutter/flutter/pull/183084) opened on on March 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183084) 79 additions and 44 deletions in 3 files</sub><br />
