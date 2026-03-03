@@ -158,9 +158,6 @@
 * **[Alexander Dmitriev](https://github.com/BrainLUX)** &mdash; Replace BorderRadius.circular with const BorderRadius.all and update documentation examples<br />
   <sub>[#183074](https://github.com/flutter/flutter/pull/183074) opened on on February 28, 2026 &mdash; **Medium:** [41 comments](https://github.com/flutter/flutter/pull/183074) 196 additions and 146 deletions in 42 files</sub><br />
 
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: guard auto-scroll against Offset.infinite in _ScrollableSelectionContainerDelegate<br />
-  <sub>[#183079](https://github.com/flutter/flutter/pull/183079) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183079) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: use double quotes in settings.gradle.kts template<br />
   <sub>[#183081](https://github.com/flutter/flutter/pull/183081) opened on on March 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183081) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -208,4 +205,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump engine.version for 3.41.4<br />
   <sub>[#183190](https://github.com/flutter/flutter/pull/183190) opened on on March 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183190) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Bump engine.version for 3.42.0-0.4.pre<br />
+  <sub>[#183192](https://github.com/flutter/flutter/pull/183192) opened on on March 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183192) 1 addition and 1 deletion in 1 file</sub><br />
 
