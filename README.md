@@ -927,7 +927,11 @@
 
 ### February 28, 2026 to March 6, 2026
 
-8 commits.
+9 commits.
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Deprecate TextInputConnection.setStyle<br />
+  <sub>[#13016](https://github.com/flutter/website/pull/13016) merged on March 3, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/13016) over 4 weeks, 77 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Adjust caution note for `firebase_options.dart`<br />
   <sub>[#12995](https://github.com/flutter/website/pull/12995) merged on March 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/12995) over 1 month, 15 additions and 3 deletions in 1 file</sub><br />
