@@ -919,11 +919,15 @@
 
 ### February 28, 2026 to March 6, 2026
 
-7 commits.
+8 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Adjust caution note for `firebase_options.dart`
   <sub>[#12995](https://github.com/flutter/website/pull/12995) merged on March 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/12995) over 1 month, 15 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[sheepmomodld](https://github.com/sheepmomodld)** &mdash; Deleted duplicted "Learned about common layout issues" in Review.
+  <sub>[#13136](https://github.com/flutter/website/pull/13136) merged on March 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13136) over 25 minutes, 0 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for ListTile color warning
   <sub>[#13131](https://github.com/flutter/website/pull/13131) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13131) over 2 hours, 117 additions and 2 deletions in 2 files</sub>
