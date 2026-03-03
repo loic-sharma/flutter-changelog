@@ -87,7 +87,7 @@
   <sub>[#182366](https://github.com/flutter/flutter/pull/182366) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
-  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/182522) 2026 additions and 347 deletions in 18 files</sub><br />
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/182522) 2026 additions and 347 deletions in 18 files</sub><br />
 
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
@@ -138,7 +138,7 @@
   <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds Texture.toImage() method<br />
-  <sub>[#183046](https://github.com/flutter/flutter/pull/183046) opened on on February 27, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/183046) 424 additions and 46 deletions in 29 files</sub><br />
+  <sub>[#183046](https://github.com/flutter/flutter/pull/183046) opened on on February 27, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/183046) 424 additions and 46 deletions in 29 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll RapidJSON to a branch based on the current upstream head<br />
   <sub>[#183048](https://github.com/flutter/flutter/pull/183048) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183048) 26 additions and 25 deletions in 13 files</sub><br />
@@ -197,9 +197,15 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Slider] Refactor test "Value indicator appears when it should"<br />
   <sub>[#183143](https://github.com/flutter/flutter/pull/183143) opened on on March 2, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/183143) 205 additions and 114 deletions in 3 files</sub><br />
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Make compileShader() retry without sksl if it fails with sksl.<br />
+  <sub>[#183146](https://github.com/flutter/flutter/pull/183146) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183146) 184 additions and 51 deletions in 2 files</sub><br />
+
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Use a super-parameter in several missed cases<br />
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
 
 * **[Aditya Rathore](https://github.com/itsAdityaRathore)** &mdash; SelectableRegionState for dynamic toolbar positioning<br />
   <sub>[#183160](https://github.com/flutter/flutter/pull/183160) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183160) 119 additions and 0 deletions in 2 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [stable] Update test package and related packages for stable release.<br />
+  <sub>[#183176](https://github.com/flutter/flutter/pull/183176) opened on on March 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183176) 28 additions and 28 deletions in 6 files</sub><br />
 

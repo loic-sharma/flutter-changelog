@@ -679,7 +679,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-4 commits.
+6 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Add initial non-plugin package support for Kotlin Gradle<br />
   <sub>[#11127](https://github.com/flutter/packages/pull/11127) merged on March 3, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/11127) over 5 days, 778 additions and 228 deletions in 13 files</sub><br />
@@ -692,6 +692,14 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Switch Indent class to manage all writes with a StringBuffer<br />
   <sub>[#11133](https://github.com/flutter/packages/pull/11133) merged on March 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11133) over 3 days, 55 additions and 46 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Many] Remove network policy from metadata<br />
+  <sub>[#11165](https://github.com/flutter/packages/pull/11165) merged on March 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11165) over 17 hours, 0 additions and 15 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Espresso] remove metadata network policy<br />
+  <sub>[#11164](https://github.com/flutter/packages/pull/11164) merged on March 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11164) over 17 hours, 8 additions and 15 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#11134](https://github.com/flutter/packages/pull/11134) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11134) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
