@@ -919,7 +919,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-5 commits.
+6 commits.
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Adjust caution note for `firebase_options.dart`<br />
   <sub>[#12995](https://github.com/flutter/website/pull/12995) merged on March 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/12995) over 1 month, 15 additions and 3 deletions in 1 file</sub><br />
@@ -928,6 +928,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update title for Flutter setup documentation<br />
   <sub>[#13120](https://github.com/flutter/website/pull/13120) merged on March 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13120) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix #13102: clarify Linux build prerequisite structure<br />
+  <sub>[#13132](https://github.com/flutter/website/pull/13132) merged on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13132) over 19 minutes, 5 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Move AI in sidenav<br />
   <sub>[#13130](https://github.com/flutter/website/pull/13130) merged on March 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13130) over 1 hour, 57 additions and 55 deletions in 1 file</sub><br />
