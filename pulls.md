@@ -146,6 +146,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] Fix stack corruption in Skwasm and harden withStackScope API<br />
   <sub>[#183023](https://github.com/flutter/flutter/pull/183023) opened on on February 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183023) 141 additions and 19 deletions in 5 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds Texture.toImage() method<br />
+  <sub>[#183046](https://github.com/flutter/flutter/pull/183046) opened on on February 27, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/183046) 407 additions and 46 deletions in 29 files</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll RapidJSON to a branch based on the current upstream head<br />
   <sub>[#183048](https://github.com/flutter/flutter/pull/183048) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183048) 26 additions and 25 deletions in 13 files</sub><br />
 
@@ -196,9 +199,6 @@
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix emoji insertion corruption by using grapheme-aware text operations<br />
   <sub>[#183112](https://github.com/flutter/flutter/pull/183112) opened on on March 2, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/183112) 389 additions and 19 deletions in 2 files</sub><br />
-
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]uikit for admob banner in scrollable list gesture issue<br />
-  <sub>[#183128](https://github.com/flutter/flutter/pull/183128) opened on on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183128) 238 additions and 38 deletions in 10 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Stop downloading the ndk in `android_engine_test` and `hybrid_android_views` test<br />
   <sub>[#183134](https://github.com/flutter/flutter/pull/183134) opened on on March 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183134) 2 additions and 0 deletions in 2 files</sub><br />
