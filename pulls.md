@@ -141,7 +141,7 @@
   <sub>[#183046](https://github.com/flutter/flutter/pull/183046) opened on on February 27, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/183046) 424 additions and 46 deletions in 29 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll RapidJSON to a branch based on the current upstream head<br />
-  <sub>[#183048](https://github.com/flutter/flutter/pull/183048) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183048) 26 additions and 25 deletions in 13 files</sub><br />
+  <sub>[#183048](https://github.com/flutter/flutter/pull/183048) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183048) 28 additions and 59 deletions in 14 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 third grouped tests<br />
   <sub>[#183059](https://github.com/flutter/flutter/pull/183059) opened on on February 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183059) 166 additions and 1 deletion in 7 files</sub><br />
@@ -196,9 +196,6 @@
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Slider] Refactor test "Value indicator appears when it should"<br />
   <sub>[#183143](https://github.com/flutter/flutter/pull/183143) opened on on March 2, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/183143) 205 additions and 114 deletions in 3 files</sub><br />
-
-* **[b-luk](https://github.com/b-luk)** &mdash; Make compileShader() retry without sksl if it fails with sksl.<br />
-  <sub>[#183146](https://github.com/flutter/flutter/pull/183146) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183146) 184 additions and 51 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Use a super-parameter in several missed cases<br />
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
