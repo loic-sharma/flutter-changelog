@@ -153,7 +153,7 @@
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183063) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [Android] Use EdgeToEdge.enable/WindowCompat for edge-to-edge mode instead of deprecated View flags<br />
-  <sub>[#183072](https://github.com/flutter/flutter/pull/183072) opened on on February 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183072) 147 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#183072](https://github.com/flutter/flutter/pull/183072) opened on on February 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183072) 147 additions and 21 deletions in 2 files</sub><br />
 
 * **[Alexander Dmitriev](https://github.com/BrainLUX)** &mdash; Replace BorderRadius.circular with const BorderRadius.all and update documentation examples<br />
   <sub>[#183074](https://github.com/flutter/flutter/pull/183074) opened on on February 28, 2026 &mdash; **Medium:** [41 comments](https://github.com/flutter/flutter/pull/183074) 196 additions and 146 deletions in 42 files</sub><br />
@@ -202,4 +202,7 @@
 
 * **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183180) 38 additions and 0 deletions in 5 files</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix new convex path shadow generation in perspective<br />
+  <sub>[#183187](https://github.com/flutter/flutter/pull/183187) opened on on March 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183187) 94 additions and 2 deletions in 2 files</sub><br />
 

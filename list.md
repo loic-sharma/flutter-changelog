@@ -4,11 +4,19 @@
 
 ### February 28, 2026 to March 6, 2026
 
-14 commits.
+16 commits.
+
+* **[Lukas Klingsbo](https://github.com/spydon)** &mdash; Support mixed color spaces in `Color.lerp`
+  <sub>[#182934](https://github.com/flutter/flutter/pull/182934) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182934) over 5 days, 124 additions and 26 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build App and native asset frameworks for Add to App FlutterPluginRegistrant
   <sub>[#183136](https://github.com/flutter/flutter/pull/183136) merged on March 3, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/183136) over 21 hours, 1511 additions and 48 deletions in 10 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add warning when there is a widget with color between `Material` and `ListTile`
+  <sub>[#181402](https://github.com/flutter/flutter/pull/181402) merged on March 3, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181402) over 1 month, 339 additions and 76 deletions in 5 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable SwiftPM by default on master and beta
   <sub>[#182923](https://github.com/flutter/flutter/pull/182923) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182923) over 4 days, 135 additions and 32 deletions in 11 files</sub>
