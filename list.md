@@ -4,11 +4,19 @@
 
 ### February 28, 2026 to March 6, 2026
 
-8 commits.
+11 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable SwiftPM by default on master and beta
   <sub>[#182923](https://github.com/flutter/flutter/pull/182923) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182923) over 4 days, 135 additions and 32 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[SakuraMomoko](https://github.com/wangfeihang)** &mdash; [two_dimensional_scrollables] Fix tableview janks when first row/column pinned
+  <sub>[#180563](https://github.com/flutter/flutter/pull/180563) merged on March 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/180563) over 1 month, 118 additions and 57 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await to callsites of BasicMessageChannel.send
+  <sub>[#182868](https://github.com/flutter/flutter/pull/182868) merged on March 2, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/182868) over 5 days, 183 additions and 20 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FFI code for windowing
   <sub>[#183098](https://github.com/flutter/flutter/pull/183098) merged on March 2, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/183098) over 18 hours, 677 additions and 599 deletions in 1 file</sub>
@@ -21,6 +29,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [rules] Fix a few issues in the full-length rules file
   <sub>[#182725](https://github.com/flutter/flutter/pull/182725) merged on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182725) over 1 week, 22 additions and 33 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use isA to test for exceptions
+  <sub>[#183129](https://github.com/flutter/flutter/pull/183129) merged on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183129) over 4 hours, 19 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [workflow] Update the changelog merge action to fetch the stable branch
   <sub>[#183132](https://github.com/flutter/flutter/pull/183132) merged on March 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183132) over 50 minutes, 10 additions and 2 deletions in 1 file</sub>
