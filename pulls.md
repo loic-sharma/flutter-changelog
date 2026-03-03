@@ -192,7 +192,7 @@
   <sub>[#183106](https://github.com/flutter/flutter/pull/183106) opened on on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183106) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add scrollPadding property to DropdownMenu<br />
-  <sub>[#183109](https://github.com/flutter/flutter/pull/183109) opened on on March 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183109) 37 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#183109](https://github.com/flutter/flutter/pull/183109) opened on on March 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183109) 37 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Fix SelectableText right-click selecting word on web/desktop<br />
   <sub>[#183110](https://github.com/flutter/flutter/pull/183110) opened on on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183110) 95 additions and 0 deletions in 2 files</sub><br />
