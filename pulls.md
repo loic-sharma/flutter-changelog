@@ -137,9 +137,6 @@
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds Texture.toImage() method<br />
-  <sub>[#183046](https://github.com/flutter/flutter/pull/183046) opened on on February 27, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/183046) 424 additions and 46 deletions in 29 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll RapidJSON to a branch based on the current upstream head<br />
   <sub>[#183048](https://github.com/flutter/flutter/pull/183048) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183048) 28 additions and 59 deletions in 14 files</sub><br />
 
@@ -203,6 +200,6 @@
 * **[Aditya Rathore](https://github.com/itsAdityaRathore)** &mdash; SelectableRegionState for dynamic toolbar positioning<br />
   <sub>[#183160](https://github.com/flutter/flutter/pull/183160) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183160) 119 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [stable] Update test package and related packages for stable release.<br />
-  <sub>[#183176](https://github.com/flutter/flutter/pull/183176) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183176) 28 additions and 28 deletions in 6 files</sub><br />
+* **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
+  <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183180) 38 additions and 0 deletions in 5 files</sub><br />
 
