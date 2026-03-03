@@ -675,7 +675,11 @@
 
 ### February 28, 2026 to March 6, 2026
 
-2 commits.
+3 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Stop display link on dispose<br />
+  <sub>[#11118](https://github.com/flutter/packages/pull/11118) merged on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11118) over 5 days, 29 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Switch Indent class to manage all writes with a StringBuffer<br />
   <sub>[#11133](https://github.com/flutter/packages/pull/11133) merged on March 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11133) over 3 days, 55 additions and 46 deletions in 8 files</sub><br />
