@@ -4,7 +4,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-11 commits.
+12 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable SwiftPM by default on master and beta<br />
   <sub>[#182923](https://github.com/flutter/flutter/pull/182923) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182923) over 4 days, 135 additions and 32 deletions in 11 files</sub><br />
@@ -24,6 +24,10 @@
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add information to issue triage page<br />
   <sub>[#182145](https://github.com/flutter/flutter/pull/182145) merged on March 2, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182145) over 2 weeks, 30 additions and 14 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: bump matcher<br />
+  <sub>[#183167](https://github.com/flutter/flutter/pull/183167) merged on March 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183167) over 54 minutes, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [rules] Fix a few issues in the full-length rules file<br />
