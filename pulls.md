@@ -128,9 +128,6 @@
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll RapidJSON to a branch based on the current upstream head<br />
-  <sub>[#183048](https://github.com/flutter/flutter/pull/183048) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183048) 28 additions and 59 deletions in 14 files</sub><br />
-
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix formatting, capitalization, and grammar in activation issue template<br />
   <sub>[#183061](https://github.com/flutter/flutter/pull/183061) opened on on February 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183061) 3 additions and 3 deletions in 1 file</sub><br />
 
@@ -167,9 +164,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-specify the ndk version in various test apps, to prevent ndk download<br />
   <sub>[#183134](https://github.com/flutter/flutter/pull/183134) opened on on March 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183134) 37 additions and 4 deletions in 35 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Slider] Refactor test "Value indicator appears when it should"<br />
-  <sub>[#183143](https://github.com/flutter/flutter/pull/183143) opened on on March 2, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/183143) 205 additions and 114 deletions in 3 files</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Use a super-parameter in several missed cases<br />
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
 
@@ -177,5 +171,5 @@
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183180) 38 additions and 0 deletions in 5 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix new convex path shadow generation in perspective<br />
-  <sub>[#183187](https://github.com/flutter/flutter/pull/183187) opened on on March 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183187) 94 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#183187](https://github.com/flutter/flutter/pull/183187) opened on on March 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183187) 94 additions and 2 deletions in 2 files</sub><br />
 
