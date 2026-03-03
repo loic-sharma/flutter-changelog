@@ -140,12 +140,6 @@
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][web] Fix stack corruption in Skwasm and harden withStackScope API<br />
-  <sub>[#183022](https://github.com/flutter/flutter/pull/183022) opened on on February 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183022) 141 additions and 19 deletions in 5 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] Fix stack corruption in Skwasm and harden withStackScope API<br />
-  <sub>[#183023](https://github.com/flutter/flutter/pull/183023) opened on on February 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183023) 141 additions and 19 deletions in 5 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds Texture.toImage() method<br />
   <sub>[#183046](https://github.com/flutter/flutter/pull/183046) opened on on February 27, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/183046) 424 additions and 46 deletions in 29 files</sub><br />
 
