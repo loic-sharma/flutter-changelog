@@ -80,9 +80,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Clean up `animation_controller.dart`<br />
-  <sub>[#182338](https://github.com/flutter/flutter/pull/182338) opened on on February 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182338) 33 additions and 49 deletions in 1 file</sub><br />
-
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add Michal Kucharski to AUTHORS<br />
   <sub>[#182366](https://github.com/flutter/flutter/pull/182366) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -107,9 +104,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 80743bd43fd5b38fedc503308e7a652e23d3ec93<br />
   <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 10 additions and 6 deletions in 6 files</sub><br />
 
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; a11y: expose selectable paragraph semantics as read-only text field<br />
-  <sub>[#182928](https://github.com/flutter/flutter/pull/182928) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182928) 38 additions and 0 deletions in 2 files</sub><br />
-
 * **[laishere](https://github.com/laishere)** &mdash; Fix PlatformView scaling in showCupertinoSheet transitions<br />
   <sub>[#182935](https://github.com/flutter/flutter/pull/182935) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182935) 216 additions and 7 deletions in 5 files</sub><br />
 
@@ -128,9 +122,6 @@
 * **[Fatahillah Alvarisi](https://github.com/alvarisi)** &mdash; docs: document Play Console symbol upload for Android desymbolication<br />
   <sub>[#182985](https://github.com/flutter/flutter/pull/182985) opened on on February 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182985) 39 additions and 0 deletions in 1 file</sub><br />
 
-* **[Alex](https://github.com/AlexanderLek)** &mdash; Fix modal barrier tap passthrough during iOS back swipe<br />
-  <sub>[#182994](https://github.com/flutter/flutter/pull/182994) opened on on February 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182994) 121 additions and 4 deletions in 2 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clarify why the `child` is nullable in `AnimatedTransitionBuilder`<br />
   <sub>[#182995](https://github.com/flutter/flutter/pull/182995) opened on on February 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182995) 11 additions and 1 deletion in 1 file</sub><br />
 
@@ -139,9 +130,6 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll RapidJSON to a branch based on the current upstream head<br />
   <sub>[#183048](https://github.com/flutter/flutter/pull/183048) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183048) 28 additions and 59 deletions in 14 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 third grouped tests<br />
-  <sub>[#183059](https://github.com/flutter/flutter/pull/183059) opened on on February 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183059) 166 additions and 1 deletion in 7 files</sub><br />
 
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix formatting, capitalization, and grammar in activation issue template<br />
   <sub>[#183061](https://github.com/flutter/flutter/pull/183061) opened on on February 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183061) 3 additions and 3 deletions in 1 file</sub><br />
@@ -161,17 +149,11 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: use double quotes in settings.gradle.kts template<br />
   <sub>[#183081](https://github.com/flutter/flutter/pull/183081) opened on on March 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183081) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update absorbPointer example and test to a more simple version<br />
-  <sub>[#183084](https://github.com/flutter/flutter/pull/183084) opened on on March 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183084) 79 additions and 44 deletions in 3 files</sub><br />
-
 * **[GyuBin Hwang](https://github.com/SpiralMomentum)** &mdash; [framework] Add fadeOutPlaceholder parameter to FadeInImage<br />
   <sub>[#183086](https://github.com/flutter/flutter/pull/183086) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183086) 99 additions and 27 deletions in 2 files</sub><br />
 
 * **[Viacheslav "Slava" Riabinin](https://github.com/sla-000)** &mdash; Improve SafeArea widgets with baseMinimum property to solve unwanted padding accumulation in nested layouts<br />
   <sub>[#183090](https://github.com/flutter/flutter/pull/183090) opened on on March 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183090) 268 additions and 14 deletions in 2 files</sub><br />
-
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Fix RouteAware.didPushNext documentation inaccuracy<br />
-  <sub>[#183097](https://github.com/flutter/flutter/pull/183097) opened on on March 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183097) 15 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add a Clarification for the docs of suggestionsBuilder of SearchAnchor<br />
   <sub>[#183106](https://github.com/flutter/flutter/pull/183106) opened on on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183106) 1 addition and 0 deletions in 1 file</sub><br />
@@ -182,9 +164,6 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Fix SelectableText right-click selecting word on web/desktop<br />
   <sub>[#183110](https://github.com/flutter/flutter/pull/183110) opened on on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183110) 95 additions and 0 deletions in 2 files</sub><br />
 
-* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix emoji insertion corruption by using grapheme-aware text operations<br />
-  <sub>[#183112](https://github.com/flutter/flutter/pull/183112) opened on on March 2, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/183112) 389 additions and 19 deletions in 2 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-specify the ndk version in various test apps, to prevent ndk download<br />
   <sub>[#183134](https://github.com/flutter/flutter/pull/183134) opened on on March 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183134) 37 additions and 4 deletions in 35 files</sub><br />
 
@@ -193,9 +172,6 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Use a super-parameter in several missed cases<br />
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
-
-* **[Aditya Rathore](https://github.com/itsAdityaRathore)** &mdash; SelectableRegionState for dynamic toolbar positioning<br />
-  <sub>[#183160](https://github.com/flutter/flutter/pull/183160) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183160) 119 additions and 0 deletions in 2 files</sub><br />
 
 * **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183180) 38 additions and 0 deletions in 5 files</sub><br />
