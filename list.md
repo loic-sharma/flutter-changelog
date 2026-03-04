@@ -4,7 +4,12 @@
 
 ### February 28, 2026 to March 6, 2026
 
-31 commits.
+32 commits.
+
+* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Allow stylus support on windows
+  <sub>[#165323](https://github.com/flutter/flutter/pull/165323) merged on March 4, 2026 &mdash; **Large:** [70 comments](https://github.com/flutter/flutter/pull/165323) over 11 months, 510 additions and 102 deletions in 15 files</sub>
+  <sub>Reviewed by: [Demohstens](https://github.com/Demohstens), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
+  <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/e8b75f96-2334-45e9-be23-753f1565a246)</details></sub>
 
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; Support mixed color spaces in `Color.lerp`
   <sub>[#182934](https://github.com/flutter/flutter/pull/182934) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182934) over 5 days, 124 additions and 26 deletions in 3 files</sub>
