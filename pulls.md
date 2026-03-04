@@ -74,17 +74,11 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; User activitiy fallbacks for unmigrated plugins<br />
   <sub>[#182904](https://github.com/flutter/flutter/pull/182904) opened on on February 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182904) 196 additions and 38 deletions in 5 files</sub><br />
 
-* **[ANUJ KUMAR](https://github.com/shivanuj13)** &mdash; OutlineInputBorder: Fix label animation and gap rendering<br />
-  <sub>[#182910](https://github.com/flutter/flutter/pull/182910) opened on on February 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182910) 96 additions and 24 deletions in 2 files</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; test: remove unnecessary Material import in sliver_constraints_test (…<br />
   <sub>[#182914](https://github.com/flutter/flutter/pull/182914) opened on on February 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182914) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 80743bd43fd5b38fedc503308e7a652e23d3ec93<br />
-  <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 10 additions and 6 deletions in 6 files</sub><br />
-
-* **[laishere](https://github.com/laishere)** &mdash; Fix PlatformView scaling in showCupertinoSheet transitions<br />
-  <sub>[#182935](https://github.com/flutter/flutter/pull/182935) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182935) 216 additions and 7 deletions in 5 files</sub><br />
+  <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 21 additions and 15 deletions in 10 files</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window<br />
   <sub>[#182963](https://github.com/flutter/flutter/pull/182963) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182963) 53 additions and 1 deletion in 2 files</sub><br />
@@ -116,23 +110,14 @@
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [Android] Use EdgeToEdge.enable/WindowCompat for edge-to-edge mode instead of deprecated View flags<br />
   <sub>[#183072](https://github.com/flutter/flutter/pull/183072) opened on on February 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183072) 143 additions and 22 deletions in 2 files</sub><br />
 
-* **[Alexander Dmitriev](https://github.com/BrainLUX)** &mdash; Replace BorderRadius.circular with const BorderRadius.all and update documentation examples<br />
-  <sub>[#183074](https://github.com/flutter/flutter/pull/183074) opened on on February 28, 2026 &mdash; **Medium:** [41 comments](https://github.com/flutter/flutter/pull/183074) 196 additions and 146 deletions in 42 files</sub><br />
-
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: use double quotes in settings.gradle.kts template<br />
-  <sub>[#183081](https://github.com/flutter/flutter/pull/183081) opened on on March 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183081) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#183081](https://github.com/flutter/flutter/pull/183081) opened on on March 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183081) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[GyuBin Hwang](https://github.com/SpiralMomentum)** &mdash; [framework] Add fadeOutPlaceholder parameter to FadeInImage<br />
   <sub>[#183086](https://github.com/flutter/flutter/pull/183086) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183086) 99 additions and 27 deletions in 2 files</sub><br />
 
 * **[Viacheslav "Slava" Riabinin](https://github.com/sla-000)** &mdash; Improve SafeArea widgets with baseMinimum property to solve unwanted padding accumulation in nested layouts<br />
   <sub>[#183090](https://github.com/flutter/flutter/pull/183090) opened on on March 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183090) 268 additions and 14 deletions in 2 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add a Clarification for the docs of suggestionsBuilder of SearchAnchor<br />
-  <sub>[#183106](https://github.com/flutter/flutter/pull/183106) opened on on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183106) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Fix SelectableText right-click selecting word on web/desktop<br />
-  <sub>[#183110](https://github.com/flutter/flutter/pull/183110) opened on on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183110) 95 additions and 0 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-specify the ndk version in various test apps, to prevent ndk download<br />
   <sub>[#183134](https://github.com/flutter/flutter/pull/183134) opened on on March 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183134) 37 additions and 4 deletions in 35 files</sub><br />
@@ -154,4 +139,7 @@
 
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; feat: add reloadIsRestart to handle hot reload as a restart for web #179448<br />
   <sub>[#183233](https://github.com/flutter/flutter/pull/183233) opened on on March 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183233) 43 additions and 1 deletion in 4 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix typo in README<br />
+  <sub>[#183245](https://github.com/flutter/flutter/pull/183245) opened on on March 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183245) 1 addition and 1 deletion in 1 file</sub><br />
 
