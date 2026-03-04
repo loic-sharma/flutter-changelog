@@ -53,6 +53,9 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix link to c_cpp_properties.json reference in `Setting-up-the-Engine-development-environment.md`<br />
   <sub>[#181829](https://github.com/flutter/flutter/pull/181829) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181829) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add GitHub workflows to assist with release tasks<br />
+  <sub>[#181978](https://github.com/flutter/flutter/pull/181978) opened on on February 6, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/181978) 367 additions and 1 deletion in 5 files</sub><br />
+
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
@@ -143,11 +146,8 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix typo in README<br />
   <sub>[#183245](https://github.com/flutter/flutter/pull/183245) opened on on March 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183245) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Update Dart to 3.12 beta 2<br />
-  <sub>[#183251](https://github.com/flutter/flutter/pull/183251) opened on on March 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183251) 9 additions and 9 deletions in 1 file</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Fix macOS flutter attach VM service discovery<br />
-  <sub>[#183253](https://github.com/flutter/flutter/pull/183253) opened on on March 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183253) 54 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#183253](https://github.com/flutter/flutter/pull/183253) opened on on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183253) 54 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update org triage<br />
   <sub>[#183254](https://github.com/flutter/flutter/pull/183254) opened on on March 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183254) 3 additions and 2 deletions in 1 file</sub><br />
