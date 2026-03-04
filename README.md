@@ -739,7 +739,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-8 commits.
+9 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Allow usage of all use cases concurrently<br />
   <sub>[#10732](https://github.com/flutter/packages/pull/10732) merged on March 3, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/10732) over 1 month, 24 additions and 628 deletions in 6 files</sub><br />
@@ -772,6 +772,10 @@
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#11134](https://github.com/flutter/packages/pull/11134) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11134) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Marcin Chudy](https://github.com/mchudy), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 90673a4eef27 to ff37bef60346 (13 revisions)<br />
+  <sub>[#11180](https://github.com/flutter/packages/pull/11180) merged on March 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11180) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### February 21, 2026 to February 27, 2026
 

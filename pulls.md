@@ -119,6 +119,9 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-specify the ndk version in various test apps, to prevent ndk download<br />
   <sub>[#183134](https://github.com/flutter/flutter/pull/183134) opened on on March 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183134) 37 additions and 4 deletions in 35 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Rename hcpp opt in flag to `enable-hcpp`<br />
+  <sub>[#183151](https://github.com/flutter/flutter/pull/183151) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183151) 61 additions and 59 deletions in 13 files</sub><br />
+
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Use a super-parameter in several missed cases<br />
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
 
