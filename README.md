@@ -4,7 +4,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-22 commits.
+23 commits.
 
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; Support mixed color spaces in `Color.lerp`<br />
   <sub>[#182934](https://github.com/flutter/flutter/pull/182934) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182934) over 5 days, 124 additions and 26 deletions in 3 files</sub><br />
@@ -41,6 +41,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FFI code for windowing<br />
   <sub>[#183098](https://github.com/flutter/flutter/pull/183098) merged on March 2, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/183098) over 18 hours, 677 additions and 599 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Slava Egorov](https://github.com/mraleph)** &mdash; Use dart::bin::SetupDartIo to setup dart:io<br />
+  <sub>[#176714](https://github.com/flutter/flutter/pull/176714) merged on March 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176714) over 4 months, 16 additions and 51 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material in pop_scope_test, route_notification_message_test, two_dimensional_utils, two_dimensional_viewport_test<br />
   <sub>[#182699](https://github.com/flutter/flutter/pull/182699) merged on March 4, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/182699) over 1 week, 230 additions and 182 deletions in 5 files</sub><br />
