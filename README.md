@@ -4,7 +4,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-32 commits.
+33 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Allow stylus support on windows<br />
   <sub>[#165323](https://github.com/flutter/flutter/pull/165323) merged on March 4, 2026 &mdash; **Large:** [70 comments](https://github.com/flutter/flutter/pull/165323) over 11 months, 510 additions and 102 deletions in 15 files</sub><br />
@@ -106,6 +106,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [rules] Fix a few issues in the full-length rules file<br />
   <sub>[#182725](https://github.com/flutter/flutter/pull/182725) merged on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182725) over 1 week, 22 additions and 33 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.41.4 stable.<br />
+  <sub>[#183243](https://github.com/flutter/flutter/pull/183243) merged on March 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183243) over 39 minutes, 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Pass --web-define through to web runner when using --machine mode<br />
   <sub>[#183228](https://github.com/flutter/flutter/pull/183228) merged on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183228) over 4 hours, 55 additions and 0 deletions in 3 files</sub><br />
@@ -1032,7 +1036,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-14 commits.
+15 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples<br />
   <sub>[#13140](https://github.com/flutter/website/pull/13140) merged on March 4, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/13140) over 16 hours, 1612 additions and 39 deletions in 39 files</sub><br />
@@ -1041,6 +1045,10 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Deprecate TextInputConnection.setStyle<br />
   <sub>[#13016](https://github.com/flutter/website/pull/13016) merged on March 3, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/13016) over 4 weeks, 77 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Some reformatting and add info on temporarily disabling UIScene<br />
+  <sub>[#13095](https://github.com/flutter/website/pull/13095) merged on March 4, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/13095) over 1 week, 101 additions and 80 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add manual plugin linking instructions for SPM<br />
   <sub>[#12979](https://github.com/flutter/website/pull/12979) merged on March 4, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12979) over 1 month, 83 additions and 2 deletions in 5 files</sub><br />
