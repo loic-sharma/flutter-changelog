@@ -120,7 +120,7 @@
   <sub>[#183134](https://github.com/flutter/flutter/pull/183134) opened on on March 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183134) 37 additions and 4 deletions in 35 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Rename hcpp opt in flag to `enable-hcpp`<br />
-  <sub>[#183151](https://github.com/flutter/flutter/pull/183151) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183151) 61 additions and 59 deletions in 13 files</sub><br />
+  <sub>[#183151](https://github.com/flutter/flutter/pull/183151) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183151) 63 additions and 61 deletions in 14 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Use a super-parameter in several missed cases<br />
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
@@ -139,6 +139,9 @@
 
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; feat: add reloadIsRestart to handle hot reload as a restart for web #179448<br />
   <sub>[#183233](https://github.com/flutter/flutter/pull/183233) opened on on March 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183233) 43 additions and 1 deletion in 4 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build CocoaPod plugin frameworks for Add to App FlutterPluginRegistrant<br />
+  <sub>[#183239](https://github.com/flutter/flutter/pull/183239) opened on on March 4, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/183239) 1040 additions and 91 deletions in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix typo in README<br />
   <sub>[#183245](https://github.com/flutter/flutter/pull/183245) opened on on March 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183245) 1 addition and 1 deletion in 1 file</sub><br />

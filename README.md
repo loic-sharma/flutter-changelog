@@ -4,7 +4,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-27 commits.
+30 commits.
 
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; Support mixed color spaces in `Color.lerp`<br />
   <sub>[#182934](https://github.com/flutter/flutter/pull/182934) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182934) over 5 days, 124 additions and 26 deletions in 3 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build App and native asset frameworks for Add to App FlutterPluginRegistrant<br />
   <sub>[#183136](https://github.com/flutter/flutter/pull/183136) merged on March 3, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/183136) over 21 hours, 1511 additions and 48 deletions in 10 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[romain.gyh](https://github.com/romaingyh)** &mdash; Fixes FocusHighlightMode on Android when typing in software keyboard<br />
+  <sub>[#180753](https://github.com/flutter/flutter/pull/180753) merged on March 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/180753) over 1 month, 64 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add vmservices for accessibilityEvaluation<br />
   <sub>[#182791](https://github.com/flutter/flutter/pull/182791) merged on March 3, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/182791) over 1 week, 506 additions and 111 deletions in 7 files</sub><br />
@@ -37,6 +41,14 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable SwiftPM by default on master and beta<br />
   <sub>[#182923](https://github.com/flutter/flutter/pull/182923) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182923) over 4 days, 135 additions and 32 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Make compileShader() retry without sksl if it fails with sksl.<br />
+  <sub>[#183146](https://github.com/flutter/flutter/pull/183146) merged on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183146) over 1 day, 184 additions and 51 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Use pointer-events: auto for non-interactive leaf semantics nodes<br />
+  <sub>[#183077](https://github.com/flutter/flutter/pull/183077) merged on March 4, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183077) over 3 days, 123 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show warning when plugins do not support SwiftPM<br />
   <sub>[#182506](https://github.com/flutter/flutter/pull/182506) merged on March 4, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182506) over 2 weeks, 36 additions and 4 deletions in 2 files</sub><br />
