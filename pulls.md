@@ -155,3 +155,6 @@
 * **[Ayush Singh](https://github.com/bharatvansh)** &mdash; [packages_autoroller] Handle ProcessException in Git.run<br />
   <sub>[#183205](https://github.com/flutter/flutter/pull/183205) opened on on March 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183205) 149 additions and 6 deletions in 2 files</sub><br />
 
+* **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; feat: add reloadIsRestart to handle hot reload as a restart for web<br />
+  <sub>[#183233](https://github.com/flutter/flutter/pull/183233) opened on on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183233) 43 additions and 1 deletion in 4 files</sub><br />
+
