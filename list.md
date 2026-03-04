@@ -991,7 +991,11 @@
 
 ### February 28, 2026 to March 6, 2026
 
-9 commits.
+12 commits.
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples
+  <sub>[#13140](https://github.com/flutter/website/pull/13140) merged on March 4, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/13140) over 16 hours, 1612 additions and 39 deletions in 39 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Deprecate TextInputConnection.setStyle
   <sub>[#13016](https://github.com/flutter/website/pull/13016) merged on March 3, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/13016) over 4 weeks, 77 additions and 0 deletions in 2 files</sub>
@@ -1009,8 +1013,16 @@
   <sub>[#13131](https://github.com/flutter/website/pull/13131) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13131) over 2 hours, 117 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Wrap widget names at camel case boundaries
+  <sub>[#13142](https://github.com/flutter/website/pull/13142) merged on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13142) over 5 hours, 52 additions and 26 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update title for Flutter setup documentation
   <sub>[#13120](https://github.com/flutter/website/pull/13120) merged on March 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13120) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Remove documentation about metadata
+  <sub>[#13133](https://github.com/flutter/website/pull/13133) merged on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13133) over 1 day, 11 additions and 36 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix #13102: clarify Linux build prerequisite structure
