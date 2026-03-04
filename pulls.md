@@ -78,7 +78,7 @@
   <sub>[#182914](https://github.com/flutter/flutter/pull/182914) opened on on February 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182914) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 80743bd43fd5b38fedc503308e7a652e23d3ec93<br />
-  <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 21 additions and 15 deletions in 10 files</sub><br />
+  <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 23 additions and 16 deletions in 11 files</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window<br />
   <sub>[#182963](https://github.com/flutter/flutter/pull/182963) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182963) 53 additions and 1 deletion in 2 files</sub><br />
@@ -100,9 +100,6 @@
 
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix formatting, capitalization, and grammar in activation issue template<br />
   <sub>[#183061](https://github.com/flutter/flutter/pull/183061) opened on on February 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183061) 3 additions and 3 deletions in 1 file</sub><br />
-
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: reset AppBar _scrolledUnder flag when scroll context changes<br />
-  <sub>[#183062](https://github.com/flutter/flutter/pull/183062) opened on on February 28, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/183062) 1849 additions and 1022 deletions in 2 files</sub><br />
 
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix wording and suggest GitHub Gist for sharing large logs<br />
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183063) 3 additions and 3 deletions in 1 file</sub><br />
