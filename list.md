@@ -4,7 +4,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-34 commits.
+35 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Allow stylus support on windows
   <sub>[#165323](https://github.com/flutter/flutter/pull/165323) merged on March 4, 2026 &mdash; **Large:** [70 comments](https://github.com/flutter/flutter/pull/165323) over 11 months, 510 additions and 102 deletions in 15 files</sub>
@@ -34,6 +34,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add warning when there is a widget with color between `Material` and `ListTile`
   <sub>[#181402](https://github.com/flutter/flutter/pull/181402) merged on March 3, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/181402) over 1 month, 339 additions and 76 deletions in 5 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Eliminate rebuilds for Scaffold FAB animation
+  <sub>[#182331](https://github.com/flutter/flutter/pull/182331) merged on March 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182331) over 2 weeks, 56 additions and 11 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give guided message when project is not compatible with SwiftPM
   <sub>[#182394](https://github.com/flutter/flutter/pull/182394) merged on March 4, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182394) over 2 weeks, 109 additions and 21 deletions in 3 files</sub>
@@ -91,9 +95,9 @@
   <sub>[#183142](https://github.com/flutter/flutter/pull/183142) merged on March 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183142) over 1 day, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add dev/benchmarks/README.md
-  <sub>[#182976](https://github.com/flutter/flutter/pull/182976) merged on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182976) over 5 days, 10 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [rules] Fix a few issues in the full-length rules file
+  <sub>[#182725](https://github.com/flutter/flutter/pull/182725) merged on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182725) over 1 week, 22 additions and 33 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Update comments to reflect new info about 2-pass rendering
   <sub>[#183050](https://github.com/flutter/flutter/pull/183050) merged on March 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183050) over 3 days, 64 additions and 21 deletions in 4 files</sub>
@@ -103,9 +107,9 @@
   <sub>[#183167](https://github.com/flutter/flutter/pull/183167) merged on March 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183167) over 54 minutes, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; [rules] Fix a few issues in the full-length rules file
-  <sub>[#182725](https://github.com/flutter/flutter/pull/182725) merged on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182725) over 1 week, 22 additions and 33 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add dev/benchmarks/README.md
+  <sub>[#182976](https://github.com/flutter/flutter/pull/182976) merged on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182976) over 5 days, 10 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll RapidJSON to a branch based on the current upstream head
   <sub>[#183048](https://github.com/flutter/flutter/pull/183048) merged on March 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183048) over 3 days, 28 additions and 59 deletions in 14 files</sub>
