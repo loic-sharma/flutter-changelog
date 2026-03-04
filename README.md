@@ -4,7 +4,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-24 commits.
+25 commits.
 
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; Support mixed color spaces in `Color.lerp`<br />
   <sub>[#182934](https://github.com/flutter/flutter/pull/182934) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182934) over 5 days, 124 additions and 26 deletions in 3 files</sub><br />
@@ -77,6 +77,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [rules] Fix a few issues in the full-length rules file<br />
   <sub>[#182725](https://github.com/flutter/flutter/pull/182725) merged on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182725) over 1 week, 22 additions and 33 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Pass --web-define through to web runner when using --machine mode<br />
+  <sub>[#183228](https://github.com/flutter/flutter/pull/183228) merged on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183228) over 4 hours, 55 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]uitest for admob banner in scrollable list gesture issue<br />
   <sub>[#183128](https://github.com/flutter/flutter/pull/183128) merged on March 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183128) over 1 day, 232 additions and 38 deletions in 10 files</sub><br />
