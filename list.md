@@ -4,11 +4,15 @@
 
 ### February 28, 2026 to March 6, 2026
 
-23 commits.
+24 commits.
 
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; Support mixed color spaces in `Color.lerp`
   <sub>[#182934](https://github.com/flutter/flutter/pull/182934) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182934) over 5 days, 124 additions and 26 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Nour](https://github.com/MohammedTarigg)** &mdash; Improve SwiftPM minimum platform mismatch diagnostics
+  <sub>[#182375](https://github.com/flutter/flutter/pull/182375) merged on March 4, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/182375) over 2 weeks, 159 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build App and native asset frameworks for Add to App FlutterPluginRegistrant
   <sub>[#183136](https://github.com/flutter/flutter/pull/183136) merged on March 3, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/183136) over 21 hours, 1511 additions and 48 deletions in 10 files</sub>
@@ -991,7 +995,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-12 commits.
+13 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples
   <sub>[#13140](https://github.com/flutter/website/pull/13140) merged on March 4, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/13140) over 16 hours, 1612 additions and 39 deletions in 39 files</sub>
@@ -1000,6 +1004,10 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Deprecate TextInputConnection.setStyle
   <sub>[#13016](https://github.com/flutter/website/pull/13016) merged on March 3, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/13016) over 4 weeks, 77 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add manual plugin linking instructions for SPM
+  <sub>[#12979](https://github.com/flutter/website/pull/12979) merged on March 4, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12979) over 1 month, 83 additions and 2 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Adjust caution note for `firebase_options.dart`
   <sub>[#12995](https://github.com/flutter/website/pull/12995) merged on March 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/12995) over 1 month, 15 additions and 3 deletions in 1 file</sub>
