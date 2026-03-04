@@ -78,7 +78,7 @@
   <sub>[#182297](https://github.com/flutter/flutter/pull/182297) opened on on February 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182297) 79 additions and 5 deletions in 6 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
-  <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/182333) 134 additions and 10 deletions in 2 files</sub><br />
 
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add Michal Kucharski to AUTHORS<br />
   <sub>[#182366](https://github.com/flutter/flutter/pull/182366) opened on on February 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) 1 addition and 0 deletions in 1 file</sub><br />

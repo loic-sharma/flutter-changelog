@@ -4,7 +4,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-20 commits.
+22 commits.
 
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; Support mixed color spaces in `Color.lerp`<br />
   <sub>[#182934](https://github.com/flutter/flutter/pull/182934) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182934) over 5 days, 124 additions and 26 deletions in 3 files</sub><br />
@@ -22,6 +22,10 @@
   <sub>[#181402](https://github.com/flutter/flutter/pull/181402) merged on March 3, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/181402) over 1 month, 339 additions and 76 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material in reorderable_list_test, scroll_notification_test, scroll_physics_test, shortcuts_test, sliver_floating_header_test, snapshot_widget_test<br />
+  <sub>[#182698](https://github.com/flutter/flutter/pull/182698) merged on March 4, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/182698) over 1 week, 499 additions and 515 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable SwiftPM by default on master and beta<br />
   <sub>[#182923](https://github.com/flutter/flutter/pull/182923) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182923) over 4 days, 135 additions and 32 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
@@ -37,6 +41,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FFI code for windowing<br />
   <sub>[#183098](https://github.com/flutter/flutter/pull/183098) merged on March 2, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/183098) over 18 hours, 677 additions and 599 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material in pop_scope_test, route_notification_message_test, two_dimensional_utils, two_dimensional_viewport_test<br />
+  <sub>[#182699](https://github.com/flutter/flutter/pull/182699) merged on March 4, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/182699) over 1 week, 230 additions and 182 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add information to issue triage page<br />
   <sub>[#182145](https://github.com/flutter/flutter/pull/182145) merged on March 2, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182145) over 2 weeks, 30 additions and 14 deletions in 1 file</sub><br />
