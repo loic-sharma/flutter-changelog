@@ -143,3 +143,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix typo in README<br />
   <sub>[#183245](https://github.com/flutter/flutter/pull/183245) opened on on March 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183245) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Simplify TesterContextGLES (multithreading logic not needed), and enable some tests that now pass<br />
+  <sub>[#183250](https://github.com/flutter/flutter/pull/183250) opened on on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183250) 5 additions and 52 deletions in 2 files</sub><br />
+

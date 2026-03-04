@@ -4,7 +4,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-35 commits.
+36 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Allow stylus support on windows<br />
   <sub>[#165323](https://github.com/flutter/flutter/pull/165323) merged on March 4, 2026 &mdash; **Large:** [70 comments](https://github.com/flutter/flutter/pull/165323) over 11 months, 510 additions and 102 deletions in 15 files</sub><br />
@@ -91,13 +91,17 @@
   <sub>[#182145](https://github.com/flutter/flutter/pull/182145) merged on March 2, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182145) over 2 weeks, 30 additions and 14 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix docs on SingletonFlutterWindow.supportsShowingSystemContextMenu<br />
-  <sub>[#183142](https://github.com/flutter/flutter/pull/183142) merged on March 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183142) over 1 day, 4 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-specify the ndk version in various test apps, to prevent ndk download<br />
+  <sub>[#183134](https://github.com/flutter/flutter/pull/183134) merged on March 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183134) over 2 days, 37 additions and 4 deletions in 35 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [rules] Fix a few issues in the full-length rules file<br />
   <sub>[#182725](https://github.com/flutter/flutter/pull/182725) merged on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182725) over 1 week, 22 additions and 33 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix docs on SingletonFlutterWindow.supportsShowingSystemContextMenu<br />
+  <sub>[#183142](https://github.com/flutter/flutter/pull/183142) merged on March 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183142) over 1 day, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Update comments to reflect new info about 2-pass rendering<br />
   <sub>[#183050](https://github.com/flutter/flutter/pull/183050) merged on March 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183050) over 3 days, 64 additions and 21 deletions in 4 files</sub><br />
@@ -114,10 +118,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll RapidJSON to a branch based on the current upstream head<br />
   <sub>[#183048](https://github.com/flutter/flutter/pull/183048) merged on March 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183048) over 3 days, 28 additions and 59 deletions in 14 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Pass --web-define through to web runner when using --machine mode<br />
-  <sub>[#183228](https://github.com/flutter/flutter/pull/183228) merged on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183228) over 4 hours, 55 additions and 0 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]uitest for admob banner in scrollable list gesture issue<br />
   <sub>[#183128](https://github.com/flutter/flutter/pull/183128) merged on March 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183128) over 1 day, 232 additions and 38 deletions in 10 files</sub><br />
@@ -139,13 +139,17 @@
   <sub>[#183070](https://github.com/flutter/flutter/pull/183070) merged on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183070) over 2 days, 32 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.41.4 stable.<br />
+  <sub>[#183243](https://github.com/flutter/flutter/pull/183243) merged on March 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183243) over 39 minutes, 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Roll Chrome to 145<br />
   <sub>[#182860](https://github.com/flutter/flutter/pull/182860) merged on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182860) over 5 days, 9 additions and 7 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.41.4 stable.<br />
-  <sub>[#183243](https://github.com/flutter/flutter/pull/183243) merged on March 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183243) over 39 minutes, 6 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Pass --web-define through to web runner when using --machine mode<br />
+  <sub>[#183228](https://github.com/flutter/flutter/pull/183228) merged on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183228) over 4 hours, 55 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 ### February 21, 2026 to February 27, 2026
 
