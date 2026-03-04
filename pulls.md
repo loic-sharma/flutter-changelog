@@ -176,3 +176,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clean up test image<br />
   <sub>[#183197](https://github.com/flutter/flutter/pull/183197) opened on on March 4, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183197) 35 additions and 26 deletions in 1 file</sub><br />
 
+* **[Ayush Singh](https://github.com/bharatvansh)** &mdash; [packages_autoroller] Handle ProcessException in Git.run<br />
+  <sub>[#183205](https://github.com/flutter/flutter/pull/183205) opened on on March 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183205) 149 additions and 6 deletions in 2 files</sub><br />
+
