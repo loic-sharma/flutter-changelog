@@ -141,7 +141,7 @@
   <sub>[#183233](https://github.com/flutter/flutter/pull/183233) opened on on March 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183233) 43 additions and 1 deletion in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build CocoaPod plugin frameworks for Add to App FlutterPluginRegistrant<br />
-  <sub>[#183239](https://github.com/flutter/flutter/pull/183239) opened on on March 4, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/183239) 1040 additions and 91 deletions in 4 files</sub><br />
+  <sub>[#183239](https://github.com/flutter/flutter/pull/183239) opened on on March 4, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/183239) 1040 additions and 91 deletions in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix typo in README<br />
   <sub>[#183245](https://github.com/flutter/flutter/pull/183245) opened on on March 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183245) 1 addition and 1 deletion in 1 file</sub><br />
@@ -151,4 +151,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update org triage<br />
   <sub>[#183254](https://github.com/flutter/flutter/pull/183254) opened on on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183254) 3 additions and 2 deletions in 1 file</sub><br />
+
+* **[Ricky van den berg](https://github.com/RickyvdBerg)** &mdash; [Impeller] Dispose thread-local Vulkan caches in embedder compositor path<br />
+  <sub>[#183268](https://github.com/flutter/flutter/pull/183268) opened on on March 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183268) 9 additions and 0 deletions in 1 file</sub><br />
 
