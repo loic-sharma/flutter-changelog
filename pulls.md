@@ -149,6 +149,3 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update org triage<br />
   <sub>[#183254](https://github.com/flutter/flutter/pull/183254) opened on on March 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183254) 3 additions and 2 deletions in 1 file</sub><br />
 
-* **[一脸懵逼](https://github.com/JamesGZM)** &mdash; fix: null safety for SelectableRegionState.startGlyphHeight and endGlyphHeight<br />
-  <sub>[#183261](https://github.com/flutter/flutter/pull/183261) opened on on March 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183261) 202 additions and 3 deletions in 2 files</sub><br />
-
