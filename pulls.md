@@ -125,9 +125,6 @@
 * **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183180) 38 additions and 0 deletions in 5 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix new convex path shadow generation in perspective<br />
-  <sub>[#183187](https://github.com/flutter/flutter/pull/183187) opened on on March 3, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/183187) 236 additions and 14 deletions in 5 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; update popular issues documentation<br />
   <sub>[#183196](https://github.com/flutter/flutter/pull/183196) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183196) 19 additions and 25 deletions in 1 file</sub><br />
 
@@ -138,7 +135,7 @@
   <sub>[#183233](https://github.com/flutter/flutter/pull/183233) opened on on March 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183233) 43 additions and 1 deletion in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build CocoaPod plugin frameworks for Add to App FlutterPluginRegistrant<br />
-  <sub>[#183239](https://github.com/flutter/flutter/pull/183239) opened on on March 4, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/183239) 1046 additions and 91 deletions in 4 files</sub><br />
+  <sub>[#183239](https://github.com/flutter/flutter/pull/183239) opened on on March 4, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/183239) 1046 additions and 91 deletions in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix typo in README<br />
   <sub>[#183245](https://github.com/flutter/flutter/pull/183245) opened on on March 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183245) 1 addition and 1 deletion in 1 file</sub><br />
@@ -154,4 +151,7 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv]fix admob banner scrollable on ios 18.2<br />
   <sub>[#183274](https://github.com/flutter/flutter/pull/183274) opened on on March 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183274) 26 additions and 17 deletions in 2 files</sub><br />
+
+* **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
+  <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
 
