@@ -1048,7 +1048,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-15 commits.
+16 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples<br />
   <sub>[#13140](https://github.com/flutter/website/pull/13140) merged on March 4, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/13140) over 16 hours, 1612 additions and 39 deletions in 39 files</sub><br />
@@ -1089,6 +1089,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update title for Flutter setup documentation<br />
   <sub>[#13120](https://github.com/flutter/website/pull/13120) merged on March 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13120) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Adarsh B](https://github.com/AdarshBaddies)** &mdash; feat: shuffle tutorial quiz options to remove positional bias<br />
+  <sub>[#13141](https://github.com/flutter/website/pull/13141) merged on March 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13141) over 1 day, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Remove documentation about metadata<br />
   <sub>[#13133](https://github.com/flutter/website/pull/13133) merged on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13133) over 1 day, 11 additions and 36 deletions in 1 file</sub><br />
