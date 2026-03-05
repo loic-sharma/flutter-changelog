@@ -150,5 +150,5 @@
   <sub>[#183253](https://github.com/flutter/flutter/pull/183253) opened on on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183253) 54 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update org triage<br />
-  <sub>[#183254](https://github.com/flutter/flutter/pull/183254) opened on on March 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183254) 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#183254](https://github.com/flutter/flutter/pull/183254) opened on on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183254) 3 additions and 2 deletions in 1 file</sub><br />
 
