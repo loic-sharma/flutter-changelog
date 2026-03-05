@@ -131,9 +131,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix new convex path shadow generation in perspective<br />
   <sub>[#183187](https://github.com/flutter/flutter/pull/183187) opened on on March 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/183187) 188 additions and 12 deletions in 2 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clean up test image<br />
-  <sub>[#183197](https://github.com/flutter/flutter/pull/183197) opened on on March 4, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183197) 35 additions and 26 deletions in 1 file</sub><br />
-
 * **[Ayush Singh](https://github.com/bharatvansh)** &mdash; [packages_autoroller] Handle ProcessException in Git.run<br />
   <sub>[#183205](https://github.com/flutter/flutter/pull/183205) opened on on March 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183205) 149 additions and 6 deletions in 2 files</sub><br />
 
