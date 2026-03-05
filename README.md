@@ -776,11 +776,15 @@
 
 ### February 28, 2026 to March 6, 2026
 
-9 commits.
+10 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Allow usage of all use cases concurrently<br />
   <sub>[#10732](https://github.com/flutter/packages/pull/10732) merged on March 3, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/10732) over 1 month, 24 additions and 628 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Lorenzo Croce](https://github.com/Fireentity)** &mdash; [tool] Add check for blank lines in CHANGELOG lists<br />
+  <sub>[#10346](https://github.com/flutter/packages/pull/10346) merged on March 5, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/10346) over 4 months, 118 additions and 7 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [camera_avfoundation] Fixes crash when using ResolutionPreset.max with iPhone 17<br />
   <sub>[#11106](https://github.com/flutter/packages/pull/11106) merged on March 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11106) over 1 week, 99 additions and 7 deletions in 8 files</sub><br />
