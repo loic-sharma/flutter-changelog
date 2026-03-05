@@ -78,7 +78,7 @@
   <sub>[#182914](https://github.com/flutter/flutter/pull/182914) opened on on February 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182914) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 80743bd43fd5b38fedc503308e7a652e23d3ec93<br />
-  <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 23 additions and 16 deletions in 11 files</sub><br />
+  <sub>[#182919](https://github.com/flutter/flutter/pull/182919) opened on on February 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182919) 52 additions and 45 deletions in 16 files</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window<br />
   <sub>[#182963](https://github.com/flutter/flutter/pull/182963) opened on on February 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182963) 53 additions and 1 deletion in 2 files</sub><br />
@@ -138,7 +138,7 @@
   <sub>[#183233](https://github.com/flutter/flutter/pull/183233) opened on on March 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183233) 43 additions and 1 deletion in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build CocoaPod plugin frameworks for Add to App FlutterPluginRegistrant<br />
-  <sub>[#183239](https://github.com/flutter/flutter/pull/183239) opened on on March 4, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/183239) 1040 additions and 91 deletions in 4 files</sub><br />
+  <sub>[#183239](https://github.com/flutter/flutter/pull/183239) opened on on March 4, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/183239) 1040 additions and 91 deletions in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix typo in README<br />
   <sub>[#183245](https://github.com/flutter/flutter/pull/183245) opened on on March 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183245) 1 addition and 1 deletion in 1 file</sub><br />
@@ -151,7 +151,4 @@
 
 * **[Ricky van den berg](https://github.com/RickyvdBerg)** &mdash; [Impeller] Dispose thread-local Vulkan caches in embedder compositor path<br />
   <sub>[#183268](https://github.com/flutter/flutter/pull/183268) opened on on March 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183268) 9 additions and 0 deletions in 1 file</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "[ios]uitest for admob banner in scrollable list gesture issue…<br />
-  <sub>[#183271](https://github.com/flutter/flutter/pull/183271) opened on on March 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183271) 38 additions and 232 deletions in 10 files</sub><br />
 
