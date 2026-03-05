@@ -8,9 +8,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
   <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.<br />
-  <sub>[#177473](https://github.com/flutter/flutter/pull/177473) opened on on October 23, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/177473) 39 additions and 35 deletions in 1 file</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
 
@@ -111,7 +108,7 @@
   <sub>[#183072](https://github.com/flutter/flutter/pull/183072) opened on on February 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183072) 143 additions and 22 deletions in 2 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: use double quotes in settings.gradle.kts template<br />
-  <sub>[#183081](https://github.com/flutter/flutter/pull/183081) opened on on March 1, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183081) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#183081](https://github.com/flutter/flutter/pull/183081) opened on on March 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183081) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[GyuBin Hwang](https://github.com/SpiralMomentum)** &mdash; [framework] Add fadeOutPlaceholder parameter to FadeInImage<br />
   <sub>[#183086](https://github.com/flutter/flutter/pull/183086) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183086) 99 additions and 27 deletions in 2 files</sub><br />
@@ -154,4 +151,7 @@
 
 * **[Ricky van den berg](https://github.com/RickyvdBerg)** &mdash; [Impeller] Dispose thread-local Vulkan caches in embedder compositor path<br />
   <sub>[#183268](https://github.com/flutter/flutter/pull/183268) opened on on March 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183268) 9 additions and 0 deletions in 1 file</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "[ios]uitest for admob banner in scrollable list gesture issue…<br />
+  <sub>[#183271](https://github.com/flutter/flutter/pull/183271) opened on on March 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183271) 38 additions and 232 deletions in 10 files</sub><br />
 
