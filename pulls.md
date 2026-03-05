@@ -51,7 +51,7 @@
   <sub>[#181829](https://github.com/flutter/flutter/pull/181829) opened on on February 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181829) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add GitHub workflows to assist with release tasks<br />
-  <sub>[#181978](https://github.com/flutter/flutter/pull/181978) opened on on February 6, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/181978) 377 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#181978](https://github.com/flutter/flutter/pull/181978) opened on on February 6, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/181978) 397 additions and 1 deletion in 5 files</sub><br />
 
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
