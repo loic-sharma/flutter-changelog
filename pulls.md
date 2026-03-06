@@ -161,9 +161,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add startContained and centerContained FloatingActionButtonLocations.<br />
   <sub>[#183305](https://github.com/flutter/flutter/pull/183305) opened on on March 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183305) 91 additions and 4 deletions in 4 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Make HCPP upgrading work for vd/tlhc (#181024)"<br />
-  <sub>[#183310](https://github.com/flutter/flutter/pull/183310) opened on on March 6, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/183310) 31 additions and 336 deletions in 12 files</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add AI contribution guidelines<br />
-  <sub>[#183326](https://github.com/flutter/flutter/pull/183326) opened on on March 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183326) 76 additions and 1 deletion in 2 files</sub><br />
-
