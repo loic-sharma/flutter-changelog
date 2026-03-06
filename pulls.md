@@ -152,3 +152,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more userMessages getters from the tool<br />
   <sub>[#183295](https://github.com/flutter/flutter/pull/183295) opened on on March 6, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/183295) 160 additions and 246 deletions in 13 files</sub><br />
 
+* **[SoaringHeart](https://github.com/shang1219178163)** &mdash; feat: Add an offset property destinationOffset to the DecorationImage.<br />
+  <sub>[#183300](https://github.com/flutter/flutter/pull/183300) opened on on March 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183300) 13 additions and 2 deletions in 1 file</sub><br />
+
