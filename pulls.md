@@ -149,3 +149,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add a nore to `arcTo` about the 2PI drawing angle<br />
   <sub>[#183293](https://github.com/flutter/flutter/pull/183293) opened on on March 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183293) 4 additions and 1 deletion in 1 file</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more userMessages getters from the tool<br />
+  <sub>[#183295](https://github.com/flutter/flutter/pull/183295) opened on on March 6, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/183295) 160 additions and 246 deletions in 13 files</sub><br />
+
