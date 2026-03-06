@@ -161,3 +161,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add startContained and centerContained FloatingActionButtonLocations.<br />
   <sub>[#183305](https://github.com/flutter/flutter/pull/183305) opened on on March 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183305) 91 additions and 4 deletions in 4 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await or ignore lint to flutter_driver unawaited callsites<br />
+  <sub>[#183334](https://github.com/flutter/flutter/pull/183334) opened on on March 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183334) 48 additions and 8 deletions in 7 files</sub><br />
+
