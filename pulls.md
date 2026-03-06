@@ -144,7 +144,7 @@
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Refactor RefreshIndicator scroll handling and arm/disarm logic<br />
-  <sub>[#183282](https://github.com/flutter/flutter/pull/183282) opened on on March 5, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183282) 466 additions and 91 deletions in 2 files</sub><br />
+  <sub>[#183282](https://github.com/flutter/flutter/pull/183282) opened on on March 5, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183282) 466 additions and 91 deletions in 2 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add a nore to `arcTo` about the 2PI drawing angle<br />
   <sub>[#183293](https://github.com/flutter/flutter/pull/183293) opened on on March 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183293) 4 additions and 1 deletion in 1 file</sub><br />
