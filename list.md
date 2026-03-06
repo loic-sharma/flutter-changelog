@@ -845,7 +845,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-14 commits.
+15 commits.
 
 * **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter] Add Advanced Markers support
   <sub>[#7882](https://github.com/flutter/packages/pull/7882) merged on March 6, 2026 &mdash; **Extra large:** [204 comments](https://github.com/flutter/packages/pull/7882) over 16 months, 1486 additions and 63 deletions in 19 files</sub>
@@ -870,6 +870,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [camera_avfoundation] Fixes crash when using ResolutionPreset.max with iPhone 17
   <sub>[#11106](https://github.com/flutter/packages/pull/11106) merged on March 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11106) over 1 week, 99 additions and 7 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Updated AGP and KGP to align with flutter/flutter templates
+  <sub>[#10423](https://github.com/flutter/packages/pull/10423) merged on March 6, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/10423) over 3 months, 111 additions and 111 deletions in 41 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[androidseb](https://github.com/androidseb)** &mdash; [flutter_svg] Update README with an example to scale images
   <sub>[#10547](https://github.com/flutter/packages/pull/10547) merged on March 6, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/10547) over 3 months, 9 additions and 2 deletions in 4 files</sub>

@@ -125,9 +125,6 @@
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; feat: add reloadIsRestart to handle hot reload as a restart for web #179448<br />
   <sub>[#183233](https://github.com/flutter/flutter/pull/183233) opened on on March 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183233) 43 additions and 1 deletion in 4 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix typo in README<br />
-  <sub>[#183245](https://github.com/flutter/flutter/pull/183245) opened on on March 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183245) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Fix macOS flutter attach VM service discovery<br />
   <sub>[#183253](https://github.com/flutter/flutter/pull/183253) opened on on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183253) 54 additions and 0 deletions in 2 files</sub><br />
 
@@ -136,9 +133,6 @@
 
 * **[Ricky van den berg](https://github.com/RickyvdBerg)** &mdash; [Impeller] Dispose thread-local Vulkan caches in embedder compositor path<br />
   <sub>[#183268](https://github.com/flutter/flutter/pull/183268) opened on on March 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183268) 9 additions and 0 deletions in 1 file</sub><br />
-
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv]fix admob banner scrollable on ios 18.2<br />
-  <sub>[#183274](https://github.com/flutter/flutter/pull/183274) opened on on March 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183274) 26 additions and 17 deletions in 2 files</sub><br />
 
 * **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
