@@ -158,3 +158,6 @@
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Updates tests commit<br />
   <sub>[#183301](https://github.com/flutter/flutter/pull/183301) opened on on March 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183301) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash;  [152588] Fix Scrollable being too eager to respond to pointer signals<br />
+  <sub>[#183302](https://github.com/flutter/flutter/pull/183302) opened on on March 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183302) 62 additions and 6 deletions in 2 files</sub><br />
+
