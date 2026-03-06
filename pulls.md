@@ -98,6 +98,9 @@
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix wording and suggest GitHub Gist for sharing large logs<br />
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183063) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; Fix black screen issue when rendering pixel buffer on Linux<br />
+  <sub>[#183065](https://github.com/flutter/flutter/pull/183065) opened on on February 28, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/183065) 58 additions and 4 deletions in 3 files</sub><br />
+
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [Android] Use EdgeToEdge.enable/WindowCompat for edge-to-edge mode instead of deprecated View flags<br />
   <sub>[#183072](https://github.com/flutter/flutter/pull/183072) opened on on February 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183072) 143 additions and 22 deletions in 2 files</sub><br />
 
