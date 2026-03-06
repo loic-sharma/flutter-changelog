@@ -837,7 +837,15 @@
 
 ### February 28, 2026 to March 6, 2026
 
-12 commits.
+14 commits.
+
+* **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter] Add Advanced Markers support
+  <sub>[#7882](https://github.com/flutter/packages/pull/7882) merged on March 6, 2026 &mdash; **Extra large:** [204 comments](https://github.com/flutter/packages/pull/7882) over 16 months, 1486 additions and 63 deletions in 19 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [David Iglesias](https://github.com/ditman), [Camille Simon](https://github.com/camsim99), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[coderyes](https://github.com/linchen00)** &mdash; [in_app_purchase]Fixes StoreKit 2 purchase flow to send cancelled/pending/unverified results to purchaseStream.
+  <sub>[#10736](https://github.com/flutter/packages/pull/10736) merged on March 6, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/10736) over 1 month, 468 additions and 227 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter_ios] Add Advanced marker support
   <sub>[#10508](https://github.com/flutter/packages/pull/10508) merged on March 5, 2026 &mdash; **Extra large:** [49 comments](https://github.com/flutter/packages/pull/10508) over 3 months, 10395 additions and 1571 deletions in 117 files</sub>
