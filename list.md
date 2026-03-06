@@ -81,7 +81,7 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not wait for a frame's acquire fence if the frame was never presented
-  <sub>[#183288](https://github.com/flutter/flutter/pull/183288) merged on March 6, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/183288) over 20 hours, 68 additions and 2 deletions in 4 files</sub>
+  <sub>[#183288](https://github.com/flutter/flutter/pull/183288) merged on March 6, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/183288) over 20 hours, 68 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable SwiftPM by default on master and beta
