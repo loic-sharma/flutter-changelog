@@ -92,6 +92,10 @@
   <sub>[#182923](https://github.com/flutter/flutter/pull/182923) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182923) over 4 days, 135 additions and 32 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: use double quotes in settings.gradle.kts template<br />
+  <sub>[#183081](https://github.com/flutter/flutter/pull/183081) merged on March 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183081) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [iOS] Skip gesture recognizer reset workaround on iOS 26+ <br />
   <sub>[#183186](https://github.com/flutter/flutter/pull/183186) merged on March 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183186) over 1 day, 14 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
@@ -108,9 +112,9 @@
   <sub>[#182506](https://github.com/flutter/flutter/pull/182506) merged on March 4, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182506) over 2 weeks, 36 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: use double quotes in settings.gradle.kts template<br />
-  <sub>[#183081](https://github.com/flutter/flutter/pull/183081) merged on March 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183081) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub><br />
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add AI contribution guidelines<br />
+  <sub>[#183326](https://github.com/flutter/flutter/pull/183326) merged on March 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183326) over 1 hour, 76 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[SakuraMomoko](https://github.com/wangfeihang)** &mdash; [two_dimensional_scrollables] Fix tableview janks when first row/column pinned<br />
   <sub>[#180563](https://github.com/flutter/flutter/pull/180563) merged on March 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/180563) over 1 month, 118 additions and 57 deletions in 2 files</sub><br />
@@ -127,10 +131,6 @@
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Use dart::bin::SetupDartIo to setup dart:io<br />
   <sub>[#176714](https://github.com/flutter/flutter/pull/176714) merged on March 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176714) over 4 months, 16 additions and 51 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Martin Kustermann](https://github.com/mkustermann)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add AI contribution guidelines<br />
-  <sub>[#183326](https://github.com/flutter/flutter/pull/183326) merged on March 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183326) over 1 hour, 76 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix typo in README<br />
   <sub>[#183245](https://github.com/flutter/flutter/pull/183245) merged on March 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183245) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
