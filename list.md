@@ -1173,7 +1173,7 @@
 
 ### February 28, 2026 to March 6, 2026
 
-18 commits.
+19 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples
   <sub>[#13140](https://github.com/flutter/website/pull/13140) merged on March 4, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/13140) over 16 hours, 1612 additions and 39 deletions in 39 files</sub>
@@ -1202,6 +1202,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for ListTile color warning
   <sub>[#13131](https://github.com/flutter/website/pull/13131) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13131) over 2 hours, 117 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Some initial fixes after first set of FWE excerpts
+  <sub>[#13150](https://github.com/flutter/website/pull/13150) merged on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13150) over 1 day, 10 additions and 53 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Add System UI design doc
   <sub>[#13143](https://github.com/flutter/website/pull/13143) merged on March 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13143) over 51 minutes, 1 addition and 0 deletions in 1 file</sub>
