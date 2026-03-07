@@ -173,3 +173,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; (Test cross-imports) Remove legacy Material import from sliver_constraints_test<br />
   <sub>[#183351](https://github.com/flutter/flutter/pull/183351) opened on on March 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183351) 4 additions and 3 deletions in 1 file</sub><br />
 
+* **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; finally fixed the damn whitespace in the windows install console output<br />
+  <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183356) 1 addition and 1 deletion in 1 file</sub><br />
+
