@@ -174,8 +174,11 @@
   <sub>[#183351](https://github.com/flutter/flutter/pull/183351) opened on on March 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183351) 4 additions and 3 deletions in 1 file</sub><br />
 
 * **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; finally fixed the damn whitespace in the windows install console output<br />
-  <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183356) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183356) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Alexander Dmitriev](https://github.com/BrainLUX)** &mdash; Add Alexander Dmitriev to AUTHORS<br />
   <sub>[#183357](https://github.com/flutter/flutter/pull/183357) opened on on March 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183357) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Reapply "Make HCPP upgrading work for vd/tlhc (#181024)" (#183310)<br />
+  <sub>[#183360](https://github.com/flutter/flutter/pull/183360) opened on on March 7, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/183360) 336 additions and 31 deletions in 12 files</sub><br />
 
