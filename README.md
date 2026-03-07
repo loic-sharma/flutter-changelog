@@ -1195,6 +1195,10 @@
   <sub>[#12995](https://github.com/flutter/website/pull/12995) merged on March 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/12995) over 1 month, 15 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
+* **[luo2430](https://github.com/luo2430)** &mdash; Fix integration_test command syntax in documentation<br />
+  <sub>[#13135](https://github.com/flutter/website/pull/13135) merged on March 7, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13135) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 * **[sheepmomodld](https://github.com/sheepmomodld)** &mdash; Deleted duplicted "Learned about common layout issues" in Review.<br />
   <sub>[#13136](https://github.com/flutter/website/pull/13136) merged on March 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13136) over 25 minutes, 0 additions and 8 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
@@ -1218,10 +1222,6 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update title for Flutter setup documentation<br />
   <sub>[#13120](https://github.com/flutter/website/pull/13120) merged on March 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13120) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[luo2430](https://github.com/luo2430)** &mdash; Fix integration_test command syntax in documentation<br />
-  <sub>[#13135](https://github.com/flutter/website/pull/13135) merged on March 7, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13135) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding Firebase AI Logic showcase to list of examples<br />
   <sub>[#13149](https://github.com/flutter/website/pull/13149) merged on March 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13149) over 23 hours, 3 additions and 0 deletions in 1 file</sub><br />
