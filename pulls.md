@@ -179,3 +179,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reapply "Make HCPP upgrading work for vd/tlhc (#181024)" (#183310)<br />
   <sub>[#183360](https://github.com/flutter/flutter/pull/183360) opened on on March 7, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/183360) 336 additions and 31 deletions in 12 files</sub><br />
 
+* **[Naman Goyal](https://github.com/NamanGoyalK)** &mdash; Throw ToolExit when flutter downgrade receives positional arguments<br />
+  <sub>[#183375](https://github.com/flutter/flutter/pull/183375) opened on on March 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183375) 44 additions and 0 deletions in 2 files</sub><br />
+
