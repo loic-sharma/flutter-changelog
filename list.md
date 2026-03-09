@@ -4,7 +4,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-7 commits.
+8 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Implements `ClipRSuperellipse` on backdrop filter on platform view
   <sub>[#182643](https://github.com/flutter/flutter/pull/182643) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182643) over 2 weeks, 122 additions and 2 deletions in 4 files</sub>
@@ -25,6 +25,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix --print-dtd not working for web targets
   <sub>[#183171](https://github.com/flutter/flutter/pull/183171) merged on March 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183171) over 6 days, 48 additions and 11 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53)</sub>
+
+* **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window
+  <sub>[#182963](https://github.com/flutter/flutter/pull/182963) merged on March 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182963) over 1 week, 53 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await or ignore lint to flutter_driver unawaited callsites
   <sub>[#183334](https://github.com/flutter/flutter/pull/183334) merged on March 9, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183334) over 2 days, 51 additions and 9 deletions in 7 files</sub>
