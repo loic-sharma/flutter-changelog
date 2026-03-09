@@ -189,5 +189,5 @@
   <sub>[#183376](https://github.com/flutter/flutter/pull/183376) opened on on March 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183376) 72 additions and 2 deletions in 2 files</sub><br />
 
 * **[layla](https://github.com/04cb)** &mdash; Fix crash when errorBuilder is used with decoration containing errorText<br />
-  <sub>[#183384](https://github.com/flutter/flutter/pull/183384) opened on on March 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183384) 126 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#183384](https://github.com/flutter/flutter/pull/183384) opened on on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183384) 126 additions and 6 deletions in 2 files</sub><br />
 
