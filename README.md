@@ -4,7 +4,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-3 commits.
+4 commits.
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Implements `ClipRSuperellipse` on backdrop filter on platform view<br />
   <sub>[#182643](https://github.com/flutter/flutter/pull/182643) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182643) over 2 weeks, 122 additions and 2 deletions in 4 files</sub><br />
@@ -13,6 +13,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Cleanup MockVulkan when the vulkan instance is destroyed<br />
   <sub>[#183324](https://github.com/flutter/flutter/pull/183324) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183324) over 2 days, 99 additions and 40 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await or ignore lint to flutter_driver unawaited callsites<br />
+  <sub>[#183334](https://github.com/flutter/flutter/pull/183334) merged on March 9, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183334) over 2 days, 51 additions and 9 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Updates tests commit<br />
   <sub>[#183301](https://github.com/flutter/flutter/pull/183301) merged on March 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183301) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
