@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 7, 2026 to March 13, 2026
+
+1 commits.
+
+* **[Hari07](https://github.com/Hari-07)** &mdash; Implements `ClipRSuperellipse` on backdrop filter on platform view
+  <sub>[#182643](https://github.com/flutter/flutter/pull/182643) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182643) over 2 weeks, 122 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
 ### February 28, 2026 to March 6, 2026
 
-61 commits.
+<details>
+<summary>61 commits...</summary>
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Allow stylus support on windows
   <sub>[#165323](https://github.com/flutter/flutter/pull/165323) merged on March 4, 2026 &mdash; **Large:** [70 comments](https://github.com/flutter/flutter/pull/165323) over 11 months, 510 additions and 102 deletions in 15 files</sub>
@@ -251,6 +260,8 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Make HCPP upgrading work for vd/tlhc (#181024)"
   <sub>[#183310](https://github.com/flutter/flutter/pull/183310) merged on March 6, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/183310) over 4 hours, 31 additions and 336 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
+
+</details>
 
 ### February 21, 2026 to February 27, 2026
 

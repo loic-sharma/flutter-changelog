@@ -89,9 +89,6 @@
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix wording and suggest GitHub Gist for sharing large logs<br />
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183063) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; Fix black screen issue when rendering pixel buffer on Linux<br />
-  <sub>[#183065](https://github.com/flutter/flutter/pull/183065) opened on on February 28, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/183065) 58 additions and 4 deletions in 3 files</sub><br />
-
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [Android] Use EdgeToEdge.enable/WindowCompat for edge-to-edge mode instead of deprecated View flags<br />
   <sub>[#183072](https://github.com/flutter/flutter/pull/183072) opened on on February 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183072) 143 additions and 22 deletions in 2 files</sub><br />
 
@@ -139,9 +136,6 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add startContained and centerContained FloatingActionButtonLocations.<br />
   <sub>[#183305](https://github.com/flutter/flutter/pull/183305) opened on on March 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183305) 91 additions and 4 deletions in 4 files</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await or ignore lint to flutter_driver unawaited callsites<br />
-  <sub>[#183334](https://github.com/flutter/flutter/pull/183334) opened on on March 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183334) 48 additions and 8 deletions in 7 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 forth grouped tests<br />
   <sub>[#183347](https://github.com/flutter/flutter/pull/183347) opened on on March 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183347) 130 additions and 0 deletions in 10 files</sub><br />
