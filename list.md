@@ -655,9 +655,18 @@
 
 ## flutter/packages
 
+### March 7, 2026 to March 13, 2026
+
+1 commits.
+
+* **[jeffkwoh](https://github.com/jeffkwoh)** &mdash; [pigeon] Support javax.annotation.Generated annotation in Kotlin generator
+  <sub>[#10961](https://github.com/flutter/packages/pull/10961) merged on March 9, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/10961) over 1 month, 160 additions and 47 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
 ### February 28, 2026 to March 6, 2026
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter] Add Advanced Markers support
   <sub>[#7882](https://github.com/flutter/packages/pull/7882) merged on March 6, 2026 &mdash; **Extra large:** [204 comments](https://github.com/flutter/packages/pull/7882) over 16 months, 1486 additions and 63 deletions in 19 files</sub>
@@ -722,6 +731,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 90673a4eef27 to ff37bef60346 (13 revisions)
   <sub>[#11180](https://github.com/flutter/packages/pull/11180) merged on March 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11180) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### February 21, 2026 to February 27, 2026
 
