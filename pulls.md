@@ -162,7 +162,7 @@
   <sub>[#183350](https://github.com/flutter/flutter/pull/183350) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183350) 34 additions and 3 deletions in 2 files</sub><br />
 
 * **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; finally fixed the damn whitespace in the windows install console output<br />
-  <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Alexander Dmitriev](https://github.com/BrainLUX)** &mdash; Add Alexander Dmitriev to AUTHORS<br />
   <sub>[#183357](https://github.com/flutter/flutter/pull/183357) opened on on March 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183357) 1 addition and 0 deletions in 1 file</sub><br />
