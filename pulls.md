@@ -152,9 +152,6 @@
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash;  [152588] Fix Scrollable being too eager to respond to pointer signals<br />
   <sub>[#183302](https://github.com/flutter/flutter/pull/183302) opened on on March 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183302) 62 additions and 6 deletions in 2 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes animation glitch into bottom sheet<br />
-  <sub>[#183303](https://github.com/flutter/flutter/pull/183303) opened on on March 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183303) 67 additions and 2 deletions in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add startContained and centerContained FloatingActionButtonLocations.<br />
   <sub>[#183305](https://github.com/flutter/flutter/pull/183305) opened on on March 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183305) 91 additions and 4 deletions in 4 files</sub><br />
 
@@ -166,9 +163,6 @@
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; (Test cross-imports) Remove cross-imported test utils from Cupertino sheet/tab scaffold tests<br />
   <sub>[#183350](https://github.com/flutter/flutter/pull/183350) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183350) 34 additions and 3 deletions in 2 files</sub><br />
-
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; (Test cross-imports) Remove legacy Material import from sliver_constraints_test<br />
-  <sub>[#183351](https://github.com/flutter/flutter/pull/183351) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183351) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; finally fixed the damn whitespace in the windows install console output<br />
   <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
