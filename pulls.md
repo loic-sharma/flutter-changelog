@@ -179,3 +179,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Codesign XCFrameworks for darwin add to app<br />
+  <sub>[#183399](https://github.com/flutter/flutter/pull/183399) opened on on March 9, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/183399) 2578 additions and 138 deletions in 25 files</sub><br />
+

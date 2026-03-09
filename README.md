@@ -657,11 +657,15 @@
 
 ### March 7, 2026 to March 13, 2026
 
-1 commits.
+2 commits.
 
 * **[jeffkwoh](https://github.com/jeffkwoh)** &mdash; [pigeon] Support javax.annotation.Generated annotation in Kotlin generator<br />
   <sub>[#10961](https://github.com/flutter/packages/pull/10961) merged on March 9, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/10961) over 1 month, 160 additions and 47 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Modernize non-plugin Android example apps<br />
+  <sub>[#11168](https://github.com/flutter/packages/pull/11168) merged on March 9, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/11168) over 5 days, 1141 additions and 1032 deletions in 123 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 ### February 28, 2026 to March 6, 2026
 
