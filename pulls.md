@@ -80,9 +80,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
   <sub>[#182977](https://github.com/flutter/flutter/pull/182977) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182977) 69 additions and 20 deletions in 2 files</sub><br />
 
-* **[Fatahillah Alvarisi](https://github.com/alvarisi)** &mdash; docs: document Play Console symbol upload for Android desymbolication<br />
-  <sub>[#182985](https://github.com/flutter/flutter/pull/182985) opened on on February 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182985) 39 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clarify why the `child` is nullable in `AnimatedTransitionBuilder`<br />
   <sub>[#182995](https://github.com/flutter/flutter/pull/182995) opened on on February 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182995) 11 additions and 1 deletion in 1 file</sub><br />
 
@@ -178,4 +175,7 @@
 
 * **[Milen Valev](https://github.com/ldak)** &mdash; Add support for downgrading to a specific version<br />
   <sub>[#183376](https://github.com/flutter/flutter/pull/183376) opened on on March 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183376) 72 additions and 2 deletions in 2 files</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
+  <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
