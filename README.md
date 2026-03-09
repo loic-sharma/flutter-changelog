@@ -818,10 +818,10 @@
 
 ### March 7, 2026 to March 13, 2026
 
-5 commits.
+6 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples (pt2 of 3)<br />
-  <sub>[#13156](https://github.com/flutter/website/pull/13156) merged on March 9, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/website/pull/13156) over 2 days, 1685 additions and 220 deletions in 33 files</sub><br />
+  <sub>[#13156](https://github.com/flutter/website/pull/13156) merged on March 9, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/website/pull/13156) over 2 days, 1685 additions and 220 deletions in 33 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add config to disable PR summary comments<br />
@@ -839,6 +839,10 @@
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; Add `/go/video-player-drm` design doc redirect<br />
   <sub>[#13154](https://github.com/flutter/website/pull/13154) merged on March 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13154) over 2 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Revert "Update fwe samples (pt2 of 3) (#13156)"<br />
+  <sub>[#13159](https://github.com/flutter/website/pull/13159) merged on March 9, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/13159) over 12 minutes, 220 additions and 1685 deletions in 33 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub><br />
 
 ### February 28, 2026 to March 6, 2026
 
