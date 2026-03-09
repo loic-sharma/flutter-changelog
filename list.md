@@ -833,10 +833,14 @@
 
 ### March 7, 2026 to March 13, 2026
 
-7 commits.
+8 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples (pt2 of 3)
   <sub>[#13156](https://github.com/flutter/website/pull/13156) merged on March 9, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/website/pull/13156) over 2 days, 1685 additions and 220 deletions in 33 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Mate Narh](https://github.com/spartaninzaghi)** &mdash; Omission Fix: Retain automaticallyImplyLeading default parameter
+  <sub>[#13092](https://github.com/flutter/website/pull/13092) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13092) over 2 weeks, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add config to disable PR summary comments
