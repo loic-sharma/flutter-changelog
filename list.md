@@ -493,7 +493,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove --disable-gpu from flutter chrome tests
-  <sub>[#182618](https://github.com/flutter/flutter/pull/182618) merged on February 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182618) over 4 days, 1 addition and 10 deletions in 2 files</sub>
+  <sub>[#182618](https://github.com/flutter/flutter/pull/182618) merged on February 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182618) over 4 days, 1 addition and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Remove `ExtendSelectionByPageIntent`
@@ -816,9 +816,34 @@
 
 ## flutter/website
 
+### March 7, 2026 to March 13, 2026
+
+5 commits.
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples (pt2 of 3)
+  <sub>[#13156](https://github.com/flutter/website/pull/13156) merged on March 9, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/website/pull/13156) over 2 days, 1685 additions and 220 deletions in 33 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add config to disable PR summary comments
+  <sub>[#13151](https://github.com/flutter/website/pull/13151) merged on March 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13151) over 3 days, 17 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Scaffold initial agent guidelines file for repository
+  <sub>[#13152](https://github.com/flutter/website/pull/13152) merged on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13152) over 3 days, 73 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update all references to old /get-started destinations
+  <sub>[#13157](https://github.com/flutter/website/pull/13157) merged on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13157) over 1 day, 79 additions and 111 deletions in 39 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; Add `/go/video-player-drm` design doc redirect
+  <sub>[#13154](https://github.com/flutter/website/pull/13154) merged on March 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13154) over 2 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### February 28, 2026 to March 6, 2026
 
-20 commits.
+<details>
+<summary>20 commits...</summary>
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples
   <sub>[#13140](https://github.com/flutter/website/pull/13140) merged on March 4, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/13140) over 16 hours, 1612 additions and 39 deletions in 39 files</sub>
@@ -899,6 +924,8 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Design Doc: Decoupling Menu State from Presentation
   <sub>[#13127](https://github.com/flutter/website/pull/13127) merged on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13127) over 5 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### February 21, 2026 to February 27, 2026
 
