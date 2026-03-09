@@ -66,7 +66,7 @@
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Enable indentical code folding for the engine.<br />
-  <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182856) 8 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#182856](https://github.com/flutter/flutter/pull/182856) opened on on February 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182856) 8 additions and 21 deletions in 2 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; test: remove unnecessary Material import in sliver_constraints_test (…<br />
   <sub>[#182914](https://github.com/flutter/flutter/pull/182914) opened on on February 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182914) 5 additions and 5 deletions in 1 file</sub><br />
@@ -105,7 +105,7 @@
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
 
 * **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
-  <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183180) 38 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183180) 38 additions and 0 deletions in 5 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; update popular issues documentation<br />
   <sub>[#183196](https://github.com/flutter/flutter/pull/183196) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183196) 17 additions and 26 deletions in 1 file</sub><br />
@@ -116,17 +116,11 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update org triage<br />
   <sub>[#183254](https://github.com/flutter/flutter/pull/183254) opened on on March 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183254) 3 additions and 2 deletions in 1 file</sub><br />
 
-* **[Ricky van den berg](https://github.com/RickyvdBerg)** &mdash; [Impeller] Dispose thread-local Vulkan caches in embedder compositor path<br />
-  <sub>[#183268](https://github.com/flutter/flutter/pull/183268) opened on on March 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183268) 9 additions and 0 deletions in 1 file</sub><br />
-
 * **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Refactor RefreshIndicator scroll handling and arm/disarm logic<br />
   <sub>[#183282](https://github.com/flutter/flutter/pull/183282) opened on on March 5, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183282) 466 additions and 91 deletions in 2 files</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add a note to `arcTo` docs about the 2PI drawing angle issue<br />
-  <sub>[#183293](https://github.com/flutter/flutter/pull/183293) opened on on March 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183293) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more userMessages getters from the tool<br />
   <sub>[#183295](https://github.com/flutter/flutter/pull/183295) opened on on March 6, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/183295) 160 additions and 246 deletions in 13 files</sub><br />
@@ -159,5 +153,8 @@
   <sub>[#183399](https://github.com/flutter/flutter/pull/183399) opened on on March 9, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/183399) 2584 additions and 139 deletions in 25 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Standardize skia includes.<br />
-  <sub>[#183404](https://github.com/flutter/flutter/pull/183404) opened on on March 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183404) 17 additions and 18 deletions in 11 files</sub><br />
+  <sub>[#183404](https://github.com/flutter/flutter/pull/183404) opened on on March 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183404) 17 additions and 18 deletions in 11 files</sub><br />
+
+* **[Nour](https://github.com/MohammedTarigg)** &mdash; Add macOS Xcode build failure diagnostics<br />
+  <sub>[#183409](https://github.com/flutter/flutter/pull/183409) opened on on March 9, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/183409) 536 additions and 153 deletions in 5 files</sub><br />
 
