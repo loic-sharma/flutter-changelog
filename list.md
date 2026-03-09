@@ -4,7 +4,11 @@
 
 ### March 7, 2026 to March 13, 2026
 
-10 commits.
+11 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds geometry dirty nodes
+  <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [94 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Implements `ClipRSuperellipse` on backdrop filter on platform view
   <sub>[#182643](https://github.com/flutter/flutter/pull/182643) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182643) over 2 weeks, 122 additions and 2 deletions in 4 files</sub>
