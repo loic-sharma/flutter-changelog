@@ -149,6 +149,9 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Allow Xcode build configuration to not contain flavor name<br />
+  <sub>[#183398](https://github.com/flutter/flutter/pull/183398) opened on on March 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183398) 51 additions and 13 deletions in 3 files</sub><br />
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Codesign XCFrameworks for darwin add to app<br />
   <sub>[#183399](https://github.com/flutter/flutter/pull/183399) opened on on March 9, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/183399) 2584 additions and 139 deletions in 25 files</sub><br />
 
