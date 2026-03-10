@@ -128,9 +128,6 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Allow Xcode build configuration to not contain flavor name<br />
   <sub>[#183398](https://github.com/flutter/flutter/pull/183398) opened on on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183398) 51 additions and 13 deletions in 3 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Codesign XCFrameworks for darwin add to app<br />
-  <sub>[#183399](https://github.com/flutter/flutter/pull/183399) opened on on March 9, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/183399) 2585 additions and 139 deletions in 25 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update gradle utils to know about kgp 2.3.10 constraints<br />
   <sub>[#183416](https://github.com/flutter/flutter/pull/183416) opened on on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183416) 24 additions and 8 deletions in 2 files</sub><br />
 
