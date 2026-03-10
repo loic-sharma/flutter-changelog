@@ -745,11 +745,15 @@
 
 ### March 7, 2026 to March 13, 2026
 
-4 commits.
+5 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Optimize caption retrieval with binary search in VideoPlayerController<br />
   <sub>[#8347](https://github.com/flutter/packages/pull/8347) merged on March 10, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/8347) over 14 months, 816 additions and 387 deletions in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[August](https://github.com/Gustl22)** &mdash; [vector_graphics] Respect BoxFit parameter with viewbox<br />
+  <sub>[#11012](https://github.com/flutter/packages/pull/11012) merged on March 10, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11012) over 3 weeks, 121 additions and 38 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[jeffkwoh](https://github.com/jeffkwoh)** &mdash; [pigeon] Support javax.annotation.Generated annotation in Kotlin generator<br />
   <sub>[#10961](https://github.com/flutter/packages/pull/10961) merged on March 9, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/10961) over 1 month, 160 additions and 47 deletions in 11 files</sub><br />

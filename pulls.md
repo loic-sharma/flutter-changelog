@@ -129,25 +129,22 @@
   <sub>[#183398](https://github.com/flutter/flutter/pull/183398) opened on on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183398) 51 additions and 13 deletions in 3 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Codesign XCFrameworks for darwin add to app<br />
-  <sub>[#183399](https://github.com/flutter/flutter/pull/183399) opened on on March 9, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/183399) 2585 additions and 139 deletions in 25 files</sub><br />
+  <sub>[#183399](https://github.com/flutter/flutter/pull/183399) opened on on March 9, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/183399) 2585 additions and 139 deletions in 25 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update gradle utils to know about kgp 2.3.10 constraints<br />
   <sub>[#183416](https://github.com/flutter/flutter/pull/183416) opened on on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183416) 24 additions and 8 deletions in 2 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Wayland memory leak by image cleanup and render_sibling reuse<br />
-  <sub>[#183419](https://github.com/flutter/flutter/pull/183419) opened on on March 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183419) 43 additions and 7 deletions in 5 files</sub><br />
+  <sub>[#183419](https://github.com/flutter/flutter/pull/183419) opened on on March 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183419) 43 additions and 7 deletions in 5 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [build] Generate debug info for assembly.<br />
   <sub>[#183425](https://github.com/flutter/flutter/pull/183425) opened on on March 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183425) 3 additions and 0 deletions in 1 file</sub><br />
-
-* **[b-luk](https://github.com/b-luk)** &mdash; Add GLES support for the same pixel formats for copying texture -> buffer as when copying buffer -> texture<br />
-  <sub>[#183428](https://github.com/flutter/flutter/pull/183428) opened on on March 10, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/183428) 179 additions and 271 deletions in 6 files</sub><br />
 
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; Enhance iOS logging: await log reader start in devices and simulators…<br />
   <sub>[#183448](https://github.com/flutter/flutter/pull/183448) opened on on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183448) 108 additions and 21 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: show window after first frame callback<br />
-  <sub>[#183454](https://github.com/flutter/flutter/pull/183454) opened on on March 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183454) 147 additions and 8 deletions in 4 files</sub><br />
+  <sub>[#183454](https://github.com/flutter/flutter/pull/183454) opened on on March 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183454) 147 additions and 8 deletions in 4 files</sub><br />
 
 * **[Anurag Devanapally](https://github.com/andeart)** &mdash; Add `--include-example` flag to `flutter clean` for package example projects<br />
   <sub>[#183455](https://github.com/flutter/flutter/pull/183455) opened on on March 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183455) 125 additions and 3 deletions in 2 files</sub><br />
@@ -156,5 +153,5 @@
   <sub>[#183463](https://github.com/flutter/flutter/pull/183463) opened on on March 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183463) 23 additions and 21 deletions in 14 files</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing `await`s on forgotten cases<br />
-  <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183466) 8 additions and 8 deletions in 5 files</sub><br />
+  <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183466) 7 additions and 7 deletions in 4 files</sub><br />
 
