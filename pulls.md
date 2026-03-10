@@ -86,9 +86,6 @@
 * **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183180) 37 additions and 0 deletions in 5 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; update popular issues documentation<br />
-  <sub>[#183196](https://github.com/flutter/flutter/pull/183196) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183196) 17 additions and 26 deletions in 1 file</sub><br />
-
 * **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
 
@@ -106,9 +103,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Prevent Firefox auto-updates<br />
   <sub>[#183330](https://github.com/flutter/flutter/pull/183330) opened on on March 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183330) 26 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 forth grouped tests<br />
-  <sub>[#183347](https://github.com/flutter/flutter/pull/183347) opened on on March 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183347) 130 additions and 0 deletions in 10 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; (Test cross-imports) Remove cross-imported test utils from Cupertino sheet/tab scaffold tests<br />
   <sub>[#183350](https://github.com/flutter/flutter/pull/183350) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183350) 34 additions and 3 deletions in 2 files</sub><br />
@@ -151,6 +145,9 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix GitHub workflows to use the `flutteractionsbot` mirror for PR branches.<br />
   <sub>[#183470](https://github.com/flutter/flutter/pull/183470) opened on on March 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183470) 59 additions and 27 deletions in 3 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix input mirroring in platform views when system language is RTL, and support is set in manifest.<br />
+  <sub>[#183472](https://github.com/flutter/flutter/pull/183472) opened on on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183472) 212 additions and 4 deletions in 6 files</sub><br />
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix Semantics expanded state not updating in PopupMenuButton and DropdownButton<br />
   <sub>[#183475](https://github.com/flutter/flutter/pull/183475) opened on on March 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183475) 138 additions and 4 deletions in 4 files</sub><br />
