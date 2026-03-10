@@ -65,9 +65,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
   <sub>[#182977](https://github.com/flutter/flutter/pull/182977) opened on on February 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182977) 69 additions and 20 deletions in 2 files</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clarify why the `child` is nullable in `AnimatedTransitionBuilder`<br />
-  <sub>[#182995](https://github.com/flutter/flutter/pull/182995) opened on on February 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182995) 11 additions and 1 deletion in 1 file</sub><br />
-
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
@@ -153,5 +150,8 @@
   <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183466) 7 additions and 7 deletions in 4 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix GitHub workflows to use the `flutteractionsbot` mirror for PR branches.<br />
-  <sub>[#183470](https://github.com/flutter/flutter/pull/183470) opened on on March 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183470) 59 additions and 27 deletions in 3 files</sub><br />
+  <sub>[#183470](https://github.com/flutter/flutter/pull/183470) opened on on March 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183470) 59 additions and 27 deletions in 3 files</sub><br />
+
+* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix Semantics expanded state not updating in PopupMenuButton and DropdownButton<br />
+  <sub>[#183475](https://github.com/flutter/flutter/pull/183475) opened on on March 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183475) 138 additions and 4 deletions in 4 files</sub><br />
 
