@@ -4,7 +4,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-17 commits.
+19 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds geometry dirty nodes
   <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [94 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub>
@@ -43,6 +43,10 @@
   <sub>[#183429](https://github.com/flutter/flutter/pull/183429) merged on March 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183429) over 15 hours, 15 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Updates to the README
+  <sub>[#176292](https://github.com/flutter/flutter/pull/176292) merged on March 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176292) over 5 months, 18 additions and 26 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window
   <sub>[#182963](https://github.com/flutter/flutter/pull/182963) merged on March 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182963) over 1 week, 53 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Camille Simon](https://github.com/camsim99)</sub>
@@ -54,6 +58,10 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add a note to `arcTo` docs about the 2PI drawing angle issue
   <sub>[#183293](https://github.com/flutter/flutter/pull/183293) merged on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183293) over 3 days, 4 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not log VK_ERROR_SURFACE_LOST_KHR errors returned by vkAcquireNextImageKHR
+  <sub>[#183338](https://github.com/flutter/flutter/pull/183338) merged on March 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183338) over 3 days, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update org triage
   <sub>[#183254](https://github.com/flutter/flutter/pull/183254) merged on March 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183254) over 4 days, 3 additions and 2 deletions in 1 file</sub>
@@ -733,7 +741,11 @@
 
 ### March 7, 2026 to March 13, 2026
 
-2 commits.
+3 commits.
+
+* **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Optimize caption retrieval with binary search in VideoPlayerController
+  <sub>[#8347](https://github.com/flutter/packages/pull/8347) merged on March 10, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/8347) over 14 months, 816 additions and 387 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[jeffkwoh](https://github.com/jeffkwoh)** &mdash; [pigeon] Support javax.annotation.Generated annotation in Kotlin generator
   <sub>[#10961](https://github.com/flutter/packages/pull/10961) merged on March 9, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/10961) over 1 month, 160 additions and 47 deletions in 11 files</sub>
@@ -919,6 +931,10 @@
   <sub>[#13092](https://github.com/flutter/website/pull/13092) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13092) over 2 weeks, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor close order migration guide
+  <sub>[#13145](https://github.com/flutter/website/pull/13145) merged on March 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13145) over 4 days, 139 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add config to disable PR summary comments
   <sub>[#13151](https://github.com/flutter/website/pull/13151) merged on March 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13151) over 3 days, 17 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
@@ -930,10 +946,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update all references to old /get-started destinations
   <sub>[#13157](https://github.com/flutter/website/pull/13157) merged on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13157) over 1 day, 79 additions and 111 deletions in 39 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add RawMenuAnchor close order migration guide
-  <sub>[#13145](https://github.com/flutter/website/pull/13145) merged on March 9, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13145) over 4 days, 139 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; Add `/go/video-player-drm` design doc redirect
   <sub>[#13154](https://github.com/flutter/website/pull/13154) merged on March 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13154) over 2 days, 1 addition and 0 deletions in 1 file</sub>
