@@ -745,7 +745,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-3 commits.
+4 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Optimize caption retrieval with binary search in VideoPlayerController
   <sub>[#8347](https://github.com/flutter/packages/pull/8347) merged on March 10, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/8347) over 14 months, 816 additions and 387 deletions in 4 files</sub>
@@ -758,6 +758,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Modernize non-plugin Android example apps
   <sub>[#11168](https://github.com/flutter/packages/pull/11168) merged on March 9, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/11168) over 5 days, 1141 additions and 1032 deletions in 123 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add AI contribution guidelines to PR checklist
+  <sub>[#11195](https://github.com/flutter/packages/pull/11195) merged on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11195) over 3 days, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 ### February 28, 2026 to March 6, 2026
 

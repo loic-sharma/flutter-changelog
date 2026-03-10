@@ -155,3 +155,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Avoid File.exists and File.stat, as per enforced lint rule<br />
   <sub>[#183463](https://github.com/flutter/flutter/pull/183463) opened on on March 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183463) 23 additions and 21 deletions in 14 files</sub><br />
 
+* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing `await`s on forgotten cases<br />
+  <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183466) 8 additions and 8 deletions in 5 files</sub><br />
+
