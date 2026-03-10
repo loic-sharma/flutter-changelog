@@ -74,9 +74,6 @@
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix wording and suggest GitHub Gist for sharing large logs<br />
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183063) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[David Bebawy](https://github.com/dbebawy)** &mdash; [Android] Use EdgeToEdge.enable/WindowCompat for edge-to-edge mode instead of deprecated View flags<br />
-  <sub>[#183072](https://github.com/flutter/flutter/pull/183072) opened on on February 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183072) 143 additions and 22 deletions in 2 files</sub><br />
-
 * **[GyuBin Hwang](https://github.com/SpiralMomentum)** &mdash; [framework] Add fadeOutPlaceholder parameter to FadeInImage<br />
   <sub>[#183086](https://github.com/flutter/flutter/pull/183086) opened on on March 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183086) 99 additions and 27 deletions in 2 files</sub><br />
 
@@ -138,7 +135,7 @@
   <sub>[#183416](https://github.com/flutter/flutter/pull/183416) opened on on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183416) 24 additions and 8 deletions in 2 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Wayland memory leak by image cleanup and render_sibling reuse<br />
-  <sub>[#183419](https://github.com/flutter/flutter/pull/183419) opened on on March 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183419) 43 additions and 7 deletions in 5 files</sub><br />
+  <sub>[#183419](https://github.com/flutter/flutter/pull/183419) opened on on March 9, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/183419) 43 additions and 7 deletions in 5 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [build] Generate debug info for assembly.<br />
   <sub>[#183425](https://github.com/flutter/flutter/pull/183425) opened on on March 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183425) 3 additions and 0 deletions in 1 file</sub><br />
