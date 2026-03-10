@@ -48,7 +48,7 @@
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; dev: Use a super-parameter in several missed cases<br />
-  <sub>[#182251](https://github.com/flutter/flutter/pull/182251) opened on on February 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182251) 13 additions and 18 deletions in 7 files</sub><br />
+  <sub>[#182251](https://github.com/flutter/flutter/pull/182251) opened on on February 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182251) 13 additions and 18 deletions in 7 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/182333) 134 additions and 10 deletions in 2 files</sub><br />
@@ -143,6 +143,9 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [build] Generate debug info for assembly.<br />
   <sub>[#183425](https://github.com/flutter/flutter/pull/183425) opened on on March 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183425) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Add GLES support for the same pixel formats for copying texture -> buffer as when copying buffer -> texture<br />
+  <sub>[#183428](https://github.com/flutter/flutter/pull/183428) opened on on March 10, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/183428) 179 additions and 271 deletions in 6 files</sub><br />
+
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; Enhance iOS logging: await log reader start in devices and simulators…<br />
   <sub>[#183448](https://github.com/flutter/flutter/pull/183448) opened on on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183448) 108 additions and 21 deletions in 4 files</sub><br />
 
@@ -151,4 +154,7 @@
 
 * **[Anurag Devanapally](https://github.com/andeart)** &mdash; Add `--include-example` flag to `flutter clean` for package example projects<br />
   <sub>[#183455](https://github.com/flutter/flutter/pull/183455) opened on on March 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183455) 125 additions and 3 deletions in 2 files</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Avoid File.exists and File.stat, as per enforced lint rule<br />
+  <sub>[#183463](https://github.com/flutter/flutter/pull/183463) opened on on March 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183463) 23 additions and 21 deletions in 14 files</sub><br />
 
