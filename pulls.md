@@ -135,7 +135,7 @@
   <sub>[#183416](https://github.com/flutter/flutter/pull/183416) opened on on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183416) 24 additions and 8 deletions in 2 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Wayland memory leak by image cleanup and render_sibling reuse<br />
-  <sub>[#183419](https://github.com/flutter/flutter/pull/183419) opened on on March 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183419) 42 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#183419](https://github.com/flutter/flutter/pull/183419) opened on on March 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183419) 43 additions and 7 deletions in 5 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [build] Generate debug info for assembly.<br />
   <sub>[#183425](https://github.com/flutter/flutter/pull/183425) opened on on March 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183425) 3 additions and 0 deletions in 1 file</sub><br />
