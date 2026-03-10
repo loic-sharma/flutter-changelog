@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Have `flutter create` create a pubspec.lock to ensure pinned versions are being used.<br />
-  <sub>[#175352](https://github.com/flutter/flutter/pull/175352) opened on on September 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/175352) 74 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#175352](https://github.com/flutter/flutter/pull/175352) opened on on September 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/175352) 74 additions and 0 deletions in 2 files</sub><br />
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
@@ -80,9 +80,6 @@
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix formatting, capitalization, and grammar in activation issue template<br />
-  <sub>[#183061](https://github.com/flutter/flutter/pull/183061) opened on on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183061) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix wording and suggest GitHub Gist for sharing large logs<br />
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183063) 3 additions and 3 deletions in 1 file</sub><br />
 
@@ -108,7 +105,7 @@
   <sub>[#183196](https://github.com/flutter/flutter/pull/183196) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183196) 17 additions and 26 deletions in 1 file</sub><br />
 
 * **[Ayush Singh](https://github.com/bharatvansh)** &mdash; [packages_autoroller] Handle ProcessException in Git.run<br />
-  <sub>[#183205](https://github.com/flutter/flutter/pull/183205) opened on on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183205) 149 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#183205](https://github.com/flutter/flutter/pull/183205) opened on on March 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183205) 149 additions and 6 deletions in 2 files</sub><br />
 
 * **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
@@ -157,4 +154,7 @@
 
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; Enhance iOS logging: await log reader start in devices and simulators…<br />
   <sub>[#183448](https://github.com/flutter/flutter/pull/183448) opened on on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183448) 108 additions and 21 deletions in 4 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: show window after first frame callback<br />
+  <sub>[#183454](https://github.com/flutter/flutter/pull/183454) opened on on March 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183454) 148 additions and 8 deletions in 4 files</sub><br />
 
