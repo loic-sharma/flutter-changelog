@@ -104,9 +104,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; update popular issues documentation<br />
   <sub>[#183196](https://github.com/flutter/flutter/pull/183196) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183196) 17 additions and 26 deletions in 1 file</sub><br />
 
-* **[Ayush Singh](https://github.com/bharatvansh)** &mdash; [packages_autoroller] Handle ProcessException in Git.run<br />
-  <sub>[#183205](https://github.com/flutter/flutter/pull/183205) opened on on March 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183205) 149 additions and 6 deletions in 2 files</sub><br />
-
 * **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
 

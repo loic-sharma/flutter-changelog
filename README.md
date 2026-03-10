@@ -4,7 +4,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-14 commits.
+16 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds geometry dirty nodes<br />
   <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [94 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub><br />
@@ -30,6 +30,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Cleanup MockVulkan when the vulkan instance is destroyed<br />
   <sub>[#183324](https://github.com/flutter/flutter/pull/183324) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183324) over 2 days, 99 additions and 40 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material imports from system_context_menu_test, table_test<br />
+  <sub>[#183368](https://github.com/flutter/flutter/pull/183368) merged on March 10, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/183368) over 2 days, 292 additions and 450 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material from baseline_test, slivers_test<br />
+  <sub>[#183367](https://github.com/flutter/flutter/pull/183367) merged on March 10, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183367) over 2 days, 371 additions and 324 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; [Android] Avoid plugin auto-registration during FlutterFragmentActivity recreate timing window<br />
   <sub>[#182963](https://github.com/flutter/flutter/pull/182963) merged on March 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182963) over 1 week, 53 additions and 1 deletion in 2 files</sub><br />
