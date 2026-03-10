@@ -146,6 +146,3 @@
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix Semantics expanded state not updating in PopupMenuButton and DropdownButton<br />
   <sub>[#183475](https://github.com/flutter/flutter/pull/183475) opened on on March 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183475) 138 additions and 4 deletions in 4 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add awaits to dev/ callsites<br />
-  <sub>[#183479](https://github.com/flutter/flutter/pull/183479) opened on on March 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183479) 6 additions and 6 deletions in 5 files</sub><br />
-
