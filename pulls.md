@@ -21,7 +21,7 @@
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
-  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/179810) 304 additions and 181 deletions in 16 files</sub><br />
+  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/179810) 258 additions and 191 deletions in 15 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow windows to be created undecorated<br />
   <sub>[#179859](https://github.com/flutter/flutter/pull/179859) opened on on December 14, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/179859) 155 additions and 22 deletions in 20 files</sub><br />
