@@ -95,9 +95,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more userMessages getters from the tool<br />
   <sub>[#183295](https://github.com/flutter/flutter/pull/183295) opened on on March 6, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/183295) 160 additions and 246 deletions in 13 files</sub><br />
 
-* **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash;  [152588] Fix Scrollable being too eager to respond to pointer signals<br />
-  <sub>[#183302](https://github.com/flutter/flutter/pull/183302) opened on on March 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183302) 62 additions and 6 deletions in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add startContained and centerContained FloatingActionButtonLocations.<br />
   <sub>[#183305](https://github.com/flutter/flutter/pull/183305) opened on on March 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183305) 91 additions and 4 deletions in 4 files</sub><br />
 
@@ -107,7 +104,7 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; (Test cross-imports) Remove cross-imported test utils from Cupertino sheet/tab scaffold tests<br />
   <sub>[#183350](https://github.com/flutter/flutter/pull/183350) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183350) 34 additions and 3 deletions in 2 files</sub><br />
 
-* **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; finally fixed the damn whitespace in the windows install console output<br />
+* **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; Fix whitespace in the windows Flutter tool console output<br />
   <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Milen Valev](https://github.com/ldak)** &mdash; Add support for downgrading to a specific version<br />
@@ -147,7 +144,7 @@
   <sub>[#183470](https://github.com/flutter/flutter/pull/183470) opened on on March 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183470) 59 additions and 27 deletions in 3 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix input mirroring in platform views when system language is RTL, and support is set in manifest.<br />
-  <sub>[#183472](https://github.com/flutter/flutter/pull/183472) opened on on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183472) 212 additions and 4 deletions in 6 files</sub><br />
+  <sub>[#183472](https://github.com/flutter/flutter/pull/183472) opened on on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183472) 211 additions and 4 deletions in 6 files</sub><br />
 
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix Semantics expanded state not updating in PopupMenuButton and DropdownButton<br />
   <sub>[#183475](https://github.com/flutter/flutter/pull/183475) opened on on March 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183475) 138 additions and 4 deletions in 4 files</sub><br />
