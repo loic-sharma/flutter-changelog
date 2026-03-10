@@ -31,6 +31,10 @@
   <sub>[#183324](https://github.com/flutter/flutter/pull/183324) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183324) over 2 days, 99 additions and 40 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; dev: Use a super-parameter in several missed cases<br />
+  <sub>[#182251](https://github.com/flutter/flutter/pull/182251) merged on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182251) over 3 weeks, 13 additions and 18 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material imports from system_context_menu_test, table_test<br />
   <sub>[#183368](https://github.com/flutter/flutter/pull/183368) merged on March 10, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/183368) over 2 days, 292 additions and 450 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -42,10 +46,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; DlDeferredImageGPUImpeller::ImageWrapper texture thread safety improvements<br />
   <sub>[#183429](https://github.com/flutter/flutter/pull/183429) merged on March 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183429) over 15 hours, 15 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; dev: Use a super-parameter in several missed cases<br />
-  <sub>[#182251](https://github.com/flutter/flutter/pull/182251) merged on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182251) over 3 weeks, 13 additions and 18 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Updates to the README<br />
   <sub>[#176292](https://github.com/flutter/flutter/pull/176292) merged on March 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/176292) over 5 months, 18 additions and 26 deletions in 2 files</sub><br />

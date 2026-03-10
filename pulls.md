@@ -110,6 +110,9 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add startContained and centerContained FloatingActionButtonLocations.<br />
   <sub>[#183305](https://github.com/flutter/flutter/pull/183305) opened on on March 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183305) 91 additions and 4 deletions in 4 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Prevent Firefox auto-updates<br />
+  <sub>[#183330](https://github.com/flutter/flutter/pull/183330) opened on on March 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183330) 26 additions and 0 deletions in 1 file</sub><br />
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 forth grouped tests<br />
   <sub>[#183347](https://github.com/flutter/flutter/pull/183347) opened on on March 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183347) 130 additions and 0 deletions in 10 files</sub><br />
 
