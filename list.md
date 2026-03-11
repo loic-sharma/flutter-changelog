@@ -1020,7 +1020,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; Add redirect for impeller backend desktop
-  <sub>[#13164](https://github.com/flutter/website/pull/13164) merged on March 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13164) over 12 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>[#13164](https://github.com/flutter/website/pull/13164) merged on March 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13164) over 12 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Mate Narh](https://github.com/spartaninzaghi)** &mdash; Omission Fix: Retain automaticallyImplyLeading default parameter
