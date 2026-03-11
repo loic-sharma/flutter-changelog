@@ -31,6 +31,10 @@
   <sub>[#182643](https://github.com/flutter/flutter/pull/182643) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182643) over 2 weeks, 122 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Ensure positioned menus always begin animating at the target position<br />
+  <sub>[#182932](https://github.com/flutter/flutter/pull/182932) merged on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182932) over 1 week, 43 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Cleanup MockVulkan when the vulkan instance is destroyed<br />
   <sub>[#183324](https://github.com/flutter/flutter/pull/183324) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183324) over 2 days, 99 additions and 40 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -38,10 +42,6 @@
 * **[b-luk](https://github.com/b-luk)** &mdash; Add GLES support for the same pixel formats for copying texture -> buffer as when copying buffer -> texture<br />
   <sub>[#183428](https://github.com/flutter/flutter/pull/183428) merged on March 11, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/183428) over 1 day, 176 additions and 270 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Ensure positioned menus always begin animating at the target position<br />
-  <sub>[#182932](https://github.com/flutter/flutter/pull/182932) merged on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182932) over 1 week, 43 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; dev: Use a super-parameter in several missed cases<br />
   <sub>[#182251](https://github.com/flutter/flutter/pull/182251) merged on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182251) over 3 weeks, 13 additions and 18 deletions in 7 files</sub><br />
