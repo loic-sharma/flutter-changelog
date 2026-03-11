@@ -4,7 +4,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-25 commits.
+27 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds geometry dirty nodes<br />
   <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [94 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub><br />
@@ -26,6 +26,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrated circle sdf to euclidean 2d derivative<br />
   <sub>[#183184](https://github.com/flutter/flutter/pull/183184) merged on March 10, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/183184) over 6 days, 74 additions and 30 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix input mirroring in platform views when system language is RTL, and support is set in manifest.<br />
+  <sub>[#183472](https://github.com/flutter/flutter/pull/183472) merged on March 11, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183472) over 18 hours, 215 additions and 4 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Implements `ClipRSuperellipse` on backdrop filter on platform view<br />
   <sub>[#182643](https://github.com/flutter/flutter/pull/182643) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182643) over 2 weeks, 122 additions and 2 deletions in 4 files</sub><br />
@@ -62,6 +66,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; DlDeferredImageGPUImpeller::ImageWrapper texture thread safety improvements<br />
   <sub>[#183429](https://github.com/flutter/flutter/pull/183429) merged on March 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183429) over 15 hours, 15 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Rename ExecutionModelToString to ExecutionModelToStringName.<br />
+  <sub>[#183461](https://github.com/flutter/flutter/pull/183461) merged on March 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183461) over 22 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix GitHub workflows to use the `flutteractionsbot` mirror for PR branches.<br />
   <sub>[#183470](https://github.com/flutter/flutter/pull/183470) merged on March 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183470) over 25 minutes, 59 additions and 27 deletions in 3 files</sub><br />
