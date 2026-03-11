@@ -56,9 +56,6 @@
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; test: remove unnecessary Material import in sliver_constraints_test (…<br />
-  <sub>[#182914](https://github.com/flutter/flutter/pull/182914) opened on on February 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/182914) 5 additions and 5 deletions in 1 file</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
   <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
 
@@ -139,4 +136,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Migrated circle sdf to euclidean 2d derivative<br />
   <sub>[#183526](https://github.com/flutter/flutter/pull/183526) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183526) 74 additions and 30 deletions in 8 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wrap EGL image usage in a GObject<br />
+  <sub>[#183539](https://github.com/flutter/flutter/pull/183539) opened on on March 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183539) 123 additions and 23 deletions in 4 files</sub><br />
 
