@@ -761,7 +761,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-7 commits.
+8 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Optimize caption retrieval with binary search in VideoPlayerController
   <sub>[#8347](https://github.com/flutter/packages/pull/8347) merged on March 10, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/8347) over 14 months, 816 additions and 387 deletions in 4 files</sub>
@@ -782,6 +782,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Modernize non-plugin Android example apps
   <sub>[#11168](https://github.com/flutter/packages/pull/11168) merged on March 9, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/11168) over 5 days, 1141 additions and 1032 deletions in 123 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [rfw] Opt out of icon tree shaking
+  <sub>[#11216](https://github.com/flutter/packages/pull/11216) merged on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11216) over 22 hours, 5 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Tidy imports and "ignore" comments
   <sub>[#11149](https://github.com/flutter/packages/pull/11149) merged on March 11, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/11149) over 1 week, 191 additions and 120 deletions in 26 files</sub>
