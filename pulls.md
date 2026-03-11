@@ -137,15 +137,9 @@
 * **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; [FIX] Prevent the last character in obscure text when obscureText pro…<br />
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183488) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Remove redundant VS Code code/tests<br />
-  <sub>[#183506](https://github.com/flutter/flutter/pull/183506) opened on on March 11, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/183506) 0 additions and 551 deletions in 2 files</sub><br />
-
 * **[sheeroo](https://github.com/sheeroo)** &mdash; Fix keyboard flicker when switching focus between TextFields<br />
   <sub>[#183511](https://github.com/flutter/flutter/pull/183511) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183511) 57 additions and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Migrated circle sdf to euclidean 2d derivative<br />
   <sub>[#183526](https://github.com/flutter/flutter/pull/183526) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183526) 74 additions and 30 deletions in 8 files</sub><br />
-
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Roll pub packages<br />
-  <sub>[#183527](https://github.com/flutter/flutter/pull/183527) opened on on March 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183527) 2 additions and 2 deletions in 1 file</sub><br />
 

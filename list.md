@@ -4,7 +4,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-29 commits.
+30 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds geometry dirty nodes
   <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [94 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub>
@@ -38,6 +38,10 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Ensure positioned menus always begin animating at the target position
   <sub>[#182932](https://github.com/flutter/flutter/pull/182932) merged on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182932) over 1 week, 43 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Reapply "Make HCPP upgrading work for vd/tlhc (#181024)" (#183310)
+  <sub>[#183360](https://github.com/flutter/flutter/pull/183360) merged on March 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/183360) over 3 days, 336 additions and 31 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Clang to 80743bd43fd5b38fedc503308e7a652e23d3ec93
   <sub>[#182919](https://github.com/flutter/flutter/pull/182919) merged on March 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182919) over 1 week, 53 additions and 46 deletions in 16 files</sub>
