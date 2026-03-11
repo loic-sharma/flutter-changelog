@@ -147,7 +147,7 @@
   <sub>[#183480](https://github.com/flutter/flutter/pull/183480) opened on on March 10, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/183480) 444 additions and 6 deletions in 6 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add awaits to flutter/test callsites<br />
-  <sub>[#183487](https://github.com/flutter/flutter/pull/183487) opened on on March 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183487) 43 additions and 43 deletions in 12 files</sub><br />
+  <sub>[#183487](https://github.com/flutter/flutter/pull/183487) opened on on March 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183487) 42 additions and 42 deletions in 12 files</sub><br />
 
 * **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; [FIX] Prevent the last character in obscure text when obscureText pro…<br />
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183488) 2 additions and 0 deletions in 1 file</sub><br />
