@@ -21,7 +21,7 @@
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
-  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/179810) 173 additions and 216 deletions in 11 files</sub><br />
+  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/179810) 178 additions and 218 deletions in 12 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow windows to be created undecorated<br />
   <sub>[#179859](https://github.com/flutter/flutter/pull/179859) opened on on December 14, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/179859) 155 additions and 22 deletions in 20 files</sub><br />
@@ -132,7 +132,7 @@
   <sub>[#183463](https://github.com/flutter/flutter/pull/183463) opened on on March 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183463) 23 additions and 21 deletions in 14 files</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing `await`s on forgotten cases<br />
-  <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183466) 7 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183466) 7 additions and 7 deletions in 4 files</sub><br />
 
 * **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; [FIX] Prevent the last character in obscure text when obscureText pro…<br />
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183488) 2 additions and 0 deletions in 1 file</sub><br />
@@ -142,4 +142,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Migrated circle sdf to euclidean 2d derivative<br />
   <sub>[#183526](https://github.com/flutter/flutter/pull/183526) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183526) 74 additions and 30 deletions in 8 files</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; test<br />
+  <sub>[#183532](https://github.com/flutter/flutter/pull/183532) opened on on March 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183532) 7 additions and 1 deletion in 1 file</sub><br />
 
