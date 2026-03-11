@@ -140,3 +140,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wrap EGL image usage in a GObject<br />
   <sub>[#183539](https://github.com/flutter/flutter/pull/183539) opened on on March 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183539) 152 additions and 23 deletions in 7 files</sub><br />
 
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] clarify Windows symlink failure on ReFS<br />
+  <sub>[#183544](https://github.com/flutter/flutter/pull/183544) opened on on March 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183544) 10 additions and 5 deletions in 2 files</sub><br />
+
