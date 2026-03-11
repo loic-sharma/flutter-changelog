@@ -765,7 +765,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-9 commits.
+10 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Optimize caption retrieval with binary search in VideoPlayerController<br />
   <sub>[#8347](https://github.com/flutter/packages/pull/8347) merged on March 10, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/8347) over 14 months, 816 additions and 387 deletions in 4 files</sub><br />
@@ -782,6 +782,10 @@
 * **[jeffkwoh](https://github.com/jeffkwoh)** &mdash; [pigeon] Support javax.annotation.Generated annotation in Kotlin generator<br />
   <sub>[#10961](https://github.com/flutter/packages/pull/10961) merged on March 9, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/10961) over 1 month, 160 additions and 47 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Produce a helpful error for bad method return type<br />
+  <sub>[#11204](https://github.com/flutter/packages/pull/11204) merged on March 11, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11204) over 2 days, 89 additions and 30 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Modernize non-plugin Android example apps<br />
   <sub>[#11168](https://github.com/flutter/packages/pull/11168) merged on March 9, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/11168) over 5 days, 1141 additions and 1032 deletions in 123 files</sub><br />
