@@ -765,7 +765,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-8 commits.
+9 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Optimize caption retrieval with binary search in VideoPlayerController
   <sub>[#8347](https://github.com/flutter/packages/pull/8347) merged on March 10, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/8347) over 14 months, 816 additions and 387 deletions in 4 files</sub>
@@ -793,6 +793,10 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Tidy imports and "ignore" comments
   <sub>[#11149](https://github.com/flutter/packages/pull/11149) merged on March 11, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/11149) over 1 week, 191 additions and 120 deletions in 26 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Use hasLength and isEmpty in tests for better failure messages
+  <sub>[#11205](https://github.com/flutter/packages/pull/11205) merged on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11205) over 2 days, 105 additions and 110 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add AI contribution guidelines to PR checklist

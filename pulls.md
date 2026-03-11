@@ -140,9 +140,6 @@
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing `await`s on forgotten cases<br />
   <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183466) 7 additions and 7 deletions in 4 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix input mirroring in platform views when system language is RTL, and support is set in manifest.<br />
-  <sub>[#183472](https://github.com/flutter/flutter/pull/183472) opened on on March 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183472) 215 additions and 4 deletions in 6 files</sub><br />
-
 * **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix Semantics expanded state not updating in PopupMenuButton and DropdownButton<br />
   <sub>[#183475](https://github.com/flutter/flutter/pull/183475) opened on on March 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183475) 138 additions and 4 deletions in 4 files</sub><br />
 
