@@ -95,9 +95,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more userMessages getters from the tool<br />
   <sub>[#183295](https://github.com/flutter/flutter/pull/183295) opened on on March 6, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/183295) 160 additions and 246 deletions in 13 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Prevent Firefox auto-updates<br />
-  <sub>[#183330](https://github.com/flutter/flutter/pull/183330) opened on on March 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183330) 26 additions and 0 deletions in 1 file</sub><br />
-
 * **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; Fix whitespace in the windows Flutter tool console output<br />
   <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
 
