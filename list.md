@@ -4,7 +4,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-28 commits.
+29 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds geometry dirty nodes
   <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [94 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub>
@@ -66,6 +66,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; DlDeferredImageGPUImpeller::ImageWrapper texture thread safety improvements
   <sub>[#183429](https://github.com/flutter/flutter/pull/183429) merged on March 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183429) over 15 hours, 15 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add awaits to dev/ callsites
+  <sub>[#183479](https://github.com/flutter/flutter/pull/183479) merged on March 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183479) over 18 hours, 8 additions and 8 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Standardize review timeline guidance
   <sub>[#183465](https://github.com/flutter/flutter/pull/183465) merged on March 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183465) over 21 hours, 4 additions and 8 deletions in 1 file</sub>

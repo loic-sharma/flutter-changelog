@@ -18,7 +18,7 @@
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/179810) 173 additions and 216 deletions in 11 files</sub><br />
@@ -145,4 +145,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Migrated circle sdf to euclidean 2d derivative<br />
   <sub>[#183526](https://github.com/flutter/flutter/pull/183526) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183526) 74 additions and 30 deletions in 8 files</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Roll pub packages<br />
+  <sub>[#183527](https://github.com/flutter/flutter/pull/183527) opened on on March 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183527) 2 additions and 2 deletions in 1 file</sub><br />
 
