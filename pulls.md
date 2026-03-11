@@ -149,3 +149,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [cp-stable] GitHub workflows to assist with releases.<br />
   <sub>[#183480](https://github.com/flutter/flutter/pull/183480) opened on on March 10, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/183480) 444 additions and 6 deletions in 6 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add awaits to flutter/test callsites<br />
+  <sub>[#183487](https://github.com/flutter/flutter/pull/183487) opened on on March 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183487) 43 additions and 43 deletions in 12 files</sub><br />
+
