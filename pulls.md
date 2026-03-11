@@ -155,3 +155,6 @@
 * **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; [FIX] Prevent the last character in obscure text when obscureText pro…<br />
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183488) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Remove redundant VS Code code/tests<br />
+  <sub>[#183506](https://github.com/flutter/flutter/pull/183506) opened on on March 11, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/183506) 0 additions and 551 deletions in 2 files</sub><br />
+
