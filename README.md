@@ -4,7 +4,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-22 commits.
+23 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds geometry dirty nodes<br />
   <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [94 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub><br />
@@ -30,6 +30,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Cleanup MockVulkan when the vulkan instance is destroyed<br />
   <sub>[#183324](https://github.com/flutter/flutter/pull/183324) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183324) over 2 days, 99 additions and 40 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Add GLES support for the same pixel formats for copying texture -> buffer as when copying buffer -> texture<br />
+  <sub>[#183428](https://github.com/flutter/flutter/pull/183428) merged on March 11, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/183428) over 1 day, 176 additions and 270 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Ensure positioned menus always begin animating at the target position<br />
   <sub>[#182932](https://github.com/flutter/flutter/pull/182932) merged on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182932) over 1 week, 43 additions and 0 deletions in 2 files</sub><br />
@@ -753,7 +757,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-5 commits.
+6 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Optimize caption retrieval with binary search in VideoPlayerController<br />
   <sub>[#8347](https://github.com/flutter/packages/pull/8347) merged on March 10, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/8347) over 14 months, 816 additions and 387 deletions in 4 files</sub><br />
@@ -762,6 +766,10 @@
 * **[August](https://github.com/Gustl22)** &mdash; [vector_graphics] Respect BoxFit parameter with viewbox<br />
   <sub>[#11012](https://github.com/flutter/packages/pull/11012) merged on March 10, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11012) over 3 weeks, 121 additions and 38 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Improve casting and nullability-handling in generated code<br />
+  <sub>[#11163](https://github.com/flutter/packages/pull/11163) merged on March 11, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/11163) over 1 week, 913 additions and 1710 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[jeffkwoh](https://github.com/jeffkwoh)** &mdash; [pigeon] Support javax.annotation.Generated annotation in Kotlin generator<br />
   <sub>[#10961](https://github.com/flutter/packages/pull/10961) merged on March 9, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/10961) over 1 month, 160 additions and 47 deletions in 11 files</sub><br />
@@ -941,7 +949,11 @@
 
 ### March 7, 2026 to March 13, 2026
 
-8 commits.
+9 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating GenUI to current version of 0.9<br />
+  <sub>[#13161](https://github.com/flutter/website/pull/13161) merged on March 11, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/website/pull/13161) over 1 day, 271 additions and 275 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub><br />
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples (pt2 of 3)<br />
   <sub>[#13156](https://github.com/flutter/website/pull/13156) merged on March 9, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/website/pull/13156) over 2 days, 1685 additions and 220 deletions in 33 files</sub><br />
