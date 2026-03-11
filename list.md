@@ -4,7 +4,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-36 commits.
+37 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add scrollCacheExtent to PageView
   <sub>[#180411](https://github.com/flutter/flutter/pull/180411) merged on March 11, 2026 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/180411) over 2 months, 384 additions and 14 deletions in 5 files</sub>
@@ -67,10 +67,6 @@
   <sub>[#181075](https://github.com/flutter/flutter/pull/181075) merged on March 11, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/181075) over 1 month, 20 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Add GLES support for the same pixel formats for copying texture -> buffer as when copying buffer -> texture
-  <sub>[#183428](https://github.com/flutter/flutter/pull/183428) merged on March 11, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/183428) over 1 day, 176 additions and 270 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; dev: Use a super-parameter in several missed cases
   <sub>[#182251](https://github.com/flutter/flutter/pull/182251) merged on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182251) over 3 weeks, 13 additions and 18 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -83,9 +79,17 @@
   <sub>[#183367](https://github.com/flutter/flutter/pull/183367) merged on March 10, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183367) over 2 days, 371 additions and 324 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Add GLES support for the same pixel formats for copying texture -> buffer as when copying buffer -> texture
+  <sub>[#183428](https://github.com/flutter/flutter/pull/183428) merged on March 11, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/183428) over 1 day, 176 additions and 270 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; DlDeferredImageGPUImpeller::ImageWrapper texture thread safety improvements
   <sub>[#183429](https://github.com/flutter/flutter/pull/183429) merged on March 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183429) over 15 hours, 15 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use CLA-approved email and username for github workflow commits.
+  <sub>[#183540](https://github.com/flutter/flutter/pull/183540) merged on March 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183540) over 22 minutes, 10 additions and 9 deletions in 4 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Prevent Firefox auto-updates
   <sub>[#183330](https://github.com/flutter/flutter/pull/183330) merged on March 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183330) over 4 days, 26 additions and 0 deletions in 1 file</sub>
@@ -95,9 +99,9 @@
   <sub>[#183527](https://github.com/flutter/flutter/pull/183527) merged on March 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183527) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add awaits to dev/ callsites
-  <sub>[#183479](https://github.com/flutter/flutter/pull/183479) merged on March 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183479) over 18 hours, 8 additions and 8 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add a note to `arcTo` docs about the 2PI drawing angle issue
+  <sub>[#183293](https://github.com/flutter/flutter/pull/183293) merged on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183293) over 3 days, 4 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Standardize review timeline guidance
   <sub>[#183465](https://github.com/flutter/flutter/pull/183465) merged on March 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183465) over 21 hours, 4 additions and 8 deletions in 1 file</sub>
@@ -115,9 +119,9 @@
   <sub>[#183404](https://github.com/flutter/flutter/pull/183404) merged on March 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183404) over 2 hours, 17 additions and 18 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add a note to `arcTo` docs about the 2PI drawing angle issue
-  <sub>[#183293](https://github.com/flutter/flutter/pull/183293) merged on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183293) over 3 days, 4 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add awaits to dev/ callsites
+  <sub>[#183479](https://github.com/flutter/flutter/pull/183479) merged on March 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183479) over 18 hours, 8 additions and 8 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Rename ExecutionModelToString to ExecutionModelToStringName.
   <sub>[#183461](https://github.com/flutter/flutter/pull/183461) merged on March 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183461) over 22 hours, 2 additions and 2 deletions in 1 file</sub>
