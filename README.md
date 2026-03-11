@@ -4,7 +4,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-23 commits.
+24 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds geometry dirty nodes<br />
   <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [94 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub><br />
@@ -14,6 +14,10 @@
   <sub>[#183405](https://github.com/flutter/flutter/pull/183405) merged on March 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183405) over 5 hours, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
   <sub><details><summary>1 image...</summary><img width="512" height="109" alt="image" src="https://github.com/user-attachments/assets/a625f8f0-dad9-42f3-9542-820d64414b2e" /></details></sub>
+
+* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
+  <sub>[#180072](https://github.com/flutter/flutter/pull/180072) merged on March 11, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/180072) over 2 months, 246 additions and 78 deletions in 24 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_test.dart<br />
   <sub>[#181429](https://github.com/flutter/flutter/pull/181429) merged on March 10, 2026 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/181429) over 1 month, 420 additions and 372 deletions in 7 files</sub><br />
