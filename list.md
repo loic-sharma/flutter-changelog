@@ -1001,7 +1001,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-9 commits.
+10 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating GenUI to current version of 0.9
   <sub>[#13161](https://github.com/flutter/website/pull/13161) merged on March 11, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/website/pull/13161) over 1 day, 271 additions and 275 deletions in 3 files</sub>
@@ -1009,6 +1009,10 @@
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples (pt2 of 3)
   <sub>[#13156](https://github.com/flutter/website/pull/13156) merged on March 9, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/website/pull/13156) over 2 days, 1685 additions and 220 deletions in 33 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Serhat Güler](https://github.com/sero583)** &mdash; Add redirect for impeller backend desktop
+  <sub>[#13164](https://github.com/flutter/website/pull/13164) merged on March 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13164) over 12 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Mate Narh](https://github.com/spartaninzaghi)** &mdash; Omission Fix: Retain automaticallyImplyLeading default parameter
