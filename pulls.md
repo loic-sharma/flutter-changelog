@@ -158,3 +158,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Remove redundant VS Code code/tests<br />
   <sub>[#183506](https://github.com/flutter/flutter/pull/183506) opened on on March 11, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/183506) 0 additions and 551 deletions in 2 files</sub><br />
 
+* **[sheeroo](https://github.com/sheeroo)** &mdash; Fix keyboard flicker when switching focus between TextFields<br />
+  <sub>[#183511](https://github.com/flutter/flutter/pull/183511) opened on on March 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183511) 57 additions and 1 deletion in 1 file</sub><br />
+
