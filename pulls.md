@@ -78,7 +78,7 @@
   <sub>[#183090](https://github.com/flutter/flutter/pull/183090) opened on on March 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183090) 268 additions and 14 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Update PR template to clarify issue linking requirements<br />
-  <sub>[#183095](https://github.com/flutter/flutter/pull/183095) opened on on March 1, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/183095) 14 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#183095](https://github.com/flutter/flutter/pull/183095) opened on on March 1, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/183095) 10 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Use a super-parameter in several missed cases<br />
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
@@ -120,7 +120,7 @@
   <sub>[#183416](https://github.com/flutter/flutter/pull/183416) opened on on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183416) 24 additions and 8 deletions in 2 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix Wayland memory leak by image cleanup and render_sibling reuse<br />
-  <sub>[#183419](https://github.com/flutter/flutter/pull/183419) opened on on March 9, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/183419) 43 additions and 7 deletions in 5 files</sub><br />
+  <sub>[#183419](https://github.com/flutter/flutter/pull/183419) opened on on March 9, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/183419) 43 additions and 7 deletions in 5 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [build] Generate debug info for assembly.<br />
   <sub>[#183425](https://github.com/flutter/flutter/pull/183425) opened on on March 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183425) 3 additions and 0 deletions in 1 file</sub><br />
@@ -159,5 +159,5 @@
   <sub>[#183506](https://github.com/flutter/flutter/pull/183506) opened on on March 11, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/183506) 0 additions and 551 deletions in 2 files</sub><br />
 
 * **[sheeroo](https://github.com/sheeroo)** &mdash; Fix keyboard flicker when switching focus between TextFields<br />
-  <sub>[#183511](https://github.com/flutter/flutter/pull/183511) opened on on March 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183511) 57 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#183511](https://github.com/flutter/flutter/pull/183511) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183511) 57 additions and 1 deletion in 1 file</sub><br />
 
