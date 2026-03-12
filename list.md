@@ -829,7 +829,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-12 commits.
+13 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Optimize caption retrieval with binary search in VideoPlayerController
   <sub>[#8347](https://github.com/flutter/packages/pull/8347) merged on March 10, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/8347) over 14 months, 816 additions and 387 deletions in 4 files</sub>
@@ -842,6 +842,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Improve casting and nullability-handling in generated code
   <sub>[#11163](https://github.com/flutter/packages/pull/11163) merged on March 11, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/11163) over 1 week, 913 additions and 1710 deletions in 22 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] iOS/macOS example project automigrations
+  <sub>[#11227](https://github.com/flutter/packages/pull/11227) merged on March 12, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/11227) over 1 day, 731 additions and 825 deletions in 157 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[jeffkwoh](https://github.com/jeffkwoh)** &mdash; [pigeon] Support javax.annotation.Generated annotation in Kotlin generator
   <sub>[#10961](https://github.com/flutter/packages/pull/10961) merged on March 9, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/10961) over 1 month, 160 additions and 47 deletions in 11 files</sub>
