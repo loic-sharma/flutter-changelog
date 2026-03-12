@@ -155,3 +155,6 @@
 * **[Mohanad Abdallah](https://github.com/MohanadAbdallah-mv)** &mdash; Adding errorPadding property to InputDecorator and InputDecorationThe…<br />
   <sub>[#183582](https://github.com/flutter/flutter/pull/183582) opened on on March 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183582) 152 additions and 8 deletions in 2 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use `flutterTrackAndroidDependencies` event to track android dependencies<br />
+  <sub>[#183587](https://github.com/flutter/flutter/pull/183587) opened on on March 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183587) 47 additions and 3 deletions in 2 files</sub><br />
+
