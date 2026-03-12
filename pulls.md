@@ -135,7 +135,7 @@
   <sub>[#183539](https://github.com/flutter/flutter/pull/183539) opened on on March 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183539) 152 additions and 23 deletions in 7 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] clarify Windows symlink failure on ReFS<br />
-  <sub>[#183544](https://github.com/flutter/flutter/pull/183544) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183544) 10 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#183544](https://github.com/flutter/flutter/pull/183544) opened on on March 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183544) 10 additions and 5 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update android integration test to match the current android semantics<br />
   <sub>[#183548](https://github.com/flutter/flutter/pull/183548) opened on on March 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183548) 5 additions and 4 deletions in 2 files</sub><br />
@@ -153,5 +153,5 @@
   <sub>[#183587](https://github.com/flutter/flutter/pull/183587) opened on on March 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183587) 47 additions and 3 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix macOS relative plugin Xcode file path<br />
-  <sub>[#183593](https://github.com/flutter/flutter/pull/183593) opened on on March 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183593) 24 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#183593](https://github.com/flutter/flutter/pull/183593) opened on on March 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183593) 24 additions and 6 deletions in 2 files</sub><br />
 
