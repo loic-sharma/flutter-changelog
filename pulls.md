@@ -155,3 +155,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use `flutterTrackAndroidDependencies` event to track android dependencies<br />
   <sub>[#183587](https://github.com/flutter/flutter/pull/183587) opened on on March 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183587) 47 additions and 3 deletions in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix macOS relative plugin Xcode file path<br />
+  <sub>[#183593](https://github.com/flutter/flutter/pull/183593) opened on on March 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183593) 24 additions and 6 deletions in 2 files</sub><br />
+
