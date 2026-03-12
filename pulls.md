@@ -143,3 +143,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update android integration test to match the current android semantics<br />
   <sub>[#183548](https://github.com/flutter/flutter/pull/183548) opened on on March 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183548) 5 additions and 4 deletions in 2 files</sub><br />
 
+* **[kyungilcho](https://github.com/kyungilcho)** &mdash; Preprovision Android NDK for flavored builds<br />
+  <sub>[#183555](https://github.com/flutter/flutter/pull/183555) opened on on March 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183555) 986 additions and 22 deletions in 10 files</sub><br />
+
