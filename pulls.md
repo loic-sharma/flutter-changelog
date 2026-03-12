@@ -155,3 +155,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix macOS relative plugin Xcode file path<br />
   <sub>[#183593](https://github.com/flutter/flutter/pull/183593) opened on on March 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183593) 24 additions and 6 deletions in 2 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use properties to configure leak_tracking and test_randomization_off in .ci.yaml<br />
+  <sub>[#183605](https://github.com/flutter/flutter/pull/183605) opened on on March 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183605) 6 additions and 15 deletions in 1 file</sub><br />
+

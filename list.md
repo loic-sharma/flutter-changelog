@@ -4,7 +4,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-41 commits.
+42 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add scrollCacheExtent to PageView
   <sub>[#180411](https://github.com/flutter/flutter/pull/180411) merged on March 11, 2026 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/180411) over 2 months, 384 additions and 14 deletions in 5 files</sub>
@@ -103,17 +103,21 @@
   <sub>[#183429](https://github.com/flutter/flutter/pull/183429) merged on March 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183429) over 15 hours, 15 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made cp labels get rejected on issues.
+  <sub>[#183595](https://github.com/flutter/flutter/pull/183595) merged on March 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183595) over 1 hour, 20 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Standardize skia includes.
   <sub>[#183404](https://github.com/flutter/flutter/pull/183404) merged on March 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183404) over 2 hours, 17 additions and 18 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Prevent Firefox auto-updates
+  <sub>[#183330](https://github.com/flutter/flutter/pull/183330) merged on March 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183330) over 4 days, 26 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add a note to `arcTo` docs about the 2PI drawing angle issue
   <sub>[#183293](https://github.com/flutter/flutter/pull/183293) merged on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183293) over 3 days, 4 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add awaits to dev/ callsites
-  <sub>[#183479](https://github.com/flutter/flutter/pull/183479) merged on March 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183479) over 18 hours, 8 additions and 8 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Rename ExecutionModelToString to ExecutionModelToStringName.
   <sub>[#183461](https://github.com/flutter/flutter/pull/183461) merged on March 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183461) over 22 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -135,13 +139,13 @@
   <sub>[#183540](https://github.com/flutter/flutter/pull/183540) merged on March 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183540) over 22 minutes, 10 additions and 9 deletions in 4 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Prevent Firefox auto-updates
-  <sub>[#183330](https://github.com/flutter/flutter/pull/183330) merged on March 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183330) over 4 days, 26 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
-
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Roll pub packages
   <sub>[#183527](https://github.com/flutter/flutter/pull/183527) merged on March 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183527) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add awaits to dev/ callsites
+  <sub>[#183479](https://github.com/flutter/flutter/pull/183479) merged on March 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183479) over 18 hours, 8 additions and 8 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Standardize review timeline guidance
   <sub>[#183465](https://github.com/flutter/flutter/pull/183465) merged on March 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183465) over 21 hours, 4 additions and 8 deletions in 1 file</sub>
