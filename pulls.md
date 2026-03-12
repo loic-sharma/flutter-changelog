@@ -161,3 +161,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Improve locked Navigator debug error<br />
   <sub>[#183610](https://github.com/flutter/flutter/pull/183610) opened on on March 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183610) 99 additions and 13 deletions in 2 files</sub><br />
 
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid attaching LLDB to app extensions<br />
+  <sub>[#183619](https://github.com/flutter/flutter/pull/183619) opened on on March 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183619) 82 additions and 19 deletions in 2 files</sub><br />
+
