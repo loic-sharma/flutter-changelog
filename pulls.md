@@ -180,5 +180,5 @@
   <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183653) 168 additions and 28 deletions in 8 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add some quality of life improvements to the release GitHub workflows.<br />
-  <sub>[#183658](https://github.com/flutter/flutter/pull/183658) opened on on March 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183658) 61 additions and 31 deletions in 4 files</sub><br />
+  <sub>[#183658](https://github.com/flutter/flutter/pull/183658) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183658) 61 additions and 31 deletions in 4 files</sub><br />
 

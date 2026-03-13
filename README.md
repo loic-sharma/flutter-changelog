@@ -1115,7 +1115,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-15 commits.
+16 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating GenUI to current version of 0.9<br />
   <sub>[#13161](https://github.com/flutter/website/pull/13161) merged on March 11, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/website/pull/13161) over 1 day, 271 additions and 275 deletions in 3 files</sub><br />
@@ -1144,6 +1144,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [fwe] Fix `Tile` constructor parameters<br />
   <sub>[#13174](https://github.com/flutter/website/pull/13174) merged on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13174) over 30 minutes, 21 additions and 31 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Windows install<br />
+  <sub>[#13167](https://github.com/flutter/website/pull/13167) merged on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13167) over 2 days, 69 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; Add redirect for impeller backend desktop<br />
   <sub>[#13164](https://github.com/flutter/website/pull/13164) merged on March 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13164) over 12 hours, 1 addition and 0 deletions in 1 file</sub><br />
