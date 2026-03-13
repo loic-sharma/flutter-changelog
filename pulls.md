@@ -179,3 +179,6 @@
 * **[JackHans](https://github.com/biostome)** &mdash; Smart fix: [Impeller] Flutter app built with Impeller enabled on Android device "iiyama TW2223AS-B2" is extremely slow and janky<br />
   <sub>[#183639](https://github.com/flutter/flutter/pull/183639) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183639) 15 additions and 0 deletions in 1 file</sub><br />
 
+* **[maRci002](https://github.com/maRci002)** &mdash; Android: Support predictive back from 3-button navigation<br />
+  <sub>[#183642](https://github.com/flutter/flutter/pull/183642) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183642) 177 additions and 52 deletions in 4 files</sub><br />
+
