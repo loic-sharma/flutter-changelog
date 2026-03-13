@@ -126,7 +126,7 @@
   <sub>[#183544](https://github.com/flutter/flutter/pull/183544) opened on on March 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183544) 10 additions and 5 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update android integration test to match the current android semantics<br />
-  <sub>[#183548](https://github.com/flutter/flutter/pull/183548) opened on on March 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183548) 5 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#183548](https://github.com/flutter/flutter/pull/183548) opened on on March 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183548) 5 additions and 4 deletions in 2 files</sub><br />
 
 * **[kyungilcho](https://github.com/kyungilcho)** &mdash; Preprovision Android NDK for flavored builds<br />
   <sub>[#183555](https://github.com/flutter/flutter/pull/183555) opened on on March 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183555) 986 additions and 22 deletions in 10 files</sub><br />
@@ -179,6 +179,6 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Linux reuse sibling<br />
   <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183653) 168 additions and 28 deletions in 8 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add some quality of life improvments to the release GitHub workflows.<br />
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add some quality of life improvements to the release GitHub workflows.<br />
   <sub>[#183658](https://github.com/flutter/flutter/pull/183658) opened on on March 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183658) 61 additions and 31 deletions in 4 files</sub><br />
 
