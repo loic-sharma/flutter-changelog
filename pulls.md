@@ -179,6 +179,9 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Linux reuse sibling<br />
   <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183653) 168 additions and 28 deletions in 8 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds complex layout impeller startup benchmark<br />
+  <sub>[#183655](https://github.com/flutter/flutter/pull/183655) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183655) 35 additions and 3 deletions in 5 files</sub><br />
+
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add some quality of life improvements to the release GitHub workflows.<br />
   <sub>[#183658](https://github.com/flutter/flutter/pull/183658) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183658) 61 additions and 31 deletions in 4 files</sub><br />
 

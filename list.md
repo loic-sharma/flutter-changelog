@@ -891,7 +891,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-16 commits.
+17 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Optimize caption retrieval with binary search in VideoPlayerController
   <sub>[#8347](https://github.com/flutter/packages/pull/8347) merged on March 10, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/8347) over 14 months, 816 additions and 387 deletions in 4 files</sub>
@@ -912,6 +912,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Update Swift Package Manager handling
   <sub>[#11234](https://github.com/flutter/packages/pull/11234) merged on March 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11234) over 1 hour, 54 additions and 52 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add `encoder`,`decoder` and `compare` parameters to `TypedQueryParameter`
+  <sub>[#11067](https://github.com/flutter/packages/pull/11067) merged on March 13, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11067) over 3 weeks, 78 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] iOS/macOS example project automigrations
   <sub>[#11227](https://github.com/flutter/packages/pull/11227) merged on March 12, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/11227) over 1 day, 731 additions and 825 deletions in 157 files</sub>
