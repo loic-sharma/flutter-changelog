@@ -98,9 +98,6 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Allow Xcode build configuration to not contain flavor name<br />
   <sub>[#183398](https://github.com/flutter/flutter/pull/183398) opened on on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183398) 51 additions and 13 deletions in 3 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update gradle utils to know about kgp 2.3.10 constraints<br />
-  <sub>[#183416](https://github.com/flutter/flutter/pull/183416) opened on on March 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183416) 24 additions and 8 deletions in 2 files</sub><br />
-
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [build] Generate debug info for assembly.<br />
   <sub>[#183425](https://github.com/flutter/flutter/pull/183425) opened on on March 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183425) 3 additions and 0 deletions in 1 file</sub><br />
 
@@ -181,4 +178,7 @@
 
 * **[Nikhil Bansal](https://github.com/nikb7)** &mdash; [ios] Add opt-in inline prediction text input support<br />
   <sub>[#183650](https://github.com/flutter/flutter/pull/183650) opened on on March 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183650) 268 additions and 1 deletion in 11 files</sub><br />
+
+* **[richardexfo](https://github.com/richardexfo)** &mdash; Linux reuse sibling<br />
+  <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183653) 168 additions and 28 deletions in 8 files</sub><br />
 
