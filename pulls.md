@@ -176,3 +176,6 @@
 * **[Ayush Singh](https://github.com/bharatvansh)** &mdash; Add shrinkWrapCrossAxis property to PageView<br />
   <sub>[#183634](https://github.com/flutter/flutter/pull/183634) opened on on March 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183634) 1479 additions and 17 deletions in 8 files</sub><br />
 
+* **[JackHans](https://github.com/biostome)** &mdash; Smart fix: [Impeller] Flutter app built with Impeller enabled on Android device "iiyama TW2223AS-B2" is extremely slow and janky<br />
+  <sub>[#183639](https://github.com/flutter/flutter/pull/183639) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183639) 15 additions and 0 deletions in 1 file</sub><br />
+
