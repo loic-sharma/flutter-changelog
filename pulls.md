@@ -170,3 +170,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Keep multiline CupertinoTextField placeholders in bounds<br />
   <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183622) 38 additions and 10 deletions in 2 files</sub><br />
 
+* **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; Fix selection highlight artifacts for faded selectable text<br />
+  <sub>[#183628](https://github.com/flutter/flutter/pull/183628) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183628) 26 additions and 7 deletions in 1 file</sub><br />
+
