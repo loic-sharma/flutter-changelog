@@ -177,7 +177,7 @@
   <sub>[#183639](https://github.com/flutter/flutter/pull/183639) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183639) 15 additions and 0 deletions in 1 file</sub><br />
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Android: Support predictive back from 3-button navigation<br />
-  <sub>[#183642](https://github.com/flutter/flutter/pull/183642) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183642) 177 additions and 52 deletions in 4 files</sub><br />
+  <sub>[#183642](https://github.com/flutter/flutter/pull/183642) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183642) 175 additions and 52 deletions in 4 files</sub><br />
 
 * **[Nikhil Bansal](https://github.com/nikb7)** &mdash; [ios] Add opt-in inline prediction text input support<br />
   <sub>[#183650](https://github.com/flutter/flutter/pull/183650) opened on on March 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183650) 268 additions and 1 deletion in 11 files</sub><br />
