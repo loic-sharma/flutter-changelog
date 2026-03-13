@@ -1094,7 +1094,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-12 commits.
+13 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating GenUI to current version of 0.9
   <sub>[#13161](https://github.com/flutter/website/pull/13161) merged on March 11, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/website/pull/13161) over 1 day, 271 additions and 275 deletions in 3 files</sub>
@@ -1103,6 +1103,10 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples (pt2 of 3)
   <sub>[#13156](https://github.com/flutter/website/pull/13156) merged on March 9, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/website/pull/13156) over 2 days, 1685 additions and 220 deletions in 33 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add role for the framework team!
+  <sub>[#13171](https://github.com/flutter/website/pull/13171) merged on March 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13171) over 21 hours, 83 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up and fixes to "How Flutter works"
   <sub>[#13172](https://github.com/flutter/website/pull/13172) merged on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13172) over 12 hours, 127 additions and 104 deletions in 3 files</sub>
