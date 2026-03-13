@@ -177,11 +177,14 @@
   <sub>[#183650](https://github.com/flutter/flutter/pull/183650) opened on on March 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183650) 268 additions and 1 deletion in 11 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Linux reuse sibling<br />
-  <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183653) 168 additions and 28 deletions in 8 files</sub><br />
+  <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183653) 162 additions and 28 deletions in 8 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds complex layout impeller startup benchmark<br />
-  <sub>[#183655](https://github.com/flutter/flutter/pull/183655) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183655) 35 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#183655](https://github.com/flutter/flutter/pull/183655) opened on on March 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183655) 35 additions and 3 deletions in 5 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add some quality of life improvements to the release GitHub workflows.<br />
   <sub>[#183658](https://github.com/flutter/flutter/pull/183658) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183658) 61 additions and 31 deletions in 4 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macos impeller complex layout performance test<br />
+  <sub>[#183669](https://github.com/flutter/flutter/pull/183669) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183669) 25 additions and 0 deletions in 3 files</sub><br />
 
