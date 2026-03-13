@@ -162,8 +162,11 @@
   <sub>[#183610](https://github.com/flutter/flutter/pull/183610) opened on on March 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183610) 99 additions and 13 deletions in 2 files</sub><br />
 
 * **[Samuel Abada](https://github.com/Mastersam07)** &mdash; fix: Prevent full page navigation on same-origin semantic link clicks<br />
-  <sub>[#183614](https://github.com/flutter/flutter/pull/183614) opened on on March 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183614) 119 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#183614](https://github.com/flutter/flutter/pull/183614) opened on on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183614) 157 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid attaching LLDB to app extensions<br />
   <sub>[#183619](https://github.com/flutter/flutter/pull/183619) opened on on March 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183619) 82 additions and 19 deletions in 2 files</sub><br />
+
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Keep multiline CupertinoTextField placeholders in bounds<br />
+  <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183622) 38 additions and 10 deletions in 2 files</sub><br />
 
