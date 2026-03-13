@@ -116,9 +116,6 @@
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing `await`s on forgotten cases<br />
   <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183466) 11 additions and 11 deletions in 5 files</sub><br />
 
-* **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; [FIX] Prevent the last character in obscure text when obscureText pro…<br />
-  <sub>[#183488](https://github.com/flutter/flutter/pull/183488) opened on on March 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183488) 105 additions and 0 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Migrated circle sdf to euclidean 2d derivative<br />
   <sub>[#183526](https://github.com/flutter/flutter/pull/183526) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183526) 74 additions and 30 deletions in 8 files</sub><br />
 
@@ -162,7 +159,7 @@
   <sub>[#183619](https://github.com/flutter/flutter/pull/183619) opened on on March 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183619) 82 additions and 19 deletions in 2 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Keep multiline CupertinoTextField placeholders in bounds<br />
-  <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183622) 38 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183622) 38 additions and 10 deletions in 2 files</sub><br />
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; Fix selection highlight artifacts for faded selectable text<br />
   <sub>[#183628](https://github.com/flutter/flutter/pull/183628) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183628) 26 additions and 7 deletions in 1 file</sub><br />
