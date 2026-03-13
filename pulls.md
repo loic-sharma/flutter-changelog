@@ -173,3 +173,6 @@
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; Fix selection highlight artifacts for faded selectable text<br />
   <sub>[#183628](https://github.com/flutter/flutter/pull/183628) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183628) 26 additions and 7 deletions in 1 file</sub><br />
 
+* **[Ayush Singh](https://github.com/bharatvansh)** &mdash; Add shrinkWrapCrossAxis property to PageView<br />
+  <sub>[#183634](https://github.com/flutter/flutter/pull/183634) opened on on March 13, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/183634) 1479 additions and 17 deletions in 8 files</sub><br />
+
