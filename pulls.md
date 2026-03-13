@@ -44,6 +44,9 @@
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix Content Sizing Race Condition<br />
+  <sub>[#182326](https://github.com/flutter/flutter/pull/182326) opened on on February 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182326) 17 additions and 25 deletions in 4 files</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />
 
@@ -120,7 +123,7 @@
   <sub>[#183526](https://github.com/flutter/flutter/pull/183526) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183526) 74 additions and 30 deletions in 8 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wrap EGL image usage in a GObject<br />
-  <sub>[#183539](https://github.com/flutter/flutter/pull/183539) opened on on March 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183539) 152 additions and 23 deletions in 7 files</sub><br />
+  <sub>[#183539](https://github.com/flutter/flutter/pull/183539) opened on on March 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183539) 146 additions and 23 deletions in 7 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] clarify Windows symlink failure on ReFS<br />
   <sub>[#183544](https://github.com/flutter/flutter/pull/183544) opened on on March 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183544) 10 additions and 5 deletions in 2 files</sub><br />
@@ -177,7 +180,7 @@
   <sub>[#183650](https://github.com/flutter/flutter/pull/183650) opened on on March 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183650) 268 additions and 1 deletion in 11 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Linux reuse sibling<br />
-  <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183653) 168 additions and 28 deletions in 8 files</sub><br />
+  <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183653) 168 additions and 28 deletions in 8 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add some quality of life improvements to the release GitHub workflows.<br />
   <sub>[#183658](https://github.com/flutter/flutter/pull/183658) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183658) 61 additions and 31 deletions in 4 files</sub><br />
