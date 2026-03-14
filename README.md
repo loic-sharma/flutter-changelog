@@ -911,7 +911,7 @@
 
 ### March 7, 2026 to March 13, 2026
 
-17 commits.
+18 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Optimize caption retrieval with binary search in VideoPlayerController<br />
   <sub>[#8347](https://github.com/flutter/packages/pull/8347) merged on March 10, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/8347) over 14 months, 816 additions and 387 deletions in 4 files</sub><br />
@@ -920,6 +920,10 @@
 * **[August](https://github.com/Gustl22)** &mdash; [vector_graphics] Respect BoxFit parameter with viewbox<br />
   <sub>[#11012](https://github.com/flutter/packages/pull/11012) merged on March 10, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11012) over 3 weeks, 121 additions and 38 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Remove CocoaPods from examples<br />
+  <sub>[#11237](https://github.com/flutter/packages/pull/11237) merged on March 14, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/11237) over 1 day, 634 additions and 6551 deletions in 258 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; [google_sign_in_web]Fix renderButton stuck on "Getting ready" for Web (Future<void> issue)<br />
   <sub>[#11081](https://github.com/flutter/packages/pull/11081) merged on March 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11081) over 3 weeks, 104 additions and 93 deletions in 5 files</sub><br />
