@@ -45,7 +45,7 @@
   <sub><details><summary>1 image...</summary><img width="865" height="376" alt="Screenshot 2026-03-09 at 4 32 38 PM" src="https://github.com/user-attachments/assets/eaae19ef-1af3-4606-9e6e-649e77151224" /></details></sub>
 
 * **[Nightmare](https://github.com/Laurie-Lin)** &mdash; [flutter_tools] Support flavors and transformers for shaders<br />
-  <sub>[#181889](https://github.com/flutter/flutter/pull/181889) merged on March 13, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/181889) over 1 month, 411 additions and 70 deletions in 8 files</sub><br />
+  <sub>[#181889](https://github.com/flutter/flutter/pull/181889) merged on March 13, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/181889) over 1 month, 411 additions and 70 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; ci: Remove `bringup` from orchestrator for windows_arm_host_engine on Linux<br />
