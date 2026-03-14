@@ -197,3 +197,6 @@
 * **[Kishimoto](https://github.com/Koichi5)** &mdash; Add _effectiveFocusNode pattern to DropdownMenu<br />
   <sub>[#183684](https://github.com/flutter/flutter/pull/183684) opened on on March 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183684) 84 additions and 1 deletion in 2 files</sub><br />
 
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid unnecessary xattr deletes on iOS outputs<br />
+  <sub>[#183691](https://github.com/flutter/flutter/pull/183691) opened on on March 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183691) 244 additions and 13 deletions in 6 files</sub><br />
+
