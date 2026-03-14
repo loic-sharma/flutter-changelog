@@ -188,3 +188,9 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds github action to reset cicd when new branches come<br />
   <sub>[#183675](https://github.com/flutter/flutter/pull/183675) opened on on March 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183675) 23 additions and 0 deletions in 1 file</sub><br />
 
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
+  <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
+
+* **[algor](https://github.com/algor)** &mdash; Fix url to the Flutter System Overview diagram.<br />
+  <sub>[#183680](https://github.com/flutter/flutter/pull/183680) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183680) 1 addition and 1 deletion in 1 file</sub><br />
+
