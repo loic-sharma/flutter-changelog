@@ -212,3 +212,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `start` and `end` parameters to `EdgeInsetsGeometry.only`<br />
   <sub>[#183699](https://github.com/flutter/flutter/pull/183699) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183699) 63 additions and 4 deletions in 5 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `MediaQuery` documentation<br />
+  <sub>[#183702](https://github.com/flutter/flutter/pull/183702) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183702) 20 additions and 31 deletions in 1 file</sub><br />
+
