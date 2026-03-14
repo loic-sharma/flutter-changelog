@@ -180,7 +180,7 @@
   <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183653) 162 additions and 28 deletions in 8 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
-  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183657) 402 additions and 106 deletions in 4 files</sub><br />
+  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183657) 552 additions and 106 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macos impeller complex layout performance test<br />
   <sub>[#183669](https://github.com/flutter/flutter/pull/183669) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183669) 25 additions and 0 deletions in 3 files</sub><br />
@@ -192,11 +192,14 @@
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
 
 * **[algor](https://github.com/algor)** &mdash; Fix url to the Flutter System Overview diagram.<br />
-  <sub>[#183680](https://github.com/flutter/flutter/pull/183680) opened on on March 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183680) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#183680](https://github.com/flutter/flutter/pull/183680) opened on on March 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183680) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kishimoto](https://github.com/Koichi5)** &mdash; Add _effectiveFocusNode pattern to DropdownMenu<br />
   <sub>[#183684](https://github.com/flutter/flutter/pull/183684) opened on on March 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183684) 84 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid unnecessary xattr deletes on iOS outputs<br />
   <sub>[#183691](https://github.com/flutter/flutter/pull/183691) opened on on March 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183691) 244 additions and 13 deletions in 6 files</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `Key` → `Object` in internal framework logic<br />
+  <sub>[#183693](https://github.com/flutter/flutter/pull/183693) opened on on March 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183693) 61 additions and 68 deletions in 17 files</sub><br />
 
