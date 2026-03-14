@@ -189,7 +189,7 @@
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
 
 * **[algor](https://github.com/algor)** &mdash; Fix url to the Flutter System Overview diagram.<br />
-  <sub>[#183680](https://github.com/flutter/flutter/pull/183680) opened on on March 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183680) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#183680](https://github.com/flutter/flutter/pull/183680) opened on on March 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183680) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kishimoto](https://github.com/Koichi5)** &mdash; Add _effectiveFocusNode pattern to DropdownMenu<br />
   <sub>[#183684](https://github.com/flutter/flutter/pull/183684) opened on on March 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183684) 84 additions and 1 deletion in 2 files</sub><br />
