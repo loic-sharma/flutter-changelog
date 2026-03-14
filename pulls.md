@@ -179,6 +179,9 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Linux reuse sibling<br />
   <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183653) 162 additions and 28 deletions in 8 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
+  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183657) 402 additions and 106 deletions in 4 files</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macos impeller complex layout performance test<br />
   <sub>[#183669](https://github.com/flutter/flutter/pull/183669) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183669) 25 additions and 0 deletions in 3 files</sub><br />
 
