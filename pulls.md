@@ -87,7 +87,7 @@
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Refactor RefreshIndicator scroll handling and arm/disarm logic<br />
-  <sub>[#183282](https://github.com/flutter/flutter/pull/183282) opened on on March 5, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/183282) 472 additions and 91 deletions in 2 files</sub><br />
+  <sub>[#183282](https://github.com/flutter/flutter/pull/183282) opened on on March 5, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/183282) 472 additions and 91 deletions in 2 files</sub><br />
 
 * **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; Fix whitespace in the windows Flutter tool console output<br />
   <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
@@ -180,7 +180,7 @@
   <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183653) 162 additions and 28 deletions in 8 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
-  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183657) 552 additions and 106 deletions in 4 files</sub><br />
+  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183657) 553 additions and 109 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macos impeller complex layout performance test<br />
   <sub>[#183669](https://github.com/flutter/flutter/pull/183669) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183669) 25 additions and 0 deletions in 3 files</sub><br />
