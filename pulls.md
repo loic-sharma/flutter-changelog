@@ -206,3 +206,6 @@
 * **[futpib](https://github.com/futpib)** &mdash; Fix debug getters crashing in release mode with LateInitializationError<br />
   <sub>[#183697](https://github.com/flutter/flutter/pull/183697) opened on on March 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183697) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Use `Material.of(context)` to clean up tests<br />
+  <sub>[#183698](https://github.com/flutter/flutter/pull/183698) opened on on March 14, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/183698) 170 additions and 366 deletions in 25 files</sub><br />
+
