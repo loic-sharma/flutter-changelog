@@ -1153,6 +1153,10 @@
   <sub>[#13171](https://github.com/flutter/website/pull/13171) merged on March 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13171) over 21 hours, 83 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
+* **[Serhat Güler](https://github.com/sero583)** &mdash; Add redirect for impeller backend desktop<br />
+  <sub>[#13164](https://github.com/flutter/website/pull/13164) merged on March 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13164) over 12 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix challenge issues on fwe layout tutorial<br />
   <sub>[#13173](https://github.com/flutter/website/pull/13173) merged on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13173) over 23 hours, 4 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
@@ -1176,10 +1180,6 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Windows install<br />
   <sub>[#13167](https://github.com/flutter/website/pull/13167) merged on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13167) over 2 days, 69 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
-
-* **[Serhat Güler](https://github.com/sero583)** &mdash; Add redirect for impeller backend desktop<br />
-  <sub>[#13164](https://github.com/flutter/website/pull/13164) merged on March 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13164) over 12 hours, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Mate Narh](https://github.com/spartaninzaghi)** &mdash; Omission Fix: Retain automaticallyImplyLeading default parameter<br />
   <sub>[#13092](https://github.com/flutter/website/pull/13092) merged on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13092) over 2 weeks, 3 additions and 0 deletions in 1 file</sub><br />
