@@ -216,5 +216,5 @@
   <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/183705) 274 additions and 30 deletions in 2 files</sub><br />
 
 * **[futpib](https://github.com/futpib)** &mdash; Add lint rule for debug-only RenderObject getters<br />
-  <sub>[#183706](https://github.com/flutter/flutter/pull/183706) opened on on March 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183706) 252 additions and 3 deletions in 6 files</sub><br />
+  <sub>[#183706](https://github.com/flutter/flutter/pull/183706) opened on on March 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183706) 255 additions and 3 deletions in 6 files</sub><br />
 
