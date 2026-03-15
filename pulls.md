@@ -203,9 +203,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `Key` → `Object` in internal framework logic<br />
   <sub>[#183693](https://github.com/flutter/flutter/pull/183693) opened on on March 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183693) 61 additions and 68 deletions in 17 files</sub><br />
 
-* **[futpib](https://github.com/futpib)** &mdash; Fix debug getters crashing in release mode with LateInitializationError<br />
-  <sub>[#183697](https://github.com/flutter/flutter/pull/183697) opened on on March 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183697) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Use `Material.of(context)` to clean up tests<br />
   <sub>[#183698](https://github.com/flutter/flutter/pull/183698) opened on on March 14, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/183698) 165 additions and 366 deletions in 25 files</sub><br />
 
@@ -217,4 +214,7 @@
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Add controller param for caller-managed options<br />
   <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/183705) 274 additions and 30 deletions in 2 files</sub><br />
+
+* **[futpib](https://github.com/futpib)** &mdash; Add lint rule for debug-only RenderObject getters<br />
+  <sub>[#183706](https://github.com/flutter/flutter/pull/183706) opened on on March 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183706) 252 additions and 3 deletions in 6 files</sub><br />
 
