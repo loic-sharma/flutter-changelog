@@ -36,7 +36,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds geometry dirty nodes
-  <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [94 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub>
+  <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [96 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix PinnedHeaderSliver semantics focus capture
@@ -564,7 +564,11 @@
 
 ### March 14, 2026 to March 20, 2026
 
-2 commits.
+3 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Apply SwiftPM to non-plugin builds too
+  <sub>[#11265](https://github.com/flutter/packages/pull/11265) merged on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11265) over 1 hour, 48 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Fix fetch-deps handling of SwiftPM
   <sub>[#11261](https://github.com/flutter/packages/pull/11261) merged on March 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11261) over 57 minutes, 99 additions and 33 deletions in 2 files</sub>
