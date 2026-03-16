@@ -131,9 +131,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use `flutterTrackAndroidDependencies` event to track android dependencies<br />
   <sub>[#183587](https://github.com/flutter/flutter/pull/183587) opened on on March 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183587) 47 additions and 3 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use properties to configure leak_tracking and test_randomization_off in .ci.yaml<br />
-  <sub>[#183605](https://github.com/flutter/flutter/pull/183605) opened on on March 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183605) 31 additions and 16 deletions in 2 files</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Only dispatch predictive back to the deepest observer<br />
   <sub>[#183609](https://github.com/flutter/flutter/pull/183609) opened on on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183609) 104 additions and 5 deletions in 2 files</sub><br />
 
@@ -169,9 +166,6 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/183657) 547 additions and 105 deletions in 4 files</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macos impeller complex layout performance test<br />
-  <sub>[#183669](https://github.com/flutter/flutter/pull/183669) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183669) 25 additions and 0 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds github action to reset cicd when new branches come<br />
   <sub>[#183675](https://github.com/flutter/flutter/pull/183675) opened on on March 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183675) 65 additions and 0 deletions in 1 file</sub><br />
@@ -213,5 +207,8 @@
   <sub>[#183724](https://github.com/flutter/flutter/pull/183724) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183724) 63 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix occasional failure to find Chrome tab<br />
-  <sub>[#183737](https://github.com/flutter/flutter/pull/183737) opened on on March 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183737) 14 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#183737](https://github.com/flutter/flutter/pull/183737) opened on on March 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183737) 14 additions and 5 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Migrated circle sdf to euclidean 2d derivative<br />
+  <sub>[#183738](https://github.com/flutter/flutter/pull/183738) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183738) 74 additions and 30 deletions in 8 files</sub><br />
 
