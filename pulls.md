@@ -92,9 +92,6 @@
 * **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; Fix whitespace in the windows Flutter tool console output<br />
   <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Milen Valev](https://github.com/ldak)** &mdash; Add support for downgrading to a specific version<br />
-  <sub>[#183376](https://github.com/flutter/flutter/pull/183376) opened on on March 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183376) 72 additions and 2 deletions in 2 files</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
@@ -113,9 +110,6 @@
 * **[Anurag Devanapally](https://github.com/andeart)** &mdash; Add `--include-example` flag to `flutter clean` for package example projects<br />
   <sub>[#183455](https://github.com/flutter/flutter/pull/183455) opened on on March 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183455) 125 additions and 3 deletions in 2 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Avoid File.exists and File.stat, as per enforced lint rule<br />
-  <sub>[#183463](https://github.com/flutter/flutter/pull/183463) opened on on March 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183463) 23 additions and 21 deletions in 14 files</sub><br />
-
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing `await`s on forgotten cases<br />
   <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183466) 11 additions and 11 deletions in 5 files</sub><br />
 
@@ -124,9 +118,6 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wrap EGL image usage in a GObject<br />
   <sub>[#183539](https://github.com/flutter/flutter/pull/183539) opened on on March 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183539) 146 additions and 23 deletions in 7 files</sub><br />
-
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] clarify Windows symlink failure on ReFS<br />
-  <sub>[#183544](https://github.com/flutter/flutter/pull/183544) opened on on March 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183544) 10 additions and 5 deletions in 2 files</sub><br />
 
 * **[kyungilcho](https://github.com/kyungilcho)** &mdash; Preprovision Android NDK for flavored builds<br />
   <sub>[#183555](https://github.com/flutter/flutter/pull/183555) opened on on March 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183555) 986 additions and 22 deletions in 10 files</sub><br />
