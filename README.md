@@ -552,7 +552,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Remove CocoaPods from examples<br />
-  <sub>[#11237](https://github.com/flutter/packages/pull/11237) merged on March 14, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/11237) over 1 day, 634 additions and 6551 deletions in 258 files</sub><br />
+  <sub>[#11237](https://github.com/flutter/packages/pull/11237) merged on March 14, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/11237) over 1 day, 634 additions and 6551 deletions in 258 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; [google_sign_in_web]Fix renderButton stuck on "Getting ready" for Web (Future<void> issue)<br />
