@@ -175,7 +175,7 @@
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y][android] In Android 16, sendWindowContentChangeEvent when check state changes<br />
-  <sub>[#183606](https://github.com/flutter/flutter/pull/183606) merged on March 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183606) over 22 hours, 155 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#183606](https://github.com/flutter/flutter/pull/183606) merged on March 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183606) over 22 hours, 155 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Specified the repo the cp label will be removed from<br />
