@@ -201,5 +201,8 @@
   <sub>[#183738](https://github.com/flutter/flutter/pull/183738) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183738) 74 additions and 30 deletions in 8 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds platform_view_test_macos_impeller<br />
-  <sub>[#183760](https://github.com/flutter/flutter/pull/183760) opened on on March 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183760) 28 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#183760](https://github.com/flutter/flutter/pull/183760) opened on on March 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183760) 28 additions and 3 deletions in 5 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Encode source file patches as UTF-8 in the code formatter script<br />
+  <sub>[#183761](https://github.com/flutter/flutter/pull/183761) opened on on March 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183761) 7 additions and 2 deletions in 1 file</sub><br />
 
