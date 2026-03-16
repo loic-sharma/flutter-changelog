@@ -51,7 +51,7 @@
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
-  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [22 comments](https://github.com/flutter/flutter/pull/182522) 2044 additions and 294 deletions in 18 files</sub><br />
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/flutter/pull/182522) 2043 additions and 294 deletions in 18 files</sub><br />
 
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
@@ -156,7 +156,7 @@
   <sub>[#183642](https://github.com/flutter/flutter/pull/183642) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183642) 175 additions and 52 deletions in 4 files</sub><br />
 
 * **[Nikhil Bansal](https://github.com/nikb7)** &mdash; [ios] Add opt-in inline prediction text input support<br />
-  <sub>[#183650](https://github.com/flutter/flutter/pull/183650) opened on on March 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183650) 268 additions and 1 deletion in 11 files</sub><br />
+  <sub>[#183650](https://github.com/flutter/flutter/pull/183650) opened on on March 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183650) 268 additions and 1 deletion in 11 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Linux reuse sibling<br />
   <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183653) 162 additions and 28 deletions in 8 files</sub><br />
