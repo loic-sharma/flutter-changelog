@@ -539,9 +539,18 @@
 
 ## flutter/packages
 
+### March 14, 2026 to March 20, 2026
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Add a SwiftPM flag to fetch-deps<br />
+  <sub>[#11258](https://github.com/flutter/packages/pull/11258) merged on March 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11258) over 46 minutes, 196 additions and 16 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
 ### March 7, 2026 to March 13, 2026
 
-18 commits.
+<details>
+<summary>18 commits...</summary>
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Optimize caption retrieval with binary search in VideoPlayerController<br />
   <sub>[#8347](https://github.com/flutter/packages/pull/8347) merged on March 10, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/packages/pull/8347) over 14 months, 816 additions and 387 deletions in 4 files</sub><br />
@@ -614,6 +623,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add AI contribution guidelines to PR checklist<br />
   <sub>[#11195](https://github.com/flutter/packages/pull/11195) merged on March 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11195) over 3 days, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+</details>
 
 ### February 28, 2026 to March 6, 2026
 
