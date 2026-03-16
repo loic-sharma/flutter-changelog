@@ -204,5 +204,5 @@
   <sub>[#183760](https://github.com/flutter/flutter/pull/183760) opened on on March 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183760) 28 additions and 3 deletions in 5 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Encode source file patches as UTF-8 in the code formatter script<br />
-  <sub>[#183761](https://github.com/flutter/flutter/pull/183761) opened on on March 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183761) 7 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#183761](https://github.com/flutter/flutter/pull/183761) opened on on March 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183761) 30 additions and 2 deletions in 2 files</sub><br />
 
