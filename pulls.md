@@ -21,7 +21,7 @@
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
-  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/179810) 173 additions and 173 deletions in 10 files</sub><br />
+  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/179810) 218 additions and 320 deletions in 11 files</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
@@ -164,17 +164,11 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/183657) 547 additions and 105 deletions in 4 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds github action to reset cicd when new branches come<br />
-  <sub>[#183675](https://github.com/flutter/flutter/pull/183675) opened on on March 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183675) 65 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
 
 * **[algor](https://github.com/algor)** &mdash; Fix url to the Flutter System Overview diagram.<br />
-  <sub>[#183680](https://github.com/flutter/flutter/pull/183680) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183680) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Kishimoto](https://github.com/Koichi5)** &mdash; Add _effectiveFocusNode pattern to DropdownMenu<br />
-  <sub>[#183684](https://github.com/flutter/flutter/pull/183684) opened on on March 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183684) 84 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#183680](https://github.com/flutter/flutter/pull/183680) opened on on March 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183680) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid unnecessary xattr deletes on iOS outputs<br />
   <sub>[#183691](https://github.com/flutter/flutter/pull/183691) opened on on March 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183691) 244 additions and 13 deletions in 6 files</sub><br />
