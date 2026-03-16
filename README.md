@@ -2,9 +2,22 @@
 
 ## flutter/flutter
 
+### March 14, 2026 to March 20, 2026
+
+2 commits.
+
+* **[Eyas](https://github.com/Eyas)** &mdash; Properly parse URIs for testPath when the host is running on Windows.<br />
+  <sub>[#176881](https://github.com/flutter/flutter/pull/176881) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176881) over 5 months, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Avoid File.exists and File.stat, as per enforced lint rule<br />
+  <sub>[#183463](https://github.com/flutter/flutter/pull/183463) merged on March 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183463) over 5 days, 23 additions and 21 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 ### March 7, 2026 to March 13, 2026
 
-61 commits.
+<details>
+<summary>61 commits...</summary>
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add scrollCacheExtent to PageView<br />
   <sub>[#180411](https://github.com/flutter/flutter/pull/180411) merged on March 11, 2026 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/180411) over 2 months, 384 additions and 14 deletions in 5 files</sub><br />
@@ -252,6 +265,8 @@
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Updates tests commit<br />
   <sub>[#183301](https://github.com/flutter/flutter/pull/183301) merged on March 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183301) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+</details>
 
 ### February 28, 2026 to March 6, 2026
 
@@ -716,7 +731,11 @@
 
 ### March 14, 2026 to March 20, 2026
 
-1 commits.
+2 commits.
+
+* **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add headers to fetchAlbum HTTP request<br />
+  <sub>[#13185](https://github.com/flutter/website/pull/13185) merged on March 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13185) over 1 day, 3 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Update WebSocket URL<br />
   <sub>[#13183](https://github.com/flutter/website/pull/13183) merged on March 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13183) over 1 day, 3 additions and 3 deletions in 2 files</sub><br />

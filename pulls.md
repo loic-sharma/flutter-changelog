@@ -134,9 +134,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use properties to configure leak_tracking and test_randomization_off in .ci.yaml<br />
   <sub>[#183605](https://github.com/flutter/flutter/pull/183605) opened on on March 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183605) 31 additions and 16 deletions in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Test broad implemenation of b/491412611<br />
-  <sub>[#183607](https://github.com/flutter/flutter/pull/183607) opened on on March 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183607) 30 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Only dispatch predictive back to the deepest observer<br />
   <sub>[#183609](https://github.com/flutter/flutter/pull/183609) opened on on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183609) 104 additions and 5 deletions in 2 files</sub><br />
 
@@ -214,4 +211,7 @@
 
 * **[Silfalion](https://github.com/Silfalion)** &mdash; Filter out .appex extension processes from LLDB attachment on iOS 17+<br />
   <sub>[#183724](https://github.com/flutter/flutter/pull/183724) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183724) 63 additions and 1 deletion in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix occasional failure to find Chrome tab<br />
+  <sub>[#183737](https://github.com/flutter/flutter/pull/183737) opened on on March 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183737) 14 additions and 5 deletions in 2 files</sub><br />
 
