@@ -36,7 +36,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds geometry dirty nodes
-  <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [97 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub>
+  <sub>[#180375](https://github.com/flutter/flutter/pull/180375) merged on March 9, 2026 &mdash; **Large:** [98 comments](https://github.com/flutter/flutter/pull/180375) over 2 months, 645 additions and 58 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[manu-sncf](https://github.com/manu-sncf)** &mdash; Fix PinnedHeaderSliver semantics focus capture
