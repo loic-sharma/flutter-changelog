@@ -221,3 +221,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 fifth grouped tests<br />
   <sub>[#183720](https://github.com/flutter/flutter/pull/183720) opened on on March 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183720) 151 additions and 0 deletions in 10 files</sub><br />
 
+* **[Silfalion](https://github.com/Silfalion)** &mdash; Filter out .appex extension processes from LLDB attachment on iOS 17+<br />
+  <sub>[#183724](https://github.com/flutter/flutter/pull/183724) opened on on March 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183724) 60 additions and 1 deletion in 2 files</sub><br />
+
