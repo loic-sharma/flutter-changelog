@@ -541,7 +541,11 @@
 
 ### March 14, 2026 to March 20, 2026
 
-1 commits.
+2 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Fix fetch-deps handling of SwiftPM<br />
+  <sub>[#11261](https://github.com/flutter/packages/pull/11261) merged on March 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11261) over 57 minutes, 99 additions and 33 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Add a SwiftPM flag to fetch-deps<br />
   <sub>[#11258](https://github.com/flutter/packages/pull/11258) merged on March 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11258) over 46 minutes, 196 additions and 16 deletions in 5 files</sub><br />
