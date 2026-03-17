@@ -600,7 +600,11 @@
 
 ### March 14, 2026 to March 20, 2026
 
-3 commits.
+4 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Enable SwiftPM by default for platform tests
+  <sub>[#11271](https://github.com/flutter/packages/pull/11271) merged on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11271) over 19 hours, 15 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Apply SwiftPM to non-plugin builds too
   <sub>[#11265](https://github.com/flutter/packages/pull/11265) merged on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11265) over 1 hour, 48 additions and 3 deletions in 2 files</sub>
