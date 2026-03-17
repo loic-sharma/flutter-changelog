@@ -4,7 +4,11 @@
 
 ### March 14, 2026 to March 20, 2026
 
-16 commits.
+17 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(web_ui): move prepareToDraw after raster to improve concurrency and stability
+  <sub>[#183791](https://github.com/flutter/flutter/pull/183791) merged on March 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183791) over 2 hours, 241 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds flush to metal screenshotter.
   <sub>[#183758](https://github.com/flutter/flutter/pull/183758) merged on March 17, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183758) over 2 hours, 15 additions and 1 deletion in 1 file</sub>
