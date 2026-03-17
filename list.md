@@ -604,7 +604,11 @@
 
 ### March 14, 2026 to March 20, 2026
 
-4 commits.
+5 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web_benchmark] Fix tab connection for newer versions of Chrome
+  <sub>[#11266](https://github.com/flutter/packages/pull/11266) merged on March 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11266) over 1 day, 10 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Enable SwiftPM by default for platform tests
   <sub>[#11271](https://github.com/flutter/packages/pull/11271) merged on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11271) over 19 hours, 15 additions and 0 deletions in 3 files</sub>

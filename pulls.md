@@ -96,7 +96,7 @@
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Allow Xcode build configuration to not contain flavor name<br />
-  <sub>[#183398](https://github.com/flutter/flutter/pull/183398) opened on on March 9, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/183398) 60 additions and 18 deletions in 3 files</sub><br />
+  <sub>[#183398](https://github.com/flutter/flutter/pull/183398) opened on on March 9, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/183398) 60 additions and 18 deletions in 3 files</sub><br />
 
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; Enhance iOS logging: await log reader start in devices and simulators…<br />
   <sub>[#183448](https://github.com/flutter/flutter/pull/183448) opened on on March 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183448) 111 additions and 21 deletions in 5 files</sub><br />
@@ -192,11 +192,17 @@
   <sub>[#183737](https://github.com/flutter/flutter/pull/183737) opened on on March 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183737) 14 additions and 5 deletions in 2 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the windowing docs per the latest wording found while doing Satellites<br />
-  <sub>[#183748](https://github.com/flutter/flutter/pull/183748) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183748) 27 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#183748](https://github.com/flutter/flutter/pull/183748) opened on on March 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183748) 24 additions and 5 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Encode source file patches as UTF-8 in the code formatter script<br />
   <sub>[#183761](https://github.com/flutter/flutter/pull/183761) opened on on March 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183761) 30 additions and 2 deletions in 2 files</sub><br />
 
 * **[Azhar Hussain Buriro](https://github.com/aburiro)** &mdash; Fix: remove cross-import in scaffold_test.dart<br />
   <sub>[#183790](https://github.com/flutter/flutter/pull/183790) opened on on March 17, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183790) 1298 additions and 1 deletion in 2 files</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update CHANGELOG.md for Flutter 3.41.5<br />
+  <sub>[#183792](https://github.com/flutter/flutter/pull/183792) opened on on March 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183792) 4 additions and 0 deletions in 1 file</sub><br />
+
+* **[Rav-xyl](https://github.com/Rav-xyl)** &mdash; fix(flutter_tools): validate positional arguments in downgrade command<br />
+  <sub>[#183793](https://github.com/flutter/flutter/pull/183793) opened on on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183793) 12 additions and 0 deletions in 1 file</sub><br />
 
