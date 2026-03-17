@@ -203,3 +203,6 @@
 * **[Mohammad Salim](https://github.com/mhmadip)** &mdash; docs: add custom transitionBuilder example to AnimatedSwitcher<br />
   <sub>[#183804](https://github.com/flutter/flutter/pull/183804) opened on on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183804) 27 additions and 1 deletion in 1 file</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] MSAA support<br />
+  <sub>[#183807](https://github.com/flutter/flutter/pull/183807) opened on on March 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183807) 206 additions and 27 deletions in 8 files</sub><br />
+
