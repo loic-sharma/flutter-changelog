@@ -4,7 +4,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-12 commits.
+13 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds flush to metal screenshotter.
   <sub>[#183758](https://github.com/flutter/flutter/pull/183758) merged on March 17, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183758) over 2 hours, 15 additions and 1 deletion in 1 file</sub>
@@ -41,6 +41,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use properties to configure leak_tracking and test_randomization_off in .ci.yaml
   <sub>[#183605](https://github.com/flutter/flutter/pull/183605) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183605) over 3 days, 31 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update goldctl version
+  <sub>[#183538](https://github.com/flutter/flutter/pull/183538) merged on March 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183538) over 5 days, 85 additions and 85 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add a platform OpenGL context.
   <sub>[#183715](https://github.com/flutter/flutter/pull/183715) merged on March 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183715) over 21 hours, 37 additions and 4 deletions in 3 files</sub>

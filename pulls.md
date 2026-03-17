@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Have `flutter create` create a pubspec.lock to ensure pinned versions are being used.<br />
-  <sub>[#175352](https://github.com/flutter/flutter/pull/175352) opened on on September 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175352) 103 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#175352](https://github.com/flutter/flutter/pull/175352) opened on on September 15, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/175352) 105 additions and 2 deletions in 3 files</sub><br />
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
@@ -201,5 +201,5 @@
   <sub>[#183748](https://github.com/flutter/flutter/pull/183748) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183748) 27 additions and 4 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Encode source file patches as UTF-8 in the code formatter script<br />
-  <sub>[#183761](https://github.com/flutter/flutter/pull/183761) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183761) 30 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#183761](https://github.com/flutter/flutter/pull/183761) opened on on March 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183761) 30 additions and 2 deletions in 2 files</sub><br />
 
