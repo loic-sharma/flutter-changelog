@@ -4,7 +4,12 @@
 
 ### March 14, 2026 to March 20, 2026
 
-19 commits.
+20 commits.
+
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Add mainAxisAlignment to NavigationRail<br />
+  <sub>[#183514](https://github.com/flutter/flutter/pull/183514) merged on March 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183514) over 6 days, 118 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="1163" height="1230" alt="NavigationRail_Default" src="https://github.com/user-attachments/assets/184d0574-a6a6-4f28-add0-a1b9f07de7b0" /><img width="1164" height="1227" alt="NavigationRail_SpaceEvenly" src="https://github.com/user-attachments/assets/744ddf9f-8ada-4539-b45f-ac0e02a2eb61" /></details></sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(web_ui): move prepareToDraw after raster to improve concurrency and stability<br />
   <sub>[#183791](https://github.com/flutter/flutter/pull/183791) merged on March 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183791) over 2 hours, 241 additions and 1 deletion in 3 files</sub><br />
