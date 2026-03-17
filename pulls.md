@@ -174,7 +174,7 @@
   <sub>[#183702](https://github.com/flutter/flutter/pull/183702) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183702) 20 additions and 31 deletions in 1 file</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Add controller param for caller-managed options<br />
-  <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/183705) 274 additions and 30 deletions in 2 files</sub><br />
+  <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/183705) 274 additions and 30 deletions in 2 files</sub><br />
 
 * **[futpib](https://github.com/futpib)** &mdash; Add lint rule for debug-only RenderObject getters<br />
   <sub>[#183706](https://github.com/flutter/flutter/pull/183706) opened on on March 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183706) 255 additions and 3 deletions in 6 files</sub><br />
@@ -202,7 +202,4 @@
 
 * **[Mohammad Salim](https://github.com/mhmadip)** &mdash; docs: add custom transitionBuilder example to AnimatedSwitcher<br />
   <sub>[#183804](https://github.com/flutter/flutter/pull/183804) opened on on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183804) 27 additions and 1 deletion in 1 file</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] MSAA support<br />
-  <sub>[#183807](https://github.com/flutter/flutter/pull/183807) opened on on March 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183807) 206 additions and 27 deletions in 8 files</sub><br />
 
