@@ -197,6 +197,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Migrated circle sdf to euclidean 2d derivative<br />
   <sub>[#183738](https://github.com/flutter/flutter/pull/183738) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183738) 74 additions and 30 deletions in 8 files</sub><br />
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the windowing docs per the latest wording found while doing Satellites<br />
+  <sub>[#183748](https://github.com/flutter/flutter/pull/183748) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183748) 27 additions and 4 deletions in 1 file</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Encode source file patches as UTF-8 in the code formatter script<br />
   <sub>[#183761](https://github.com/flutter/flutter/pull/183761) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183761) 30 additions and 2 deletions in 2 files</sub><br />
 
