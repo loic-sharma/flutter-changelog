@@ -116,12 +116,6 @@
 * **[Mohanad Abdallah](https://github.com/MohanadAbdallah-mv)** &mdash; Adding errorPadding property to InputDecorator and InputDecorationThe…<br />
   <sub>[#183582](https://github.com/flutter/flutter/pull/183582) opened on on March 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183582) 152 additions and 8 deletions in 2 files</sub><br />
 
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Only dispatch predictive back to the deepest observer<br />
-  <sub>[#183609](https://github.com/flutter/flutter/pull/183609) opened on on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183609) 104 additions and 5 deletions in 2 files</sub><br />
-
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Improve locked Navigator debug error<br />
-  <sub>[#183610](https://github.com/flutter/flutter/pull/183610) opened on on March 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183610) 99 additions and 13 deletions in 2 files</sub><br />
-
 * **[Samuel Abada](https://github.com/Mastersam07)** &mdash; fix: Prevent full page navigation on same-origin semantic link clicks<br />
   <sub>[#183614](https://github.com/flutter/flutter/pull/183614) opened on on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183614) 157 additions and 0 deletions in 2 files</sub><br />
 
@@ -133,9 +127,6 @@
 
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; Fix selection highlight artifacts for faded selectable text<br />
   <sub>[#183628](https://github.com/flutter/flutter/pull/183628) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183628) 26 additions and 7 deletions in 1 file</sub><br />
-
-* **[Ayush Singh](https://github.com/bharatvansh)** &mdash; Add shrinkWrapCrossAxis property to PageView<br />
-  <sub>[#183634](https://github.com/flutter/flutter/pull/183634) opened on on March 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183634) 1479 additions and 17 deletions in 8 files</sub><br />
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Android: Support predictive back from 3-button navigation<br />
   <sub>[#183642](https://github.com/flutter/flutter/pull/183642) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183642) 175 additions and 52 deletions in 4 files</sub><br />
