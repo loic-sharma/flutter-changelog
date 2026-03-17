@@ -4,7 +4,11 @@
 
 ### March 14, 2026 to March 20, 2026
 
-9 commits.
+11 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds flush to metal screenshotter.
+  <sub>[#183758](https://github.com/flutter/flutter/pull/183758) merged on March 17, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183758) over 2 hours, 15 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Eyas](https://github.com/Eyas)** &mdash; Properly parse URIs for testPath when the host is running on Windows.
   <sub>[#176881](https://github.com/flutter/flutter/pull/176881) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176881) over 5 months, 1 addition and 1 deletion in 1 file</sub>
@@ -13,6 +17,10 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: add code review guidance to CONTRIBUTING.md
   <sub>[#182778](https://github.com/flutter/flutter/pull/182778) merged on March 16, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/182778) over 3 weeks, 30 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds platform_view_test_macos_impeller
+  <sub>[#183760](https://github.com/flutter/flutter/pull/183760) merged on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183760) over 1 hour, 28 additions and 3 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Filter 'waiting for customer response' issues from macOS triage
   <sub>[#183552](https://github.com/flutter/flutter/pull/183552) merged on March 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183552) over 4 days, 1 addition and 1 deletion in 1 file</sub>
