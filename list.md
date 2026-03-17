@@ -604,7 +604,15 @@
 
 ### March 14, 2026 to March 20, 2026
 
-5 commits.
+7 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Regenerate iOS example with Swift
+  <sub>[#11275](https://github.com/flutter/packages/pull/11275) merged on March 17, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/11275) over 1 hour, 529 additions and 409 deletions in 33 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Christoph Deil](https://github.com/cdeil)** &mdash; [camera_avfoundation] Remove outdated TODO comment in messages.dart
+  <sub>[#11236](https://github.com/flutter/packages/pull/11236) merged on March 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11236) over 5 days, 0 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web_benchmark] Fix tab connection for newer versions of Chrome
   <sub>[#11266](https://github.com/flutter/packages/pull/11266) merged on March 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11266) over 1 day, 10 additions and 8 deletions in 3 files</sub>
