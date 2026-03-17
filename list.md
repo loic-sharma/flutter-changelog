@@ -4,7 +4,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-13 commits.
+14 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds flush to metal screenshotter.
   <sub>[#183758](https://github.com/flutter/flutter/pull/183758) merged on March 17, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183758) over 2 hours, 15 additions and 1 deletion in 1 file</sub>
@@ -17,6 +17,10 @@
 * **[Eyas](https://github.com/Eyas)** &mdash; Properly parse URIs for testPath when the host is running on Windows.
   <sub>[#176881](https://github.com/flutter/flutter/pull/176881) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176881) over 5 months, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv]fix admob banner scrollable on ios 18.2
+  <sub>[#183274](https://github.com/flutter/flutter/pull/183274) merged on March 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183274) over 1 week, 26 additions and 17 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: add code review guidance to CONTRIBUTING.md
   <sub>[#182778](https://github.com/flutter/flutter/pull/182778) merged on March 16, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/182778) over 3 weeks, 30 additions and 1 deletion in 1 file</sub>
@@ -783,7 +787,11 @@
 
 ### March 14, 2026 to March 20, 2026
 
-2 commits.
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update `llms.txt` file
+  <sub>[#13191](https://github.com/flutter/website/pull/13191) merged on March 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13191) over 23 hours, 112 additions and 116 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Add headers to fetchAlbum HTTP request
   <sub>[#13185](https://github.com/flutter/website/pull/13185) merged on March 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13185) over 1 day, 3 additions and 0 deletions in 2 files</sub>
