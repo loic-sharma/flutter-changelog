@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Have `flutter create` create a pubspec.lock to ensure pinned versions are being used.<br />
-  <sub>[#175352](https://github.com/flutter/flutter/pull/175352) opened on on September 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/175352) 103 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#175352](https://github.com/flutter/flutter/pull/175352) opened on on September 15, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175352) 103 additions and 2 deletions in 3 files</sub><br />
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
@@ -93,7 +93,7 @@
   <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
-  <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Allow Xcode build configuration to not contain flavor name<br />
   <sub>[#183398](https://github.com/flutter/flutter/pull/183398) opened on on March 9, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/183398) 60 additions and 18 deletions in 3 files</sub><br />
