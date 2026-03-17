@@ -203,6 +203,3 @@
 * **[Mohammad Salim](https://github.com/mhmadip)** &mdash; docs: add custom transitionBuilder example to AnimatedSwitcher<br />
   <sub>[#183804](https://github.com/flutter/flutter/pull/183804) opened on on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183804) 27 additions and 1 deletion in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Update android triage process to not look at unassigned p1s every week<br />
-  <sub>[#183805](https://github.com/flutter/flutter/pull/183805) opened on on March 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183805) 0 additions and 1 deletion in 1 file</sub><br />
-
