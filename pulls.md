@@ -119,9 +119,6 @@
 * **[Mohanad Abdallah](https://github.com/MohanadAbdallah-mv)** &mdash; Adding errorPadding property to InputDecorator and InputDecorationThe…<br />
   <sub>[#183582](https://github.com/flutter/flutter/pull/183582) opened on on March 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183582) 152 additions and 8 deletions in 2 files</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use `flutterTrackAndroidDependencies` event to track android dependencies<br />
-  <sub>[#183587](https://github.com/flutter/flutter/pull/183587) opened on on March 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183587) 47 additions and 3 deletions in 2 files</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Only dispatch predictive back to the deepest observer<br />
   <sub>[#183609](https://github.com/flutter/flutter/pull/183609) opened on on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183609) 104 additions and 5 deletions in 2 files</sub><br />
 
@@ -201,5 +198,8 @@
   <sub>[#183794](https://github.com/flutter/flutter/pull/183794) opened on on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183794) 21 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macos impeller new gallery transition perf test.<br />
-  <sub>[#183802](https://github.com/flutter/flutter/pull/183802) opened on on March 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183802) 24 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#183802](https://github.com/flutter/flutter/pull/183802) opened on on March 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183802) 24 additions and 1 deletion in 5 files</sub><br />
+
+* **[Mohammad Salim](https://github.com/mhmadip)** &mdash; docs: add custom transitionBuilder example to AnimatedSwitcher<br />
+  <sub>[#183804](https://github.com/flutter/flutter/pull/183804) opened on on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183804) 27 additions and 1 deletion in 1 file</sub><br />
 
