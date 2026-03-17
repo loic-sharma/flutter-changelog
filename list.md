@@ -31,7 +31,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add a platform OpenGL context.
-  <sub>[#183715](https://github.com/flutter/flutter/pull/183715) merged on March 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183715) over 21 hours, 37 additions and 4 deletions in 3 files</sub>
+  <sub>[#183715](https://github.com/flutter/flutter/pull/183715) merged on March 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183715) over 21 hours, 37 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix formatting, capitalization, and grammar in activation issue template
