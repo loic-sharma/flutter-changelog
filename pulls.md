@@ -177,7 +177,7 @@
   <sub>[#183702](https://github.com/flutter/flutter/pull/183702) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183702) 20 additions and 31 deletions in 1 file</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Add controller param for caller-managed options<br />
-  <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/183705) 274 additions and 30 deletions in 2 files</sub><br />
+  <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/183705) 274 additions and 30 deletions in 2 files</sub><br />
 
 * **[futpib](https://github.com/futpib)** &mdash; Add lint rule for debug-only RenderObject getters<br />
   <sub>[#183706](https://github.com/flutter/flutter/pull/183706) opened on on March 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183706) 255 additions and 3 deletions in 6 files</sub><br />
@@ -187,9 +187,6 @@
 
 * **[Silfalion](https://github.com/Silfalion)** &mdash; Filter out .appex extension processes from LLDB attachment on iOS 17+<br />
   <sub>[#183724](https://github.com/flutter/flutter/pull/183724) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183724) 63 additions and 1 deletion in 2 files</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix occasional failure to find Chrome tab<br />
-  <sub>[#183737](https://github.com/flutter/flutter/pull/183737) opened on on March 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183737) 14 additions and 5 deletions in 2 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the windowing docs per the latest wording found while doing Satellites<br />
   <sub>[#183748](https://github.com/flutter/flutter/pull/183748) opened on on March 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183748) 24 additions and 5 deletions in 1 file</sub><br />
