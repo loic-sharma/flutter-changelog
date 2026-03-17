@@ -113,9 +113,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Migrated circle sdf to euclidean 2d derivative<br />
   <sub>[#183526](https://github.com/flutter/flutter/pull/183526) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183526) 74 additions and 30 deletions in 8 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wrap EGL image usage in a GObject<br />
-  <sub>[#183539](https://github.com/flutter/flutter/pull/183539) opened on on March 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183539) 146 additions and 23 deletions in 7 files</sub><br />
-
 * **[kyungilcho](https://github.com/kyungilcho)** &mdash; Preprovision Android NDK for flavored builds<br />
   <sub>[#183555](https://github.com/flutter/flutter/pull/183555) opened on on March 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183555) 986 additions and 22 deletions in 10 files</sub><br />
 
@@ -153,7 +150,7 @@
   <sub>[#183642](https://github.com/flutter/flutter/pull/183642) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183642) 175 additions and 52 deletions in 4 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Linux reuse sibling<br />
-  <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183653) 162 additions and 28 deletions in 8 files</sub><br />
+  <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183653) 16 additions and 5 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/183657) 547 additions and 105 deletions in 4 files</sub><br />

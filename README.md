@@ -4,11 +4,15 @@
 
 ### March 14, 2026 to March 20, 2026
 
-11 commits.
+12 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds flush to metal screenshotter.<br />
   <sub>[#183758](https://github.com/flutter/flutter/pull/183758) merged on March 17, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183758) over 2 hours, 15 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wrap EGL image usage in a GObject<br />
+  <sub>[#183539](https://github.com/flutter/flutter/pull/183539) merged on March 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183539) over 5 days, 146 additions and 23 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Eyas](https://github.com/Eyas)** &mdash; Properly parse URIs for testPath when the host is running on Windows.<br />
   <sub>[#176881](https://github.com/flutter/flutter/pull/176881) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176881) over 5 months, 1 addition and 1 deletion in 1 file</sub><br />
