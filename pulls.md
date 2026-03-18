@@ -171,5 +171,5 @@
   <sub>[#183856](https://github.com/flutter/flutter/pull/183856) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183856) 56 additions and 51 deletions in 5 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add notes on HCPP to `Android-Platform-Views.md`<br />
-  <sub>[#183859](https://github.com/flutter/flutter/pull/183859) opened on on March 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183859) 36 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#183859](https://github.com/flutter/flutter/pull/183859) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183859) 36 additions and 1 deletion in 1 file</sub><br />
 
