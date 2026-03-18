@@ -170,3 +170,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Migrate `addTaskForPrintBuildVariants` and `isFlutterAppProject` to new agp dsl<br />
   <sub>[#183849](https://github.com/flutter/flutter/pull/183849) opened on on March 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183849) 22 additions and 17 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Migrate profile build type creation and proguard config to new dsl<br />
+  <sub>[#183856](https://github.com/flutter/flutter/pull/183856) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183856) 56 additions and 51 deletions in 5 files</sub><br />
+
