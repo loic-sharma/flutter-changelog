@@ -50,9 +50,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
-  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) opened on on February 18, 2026 &mdash; **Extra large:** [26 comments](https://github.com/flutter/flutter/pull/182522) 2016 additions and 294 deletions in 18 files</sub><br />
-
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
@@ -172,4 +169,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use clearer return value for idle and timeout callbacks.<br />
   <sub>[#183811](https://github.com/flutter/flutter/pull/183811) opened on on March 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183811) 4 additions and 4 deletions in 3 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Protect access to renderables with a mutex<br />
+  <sub>[#183813](https://github.com/flutter/flutter/pull/183813) opened on on March 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183813) 45 additions and 19 deletions in 1 file</sub><br />
 

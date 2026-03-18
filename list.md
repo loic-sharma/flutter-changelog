@@ -4,7 +4,12 @@
 
 ### March 14, 2026 to March 20, 2026
 
-21 commits.
+24 commits.
+
+* **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix widget inspector control layout and add safe area regression test
+  <sub>[#180789](https://github.com/flutter/flutter/pull/180789) merged on March 17, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/180789) over 2 months, 70 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub>
+  <sub><details><summary>2 images...</summary><img width="1080" height="2400" alt="533829007-5aba7be7-e8bd-47f4-9d64-38e1ab1a0c6b" src="https://github.com/user-attachments/assets/d4f6c193-75a2-4c55-9a80-9a60e5e58f0c" /><img width="1080" height="2400" alt="Screenshot_1768012272" src="https://github.com/user-attachments/assets/8fe9f5e3-8c2a-4eec-9a14-6e2dbb19a5c4" /></details></sub>
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Add mainAxisAlignment to NavigationRail
   <sub>[#183514](https://github.com/flutter/flutter/pull/183514) merged on March 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183514) over 6 days, 118 additions and 4 deletions in 4 files</sub>
@@ -22,6 +27,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wrap EGL image usage in a GObject
   <sub>[#183539](https://github.com/flutter/flutter/pull/183539) merged on March 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183539) over 5 days, 146 additions and 23 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(web): fix crash in Skwasm when transferring non-transferable texture sources
+  <sub>[#183799](https://github.com/flutter/flutter/pull/183799) merged on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183799) over 2 hours, 82 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Eyas](https://github.com/Eyas)** &mdash; Properly parse URIs for testPath when the host is running on Windows.
   <sub>[#176881](https://github.com/flutter/flutter/pull/176881) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176881) over 5 months, 1 addition and 1 deletion in 1 file</sub>
@@ -66,6 +75,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use properties to configure leak_tracking and test_randomization_off in .ci.yaml
   <sub>[#183605](https://github.com/flutter/flutter/pull/183605) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183605) over 3 days, 31 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) merged on March 17, 2026 &mdash; **Extra large:** [26 comments](https://github.com/flutter/flutter/pull/182522) over 3 weeks, 2016 additions and 294 deletions in 18 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [build] Generate debug info for assembly.
   <sub>[#183425](https://github.com/flutter/flutter/pull/183425) merged on March 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183425) over 1 week, 3 additions and 0 deletions in 1 file</sub>
