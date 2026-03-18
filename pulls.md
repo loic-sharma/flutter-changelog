@@ -51,7 +51,7 @@
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
-  <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
+  <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
   <sub>[#182977](https://github.com/flutter/flutter/pull/182977) opened on on February 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182977) 70 additions and 20 deletions in 2 files</sub><br />
