@@ -686,7 +686,11 @@
 
 ### March 14, 2026 to March 20, 2026
 
-7 commits.
+8 commits.
+
+* **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter_android] Batch clustered marker operations
+  <sub>[#10940](https://github.com/flutter/packages/pull/10940) merged on March 18, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/10940) over 1 month, 386 additions and 13 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Regenerate iOS example with Swift
   <sub>[#11275](https://github.com/flutter/packages/pull/11275) merged on March 17, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/11275) over 1 hour, 529 additions and 409 deletions in 33 files</sub>
