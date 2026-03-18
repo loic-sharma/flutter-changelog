@@ -156,7 +156,7 @@
   <sub>[#183748](https://github.com/flutter/flutter/pull/183748) opened on on March 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183748) 24 additions and 5 deletions in 1 file</sub><br />
 
 * **[Azhar Hussain Buriro](https://github.com/aburiro)** &mdash; Fix: remove cross-import in scaffold_test.dart<br />
-  <sub>[#183790](https://github.com/flutter/flutter/pull/183790) opened on on March 17, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183790) 1298 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#183790](https://github.com/flutter/flutter/pull/183790) opened on on March 17, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/183790) 1298 additions and 1 deletion in 2 files</sub><br />
 
 * **[Rav-xyl](https://github.com/Rav-xyl)** &mdash; fix(flutter_tools): validate positional arguments in downgrade command<br />
   <sub>[#183793](https://github.com/flutter/flutter/pull/183793) opened on on March 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183793) 32 additions and 0 deletions in 2 files</sub><br />
@@ -168,7 +168,7 @@
   <sub>[#183811](https://github.com/flutter/flutter/pull/183811) opened on on March 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183811) 4 additions and 4 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Protect access to renderables with a mutex<br />
-  <sub>[#183813](https://github.com/flutter/flutter/pull/183813) opened on on March 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183813) 45 additions and 19 deletions in 1 file</sub><br />
+  <sub>[#183813](https://github.com/flutter/flutter/pull/183813) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183813) 45 additions and 19 deletions in 1 file</sub><br />
 
 * **[gordon-ola](https://github.com/gordon-ola)** &mdash; [iOS] Fix NSJSONSerialization crash when deleting SMP characters<br />
   <sub>[#183819](https://github.com/flutter/flutter/pull/183819) opened on on March 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183819) 192 additions and 1 deletion in 1 file</sub><br />
