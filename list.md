@@ -4,7 +4,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-20 commits.
+21 commits.
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Add mainAxisAlignment to NavigationRail
   <sub>[#183514](https://github.com/flutter/flutter/pull/183514) merged on March 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183514) over 6 days, 118 additions and 4 deletions in 4 files</sub>
@@ -33,6 +33,10 @@
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: add code review guidance to CONTRIBUTING.md
   <sub>[#182778](https://github.com/flutter/flutter/pull/182778) merged on March 16, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/182778) over 3 weeks, 30 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Framework: Improve DropdownButton selectedItemBuilder assertion
+  <sub>[#183732](https://github.com/flutter/flutter/pull/183732) merged on March 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183732) over 1 day, 54 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update android triage process to not look at unassigned p1s every week
