@@ -4,7 +4,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-31 commits.
+33 commits.
 
 * **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix widget inspector control layout and add safe area regression test<br />
   <sub>[#180789](https://github.com/flutter/flutter/pull/180789) merged on March 17, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/180789) over 2 months, 70 additions and 1 deletion in 2 files</sub><br />
@@ -23,6 +23,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(web_ui): move prepareToDraw after raster to improve concurrency and stability<br />
   <sub>[#183791](https://github.com/flutter/flutter/pull/183791) merged on March 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183791) over 2 hours, 241 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(web): handle asynchronously disposed platform views<br />
+  <sub>[#183666](https://github.com/flutter/flutter/pull/183666) merged on March 18, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/183666) over 4 days, 181 additions and 21 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [zhongliugo](https://github.com/flutter-zl)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds flush to metal screenshotter.<br />
   <sub>[#183758](https://github.com/flutter/flutter/pull/183758) merged on March 17, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183758) over 2 hours, 15 additions and 1 deletion in 1 file</sub><br />
@@ -131,6 +135,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Avoid File.exists and File.stat, as per enforced lint rule<br />
   <sub>[#183463](https://github.com/flutter/flutter/pull/183463) merged on March 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183463) over 5 days, 23 additions and 21 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; (Test cross-imports) Remove legacy Material import from sliver_constraints_test<br />
+  <sub>[#183351](https://github.com/flutter/flutter/pull/183351) merged on March 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183351) over 1 week, 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
 
 ### March 7, 2026 to March 13, 2026
 
