@@ -4,7 +4,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-36 commits.
+37 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Codesign XCFrameworks for darwin add to app
   <sub>[#183399](https://github.com/flutter/flutter/pull/183399) merged on March 18, 2026 &mdash; **Extra large:** [61 comments](https://github.com/flutter/flutter/pull/183399) over 1 week, 2795 additions and 172 deletions in 25 files</sub>
@@ -56,6 +56,10 @@
   <sub>[#176881](https://github.com/flutter/flutter/pull/176881) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176881) over 5 months, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Slider] Refactor test "Value indicator appears when it should"
+  <sub>[#183143](https://github.com/flutter/flutter/pull/183143) merged on March 18, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/183143) over 2 weeks, 205 additions and 114 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke)</sub>
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add a Clarification for the docs of suggestionsBuilder of SearchAnchor
   <sub>[#183106](https://github.com/flutter/flutter/pull/183106) merged on March 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183106) over 2 weeks, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -92,9 +96,9 @@
   <sub>[#183760](https://github.com/flutter/flutter/pull/183760) merged on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183760) over 1 hour, 28 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Filter 'waiting for customer response' issues from macOS triage
-  <sub>[#183552](https://github.com/flutter/flutter/pull/183552) merged on March 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183552) over 4 days, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macos impeller complex layout performance test
+  <sub>[#183669](https://github.com/flutter/flutter/pull/183669) merged on March 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183669) over 2 days, 25 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use properties to configure leak_tracking and test_randomization_off in .ci.yaml
   <sub>[#183605](https://github.com/flutter/flutter/pull/183605) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183605) over 3 days, 31 additions and 16 deletions in 2 files</sub>
@@ -104,13 +108,9 @@
   <sub>[#183675](https://github.com/flutter/flutter/pull/183675) merged on March 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183675) over 2 days, 65 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macos impeller complex layout performance test
-  <sub>[#183669](https://github.com/flutter/flutter/pull/183669) merged on March 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183669) over 2 days, 25 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 second grouped test
-  <sub>[#182529](https://github.com/flutter/flutter/pull/182529) merged on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182529) over 3 weeks, 149 additions and 0 deletions in 8 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Filter 'waiting for customer response' issues from macOS triage
+  <sub>[#183552](https://github.com/flutter/flutter/pull/183552) merged on March 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183552) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"
   <sub>[#182522](https://github.com/flutter/flutter/pull/182522) merged on March 17, 2026 &mdash; **Extra large:** [26 comments](https://github.com/flutter/flutter/pull/182522) over 3 weeks, 2016 additions and 294 deletions in 18 files</sub>
@@ -140,13 +140,17 @@
   <sub>[#183731](https://github.com/flutter/flutter/pull/183731) merged on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183731) over 2 days, 3 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[richardexfo](https://github.com/richardexfo)** &mdash; Linux reuse sibling
+  <sub>[#183653](https://github.com/flutter/flutter/pull/183653) merged on March 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183653) over 4 days, 14 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub>
+
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Avoid File.exists and File.stat, as per enforced lint rule
   <sub>[#183463](https://github.com/flutter/flutter/pull/183463) merged on March 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183463) over 5 days, 23 additions and 21 deletions in 14 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[richardexfo](https://github.com/richardexfo)** &mdash; Linux reuse sibling
-  <sub>[#183653](https://github.com/flutter/flutter/pull/183653) merged on March 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183653) over 4 days, 14 additions and 5 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub>
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 second grouped test
+  <sub>[#182529](https://github.com/flutter/flutter/pull/182529) merged on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182529) over 3 weeks, 149 additions and 0 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; (Test cross-imports) Remove legacy Material import from sliver_constraints_test
   <sub>[#183351](https://github.com/flutter/flutter/pull/183351) merged on March 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183351) over 1 week, 4 additions and 4 deletions in 2 files</sub>
