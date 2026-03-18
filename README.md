@@ -4,12 +4,16 @@
 
 ### March 14, 2026 to March 20, 2026
 
-24 commits.
+26 commits.
 
 * **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix widget inspector control layout and add safe area regression test<br />
   <sub>[#180789](https://github.com/flutter/flutter/pull/180789) merged on March 17, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/180789) over 2 months, 70 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
   <sub><details><summary>2 images...</summary><img width="1080" height="2400" alt="533829007-5aba7be7-e8bd-47f4-9d64-38e1ab1a0c6b" src="https://github.com/user-attachments/assets/d4f6c193-75a2-4c55-9a80-9a60e5e58f0c" /><img width="1080" height="2400" alt="Screenshot_1768012272" src="https://github.com/user-attachments/assets/8fe9f5e3-8c2a-4eec-9a14-6e2dbb19a5c4" /></details></sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not delete the GL object in a HandleGLES if the handle has a cleanup callback<br />
+  <sub>[#183561](https://github.com/flutter/flutter/pull/183561) merged on March 17, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183561) over 5 days, 153 additions and 28 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Add mainAxisAlignment to NavigationRail<br />
   <sub>[#183514](https://github.com/flutter/flutter/pull/183514) merged on March 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183514) over 6 days, 118 additions and 4 deletions in 4 files</sub><br />
@@ -27,6 +31,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wrap EGL image usage in a GObject<br />
   <sub>[#183539](https://github.com/flutter/flutter/pull/183539) merged on March 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183539) over 5 days, 146 additions and 23 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Encode source file patches as UTF-8 in the code formatter script<br />
+  <sub>[#183761](https://github.com/flutter/flutter/pull/183761) merged on March 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183761) over 23 hours, 30 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(web): fix crash in Skwasm when transferring non-transferable texture sources<br />
   <sub>[#183799](https://github.com/flutter/flutter/pull/183799) merged on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183799) over 2 hours, 82 additions and 1 deletion in 2 files</sub><br />
