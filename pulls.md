@@ -122,9 +122,6 @@
 * **[maRci002](https://github.com/maRci002)** &mdash; Android: Support predictive back from 3-button navigation<br />
   <sub>[#183642](https://github.com/flutter/flutter/pull/183642) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183642) 175 additions and 52 deletions in 4 files</sub><br />
 
-* **[richardexfo](https://github.com/richardexfo)** &mdash; Linux reuse sibling<br />
-  <sub>[#183653](https://github.com/flutter/flutter/pull/183653) opened on on March 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183653) 14 additions and 5 deletions in 1 file</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/183657) 547 additions and 105 deletions in 4 files</sub><br />
 
