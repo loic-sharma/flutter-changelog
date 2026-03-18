@@ -4,7 +4,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-26 commits.
+27 commits.
 
 * **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix widget inspector control layout and add safe area regression test<br />
   <sub>[#180789](https://github.com/flutter/flutter/pull/180789) merged on March 17, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/180789) over 2 months, 70 additions and 1 deletion in 2 files</sub><br />
@@ -43,6 +43,10 @@
 * **[Eyas](https://github.com/Eyas)** &mdash; Properly parse URIs for testPath when the host is running on Windows.<br />
   <sub>[#176881](https://github.com/flutter/flutter/pull/176881) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176881) over 5 months, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Remove obsolete null checks from style guide<br />
+  <sub>[#181703](https://github.com/flutter/flutter/pull/181703) merged on March 17, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/181703) over 1 month, 3 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv]fix admob banner scrollable on ios 18.2<br />
   <sub>[#183274](https://github.com/flutter/flutter/pull/183274) merged on March 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183274) over 1 week, 26 additions and 17 deletions in 2 files</sub><br />
