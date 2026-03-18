@@ -702,7 +702,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-12 commits.
+13 commits.
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter_android] Batch clustered marker operations<br />
   <sub>[#10940](https://github.com/flutter/packages/pull/10940) merged on March 18, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/10940) over 1 month, 386 additions and 13 deletions in 5 files</sub><br />
@@ -715,6 +715,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add color scheme support to app-facing package<br />
   <sub>[#11280](https://github.com/flutter/packages/pull/11280) merged on March 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11280) over 5 hours, 51 additions and 3 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Convert to Kotlin gradle for the plugin build files<br />
+  <sub>[#11169](https://github.com/flutter/packages/pull/11169) merged on March 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11169) over 2 weeks, 213 additions and 45 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add color scheme support to web implementation<br />
   <sub>[#11279](https://github.com/flutter/packages/pull/11279) merged on March 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11279) over 1 hour, 35 additions and 2 deletions in 3 files</sub><br />
