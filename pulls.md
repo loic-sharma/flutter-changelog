@@ -173,3 +173,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Protect access to renderables with a mutex<br />
   <sub>[#183813](https://github.com/flutter/flutter/pull/183813) opened on on March 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183813) 45 additions and 19 deletions in 1 file</sub><br />
 
+* **[gordon-ola](https://github.com/gordon-ola)** &mdash; [iOS] Fix NSJSONSerialization crash when deleting SMP characters<br />
+  <sub>[#183819](https://github.com/flutter/flutter/pull/183819) opened on on March 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183819) 192 additions and 1 deletion in 1 file</sub><br />
+

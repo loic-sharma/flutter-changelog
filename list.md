@@ -4,7 +4,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-27 commits.
+29 commits.
 
 * **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix widget inspector control layout and add safe area regression test
   <sub>[#180789](https://github.com/flutter/flutter/pull/180789) merged on March 17, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/180789) over 2 months, 70 additions and 1 deletion in 2 files</sub>
@@ -43,6 +43,10 @@
 * **[Eyas](https://github.com/Eyas)** &mdash; Properly parse URIs for testPath when the host is running on Windows.
   <sub>[#176881](https://github.com/flutter/flutter/pull/176881) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176881) over 5 months, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add a Clarification for the docs of suggestionsBuilder of SearchAnchor
+  <sub>[#183106](https://github.com/flutter/flutter/pull/183106) merged on March 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183106) over 2 weeks, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Remove obsolete null checks from style guide
   <sub>[#181703](https://github.com/flutter/flutter/pull/181703) merged on March 17, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/181703) over 1 month, 3 additions and 4 deletions in 1 file</sub>
@@ -87,6 +91,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use properties to configure leak_tracking and test_randomization_off in .ci.yaml
   <sub>[#183605](https://github.com/flutter/flutter/pull/183605) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183605) over 3 days, 31 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 second grouped test
+  <sub>[#182529](https://github.com/flutter/flutter/pull/182529) merged on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182529) over 3 weeks, 149 additions and 0 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"
   <sub>[#182522](https://github.com/flutter/flutter/pull/182522) merged on March 17, 2026 &mdash; **Extra large:** [26 comments](https://github.com/flutter/flutter/pull/182522) over 3 weeks, 2016 additions and 294 deletions in 18 files</sub>
