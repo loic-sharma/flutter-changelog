@@ -176,6 +176,3 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix RenderStack's documentation<br />
   <sub>[#183822](https://github.com/flutter/flutter/pull/183822) opened on on March 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183822) 8 additions and 6 deletions in 1 file</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use dart2wasm app.support.js expression with `js-string` builtin requirement<br />
-  <sub>[#183835](https://github.com/flutter/flutter/pull/183835) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183835) 8 additions and 10 deletions in 3 files</sub><br />
-
