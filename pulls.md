@@ -104,9 +104,6 @@
 * **[kyungilcho](https://github.com/kyungilcho)** &mdash; Preprovision Android NDK for flavored builds<br />
   <sub>[#183555](https://github.com/flutter/flutter/pull/183555) opened on on March 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183555) 986 additions and 22 deletions in 10 files</sub><br />
 
-* **[Mohanad Abdallah](https://github.com/MohanadAbdallah-mv)** &mdash; Adding errorPadding property to InputDecorator and InputDecorationThe…<br />
-  <sub>[#183582](https://github.com/flutter/flutter/pull/183582) opened on on March 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183582) 152 additions and 8 deletions in 2 files</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid attaching LLDB to app extensions<br />
   <sub>[#183619](https://github.com/flutter/flutter/pull/183619) opened on on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183619) 138 additions and 19 deletions in 2 files</sub><br />
 
@@ -116,11 +113,8 @@
 * **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; Fix selection highlight artifacts for faded selectable text<br />
   <sub>[#183628](https://github.com/flutter/flutter/pull/183628) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183628) 26 additions and 7 deletions in 1 file</sub><br />
 
-* **[maRci002](https://github.com/maRci002)** &mdash; Android: Support predictive back from 3-button navigation<br />
-  <sub>[#183642](https://github.com/flutter/flutter/pull/183642) opened on on March 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183642) 175 additions and 52 deletions in 4 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
-  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/183657) 547 additions and 105 deletions in 4 files</sub><br />
+  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/183657) 547 additions and 105 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
   <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/183668) 224 additions and 149 deletions in 8 files</sub><br />
@@ -133,9 +127,6 @@
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid unnecessary xattr deletes on iOS outputs<br />
   <sub>[#183691](https://github.com/flutter/flutter/pull/183691) opened on on March 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183691) 243 additions and 13 deletions in 6 files</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Use `Material.of(context)` to clean up tests<br />
-  <sub>[#183698](https://github.com/flutter/flutter/pull/183698) opened on on March 14, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/183698) 165 additions and 366 deletions in 25 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `MediaQuery` documentation<br />
   <sub>[#183702](https://github.com/flutter/flutter/pull/183702) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183702) 20 additions and 31 deletions in 1 file</sub><br />

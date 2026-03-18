@@ -694,7 +694,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-9 commits.
+11 commits.
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter_android] Batch clustered marker operations<br />
   <sub>[#10940](https://github.com/flutter/packages/pull/10940) merged on March 18, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/10940) over 1 month, 386 additions and 13 deletions in 5 files</sub><br />
@@ -731,6 +731,14 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Add a SwiftPM flag to fetch-deps<br />
   <sub>[#11258](https://github.com/flutter/packages/pull/11258) merged on March 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11258) over 46 minutes, 196 additions and 16 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates platform views on iOS to only have a weak reference to the native view<br />
+  <sub>[#11175](https://github.com/flutter/packages/pull/11175) merged on March 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11175) over 2 weeks, 59 additions and 21 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from ff37bef60346 to 2c9eb20739df (6 revisions)<br />
+  <sub>[#11285](https://github.com/flutter/packages/pull/11285) merged on March 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11285) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### March 7, 2026 to March 13, 2026
 
