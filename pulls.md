@@ -107,9 +107,6 @@
 * **[Mohanad Abdallah](https://github.com/MohanadAbdallah-mv)** &mdash; Adding errorPadding property to InputDecorator and InputDecorationThe…<br />
   <sub>[#183582](https://github.com/flutter/flutter/pull/183582) opened on on March 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183582) 152 additions and 8 deletions in 2 files</sub><br />
 
-* **[Samuel Abada](https://github.com/Mastersam07)** &mdash; fix: Prevent full page navigation on same-origin semantic link clicks<br />
-  <sub>[#183614](https://github.com/flutter/flutter/pull/183614) opened on on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183614) 157 additions and 0 deletions in 2 files</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid attaching LLDB to app extensions<br />
   <sub>[#183619](https://github.com/flutter/flutter/pull/183619) opened on on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183619) 138 additions and 19 deletions in 2 files</sub><br />
 
