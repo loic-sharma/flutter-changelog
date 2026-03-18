@@ -167,3 +167,6 @@
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183838) 3 additions and 3 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Migrate `addTaskForPrintBuildVariants` and `isFlutterAppProject` to new agp dsl<br />
+  <sub>[#183849](https://github.com/flutter/flutter/pull/183849) opened on on March 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183849) 22 additions and 17 deletions in 2 files</sub><br />
+
