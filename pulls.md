@@ -45,7 +45,7 @@
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix Content Sizing Race Condition<br />
-  <sub>[#182326](https://github.com/flutter/flutter/pull/182326) opened on on February 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182326) 17 additions and 25 deletions in 4 files</sub><br />
+  <sub>[#182326](https://github.com/flutter/flutter/pull/182326) opened on on February 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182326) 17 additions and 25 deletions in 4 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />
