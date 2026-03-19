@@ -53,9 +53,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
   <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
 
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Parse Xcode all-target build settings into target maps<br />
-  <sub>[#182977](https://github.com/flutter/flutter/pull/182977) opened on on February 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182977) 70 additions and 20 deletions in 2 files</sub><br />
-
 * **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
   <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
@@ -161,11 +158,8 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Migrate profile build type creation and proguard config to new dsl<br />
   <sub>[#183856](https://github.com/flutter/flutter/pull/183856) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183856) 56 additions and 51 deletions in 5 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add notes on HCPP to `Android-Platform-Views.md`<br />
-  <sub>[#183859](https://github.com/flutter/flutter/pull/183859) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183859) 36 additions and 1 deletion in 1 file</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; feat(web): unify CanvasKit and Skwasm garbage collection<br />
-  <sub>[#183867](https://github.com/flutter/flutter/pull/183867) opened on on March 18, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/183867) 764 additions and 427 deletions in 29 files</sub><br />
+  <sub>[#183867](https://github.com/flutter/flutter/pull/183867) opened on on March 18, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/183867) 816 additions and 454 deletions in 29 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Revert "Linux reuse sibling (#183653)"<br />
   <sub>[#183871](https://github.com/flutter/flutter/pull/183871) opened on on March 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183871) 5 additions and 14 deletions in 1 file</sub><br />
