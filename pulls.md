@@ -62,9 +62,6 @@
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix wording and suggest GitHub Gist for sharing large logs<br />
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183063) 0 additions and 0 deletions in 0 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Update PR template to clarify issue linking requirements<br />
-  <sub>[#183095](https://github.com/flutter/flutter/pull/183095) opened on on March 1, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/183095) 10 additions and 0 deletions in 2 files</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Use a super-parameter in several missed cases<br />
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
 
@@ -147,7 +144,7 @@
   <sub>[#183794](https://github.com/flutter/flutter/pull/183794) opened on on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183794) 21 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use clearer return value for idle and timeout callbacks.<br />
-  <sub>[#183811](https://github.com/flutter/flutter/pull/183811) opened on on March 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183811) 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#183811](https://github.com/flutter/flutter/pull/183811) opened on on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183811) 4 additions and 4 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Protect access to renderables with a mutex<br />
   <sub>[#183813](https://github.com/flutter/flutter/pull/183813) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183813) 45 additions and 19 deletions in 1 file</sub><br />
@@ -174,5 +171,5 @@
   <sub>[#183867](https://github.com/flutter/flutter/pull/183867) opened on on March 18, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/183867) 764 additions and 427 deletions in 29 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Revert "Linux reuse sibling (#183653)"<br />
-  <sub>[#183871](https://github.com/flutter/flutter/pull/183871) opened on on March 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183871) 5 additions and 14 deletions in 1 file</sub><br />
+  <sub>[#183871](https://github.com/flutter/flutter/pull/183871) opened on on March 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183871) 5 additions and 14 deletions in 1 file</sub><br />
 
