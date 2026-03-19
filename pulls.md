@@ -171,5 +171,5 @@
   <sub>[#183859](https://github.com/flutter/flutter/pull/183859) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183859) 36 additions and 1 deletion in 1 file</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; feat(web): unify CanvasKit and Skwasm garbage collection<br />
-  <sub>[#183867](https://github.com/flutter/flutter/pull/183867) opened on on March 18, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/183867) 756 additions and 427 deletions in 29 files</sub><br />
+  <sub>[#183867](https://github.com/flutter/flutter/pull/183867) opened on on March 18, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/183867) 764 additions and 427 deletions in 29 files</sub><br />
 
