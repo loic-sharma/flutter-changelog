@@ -99,7 +99,7 @@
   <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183466) 11 additions and 11 deletions in 5 files</sub><br />
 
 * **[kyungilcho](https://github.com/kyungilcho)** &mdash; Preprovision Android NDK for flavored builds<br />
-  <sub>[#183555](https://github.com/flutter/flutter/pull/183555) opened on on March 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183555) 986 additions and 22 deletions in 10 files</sub><br />
+  <sub>[#183555](https://github.com/flutter/flutter/pull/183555) opened on on March 12, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183555) 988 additions and 22 deletions in 10 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid attaching LLDB to app extensions<br />
   <sub>[#183619](https://github.com/flutter/flutter/pull/183619) opened on on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183619) 138 additions and 19 deletions in 2 files</sub><br />
@@ -172,4 +172,7 @@
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; feat(web): unify CanvasKit and Skwasm garbage collection<br />
   <sub>[#183867](https://github.com/flutter/flutter/pull/183867) opened on on March 18, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/183867) 764 additions and 427 deletions in 29 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Revert "Linux reuse sibling (#183653)"<br />
+  <sub>[#183871](https://github.com/flutter/flutter/pull/183871) opened on on March 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183871) 5 additions and 14 deletions in 1 file</sub><br />
 
