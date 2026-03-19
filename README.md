@@ -11,7 +11,7 @@
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Prompt plugin authors to add Swift Package Manager compatibility to their plugin<br />
-  <sub>[#182246](https://github.com/flutter/flutter/pull/182246) merged on March 19, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/182246) over 1 month, 576 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#182246](https://github.com/flutter/flutter/pull/182246) merged on March 19, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182246) over 1 month, 576 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Gautam Tirkha](https://github.com/gktirkha)** &mdash; Fix widget inspector control layout and add safe area regression test<br />
