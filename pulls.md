@@ -140,3 +140,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Revert "Linux reuse sibling (#183653)"<br />
   <sub>[#183871](https://github.com/flutter/flutter/pull/183871) opened on on March 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183871) 5 additions and 14 deletions in 1 file</sub><br />
 
+* **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Add assert for mutually exclusive errorBuilder and errorText<br />
+  <sub>[#183901](https://github.com/flutter/flutter/pull/183901) opened on on March 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183901) 44 additions and 2 deletions in 4 files</sub><br />
+
