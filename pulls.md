@@ -101,9 +101,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Keep multiline CupertinoTextField placeholders in bounds<br />
   <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
 
-* **[Ikramul Hasan](https://github.com/ikramhasan)** &mdash; Fix selection highlight artifacts for faded selectable text<br />
-  <sub>[#183628](https://github.com/flutter/flutter/pull/183628) opened on on March 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183628) 26 additions and 7 deletions in 1 file</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/183657) 547 additions and 105 deletions in 4 files</sub><br />
 
@@ -124,9 +121,6 @@
 
 * **[futpib](https://github.com/futpib)** &mdash; Add lint rule for debug-only RenderObject getters<br />
   <sub>[#183706](https://github.com/flutter/flutter/pull/183706) opened on on March 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183706) 255 additions and 3 deletions in 6 files</sub><br />
-
-* **[Silfalion](https://github.com/Silfalion)** &mdash; Filter out .appex extension processes from LLDB attachment on iOS 17+<br />
-  <sub>[#183724](https://github.com/flutter/flutter/pull/183724) opened on on March 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183724) 63 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the windowing docs per the latest wording found while doing Satellites<br />
   <sub>[#183748](https://github.com/flutter/flutter/pull/183748) opened on on March 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183748) 24 additions and 5 deletions in 1 file</sub><br />
@@ -151,15 +145,6 @@
 
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183838) 3 additions and 3 deletions in 2 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Migrate `addTaskForPrintBuildVariants` and `isFlutterAppProject` to new agp dsl<br />
-  <sub>[#183849](https://github.com/flutter/flutter/pull/183849) opened on on March 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183849) 22 additions and 17 deletions in 2 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Migrate profile build type creation and proguard config to new dsl<br />
-  <sub>[#183856](https://github.com/flutter/flutter/pull/183856) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183856) 56 additions and 51 deletions in 5 files</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; feat(web): unify CanvasKit and Skwasm garbage collection<br />
-  <sub>[#183867](https://github.com/flutter/flutter/pull/183867) opened on on March 18, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/183867) 816 additions and 454 deletions in 29 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Revert "Linux reuse sibling (#183653)"<br />
   <sub>[#183871](https://github.com/flutter/flutter/pull/183871) opened on on March 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183871) 5 additions and 14 deletions in 1 file</sub><br />

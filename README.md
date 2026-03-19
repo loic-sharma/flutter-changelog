@@ -730,7 +730,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-14 commits.
+15 commits.
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter_android] Batch clustered marker operations<br />
   <sub>[#10940](https://github.com/flutter/packages/pull/10940) merged on March 18, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/10940) over 1 month, 386 additions and 13 deletions in 5 files</sub><br />
@@ -743,6 +743,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add color scheme support to app-facing package<br />
   <sub>[#11280](https://github.com/flutter/packages/pull/11280) merged on March 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11280) over 5 hours, 51 additions and 3 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] grants write permission to create branch in remote<br />
+  <sub>[#11269](https://github.com/flutter/packages/pull/11269) merged on March 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11269) over 2 days, 18 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Christoph Deil](https://github.com/cdeil)** &mdash; [camera] Make Optional.of constructor const<br />
   <sub>[#11247](https://github.com/flutter/packages/pull/11247) merged on March 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11247) over 4 days, 11 additions and 31 deletions in 7 files</sub><br />
