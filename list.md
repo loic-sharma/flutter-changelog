@@ -178,7 +178,7 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [ios][engine] Fix keyboard flicker when switching text fields
-  <sub>[#182661](https://github.com/flutter/flutter/pull/182661) merged on March 12, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/182661) over 2 weeks, 153 additions and 12 deletions in 2 files</sub>
+  <sub>[#182661](https://github.com/flutter/flutter/pull/182661) merged on March 12, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/182661) over 2 weeks, 153 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds geometry dirty nodes
