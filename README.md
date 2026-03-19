@@ -202,6 +202,10 @@
   <sub>[#181429](https://github.com/flutter/flutter/pull/181429) merged on March 10, 2026 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/181429) over 1 month, 420 additions and 372 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Mohellebi Abdessalem](https://github.com/AbdeMohlbi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrated circle sdf to euclidean 2d derivative<br />
+  <sub>[#183184](https://github.com/flutter/flutter/pull/183184) merged on March 10, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/183184) over 6 days, 74 additions and 30 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [Jim Graham](https://github.com/flar)</sub><br />
+
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; [impeller] Use the GLES3 shaders in the embedder if supported<br />
   <sub>[#180072](https://github.com/flutter/flutter/pull/180072) merged on March 11, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/180072) over 2 months, 246 additions and 78 deletions in 24 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -227,10 +231,6 @@
 * **[b-luk](https://github.com/b-luk)** &mdash; Re-enable gpu_test.dart for opengles, but disable specific tests in the file<br />
   <sub>[#183531](https://github.com/flutter/flutter/pull/183531) merged on March 11, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183531) over 2 hours, 301 additions and 256 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrated circle sdf to euclidean 2d derivative<br />
-  <sub>[#183184](https://github.com/flutter/flutter/pull/183184) merged on March 10, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/183184) over 6 days, 74 additions and 30 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update android integration test to match the current android semantics<br />
   <sub>[#183548](https://github.com/flutter/flutter/pull/183548) merged on March 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183548) over 1 day, 5 additions and 4 deletions in 2 files</sub><br />
