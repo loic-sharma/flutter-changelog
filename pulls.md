@@ -77,9 +77,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Allow Xcode build configuration to not contain flavor name<br />
-  <sub>[#183398](https://github.com/flutter/flutter/pull/183398) opened on on March 9, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/183398) 60 additions and 18 deletions in 3 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: show window after first frame callback<br />
   <sub>[#183454](https://github.com/flutter/flutter/pull/183454) opened on on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183454) 147 additions and 8 deletions in 4 files</sub><br />
 
