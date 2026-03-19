@@ -4,7 +4,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-40 commits.
+42 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Codesign XCFrameworks for darwin add to app
   <sub>[#183399](https://github.com/flutter/flutter/pull/183399) merged on March 18, 2026 &mdash; **Extra large:** [61 comments](https://github.com/flutter/flutter/pull/183399) over 1 week, 2795 additions and 172 deletions in 25 files</sub>
@@ -28,6 +28,10 @@
   <sub>[#183791](https://github.com/flutter/flutter/pull/183791) merged on March 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183791) over 2 hours, 241 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Jeff Ward](https://github.com/fuzzybinary)** &mdash; Add ability to access plugins from other plugins
+  <sub>[#182753](https://github.com/flutter/flutter/pull/182753) merged on March 19, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/182753) over 3 weeks, 109 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(web): handle asynchronously disposed platform views
   <sub>[#183666](https://github.com/flutter/flutter/pull/183666) merged on March 18, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/183666) over 4 days, 181 additions and 21 deletions in 3 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [zhongliugo](https://github.com/flutter-zl)</sub>
@@ -48,13 +52,13 @@
   <sub>[#183799](https://github.com/flutter/flutter/pull/183799) merged on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183799) over 2 hours, 82 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix Semantics expanded state not updating in PopupMenuButton and DropdownButton
-  <sub>[#183475](https://github.com/flutter/flutter/pull/183475) merged on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183475) over 1 week, 138 additions and 4 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Hannah Jin](https://github.com/hannah-hyj)</sub>
-
 * **[Jhonathan C. Queiroz](https://github.com/jhonathanqz)** &mdash; Fix Android Studio pluginsPath when version is unknown (do not use 0.0)
   <sub>[#182681](https://github.com/flutter/flutter/pull/182681) merged on March 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182681) over 3 weeks, 68 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Fix Semantics expanded state not updating in PopupMenuButton and DropdownButton
+  <sub>[#183475](https://github.com/flutter/flutter/pull/183475) merged on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183475) over 1 week, 138 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix Content Sizing Race Condition
   <sub>[#182326](https://github.com/flutter/flutter/pull/182326) merged on March 18, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182326) over 1 month, 17 additions and 25 deletions in 4 files</sub>
@@ -67,6 +71,10 @@
 * **[Eyas](https://github.com/Eyas)** &mdash; Properly parse URIs for testPath when the host is running on Windows.
   <sub>[#176881](https://github.com/flutter/flutter/pull/176881) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176881) over 5 months, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Naman Goyal](https://github.com/NamanGoyalK)** &mdash; Throw ToolExit when flutter downgrade receives positional arguments
+  <sub>[#183375](https://github.com/flutter/flutter/pull/183375) merged on March 19, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183375) over 1 week, 49 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Slider] Refactor test "Value indicator appears when it should"
   <sub>[#183143](https://github.com/flutter/flutter/pull/183143) merged on March 18, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/183143) over 2 weeks, 205 additions and 114 deletions in 3 files</sub>
@@ -92,17 +100,13 @@
   <sub>[#183732](https://github.com/flutter/flutter/pull/183732) merged on March 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183732) over 1 day, 54 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds platform_view_test_macos_impeller
+  <sub>[#183760](https://github.com/flutter/flutter/pull/183760) merged on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183760) over 1 hour, 28 additions and 3 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update android triage process to not look at unassigned p1s every week
   <sub>[#183805](https://github.com/flutter/flutter/pull/183805) merged on March 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183805) over 42 minutes, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macos impeller new gallery transition perf test.
-  <sub>[#183802](https://github.com/flutter/flutter/pull/183802) merged on March 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183802) over 1 hour, 24 additions and 1 deletion in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Filter 'waiting for customer response' issues from macOS triage
-  <sub>[#183552](https://github.com/flutter/flutter/pull/183552) merged on March 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183552) over 4 days, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds github action to reset cicd when new branches come
   <sub>[#183675](https://github.com/flutter/flutter/pull/183675) merged on March 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183675) over 2 days, 65 additions and 0 deletions in 1 file</sub>
@@ -112,12 +116,16 @@
   <sub>[#183605](https://github.com/flutter/flutter/pull/183605) merged on March 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183605) over 3 days, 31 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds platform_view_test_macos_impeller
-  <sub>[#183760](https://github.com/flutter/flutter/pull/183760) merged on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183760) over 1 hour, 28 additions and 3 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macos impeller complex layout performance test
   <sub>[#183669](https://github.com/flutter/flutter/pull/183669) merged on March 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183669) over 2 days, 25 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Filter 'waiting for customer response' issues from macOS triage
+  <sub>[#183552](https://github.com/flutter/flutter/pull/183552) merged on March 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183552) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macos impeller new gallery transition perf test.
+  <sub>[#183802](https://github.com/flutter/flutter/pull/183802) merged on March 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183802) over 1 hour, 24 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix occasional failure to find Chrome tab
