@@ -710,7 +710,7 @@
 
 ### March 14, 2026 to March 20, 2026
 
-13 commits.
+14 commits.
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter_android] Batch clustered marker operations<br />
   <sub>[#10940](https://github.com/flutter/packages/pull/10940) merged on March 18, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/10940) over 1 month, 386 additions and 13 deletions in 5 files</sub><br />
@@ -723,6 +723,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add color scheme support to app-facing package<br />
   <sub>[#11280](https://github.com/flutter/packages/pull/11280) merged on March 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11280) over 5 hours, 51 additions and 3 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Christoph Deil](https://github.com/cdeil)** &mdash; [camera] Make Optional.of constructor const<br />
+  <sub>[#11247](https://github.com/flutter/packages/pull/11247) merged on March 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11247) over 4 days, 11 additions and 31 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Convert to Kotlin gradle for the plugin build files<br />
   <sub>[#11169](https://github.com/flutter/packages/pull/11169) merged on March 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11169) over 2 weeks, 213 additions and 45 deletions in 6 files</sub><br />
@@ -929,11 +933,19 @@
 
 ### March 14, 2026 to March 20, 2026
 
-5 commits.
+7 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Dusting and cleaning of the web pages<br />
+  <sub>[#13160](https://github.com/flutter/website/pull/13160) merged on March 19, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/13160) over 1 week, 132 additions and 86 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Abdallah Shaban](https://github.com/abdallahshaban557), [Srujan Gaddam](https://github.com/srujzs), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jonas Finnemann Jensen](https://github.com/jonasfj), and [1 other](https://github.com/flutter/website/pull/13160)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Update extern-win.md<br />
   <sub>[#13179](https://github.com/flutter/website/pull/13179) merged on March 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13179) over 4 days, 10 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix and update a few links<br />
+  <sub>[#13197](https://github.com/flutter/website/pull/13197) merged on March 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13197) over 6 hours, 11 additions and 15 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update `llms.txt` file<br />
   <sub>[#13191](https://github.com/flutter/website/pull/13191) merged on March 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13191) over 23 hours, 112 additions and 116 deletions in 4 files</sub><br />
