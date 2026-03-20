@@ -113,7 +113,7 @@
 * **[futpib](https://github.com/futpib)** &mdash; Add lint rule for debug-only RenderObject getters<br />
   <sub>[#183706](https://github.com/flutter/flutter/pull/183706) opened on on March 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183706) 255 additions and 3 deletions in 6 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn about slow SwiftPM downloads<br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn about slow SwiftPM downloads and centralize SwiftPM cache<br />
   <sub>[#183747](https://github.com/flutter/flutter/pull/183747) opened on on March 16, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183747) 831 additions and 47 deletions in 24 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the windowing docs per the latest wording found while doing Satellites<br />

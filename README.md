@@ -259,12 +259,12 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
   <sub><details><summary>1 image...</summary><img width="512" height="109" alt="image" src="https://github.com/user-attachments/assets/a625f8f0-dad9-42f3-9542-820d64414b2e" /></details></sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds switch for sdf rendering plus golden tests<br />
-  <sub>[#183543](https://github.com/flutter/flutter/pull/183543) merged on March 13, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/183543) over 2 days, 99 additions and 47 deletions in 21 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [Jim Graham](https://github.com/flar)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrated circle sdf to euclidean 2d derivative<br />
   <sub>[#183184](https://github.com/flutter/flutter/pull/183184) merged on March 10, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/183184) over 6 days, 74 additions and 30 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds switch for sdf rendering plus golden tests<br />
+  <sub>[#183543](https://github.com/flutter/flutter/pull/183543) merged on March 13, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/183543) over 2 days, 99 additions and 47 deletions in 21 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material from scrollable_test.dart<br />
