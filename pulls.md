@@ -81,7 +81,7 @@
   <sub>[#183454](https://github.com/flutter/flutter/pull/183454) opened on on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183454) 147 additions and 8 deletions in 4 files</sub><br />
 
 * **[Anurag Devanapally](https://github.com/andeart)** &mdash; Add `--include-example` flag to `flutter clean` for package example projects<br />
-  <sub>[#183455](https://github.com/flutter/flutter/pull/183455) opened on on March 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183455) 125 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#183455](https://github.com/flutter/flutter/pull/183455) opened on on March 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183455) 125 additions and 3 deletions in 2 files</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing `await`s on forgotten cases<br />
   <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183466) 11 additions and 11 deletions in 5 files</sub><br />
@@ -135,5 +135,5 @@
   <sub>[#183914](https://github.com/flutter/flutter/pull/183914) opened on on March 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183914) 8 additions and 4 deletions in 2 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Clarify contributor access wording shown as Write in GitHub<br />
-  <sub>[#183917](https://github.com/flutter/flutter/pull/183917) opened on on March 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183917) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#183917](https://github.com/flutter/flutter/pull/183917) opened on on March 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183917) 2 additions and 1 deletion in 1 file</sub><br />
 
