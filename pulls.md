@@ -137,6 +137,3 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Clarify contributor access wording shown as Write in GitHub<br />
   <sub>[#183917](https://github.com/flutter/flutter/pull/183917) opened on on March 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183917) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Lasse Kamp Eskidlsen](https://github.com/Denstorefidus)** &mdash; Copilot/vscode mmyrimkj 1592<br />
-  <sub>[#183925](https://github.com/flutter/flutter/pull/183925) opened on on March 20, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/183925) 13316 additions and 762 deletions in 277 files</sub><br />
-
