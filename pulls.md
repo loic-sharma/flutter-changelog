@@ -146,6 +146,3 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Mark RenderParagraph layout dirty when textAlign changes<br />
   <sub>[#183942](https://github.com/flutter/flutter/pull/183942) opened on on March 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183942) 4 additions and 5 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Refactor: Removes Geometry field from ColorSourceContents<br />
-  <sub>[#183952](https://github.com/flutter/flutter/pull/183952) opened on on March 20, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/183952) 237 additions and 247 deletions in 28 files</sub><br />
-
