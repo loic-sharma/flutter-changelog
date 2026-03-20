@@ -122,12 +122,6 @@
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Add note about gclient sync network failures and workaround<br />
   <sub>[#183794](https://github.com/flutter/flutter/pull/183794) opened on on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183794) 21 additions and 0 deletions in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use clearer return value for idle and timeout callbacks.<br />
-  <sub>[#183811](https://github.com/flutter/flutter/pull/183811) opened on on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183811) 4 additions and 4 deletions in 3 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Protect access to renderables with a mutex<br />
-  <sub>[#183813](https://github.com/flutter/flutter/pull/183813) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183813) 45 additions and 19 deletions in 1 file</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix RenderStack's documentation<br />
   <sub>[#183822](https://github.com/flutter/flutter/pull/183822) opened on on March 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183822) 8 additions and 6 deletions in 1 file</sub><br />
 
@@ -138,5 +132,8 @@
   <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/183913) 620 additions and 236 deletions in 27 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Respect tooltip hover delay when moving between targets<br />
-  <sub>[#183914](https://github.com/flutter/flutter/pull/183914) opened on on March 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183914) 5 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#183914](https://github.com/flutter/flutter/pull/183914) opened on on March 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183914) 8 additions and 4 deletions in 2 files</sub><br />
+
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Clarify contributor access wording shown as Write in GitHub<br />
+  <sub>[#183917](https://github.com/flutter/flutter/pull/183917) opened on on March 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183917) 3 additions and 1 deletion in 1 file</sub><br />
 
