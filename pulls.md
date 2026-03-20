@@ -137,3 +137,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Clarify contributor access wording shown as Write in GitHub<br />
   <sub>[#183917](https://github.com/flutter/flutter/pull/183917) opened on on March 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183917) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_goldens] Remove dead check on null being in a list of non-nullables<br />
+  <sub>[#183938](https://github.com/flutter/flutter/pull/183938) opened on on March 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183938) 0 additions and 18 deletions in 1 file</sub><br />
+
