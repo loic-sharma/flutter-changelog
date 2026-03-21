@@ -165,5 +165,5 @@
   <sub>[#183983](https://github.com/flutter/flutter/pull/183983) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183983) 15 additions and 14 deletions in 1 file</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Skip SwiftPM plugin schemes during flutter clean<br />
-  <sub>[#183985](https://github.com/flutter/flutter/pull/183985) opened on on March 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183985) 66 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#183985](https://github.com/flutter/flutter/pull/183985) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183985) 64 additions and 1 deletion in 2 files</sub><br />
 
