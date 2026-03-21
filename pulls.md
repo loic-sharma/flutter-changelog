@@ -161,3 +161,6 @@
 * **[Runrioter Wung](https://github.com/Runrioter)** &mdash; feat: make adding the `bin` directory to the system PATH optional<br />
   <sub>[#183976](https://github.com/flutter/flutter/pull/183976) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183976) 15 additions and 1 deletion in 2 files</sub><br />
 
+* **[ad-angelo](https://github.com/ad-angelo)** &mdash; Update Xcode supported languages instructions<br />
+  <sub>[#183983](https://github.com/flutter/flutter/pull/183983) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183983) 16 additions and 14 deletions in 1 file</sub><br />
+
