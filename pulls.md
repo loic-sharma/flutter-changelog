@@ -156,5 +156,5 @@
   <sub>[#183972](https://github.com/flutter/flutter/pull/183972) opened on on March 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183972) 19 additions and 17 deletions in 1 file</sub><br />
 
 * **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Keep ExpansionPanelList dividers when expanded with 0 gap and elevation<br />
-  <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183975) 121 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183975) 121 additions and 2 deletions in 2 files</sub><br />
 
