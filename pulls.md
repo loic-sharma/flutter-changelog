@@ -170,3 +170,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Improve context initialization error messages<br />
   <sub>[#183986](https://github.com/flutter/flutter/pull/183986) opened on on March 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183986) 69 additions and 14 deletions in 4 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Seal the geometry classes<br />
+  <sub>[#183988](https://github.com/flutter/flutter/pull/183988) opened on on March 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183988) 3 additions and 3 deletions in 3 files</sub><br />
+
