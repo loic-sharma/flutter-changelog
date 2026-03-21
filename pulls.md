@@ -167,3 +167,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Skip SwiftPM plugin schemes during flutter clean<br />
   <sub>[#183985](https://github.com/flutter/flutter/pull/183985) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183985) 64 additions and 1 deletion in 2 files</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Improve context initialization error messages<br />
+  <sub>[#183986](https://github.com/flutter/flutter/pull/183986) opened on on March 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183986) 49 additions and 10 deletions in 3 files</sub><br />
+
