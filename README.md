@@ -1002,7 +1002,11 @@
 
 ### March 14, 2026 to March 20, 2026
 
-7 commits.
+8 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Integrate packages from site-shared<br />
+  <sub>[#13190](https://github.com/flutter/website/pull/13190) merged on March 21, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/website/pull/13190) over 4 days, 2311 additions and 25 deletions in 36 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Dusting and cleaning of the web pages<br />
   <sub>[#13160](https://github.com/flutter/website/pull/13160) merged on March 19, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/13160) over 1 week, 132 additions and 86 deletions in 5 files</sub><br />
