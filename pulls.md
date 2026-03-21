@@ -146,3 +146,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Mark RenderParagraph layout dirty when textAlign changes<br />
   <sub>[#183942](https://github.com/flutter/flutter/pull/183942) opened on on March 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183942) 4 additions and 5 deletions in 2 files</sub><br />
 
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Guard daemon input parser against malformed JSON lines<br />
+  <sub>[#183968](https://github.com/flutter/flutter/pull/183968) opened on on March 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183968) 33 additions and 10 deletions in 2 files</sub><br />
+
