@@ -149,3 +149,9 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Guard daemon input parser against malformed JSON lines<br />
   <sub>[#183968](https://github.com/flutter/flutter/pull/183968) opened on on March 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183968) 33 additions and 10 deletions in 2 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools<br />
+  <sub>[#183971](https://github.com/flutter/flutter/pull/183971) opened on on March 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183971) 20 additions and 21 deletions in 13 files</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add widget of the week link in SensitiveContent documentation<br />
+  <sub>[#183972](https://github.com/flutter/flutter/pull/183972) opened on on March 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183972) 19 additions and 17 deletions in 1 file</sub><br />
+
