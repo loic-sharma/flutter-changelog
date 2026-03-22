@@ -182,3 +182,6 @@
 * **[Muhammad Abdul Rehman](https://github.com/artahir-dev)** &mdash; fix: guard against OOB read in FlutterStandardCodecHelper string decode path (iOS/macOS)<br />
   <sub>[#183996](https://github.com/flutter/flutter/pull/183996) opened on on March 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183996) 34 additions and 0 deletions in 2 files</sub><br />
 
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Fix Autocomplete Tab focus traversal with disabled fields<br />
+  <sub>[#184000](https://github.com/flutter/flutter/pull/184000) opened on on March 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184000) 54 additions and 0 deletions in 2 files</sub><br />
+
