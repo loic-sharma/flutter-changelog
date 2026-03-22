@@ -179,3 +179,6 @@
 * **[Muhammad Abdul Rehman](https://github.com/artahir-dev)** &mdash; ci: reduce engine-cp.yml GITHUB_TOKEN permissions from write-all to least privilege<br />
   <sub>[#183994](https://github.com/flutter/flutter/pull/183994) opened on on March 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183994) 3 additions and 2 deletions in 1 file</sub><br />
 
+* **[Muhammad Abdul Rehman](https://github.com/artahir-dev)** &mdash; fix: guard against OOB read in FlutterStandardCodecHelper string decode path (iOS/macOS)<br />
+  <sub>[#183996](https://github.com/flutter/flutter/pull/183996) opened on on March 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183996) 34 additions and 0 deletions in 2 files</sub><br />
+
