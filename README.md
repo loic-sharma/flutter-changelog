@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 21, 2026 to March 27, 2026
+
+1 commits.
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the windowing docs per the latest wording found while doing Satellites<br />
+  <sub>[#183748](https://github.com/flutter/flutter/pull/183748) merged on March 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183748) over 6 days, 24 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
 ### March 14, 2026 to March 20, 2026
 
-57 commits.
+<details>
+<summary>57 commits...</summary>
 
 * **[Onnimanni Hannonen](https://github.com/O-Hannonen)** &mdash;  [152588] Fix Scrollable being too eager to respond to pointer signals<br />
   <sub>[#183302](https://github.com/flutter/flutter/pull/183302) merged on March 19, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/183302) over 1 week, 66 additions and 6 deletions in 2 files</sub><br />
@@ -236,6 +245,8 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Revert "Linux reuse sibling (#183653)"<br />
   <sub>[#183871](https://github.com/flutter/flutter/pull/183871) merged on March 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183871) over 17 hours, 5 additions and 14 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+</details>
 
 ### March 7, 2026 to March 13, 2026
 
@@ -494,284 +505,15 @@
 ### February 28, 2026 to March 6, 2026
 
 <details>
-<summary>61 commits...</summary>
-
-* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Allow stylus support on windows<br />
-  <sub>[#165323](https://github.com/flutter/flutter/pull/165323) merged on March 4, 2026 &mdash; **Large:** [70 comments](https://github.com/flutter/flutter/pull/165323) over 11 months, 510 additions and 102 deletions in 15 files</sub><br />
-  <sub>Reviewed by: [Demohstens](https://github.com/Demohstens), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
-  <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/e8b75f96-2334-45e9-be23-753f1565a246)</details></sub>
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Windowing implementation of `showDialog` that uses a native desktop window to display the content <br />
-  <sub>[#181861](https://github.com/flutter/flutter/pull/181861) merged on March 5, 2026 &mdash; **Large:** [145 comments](https://github.com/flutter/flutter/pull/181861) over 1 month, 781 additions and 51 deletions in 13 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [万建明](https://github.com/wanjm), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
-  <sub><details><summary>2 images...</summary><img width="800" height="635" alt="image" src="https://github.com/user-attachments/assets/54315175-2091-4508-a61f-337b35ef35e8" /><img width="800" height="635" alt="image" src="https://github.com/user-attachments/assets/9f627624-b008-48e1-a281-aabb15b9418e" /></details></sub>
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add displayCornerRadii support to predictive back transitions.<br />
-  <sub>[#181326](https://github.com/flutter/flutter/pull/181326) merged on March 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/181326) over 1 month, 90 additions and 9 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
-
-* **[Lukas Klingsbo](https://github.com/spydon)** &mdash; Support mixed color spaces in `Color.lerp`<br />
-  <sub>[#182934](https://github.com/flutter/flutter/pull/182934) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182934) over 5 days, 124 additions and 26 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `UnlabaledLeafNodeEvaluation`<br />
-  <sub>[#182872](https://github.com/flutter/flutter/pull/182872) merged on March 5, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/182872) over 1 week, 359 additions and 0 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build App and native asset frameworks for Add to App FlutterPluginRegistrant<br />
-  <sub>[#183136](https://github.com/flutter/flutter/pull/183136) merged on March 3, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/183136) over 21 hours, 1511 additions and 48 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[Nour](https://github.com/MohammedTarigg)** &mdash; Improve SwiftPM minimum platform mismatch diagnostics<br />
-  <sub>[#182375](https://github.com/flutter/flutter/pull/182375) merged on March 4, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/182375) over 2 weeks, 159 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Build CocoaPod plugin frameworks for Add to App FlutterPluginRegistrant<br />
-  <sub>[#183239](https://github.com/flutter/flutter/pull/183239) merged on March 5, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/183239) over 1 day, 1046 additions and 91 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix new convex path shadow generation in perspective<br />
-  <sub>[#183187](https://github.com/flutter/flutter/pull/183187) merged on March 6, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/183187) over 2 days, 234 additions and 14 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add warning when there is a widget with color between `Material` and `ListTile`<br />
-  <sub>[#181402](https://github.com/flutter/flutter/pull/181402) merged on March 3, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/181402) over 1 month, 339 additions and 76 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Add vmservices for accessibilityEvaluation<br />
-  <sub>[#182791](https://github.com/flutter/flutter/pull/182791) merged on March 3, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/182791) over 1 week, 506 additions and 111 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+<summary>2 commits...</summary>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Support BGRA textures in BlitCopyTextureToBufferCommandGLES::Encode and fix improper mapping of BGRA to RGBA in blit_command_gles and texture_gles<br />
   <sub>[#182397](https://github.com/flutter/flutter/pull/182397) merged on March 7, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/182397) over 3 weeks, 294 additions and 44 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material from widget_inspector_test, sliver_cross_axis_group_test, editable_text_show_on_screen_test, scrollable_fling_test, selection_container_test<br />
-  <sub>[#182702](https://github.com/flutter/flutter/pull/182702) merged on March 6, 2026 &mdash; **Large:** [60 comments](https://github.com/flutter/flutter/pull/182702) over 1 week, 297 additions and 239 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add GitHub workflows to assist with release tasks<br />
-  <sub>[#181978](https://github.com/flutter/flutter/pull/181978) merged on March 6, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/181978) over 4 weeks, 397 additions and 1 deletion in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[romain.gyh](https://github.com/romaingyh)** &mdash; Fixes FocusHighlightMode on Android when typing in software keyboard<br />
-  <sub>[#180753](https://github.com/flutter/flutter/pull/180753) merged on March 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/180753) over 1 month, 64 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
-
-* **[SakuraMomoko](https://github.com/wangfeihang)** &mdash; [two_dimensional_scrollables] Fix tableview janks when first row/column pinned<br />
-  <sub>[#180563](https://github.com/flutter/flutter/pull/180563) merged on March 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/180563) over 1 month, 118 additions and 57 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add warning for plugins not migrated to UIScene<br />
-  <sub>[#182826](https://github.com/flutter/flutter/pull/182826) merged on March 5, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/182826) over 1 week, 116 additions and 7 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give guided message when project is not compatible with SwiftPM<br />
-  <sub>[#182394](https://github.com/flutter/flutter/pull/182394) merged on March 4, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182394) over 2 weeks, 109 additions and 21 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Eliminate rebuilds for Scaffold FAB animation<br />
-  <sub>[#182331](https://github.com/flutter/flutter/pull/182331) merged on March 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182331) over 2 weeks, 56 additions and 11 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material in reorderable_list_test, scroll_notification_test, scroll_physics_test, shortcuts_test, sliver_floating_header_test, snapshot_widget_test<br />
-  <sub>[#182698](https://github.com/flutter/flutter/pull/182698) merged on March 4, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/182698) over 1 week, 499 additions and 515 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not wait for a frame's acquire fence if the frame was never presented<br />
-  <sub>[#183288](https://github.com/flutter/flutter/pull/183288) merged on March 6, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/183288) over 20 hours, 68 additions and 2 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Enable SwiftPM by default on master and beta<br />
-  <sub>[#182923](https://github.com/flutter/flutter/pull/182923) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182923) over 4 days, 135 additions and 32 deletions in 11 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
-
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: use double quotes in settings.gradle.kts template<br />
-  <sub>[#183081](https://github.com/flutter/flutter/pull/183081) merged on March 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183081) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [iOS] Skip gesture recognizer reset workaround on iOS 26+ <br />
-  <sub>[#183186](https://github.com/flutter/flutter/pull/183186) merged on March 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183186) over 1 day, 14 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[b-luk](https://github.com/b-luk)** &mdash; Make compileShader() retry without sksl if it fails with sksl.<br />
-  <sub>[#183146](https://github.com/flutter/flutter/pull/183146) merged on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183146) over 1 day, 184 additions and 51 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Use pointer-events: auto for non-interactive leaf semantics nodes<br />
-  <sub>[#183077](https://github.com/flutter/flutter/pull/183077) merged on March 4, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183077) over 3 days, 123 additions and 11 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show warning when plugins do not support SwiftPM<br />
-  <sub>[#182506](https://github.com/flutter/flutter/pull/182506) merged on March 4, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182506) over 2 weeks, 36 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add AI contribution guidelines<br />
-  <sub>[#183326](https://github.com/flutter/flutter/pull/183326) merged on March 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183326) over 1 hour, 76 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await to callsites of BasicMessageChannel.send<br />
-  <sub>[#182868](https://github.com/flutter/flutter/pull/182868) merged on March 2, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/182868) over 5 days, 183 additions and 20 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Improve FFI code for windowing<br />
-  <sub>[#183098](https://github.com/flutter/flutter/pull/183098) merged on March 2, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/183098) over 18 hours, 677 additions and 599 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
-
-* **[Slava Egorov](https://github.com/mraleph)** &mdash; Use dart::bin::SetupDartIo to setup dart:io<br />
-  <sub>[#176714](https://github.com/flutter/flutter/pull/176714) merged on March 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/176714) over 4 months, 16 additions and 51 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Martin Kustermann](https://github.com/mkustermann)</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material import from animated_cross_fade, physical_model_test, pinned_header_sliver_test, spell_check_test<br />
   <sub>[#183234](https://github.com/flutter/flutter/pull/183234) merged on March 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183234) over 2 days, 107 additions and 88 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix typo in README<br />
-  <sub>[#183245](https://github.com/flutter/flutter/pull/183245) merged on March 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183245) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Parker Lougheed](https://github.com/parlough)</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace the rest of the references to `flutter/engine` with `flutter/flutter`<br />
-  <sub>[#182938](https://github.com/flutter/flutter/pull/182938) merged on March 5, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/182938) over 1 week, 14 additions and 15 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material in pop_scope_test, route_notification_message_test, two_dimensional_utils, two_dimensional_viewport_test<br />
-  <sub>[#182699](https://github.com/flutter/flutter/pull/182699) merged on March 4, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/182699) over 1 week, 230 additions and 182 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
-
-* **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add Michal Kucharski to AUTHORS<br />
-  <sub>[#182366](https://github.com/flutter/flutter/pull/182366) merged on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182366) over 2 weeks, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await to flutter_test callsites<br />
-  <sub>[#182983](https://github.com/flutter/flutter/pull/182983) merged on March 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/182983) over 6 days, 21 additions and 13 deletions in 12 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add information to issue triage page<br />
-  <sub>[#182145](https://github.com/flutter/flutter/pull/182145) merged on March 2, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182145) over 2 weeks, 30 additions and 14 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix docs on SingletonFlutterWindow.supportsShowingSystemContextMenu<br />
-  <sub>[#183142](https://github.com/flutter/flutter/pull/183142) merged on March 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183142) over 1 day, 4 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; [rules] Fix a few issues in the full-length rules file<br />
-  <sub>[#182725](https://github.com/flutter/flutter/pull/182725) merged on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/182725) over 1 week, 22 additions and 33 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
-
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: convert android_verified_input to pub-workspace<br />
-  <sub>[#183175](https://github.com/flutter/flutter/pull/183175) merged on March 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183175) over 1 day, 60 additions and 57 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix: bump matcher<br />
-  <sub>[#183167](https://github.com/flutter/flutter/pull/183167) merged on March 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183167) over 54 minutes, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll RapidJSON to a branch based on the current upstream head<br />
-  <sub>[#183048](https://github.com/flutter/flutter/pull/183048) merged on March 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183048) over 3 days, 28 additions and 59 deletions in 14 files</sub><br />
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Extend the Linux web_skwasm_tests_1 timeout to 45 minutes<br />
-  <sub>[#183247](https://github.com/flutter/flutter/pull/183247) merged on March 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183247) over 22 hours, 4 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Update comments to reflect new info about 2-pass rendering<br />
-  <sub>[#183050](https://github.com/flutter/flutter/pull/183050) merged on March 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183050) over 3 days, 64 additions and 21 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-specify the ndk version in various test apps, to prevent ndk download<br />
-  <sub>[#183134](https://github.com/flutter/flutter/pull/183134) merged on March 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183134) over 2 days, 37 additions and 4 deletions in 35 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add dev/benchmarks/README.md<br />
-  <sub>[#182976](https://github.com/flutter/flutter/pull/182976) merged on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/182976) over 5 days, 10 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
-
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]uitest for admob banner in scrollable list gesture issue<br />
-  <sub>[#183128](https://github.com/flutter/flutter/pull/183128) merged on March 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183128) over 1 day, 232 additions and 38 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add back in accidentally removed line from `create_updated_flutter_deps.py`<br />
-  <sub>[#183314](https://github.com/flutter/flutter/pull/183314) merged on March 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183314) over 2 hours, 3 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Aprelev](https://github.com/aam), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use isA to test for exceptions<br />
-  <sub>[#183129](https://github.com/flutter/flutter/pull/183129) merged on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183129) over 4 hours, 19 additions and 13 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add fallbackColor for PredictiveBackPageTransitionBuilder and PredictiveBackFullscreenPageTransitionBuilder<br />
-  <sub>[#182690](https://github.com/flutter/flutter/pull/182690) merged on March 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/182690) over 1 week, 123 additions and 16 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
-* **[b-luk](https://github.com/b-luk)** &mdash; Simplify TesterContextGLES (multithreading logic not needed), and enable some tests that now pass<br />
-  <sub>[#183250](https://github.com/flutter/flutter/pull/183250) merged on March 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183250) over 23 hours, 8 additions and 54 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Update Dart to 3.12 beta 2<br />
-  <sub>[#183251](https://github.com/flutter/flutter/pull/183251) merged on March 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183251) over 19 hours, 9 additions and 9 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
-
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [workflow] Update the changelog merge action to fetch the stable branch<br />
-  <sub>[#183132](https://github.com/flutter/flutter/pull/183132) merged on March 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183132) over 50 minutes, 10 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.41.3.<br />
-  <sub>[#183131](https://github.com/flutter/flutter/pull/183131) merged on March 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183131) over 1 hour, 5 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[GyuBin Hwang](https://github.com/SpiralMomentum)** &mdash; Make TextDecoration final and unify maskValue across platforms<br />
-  <sub>[#183070](https://github.com/flutter/flutter/pull/183070) merged on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183070) over 2 days, 32 additions and 2 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.41.4 stable.<br />
-  <sub>[#183243](https://github.com/flutter/flutter/pull/183243) merged on March 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183243) over 39 minutes, 6 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Pass --web-define through to web runner when using --machine mode<br />
-  <sub>[#183228](https://github.com/flutter/flutter/pull/183228) merged on March 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183228) over 4 hours, 55 additions and 0 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Roll Chrome to 145<br />
-  <sub>[#182860](https://github.com/flutter/flutter/pull/182860) merged on March 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182860) over 5 days, 9 additions and 7 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
-
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [doc]add discord channel to ios triage meeting<br />
-  <sub>[#183285](https://github.com/flutter/flutter/pull/183285) merged on March 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183285) over 1 day, 2 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Revert "Make HCPP upgrading work for vd/tlhc (#181024)"<br />
-  <sub>[#183310](https://github.com/flutter/flutter/pull/183310) merged on March 6, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/183310) over 4 hours, 31 additions and 336 deletions in 12 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
-</details>
-
-### February 21, 2026 to February 27, 2026
-
-<details>
-<summary>6 commits...</summary>
-
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [framework] Fix Text.semanticsIdentifier being absorbed by ancestor nodes<br />
-  <sub>[#181795](https://github.com/flutter/flutter/pull/181795) merged on February 28, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/181795) over 3 weeks, 76 additions and 1 deletion in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] in calendar date picker, remove SemanticsService.sendAnnouncement usage for android. <br />
-  <sub>[#182918](https://github.com/flutter/flutter/pull/182918) merged on February 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/182918) over 2 days, 263 additions and 14 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] For Android hardware buffers on Vulkan, use an alpha value of 1 if the buffer format always has opaque alpha<br />
-  <sub>[#182974](https://github.com/flutter/flutter/pull/182974) merged on February 28, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/182974) over 1 day, 218 additions and 135 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add desktop review teams<br />
-  <sub>[#182972](https://github.com/flutter/flutter/pull/182972) merged on February 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182972) over 1 day, 47 additions and 0 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
-
-* **[Nick Fisher](https://github.com/nmfisher)** &mdash; Update fl_texture_gl.h<br />
-  <sub>[#182999](https://github.com/flutter/flutter/pull/182999) merged on March 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182999) over 2 days, 0 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Timeout when waiting for the correct sized frame from Flutter.<br />
-  <sub>[#182971](https://github.com/flutter/flutter/pull/182971) merged on March 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182971) over 2 days, 41 additions and 8 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 </details>
 
@@ -920,88 +662,6 @@
 
 </details>
 
-### February 28, 2026 to March 6, 2026
-
-<details>
-<summary>16 commits...</summary>
-
-* **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter] Add Advanced Markers support<br />
-  <sub>[#7882](https://github.com/flutter/packages/pull/7882) merged on March 6, 2026 &mdash; **Extra large:** [204 comments](https://github.com/flutter/packages/pull/7882) over 16 months, 1486 additions and 63 deletions in 19 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [David Iglesias](https://github.com/ditman), [Camille Simon](https://github.com/camsim99), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
-* **[coderyes](https://github.com/linchen00)** &mdash; [in_app_purchase]Fixes StoreKit 2 purchase flow to send cancelled/pending/unverified results to purchaseStream.<br />
-  <sub>[#10736](https://github.com/flutter/packages/pull/10736) merged on March 6, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/packages/pull/10736) over 1 month, 468 additions and 227 deletions in 11 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
-
-* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter_ios] Add Advanced marker support<br />
-  <sub>[#10508](https://github.com/flutter/packages/pull/10508) merged on March 5, 2026 &mdash; **Extra large:** [49 comments](https://github.com/flutter/packages/pull/10508) over 3 months, 10395 additions and 1571 deletions in 117 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Allow usage of all use cases concurrently<br />
-  <sub>[#10732](https://github.com/flutter/packages/pull/10732) merged on March 3, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/10732) over 1 month, 24 additions and 628 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
-
-* **[Lorenzo Croce](https://github.com/Fireentity)** &mdash; [tool] Add check for blank lines in CHANGELOG lists<br />
-  <sub>[#10346](https://github.com/flutter/packages/pull/10346) merged on March 5, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/packages/pull/10346) over 4 months, 118 additions and 7 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
-
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [camera_avfoundation] Fixes crash when using ResolutionPreset.max with iPhone 17<br />
-  <sub>[#11106](https://github.com/flutter/packages/pull/11106) merged on March 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11106) over 1 week, 99 additions and 7 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Updated AGP and KGP to align with flutter/flutter templates<br />
-  <sub>[#10423](https://github.com/flutter/packages/pull/10423) merged on March 6, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/10423) over 3 months, 111 additions and 111 deletions in 41 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
-* **[androidseb](https://github.com/androidseb)** &mdash; [flutter_svg] Update README with an example to scale images<br />
-  <sub>[#10547](https://github.com/flutter/packages/pull/10547) merged on March 6, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/10547) over 3 months, 9 additions and 2 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Add initial non-plugin package support for Kotlin Gradle<br />
-  <sub>[#11127](https://github.com/flutter/packages/pull/11127) merged on March 3, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/11127) over 5 days, 778 additions and 228 deletions in 13 files</sub><br />
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Stop display link on dispose<br />
-  <sub>[#11118](https://github.com/flutter/packages/pull/11118) merged on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11118) over 5 days, 29 additions and 1 deletion in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Switch Indent class to manage all writes with a StringBuffer<br />
-  <sub>[#11133](https://github.com/flutter/packages/pull/11133) merged on March 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11133) over 3 days, 55 additions and 46 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Plugin Gradle pre-Kotlin standardization<br />
-  <sub>[#11173](https://github.com/flutter/packages/pull/11173) merged on March 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11173) over 3 days, 124 additions and 114 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Many] Remove network policy from metadata<br />
-  <sub>[#11165](https://github.com/flutter/packages/pull/11165) merged on March 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11165) over 17 hours, 0 additions and 15 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Espresso] remove metadata network policy<br />
-  <sub>[#11164](https://github.com/flutter/packages/pull/11164) merged on March 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11164) over 17 hours, 8 additions and 15 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
-
-* **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
-  <sub>[#11134](https://github.com/flutter/packages/pull/11134) merged on March 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11134) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Marcin Chudy](https://github.com/mchudy), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
-
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 90673a4eef27 to ff37bef60346 (13 revisions)<br />
-  <sub>[#11180](https://github.com/flutter/packages/pull/11180) merged on March 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11180) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-</details>
-
-### February 21, 2026 to February 27, 2026
-
-<details>
-<summary>1 commits...</summary>
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Reduce reply-handling duplication in generated Dart code.<br />
-  <sub>[#11114](https://github.com/flutter/packages/pull/11114) merged on February 28, 2026 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/11114) over 3 days, 2237 additions and 3809 deletions in 16 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
-
-</details>
-
 ## flutter/website
 
 ### March 14, 2026 to March 20, 2026
@@ -1122,98 +782,15 @@
 ### February 28, 2026 to March 6, 2026
 
 <details>
-<summary>20 commits...</summary>
-
-* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples<br />
-  <sub>[#13140](https://github.com/flutter/website/pull/13140) merged on March 4, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/13140) over 16 hours, 1612 additions and 39 deletions in 39 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Deprecate TextInputConnection.setStyle<br />
-  <sub>[#13016](https://github.com/flutter/website/pull/13016) merged on March 3, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/13016) over 4 weeks, 77 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Some reformatting and add info on temporarily disabling UIScene<br />
-  <sub>[#13095](https://github.com/flutter/website/pull/13095) merged on March 4, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/13095) over 1 week, 101 additions and 80 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan), [Parker Lougheed](https://github.com/parlough)</sub><br />
-
-* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Docs: Add manual plugin linking instructions for SPM<br />
-  <sub>[#12979](https://github.com/flutter/website/pull/12979) merged on March 4, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/12979) over 1 month, 83 additions and 2 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
-* **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Adjust caution note for `firebase_options.dart`<br />
-  <sub>[#12995](https://github.com/flutter/website/pull/12995) merged on March 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/12995) over 1 month, 15 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+<summary>2 commits...</summary>
 
 * **[luo2430](https://github.com/luo2430)** &mdash; Fix integration_test command syntax in documentation<br />
   <sub>[#13135](https://github.com/flutter/website/pull/13135) merged on March 7, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13135) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
-* **[sheepmomodld](https://github.com/sheepmomodld)** &mdash; Deleted duplicted "Learned about common layout issues" in Review.<br />
-  <sub>[#13136](https://github.com/flutter/website/pull/13136) merged on March 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13136) over 25 minutes, 0 additions and 8 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for ListTile color warning<br />
-  <sub>[#13131](https://github.com/flutter/website/pull/13131) merged on March 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13131) over 2 hours, 117 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Some initial fixes after first set of FWE excerpts<br />
   <sub>[#13150](https://github.com/flutter/website/pull/13150) merged on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13150) over 1 day, 10 additions and 53 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Add System UI design doc<br />
-  <sub>[#13143](https://github.com/flutter/website/pull/13143) merged on March 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13143) over 51 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Wrap widget names at camel case boundaries<br />
-  <sub>[#13142](https://github.com/flutter/website/pull/13142) merged on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13142) over 5 hours, 52 additions and 26 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update title for Flutter setup documentation<br />
-  <sub>[#13120](https://github.com/flutter/website/pull/13120) merged on March 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13120) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding Firebase AI Logic showcase to list of examples<br />
-  <sub>[#13149](https://github.com/flutter/website/pull/13149) merged on March 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13149) over 23 hours, 3 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Amanda Fitch](https://github.com/antfitch), [Connie Ooi ](https://github.com/conooi)</sub><br />
-
-* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; docs: update favorites list by adding Abdallah Shaban and removing Ander Dobo<br />
-  <sub>[#13153](https://github.com/flutter/website/pull/13153) merged on March 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13153) over 20 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch)</sub><br />
-
-* **[Adarsh B](https://github.com/AdarshBaddies)** &mdash; feat: shuffle tutorial quiz options to remove positional bias<br />
-  <sub>[#13141](https://github.com/flutter/website/pull/13141) merged on March 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13141) over 1 day, 2 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Remove documentation about metadata<br />
-  <sub>[#13133](https://github.com/flutter/website/pull/13133) merged on March 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13133) over 1 day, 11 additions and 36 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix #13102: clarify Linux build prerequisite structure<br />
-  <sub>[#13132](https://github.com/flutter/website/pull/13132) merged on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13132) over 19 minutes, 5 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
-
-* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Move AI in sidenav<br />
-  <sub>[#13130](https://github.com/flutter/website/pull/13130) merged on March 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13130) over 1 hour, 57 additions and 55 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch)</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Adds go link for dependency package hosting design doc<br />
-  <sub>[#13129](https://github.com/flutter/website/pull/13129) merged on March 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13129) over 55 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Design Doc: Decoupling Menu State from Presentation<br />
-  <sub>[#13127](https://github.com/flutter/website/pull/13127) merged on March 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13127) over 5 hours, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-</details>
-
-### February 21, 2026 to February 27, 2026
-
-<details>
-<summary>1 commits...</summary>
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Flutter iOS role application link<br />
-  <sub>[#13121](https://github.com/flutter/website/pull/13121) merged on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13121) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 </details>
 

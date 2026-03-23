@@ -116,9 +116,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn about slow SwiftPM downloads and centralize SwiftPM cache<br />
   <sub>[#183747](https://github.com/flutter/flutter/pull/183747) opened on on March 16, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183747) 831 additions and 47 deletions in 24 files</sub><br />
 
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the windowing docs per the latest wording found while doing Satellites<br />
-  <sub>[#183748](https://github.com/flutter/flutter/pull/183748) opened on on March 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183748) 24 additions and 5 deletions in 1 file</sub><br />
-
 * **[Rav-xyl](https://github.com/Rav-xyl)** &mdash; fix(flutter_tools): validate positional arguments in downgrade command<br />
   <sub>[#183793](https://github.com/flutter/flutter/pull/183793) opened on on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183793) 32 additions and 0 deletions in 2 files</sub><br />
 
