@@ -126,7 +126,7 @@
   <sub>[#183822](https://github.com/flutter/flutter/pull/183822) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183822) 8 additions and 6 deletions in 1 file</sub><br />
 
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
-  <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183838) 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183838) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Implement images for wimp.<br />
   <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183913) 635 additions and 274 deletions in 27 files</sub><br />
