@@ -165,5 +165,5 @@
   <sub>[#184023](https://github.com/flutter/flutter/pull/184023) opened on on March 23, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/184023) 369 additions and 48 deletions in 3 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add a semantics role for slider <br />
-  <sub>[#184029](https://github.com/flutter/flutter/pull/184029) opened on on March 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184029) 212 additions and 2 deletions in 8 files</sub><br />
+  <sub>[#184029](https://github.com/flutter/flutter/pull/184029) opened on on March 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/184029) 347 additions and 8 deletions in 12 files</sub><br />
 
