@@ -75,7 +75,7 @@
   <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
-  <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: show window after first frame callback<br />
   <sub>[#183454](https://github.com/flutter/flutter/pull/183454) opened on on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183454) 147 additions and 8 deletions in 4 files</sub><br />
@@ -87,10 +87,10 @@
   <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183466) 11 additions and 11 deletions in 5 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid attaching LLDB to app extensions<br />
-  <sub>[#183619](https://github.com/flutter/flutter/pull/183619) opened on on March 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183619) 138 additions and 19 deletions in 2 files</sub><br />
+  <sub>[#183619](https://github.com/flutter/flutter/pull/183619) opened on on March 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183619) 138 additions and 19 deletions in 2 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Keep multiline CupertinoTextField placeholders in bounds<br />
-  <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/183657) 547 additions and 105 deletions in 4 files</sub><br />
@@ -99,10 +99,10 @@
   <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/183668) 224 additions and 149 deletions in 8 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
-  <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid unnecessary xattr deletes on iOS outputs<br />
-  <sub>[#183691](https://github.com/flutter/flutter/pull/183691) opened on on March 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183691) 243 additions and 13 deletions in 6 files</sub><br />
+  <sub>[#183691](https://github.com/flutter/flutter/pull/183691) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183691) 243 additions and 13 deletions in 6 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `MediaQuery` documentation<br />
   <sub>[#183702](https://github.com/flutter/flutter/pull/183702) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183702) 20 additions and 31 deletions in 1 file</sub><br />
@@ -129,19 +129,16 @@
   <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183913) 635 additions and 274 deletions in 27 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Respect tooltip hover delay when moving between targets<br />
-  <sub>[#183914](https://github.com/flutter/flutter/pull/183914) opened on on March 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183914) 10 additions and 6 deletions in 2 files</sub><br />
-
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Clarify contributor access wording shown as Write in GitHub<br />
-  <sub>[#183917](https://github.com/flutter/flutter/pull/183917) opened on on March 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183917) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#183914](https://github.com/flutter/flutter/pull/183914) opened on on March 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183914) 10 additions and 6 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_goldens] Remove dead check on null being in a list of non-nullables<br />
   <sub>[#183938](https://github.com/flutter/flutter/pull/183938) opened on on March 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183938) 0 additions and 18 deletions in 1 file</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Mark RenderParagraph layout dirty when textAlign changes<br />
-  <sub>[#183942](https://github.com/flutter/flutter/pull/183942) opened on on March 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183942) 4 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#183942](https://github.com/flutter/flutter/pull/183942) opened on on March 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183942) 4 additions and 5 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Refactor: Removes Geometry field from ColorSourceContents<br />
-  <sub>[#183952](https://github.com/flutter/flutter/pull/183952) opened on on March 20, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/183952) 237 additions and 223 deletions in 28 files</sub><br />
+  <sub>[#183952](https://github.com/flutter/flutter/pull/183952) opened on on March 20, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/183952) 237 additions and 220 deletions in 28 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools<br />
   <sub>[#183971](https://github.com/flutter/flutter/pull/183971) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183971) 21 additions and 22 deletions in 14 files</sub><br />
@@ -159,7 +156,7 @@
   <sub>[#183983](https://github.com/flutter/flutter/pull/183983) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183983) 15 additions and 14 deletions in 1 file</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Skip SwiftPM plugin schemes during flutter clean<br />
-  <sub>[#183985](https://github.com/flutter/flutter/pull/183985) opened on on March 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183985) 64 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#183985](https://github.com/flutter/flutter/pull/183985) opened on on March 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183985) 64 additions and 1 deletion in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Improve context initialization error messages<br />
   <sub>[#183986](https://github.com/flutter/flutter/pull/183986) opened on on March 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183986) 69 additions and 14 deletions in 4 files</sub><br />
@@ -174,11 +171,8 @@
   <sub>[#183996](https://github.com/flutter/flutter/pull/183996) opened on on March 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183996) 34 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Fix Autocomplete Tab focus traversal with disabled fields<br />
-  <sub>[#184000](https://github.com/flutter/flutter/pull/184000) opened on on March 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184000) 68 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#184000](https://github.com/flutter/flutter/pull/184000) opened on on March 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184000) 68 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Use Color.a instead of Color.alpha to assert the opacity of the color…<br />
   <sub>[#184003](https://github.com/flutter/flutter/pull/184003) opened on on March 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184003) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Replace deprecated Color.alpha usage in Title<br />
-  <sub>[#184015](https://github.com/flutter/flutter/pull/184015) opened on on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184015) 4 additions and 4 deletions in 2 files</sub><br />
 
