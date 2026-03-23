@@ -116,9 +116,6 @@
 * **[Rav-xyl](https://github.com/Rav-xyl)** &mdash; fix(flutter_tools): validate positional arguments in downgrade command<br />
   <sub>[#183793](https://github.com/flutter/flutter/pull/183793) opened on on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183793) 32 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Add note about gclient sync network failures and workaround<br />
-  <sub>[#183794](https://github.com/flutter/flutter/pull/183794) opened on on March 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183794) 21 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix RenderStack's documentation<br />
   <sub>[#183822](https://github.com/flutter/flutter/pull/183822) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183822) 8 additions and 6 deletions in 1 file</sub><br />
 
@@ -155,9 +152,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Skip SwiftPM plugin schemes during flutter clean<br />
   <sub>[#183985](https://github.com/flutter/flutter/pull/183985) opened on on March 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183985) 64 additions and 1 deletion in 2 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Improve context initialization error messages<br />
-  <sub>[#183986](https://github.com/flutter/flutter/pull/183986) opened on on March 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183986) 69 additions and 14 deletions in 4 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Seal the geometry classes<br />
   <sub>[#183988](https://github.com/flutter/flutter/pull/183988) opened on on March 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183988) 3 additions and 3 deletions in 3 files</sub><br />
 
@@ -172,4 +166,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Use Color.a instead of Color.alpha to assert the opacity of the color…<br />
   <sub>[#184003](https://github.com/flutter/flutter/pull/184003) opened on on March 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184003) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Naman Goyal](https://github.com/NamanGoyalK)** &mdash; Tool: Add search and filtering to widget preview scaffold<br />
+  <sub>[#184023](https://github.com/flutter/flutter/pull/184023) opened on on March 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/184023) 343 additions and 48 deletions in 3 files</sub><br />
 
