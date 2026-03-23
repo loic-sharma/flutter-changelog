@@ -165,5 +165,8 @@
   <sub>[#184029](https://github.com/flutter/flutter/pull/184029) opened on on March 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/184029) 347 additions and 8 deletions in 12 files</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Fix incorrect scrolling handling in RefreshIndicator<br />
-  <sub>[#184039](https://github.com/flutter/flutter/pull/184039) opened on on March 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184039) 194 additions and 87 deletions in 1 file</sub><br />
+  <sub>[#184039](https://github.com/flutter/flutter/pull/184039) opened on on March 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184039) 194 additions and 87 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add some extra slack room for stroked and filled circles that use the SDF shader<br />
+  <sub>[#184040](https://github.com/flutter/flutter/pull/184040) opened on on March 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184040) 127 additions and 94 deletions in 13 files</sub><br />
 
