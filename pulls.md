@@ -179,3 +179,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Use Color.a instead of Color.alpha to assert the opacity of the color…<br />
   <sub>[#184003](https://github.com/flutter/flutter/pull/184003) opened on on March 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184003) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Replace deprecated Color.alpha usage in Title<br />
+  <sub>[#184015](https://github.com/flutter/flutter/pull/184015) opened on on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184015) 4 additions and 4 deletions in 2 files</sub><br />
+
