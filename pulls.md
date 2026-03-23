@@ -35,6 +35,9 @@
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
 
+* **[Mert](https://github.com/mertalev)** &mdash; feat: add `Image.fromTextureId()` for zero-copy image creation from platform textures<br />
+  <sub>[#181136](https://github.com/flutter/flutter/pull/181136) opened on on January 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181136) 248 additions and 1 deletion in 14 files</sub><br />
+
 * **[Aman Kumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -165,7 +168,7 @@
   <sub>[#184029](https://github.com/flutter/flutter/pull/184029) opened on on March 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/184029) 347 additions and 8 deletions in 12 files</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Fix incorrect scrolling handling in RefreshIndicator<br />
-  <sub>[#184039](https://github.com/flutter/flutter/pull/184039) opened on on March 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184039) 194 additions and 87 deletions in 1 file</sub><br />
+  <sub>[#184039](https://github.com/flutter/flutter/pull/184039) opened on on March 23, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/184039) 244 additions and 87 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add some extra slack room for stroked and filled circles that use the SDF shader<br />
   <sub>[#184040](https://github.com/flutter/flutter/pull/184040) opened on on March 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184040) 127 additions and 94 deletions in 13 files</sub><br />
