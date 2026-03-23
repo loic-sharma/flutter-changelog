@@ -69,7 +69,7 @@
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Refactor RefreshIndicator scroll handling and arm/disarm logic<br />
-  <sub>[#183282](https://github.com/flutter/flutter/pull/183282) opened on on March 5, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/183282) 472 additions and 91 deletions in 2 files</sub><br />
+  <sub>[#183282](https://github.com/flutter/flutter/pull/183282) opened on on March 5, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/183282) 472 additions and 91 deletions in 2 files</sub><br />
 
 * **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; Fix whitespace in the windows Flutter tool console output<br />
   <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
@@ -142,9 +142,6 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools<br />
   <sub>[#183971](https://github.com/flutter/flutter/pull/183971) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183971) 21 additions and 22 deletions in 14 files</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add widget of the week link in SensitiveContent documentation<br />
-  <sub>[#183972](https://github.com/flutter/flutter/pull/183972) opened on on March 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183972) 19 additions and 17 deletions in 1 file</sub><br />
 
 * **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Keep ExpansionPanelList dividers when expanded with 0 gap and elevation<br />
   <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183975) 69 additions and 2 deletions in 2 files</sub><br />
