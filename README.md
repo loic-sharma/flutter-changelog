@@ -4,12 +4,16 @@
 
 ### March 21, 2026 to March 27, 2026
 
-6 commits.
+7 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Ben Konyi](https://github.com/bkonyi)</sub><br />
   <sub><details><summary>2 images...</summary><img width="799" height="716" alt="image" src="https://github.com/user-attachments/assets/f479b1b4-bb2b-4c90-bec4-125fba805270" /><img width="886" height="747" alt="image" src="https://github.com/user-attachments/assets/99e08a23-df7f-4aa3-8945-40bc1be13e4a" /></details></sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: deflake Linux_android_emu android_display_cutout<br />
+  <sub>[#183522](https://github.com/flutter/flutter/pull/183522) merged on March 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183522) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [android][a11y] set "android.widget.ProgressBar" according to semantics role<br />
   <sub>[#183897](https://github.com/flutter/flutter/pull/183897) merged on March 23, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/183897) over 3 days, 254 additions and 1 deletion in 5 files</sub><br />
