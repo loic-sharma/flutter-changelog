@@ -165,7 +165,10 @@
   <sub>[#184023](https://github.com/flutter/flutter/pull/184023) opened on on March 23, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/184023) 369 additions and 48 deletions in 3 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add a semantics role for slider <br />
-  <sub>[#184029](https://github.com/flutter/flutter/pull/184029) opened on on March 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/184029) 347 additions and 8 deletions in 12 files</sub><br />
+  <sub>[#184029](https://github.com/flutter/flutter/pull/184029) opened on on March 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/184029) 347 additions and 8 deletions in 12 files</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix selecting backwards when involving widget spans<br />
+  <sub>[#184031](https://github.com/flutter/flutter/pull/184031) opened on on March 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184031) 103 additions and 3 deletions in 2 files</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Fix incorrect scrolling handling in RefreshIndicator<br />
   <sub>[#184039](https://github.com/flutter/flutter/pull/184039) opened on on March 23, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/184039) 244 additions and 87 deletions in 2 files</sub><br />
