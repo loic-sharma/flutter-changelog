@@ -68,9 +68,6 @@
 * **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
 
-* **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Refactor RefreshIndicator scroll handling and arm/disarm logic<br />
-  <sub>[#183282](https://github.com/flutter/flutter/pull/183282) opened on on March 5, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/183282) 472 additions and 91 deletions in 2 files</sub><br />
-
 * **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; Fix whitespace in the windows Flutter tool console output<br />
   <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
 
@@ -133,9 +130,6 @@
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Mark RenderParagraph layout dirty when textAlign changes<br />
   <sub>[#183942](https://github.com/flutter/flutter/pull/183942) opened on on March 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183942) 4 additions and 5 deletions in 2 files</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Refactor: Removes Geometry field from ColorSourceContents<br />
-  <sub>[#183952](https://github.com/flutter/flutter/pull/183952) opened on on March 20, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/183952) 237 additions and 220 deletions in 28 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools<br />
   <sub>[#183971](https://github.com/flutter/flutter/pull/183971) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183971) 21 additions and 22 deletions in 14 files</sub><br />
