@@ -60,7 +60,7 @@
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183063) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Use a super-parameter in several missed cases<br />
-  <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
+  <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
 
 * **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183180) 37 additions and 0 deletions in 5 files</sub><br />
@@ -96,7 +96,7 @@
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/183657) 547 additions and 105 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
-  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/183668) 224 additions and 149 deletions in 8 files</sub><br />
+  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183668) 619 additions and 162 deletions in 12 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
@@ -168,5 +168,5 @@
   <sub>[#184003](https://github.com/flutter/flutter/pull/184003) opened on on March 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184003) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Naman Goyal](https://github.com/NamanGoyalK)** &mdash; Tool: Add search and filtering to widget preview scaffold<br />
-  <sub>[#184023](https://github.com/flutter/flutter/pull/184023) opened on on March 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/184023) 343 additions and 48 deletions in 3 files</sub><br />
+  <sub>[#184023](https://github.com/flutter/flutter/pull/184023) opened on on March 23, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/184023) 369 additions and 48 deletions in 3 files</sub><br />
 
