@@ -36,7 +36,7 @@
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
 
 * **[Aman Kumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
-  <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Apply workaround for generating gradle lock files in hybrid_android_views<br />
   <sub>[#181650](https://github.com/flutter/flutter/pull/181650) opened on on January 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181650) 5 additions and 4 deletions in 1 file</sub><br />
@@ -52,9 +52,6 @@
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
   <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
-
-* **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS<br />
-  <sub>[#182997](https://github.com/flutter/flutter/pull/182997) opened on on February 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/182997) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix wording and suggest GitHub Gist for sharing large logs<br />
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183063) 0 additions and 0 deletions in 0 files</sub><br />
@@ -166,4 +163,7 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add a semantics role for slider <br />
   <sub>[#184029](https://github.com/flutter/flutter/pull/184029) opened on on March 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/184029) 347 additions and 8 deletions in 12 files</sub><br />
+
+* **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Fix incorrect scrolling handling in RefreshIndicator<br />
+  <sub>[#184039](https://github.com/flutter/flutter/pull/184039) opened on on March 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184039) 194 additions and 87 deletions in 1 file</sub><br />
 
