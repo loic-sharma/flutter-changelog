@@ -143,9 +143,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Mark RenderParagraph layout dirty when textAlign changes<br />
   <sub>[#183942](https://github.com/flutter/flutter/pull/183942) opened on on March 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183942) 4 additions and 5 deletions in 2 files</sub><br />
 
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Guard daemon input parser against malformed JSON lines<br />
-  <sub>[#183968](https://github.com/flutter/flutter/pull/183968) opened on on March 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183968) 33 additions and 10 deletions in 2 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools<br />
   <sub>[#183971](https://github.com/flutter/flutter/pull/183971) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183971) 21 additions and 22 deletions in 14 files</sub><br />
 
@@ -157,9 +154,6 @@
 
 * **[Runrioter Wung](https://github.com/Runrioter)** &mdash; feat: make adding the `bin` directory to the system PATH optional<br />
   <sub>[#183976](https://github.com/flutter/flutter/pull/183976) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183976) 15 additions and 1 deletion in 2 files</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add windows instruction to `Forcing Flutter Tools Snapshot Regeneration`<br />
-  <sub>[#183977](https://github.com/flutter/flutter/pull/183977) opened on on March 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183977) 16 additions and 5 deletions in 1 file</sub><br />
 
 * **[ad-angelo](https://github.com/ad-angelo)** &mdash; Update Xcode supported languages instructions<br />
   <sub>[#183983](https://github.com/flutter/flutter/pull/183983) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183983) 15 additions and 14 deletions in 1 file</sub><br />
@@ -183,5 +177,5 @@
   <sub>[#184000](https://github.com/flutter/flutter/pull/184000) opened on on March 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184000) 68 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Use Color.a instead of Color.alpha to assert the opacity of the color…<br />
-  <sub>[#184003](https://github.com/flutter/flutter/pull/184003) opened on on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184003) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#184003](https://github.com/flutter/flutter/pull/184003) opened on on March 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184003) 1 addition and 1 deletion in 1 file</sub><br />
 
