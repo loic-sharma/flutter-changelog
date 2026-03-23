@@ -113,9 +113,6 @@
 * **[futpib](https://github.com/futpib)** &mdash; Add lint rule for debug-only RenderObject getters<br />
   <sub>[#183706](https://github.com/flutter/flutter/pull/183706) opened on on March 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183706) 255 additions and 3 deletions in 6 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn about slow SwiftPM downloads and centralize SwiftPM cache<br />
-  <sub>[#183747](https://github.com/flutter/flutter/pull/183747) opened on on March 16, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183747) 841 additions and 47 deletions in 24 files</sub><br />
-
 * **[Rav-xyl](https://github.com/Rav-xyl)** &mdash; fix(flutter_tools): validate positional arguments in downgrade command<br />
   <sub>[#183793](https://github.com/flutter/flutter/pull/183793) opened on on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183793) 32 additions and 0 deletions in 2 files</sub><br />
 
@@ -142,6 +139,9 @@
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Mark RenderParagraph layout dirty when textAlign changes<br />
   <sub>[#183942](https://github.com/flutter/flutter/pull/183942) opened on on March 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183942) 4 additions and 5 deletions in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Refactor: Removes Geometry field from ColorSourceContents<br />
+  <sub>[#183952](https://github.com/flutter/flutter/pull/183952) opened on on March 20, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/183952) 237 additions and 223 deletions in 28 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools<br />
   <sub>[#183971](https://github.com/flutter/flutter/pull/183971) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183971) 21 additions and 22 deletions in 14 files</sub><br />
