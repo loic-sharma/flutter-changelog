@@ -114,7 +114,7 @@
   <sub>[#183706](https://github.com/flutter/flutter/pull/183706) opened on on March 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183706) 255 additions and 3 deletions in 6 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn about slow SwiftPM downloads and centralize SwiftPM cache<br />
-  <sub>[#183747](https://github.com/flutter/flutter/pull/183747) opened on on March 16, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183747) 831 additions and 47 deletions in 24 files</sub><br />
+  <sub>[#183747](https://github.com/flutter/flutter/pull/183747) opened on on March 16, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183747) 841 additions and 47 deletions in 24 files</sub><br />
 
 * **[Rav-xyl](https://github.com/Rav-xyl)** &mdash; fix(flutter_tools): validate positional arguments in downgrade command<br />
   <sub>[#183793](https://github.com/flutter/flutter/pull/183793) opened on on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183793) 32 additions and 0 deletions in 2 files</sub><br />

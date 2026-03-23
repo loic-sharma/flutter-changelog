@@ -4,7 +4,11 @@
 
 ### March 21, 2026 to March 27, 2026
 
-1 commits.
+2 commits.
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add windows instruction to `Forcing Flutter Tools Snapshot Regeneration`<br />
+  <sub>[#183977](https://github.com/flutter/flutter/pull/183977) merged on March 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183977) over 2 days, 16 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the windowing docs per the latest wording found while doing Satellites<br />
   <sub>[#183748](https://github.com/flutter/flutter/pull/183748) merged on March 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183748) over 6 days, 24 additions and 5 deletions in 1 file</sub><br />
