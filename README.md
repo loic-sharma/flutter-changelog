@@ -577,7 +577,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] grants write permission to create branch in remote<br />
-  <sub>[#11269](https://github.com/flutter/packages/pull/11269) merged on March 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11269) over 2 days, 18 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#11269](https://github.com/flutter/packages/pull/11269) merged on March 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11269) over 2 days, 18 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Christoph Deil](https://github.com/cdeil)** &mdash; [camera] Make Optional.of constructor const<br />
