@@ -741,10 +741,18 @@
 
 ### March 21, 2026 to March 27, 2026
 
-6 commits.
+9 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove remaining deprecated cookbook recipe<br />
   <sub>[#13207](https://github.com/flutter/website/pull/13207) merged on March 24, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/13207) over 2 days, 2 additions and 2440 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Albert Wolszon](https://github.com/Albert221)** &mdash; Fix casing of LeanCode brand in docs<br />
+  <sub>[#13195](https://github.com/flutter/website/pull/13195) merged on March 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13195) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove IDX config file<br />
+  <sub>[#13205](https://github.com/flutter/website/pull/13205) merged on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13205) over 2 days, 0 additions and 56 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update gif in parallel scrolling recipe<br />
@@ -761,6 +769,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add Google I/O 2026 registration link to banner<br />
   <sub>[#13215](https://github.com/flutter/website/pull/13215) merged on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13215) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[molulan](https://github.com/molulan)** &mdash; Move section "update your app to include the article view" earlier<br />
+  <sub>[#13199](https://github.com/flutter/website/pull/13199) merged on March 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13199) over 4 days, 23 additions and 23 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Andrew Brogdon](https://github.com/redbrogdon)** &mdash; Add /genui-codelab redirect<br />

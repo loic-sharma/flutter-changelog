@@ -167,9 +167,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds explicit name to the cicd label job.<br />
   <sub>[#184070](https://github.com/flutter/flutter/pull/184070) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184070) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[abdulahad1991](https://github.com/abdulahad1991)** &mdash; fix(web): Add Safari-specific autofill hint mappings for credit card fields<br />
-  <sub>[#184071](https://github.com/flutter/flutter/pull/184071) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184071) 147 additions and 0 deletions in 1 file</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Pipes ScrollCacheExtent through more scroll views<br />
   <sub>[#184078](https://github.com/flutter/flutter/pull/184078) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184078) 173 additions and 3 deletions in 5 files</sub><br />
 
