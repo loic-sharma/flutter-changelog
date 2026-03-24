@@ -730,9 +730,18 @@
 
 ## flutter/website
 
+### March 21, 2026 to March 27, 2026
+
+1 commits.
+
+* **[Andrew Brogdon](https://github.com/redbrogdon)** &mdash; Add /genui-codelab redirect<br />
+  <sub>[#13217](https://github.com/flutter/website/pull/13217) merged on March 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13217) over 5 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 ### March 14, 2026 to March 20, 2026
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Integrate packages from site-shared<br />
   <sub>[#13190](https://github.com/flutter/website/pull/13190) merged on March 21, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/website/pull/13190) over 4 days, 2311 additions and 25 deletions in 36 files</sub><br />
@@ -769,6 +778,8 @@
 * **[Ivone Djaja](https://github.com/IvoneDjaja)** &mdash; Update WebSocket URL<br />
   <sub>[#13183](https://github.com/flutter/website/pull/13183) merged on March 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13183) over 1 day, 3 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### March 7, 2026 to March 13, 2026
 
