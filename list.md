@@ -4,7 +4,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-7 commits.
+8 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub>
@@ -18,6 +18,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [android][a11y] set "android.widget.ProgressBar" according to semantics role
   <sub>[#183897](https://github.com/flutter/flutter/pull/183897) merged on March 23, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/183897) over 3 days, 254 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add scrollPadding property to DropdownMenu
+  <sub>[#183109](https://github.com/flutter/flutter/pull/183109) merged on March 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183109) over 3 weeks, 37 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Add note about gclient sync network failures and workaround
   <sub>[#183794](https://github.com/flutter/flutter/pull/183794) merged on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183794) over 6 days, 21 additions and 0 deletions in 1 file</sub>
