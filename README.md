@@ -4,12 +4,16 @@
 
 ### March 21, 2026 to March 27, 2026
 
-9 commits.
+10 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Ben Konyi](https://github.com/bkonyi)</sub><br />
   <sub><details><summary>2 images...</summary><img width="799" height="716" alt="image" src="https://github.com/user-attachments/assets/f479b1b4-bb2b-4c90-bec4-125fba805270" /><img width="886" height="747" alt="image" src="https://github.com/user-attachments/assets/99e08a23-df7f-4aa3-8945-40bc1be13e4a" /></details></sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Slider] Remove value indicator painter when animation is dismissed<br />
+  <sub>[#182991](https://github.com/flutter/flutter/pull/182991) merged on March 24, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/182991) over 3 weeks, 80 additions and 29 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: deflake Linux_android_emu android_display_cutout<br />
   <sub>[#183522](https://github.com/flutter/flutter/pull/183522) merged on March 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183522) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />
