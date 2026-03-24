@@ -4,7 +4,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-15 commits.
+16 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub>
@@ -51,6 +51,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): use positive logic and platform defaults for accessibility features
   <sub>[#183907](https://github.com/flutter/flutter/pull/183907) merged on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183907) over 3 days, 65 additions and 61 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Michał Kucharski](https://github.com/mkucharski17)** &mdash; Add LeanCode and contributors to AUTHORS
+  <sub>[#182997](https://github.com/flutter/flutter/pull/182997) merged on March 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182997) over 3 weeks, 6 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Use Color.a instead of Color.alpha to assert the opacity of the color…
   <sub>[#184003](https://github.com/flutter/flutter/pull/184003) merged on March 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184003) over 1 day, 1 addition and 1 deletion in 1 file</sub>
