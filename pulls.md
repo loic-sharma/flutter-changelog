@@ -120,7 +120,7 @@
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183838) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Implement images for wimp.<br />
-  <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183913) 668 additions and 300 deletions in 30 files</sub><br />
+  <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183913) 669 additions and 301 deletions in 30 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Respect tooltip hover delay when moving between targets<br />
   <sub>[#183914](https://github.com/flutter/flutter/pull/183914) opened on on March 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183914) 10 additions and 6 deletions in 2 files</sub><br />
@@ -187,4 +187,10 @@
 
 * **[abdulahad1991](https://github.com/abdulahad1991)** &mdash; fix(web): Add Safari-specific autofill hint mappings for credit card fields<br />
   <sub>[#184071](https://github.com/flutter/flutter/pull/184071) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184071) 147 additions and 0 deletions in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Pipes ScrollCacheExtent through more scroll views<br />
+  <sub>[#184078](https://github.com/flutter/flutter/pull/184078) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184078) 173 additions and 3 deletions in 5 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Moves android_semantics_integration_test out of staging<br />
+  <sub>[#184079](https://github.com/flutter/flutter/pull/184079) opened on on March 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184079) 0 additions and 1 deletion in 1 file</sub><br />
 
