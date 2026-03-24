@@ -180,5 +180,8 @@
   <sub>[#184057](https://github.com/flutter/flutter/pull/184057) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184057) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Hamid Shakeri](https://github.com/Hamidrzash)** &mdash; Add scrollPadding property to DropdownMenuFormField<br />
-  <sub>[#184059](https://github.com/flutter/flutter/pull/184059) opened on on March 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184059) 29 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#184059](https://github.com/flutter/flutter/pull/184059) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184059) 29 additions and 0 deletions in 2 files</sub><br />
+
+* **[abdulahad1991](https://github.com/abdulahad1991)** &mdash; Add example app for mustache_template package<br />
+  <sub>[#184061](https://github.com/flutter/flutter/pull/184061) opened on on March 24, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184061) 277 additions and 0 deletions in 4 files</sub><br />
 
