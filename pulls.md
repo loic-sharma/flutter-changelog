@@ -174,7 +174,7 @@
   <sub>[#184051](https://github.com/flutter/flutter/pull/184051) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184051) 34 additions and 13 deletions in 3 files</sub><br />
 
 * **[trizin](https://github.com/trizin)** &mdash; [flutter_tools] Fix arm64e incorrectly matching arm64 in regex check<br />
-  <sub>[#184057](https://github.com/flutter/flutter/pull/184057) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184057) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#184057](https://github.com/flutter/flutter/pull/184057) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184057) 5 additions and 3 deletions in 2 files</sub><br />
 
 * **[Hamid Shakeri](https://github.com/Hamidrzash)** &mdash; Add scrollPadding property to DropdownMenuFormField<br />
   <sub>[#184059](https://github.com/flutter/flutter/pull/184059) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184059) 29 additions and 0 deletions in 2 files</sub><br />
