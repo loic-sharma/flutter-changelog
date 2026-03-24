@@ -4,12 +4,17 @@
 
 ### March 21, 2026 to March 27, 2026
 
-13 commits.
+14 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Ben Konyi](https://github.com/bkonyi)</sub><br />
   <sub><details><summary>2 images...</summary><img width="799" height="716" alt="image" src="https://github.com/user-attachments/assets/f479b1b4-bb2b-4c90-bec4-125fba805270" /><img width="886" height="747" alt="image" src="https://github.com/user-attachments/assets/99e08a23-df7f-4aa3-8945-40bc1be13e4a" /></details></sub>
+
+* **[walley892](https://github.com/walley892)** &mdash; fix gaussian blur getting clipped with negative scale<br />
+  <sub>[#184037](https://github.com/flutter/flutter/pull/184037) merged on March 24, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184037) over 19 hours, 42 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="799" height="626" alt="Screenshot 2026-03-23 at 2 28 06 PM" src="https://github.com/user-attachments/assets/ed26b264-a1b2-481e-aa54-9be6858b35f5" /><img width="799" height="626" alt="Screenshot 2026-03-23 at 2 27 10 PM" src="https://github.com/user-attachments/assets/2f8edf40-e4da-4833-88ca-1ff6180c25ac" /></details></sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Keep glyphs for variable fonts<br />
   <sub>[#183857](https://github.com/flutter/flutter/pull/183857) merged on March 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183857) over 5 days, 21 additions and 12 deletions in 5 files</sub><br />
