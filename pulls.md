@@ -179,3 +179,6 @@
 * **[trizin](https://github.com/trizin)** &mdash; [flutter_tools] Fix arm64e incorrectly matching arm64 in regex check<br />
   <sub>[#184057](https://github.com/flutter/flutter/pull/184057) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184057) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Hamid Shakeri](https://github.com/Hamidrzash)** &mdash; Add scrollPadding property to DropdownMenuFormField<br />
+  <sub>[#184059](https://github.com/flutter/flutter/pull/184059) opened on on March 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184059) 29 additions and 0 deletions in 2 files</sub><br />
+
