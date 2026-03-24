@@ -107,9 +107,6 @@
 * **[Rav-xyl](https://github.com/Rav-xyl)** &mdash; fix(flutter_tools): validate positional arguments in downgrade command<br />
   <sub>[#183793](https://github.com/flutter/flutter/pull/183793) opened on on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183793) 32 additions and 0 deletions in 2 files</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix RenderStack's documentation<br />
-  <sub>[#183822](https://github.com/flutter/flutter/pull/183822) opened on on March 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183822) 9 additions and 7 deletions in 1 file</sub><br />
-
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183838) 3 additions and 3 deletions in 2 files</sub><br />
 
@@ -129,7 +126,7 @@
   <sub>[#183985](https://github.com/flutter/flutter/pull/183985) opened on on March 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183985) 64 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Seal the geometry classes<br />
-  <sub>[#183988](https://github.com/flutter/flutter/pull/183988) opened on on March 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183988) 3 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#183988](https://github.com/flutter/flutter/pull/183988) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183988) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[Muhammad Abdul Rehman](https://github.com/artahir-dev)** &mdash; ci: reduce engine-cp.yml GITHUB_TOKEN permissions from write-all to least privilege<br />
   <sub>[#183994](https://github.com/flutter/flutter/pull/183994) opened on on March 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183994) 3 additions and 2 deletions in 1 file</sub><br />

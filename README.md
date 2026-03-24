@@ -4,7 +4,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-19 commits.
+20 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub><br />
@@ -40,6 +40,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [android][a11y] set "android.widget.ProgressBar" according to semantics role<br />
   <sub>[#183897](https://github.com/flutter/flutter/pull/183897) merged on March 23, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/183897) over 3 days, 254 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix RenderStack's documentation<br />
+  <sub>[#183822](https://github.com/flutter/flutter/pull/183822) merged on March 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183822) over 6 days, 9 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Samuel Abada](https://github.com/Mastersam07)** &mdash; feat: Add --base-href support to flutter run for web<br />
   <sub>[#182709](https://github.com/flutter/flutter/pull/182709) merged on March 24, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/182709) over 1 month, 202 additions and 12 deletions in 7 files</sub><br />
