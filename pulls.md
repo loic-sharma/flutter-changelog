@@ -120,7 +120,7 @@
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183838) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Implement images for wimp.<br />
-  <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183913) 669 additions and 301 deletions in 30 files</sub><br />
+  <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183913) 635 additions and 274 deletions in 27 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Respect tooltip hover delay when moving between targets<br />
   <sub>[#183914](https://github.com/flutter/flutter/pull/183914) opened on on March 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183914) 10 additions and 6 deletions in 2 files</sub><br />
