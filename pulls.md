@@ -116,17 +116,11 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Implement images for wimp.<br />
   <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183913) 635 additions and 274 deletions in 27 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_goldens] Remove dead check on null being in a list of non-nullables<br />
-  <sub>[#183938](https://github.com/flutter/flutter/pull/183938) opened on on March 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183938) 0 additions and 18 deletions in 1 file</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools<br />
   <sub>[#183971](https://github.com/flutter/flutter/pull/183971) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183971) 21 additions and 22 deletions in 14 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Keep ExpansionPanelList dividers when expanded with 0 gap and elevation<br />
   <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183975) 69 additions and 2 deletions in 2 files</sub><br />
-
-* **[Runrioter Wung](https://github.com/Runrioter)** &mdash; feat: make adding the `bin` directory to the system PATH optional<br />
-  <sub>[#183976](https://github.com/flutter/flutter/pull/183976) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183976) 15 additions and 1 deletion in 2 files</sub><br />
 
 * **[ad-angelo](https://github.com/ad-angelo)** &mdash; Update Xcode supported languages instructions<br />
   <sub>[#183983](https://github.com/flutter/flutter/pull/183983) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183983) 15 additions and 14 deletions in 1 file</sub><br />
