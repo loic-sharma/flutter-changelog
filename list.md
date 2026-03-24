@@ -4,7 +4,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-8 commits.
+9 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub>
@@ -38,6 +38,10 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Update the windowing docs per the latest wording found while doing Satellites
   <sub>[#183748](https://github.com/flutter/flutter/pull/183748) merged on March 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183748) over 6 days, 24 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll ICU from 7971660ba630 to ee5f27adc28b (1 revision)
+  <sub>[#184041](https://github.com/flutter/flutter/pull/184041) merged on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184041) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### March 14, 2026 to March 20, 2026
 
