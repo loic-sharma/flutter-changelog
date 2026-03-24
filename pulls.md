@@ -101,14 +101,8 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid unnecessary xattr deletes on iOS outputs<br />
   <sub>[#183691](https://github.com/flutter/flutter/pull/183691) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183691) 243 additions and 13 deletions in 6 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `MediaQuery` documentation<br />
-  <sub>[#183702](https://github.com/flutter/flutter/pull/183702) opened on on March 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183702) 20 additions and 31 deletions in 1 file</sub><br />
-
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Add controller param for caller-managed options<br />
   <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/183705) 274 additions and 30 deletions in 2 files</sub><br />
-
-* **[futpib](https://github.com/futpib)** &mdash; Add lint rule for debug-only RenderObject getters<br />
-  <sub>[#183706](https://github.com/flutter/flutter/pull/183706) opened on on March 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183706) 255 additions and 3 deletions in 6 files</sub><br />
 
 * **[Rav-xyl](https://github.com/Rav-xyl)** &mdash; fix(flutter_tools): validate positional arguments in downgrade command<br />
   <sub>[#183793](https://github.com/flutter/flutter/pull/183793) opened on on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183793) 32 additions and 0 deletions in 2 files</sub><br />
@@ -120,16 +114,10 @@
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183838) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Implement images for wimp.<br />
-  <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/183913) 635 additions and 274 deletions in 27 files</sub><br />
-
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Respect tooltip hover delay when moving between targets<br />
-  <sub>[#183914](https://github.com/flutter/flutter/pull/183914) opened on on March 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183914) 10 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183913) 635 additions and 274 deletions in 27 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_goldens] Remove dead check on null being in a list of non-nullables<br />
   <sub>[#183938](https://github.com/flutter/flutter/pull/183938) opened on on March 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/183938) 0 additions and 18 deletions in 1 file</sub><br />
-
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Mark RenderParagraph layout dirty when textAlign changes<br />
-  <sub>[#183942](https://github.com/flutter/flutter/pull/183942) opened on on March 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183942) 4 additions and 5 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools<br />
   <sub>[#183971](https://github.com/flutter/flutter/pull/183971) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183971) 21 additions and 22 deletions in 14 files</sub><br />
@@ -153,7 +141,7 @@
   <sub>[#183994](https://github.com/flutter/flutter/pull/183994) opened on on March 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183994) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Muhammad Abdul Rehman](https://github.com/artahir-dev)** &mdash; fix: guard against OOB read in FlutterStandardCodecHelper string decode path (iOS/macOS)<br />
-  <sub>[#183996](https://github.com/flutter/flutter/pull/183996) opened on on March 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183996) 34 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#183996](https://github.com/flutter/flutter/pull/183996) opened on on March 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183996) 34 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Fix Autocomplete Tab focus traversal with disabled fields<br />
   <sub>[#184000](https://github.com/flutter/flutter/pull/184000) opened on on March 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184000) 68 additions and 0 deletions in 2 files</sub><br />
