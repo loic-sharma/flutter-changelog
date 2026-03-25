@@ -93,7 +93,7 @@
   <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
-  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/183657) 547 additions and 105 deletions in 4 files</sub><br />
+  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/183657) 547 additions and 105 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
   <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183668) 619 additions and 162 deletions in 12 files</sub><br />
@@ -146,9 +146,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add a semantics role for slider <br />
   <sub>[#184029](https://github.com/flutter/flutter/pull/184029) opened on on March 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/184029) 347 additions and 8 deletions in 12 files</sub><br />
 
-* **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Fix incorrect scrolling handling in RefreshIndicator<br />
-  <sub>[#184039](https://github.com/flutter/flutter/pull/184039) opened on on March 23, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/184039) 244 additions and 87 deletions in 2 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 sixth grouped tests<br />
   <sub>[#184049](https://github.com/flutter/flutter/pull/184049) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184049) 154 additions and 0 deletions in 10 files</sub><br />
 
@@ -157,9 +154,6 @@
 
 * **[trizin](https://github.com/trizin)** &mdash; [flutter_tools] Fix arm64e incorrectly matching arm64 in regex check<br />
   <sub>[#184057](https://github.com/flutter/flutter/pull/184057) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184057) 5 additions and 3 deletions in 2 files</sub><br />
-
-* **[Hamid Shakeri](https://github.com/Hamidrzash)** &mdash; Add scrollPadding property to DropdownMenuFormField<br />
-  <sub>[#184059](https://github.com/flutter/flutter/pull/184059) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184059) 29 additions and 0 deletions in 2 files</sub><br />
 
 * **[BART SIMPSON](https://github.com/BartSimpson001)** &mdash; Fix reloaded_sources.json returning incorrect src URL (localhost) in web-server mode<br />
   <sub>[#184069](https://github.com/flutter/flutter/pull/184069) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184069) 1 addition and 1 deletion in 1 file</sub><br />
@@ -200,6 +194,12 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.41-candidate.0] Update Flutter DEPS to Dart 02abc57898bebc334a997e609ce5827c8ef207d7<br />
   <sub>[#184139](https://github.com/flutter/flutter/pull/184139) opened on on March 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184139) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.43-candidate.0] Sync engine.version to 1d35cccf5e47d19947a669000a53a26cabb5af5e<br />
-  <sub>[#184140](https://github.com/flutter/flutter/pull/184140) opened on on March 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184140) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update Golden Images to 26.4<br />
+  <sub>[#184143](https://github.com/flutter/flutter/pull/184143) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184143) 0 additions and 0 deletions in 37 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix merge changelog workflow.<br />
+  <sub>[#184145](https://github.com/flutter/flutter/pull/184145) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184145) 19 additions and 13 deletions in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Keep glyphs for variable fonts (#183857)"<br />
+  <sub>[#184147](https://github.com/flutter/flutter/pull/184147) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184147) 12 additions and 21 deletions in 5 files</sub><br />
 
