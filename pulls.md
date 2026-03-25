@@ -171,7 +171,7 @@
   <sub>[#184073](https://github.com/flutter/flutter/pull/184073) opened on on March 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184073) 129 additions and 7 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Pipes ScrollCacheExtent through more scroll views<br />
-  <sub>[#184078](https://github.com/flutter/flutter/pull/184078) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184078) 173 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#184078](https://github.com/flutter/flutter/pull/184078) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184078) 107 additions and 2 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Moves android_semantics_integration_test out of staging<br />
   <sub>[#184079](https://github.com/flutter/flutter/pull/184079) opened on on March 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184079) 0 additions and 1 deletion in 1 file</sub><br />
