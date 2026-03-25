@@ -821,7 +821,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-11 commits.
+12 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove remaining deprecated cookbook recipe<br />
   <sub>[#13207](https://github.com/flutter/website/pull/13207) merged on March 24, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/13207) over 2 days, 2 additions and 2440 deletions in 16 files</sub><br />
@@ -854,6 +854,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add Google I/O 2026 registration link to banner<br />
   <sub>[#13215](https://github.com/flutter/website/pull/13215) merged on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13215) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing note<br />
+  <sub>[#13219](https://github.com/flutter/website/pull/13219) merged on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13219) over 2 hours, 0 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Thomsen](https://github.com/mit-mit), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a cross link<br />
   <sub>[#13218](https://github.com/flutter/website/pull/13218) merged on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13218) over 29 minutes, 7 additions and 4 deletions in 1 file</sub><br />
