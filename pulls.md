@@ -167,6 +167,9 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds explicit name to the cicd label job.<br />
   <sub>[#184070](https://github.com/flutter/flutter/pull/184070) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184070) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[arcashka](https://github.com/arcashka)** &mdash; [Impeller] Fix morphology filter asymmetric dilation/erosion<br />
+  <sub>[#184073](https://github.com/flutter/flutter/pull/184073) opened on on March 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184073) 129 additions and 7 deletions in 4 files</sub><br />
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Pipes ScrollCacheExtent through more scroll views<br />
   <sub>[#184078](https://github.com/flutter/flutter/pull/184078) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184078) 173 additions and 3 deletions in 5 files</sub><br />
 
@@ -187,7 +190,4 @@
 
 * **[Aditya Swaroop](https://github.com/as567-code)** &mdash; Fix web proxy incorrectly merging multiple Set-Cookie headers<br />
   <sub>[#184103](https://github.com/flutter/flutter/pull/184103) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184103) 186 additions and 1 deletion in 2 files</sub><br />
-
-* **[saurabh-mirajkar](https://github.com/saurabh-mirajkar)** &mdash; Update TabBar documentation to clarify indicatorWeight behavior<br />
-  <sub>[#184104](https://github.com/flutter/flutter/pull/184104) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184104) 5 additions and 1 deletion in 1 file</sub><br />
 
