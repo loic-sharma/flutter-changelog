@@ -620,7 +620,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-14 commits.
+15 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Optimize data class equality and hashing in Dart, Kotlin, java, and Swift, adds equality in other languages
   <sub>[#11140](https://github.com/flutter/packages/pull/11140) merged on March 25, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/packages/pull/11140) over 3 weeks, 10792 additions and 1635 deletions in 75 files</sub>
@@ -630,6 +630,10 @@
   <sub>[#11302](https://github.com/flutter/packages/pull/11302) merged on March 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11302) over 5 days, 7 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
   <sub><details><summary>1 image...</summary><img width="1008" height="465" alt="image" src="https://github.com/user-attachments/assets/47d1b179-a887-4723-90ba-736f83ec2c4e" /></details></sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Add alignment to TreeView and TableView
+  <sub>[#11353](https://github.com/flutter/packages/pull/11353) merged on March 25, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/11353) over 1 hour, 872 additions and 30 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hari07](https://github.com/Hari-07)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Use deprecated dependency until legacy renderer is removed
   <sub>[#11185](https://github.com/flutter/packages/pull/11185) merged on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11185) over 2 weeks, 8 additions and 1 deletion in 3 files</sub>
