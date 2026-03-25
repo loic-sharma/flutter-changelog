@@ -612,11 +612,15 @@
 
 ### March 21, 2026 to March 27, 2026
 
-7 commits.
+11 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Optimize data class equality and hashing in Dart, Kotlin, java, and Swift, adds equality in other languages<br />
   <sub>[#11140](https://github.com/flutter/packages/pull/11140) merged on March 25, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/packages/pull/11140) over 3 weeks, 10792 additions and 1635 deletions in 75 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Use deprecated dependency until legacy renderer is removed<br />
+  <sub>[#11185](https://github.com/flutter/packages/pull/11185) merged on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11185) over 2 weeks, 8 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert plugin builds to Kotlin gradle<br />
   <sub>[#11172](https://github.com/flutter/packages/pull/11172) merged on March 25, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/11172) over 3 weeks, 465 additions and 336 deletions in 88 files</sub><br />
@@ -626,6 +630,18 @@
   <sub>[#11283](https://github.com/flutter/packages/pull/11283) merged on March 25, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/11283) over 6 days, 567 additions and 471 deletions in 55 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Address flaky tests<br />
+  <sub>[#11270](https://github.com/flutter/packages/pull/11270) merged on March 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11270) over 1 week, 18 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix A2A iOS builds<br />
+  <sub>[#11290](https://github.com/flutter/packages/pull/11290) merged on March 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11290) over 6 days, 11 additions and 22 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix span border decorations in flipped cross axes<br />
+  <sub>[#11334](https://github.com/flutter/packages/pull/11334) merged on March 25, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/11334) over 1 day, 274 additions and 58 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Add a workflow to auto-remove CICD label<br />
   <sub>[#11301](https://github.com/flutter/packages/pull/11301) merged on March 25, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11301) over 5 days, 65 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
@@ -634,9 +650,9 @@
   <sub>[#11037](https://github.com/flutter/packages/pull/11037) merged on March 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/11037) over 1 month, 141 additions and 2 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix span border decorations in flipped cross axes<br />
-  <sub>[#11334](https://github.com/flutter/packages/pull/11334) merged on March 25, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/11334) over 1 day, 274 additions and 58 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [mustache_template] Fix broken README link<br />
+  <sub>[#11306](https://github.com/flutter/packages/pull/11306) merged on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11306) over 4 days, 6 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [cupertino_icons] Remove empty Dart file<br />
   <sub>[#11308](https://github.com/flutter/packages/pull/11308) merged on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11308) over 4 days, 3 additions and 10 deletions in 3 files</sub><br />
