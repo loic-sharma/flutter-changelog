@@ -610,9 +610,18 @@
 
 ## flutter/packages
 
+### March 21, 2026 to March 27, 2026
+
+1 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix span border decorations in flipped cross axes<br />
+  <sub>[#11334](https://github.com/flutter/packages/pull/11334) merged on March 25, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/11334) over 1 day, 274 additions and 58 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+
 ### March 14, 2026 to March 20, 2026
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter_android] Batch clustered marker operations<br />
   <sub>[#10940](https://github.com/flutter/packages/pull/10940) merged on March 18, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/10940) over 1 month, 386 additions and 13 deletions in 5 files</sub><br />
@@ -673,6 +682,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from ff37bef60346 to 2c9eb20739df (6 revisions)<br />
   <sub>[#11285](https://github.com/flutter/packages/pull/11285) merged on March 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11285) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### March 7, 2026 to March 13, 2026
 
