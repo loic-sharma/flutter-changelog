@@ -616,7 +616,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-13 commits.
+14 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Optimize data class equality and hashing in Dart, Kotlin, java, and Swift, adds equality in other languages<br />
   <sub>[#11140](https://github.com/flutter/packages/pull/11140) merged on March 25, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/packages/pull/11140) over 3 weeks, 10792 additions and 1635 deletions in 75 files</sub><br />
@@ -658,6 +658,10 @@
 * **[Khaled](https://github.com/khaled-0)** &mdash; [webview_flutter_platform_interface] Add support for getting cookie<br />
   <sub>[#11037](https://github.com/flutter/packages/pull/11037) merged on March 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/11037) over 1 month, 141 additions and 2 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Update create pull request script in github actions<br />
+  <sub>[#11350](https://github.com/flutter/packages/pull/11350) merged on March 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11350) over 1 hour, 17 additions and 17 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Add `unintended_html_in_doc_comment` to analysis options<br />
   <sub>[#11303](https://github.com/flutter/packages/pull/11303) merged on March 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11303) over 5 days, 126 additions and 84 deletions in 41 files</sub><br />
