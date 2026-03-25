@@ -173,14 +173,11 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Moves android_semantics_integration_test out of staging<br />
   <sub>[#184079](https://github.com/flutter/flutter/pull/184079) opened on on March 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184079) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; [Just for Testing] Add simple shape path optimization logic to dl_builder<br />
-  <sub>[#184096](https://github.com/flutter/flutter/pull/184096) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184096) 32 additions and 16 deletions in 3 files</sub><br />
+* **[b-luk](https://github.com/b-luk)** &mdash; Expand simple shape path optimization logic and move it from dl_dispatcher to dl_builder<br />
+  <sub>[#184096](https://github.com/flutter/flutter/pull/184096) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184096) 141 additions and 17 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wait to show Dart created windows when first frame is received<br />
   <sub>[#184097](https://github.com/flutter/flutter/pull/184097) opened on on March 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184097) 141 additions and 2 deletions in 4 files</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Text hint should not be ignored in `MinimumTextContrastGuideline`<br />
-  <sub>[#184099](https://github.com/flutter/flutter/pull/184099) opened on on March 25, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184099) 51 additions and 2 deletions in 3 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter] Remove dead check on null being in a set of non-nullables<br />
   <sub>[#184100](https://github.com/flutter/flutter/pull/184100) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184100) 0 additions and 1 deletion in 1 file</sub><br />
@@ -198,5 +195,8 @@
   <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184130) 2 additions and 0 deletions in 2 files</sub><br />
 
 * **[b055man](https://github.com/b055man)** &mdash; fix: use atomic write for engine.stamp to prevent race conditions<br />
-  <sub>[#184131](https://github.com/flutter/flutter/pull/184131) opened on on March 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184131) 91 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#184131](https://github.com/flutter/flutter/pull/184131) opened on on March 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184131) 102 additions and 2 deletions in 3 files</sub><br />
+
+* **[Rafa Ruiz](https://github.com/RafaRuiz)** &mdash; Allow [NavigationDestination]'s text to be aligned horizontally<br />
+  <sub>[#184136](https://github.com/flutter/flutter/pull/184136) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184136) 51 additions and 1 deletion in 2 files</sub><br />
 
