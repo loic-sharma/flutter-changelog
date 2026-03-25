@@ -612,15 +612,23 @@
 
 ### March 21, 2026 to March 27, 2026
 
-5 commits.
+7 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Optimize data class equality and hashing in Dart, Kotlin, java, and Swift, adds equality in other languages<br />
   <sub>[#11140](https://github.com/flutter/packages/pull/11140) merged on March 25, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/packages/pull/11140) over 3 weeks, 10792 additions and 1635 deletions in 75 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert plugin builds to Kotlin gradle<br />
+  <sub>[#11172](https://github.com/flutter/packages/pull/11172) merged on March 25, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/11172) over 3 weeks, 465 additions and 336 deletions in 88 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera] Regenerate iOS example with Swift<br />
   <sub>[#11283](https://github.com/flutter/packages/pull/11283) merged on March 25, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/11283) over 6 days, 567 additions and 471 deletions in 55 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Add a workflow to auto-remove CICD label<br />
+  <sub>[#11301](https://github.com/flutter/packages/pull/11301) merged on March 25, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11301) over 5 days, 65 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Khaled](https://github.com/khaled-0)** &mdash; [webview_flutter_platform_interface] Add support for getting cookie<br />
   <sub>[#11037](https://github.com/flutter/packages/pull/11037) merged on March 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/11037) over 1 month, 141 additions and 2 deletions in 5 files</sub><br />
