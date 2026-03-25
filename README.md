@@ -612,11 +612,16 @@
 
 ### March 21, 2026 to March 27, 2026
 
-11 commits.
+13 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Optimize data class equality and hashing in Dart, Kotlin, java, and Swift, adds equality in other languages<br />
   <sub>[#11140](https://github.com/flutter/packages/pull/11140) merged on March 25, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/packages/pull/11140) over 3 weeks, 10792 additions and 1635 deletions in 75 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] add more permissions for create-pull-request<br />
+  <sub>[#11302](https://github.com/flutter/packages/pull/11302) merged on March 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11302) over 5 days, 7 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="1008" height="465" alt="image" src="https://github.com/user-attachments/assets/47d1b179-a887-4723-90ba-736f83ec2c4e" /></details></sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Use deprecated dependency until legacy renderer is removed<br />
   <sub>[#11185](https://github.com/flutter/packages/pull/11185) merged on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11185) over 2 weeks, 8 additions and 1 deletion in 3 files</sub><br />
@@ -649,6 +654,10 @@
 * **[Khaled](https://github.com/khaled-0)** &mdash; [webview_flutter_platform_interface] Add support for getting cookie<br />
   <sub>[#11037](https://github.com/flutter/packages/pull/11037) merged on March 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/11037) over 1 month, 141 additions and 2 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Add `unintended_html_in_doc_comment` to analysis options<br />
+  <sub>[#11303](https://github.com/flutter/packages/pull/11303) merged on March 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11303) over 5 days, 126 additions and 84 deletions in 41 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [mustache_template] Fix broken README link<br />
   <sub>[#11306](https://github.com/flutter/packages/pull/11306) merged on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11306) over 4 days, 6 additions and 2 deletions in 3 files</sub><br />
