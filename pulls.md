@@ -188,9 +188,6 @@
 * **[Rafa Ruiz](https://github.com/RafaRuiz)** &mdash; Allow [NavigationDestination]'s text to be aligned horizontally<br />
   <sub>[#184136](https://github.com/flutter/flutter/pull/184136) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184136) 51 additions and 1 deletion in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.41-candidate.0] Update Flutter DEPS to Dart 02abc57898bebc334a997e609ce5827c8ef207d7<br />
-  <sub>[#184139](https://github.com/flutter/flutter/pull/184139) opened on on March 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184139) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update Golden Images to 26.4<br />
   <sub>[#184143](https://github.com/flutter/flutter/pull/184143) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184143) 0 additions and 0 deletions in 37 files</sub><br />
 
