@@ -50,6 +50,9 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement tooltip windows on Linux<br />
+  <sub>[#182348](https://github.com/flutter/flutter/pull/182348) opened on on February 13, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/182348) 538 additions and 13 deletions in 7 files</sub><br />
+
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
@@ -111,7 +114,7 @@
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183838) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Implement images for wimp.<br />
-  <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183913) 641 additions and 275 deletions in 27 files</sub><br />
+  <sub>[#183913](https://github.com/flutter/flutter/pull/183913) opened on on March 20, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/183913) 641 additions and 275 deletions in 27 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools<br />
   <sub>[#183971](https://github.com/flutter/flutter/pull/183971) opened on on March 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183971) 21 additions and 22 deletions in 14 files</sub><br />
@@ -177,5 +180,5 @@
   <sub>[#184096](https://github.com/flutter/flutter/pull/184096) opened on on March 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184096) 27 additions and 1 deletion in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wait to show Dart created windows when first frame is received<br />
-  <sub>[#184097](https://github.com/flutter/flutter/pull/184097) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184097) 141 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#184097](https://github.com/flutter/flutter/pull/184097) opened on on March 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184097) 141 additions and 2 deletions in 4 files</sub><br />
 
