@@ -170,9 +170,6 @@
 * **[arcashka](https://github.com/arcashka)** &mdash; [Impeller] Fix morphology filter asymmetric dilation/erosion<br />
   <sub>[#184073](https://github.com/flutter/flutter/pull/184073) opened on on March 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184073) 129 additions and 7 deletions in 4 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Pipes ScrollCacheExtent through more scroll views<br />
-  <sub>[#184078](https://github.com/flutter/flutter/pull/184078) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184078) 107 additions and 2 deletions in 3 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Moves android_semantics_integration_test out of staging<br />
   <sub>[#184079](https://github.com/flutter/flutter/pull/184079) opened on on March 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184079) 0 additions and 1 deletion in 1 file</sub><br />
 
@@ -196,4 +193,10 @@
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [web] Prioritize Noto Color Emoji in font fallback selection<br />
   <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184120) 88 additions and 1 deletion in 2 files</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Ignore incoming deprecated_web_configuration lint<br />
+  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184130) 2 additions and 0 deletions in 2 files</sub><br />
+
+* **[b055man](https://github.com/b055man)** &mdash; fix: use atomic write for engine.stamp to prevent race conditions<br />
+  <sub>[#184131](https://github.com/flutter/flutter/pull/184131) opened on on March 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184131) 91 additions and 2 deletions in 3 files</sub><br />
 
