@@ -644,7 +644,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix span border decorations in flipped cross axes<br />
-  <sub>[#11334](https://github.com/flutter/packages/pull/11334) merged on March 25, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/packages/pull/11334) over 1 day, 274 additions and 58 deletions in 7 files</sub><br />
+  <sub>[#11334](https://github.com/flutter/packages/pull/11334) merged on March 25, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/11334) over 1 day, 274 additions and 58 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Add a workflow to auto-remove CICD label<br />
