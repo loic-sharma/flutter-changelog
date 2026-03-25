@@ -194,9 +194,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Keep glyphs for variable fonts (#183857)"<br />
   <sub>[#184147](https://github.com/flutter/flutter/pull/184147) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184147) 12 additions and 21 deletions in 5 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.41-candidate.0] Sync engine.version to 425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb<br />
-  <sub>[#184153](https://github.com/flutter/flutter/pull/184153) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184153) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `hitTestable()` so `hint` will not be ignored in `TextContrastGuideline`<br />
   <sub>[#184158](https://github.com/flutter/flutter/pull/184158) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184158) 40 additions and 3 deletions in 4 files</sub><br />
 
