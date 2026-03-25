@@ -682,7 +682,7 @@
 ### March 14, 2026 to March 20, 2026
 
 <details>
-<summary>15 commits...</summary>
+<summary>16 commits...</summary>
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter_android] Batch clustered marker operations<br />
   <sub>[#10940](https://github.com/flutter/packages/pull/10940) merged on March 18, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/10940) over 1 month, 386 additions and 13 deletions in 5 files</sub><br />
@@ -691,6 +691,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Regenerate iOS example with Swift<br />
   <sub>[#11275](https://github.com/flutter/packages/pull/11275) merged on March 17, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/11275) over 1 hour, 529 additions and 409 deletions in 33 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[github-actions](https://github.com/apps/github-actions)** &mdash; [go_router] Batch release<br />
+  <sub>[#11354](https://github.com/flutter/packages/pull/11354) merged on March 18, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/11354) over -623412 seconds, 440000 additions and 295507 deletions in 3313 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add color scheme support to app-facing package<br />
   <sub>[#11280](https://github.com/flutter/packages/pull/11280) merged on March 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11280) over 5 hours, 51 additions and 3 deletions in 5 files</sub><br />

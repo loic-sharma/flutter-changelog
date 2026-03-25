@@ -182,9 +182,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Ignore incoming deprecated_web_configuration lint<br />
   <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184130) 2 additions and 0 deletions in 2 files</sub><br />
 
-* **[b055man](https://github.com/b055man)** &mdash; fix: use atomic write for engine.stamp to prevent race conditions<br />
-  <sub>[#184131](https://github.com/flutter/flutter/pull/184131) opened on on March 25, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184131) 122 additions and 2 deletions in 3 files</sub><br />
-
 * **[Rafa Ruiz](https://github.com/RafaRuiz)** &mdash; Allow [NavigationDestination]'s text to be aligned horizontally<br />
   <sub>[#184136](https://github.com/flutter/flutter/pull/184136) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184136) 51 additions and 1 deletion in 2 files</sub><br />
 
@@ -196,4 +193,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Keep glyphs for variable fonts (#183857)"<br />
   <sub>[#184147](https://github.com/flutter/flutter/pull/184147) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184147) 12 additions and 21 deletions in 5 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.41-candidate.0] Sync engine.version to 425cfb54d01a9472b3e81d9e76fd63a4a44cfbcb<br />
+  <sub>[#184153](https://github.com/flutter/flutter/pull/184153) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184153) 1 addition and 1 deletion in 1 file</sub><br />
 
