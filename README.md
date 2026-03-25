@@ -4,7 +4,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-24 commits.
+25 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub><br />
@@ -76,6 +76,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): use positive logic and platform defaults for accessibility features<br />
   <sub>[#183907](https://github.com/flutter/flutter/pull/183907) merged on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183907) over 3 days, 65 additions and 61 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Pipes ScrollCacheExtent through more scroll views<br />
+  <sub>[#184078](https://github.com/flutter/flutter/pull/184078) merged on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184078) over 23 hours, 107 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add widget of the week link in SensitiveContent documentation<br />
   <sub>[#183972](https://github.com/flutter/flutter/pull/183972) merged on March 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183972) over 4 days, 19 additions and 17 deletions in 1 file</sub><br />
