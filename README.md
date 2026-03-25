@@ -817,11 +817,15 @@
 
 ### March 21, 2026 to March 27, 2026
 
-9 commits.
+10 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove remaining deprecated cookbook recipe<br />
   <sub>[#13207](https://github.com/flutter/website/pull/13207) merged on March 24, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/13207) over 2 days, 2 additions and 2440 deletions in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Replacing mention of Firebase Studio with Antigravity<br />
+  <sub>[#13201](https://github.com/flutter/website/pull/13201) merged on March 25, 2026 &mdash; **Medium:** [32 comments](https://github.com/flutter/website/pull/13201) over 4 days, 139 additions and 191 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Michael Thomsen](https://github.com/mit-mit), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Fix casing of LeanCode brand in docs<br />
   <sub>[#13195](https://github.com/flutter/website/pull/13195) merged on March 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13195) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />

@@ -194,3 +194,6 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; fix height in composite_layer<br />
   <sub>[#184118](https://github.com/flutter/flutter/pull/184118) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184118) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [web] Prioritize Noto Color Emoji in font fallback selection<br />
+  <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184120) 88 additions and 1 deletion in 2 files</sub><br />
+
