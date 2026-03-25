@@ -182,3 +182,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wait to show Dart created windows when first frame is received<br />
   <sub>[#184097](https://github.com/flutter/flutter/pull/184097) opened on on March 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184097) 141 additions and 2 deletions in 4 files</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Text hint should not be ignored in `MinimumTextContrastGuideline`<br />
+  <sub>[#184099](https://github.com/flutter/flutter/pull/184099) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184099) 23 additions and 1 deletion in 2 files</sub><br />
+
