@@ -32,9 +32,6 @@
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 7 additions and 1 deletion in 3 files</sub><br />
 
-* **[Mert](https://github.com/mertalev)** &mdash; feat: add `Image.fromTextureId()` for zero-copy image creation from platform textures<br />
-  <sub>[#181136](https://github.com/flutter/flutter/pull/181136) opened on on January 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181136) 248 additions and 1 deletion in 14 files</sub><br />
-
 * **[Aman Kumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -51,7 +48,7 @@
   <sub>[#182348](https://github.com/flutter/flutter/pull/182348) opened on on February 13, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/182348) 521 additions and 15 deletions in 7 files</sub><br />
 
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
-  <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
+  <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
   <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
@@ -83,9 +80,6 @@
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing `await`s on forgotten cases<br />
   <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183466) 11 additions and 11 deletions in 5 files</sub><br />
 
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid attaching LLDB to app extensions<br />
-  <sub>[#183619](https://github.com/flutter/flutter/pull/183619) opened on on March 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183619) 138 additions and 19 deletions in 2 files</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Keep multiline CupertinoTextField placeholders in bounds<br />
   <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
 
@@ -97,9 +91,6 @@
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
-
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Avoid unnecessary xattr deletes on iOS outputs<br />
-  <sub>[#183691](https://github.com/flutter/flutter/pull/183691) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183691) 243 additions and 13 deletions in 6 files</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Add controller param for caller-managed options<br />
   <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/183705) 274 additions and 30 deletions in 2 files</sub><br />
