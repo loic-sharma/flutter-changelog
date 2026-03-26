@@ -4,7 +4,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-32 commits.
+33 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub><br />
@@ -137,6 +137,10 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll ICU from 7971660ba630 to ee5f27adc28b (1 revision)<br />
   <sub>[#184041](https://github.com/flutter/flutter/pull/184041) merged on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184041) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Keep glyphs for variable fonts (#183857)"<br />
+  <sub>[#184147](https://github.com/flutter/flutter/pull/184147) merged on March 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184147) over 10 hours, 12 additions and 21 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 ### March 14, 2026 to March 20, 2026
 

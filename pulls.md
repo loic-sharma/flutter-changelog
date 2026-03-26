@@ -179,9 +179,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update Golden Images to 26.4<br />
   <sub>[#184143](https://github.com/flutter/flutter/pull/184143) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184143) 0 additions and 0 deletions in 37 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Keep glyphs for variable fonts (#183857)"<br />
-  <sub>[#184147](https://github.com/flutter/flutter/pull/184147) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184147) 12 additions and 21 deletions in 5 files</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `hitTestable()` so `hint` will not be ignored in `TextContrastGuideline`<br />
   <sub>[#184158](https://github.com/flutter/flutter/pull/184158) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184158) 78 additions and 4 deletions in 4 files</sub><br />
 
