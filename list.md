@@ -874,7 +874,11 @@
 
 ### March 21, 2026 to March 27, 2026
 
-12 commits.
+13 commits.
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migration guide for `IconData`
+  <sub>[#13005](https://github.com/flutter/website/pull/13005) merged on March 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13005) over 1 month, 135 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove remaining deprecated cookbook recipe
   <sub>[#13207](https://github.com/flutter/website/pull/13207) merged on March 24, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/website/pull/13207) over 2 days, 2 additions and 2440 deletions in 16 files</sub>

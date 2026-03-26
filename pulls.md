@@ -185,6 +185,9 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `hitTestable()` so `hint` will not be ignored in `TextContrastGuideline`<br />
   <sub>[#184158](https://github.com/flutter/flutter/pull/184158) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184158) 78 additions and 4 deletions in 4 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `FlutterRunArguments.java` file <br />
+  <sub>[#184160](https://github.com/flutter/flutter/pull/184160) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184160) 0 additions and 13 deletions in 2 files</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Handle events without a device<br />
   <sub>[#184163](https://github.com/flutter/flutter/pull/184163) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184163) 7 additions and 2 deletions in 2 files</sub><br />
 
@@ -202,4 +205,7 @@
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove sliver_test_utils cross-import from sliver_app_bar_test<br />
   <sub>[#184193](https://github.com/flutter/flutter/pull/184193) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184193) 21 additions and 11 deletions in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 13.2.1<br />
+  <sub>[#184210](https://github.com/flutter/flutter/pull/184210) opened on on March 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184210) 16 additions and 1 deletion in 2 files</sub><br />
 
