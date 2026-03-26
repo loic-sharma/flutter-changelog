@@ -143,9 +143,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 sixth grouped tests<br />
   <sub>[#184049](https://github.com/flutter/flutter/pull/184049) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184049) 154 additions and 0 deletions in 10 files</sub><br />
 
-* **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; [iOS] Clarify provisioning profile error instructions<br />
-  <sub>[#184051](https://github.com/flutter/flutter/pull/184051) opened on on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184051) 34 additions and 13 deletions in 3 files</sub><br />
-
 * **[trizin](https://github.com/trizin)** &mdash; [flutter_tools] Fix arm64e incorrectly matching arm64 in regex check<br />
   <sub>[#184057](https://github.com/flutter/flutter/pull/184057) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184057) 5 additions and 3 deletions in 2 files</sub><br />
 
