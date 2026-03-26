@@ -4,7 +4,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-26 commits.
+28 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub>
@@ -28,6 +28,10 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Add SensitiveContent widget sample code
   <sub>[#183846](https://github.com/flutter/flutter/pull/183846) merged on March 25, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/183846) over 6 days, 321 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/material
+  <sub>[#183963](https://github.com/flutter/flutter/pull/183963) merged on March 26, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/183963) over 5 days, 508 additions and 557 deletions in 171 files</sub>
+  <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Slider] Remove value indicator painter when animation is dismissed
   <sub>[#182991](https://github.com/flutter/flutter/pull/182991) merged on March 24, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/182991) over 3 weeks, 80 additions and 29 deletions in 2 files</sub>
@@ -64,6 +68,10 @@
 * **[Ashok Narayan](https://github.com/ashoknarayan)** &mdash; Add note about gclient sync network failures and workaround
   <sub>[#183794](https://github.com/flutter/flutter/pull/183794) merged on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183794) over 6 days, 21 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Collect impeller analytics for appbundles
+  <sub>[#184146](https://github.com/flutter/flutter/pull/184146) merged on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184146) over 10 hours, 147 additions and 8 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart DevTools to a version with correct CIPD tags
   <sub>[#184172](https://github.com/flutter/flutter/pull/184172) merged on March 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184172) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
