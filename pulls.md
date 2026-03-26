@@ -186,7 +186,10 @@
   <sub>[#184158](https://github.com/flutter/flutter/pull/184158) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184158) 78 additions and 4 deletions in 4 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `FlutterRunArguments.java` file <br />
-  <sub>[#184160](https://github.com/flutter/flutter/pull/184160) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184160) 0 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#184160](https://github.com/flutter/flutter/pull/184160) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184160) 0 additions and 13 deletions in 2 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused variable in `ProcessTextPlugin.java`<br />
+  <sub>[#184161](https://github.com/flutter/flutter/pull/184161) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184161) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Handle events without a device<br />
   <sub>[#184163](https://github.com/flutter/flutter/pull/184163) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184163) 7 additions and 2 deletions in 2 files</sub><br />
