@@ -4,7 +4,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-28 commits.
+32 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads<br />
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub><br />
@@ -28,6 +28,11 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Add SensitiveContent widget sample code<br />
   <sub>[#183846](https://github.com/flutter/flutter/pull/183846) merged on March 25, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/183846) over 6 days, 321 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds explicit name to the cicd label job.<br />
+  <sub>[#184070](https://github.com/flutter/flutter/pull/184070) merged on March 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184070) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="898" height="482" alt="Screenshot 2026-03-24 at 9 26 34 AM" src="https://github.com/user-attachments/assets/c4683f22-50b5-436a-b82d-c5ed8a3c367b" /></details></sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/material<br />
   <sub>[#183963](https://github.com/flutter/flutter/pull/183963) merged on March 26, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/183963) over 5 days, 508 additions and 557 deletions in 171 files</sub><br />
@@ -69,6 +74,10 @@
   <sub>[#183794](https://github.com/flutter/flutter/pull/183794) merged on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183794) over 6 days, 21 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add notes on HCPP to `Android-Platform-Views.md`<br />
+  <sub>[#183859](https://github.com/flutter/flutter/pull/183859) merged on March 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183859) over 1 week, 38 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Collect impeller analytics for appbundles<br />
   <sub>[#184146](https://github.com/flutter/flutter/pull/184146) merged on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184146) over 10 hours, 147 additions and 8 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
@@ -88,6 +97,14 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): use positive logic and platform defaults for accessibility features<br />
   <sub>[#183907](https://github.com/flutter/flutter/pull/183907) merged on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183907) over 3 days, 65 additions and 61 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Expand simple shape path optimization logic and move it from dl_dispatcher to dl_builder<br />
+  <sub>[#184096](https://github.com/flutter/flutter/pull/184096) merged on March 26, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184096) over 1 day, 141 additions and 17 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix merge changelog workflow.<br />
+  <sub>[#184145](https://github.com/flutter/flutter/pull/184145) merged on March 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184145) over 10 hours, 19 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Pipes ScrollCacheExtent through more scroll views<br />
   <sub>[#184078](https://github.com/flutter/flutter/pull/184078) merged on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184078) over 23 hours, 107 additions and 2 deletions in 3 files</sub><br />

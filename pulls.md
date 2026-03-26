@@ -149,9 +149,6 @@
 * **[BART SIMPSON](https://github.com/BartSimpson001)** &mdash; Fix reloaded_sources.json returning incorrect src URL (localhost) in web-server mode<br />
   <sub>[#184069](https://github.com/flutter/flutter/pull/184069) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184069) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds explicit name to the cicd label job.<br />
-  <sub>[#184070](https://github.com/flutter/flutter/pull/184070) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184070) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[arcashka](https://github.com/arcashka)** &mdash; [Impeller] Fix morphology filter asymmetric dilation/erosion<br />
   <sub>[#184073](https://github.com/flutter/flutter/pull/184073) opened on on March 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184073) 129 additions and 7 deletions in 4 files</sub><br />
 
@@ -182,9 +179,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update Golden Images to 26.4<br />
   <sub>[#184143](https://github.com/flutter/flutter/pull/184143) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184143) 0 additions and 0 deletions in 37 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix merge changelog workflow.<br />
-  <sub>[#184145](https://github.com/flutter/flutter/pull/184145) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184145) 19 additions and 13 deletions in 1 file</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Keep glyphs for variable fonts (#183857)"<br />
   <sub>[#184147](https://github.com/flutter/flutter/pull/184147) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184147) 12 additions and 21 deletions in 5 files</sub><br />
 
@@ -196,4 +190,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Reduce number of mallocs in FFI call<br />
   <sub>[#184166](https://github.com/flutter/flutter/pull/184166) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184166) 4 additions and 6 deletions in 1 file</sub><br />
+
+* **[dagecko](https://github.com/dagecko)** &mdash; fix: extract 4 unsafe expression(s) to env vars<br />
+  <sub>[#184185](https://github.com/flutter/flutter/pull/184185) opened on on March 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184185) 12 additions and 8 deletions in 2 files</sub><br />
 
