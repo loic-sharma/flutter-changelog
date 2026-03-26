@@ -25,6 +25,10 @@
   <sub>[#183857](https://github.com/flutter/flutter/pull/183857) merged on March 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183857) over 5 days, 21 additions and 12 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/material
+  <sub>[#183963](https://github.com/flutter/flutter/pull/183963) merged on March 26, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/183963) over 5 days, 508 additions and 557 deletions in 171 files</sub>
+  <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Huy](https://github.com/huycozy)** &mdash; Add SensitiveContent widget sample code
   <sub>[#183846](https://github.com/flutter/flutter/pull/183846) merged on March 25, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/183846) over 6 days, 321 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi), [Camille Simon](https://github.com/camsim99)</sub>
@@ -33,10 +37,6 @@
   <sub>[#184070](https://github.com/flutter/flutter/pull/184070) merged on March 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184070) over 1 day, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
   <sub><details><summary>1 image...</summary><img width="898" height="482" alt="Screenshot 2026-03-24 at 9 26 34 AM" src="https://github.com/user-attachments/assets/c4683f22-50b5-436a-b82d-c5ed8a3c367b" /></details></sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/material
-  <sub>[#183963](https://github.com/flutter/flutter/pull/183963) merged on March 26, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/183963) over 5 days, 508 additions and 557 deletions in 171 files</sub>
-  <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Slider] Remove value indicator painter when animation is dismissed
   <sub>[#182991](https://github.com/flutter/flutter/pull/182991) merged on March 24, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/182991) over 3 weeks, 80 additions and 29 deletions in 2 files</sub>
