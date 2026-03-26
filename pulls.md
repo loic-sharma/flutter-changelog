@@ -8,9 +8,6 @@
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
-* **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable<br />
-  <sub>[#176385](https://github.com/flutter/flutter/pull/176385) opened on on October 2, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/176385) 0 additions and 3 deletions in 1 file</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
 
@@ -194,8 +191,8 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Reduce number of mallocs in FFI call<br />
   <sub>[#184166](https://github.com/flutter/flutter/pull/184166) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184166) 4 additions and 6 deletions in 1 file</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland "Fix Slider semantics node size"<br />
-  <sub>[#184168](https://github.com/flutter/flutter/pull/184168) opened on on March 25, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/184168) 277 additions and 182 deletions in 4 files</sub><br />
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland "Fix Slider semantics node size" with some changes <br />
+  <sub>[#184168](https://github.com/flutter/flutter/pull/184168) opened on on March 25, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/184168) 311 additions and 196 deletions in 4 files</sub><br />
 
 * **[dagecko](https://github.com/dagecko)** &mdash; fix: extract 4 unsafe expression(s) to env vars<br />
   <sub>[#184185](https://github.com/flutter/flutter/pull/184185) opened on on March 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184185) 12 additions and 8 deletions in 2 files</sub><br />
@@ -210,13 +207,10 @@
   <sub>[#184193](https://github.com/flutter/flutter/pull/184193) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184193) 21 additions and 11 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 13.2.1<br />
-  <sub>[#184210](https://github.com/flutter/flutter/pull/184210) opened on on March 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184210) 16 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#184210](https://github.com/flutter/flutter/pull/184210) opened on on March 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184210) 174 additions and 1 deletion in 3 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace usages of `MediaQuery.of(context).property` with `MediaQuery.propertyOf(context)`<br />
   <sub>[#184211](https://github.com/flutter/flutter/pull/184211) opened on on March 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184211) 35 additions and 38 deletions in 23 files</sub><br />
-
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]add ci/cd label to ios triage<br />
-  <sub>[#184214](https://github.com/flutter/flutter/pull/184214) opened on on March 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184214) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Refactor SnackBar layout to use a custom RenderObject<br />
   <sub>[#184217](https://github.com/flutter/flutter/pull/184217) opened on on March 26, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/184217) 328 additions and 71 deletions in 2 files</sub><br />
