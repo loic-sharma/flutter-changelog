@@ -176,9 +176,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update Golden Images to 26.4<br />
   <sub>[#184143](https://github.com/flutter/flutter/pull/184143) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184143) 0 additions and 0 deletions in 37 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Remove `hitTestable()` so `hint` will not be ignored in `TextContrastGuideline`<br />
-  <sub>[#184158](https://github.com/flutter/flutter/pull/184158) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184158) 78 additions and 4 deletions in 4 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `FlutterRunArguments.java` file <br />
   <sub>[#184160](https://github.com/flutter/flutter/pull/184160) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184160) 0 additions and 13 deletions in 2 files</sub><br />
 
@@ -208,4 +205,7 @@
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Refactor SnackBar layout to use a custom RenderObject<br />
   <sub>[#184217](https://github.com/flutter/flutter/pull/184217) opened on on March 26, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/184217) 339 additions and 71 deletions in 2 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve error message when `dart-define` content is not `base64 encoded` and add more test cases<br />
+  <sub>[#184219](https://github.com/flutter/flutter/pull/184219) opened on on March 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184219) 47 additions and 15 deletions in 2 files</sub><br />
 
