@@ -185,9 +185,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Reduce number of mallocs in FFI call<br />
   <sub>[#184166](https://github.com/flutter/flutter/pull/184166) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184166) 4 additions and 6 deletions in 1 file</sub><br />
 
-* **[dagecko](https://github.com/dagecko)** &mdash; fix: extract 4 unsafe expression(s) to env vars<br />
-  <sub>[#184185](https://github.com/flutter/flutter/pull/184185) opened on on March 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184185) 12 additions and 8 deletions in 2 files</sub><br />
-
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Preserve multiple Set-Cookie headers in web proxy<br />
   <sub>[#184189](https://github.com/flutter/flutter/pull/184189) opened on on March 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184189) 67 additions and 2 deletions in 2 files</sub><br />
 
@@ -198,7 +195,7 @@
   <sub>[#184193](https://github.com/flutter/flutter/pull/184193) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184193) 21 additions and 11 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 13.2.1<br />
-  <sub>[#184210](https://github.com/flutter/flutter/pull/184210) opened on on March 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184210) 174 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#184210](https://github.com/flutter/flutter/pull/184210) opened on on March 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184210) 174 additions and 1 deletion in 6 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace usages of `MediaQuery.of(context).property` with `MediaQuery.propertyOf(context)`<br />
   <sub>[#184211](https://github.com/flutter/flutter/pull/184211) opened on on March 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184211) 35 additions and 38 deletions in 23 files</sub><br />
