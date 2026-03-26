@@ -874,7 +874,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-13 commits.
+14 commits.
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migration guide for `IconData`<br />
   <sub>[#13005](https://github.com/flutter/website/pull/13005) merged on March 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13005) over 1 month, 135 additions and 0 deletions in 2 files</sub><br />
@@ -911,6 +911,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add Google I/O 2026 registration link to banner<br />
   <sub>[#13215](https://github.com/flutter/website/pull/13215) merged on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13215) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding the WotW video and general cleaning up<br />
+  <sub>[#13221](https://github.com/flutter/website/pull/13221) merged on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13221) over 20 hours, 21 additions and 14 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing note<br />
   <sub>[#13219](https://github.com/flutter/website/pull/13219) merged on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13219) over 2 hours, 0 additions and 5 deletions in 1 file</sub><br />
