@@ -191,3 +191,6 @@
 * **[dagecko](https://github.com/dagecko)** &mdash; fix: extract 4 unsafe expression(s) to env vars<br />
   <sub>[#184185](https://github.com/flutter/flutter/pull/184185) opened on on March 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184185) 12 additions and 8 deletions in 2 files</sub><br />
 
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Preserve multiple Set-Cookie headers in web proxy<br />
+  <sub>[#184189](https://github.com/flutter/flutter/pull/184189) opened on on March 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184189) 67 additions and 2 deletions in 2 files</sub><br />
+
