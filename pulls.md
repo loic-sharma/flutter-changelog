@@ -195,5 +195,8 @@
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes a flake in reload shaders tests<br />
-  <sub>[#184268](https://github.com/flutter/flutter/pull/184268) opened on on March 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184268) 23 additions and 8 deletions in 1 file</sub><br />
+  <sub>[#184268](https://github.com/flutter/flutter/pull/184268) opened on on March 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184268) 23 additions and 8 deletions in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Make it safe to call dispose multiple times on a CkSurface<br />
+  <sub>[#184270](https://github.com/flutter/flutter/pull/184270) opened on on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184270) 12 additions and 0 deletions in 2 files</sub><br />
 
