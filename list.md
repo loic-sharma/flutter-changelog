@@ -922,7 +922,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-15 commits.
+16 commits.
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migration guide for `IconData`
   <sub>[#13005](https://github.com/flutter/website/pull/13005) merged on March 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13005) over 1 month, 135 additions and 0 deletions in 2 files</sub>
@@ -939,6 +939,10 @@
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Fix casing of LeanCode brand in docs
   <sub>[#13195](https://github.com/flutter/website/pull/13195) merged on March 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13195) over 6 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update destination URL for flutter.dev/go/windows-arm64
+  <sub>[#13224](https://github.com/flutter/website/pull/13224) merged on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13224) over 12 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove IDX config file
   <sub>[#13205](https://github.com/flutter/website/pull/13205) merged on March 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13205) over 2 days, 0 additions and 56 deletions in 2 files</sub>
