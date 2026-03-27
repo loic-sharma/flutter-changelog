@@ -71,9 +71,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: show window after first frame callback<br />
-  <sub>[#183454](https://github.com/flutter/flutter/pull/183454) opened on on March 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183454) 148 additions and 8 deletions in 4 files</sub><br />
-
 * **[Anurag Devanapally](https://github.com/andeart)** &mdash; Add `--include-example` flag to `flutter clean` for package example projects<br />
   <sub>[#183455](https://github.com/flutter/flutter/pull/183455) opened on on March 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183455) 125 additions and 3 deletions in 2 files</sub><br />
 
@@ -101,8 +98,8 @@
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183838) 3 additions and 3 deletions in 2 files</sub><br />
 
-* **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Keep ExpansionPanelList dividers when expanded with 0 gap and elevation<br />
-  <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183975) 69 additions and 2 deletions in 2 files</sub><br />
+* **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Keep ExpansionPanelList dividers when expanded with 0 materialGapSize<br />
+  <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183975) 172 additions and 9 deletions in 4 files</sub><br />
 
 * **[ad-angelo](https://github.com/ad-angelo)** &mdash; Update Xcode supported languages instructions<br />
   <sub>[#183983](https://github.com/flutter/flutter/pull/183983) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183983) 15 additions and 14 deletions in 1 file</sub><br />
