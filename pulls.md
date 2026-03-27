@@ -194,3 +194,9 @@
 * **[Balázs R](https://github.com/nvi9)** &mdash; Fix icon tree shaking when building for desktop<br />
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[b-luk](https://github.com/b-luk)** &mdash; For ShapeBorder instances with preferPaintInterior=true, use paintInterior rather than drawing the path from getOuterPath.<br />
+  <sub>[#184258](https://github.com/flutter/flutter/pull/184258) opened on on March 27, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/184258) 244 additions and 418 deletions in 16 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes a flake in reload shaders tests<br />
+  <sub>[#184268](https://github.com/flutter/flutter/pull/184268) opened on on March 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184268) 17 additions and 8 deletions in 1 file</sub><br />
+
