@@ -87,7 +87,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub>
 
 * **[August](https://github.com/Gustl22)** &mdash; Build engine for windows_arm on beta and stable
-  <sub>[#176385](https://github.com/flutter/flutter/pull/176385) merged on March 26, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/176385) over 5 months, 0 additions and 3 deletions in 1 file</sub>
+  <sub>[#176385](https://github.com/flutter/flutter/pull/176385) merged on March 26, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/176385) over 5 months, 0 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Updates scroll cache extent doc
