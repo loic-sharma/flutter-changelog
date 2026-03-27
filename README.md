@@ -697,7 +697,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-20 commits.
+22 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Optimize data class equality and hashing in Dart, Kotlin, java, and Swift, adds equality in other languages<br />
   <sub>[#11140](https://github.com/flutter/packages/pull/11140) merged on March 25, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/packages/pull/11140) over 3 weeks, 10792 additions and 1635 deletions in 75 files</sub><br />
@@ -740,6 +740,10 @@
   <sub>[#11334](https://github.com/flutter/packages/pull/11334) merged on March 25, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/11334) over 1 day, 274 additions and 58 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; [Animations] add example to `openCntainer`<br />
+  <sub>[#11189](https://github.com/flutter/packages/pull/11189) merged on March 27, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11189) over 3 weeks, 43 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Adds support for analyzer 10<br />
   <sub>[#11346](https://github.com/flutter/packages/pull/11346) merged on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11346) over 1 day, 14 additions and 5 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
@@ -779,6 +783,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [cupertino_icons] Remove empty Dart file<br />
   <sub>[#11308](https://github.com/flutter/packages/pull/11308) merged on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11308) over 4 days, 3 additions and 10 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 2c9eb20739df to db50e20168db (6 revisions)<br />
+  <sub>[#11380](https://github.com/flutter/packages/pull/11380) merged on March 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11380) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### March 14, 2026 to March 20, 2026
 
