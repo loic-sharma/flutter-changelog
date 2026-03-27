@@ -693,7 +693,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-19 commits.
+20 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Optimize data class equality and hashing in Dart, Kotlin, java, and Swift, adds equality in other languages<br />
   <sub>[#11140](https://github.com/flutter/packages/pull/11140) merged on March 25, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/packages/pull/11140) over 3 weeks, 10792 additions and 1635 deletions in 75 files</sub><br />
@@ -727,6 +727,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [camera] Regenerate iOS example with Swift<br />
   <sub>[#11283](https://github.com/flutter/packages/pull/11283) merged on March 25, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/11283) over 6 days, 567 additions and 471 deletions in 55 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Add regression test<br />
+  <sub>[#11376](https://github.com/flutter/packages/pull/11376) merged on March 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11376) over 2 hours, 99 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix span border decorations in flipped cross axes<br />
   <sub>[#11334](https://github.com/flutter/packages/pull/11334) merged on March 25, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/11334) over 1 day, 274 additions and 58 deletions in 7 files</sub><br />

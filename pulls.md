@@ -84,7 +84,7 @@
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/183657) 554 additions and 103 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
-  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183668) 619 additions and 162 deletions in 12 files</sub><br />
+  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/183668) 619 additions and 162 deletions in 12 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
@@ -180,7 +180,7 @@
   <sub>[#184210](https://github.com/flutter/flutter/pull/184210) opened on on March 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184210) 174 additions and 1 deletion in 6 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace usages of `MediaQuery.of(context).property` with `MediaQuery.propertyOf(context)`<br />
-  <sub>[#184211](https://github.com/flutter/flutter/pull/184211) opened on on March 26, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184211) 38 additions and 40 deletions in 23 files</sub><br />
+  <sub>[#184211](https://github.com/flutter/flutter/pull/184211) opened on on March 26, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184211) 38 additions and 39 deletions in 23 files</sub><br />
 
 * **[xxxOVALxxx](https://github.com/xxxOVALxxx)** &mdash; Refactor SnackBar layout to use a custom RenderObject<br />
   <sub>[#184217](https://github.com/flutter/flutter/pull/184217) opened on on March 26, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/184217) 339 additions and 71 deletions in 2 files</sub><br />
