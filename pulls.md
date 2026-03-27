@@ -191,9 +191,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await or ignore to future-returning methods defined in Dart SDK<br />
   <sub>[#184229](https://github.com/flutter/flutter/pull/184229) opened on on March 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184229) 97 additions and 16 deletions in 23 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_driver: remove @internal annotation on field<br />
-  <sub>[#184235](https://github.com/flutter/flutter/pull/184235) opened on on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184235) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Balázs R](https://github.com/nvi9)** &mdash; Fix icon tree shaking when building for desktop<br />
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
 
