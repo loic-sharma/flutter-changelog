@@ -689,7 +689,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-18 commits.
+19 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Optimize data class equality and hashing in Dart, Kotlin, java, and Swift, adds equality in other languages
   <sub>[#11140](https://github.com/flutter/packages/pull/11140) merged on March 25, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/packages/pull/11140) over 3 weeks, 10792 additions and 1635 deletions in 75 files</sub>
@@ -698,6 +698,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Add alignment to TreeView and TableView
   <sub>[#11353](https://github.com/flutter/packages/pull/11353) merged on March 25, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/11353) over 1 hour, 872 additions and 30 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hari07](https://github.com/Hari-07)</sub>
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [quick_actions_ios] UIScene Migration
+  <sub>[#11047](https://github.com/flutter/packages/pull/11047) merged on March 27, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/11047) over 1 month, 185 additions and 8 deletions in 7 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] add more permissions for create-pull-request
   <sub>[#11302](https://github.com/flutter/packages/pull/11302) merged on March 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11302) over 5 days, 7 additions and 1 deletion in 2 files</sub>
