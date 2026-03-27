@@ -701,7 +701,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-22 commits.
+23 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Optimize data class equality and hashing in Dart, Kotlin, java, and Swift, adds equality in other languages
   <sub>[#11140](https://github.com/flutter/packages/pull/11140) merged on March 25, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/packages/pull/11140) over 3 weeks, 10792 additions and 1635 deletions in 75 files</sub>
@@ -771,6 +771,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Fix typo in  release_from_branches.yml
   <sub>[#11356](https://github.com/flutter/packages/pull/11356) merged on March 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11356) over 21 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove CODEOWNERS
+  <sub>[#11375](https://github.com/flutter/packages/pull/11375) merged on March 27, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/11375) over 5 hours, 199 additions and 240 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Reid Baker](https://github.com/reidbaker), [Victoria Ashworth](https://github.com/vashworth), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Update create pull request script in github actions
   <sub>[#11350](https://github.com/flutter/packages/pull/11350) merged on March 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11350) over 1 hour, 17 additions and 17 deletions in 2 files</sub>
