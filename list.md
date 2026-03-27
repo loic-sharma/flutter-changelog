@@ -4,7 +4,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-48 commits.
+49 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub>
@@ -41,6 +41,10 @@
   <sub>[#183846](https://github.com/flutter/flutter/pull/183846) merged on March 25, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/183846) over 6 days, 321 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi), [Camille Simon](https://github.com/camsim99)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Enables sdf lines for metalsdf
+  <sub>[#183809](https://github.com/flutter/flutter/pull/183809) merged on March 27, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/183809) over 1 week, 68 additions and 34 deletions in 7 files</sub>
+  <sub>Reviewed by: [b-luk](https://github.com/b-luk), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds explicit name to the cicd label job.
   <sub>[#184070](https://github.com/flutter/flutter/pull/184070) merged on March 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184070) over 1 day, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
@@ -66,6 +70,10 @@
   <sub>[#184131](https://github.com/flutter/flutter/pull/184131) merged on March 26, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184131) over 22 hours, 129 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] fix selected tristate flags mismatch
+  <sub>[#184223](https://github.com/flutter/flutter/pull/184223) merged on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184223) over 1 day, 46 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; chore: deflake Linux_android_emu android_display_cutout
   <sub>[#183522](https://github.com/flutter/flutter/pull/183522) merged on March 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183522) over 1 week, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -73,10 +81,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [android][a11y] set "android.widget.ProgressBar" according to semantics role
   <sub>[#183897](https://github.com/flutter/flutter/pull/183897) merged on March 23, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/183897) over 3 days, 254 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] fix selected tristate flags mismatch
-  <sub>[#184223](https://github.com/flutter/flutter/pull/184223) merged on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184223) over 1 day, 46 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Mark `IconData` `final` and `@mustBeConst`
   <sub>[#181345](https://github.com/flutter/flutter/pull/181345) merged on March 24, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/181345) over 2 months, 10 additions and 5 deletions in 3 files</sub>
@@ -126,18 +130,6 @@
   <sub>[#183859](https://github.com/flutter/flutter/pull/183859) merged on March 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183859) over 1 week, 38 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Collect impeller analytics for appbundles
-  <sub>[#184146](https://github.com/flutter/flutter/pull/184146) merged on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184146) over 10 hours, 147 additions and 8 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): use positive logic and platform defaults for accessibility features
-  <sub>[#183907](https://github.com/flutter/flutter/pull/183907) merged on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183907) over 3 days, 65 additions and 61 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [tools] Make sure `assemble` has a pubspec as cwd
-  <sub>[#184067](https://github.com/flutter/flutter/pull/184067) merged on March 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184067) over 1 hour, 39 additions and 16 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Refactor layout dimensions
   <sub>[#184066](https://github.com/flutter/flutter/pull/184066) merged on March 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184066) over 4 hours, 78 additions and 48 deletions in 4 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -145,6 +137,18 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart DevTools to a version with correct CIPD tags
   <sub>[#184172](https://github.com/flutter/flutter/pull/184172) merged on March 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184172) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [tools] Make sure `assemble` has a pubspec as cwd
+  <sub>[#184067](https://github.com/flutter/flutter/pull/184067) merged on March 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184067) over 1 hour, 39 additions and 16 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): use positive logic and platform defaults for accessibility features
+  <sub>[#183907](https://github.com/flutter/flutter/pull/183907) merged on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183907) over 3 days, 65 additions and 61 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Collect impeller analytics for appbundles
+  <sub>[#184146](https://github.com/flutter/flutter/pull/184146) merged on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184146) over 10 hours, 147 additions and 8 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]add ci/cd label to ios triage
   <sub>[#184214](https://github.com/flutter/flutter/pull/184214) merged on March 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184214) over 34 minutes, 1 addition and 0 deletions in 1 file</sub>
