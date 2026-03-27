@@ -4,7 +4,7 @@
 
 ### March 21, 2026 to March 27, 2026
 
-40 commits.
+41 commits.
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Add progress bar to artifact downloads
   <sub>[#182836](https://github.com/flutter/flutter/pull/182836) merged on March 23, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/182836) over 3 weeks, 653 additions and 12 deletions in 6 files</sub>
@@ -62,9 +62,9 @@
   <sub>[#181345](https://github.com/flutter/flutter/pull/181345) merged on March 24, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/181345) over 2 months, 10 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix RenderStack's documentation
-  <sub>[#183822](https://github.com/flutter/flutter/pull/183822) merged on March 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183822) over 6 days, 9 additions and 7 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; skip interactive keyboard tests
+  <sub>[#183757](https://github.com/flutter/flutter/pull/183757) merged on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183757) over 1 week, 36 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Samuel Abada](https://github.com/Mastersam07)** &mdash; feat: Add --base-href support to flutter run for web
   <sub>[#182709](https://github.com/flutter/flutter/pull/182709) merged on March 24, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/182709) over 1 month, 202 additions and 12 deletions in 7 files</sub>
@@ -73,6 +73,10 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectableRegion should passthrough constraints to child unmodified
   <sub>[#184083](https://github.com/flutter/flutter/pull/184083) merged on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184083) over 11 hours, 45 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix RenderStack's documentation
+  <sub>[#183822](https://github.com/flutter/flutter/pull/183822) merged on March 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183822) over 6 days, 9 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update iOS/macOS flutter_tools CODEOWNERS
   <sub>[#183287](https://github.com/flutter/flutter/pull/183287) merged on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183287) over 2 weeks, 8 additions and 8 deletions in 1 file</sub>
@@ -106,21 +110,17 @@
   <sub>[#184172](https://github.com/flutter/flutter/pull/184172) merged on March 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184172) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Refactor layout dimensions
-  <sub>[#184066](https://github.com/flutter/flutter/pull/184066) merged on March 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184066) over 4 hours, 78 additions and 48 deletions in 4 files</sub>
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [tools] Make sure `assemble` has a pubspec as cwd
   <sub>[#184067](https://github.com/flutter/flutter/pull/184067) merged on March 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184067) over 1 hour, 39 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Refactor layout dimensions
+  <sub>[#184066](https://github.com/flutter/flutter/pull/184066) merged on March 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184066) over 4 hours, 78 additions and 48 deletions in 4 files</sub>
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): use positive logic and platform defaults for accessibility features
   <sub>[#183907](https://github.com/flutter/flutter/pull/183907) merged on March 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183907) over 3 days, 65 additions and 61 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add widget of the week link in SensitiveContent documentation
-  <sub>[#183972](https://github.com/flutter/flutter/pull/183972) merged on March 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183972) over 4 days, 19 additions and 17 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_goldens] Remove dead check on null being in a list of non-nullables
   <sub>[#183938](https://github.com/flutter/flutter/pull/183938) merged on March 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183938) over 4 days, 0 additions and 18 deletions in 1 file</sub>
@@ -153,6 +153,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Pipes ScrollCacheExtent through more scroll views
   <sub>[#184078](https://github.com/flutter/flutter/pull/184078) merged on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184078) over 23 hours, 107 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add widget of the week link in SensitiveContent documentation
+  <sub>[#183972](https://github.com/flutter/flutter/pull/183972) merged on March 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183972) over 4 days, 19 additions and 17 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add windows instruction to `Forcing Flutter Tools Snapshot Regeneration`
   <sub>[#183977](https://github.com/flutter/flutter/pull/183977) merged on March 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183977) over 2 days, 16 additions and 5 deletions in 1 file</sub>
