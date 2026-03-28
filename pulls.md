@@ -212,9 +212,9 @@
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove feedback_tester cross-imports from material tests<br />
   <sub>[#184279](https://github.com/flutter/flutter/pull/184279) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184279) 68 additions and 17 deletions in 18 files</sub><br />
 
-* **[Leandro](https://github.com/lrauseo)** &mdash; Input formatters date picker<br />
-  <sub>[#184280](https://github.com/flutter/flutter/pull/184280) opened on on March 28, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/184280) 405 additions and 2 deletions in 4 files</sub><br />
-
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove navigator_utils cross-imports from cupertino tests<br />
   <sub>[#184282](https://github.com/flutter/flutter/pull/184282) opened on on March 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184282) 19 additions and 1 deletion in 2 files</sub><br />
+
+* **[Leandro](https://github.com/lrauseo)** &mdash; Date picker support input formatters<br />
+  <sub>[#184283](https://github.com/flutter/flutter/pull/184283) opened on on March 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/184283) 392 additions and 2 deletions in 4 files</sub><br />
 
