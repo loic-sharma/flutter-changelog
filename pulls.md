@@ -221,3 +221,6 @@
 * **[Zendy](https://github.com/zendy199x)** &mdash; fix: clamp texture dimensions to prevent zero-sized textures (#179572)<br />
   <sub>[#184285](https://github.com/flutter/flutter/pull/184285) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184285) 4 additions and 0 deletions in 1 file</sub><br />
 
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Hold startup lock through `pub get` to prevent races<br />
+  <sub>[#184294](https://github.com/flutter/flutter/pull/184294) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184294) 96 additions and 2 deletions in 2 files</sub><br />
+
