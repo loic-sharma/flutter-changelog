@@ -224,3 +224,6 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Hold startup lock through `pub get` to prevent races<br />
   <sub>[#184294](https://github.com/flutter/flutter/pull/184294) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184294) 96 additions and 2 deletions in 2 files</sub><br />
 
+* **[xfce0](https://github.com/xfce0)** &mdash; Remove trivial test utility cross-imports from material and cupertino…<br />
+  <sub>[#184295](https://github.com/flutter/flutter/pull/184295) opened on on March 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184295) 131 additions and 5 deletions in 9 files</sub><br />
+
