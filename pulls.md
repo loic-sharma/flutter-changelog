@@ -216,7 +216,7 @@
   <sub>[#184282](https://github.com/flutter/flutter/pull/184282) opened on on March 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184282) 19 additions and 1 deletion in 2 files</sub><br />
 
 * **[Leandro](https://github.com/lrauseo)** &mdash; Date picker support input formatters<br />
-  <sub>[#184283](https://github.com/flutter/flutter/pull/184283) opened on on March 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/184283) 392 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#184283](https://github.com/flutter/flutter/pull/184283) opened on on March 28, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/184283) 392 additions and 2 deletions in 4 files</sub><br />
 
 * **[Zendy](https://github.com/zendy199x)** &mdash; fix: clamp texture dimensions to prevent zero-sized textures (#179572)<br />
   <sub>[#184285](https://github.com/flutter/flutter/pull/184285) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184285) 4 additions and 0 deletions in 1 file</sub><br />
