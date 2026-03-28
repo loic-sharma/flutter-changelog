@@ -15,14 +15,14 @@
   <sub>[#175710](https://github.com/flutter/flutter/pull/175710) merged on March 27, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/flutter/pull/175710) over 6 months, 738 additions and 13 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; feat(web): unify CanvasKit and Skwasm garbage collection
+  <sub>[#183867](https://github.com/flutter/flutter/pull/183867) merged on March 27, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/183867) over 1 week, 849 additions and 427 deletions in 29 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[walley892](https://github.com/walley892)** &mdash; fix gaussian blur getting clipped with negative scale
   <sub>[#184037](https://github.com/flutter/flutter/pull/184037) merged on March 24, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184037) over 19 hours, 42 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
   <sub><details><summary>2 images...</summary><img width="799" height="626" alt="Screenshot 2026-03-23 at 2 28 06 PM" src="https://github.com/user-attachments/assets/ed26b264-a1b2-481e-aa54-9be6858b35f5" /><img width="799" height="626" alt="Screenshot 2026-03-23 at 2 27 10 PM" src="https://github.com/user-attachments/assets/2f8edf40-e4da-4833-88ca-1ff6180c25ac" /></details></sub>
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; feat(web): unify CanvasKit and Skwasm garbage collection
-  <sub>[#183867](https://github.com/flutter/flutter/pull/183867) merged on March 27, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/183867) over 1 week, 849 additions and 427 deletions in 29 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Refactor: Removes Geometry field from ColorSourceContents
   <sub>[#183952](https://github.com/flutter/flutter/pull/183952) merged on March 24, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/183952) over 3 days, 235 additions and 215 deletions in 28 files</sub>
