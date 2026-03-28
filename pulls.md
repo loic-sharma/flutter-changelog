@@ -206,3 +206,9 @@
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
 
+* **[xfce0](https://github.com/xfce0)** &mdash; Remove clipboard_utils cross-imports from material and cupertino tests<br />
+  <sub>[#184278](https://github.com/flutter/flutter/pull/184278) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184278) 71 additions and 11 deletions in 13 files</sub><br />
+
+* **[xfce0](https://github.com/xfce0)** &mdash; Remove feedback_tester cross-imports from material tests<br />
+  <sub>[#184279](https://github.com/flutter/flutter/pull/184279) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184279) 68 additions and 17 deletions in 18 files</sub><br />
+
