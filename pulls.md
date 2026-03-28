@@ -221,6 +221,3 @@
 * **[Zendy](https://github.com/zendy199x)** &mdash; fix: clamp texture dimensions to prevent zero-sized textures (#179572)<br />
   <sub>[#184285](https://github.com/flutter/flutter/pull/184285) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184285) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[randomizedcoder](https://github.com/randomizedcoder)** &mdash; Store Flutter README logos locally as WebP<br />
-  <sub>[#184290](https://github.com/flutter/flutter/pull/184290) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184290) 4 additions and 2 deletions in 6 files</sub><br />
-
