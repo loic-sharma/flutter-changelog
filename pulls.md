@@ -212,3 +212,6 @@
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove feedback_tester cross-imports from material tests<br />
   <sub>[#184279](https://github.com/flutter/flutter/pull/184279) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184279) 68 additions and 17 deletions in 18 files</sub><br />
 
+* **[Leandro](https://github.com/lrauseo)** &mdash; Input formatters date picker<br />
+  <sub>[#184280](https://github.com/flutter/flutter/pull/184280) opened on on March 28, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/184280) 398 additions and 3 deletions in 4 files</sub><br />
+
