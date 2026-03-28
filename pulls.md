@@ -203,3 +203,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; chore: remove unneeded `null` args to completer.complete<br />
   <sub>[#184274](https://github.com/flutter/flutter/pull/184274) opened on on March 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184274) 13 additions and 13 deletions in 3 files</sub><br />
 
+* **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
+  <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
+
