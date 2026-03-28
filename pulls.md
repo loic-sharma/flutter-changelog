@@ -200,3 +200,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Make it safe to call dispose multiple times on a CkSurface<br />
   <sub>[#184270](https://github.com/flutter/flutter/pull/184270) opened on on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184270) 12 additions and 0 deletions in 2 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; chore: remove unneeded `null` args to completer.complete<br />
+  <sub>[#184274](https://github.com/flutter/flutter/pull/184274) opened on on March 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184274) 13 additions and 13 deletions in 3 files</sub><br />
+
