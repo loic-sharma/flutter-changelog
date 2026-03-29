@@ -233,3 +233,9 @@
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
+* **[randomizedcoder](https://github.com/randomizedcoder)** &mdash; Add awaits to examples/ test driver callsites<br />
+  <sub>[#184316](https://github.com/flutter/flutter/pull/184316) opened on on March 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184316) 3 additions and 3 deletions in 3 files</sub><br />
+
+* **[randomizedcoder](https://github.com/randomizedcoder)** &mdash; Add await to response.close() in examples/image_list<br />
+  <sub>[#184318](https://github.com/flutter/flutter/pull/184318) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184318) 1 addition and 1 deletion in 1 file</sub><br />
+
