@@ -230,3 +230,6 @@
 * **[mohammadmseet-hue](https://github.com/mohammadmseet-hue)** &mdash; Reject fdAT chunks with data_length < 4 in APNG parser to prevent heap overflow<br />
   <sub>[#184301](https://github.com/flutter/flutter/pull/184301) opened on on March 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184301) 209 additions and 0 deletions in 2 files</sub><br />
 
+* **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
+  <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
+
