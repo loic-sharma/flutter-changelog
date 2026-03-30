@@ -514,11 +514,15 @@
 
 ### March 28, 2026 to April 3, 2026
 
-4 commits.
+5 commits.
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Reduces lint rules ignored in generated Dart code
   <sub>[#11230](https://github.com/flutter/packages/pull/11230) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11230) over 2 weeks, 16 additions and 18 deletions in 15 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [ci] Add permission to  release_from_branches.yml
+  <sub>[#11397](https://github.com/flutter/packages/pull/11397) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11397) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add missing exports
   <sub>[#11196](https://github.com/flutter/packages/pull/11196) merged on March 30, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11196) over 3 weeks, 89 additions and 9 deletions in 8 files</sub>
