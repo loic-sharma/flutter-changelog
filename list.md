@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-4 commits.
+7 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Add alwaysSizeToContent argument to Overlay.
   <sub>[#182009](https://github.com/flutter/flutter/pull/182009) merged on March 30, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182009) over 1 month, 122 additions and 9 deletions in 2 files</sub>
@@ -14,6 +14,10 @@
   <sub>[#184084](https://github.com/flutter/flutter/pull/184084) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184084) over 5 days, 136 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[saurabh-mirajkar](https://github.com/saurabh-mirajkar)** &mdash; Update TabBar documentation to clarify indicatorWeight behavior
+  <sub>[#184104](https://github.com/flutter/flutter/pull/184104) merged on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184104) over 5 days, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; fixes crash when invisible semantics nodes dropped from semantics tree
   <sub>[#184226](https://github.com/flutter/flutter/pull/184226) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184226) over 3 days, 68 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
@@ -21,6 +25,14 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland "Fix Slider semantics node size" with some changes 
   <sub>[#184168](https://github.com/flutter/flutter/pull/184168) merged on March 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/184168) over 4 days, 311 additions and 196 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 13.2.1
+  <sub>[#184210](https://github.com/flutter/flutter/pull/184210) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184210) over 4 days, 174 additions and 1 deletion in 6 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Remove unused parameters in a few places
+  <sub>[#183156](https://github.com/flutter/flutter/pull/183156) merged on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183156) over 3 weeks, 11 additions and 27 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 ### March 21, 2026 to March 27, 2026
 

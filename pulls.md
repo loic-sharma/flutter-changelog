@@ -56,9 +56,6 @@
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix wording and suggest GitHub Gist for sharing large logs<br />
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183063) 0 additions and 0 deletions in 0 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Remove unused parameters in a few places<br />
-  <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
-
 * **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183180) 37 additions and 0 deletions in 4 files</sub><br />
 
@@ -97,6 +94,9 @@
 
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implementation of undecorated windows for win32<br />
+  <sub>[#183839](https://github.com/flutter/flutter/pull/183839) opened on on March 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/183839) 70 additions and 19 deletions in 11 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Keep ExpansionPanelList dividers when expanded with 0 materialGapSize<br />
   <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183975) 172 additions and 9 deletions in 4 files</sub><br />
@@ -160,9 +160,6 @@
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove sliver_test_utils cross-import from sliver_app_bar_test<br />
   <sub>[#184193](https://github.com/flutter/flutter/pull/184193) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184193) 21 additions and 11 deletions in 1 file</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 13.2.1<br />
-  <sub>[#184210](https://github.com/flutter/flutter/pull/184210) opened on on March 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184210) 174 additions and 1 deletion in 6 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace usages of `MediaQuery.of(context).property` with `MediaQuery.propertyOf(context)`<br />
   <sub>[#184211](https://github.com/flutter/flutter/pull/184211) opened on on March 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184211) 38 additions and 39 deletions in 23 files</sub><br />
