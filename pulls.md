@@ -228,16 +228,16 @@
   <sub>[#184301](https://github.com/flutter/flutter/pull/184301) opened on on March 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184301) 215 additions and 0 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
-  <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
 * **[randomizedcoder](https://github.com/randomizedcoder)** &mdash; Add awaits to examples/ test driver callsites<br />
-  <sub>[#184316](https://github.com/flutter/flutter/pull/184316) opened on on March 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184316) 3 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#184316](https://github.com/flutter/flutter/pull/184316) opened on on March 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184316) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[randomizedcoder](https://github.com/randomizedcoder)** &mdash; Add await to response.close() in examples/image_list<br />
-  <sub>[#184318](https://github.com/flutter/flutter/pull/184318) opened on on March 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184318) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#184318](https://github.com/flutter/flutter/pull/184318) opened on on March 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184318) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Update xcode_project.dart<br />
-  <sub>[#184326](https://github.com/flutter/flutter/pull/184326) opened on on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184326) 7 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#184326](https://github.com/flutter/flutter/pull/184326) opened on on March 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184326) 7 additions and 1 deletion in 2 files</sub><br />
 
 * **[Akshya Yadav](https://github.com/Akshya107)** &mdash; Fix DropdownMenu highlight when enableSearch is false<br />
   <sub>[#184330](https://github.com/flutter/flutter/pull/184330) opened on on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184330) 29 additions and 5 deletions in 2 files</sub><br />
@@ -247,4 +247,7 @@
 
 * **[orbisai0security](https://github.com/orbisai0security)** &mdash; fix: sanitize subprocess call in flutter_gdb<br />
   <sub>[#184336](https://github.com/flutter/flutter/pull/184336) opened on on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184336) 15 additions and 1 deletion in 1 file</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [web_ui] Fix avoid_type_to_string lint violation<br />
+  <sub>[#184342](https://github.com/flutter/flutter/pull/184342) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184342) 1 addition and 1 deletion in 1 file</sub><br />
 

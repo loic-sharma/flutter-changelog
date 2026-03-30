@@ -484,9 +484,18 @@
 
 ## flutter/packages
 
+### March 28, 2026 to April 3, 2026
+
+1 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Uses fluttergithubbot to create branches and PRs
+  <sub>[#11368](https://github.com/flutter/packages/pull/11368) merged on March 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11368) over 3 days, 4 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
 ### March 21, 2026 to March 27, 2026
 
-24 commits.
+<details>
+<summary>24 commits...</summary>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Optimize data class equality and hashing in Dart, Kotlin, java, and Swift, adds equality in other languages
   <sub>[#11140](https://github.com/flutter/packages/pull/11140) merged on March 25, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/packages/pull/11140) over 3 weeks, 10792 additions and 1635 deletions in 75 files</sub>
@@ -584,6 +593,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 2c9eb20739df to db50e20168db (6 revisions)
   <sub>[#11380](https://github.com/flutter/packages/pull/11380) merged on March 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11380) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### March 14, 2026 to March 20, 2026
 
@@ -685,7 +696,7 @@
   <sub>[#13203](https://github.com/flutter/website/pull/13203) merged on March 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13203) over 1 week, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
-* **[shemetov-coder](https://github.com/shemetov-coder)** &mdash; Fix broken url of the App Brewery course
+* **[Shemetov Max](https://github.com/shemetov-coder)** &mdash; Fix broken url of the App Brewery course
   <sub>[#13228](https://github.com/flutter/website/pull/13228) merged on March 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13228) over 7 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
