@@ -686,7 +686,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-4 commits.
+5 commits.
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Clarify ListTile error reporting in colored widget<br />
   <sub>[#13222](https://github.com/flutter/website/pull/13222) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13222) over 3 days, 9 additions and 9 deletions in 2 files</sub><br />
@@ -695,6 +695,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix list formatting on Antigravity page<br />
   <sub>[#13227](https://github.com/flutter/website/pull/13227) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13227) over 3 days, 15 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing use of the css_colors package which is no longer used<br />
+  <sub>[#13225](https://github.com/flutter/website/pull/13225) merged on March 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13225) over 3 days, 32 additions and 38 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[solsTiCe d'Hiver](https://github.com/solsticedhiver)** &mdash; Also fix versionName in example build.gradle.kts<br />
   <sub>[#13203](https://github.com/flutter/website/pull/13203) merged on March 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13203) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />

@@ -60,7 +60,7 @@
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
 
 * **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
-  <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183180) 37 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183180) 37 additions and 0 deletions in 4 files</sub><br />
 
 * **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
@@ -125,9 +125,6 @@
 * **[BART SIMPSON](https://github.com/BartSimpson001)** &mdash; Fix reloaded_sources.json returning incorrect src URL (localhost) in web-server mode<br />
   <sub>[#184069](https://github.com/flutter/flutter/pull/184069) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184069) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[arcashka](https://github.com/arcashka)** &mdash; [Impeller] Fix morphology filter asymmetric dilation/erosion<br />
-  <sub>[#184073](https://github.com/flutter/flutter/pull/184073) opened on on March 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184073) 129 additions and 7 deletions in 4 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Moves android_semantics_integration_test out of staging<br />
   <sub>[#184079](https://github.com/flutter/flutter/pull/184079) opened on on March 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184079) 0 additions and 1 deletion in 1 file</sub><br />
 
@@ -152,9 +149,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update Golden Images to 26.4<br />
   <sub>[#184143](https://github.com/flutter/flutter/pull/184143) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184143) 0 additions and 0 deletions in 37 files</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused `FlutterRunArguments.java` file <br />
-  <sub>[#184160](https://github.com/flutter/flutter/pull/184160) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184160) 0 additions and 13 deletions in 2 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Handle events without a device<br />
   <sub>[#184163](https://github.com/flutter/flutter/pull/184163) opened on on March 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184163) 7 additions and 2 deletions in 2 files</sub><br />
 
@@ -169,6 +163,9 @@
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove sliver_test_utils cross-import from sliver_app_bar_test<br />
   <sub>[#184193](https://github.com/flutter/flutter/pull/184193) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184193) 21 additions and 11 deletions in 1 file</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add integration scripts and tools for SwiftPM add to app<br />
+  <sub>[#184204](https://github.com/flutter/flutter/pull/184204) opened on on March 26, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/184204) 3294 additions and 80 deletions in 20 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 13.2.1<br />
   <sub>[#184210](https://github.com/flutter/flutter/pull/184210) opened on on March 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184210) 174 additions and 1 deletion in 6 files</sub><br />
@@ -212,9 +209,6 @@
 * **[Leandro](https://github.com/lrauseo)** &mdash; Date picker support input formatters<br />
   <sub>[#184283](https://github.com/flutter/flutter/pull/184283) opened on on March 28, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/184283) 400 additions and 0 deletions in 4 files</sub><br />
 
-* **[Zendy](https://github.com/zendy199x)** &mdash; fix: clamp texture dimensions to prevent zero-sized textures (#179572)<br />
-  <sub>[#184285](https://github.com/flutter/flutter/pull/184285) opened on on March 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184285) 9 additions and 5 deletions in 1 file</sub><br />
-
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Hold startup lock until after `pub get` to prevent races<br />
   <sub>[#184294](https://github.com/flutter/flutter/pull/184294) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184294) 96 additions and 2 deletions in 2 files</sub><br />
 
@@ -238,9 +232,6 @@
 
 * **[SolveJet-team](https://github.com/solvejet-team)** &mdash; Fix _scheduleSystemFontsUpdate assertion during non-idle scheduler phase<br />
   <sub>[#184332](https://github.com/flutter/flutter/pull/184332) opened on on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184332) 60 additions and 16 deletions in 3 files</sub><br />
-
-* **[orbisai0security](https://github.com/orbisai0security)** &mdash; fix: sanitize subprocess call in flutter_gdb<br />
-  <sub>[#184336](https://github.com/flutter/flutter/pull/184336) opened on on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184336) 15 additions and 1 deletion in 1 file</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [web_ui] Fix avoid_type_to_string lint violation<br />
   <sub>[#184342](https://github.com/flutter/flutter/pull/184342) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184342) 1 addition and 1 deletion in 1 file</sub><br />
