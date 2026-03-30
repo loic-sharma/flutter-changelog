@@ -93,7 +93,7 @@
   <sub>[#183793](https://github.com/flutter/flutter/pull/183793) opened on on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183793) 32 additions and 0 deletions in 2 files</sub><br />
 
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
-  <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implementation of undecorated windows for win32<br />
   <sub>[#183839](https://github.com/flutter/flutter/pull/183839) opened on on March 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183839) 70 additions and 19 deletions in 11 files</sub><br />

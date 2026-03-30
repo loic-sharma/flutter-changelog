@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-9 commits.
+10 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(web): call ui.Picture.onDispose for the original picture only
   <sub>[#184348](https://github.com/flutter/flutter/pull/184348) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184348) over 3 hours, 20 additions and 13 deletions in 3 files</sub>
@@ -29,6 +29,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland "Fix Slider semantics node size" with some changes 
   <sub>[#184168](https://github.com/flutter/flutter/pull/184168) merged on March 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/184168) over 4 days, 311 additions and 196 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Rick roll triagers on/near April 1st
+  <sub>[#184355](https://github.com/flutter/flutter/pull/184355) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184355) over 3 hours, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Make it safe to call dispose multiple times on a CkSurface
   <sub>[#184270](https://github.com/flutter/flutter/pull/184270) merged on March 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184270) over 2 days, 12 additions and 0 deletions in 2 files</sub>
