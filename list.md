@@ -673,6 +673,10 @@
 
 16 commits.
 
+* **[Albert Wolszon](https://github.com/Albert221)** &mdash; Fix casing of LeanCode brand in docs
+  <sub>[#13195](https://github.com/flutter/website/pull/13195) merged on March 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13195) over 6 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migration guide for `IconData`
   <sub>[#13005](https://github.com/flutter/website/pull/13005) merged on March 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13005) over 1 month, 135 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub>
@@ -684,10 +688,6 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Replacing mention of Firebase Studio with Antigravity
   <sub>[#13201](https://github.com/flutter/website/pull/13201) merged on March 25, 2026 &mdash; **Medium:** [32 comments](https://github.com/flutter/website/pull/13201) over 4 days, 139 additions and 191 deletions in 10 files</sub>
   <sub>Reviewed by: [Michael Thomsen](https://github.com/mit-mit), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
-
-* **[Albert Wolszon](https://github.com/Albert221)** &mdash; Fix casing of LeanCode brand in docs
-  <sub>[#13195](https://github.com/flutter/website/pull/13195) merged on March 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13195) over 6 days, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update destination URL for flutter.dev/go/windows-arm64
   <sub>[#13224](https://github.com/flutter/website/pull/13224) merged on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13224) over 12 hours, 1 addition and 1 deletion in 1 file</sub>
