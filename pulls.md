@@ -140,9 +140,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter] Remove dead check on null being in a set of non-nullables<br />
   <sub>[#184100](https://github.com/flutter/flutter/pull/184100) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184100) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Aditya Swaroop](https://github.com/as567-code)** &mdash; Fix web proxy incorrectly merging multiple Set-Cookie headers<br />
-  <sub>[#184103](https://github.com/flutter/flutter/pull/184103) opened on on March 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184103) 196 additions and 1 deletion in 2 files</sub><br />
-
 * **[richardexfo](https://github.com/richardexfo)** &mdash; fix height in composite_layer<br />
   <sub>[#184118](https://github.com/flutter/flutter/pull/184118) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184118) 1 addition and 1 deletion in 1 file</sub><br />
 
