@@ -245,3 +245,6 @@
 * **[SolveJet-team](https://github.com/solvejet-team)** &mdash; Fix _scheduleSystemFontsUpdate assertion during non-idle scheduler phase<br />
   <sub>[#184332](https://github.com/flutter/flutter/pull/184332) opened on on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184332) 60 additions and 16 deletions in 3 files</sub><br />
 
+* **[tjoengCRC](https://github.com/tjoengCRC)** &mdash; Allow period characters in iOS and macOS framework names<br />
+  <sub>[#184335](https://github.com/flutter/flutter/pull/184335) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184335) 5 additions and 4 deletions in 3 files</sub><br />
+
