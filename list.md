@@ -722,7 +722,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-5 commits.
+6 commits.
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Clarify ListTile error reporting in colored widget
   <sub>[#13222](https://github.com/flutter/website/pull/13222) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13222) over 3 days, 9 additions and 9 deletions in 2 files</sub>
@@ -731,6 +731,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix list formatting on Antigravity page
   <sub>[#13227](https://github.com/flutter/website/pull/13227) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13227) over 3 days, 15 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a visual that shows a SnackBar
+  <sub>[#13231](https://github.com/flutter/website/pull/13231) merged on March 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13231) over 1 hour, 14 additions and 11 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing use of the css_colors package which is no longer used
   <sub>[#13225](https://github.com/flutter/website/pull/13225) merged on March 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13225) over 3 days, 32 additions and 38 deletions in 3 files</sub>
