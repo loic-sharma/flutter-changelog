@@ -522,11 +522,15 @@
 
 ### March 28, 2026 to April 3, 2026
 
-5 commits.
+6 commits.
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Reduces lint rules ignored in generated Dart code
   <sub>[#11230](https://github.com/flutter/packages/pull/11230) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11230) over 2 weeks, 16 additions and 18 deletions in 15 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [ci] Compares commits before creating a sync PR to sync release branch back to the main branch.
+  <sub>[#11398](https://github.com/flutter/packages/pull/11398) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11398) over 3 hours, 16 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [ci] Add permission to  release_from_branches.yml
   <sub>[#11397](https://github.com/flutter/packages/pull/11397) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11397) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
