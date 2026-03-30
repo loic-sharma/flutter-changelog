@@ -230,3 +230,6 @@
 * **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix/181532 widgetspan alignment<br />
   <sub>[#184347](https://github.com/flutter/flutter/pull/184347) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184347) 52 additions and 1 deletion in 3 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow the background color to be set for regular windows<br />
+  <sub>[#184366](https://github.com/flutter/flutter/pull/184366) opened on on March 30, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184366) 123 additions and 0 deletions in 4 files</sub><br />
+
