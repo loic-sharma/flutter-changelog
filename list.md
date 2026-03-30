@@ -4,11 +4,19 @@
 
 ### March 28, 2026 to April 3, 2026
 
-2 commits.
+4 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Add alwaysSizeToContent argument to Overlay.
   <sub>[#182009](https://github.com/flutter/flutter/pull/182009) merged on March 30, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182009) over 1 month, 122 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add title evaluation
+  <sub>[#184084](https://github.com/flutter/flutter/pull/184084) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184084) over 5 days, 136 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; fixes crash when invisible semantics nodes dropped from semantics tree
+  <sub>[#184226](https://github.com/flutter/flutter/pull/184226) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184226) over 3 days, 68 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland "Fix Slider semantics node size" with some changes 
   <sub>[#184168](https://github.com/flutter/flutter/pull/184168) merged on March 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/184168) over 4 days, 311 additions and 196 deletions in 4 files</sub>

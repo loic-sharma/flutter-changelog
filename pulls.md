@@ -222,7 +222,7 @@
   <sub>[#184316](https://github.com/flutter/flutter/pull/184316) opened on on March 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184316) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[randomizedcoder](https://github.com/randomizedcoder)** &mdash; Add await to response.close() in examples/image_list<br />
-  <sub>[#184318](https://github.com/flutter/flutter/pull/184318) opened on on March 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184318) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#184318](https://github.com/flutter/flutter/pull/184318) opened on on March 29, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184318) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Akshya Yadav](https://github.com/Akshya107)** &mdash; Fix DropdownMenu highlight when enableSearch is false<br />
   <sub>[#184330](https://github.com/flutter/flutter/pull/184330) opened on on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184330) 29 additions and 5 deletions in 2 files</sub><br />
