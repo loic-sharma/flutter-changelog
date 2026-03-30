@@ -179,6 +179,9 @@
 * **[Balázs R](https://github.com/nvi9)** &mdash; Fix icon tree shaking when building for desktop<br />
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove workaround for fake impeller images in iOS simulator.<br />
+  <sub>[#184264](https://github.com/flutter/flutter/pull/184264) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184264) 4 additions and 73 deletions in 5 files</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes a flake in reload shaders tests<br />
   <sub>[#184268](https://github.com/flutter/flutter/pull/184268) opened on on March 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184268) 23 additions and 8 deletions in 1 file</sub><br />
 
@@ -219,7 +222,7 @@
   <sub>[#184316](https://github.com/flutter/flutter/pull/184316) opened on on March 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184316) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[randomizedcoder](https://github.com/randomizedcoder)** &mdash; Add await to response.close() in examples/image_list<br />
-  <sub>[#184318](https://github.com/flutter/flutter/pull/184318) opened on on March 29, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184318) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#184318](https://github.com/flutter/flutter/pull/184318) opened on on March 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184318) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Akshya Yadav](https://github.com/Akshya107)** &mdash; Fix DropdownMenu highlight when enableSearch is false<br />
   <sub>[#184330](https://github.com/flutter/flutter/pull/184330) opened on on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184330) 29 additions and 5 deletions in 2 files</sub><br />
