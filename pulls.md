@@ -60,7 +60,7 @@
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183156) 11 additions and 27 deletions in 3 files</sub><br />
 
 * **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
-  <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183180) 37 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183180) 37 additions and 0 deletions in 4 files</sub><br />
 
 * **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
@@ -119,9 +119,6 @@
 * **[Naman Goyal](https://github.com/NamanGoyalK)** &mdash; Tool: Add search and filtering to widget preview scaffold<br />
   <sub>[#184023](https://github.com/flutter/flutter/pull/184023) opened on on March 23, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/184023) 368 additions and 48 deletions in 3 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add a semantics role for slider <br />
-  <sub>[#184029](https://github.com/flutter/flutter/pull/184029) opened on on March 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/184029) 347 additions and 8 deletions in 12 files</sub><br />
-
 * **[trizin](https://github.com/trizin)** &mdash; [flutter_tools] Fix arm64e incorrectly matching arm64 in regex check<br />
   <sub>[#184057](https://github.com/flutter/flutter/pull/184057) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184057) 5 additions and 3 deletions in 2 files</sub><br />
 
@@ -147,7 +144,7 @@
   <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184120) 93 additions and 2 deletions in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Ignore incoming deprecated_web_configuration lint<br />
-  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184130) 2 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184130) 2 additions and 0 deletions in 2 files</sub><br />
 
 * **[Rafa Ruiz](https://github.com/RafaRuiz)** &mdash; Allow [NavigationDestination]'s text to be aligned horizontally<br />
   <sub>[#184136](https://github.com/flutter/flutter/pull/184136) opened on on March 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184136) 60 additions and 1 deletion in 2 files</sub><br />
@@ -234,7 +231,7 @@
   <sub>[#184316](https://github.com/flutter/flutter/pull/184316) opened on on March 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184316) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[randomizedcoder](https://github.com/randomizedcoder)** &mdash; Add await to response.close() in examples/image_list<br />
-  <sub>[#184318](https://github.com/flutter/flutter/pull/184318) opened on on March 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184318) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#184318](https://github.com/flutter/flutter/pull/184318) opened on on March 29, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184318) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Akshya Yadav](https://github.com/Akshya107)** &mdash; Fix DropdownMenu highlight when enableSearch is false<br />
   <sub>[#184330](https://github.com/flutter/flutter/pull/184330) opened on on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184330) 29 additions and 5 deletions in 2 files</sub><br />
@@ -249,5 +246,5 @@
   <sub>[#184342](https://github.com/flutter/flutter/pull/184342) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184342) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix/181532 widgetspan alignment<br />
-  <sub>[#184347](https://github.com/flutter/flutter/pull/184347) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184347) 59 additions and 2 deletions in 5 files</sub><br />
+  <sub>[#184347](https://github.com/flutter/flutter/pull/184347) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184347) 52 additions and 1 deletion in 3 files</sub><br />
 
