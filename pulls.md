@@ -242,3 +242,6 @@
 * **[ishivamg](https://github.com/ishivamg)** &mdash; Update xcode_project.dart<br />
   <sub>[#184326](https://github.com/flutter/flutter/pull/184326) opened on on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184326) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Akshya Yadav](https://github.com/Akshya107)** &mdash; Fix DropdownMenu highlight when enableSearch is false<br />
+  <sub>[#184330](https://github.com/flutter/flutter/pull/184330) opened on on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184330) 29 additions and 5 deletions in 2 files</sub><br />
+
