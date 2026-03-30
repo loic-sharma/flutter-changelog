@@ -669,9 +669,30 @@
 
 ## flutter/website
 
+### March 28, 2026 to April 3, 2026
+
+4 commits.
+
+* **[Albert Wolszon](https://github.com/Albert221)** &mdash; Clarify ListTile error reporting in colored widget<br />
+  <sub>[#13222](https://github.com/flutter/website/pull/13222) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13222) over 3 days, 9 additions and 9 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix list formatting on Antigravity page<br />
+  <sub>[#13227](https://github.com/flutter/website/pull/13227) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13227) over 3 days, 15 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[solsTiCe d'Hiver](https://github.com/solsticedhiver)** &mdash; Also fix versionName in example build.gradle.kts<br />
+  <sub>[#13203](https://github.com/flutter/website/pull/13203) merged on March 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13203) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[shemetov-coder](https://github.com/shemetov-coder)** &mdash; Fix broken url of the App Brewery course<br />
+  <sub>[#13228](https://github.com/flutter/website/pull/13228) merged on March 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13228) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 ### March 21, 2026 to March 27, 2026
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Fix casing of LeanCode brand in docs<br />
   <sub>[#13195](https://github.com/flutter/website/pull/13195) merged on March 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13195) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -736,6 +757,8 @@
 * **[Andrew Brogdon](https://github.com/redbrogdon)** &mdash; Add /genui-codelab redirect<br />
   <sub>[#13217](https://github.com/flutter/website/pull/13217) merged on March 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13217) over 5 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### March 14, 2026 to March 20, 2026
 
