@@ -117,7 +117,7 @@
   <sub>[#184097](https://github.com/flutter/flutter/pull/184097) opened on on March 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184097) 142 additions and 2 deletions in 4 files</sub><br />
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; fix height in composite_layer<br />
-  <sub>[#184118](https://github.com/flutter/flutter/pull/184118) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184118) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#184118](https://github.com/flutter/flutter/pull/184118) opened on on March 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184118) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [web] Prioritize Noto Color Emoji in font fallback selection<br />
   <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184120) 93 additions and 2 deletions in 2 files</sub><br />
@@ -216,7 +216,7 @@
   <sub>[#184421](https://github.com/flutter/flutter/pull/184421) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184421) 52 additions and 6 deletions in 3 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; wip: vmex<br />
-  <sub>[#184422](https://github.com/flutter/flutter/pull/184422) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184422) 6 additions and 4 deletions in 5 files</sub><br />
+  <sub>[#184422](https://github.com/flutter/flutter/pull/184422) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184422) 9 additions and 8 deletions in 8 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix selecting backwards when involving widget spans<br />
   <sub>[#184423](https://github.com/flutter/flutter/pull/184423) opened on on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184423) 103 additions and 3 deletions in 2 files</sub><br />
