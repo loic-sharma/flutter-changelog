@@ -179,9 +179,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove workaround for fake impeller images in iOS simulator.<br />
   <sub>[#184264](https://github.com/flutter/flutter/pull/184264) opened on on March 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184264) 4 additions and 73 deletions in 5 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes a flake in reload shaders tests<br />
-  <sub>[#184268](https://github.com/flutter/flutter/pull/184268) opened on on March 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184268) 23 additions and 8 deletions in 1 file</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; chore: remove unneeded `null` args to completer.complete<br />
   <sub>[#184274](https://github.com/flutter/flutter/pull/184274) opened on on March 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184274) 13 additions and 13 deletions in 3 files</sub><br />
 
