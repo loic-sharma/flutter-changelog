@@ -162,10 +162,7 @@
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin<br />
-  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184255) 171 additions and 0 deletions in 3 files</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; chore: remove unneeded `null` args to completer.complete<br />
-  <sub>[#184274](https://github.com/flutter/flutter/pull/184274) opened on on March 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184274) 13 additions and 13 deletions in 3 files</sub><br />
+  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184255) 237 additions and 0 deletions in 3 files</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
