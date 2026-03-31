@@ -168,13 +168,10 @@
   <sub>[#184219](https://github.com/flutter/flutter/pull/184219) opened on on March 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184219) 47 additions and 15 deletions in 2 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await or ignore to future-returning methods defined in Dart SDK<br />
-  <sub>[#184229](https://github.com/flutter/flutter/pull/184229) opened on on March 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184229) 97 additions and 16 deletions in 23 files</sub><br />
+  <sub>[#184229](https://github.com/flutter/flutter/pull/184229) opened on on March 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184229) 97 additions and 16 deletions in 23 files</sub><br />
 
 * **[Balázs R](https://github.com/nvi9)** &mdash; Fix icon tree shaking when building for desktop<br />
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove workaround for fake impeller images in iOS simulator.<br />
-  <sub>[#184264](https://github.com/flutter/flutter/pull/184264) opened on on March 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184264) 4 additions and 73 deletions in 5 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; chore: remove unneeded `null` args to completer.complete<br />
   <sub>[#184274](https://github.com/flutter/flutter/pull/184274) opened on on March 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184274) 13 additions and 13 deletions in 3 files</sub><br />
@@ -220,4 +217,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow the background color to be set for regular windows<br />
   <sub>[#184366](https://github.com/flutter/flutter/pull/184366) opened on on March 30, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184366) 123 additions and 0 deletions in 4 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bumping KGP error minimum to 2.0.0<br />
+  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184385) 37 additions and 18 deletions in 4 files</sub><br />
 
