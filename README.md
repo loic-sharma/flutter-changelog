@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-10 commits.
+11 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(web): call ui.Picture.onDispose for the original picture only<br />
   <sub>[#184348](https://github.com/flutter/flutter/pull/184348) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184348) over 3 hours, 20 additions and 13 deletions in 3 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add title evaluation<br />
   <sub>[#184084](https://github.com/flutter/flutter/pull/184084) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184084) over 5 days, 136 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove `flutter running-apps` command<br />
+  <sub>[#183742](https://github.com/flutter/flutter/pull/183742) merged on March 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183742) over 2 weeks, 9 additions and 1240 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jaime Wren](https://github.com/jwren)</sub><br />
 
 * **[saurabh-mirajkar](https://github.com/saurabh-mirajkar)** &mdash; Update TabBar documentation to clarify indicatorWeight behavior<br />
   <sub>[#184104](https://github.com/flutter/flutter/pull/184104) merged on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184104) over 5 days, 5 additions and 1 deletion in 1 file</sub><br />
