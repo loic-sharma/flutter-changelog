@@ -162,7 +162,7 @@
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin<br />
-  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184255) 237 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184255) 237 additions and 0 deletions in 3 files</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
@@ -204,13 +204,10 @@
   <sub>[#184365](https://github.com/flutter/flutter/pull/184365) opened on on March 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/184365) 805 additions and 602 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bumping KGP error minimum to 2.0.0<br />
-  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) opened on on March 31, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184385) 45 additions and 36 deletions in 6 files</sub><br />
+  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) opened on on March 31, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184385) 45 additions and 36 deletions in 6 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectableRegion crash when the selection starts in a scrollable child but does not select anything initially<br />
-  <sub>[#184420](https://github.com/flutter/flutter/pull/184420) opened on on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184420) 105 additions and 10 deletions in 2 files</sub><br />
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix line breaks being lost when copying after selection gesture in SelectableRegion<br />
-  <sub>[#184421](https://github.com/flutter/flutter/pull/184421) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184421) 52 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#184420](https://github.com/flutter/flutter/pull/184420) opened on on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184420) 104 additions and 10 deletions in 2 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; wip: vmex<br />
   <sub>[#184422](https://github.com/flutter/flutter/pull/184422) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184422) 9 additions and 8 deletions in 8 files</sub><br />
