@@ -75,7 +75,7 @@
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/183657) 554 additions and 103 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
-  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/183668) 619 additions and 162 deletions in 12 files</sub><br />
+  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/183668) 619 additions and 162 deletions in 12 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
@@ -167,6 +167,9 @@
 * **[Balázs R](https://github.com/nvi9)** &mdash; Fix icon tree shaking when building for desktop<br />
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin<br />
+  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184255) 171 additions and 0 deletions in 3 files</sub><br />
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; chore: remove unneeded `null` args to completer.complete<br />
   <sub>[#184274](https://github.com/flutter/flutter/pull/184274) opened on on March 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184274) 13 additions and 13 deletions in 3 files</sub><br />
 
@@ -216,7 +219,7 @@
   <sub>[#184366](https://github.com/flutter/flutter/pull/184366) opened on on March 30, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184366) 123 additions and 0 deletions in 4 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bumping KGP error minimum to 2.0.0<br />
-  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) opened on on March 31, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184385) 45 additions and 36 deletions in 6 files</sub><br />
+  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) opened on on March 31, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184385) 45 additions and 36 deletions in 6 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectableRegion crash when the selection starts in a scrollable child but does not select anything initially<br />
   <sub>[#184420](https://github.com/flutter/flutter/pull/184420) opened on on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184420) 105 additions and 10 deletions in 2 files</sub><br />

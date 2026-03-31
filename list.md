@@ -542,7 +542,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-7 commits.
+8 commits.
 
 * **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; [go_router] Fix Block.then() re-entrancy when triggered by refreshListenable
   <sub>[#11136](https://github.com/flutter/packages/pull/11136) merged on March 31, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/11136) over 1 month, 291 additions and 14 deletions in 3 files</sub>
@@ -551,6 +551,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Reduces lint rules ignored in generated Dart code
   <sub>[#11230](https://github.com/flutter/packages/pull/11230) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11230) over 2 weeks, 16 additions and 18 deletions in 15 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [ci] remove "read all" permission in reusable_release.yml
+  <sub>[#11405](https://github.com/flutter/packages/pull/11405) merged on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11405) over 3 hours, 0 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [ci] Compares commits before creating a sync PR to sync release branch back to the main branch.
   <sub>[#11398](https://github.com/flutter/packages/pull/11398) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11398) over 3 hours, 16 additions and 1 deletion in 1 file</sub>
