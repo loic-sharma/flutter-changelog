@@ -65,9 +65,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
-* **[Anurag Devanapally](https://github.com/andeart)** &mdash; Add `--include-example` flag to `flutter clean` for package example projects<br />
-  <sub>[#183455](https://github.com/flutter/flutter/pull/183455) opened on on March 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183455) 125 additions and 3 deletions in 2 files</sub><br />
-
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing `await`s on forgotten cases<br />
   <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183466) 11 additions and 11 deletions in 5 files</sub><br />
 
@@ -168,7 +165,7 @@
   <sub>[#184219](https://github.com/flutter/flutter/pull/184219) opened on on March 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184219) 47 additions and 15 deletions in 2 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await or ignore to future-returning methods defined in Dart SDK<br />
-  <sub>[#184229](https://github.com/flutter/flutter/pull/184229) opened on on March 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184229) 97 additions and 16 deletions in 23 files</sub><br />
+  <sub>[#184229](https://github.com/flutter/flutter/pull/184229) opened on on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184229) 97 additions and 16 deletions in 23 files</sub><br />
 
 * **[Balázs R](https://github.com/nvi9)** &mdash; Fix icon tree shaking when building for desktop<br />
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
