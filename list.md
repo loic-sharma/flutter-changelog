@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-13 commits.
+15 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Rick roll triagers on/near April 1st
   <sub>[#184355](https://github.com/flutter/flutter/pull/184355) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184355) over 3 hours, 4 additions and 0 deletions in 1 file</sub>
@@ -53,6 +53,14 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 13.2.1
   <sub>[#184210](https://github.com/flutter/flutter/pull/184210) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184210) over 4 days, 174 additions and 1 deletion in 6 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove workaround for fake impeller images in iOS simulator.
+  <sub>[#184264](https://github.com/flutter/flutter/pull/184264) merged on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184264) over 3 days, 4 additions and 73 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Even more awaits
+  <sub>[#184042](https://github.com/flutter/flutter/pull/184042) merged on March 31, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184042) over 1 week, 153 additions and 147 deletions in 60 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Remove unused parameters in a few places
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) merged on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183156) over 3 weeks, 11 additions and 27 deletions in 3 files</sub>
@@ -534,7 +542,11 @@
 
 ### March 28, 2026 to April 3, 2026
 
-6 commits.
+7 commits.
+
+* **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; [go_router] Fix Block.then() re-entrancy when triggered by refreshListenable
+  <sub>[#11136](https://github.com/flutter/packages/pull/11136) merged on March 31, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/11136) over 1 month, 291 additions and 14 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Reduces lint rules ignored in generated Dart code
   <sub>[#11230](https://github.com/flutter/packages/pull/11230) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11230) over 2 weeks, 16 additions and 18 deletions in 15 files</sub>

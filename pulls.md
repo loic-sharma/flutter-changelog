@@ -81,7 +81,7 @@
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Add controller param for caller-managed options<br />
-  <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/183705) 274 additions and 30 deletions in 2 files</sub><br />
+  <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/183705) 280 additions and 30 deletions in 2 files</sub><br />
 
 * **[Rav-xyl](https://github.com/Rav-xyl)** &mdash; fix(flutter_tools): validate positional arguments in downgrade command<br />
   <sub>[#183793](https://github.com/flutter/flutter/pull/183793) opened on on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183793) 32 additions and 0 deletions in 2 files</sub><br />
@@ -115,9 +115,6 @@
 
 * **[BART SIMPSON](https://github.com/BartSimpson001)** &mdash; Fix reloaded_sources.json returning incorrect src URL (localhost) in web-server mode<br />
   <sub>[#184069](https://github.com/flutter/flutter/pull/184069) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184069) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Moves android_semantics_integration_test out of staging<br />
-  <sub>[#184079](https://github.com/flutter/flutter/pull/184079) opened on on March 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184079) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wait to show Dart created windows when first frame is received<br />
   <sub>[#184097](https://github.com/flutter/flutter/pull/184097) opened on on March 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184097) 143 additions and 2 deletions in 4 files</sub><br />
@@ -212,9 +209,24 @@
 * **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix/181532 widgetspan alignment<br />
   <sub>[#184347](https://github.com/flutter/flutter/pull/184347) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184347) 52 additions and 1 deletion in 3 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Inject FlutterFramework dependency in iOS Add2App swift packages<br />
+  <sub>[#184365](https://github.com/flutter/flutter/pull/184365) opened on on March 30, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/184365) 777 additions and 602 deletions in 2 files</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow the background color to be set for regular windows<br />
   <sub>[#184366](https://github.com/flutter/flutter/pull/184366) opened on on March 30, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184366) 123 additions and 0 deletions in 4 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bumping KGP error minimum to 2.0.0<br />
-  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) opened on on March 31, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184385) 37 additions and 18 deletions in 4 files</sub><br />
+  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) opened on on March 31, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184385) 45 additions and 36 deletions in 6 files</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectableRegion crash when the selection starts in a scrollable child but does not select anything initially<br />
+  <sub>[#184420](https://github.com/flutter/flutter/pull/184420) opened on on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184420) 105 additions and 10 deletions in 2 files</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix line breaks being lost when copying after selection gesture in SelectableRegion<br />
+  <sub>[#184421](https://github.com/flutter/flutter/pull/184421) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184421) 52 additions and 6 deletions in 3 files</sub><br />
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; wip: vmex<br />
+  <sub>[#184422](https://github.com/flutter/flutter/pull/184422) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184422) 6 additions and 4 deletions in 5 files</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix selecting backwards when involving widget spans<br />
+  <sub>[#184423](https://github.com/flutter/flutter/pull/184423) opened on on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184423) 103 additions and 3 deletions in 2 files</sub><br />
 
