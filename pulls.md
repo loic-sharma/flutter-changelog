@@ -116,9 +116,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Wait to show Dart created windows when first frame is received<br />
   <sub>[#184097](https://github.com/flutter/flutter/pull/184097) opened on on March 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184097) 142 additions and 2 deletions in 4 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter] Remove dead check on null being in a set of non-nullables<br />
-  <sub>[#184100](https://github.com/flutter/flutter/pull/184100) opened on on March 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184100) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[richardexfo](https://github.com/richardexfo)** &mdash; fix height in composite_layer<br />
   <sub>[#184118](https://github.com/flutter/flutter/pull/184118) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184118) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -199,9 +196,6 @@
 
 * **[Akshya Yadav](https://github.com/Akshya107)** &mdash; Fix DropdownMenu highlight when enableSearch is false<br />
   <sub>[#184330](https://github.com/flutter/flutter/pull/184330) opened on on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184330) 29 additions and 5 deletions in 2 files</sub><br />
-
-* **[SolveJet-team](https://github.com/solvejet-team)** &mdash; Fix _scheduleSystemFontsUpdate assertion during non-idle scheduler phase<br />
-  <sub>[#184332](https://github.com/flutter/flutter/pull/184332) opened on on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184332) 60 additions and 16 deletions in 3 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [web_ui] Fix avoid_type_to_string lint violation<br />
   <sub>[#184342](https://github.com/flutter/flutter/pull/184342) opened on on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184342) 1 addition and 1 deletion in 1 file</sub><br />
