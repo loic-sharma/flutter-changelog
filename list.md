@@ -6,6 +6,10 @@
 
 13 commits.
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Rick roll triagers on/near April 1st
+  <sub>[#184355](https://github.com/flutter/flutter/pull/184355) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184355) over 3 hours, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes a flake in reload shaders tests
   <sub>[#184268](https://github.com/flutter/flutter/pull/184268) merged on March 30, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184268) over 3 days, 23 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
@@ -33,10 +37,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; fixes crash when invisible semantics nodes dropped from semantics tree
   <sub>[#184226](https://github.com/flutter/flutter/pull/184226) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184226) over 3 days, 68 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Rick roll triagers on/near April 1st
-  <sub>[#184355](https://github.com/flutter/flutter/pull/184355) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184355) over 3 hours, 4 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland "Fix Slider semantics node size" with some changes 
   <sub>[#184168](https://github.com/flutter/flutter/pull/184168) merged on March 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/184168) over 4 days, 311 additions and 196 deletions in 4 files</sub>
