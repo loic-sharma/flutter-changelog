@@ -766,10 +766,14 @@
 
 ### March 28, 2026 to April 3, 2026
 
-8 commits.
+10 commits.
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Clarify ListTile error reporting in colored widget<br />
   <sub>[#13222](https://github.com/flutter/website/pull/13222) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13222) over 3 days, 9 additions and 9 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Hide sidenav in learning pathway<br />
+  <sub>[#13234](https://github.com/flutter/website/pull/13234) merged on March 31, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13234) over 22 hours, 123 additions and 152 deletions in 25 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix list formatting on Antigravity page<br />
@@ -779,6 +783,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify cookbook recipe on when to define a font style<br />
   <sub>[#13236](https://github.com/flutter/website/pull/13236) merged on March 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13236) over 1 hour, 11 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Define a RenderObject and reference it from the declarative page<br />
+  <sub>[#13238](https://github.com/flutter/website/pull/13238) merged on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13238) over 20 minutes, 60 additions and 24 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Using medium font size, rather than large<br />
   <sub>[#13232](https://github.com/flutter/website/pull/13232) merged on March 31, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13232) over 23 hours, 8 additions and 7 deletions in 4 files</sub><br />
