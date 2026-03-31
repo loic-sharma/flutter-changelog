@@ -210,7 +210,7 @@
   <sub>[#184347](https://github.com/flutter/flutter/pull/184347) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184347) 52 additions and 1 deletion in 3 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Inject FlutterFramework dependency in iOS Add2App swift packages<br />
-  <sub>[#184365](https://github.com/flutter/flutter/pull/184365) opened on on March 30, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/184365) 777 additions and 602 deletions in 2 files</sub><br />
+  <sub>[#184365](https://github.com/flutter/flutter/pull/184365) opened on on March 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/184365) 805 additions and 602 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow the background color to be set for regular windows<br />
   <sub>[#184366](https://github.com/flutter/flutter/pull/184366) opened on on March 30, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184366) 123 additions and 0 deletions in 4 files</sub><br />

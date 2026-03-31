@@ -38,6 +38,10 @@
   <sub>[#184226](https://github.com/flutter/flutter/pull/184226) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184226) over 3 days, 68 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Even more awaits
+  <sub>[#184042](https://github.com/flutter/flutter/pull/184042) merged on March 31, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184042) over 1 week, 153 additions and 147 deletions in 60 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland "Fix Slider semantics node size" with some changes 
   <sub>[#184168](https://github.com/flutter/flutter/pull/184168) merged on March 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/184168) over 4 days, 311 additions and 196 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
@@ -57,10 +61,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove workaround for fake impeller images in iOS simulator.
   <sub>[#184264](https://github.com/flutter/flutter/pull/184264) merged on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184264) over 3 days, 4 additions and 73 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Even more awaits
-  <sub>[#184042](https://github.com/flutter/flutter/pull/184042) merged on March 31, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184042) over 1 week, 153 additions and 147 deletions in 60 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Remove unused parameters in a few places
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) merged on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183156) over 3 weeks, 11 additions and 27 deletions in 3 files</sub>
