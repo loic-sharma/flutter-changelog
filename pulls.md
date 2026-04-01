@@ -81,7 +81,7 @@
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Add controller param for caller-managed options<br />
-  <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/183705) 282 additions and 30 deletions in 2 files</sub><br />
+  <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/183705) 283 additions and 30 deletions in 2 files</sub><br />
 
 * **[Rav-xyl](https://github.com/Rav-xyl)** &mdash; fix(flutter_tools): validate positional arguments in downgrade command<br />
   <sub>[#183793](https://github.com/flutter/flutter/pull/183793) opened on on March 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183793) 32 additions and 0 deletions in 2 files</sub><br />
@@ -199,9 +199,6 @@
 
 * **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix/181532 widgetspan alignment<br />
   <sub>[#184347](https://github.com/flutter/flutter/pull/184347) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184347) 52 additions and 1 deletion in 3 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Inject FlutterFramework dependency in iOS Add2App swift packages<br />
-  <sub>[#184365](https://github.com/flutter/flutter/pull/184365) opened on on March 30, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/184365) 954 additions and 601 deletions in 2 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; wip: vmex<br />
   <sub>[#184422](https://github.com/flutter/flutter/pull/184422) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184422) 20 additions and 13 deletions in 13 files</sub><br />
