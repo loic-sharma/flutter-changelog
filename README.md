@@ -4,11 +4,19 @@
 
 ### March 28, 2026 to April 3, 2026
 
-15 commits.
+18 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari<br />
+  <sub>[#182024](https://github.com/flutter/flutter/pull/182024) merged on March 31, 2026 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/182024) over 1 month, 826 additions and 242 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Rick roll triagers on/near April 1st<br />
   <sub>[#184355](https://github.com/flutter/flutter/pull/184355) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184355) over 3 hours, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+
+* **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [Windows] Restore and enable IAccessibleEx implementation<br />
+  <sub>[#175406](https://github.com/flutter/flutter/pull/175406) merged on March 31, 2026 &mdash; **Small:** [57 comments](https://github.com/flutter/flutter/pull/175406) over 6 months, 294 additions and 1 deletion in 16 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes a flake in reload shaders tests<br />
   <sub>[#184268](https://github.com/flutter/flutter/pull/184268) merged on March 30, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184268) over 3 days, 23 additions and 8 deletions in 1 file</sub><br />
@@ -65,6 +73,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; web_ui: Remove unused parameters in a few places<br />
   <sub>[#183156](https://github.com/flutter/flutter/pull/183156) merged on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183156) over 3 weeks, 11 additions and 27 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "Even more awaits (#184042)"<br />
+  <sub>[#184429](https://github.com/flutter/flutter/pull/184429) merged on March 31, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184429) over 2 hours, 147 additions and 153 deletions in 60 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 ### March 21, 2026 to March 27, 2026
 
