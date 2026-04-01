@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-26 commits.
+27 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) merged on March 31, 2026 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/182024) over 1 month, 826 additions and 242 deletions in 8 files</sub>
@@ -22,6 +22,11 @@
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [Windows] Restore and enable IAccessibleEx implementation
   <sub>[#175406](https://github.com/flutter/flutter/pull/175406) merged on March 31, 2026 &mdash; **Small:** [57 comments](https://github.com/flutter/flutter/pull/175406) over 6 months, 294 additions and 1 deletion in 16 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Huy](https://github.com/huycozy)** &mdash; Fix layout overflowed in small screen in SensitiveContent's example
+  <sub>[#184179](https://github.com/flutter/flutter/pull/184179) merged on April 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184179) over 6 days, 42 additions and 17 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+  <sub><details><summary>2 images...</summary><img width="400" src="https://github.com/user-attachments/assets/ab6e32d2-3b0f-4277-93c3-5af350c2d0fd"><img width="400" src="https://github.com/user-attachments/assets/e0e4d980-16a5-4835-adf7-3cd735a60dff"></details></sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Migrate `flutter analyze` to use LSP
   <sub>[#183785](https://github.com/flutter/flutter/pull/183785) merged on April 1, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/183785) over 2 weeks, 636 additions and 307 deletions in 9 files</sub>
