@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-21 commits.
+22 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) merged on March 31, 2026 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/182024) over 1 month, 826 additions and 242 deletions in 8 files</sub>
@@ -33,6 +33,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add title evaluation
   <sub>[#184084](https://github.com/flutter/flutter/pull/184084) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184084) over 5 days, 136 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 third grouped tests
+  <sub>[#183059](https://github.com/flutter/flutter/pull/183059) merged on April 1, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/183059) over 1 month, 209 additions and 0 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove `flutter running-apps` command
   <sub>[#183742](https://github.com/flutter/flutter/pull/183742) merged on March 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/183742) over 2 weeks, 9 additions and 1240 deletions in 16 files</sub>
