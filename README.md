@@ -33,7 +33,7 @@
   <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brian Wilkerson](https://github.com/bwilkerson)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bumping KGP error minimum to 2.0.0<br />
-  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) merged on April 1, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184385) over 21 hours, 45 additions and 36 deletions in 6 files</sub><br />
+  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) merged on April 1, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184385) over 21 hours, 45 additions and 36 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds uber sdf shader gradients with blend<br />
