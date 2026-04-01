@@ -824,7 +824,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-11 commits.
+12 commits.
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Clarify ListTile error reporting in colored widget<br />
   <sub>[#13222](https://github.com/flutter/website/pull/13222) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13222) over 3 days, 9 additions and 9 deletions in 2 files</sub><br />
@@ -841,6 +841,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify cookbook recipe on when to define a font style<br />
   <sub>[#13236](https://github.com/flutter/website/pull/13236) merged on March 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13236) over 1 hour, 11 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adds AnimatedScale to the widget catalog<br />
+  <sub>[#13240](https://github.com/flutter/website/pull/13240) merged on April 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13240) over 17 hours, 8 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Mert](https://github.com/mertalev)** &mdash; Add redirect for texture-to-image proposal<br />
   <sub>[#13237](https://github.com/flutter/website/pull/13237) merged on April 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13237) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
