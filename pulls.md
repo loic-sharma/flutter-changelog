@@ -203,9 +203,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Inject FlutterFramework dependency in iOS Add2App swift packages<br />
   <sub>[#184365](https://github.com/flutter/flutter/pull/184365) opened on on March 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/184365) 805 additions and 602 deletions in 2 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bumping KGP error minimum to 2.0.0<br />
-  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) opened on on March 31, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184385) 45 additions and 36 deletions in 6 files</sub><br />
-
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; wip: vmex<br />
   <sub>[#184422](https://github.com/flutter/flutter/pull/184422) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184422) 13 additions and 8 deletions in 14 files</sub><br />
 
