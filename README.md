@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-18 commits.
+19 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari<br />
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) merged on March 31, 2026 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/182024) over 1 month, 826 additions and 242 deletions in 8 files</sub><br />
@@ -53,6 +53,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland "Fix Slider semantics node size" with some changes <br />
   <sub>[#184168](https://github.com/flutter/flutter/pull/184168) merged on March 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/184168) over 4 days, 311 additions and 196 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the cupertino_icons dependency from the spell_check integration test<br />
+  <sub>[#184398](https://github.com/flutter/flutter/pull/184398) merged on March 31, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184398) over 59 minutes, 1 addition and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove an obsolete script for setting up remote GDB sessions on Android devices<br />
   <sub>[#184357](https://github.com/flutter/flutter/pull/184357) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184357) over 4 hours, 0 additions and 239 deletions in 1 file</sub><br />
@@ -778,7 +782,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-10 commits.
+11 commits.
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Clarify ListTile error reporting in colored widget<br />
   <sub>[#13222](https://github.com/flutter/website/pull/13222) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13222) over 3 days, 9 additions and 9 deletions in 2 files</sub><br />
@@ -795,6 +799,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify cookbook recipe on when to define a font style<br />
   <sub>[#13236](https://github.com/flutter/website/pull/13236) merged on March 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13236) over 1 hour, 11 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Mert](https://github.com/mertalev)** &mdash; Add redirect for texture-to-image proposal<br />
+  <sub>[#13237](https://github.com/flutter/website/pull/13237) merged on April 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13237) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Define a RenderObject and reference it from the declarative page<br />
   <sub>[#13238](https://github.com/flutter/website/pull/13238) merged on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13238) over 20 minutes, 60 additions and 24 deletions in 4 files</sub><br />
