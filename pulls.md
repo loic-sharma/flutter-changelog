@@ -72,7 +72,7 @@
   <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
-  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/183657) 554 additions and 103 deletions in 4 files</sub><br />
+  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/183657) 554 additions and 103 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
   <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/183668) 619 additions and 162 deletions in 12 files</sub><br />
@@ -210,7 +210,7 @@
   <sub>[#184471](https://github.com/flutter/flutter/pull/184471) opened on on April 1, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/184471) 343 additions and 1 deletion in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Use analysis server for widget preview detection<br />
-  <sub>[#184473](https://github.com/flutter/flutter/pull/184473) opened on on April 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184473) 1882 additions and 386 deletions in 15 files</sub><br />
+  <sub>[#184473](https://github.com/flutter/flutter/pull/184473) opened on on April 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184473) 1935 additions and 404 deletions in 16 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Windows: Get graphics adapter from engine instead of view<br />
   <sub>[#184479](https://github.com/flutter/flutter/pull/184479) opened on on April 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184479) 94 additions and 1 deletion in 8 files</sub><br />
