@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-27 commits.
+28 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari<br />
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) merged on March 31, 2026 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/182024) over 1 month, 826 additions and 242 deletions in 8 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Rick roll triagers on/near April 1st<br />
   <sub>[#184355](https://github.com/flutter/flutter/pull/184355) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184355) over 3 hours, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Prepare for skills adoption<br />
+  <sub>[#184129](https://github.com/flutter/flutter/pull/184129) merged on April 1, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/184129) over 6 days, 44 additions and 2 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [Windows] Restore and enable IAccessibleEx implementation<br />
   <sub>[#175406](https://github.com/flutter/flutter/pull/175406) merged on March 31, 2026 &mdash; **Small:** [57 comments](https://github.com/flutter/flutter/pull/175406) over 6 months, 294 additions and 1 deletion in 16 files</sub><br />
