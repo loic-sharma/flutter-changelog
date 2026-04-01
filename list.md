@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-29 commits.
+30 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) merged on March 31, 2026 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/182024) over 1 month, 826 additions and 242 deletions in 8 files</sub>
@@ -18,6 +18,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Rick roll triagers on/near April 1st
   <sub>[#184355](https://github.com/flutter/flutter/pull/184355) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184355) over 3 hours, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn about slow SwiftPM downloads and centralize SwiftPM cache
+  <sub>[#183747](https://github.com/flutter/flutter/pull/183747) merged on April 1, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/183747) over 2 weeks, 984 additions and 52 deletions in 24 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Prepare for skills adoption
   <sub>[#184129](https://github.com/flutter/flutter/pull/184129) merged on April 1, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/184129) over 6 days, 44 additions and 2 deletions in 6 files</sub>

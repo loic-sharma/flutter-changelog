@@ -204,8 +204,8 @@
   <sub>[#184451](https://github.com/flutter/flutter/pull/184451) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184451) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views<br />
-  <sub>[#184471](https://github.com/flutter/flutter/pull/184471) opened on on April 1, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/184471) 334 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#184471](https://github.com/flutter/flutter/pull/184471) opened on on April 1, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/184471) 343 additions and 1 deletion in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Use analysis server for widget preview detection<br />
-  <sub>[#184473](https://github.com/flutter/flutter/pull/184473) opened on on April 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184473) 1883 additions and 386 deletions in 14 files</sub><br />
+  <sub>[#184473](https://github.com/flutter/flutter/pull/184473) opened on on April 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184473) 1882 additions and 386 deletions in 15 files</sub><br />
 
