@@ -131,9 +131,6 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Disable web hot reload when running with --no-hot<br />
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184192) 81 additions and 1 deletion in 3 files</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace usages of `MediaQuery.of(context).property` with `MediaQuery.propertyOf(context)`<br />
-  <sub>[#184211](https://github.com/flutter/flutter/pull/184211) opened on on March 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184211) 38 additions and 39 deletions in 23 files</sub><br />
-
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await or ignore to future-returning methods defined in Dart SDK<br />
   <sub>[#184229](https://github.com/flutter/flutter/pull/184229) opened on on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184229) 97 additions and 16 deletions in 23 files</sub><br />
 
@@ -187,7 +184,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Use analysis server for widget preview detection<br />
   <sub>[#184473](https://github.com/flutter/flutter/pull/184473) opened on on April 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184473) 1786 additions and 219 deletions in 15 files</sub><br />
-
-* **[Hong Wei Li](https://github.com/wadelhw)** &mdash; Replace FlutterDesktopViewGetGraphicsAdapter with FlutterDesktopEngineGetGraphicsAdapter<br />
-  <sub>[#184485](https://github.com/flutter/flutter/pull/184485) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184485) 29 additions and 31 deletions in 9 files</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-32 commits.
+34 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari<br />
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) merged on March 31, 2026 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/182024) over 1 month, 826 additions and 242 deletions in 8 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Rick roll triagers on/near April 1st<br />
   <sub>[#184355](https://github.com/flutter/flutter/pull/184355) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184355) over 3 hours, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+
+* **[Nikhil Bansal](https://github.com/nikb7)** &mdash; [ios] Add opt-in inline prediction text input support<br />
+  <sub>[#183650](https://github.com/flutter/flutter/pull/183650) merged on April 1, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/183650) over 2 weeks, 272 additions and 1 deletion in 11 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn about slow SwiftPM downloads and centralize SwiftPM cache<br />
   <sub>[#183747](https://github.com/flutter/flutter/pull/183747) merged on April 1, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/183747) over 2 weeks, 984 additions and 52 deletions in 24 files</sub><br />
@@ -91,6 +95,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update style guide<br />
   <sub>[#184478](https://github.com/flutter/flutter/pull/184478) merged on April 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184478) over 1 hour, 17 additions and 16 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace usages of `MediaQuery.of(context).property` with `MediaQuery.propertyOf(context)`<br />
+  <sub>[#184211](https://github.com/flutter/flutter/pull/184211) merged on April 1, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184211) over 6 days, 38 additions and 39 deletions in 23 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Even more awaits<br />
   <sub>[#184042](https://github.com/flutter/flutter/pull/184042) merged on March 31, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184042) over 1 week, 153 additions and 147 deletions in 60 files</sub><br />
