@@ -66,7 +66,7 @@
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Keep multiline CupertinoTextField placeholders in bounds<br />
-  <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/183657) 554 additions and 103 deletions in 4 files</sub><br />
@@ -114,7 +114,7 @@
   <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184120) 93 additions and 2 deletions in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Ignore incoming deprecated_web_configuration lint<br />
-  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184130) 2 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184130) 2 additions and 0 deletions in 2 files</sub><br />
 
 * **[Rafa Ruiz](https://github.com/RafaRuiz)** &mdash; Allow [NavigationDestination]'s text to be aligned horizontally<br />
   <sub>[#184136](https://github.com/flutter/flutter/pull/184136) opened on on March 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184136) 60 additions and 1 deletion in 2 files</sub><br />
@@ -132,7 +132,7 @@
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184192) 81 additions and 1 deletion in 3 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin<br />
-  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184255) 182 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/184255) 365 additions and 0 deletions in 4 files</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
@@ -181,4 +181,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Use analysis server for widget preview detection<br />
   <sub>[#184473](https://github.com/flutter/flutter/pull/184473) opened on on April 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184473) 1786 additions and 219 deletions in 15 files</sub><br />
+
+* **[Hong Wei Li](https://github.com/wadelhw)** &mdash; [engine] Fix missing default return in 9 operator<< switch statements (display_list_testing.cc)<br />
+  <sub>[#184489](https://github.com/flutter/flutter/pull/184489) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184489) 18 additions and 0 deletions in 1 file</sub><br />
 
