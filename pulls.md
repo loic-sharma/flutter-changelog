@@ -212,3 +212,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Use analysis server for widget preview detection<br />
   <sub>[#184473](https://github.com/flutter/flutter/pull/184473) opened on on April 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184473) 1882 additions and 386 deletions in 15 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Windows: Get graphics adapter from engine instead of view<br />
+  <sub>[#184479](https://github.com/flutter/flutter/pull/184479) opened on on April 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184479) 94 additions and 1 deletion in 8 files</sub><br />
+
