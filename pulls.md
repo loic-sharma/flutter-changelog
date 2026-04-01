@@ -72,7 +72,7 @@
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/183657) 554 additions and 103 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
-  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/183668) 619 additions and 162 deletions in 12 files</sub><br />
+  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/183668) 609 additions and 155 deletions in 10 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
@@ -82,9 +82,6 @@
 
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Implementation of undecorated windows for win32<br />
-  <sub>[#183839](https://github.com/flutter/flutter/pull/183839) opened on on March 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183839) 70 additions and 19 deletions in 11 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Keep ExpansionPanelList dividers when expanded with 0 materialGapSize<br />
   <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183975) 172 additions and 9 deletions in 4 files</sub><br />
@@ -139,9 +136,6 @@
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await or ignore to future-returning methods defined in Dart SDK<br />
   <sub>[#184229](https://github.com/flutter/flutter/pull/184229) opened on on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184229) 97 additions and 16 deletions in 23 files</sub><br />
-
-* **[Balázs R](https://github.com/nvi9)** &mdash; Fix icon tree shaking when building for desktop<br />
-  <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin and newDsl<br />
   <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184255) 290 additions and 0 deletions in 3 files</sub><br />
