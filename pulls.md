@@ -212,3 +212,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the default version of Git in the content_aware_hash script instead of Xcode's Git<br />
   <sub>[#184438](https://github.com/flutter/flutter/pull/184438) opened on on April 1, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184438) 16 additions and 5 deletions in 2 files</sub><br />
 
+* **[jingweicai](https://github.com/caijw)** &mdash; [fix][web] Font fallback download failure causes infinite loop.<br />
+  <sub>[#184451](https://github.com/flutter/flutter/pull/184451) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184451) 4 additions and 2 deletions in 1 file</sub><br />
+
