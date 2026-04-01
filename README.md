@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-31 commits.
+32 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari<br />
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) merged on March 31, 2026 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/182024) over 1 month, 826 additions and 242 deletions in 8 files</sub><br />
@@ -68,6 +68,10 @@
   <sub>[#184084](https://github.com/flutter/flutter/pull/184084) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184084) over 5 days, 136 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [fix-forward] fix build_android_host_app_with_module_source integration test<br />
+  <sub>[#184466](https://github.com/flutter/flutter/pull/184466) merged on April 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184466) over 3 hours, 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Handle#6537 third grouped tests<br />
   <sub>[#183059](https://github.com/flutter/flutter/pull/183059) merged on April 1, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/183059) over 1 month, 209 additions and 0 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -84,6 +88,10 @@
   <sub>[#184226](https://github.com/flutter/flutter/pull/184226) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184226) over 3 days, 68 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update style guide<br />
+  <sub>[#184478](https://github.com/flutter/flutter/pull/184478) merged on April 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184478) over 1 hour, 17 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Even more awaits<br />
   <sub>[#184042](https://github.com/flutter/flutter/pull/184042) merged on March 31, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184042) over 1 week, 153 additions and 147 deletions in 60 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
@@ -91,10 +99,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland "Fix Slider semantics node size" with some changes <br />
   <sub>[#184168](https://github.com/flutter/flutter/pull/184168) merged on March 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/184168) over 4 days, 311 additions and 196 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update style guide<br />
-  <sub>[#184478](https://github.com/flutter/flutter/pull/184478) merged on April 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184478) over 1 hour, 17 additions and 16 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not log an error when wrapping an empty texture as a TextureGLES<br />
   <sub>[#184377](https://github.com/flutter/flutter/pull/184377) merged on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184377) over 17 hours, 21 additions and 1 deletion in 2 files</sub><br />

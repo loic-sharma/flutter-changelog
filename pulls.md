@@ -188,3 +188,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Use analysis server for widget preview detection<br />
   <sub>[#184473](https://github.com/flutter/flutter/pull/184473) opened on on April 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184473) 1786 additions and 219 deletions in 15 files</sub><br />
 
+* **[Hong Wei Li](https://github.com/wadelhw)** &mdash; Replace FlutterDesktopViewGetGraphicsAdapter with FlutterDesktopEngineGetGraphicsAdapter<br />
+  <sub>[#184485](https://github.com/flutter/flutter/pull/184485) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184485) 29 additions and 31 deletions in 9 files</sub><br />
+
