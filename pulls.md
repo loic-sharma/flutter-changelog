@@ -131,11 +131,8 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Disable web hot reload when running with --no-hot<br />
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184192) 81 additions and 1 deletion in 3 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add await or ignore to future-returning methods defined in Dart SDK<br />
-  <sub>[#184229](https://github.com/flutter/flutter/pull/184229) opened on on March 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184229) 97 additions and 16 deletions in 23 files</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin and newDsl<br />
-  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184255) 290 additions and 0 deletions in 3 files</sub><br />
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin<br />
+  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184255) 182 additions and 0 deletions in 3 files</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
