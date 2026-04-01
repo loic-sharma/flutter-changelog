@@ -204,7 +204,7 @@
   <sub>[#184365](https://github.com/flutter/flutter/pull/184365) opened on on March 30, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/184365) 954 additions and 601 deletions in 2 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; wip: vmex<br />
-  <sub>[#184422](https://github.com/flutter/flutter/pull/184422) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184422) 18 additions and 9 deletions in 13 files</sub><br />
+  <sub>[#184422](https://github.com/flutter/flutter/pull/184422) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184422) 20 additions and 13 deletions in 13 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix selecting backwards when involving widget spans<br />
   <sub>[#184423](https://github.com/flutter/flutter/pull/184423) opened on on March 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184423) 103 additions and 3 deletions in 2 files</sub><br />
