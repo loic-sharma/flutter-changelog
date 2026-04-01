@@ -138,10 +138,7 @@
   <sub>[#184189](https://github.com/flutter/flutter/pull/184189) opened on on March 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184189) 67 additions and 2 deletions in 2 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Disable web hot reload when running with --no-hot<br />
-  <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184192) 81 additions and 1 deletion in 3 files</sub><br />
-
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove sliver_test_utils cross-import from sliver_app_bar_test<br />
-  <sub>[#184193](https://github.com/flutter/flutter/pull/184193) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184193) 21 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184192) 81 additions and 1 deletion in 3 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace usages of `MediaQuery.of(context).property` with `MediaQuery.propertyOf(context)`<br />
   <sub>[#184211](https://github.com/flutter/flutter/pull/184211) opened on on March 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184211) 38 additions and 39 deletions in 23 files</sub><br />
@@ -155,26 +152,23 @@
 * **[Balázs R](https://github.com/nvi9)** &mdash; Fix icon tree shaking when building for desktop<br />
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin<br />
-  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184255) 290 additions and 0 deletions in 3 files</sub><br />
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin and newDsl<br />
+  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184255) 290 additions and 0 deletions in 3 files</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
 
-* **[xfce0](https://github.com/xfce0)** &mdash; Remove clipboard_utils cross-imports from material and cupertino tests<br />
-  <sub>[#184278](https://github.com/flutter/flutter/pull/184278) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184278) 71 additions and 11 deletions in 13 files</sub><br />
-
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove feedback_tester cross-imports from material tests<br />
-  <sub>[#184279](https://github.com/flutter/flutter/pull/184279) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184279) 68 additions and 17 deletions in 18 files</sub><br />
+  <sub>[#184279](https://github.com/flutter/flutter/pull/184279) opened on on March 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184279) 68 additions and 17 deletions in 18 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove navigator_utils cross-imports from cupertino tests<br />
-  <sub>[#184282](https://github.com/flutter/flutter/pull/184282) opened on on March 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184282) 19 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#184282](https://github.com/flutter/flutter/pull/184282) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184282) 19 additions and 1 deletion in 2 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Hold startup lock until after `pub get` to prevent races<br />
   <sub>[#184294](https://github.com/flutter/flutter/pull/184294) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184294) 96 additions and 2 deletions in 2 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove trivial test utility cross-imports from material and cupertino…<br />
-  <sub>[#184295](https://github.com/flutter/flutter/pull/184295) opened on on March 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184295) 131 additions and 5 deletions in 9 files</sub><br />
+  <sub>[#184295](https://github.com/flutter/flutter/pull/184295) opened on on March 28, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/184295) 131 additions and 5 deletions in 9 files</sub><br />
 
 * **[mohammadmseet-hue](https://github.com/mohammadmseet-hue)** &mdash; Reject fdAT chunks with data_length < 4 in APNG parser to prevent heap overflow<br />
   <sub>[#184301](https://github.com/flutter/flutter/pull/184301) opened on on March 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184301) 216 additions and 0 deletions in 3 files</sub><br />
@@ -207,7 +201,7 @@
   <sub>[#184471](https://github.com/flutter/flutter/pull/184471) opened on on April 1, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/184471) 343 additions and 1 deletion in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Use analysis server for widget preview detection<br />
-  <sub>[#184473](https://github.com/flutter/flutter/pull/184473) opened on on April 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184473) 1935 additions and 404 deletions in 16 files</sub><br />
+  <sub>[#184473](https://github.com/flutter/flutter/pull/184473) opened on on April 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184473) 1786 additions and 219 deletions in 15 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Windows: Get graphics adapter from engine instead of view<br />
   <sub>[#184479](https://github.com/flutter/flutter/pull/184479) opened on on April 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184479) 94 additions and 1 deletion in 8 files</sub><br />
