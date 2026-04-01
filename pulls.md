@@ -65,14 +65,11 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
-* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing `await`s on forgotten cases<br />
-  <sub>[#183466](https://github.com/flutter/flutter/pull/183466) opened on on March 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183466) 11 additions and 11 deletions in 5 files</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Keep multiline CupertinoTextField placeholders in bounds<br />
   <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
-  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/183657) 554 additions and 103 deletions in 4 files</sub><br />
+  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/183657) 554 additions and 103 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
   <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/183668) 619 additions and 162 deletions in 12 files</sub><br />
