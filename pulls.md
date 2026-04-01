@@ -159,7 +159,7 @@
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) opened on on March 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184249) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin<br />
-  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184255) 290 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184255) 290 additions and 0 deletions in 3 files</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
@@ -173,9 +173,6 @@
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove navigator_utils cross-imports from cupertino tests<br />
   <sub>[#184282](https://github.com/flutter/flutter/pull/184282) opened on on March 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184282) 19 additions and 1 deletion in 2 files</sub><br />
 
-* **[Leandro](https://github.com/lrauseo)** &mdash; Date picker support input formatters<br />
-  <sub>[#184283](https://github.com/flutter/flutter/pull/184283) opened on on March 28, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/184283) 400 additions and 0 deletions in 4 files</sub><br />
-
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Hold startup lock until after `pub get` to prevent races<br />
   <sub>[#184294](https://github.com/flutter/flutter/pull/184294) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184294) 96 additions and 2 deletions in 2 files</sub><br />
 
@@ -187,9 +184,6 @@
 
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
-
-* **[Akshya Yadav](https://github.com/Akshya107)** &mdash; Fix DropdownMenu highlight when enableSearch is false<br />
-  <sub>[#184330](https://github.com/flutter/flutter/pull/184330) opened on on March 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184330) 29 additions and 5 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [web_ui] Fix avoid_type_to_string lint violation<br />
   <sub>[#184342](https://github.com/flutter/flutter/pull/184342) opened on on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184342) 1 addition and 1 deletion in 1 file</sub><br />
@@ -208,4 +202,10 @@
 
 * **[jingweicai](https://github.com/caijw)** &mdash; [fix][web] Font fallback download failure causes infinite loop.<br />
   <sub>[#184451](https://github.com/flutter/flutter/pull/184451) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184451) 4 additions and 2 deletions in 1 file</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views<br />
+  <sub>[#184471](https://github.com/flutter/flutter/pull/184471) opened on on April 1, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/184471) 334 additions and 0 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Use analysis server for widget preview detection<br />
+  <sub>[#184473](https://github.com/flutter/flutter/pull/184473) opened on on April 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184473) 1883 additions and 386 deletions in 14 files</sub><br />
 

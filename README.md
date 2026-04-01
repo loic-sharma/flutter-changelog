@@ -600,7 +600,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-8 commits.
+9 commits.
 
 * **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; [go_router] Fix Block.then() re-entrancy when triggered by refreshListenable<br />
   <sub>[#11136](https://github.com/flutter/packages/pull/11136) merged on March 31, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/11136) over 1 month, 291 additions and 14 deletions in 3 files</sub><br />
@@ -609,6 +609,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [pigeon] Reduces lint rules ignored in generated Dart code<br />
   <sub>[#11230](https://github.com/flutter/packages/pull/11230) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11230) over 2 weeks, 16 additions and 18 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [ci] Update reusable_release.yml to only run tests on the main branch<br />
+  <sub>[#11410](https://github.com/flutter/packages/pull/11410) merged on April 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11410) over 52 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [ci] remove "read all" permission in reusable_release.yml<br />
   <sub>[#11405](https://github.com/flutter/packages/pull/11405) merged on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11405) over 3 hours, 0 additions and 2 deletions in 1 file</sub><br />
