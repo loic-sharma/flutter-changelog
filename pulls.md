@@ -126,7 +126,7 @@
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin<br />
-  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/184255) 365 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184255) 365 additions and 0 deletions in 4 files</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
@@ -183,7 +183,7 @@
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Downgrade CocoaPods doctor check to warning and fix build error messaging<br />
-  <sub>[#184511](https://github.com/flutter/flutter/pull/184511) opened on on April 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184511) 7 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#184511](https://github.com/flutter/flutter/pull/184511) opened on on April 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184511) 7 additions and 7 deletions in 2 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove live_text_utils cross-imports from material and cupertino tests<br />
   <sub>[#184517](https://github.com/flutter/flutter/pull/184517) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184517) 160 additions and 4 deletions in 6 files</sub><br />
@@ -198,8 +198,8 @@
   <sub>[#184526](https://github.com/flutter/flutter/pull/184526) opened on on April 2, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/184526) 678 additions and 165 deletions in 17 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
-  <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/184527) 449 additions and 29 deletions in 3 files</sub><br />
+  <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/184527) 449 additions and 29 deletions in 3 files</sub><br />
 
 * **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing<br />
-  <sub>[#184528](https://github.com/flutter/flutter/pull/184528) opened on on April 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184528) 204 additions and 76 deletions in 4 files</sub><br />
+  <sub>[#184528](https://github.com/flutter/flutter/pull/184528) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184528) 204 additions and 76 deletions in 4 files</sub><br />
 
