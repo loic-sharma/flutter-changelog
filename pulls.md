@@ -185,3 +185,6 @@
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; propagate enabled state to windows accessibility<br />
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184501) 90 additions and 1 deletion in 5 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Remove isSizedToContent from _window_linux.dart.<br />
+  <sub>[#184506](https://github.com/flutter/flutter/pull/184506) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184506) 1 addition and 3 deletions in 1 file</sub><br />
+
