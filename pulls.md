@@ -69,7 +69,7 @@
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/183657) 464 additions and 98 deletions in 6 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
-  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/183668) 609 additions and 155 deletions in 10 files</sub><br />
+  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/183668) 609 additions and 155 deletions in 10 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
@@ -149,9 +149,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [web_ui] Fix avoid_type_to_string lint violation<br />
-  <sub>[#184342](https://github.com/flutter/flutter/pull/184342) opened on on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184342) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix/181532 widgetspan alignment<br />
   <sub>[#184347](https://github.com/flutter/flutter/pull/184347) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184347) 52 additions and 1 deletion in 3 files</sub><br />
 
@@ -183,7 +180,7 @@
   <sub>[#184495](https://github.com/flutter/flutter/pull/184495) opened on on April 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184495) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; propagate enabled state to windows accessibility<br />
-  <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184501) 90 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Downgrade CocoaPods doctor check to warning and fix build error messaging<br />
   <sub>[#184511](https://github.com/flutter/flutter/pull/184511) opened on on April 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184511) 7 additions and 7 deletions in 2 files</sub><br />
@@ -198,5 +195,11 @@
   <sub>[#184519](https://github.com/flutter/flutter/pull/184519) opened on on April 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/184519) 304 additions and 10 deletions in 12 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add more error handling to unawaited callsites<br />
-  <sub>[#184526](https://github.com/flutter/flutter/pull/184526) opened on on April 2, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/184526) 622 additions and 165 deletions in 17 files</sub><br />
+  <sub>[#184526](https://github.com/flutter/flutter/pull/184526) opened on on April 2, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/184526) 678 additions and 165 deletions in 17 files</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
+  <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/184527) 449 additions and 29 deletions in 3 files</sub><br />
+
+* **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing<br />
+  <sub>[#184528](https://github.com/flutter/flutter/pull/184528) opened on on April 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184528) 204 additions and 76 deletions in 4 files</sub><br />
 
