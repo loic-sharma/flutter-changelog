@@ -66,7 +66,7 @@
   <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
-  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/183657) 464 additions and 98 deletions in 6 files</sub><br />
+  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/183657) 464 additions and 98 deletions in 6 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
   <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/183668) 609 additions and 155 deletions in 10 files</sub><br />
@@ -186,13 +186,13 @@
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184501) 90 additions and 1 deletion in 5 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Downgrade CocoaPods doctor check to warning and fix build error messaging<br />
-  <sub>[#184511](https://github.com/flutter/flutter/pull/184511) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184511) 10 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#184511](https://github.com/flutter/flutter/pull/184511) opened on on April 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184511) 7 additions and 7 deletions in 2 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove live_text_utils cross-imports from material and cupertino tests<br />
   <sub>[#184517](https://github.com/flutter/flutter/pull/184517) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184517) 160 additions and 4 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Handle collections and records in custom preview annotations<br />
-  <sub>[#184518](https://github.com/flutter/flutter/pull/184518) opened on on April 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184518) 136 additions and 76 deletions in 2 files</sub><br />
+  <sub>[#184518](https://github.com/flutter/flutter/pull/184518) opened on on April 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184518) 136 additions and 76 deletions in 2 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove editable_text_utils cross-imports from material and cupertino …<br />
   <sub>[#184519](https://github.com/flutter/flutter/pull/184519) opened on on April 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/184519) 304 additions and 10 deletions in 12 files</sub><br />
