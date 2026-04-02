@@ -68,9 +68,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
   <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/183657) 464 additions and 98 deletions in 6 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
-  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/183668) 609 additions and 155 deletions in 10 files</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
 
@@ -96,7 +93,7 @@
   <sub>[#184000](https://github.com/flutter/flutter/pull/184000) opened on on March 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184000) 68 additions and 0 deletions in 2 files</sub><br />
 
 * **[trizin](https://github.com/trizin)** &mdash; [flutter_tools] Fix arm64e incorrectly matching arm64 in regex check<br />
-  <sub>[#184057](https://github.com/flutter/flutter/pull/184057) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184057) 5 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#184057](https://github.com/flutter/flutter/pull/184057) opened on on March 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184057) 5 additions and 3 deletions in 2 files</sub><br />
 
 * **[BART SIMPSON](https://github.com/BartSimpson001)** &mdash; Fix reloaded_sources.json returning incorrect src URL (localhost) in web-server mode<br />
   <sub>[#184069](https://github.com/flutter/flutter/pull/184069) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184069) 1 addition and 1 deletion in 1 file</sub><br />
@@ -126,7 +123,7 @@
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Add Disable Built-in Kotlin and newDSL Migratorrs<br />
-  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/184255) 342 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/184255) 342 additions and 0 deletions in 4 files</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />

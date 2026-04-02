@@ -4,7 +4,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-50 commits.
+51 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) merged on March 31, 2026 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/182024) over 1 month, 826 additions and 242 deletions in 8 files</sub>
@@ -13,6 +13,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Implement popup windows for macOS
   <sub>[#182371](https://github.com/flutter/flutter/pull/182371) merged on April 2, 2026 &mdash; **Large:** [74 comments](https://github.com/flutter/flutter/pull/182371) over 1 month, 1168 additions and 201 deletions in 29 files</sub>
   <sub>Reviewed by: [Michał Sawicz](https://github.com/Saviq), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory
+  <sub>[#183668](https://github.com/flutter/flutter/pull/183668) merged on April 2, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/183668) over 2 weeks, 609 additions and 155 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement tooltip windows on Linux
   <sub>[#182348](https://github.com/flutter/flutter/pull/182348) merged on April 2, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/182348) over 1 month, 525 additions and 18 deletions in 7 files</sub>
@@ -47,14 +51,14 @@
   <sub>[#184129](https://github.com/flutter/flutter/pull/184129) merged on April 1, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/184129) over 6 days, 44 additions and 2 deletions in 6 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [data_assets] Cleanup tests
-  <sub>[#184209](https://github.com/flutter/flutter/pull/184209) merged on April 2, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/flutter/pull/184209) over 1 week, 3536 additions and 189 deletions in 65 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
 * **[Huy](https://github.com/huycozy)** &mdash; Fix layout overflowed in small screen in SensitiveContent's example
   <sub>[#184179](https://github.com/flutter/flutter/pull/184179) merged on April 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184179) over 6 days, 42 additions and 17 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
   <sub><details><summary>2 images...</summary><img width="400" src="https://github.com/user-attachments/assets/ab6e32d2-3b0f-4277-93c3-5af350c2d0fd"><img width="400" src="https://github.com/user-attachments/assets/e0e4d980-16a5-4835-adf7-3cd735a60dff"></details></sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [data_assets] Cleanup tests
+  <sub>[#184209](https://github.com/flutter/flutter/pull/184209) merged on April 2, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/flutter/pull/184209) over 1 week, 3536 additions and 189 deletions in 65 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Migrate `flutter analyze` to use LSP
   <sub>[#183785](https://github.com/flutter/flutter/pull/183785) merged on April 1, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/183785) over 2 weeks, 636 additions and 307 deletions in 9 files</sub>
@@ -140,29 +144,25 @@
   <sub>[#184168](https://github.com/flutter/flutter/pull/184168) merged on March 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/184168) over 4 days, 311 additions and 196 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the default_git_folder GN argument
-  <sub>[#184152](https://github.com/flutter/flutter/pull/184152) merged on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184152) over 5 days, 0 additions and 5 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ryan Macnak](https://github.com/rmacnak-google)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the cupertino_icons dependency from the spell_check integration test
   <sub>[#184398](https://github.com/flutter/flutter/pull/184398) merged on March 31, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184398) over 59 minutes, 1 addition and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Remove isSizedToContent from _window_linux.dart.
-  <sub>[#184506](https://github.com/flutter/flutter/pull/184506) merged on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184506) over 2 hours, 1 addition and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Windows: Get graphics adapter from engine instead of view
-  <sub>[#184479](https://github.com/flutter/flutter/pull/184479) merged on April 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184479) over 10 hours, 94 additions and 1 deletion in 8 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add our own wrapper for `CommonExtension` due to change in signature from 8.x->9.0
+  <sub>[#184433](https://github.com/flutter/flutter/pull/184433) merged on April 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184433) over 1 day, 172 additions and 15 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Make it safe to call dispose multiple times on a CkSurface
   <sub>[#184270](https://github.com/flutter/flutter/pull/184270) merged on March 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184270) over 2 days, 12 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add our own wrapper for `CommonExtension` due to change in signature from 8.x->9.0
-  <sub>[#184433](https://github.com/flutter/flutter/pull/184433) merged on April 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184433) over 1 day, 172 additions and 15 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 13.2.1
+  <sub>[#184210](https://github.com/flutter/flutter/pull/184210) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184210) over 4 days, 174 additions and 1 deletion in 6 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Remove isSizedToContent from _window_linux.dart.
+  <sub>[#184506](https://github.com/flutter/flutter/pull/184506) merged on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184506) over 2 hours, 1 addition and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not log an error when wrapping an empty texture as a TextureGLES
   <sub>[#184377](https://github.com/flutter/flutter/pull/184377) merged on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184377) over 17 hours, 21 additions and 1 deletion in 2 files</sub>
@@ -172,9 +172,13 @@
   <sub>[#184357](https://github.com/flutter/flutter/pull/184357) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184357) over 4 hours, 0 additions and 239 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll HarfBuzz to 13.2.1
-  <sub>[#184210](https://github.com/flutter/flutter/pull/184210) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184210) over 4 days, 174 additions and 1 deletion in 6 files</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Windows: Get graphics adapter from engine instead of view
+  <sub>[#184479](https://github.com/flutter/flutter/pull/184479) merged on April 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184479) over 10 hours, 94 additions and 1 deletion in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the default_git_folder GN argument
+  <sub>[#184152](https://github.com/flutter/flutter/pull/184152) merged on March 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184152) over 5 days, 0 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ryan Macnak](https://github.com/rmacnak-google)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Enable SPM by default on Stable
   <sub>[#184495](https://github.com/flutter/flutter/pull/184495) merged on April 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184495) over 13 hours, 2 additions and 2 deletions in 2 files</sub>
