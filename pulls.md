@@ -173,6 +173,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 7<br />
   <sub>[#184532](https://github.com/flutter/flutter/pull/184532) opened on on April 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184532) 133 additions and 0 deletions in 8 files</sub><br />
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Improvements and refactoring of UberSDF and Circle SDF classes<br />
+  <sub>[#184540](https://github.com/flutter/flutter/pull/184540) opened on on April 2, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/184540) 276 additions and 299 deletions in 15 files</sub><br />
+
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add `clipBehavior` parameter to `AnimatedCrossFade`<br />
-  <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184545) 55 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184545) 55 additions and 0 deletions in 2 files</sub><br />
 
