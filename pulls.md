@@ -185,3 +185,6 @@
 * **[Hong Wei Li](https://github.com/wadelhw)** &mdash; [engine] Fix missing default return in 9 operator<< switch statements (display_list_testing.cc)<br />
   <sub>[#184489](https://github.com/flutter/flutter/pull/184489) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184489) 18 additions and 0 deletions in 1 file</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Enable SPM by default on Stable<br />
+  <sub>[#184495](https://github.com/flutter/flutter/pull/184495) opened on on April 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184495) 2 additions and 2 deletions in 2 files</sub><br />
+
