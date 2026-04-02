@@ -164,11 +164,8 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Downgrade CocoaPods doctor check to warning and fix build error messaging<br />
   <sub>[#184511](https://github.com/flutter/flutter/pull/184511) opened on on April 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184511) 7 additions and 7 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Handle collections and records in custom preview annotations<br />
-  <sub>[#184518](https://github.com/flutter/flutter/pull/184518) opened on on April 2, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184518) 146 additions and 83 deletions in 3 files</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
-  <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/184527) 429 additions and 43 deletions in 3 files</sub><br />
+  <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/184527) 436 additions and 43 deletions in 3 files</sub><br />
 
 * **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing<br />
   <sub>[#184528](https://github.com/flutter/flutter/pull/184528) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184528) 204 additions and 76 deletions in 4 files</sub><br />
@@ -177,5 +174,5 @@
   <sub>[#184532](https://github.com/flutter/flutter/pull/184532) opened on on April 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184532) 133 additions and 0 deletions in 8 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add `clipBehavior` parameter to `AnimatedCrossFade`<br />
-  <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184545) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184545) 55 additions and 0 deletions in 2 files</sub><br />
 
