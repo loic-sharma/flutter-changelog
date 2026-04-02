@@ -126,7 +126,7 @@
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Add Disable Built-in Kotlin and newDSL Migratorrs<br />
-  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184255) 365 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184255) 342 additions and 0 deletions in 4 files</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
@@ -166,9 +166,6 @@
 
 * **[Hong Wei Li](https://github.com/wadelhw)** &mdash; [engine] Fix missing default return in 9 operator<< switch statements (display_list_testing.cc)<br />
   <sub>[#184489](https://github.com/flutter/flutter/pull/184489) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184489) 18 additions and 0 deletions in 1 file</sub><br />
-
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Enable SPM by default on Stable<br />
-  <sub>[#184495](https://github.com/flutter/flutter/pull/184495) opened on on April 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184495) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; propagate enabled state to windows accessibility<br />
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
