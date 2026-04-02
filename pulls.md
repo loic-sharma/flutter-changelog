@@ -158,9 +158,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix selecting backwards when involving widget spans<br />
   <sub>[#184423](https://github.com/flutter/flutter/pull/184423) opened on on March 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184423) 103 additions and 3 deletions in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add our own wrapper for `CommonExtension` due to change in signature from 8.x->9.0<br />
-  <sub>[#184433](https://github.com/flutter/flutter/pull/184433) opened on on March 31, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184433) 172 additions and 15 deletions in 3 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the default version of Git in the content_aware_hash script instead of Xcode's Git<br />
   <sub>[#184438](https://github.com/flutter/flutter/pull/184438) opened on on April 1, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184438) 16 additions and 5 deletions in 2 files</sub><br />
 
@@ -196,4 +193,7 @@
 
 * **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing<br />
   <sub>[#184528](https://github.com/flutter/flutter/pull/184528) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184528) 204 additions and 76 deletions in 4 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 7<br />
+  <sub>[#184532](https://github.com/flutter/flutter/pull/184532) opened on on April 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184532) 133 additions and 0 deletions in 8 files</sub><br />
 
