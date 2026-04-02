@@ -41,9 +41,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Implement tooltip windows on Linux<br />
-  <sub>[#182348](https://github.com/flutter/flutter/pull/182348) opened on on February 13, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/182348) 525 additions and 18 deletions in 7 files</sub><br />
-
 * **[Ishan Singh](https://github.com/coder-ishan)** &mdash; Fix/ios codesign xattr for Building in Xcode 26<br />
   <sub>[#182815](https://github.com/flutter/flutter/pull/182815) opened on on February 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182815) 52 additions and 86 deletions in 4 files</sub><br />
 
@@ -121,12 +118,6 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update Golden Images to 26.4<br />
   <sub>[#184143](https://github.com/flutter/flutter/pull/184143) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184143) 0 additions and 0 deletions in 37 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Handle events without a device<br />
-  <sub>[#184163](https://github.com/flutter/flutter/pull/184163) opened on on March 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184163) 20 additions and 13 deletions in 2 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Reduce number of mallocs in FFI call<br />
-  <sub>[#184166](https://github.com/flutter/flutter/pull/184166) opened on on March 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184166) 4 additions and 6 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Disable web hot reload when running with --no-hot<br />
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
