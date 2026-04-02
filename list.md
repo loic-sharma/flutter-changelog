@@ -656,7 +656,11 @@
 
 ### March 28, 2026 to April 3, 2026
 
-10 commits.
+11 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix merged cells unmerging behind pinned spans
+  <sub>[#11418](https://github.com/flutter/packages/pull/11418) merged on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11418) over 35 minutes, 165 additions and 13 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
 * **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; [go_router] Fix Block.then() re-entrancy when triggered by refreshListenable
   <sub>[#11136](https://github.com/flutter/packages/pull/11136) merged on March 31, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/11136) over 1 month, 291 additions and 14 deletions in 3 files</sub>
