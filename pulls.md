@@ -126,7 +126,7 @@
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Add Disable Built-in Kotlin and newDSL Migratorrs<br />
-  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184255) 342 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/184255) 342 additions and 0 deletions in 4 files</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
@@ -149,9 +149,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix visual misalignment of WidgetSpan when text alignment changes<br />
-  <sub>[#184347](https://github.com/flutter/flutter/pull/184347) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184347) 52 additions and 1 deletion in 3 files</sub><br />
-
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; wip: vmex<br />
   <sub>[#184422](https://github.com/flutter/flutter/pull/184422) opened on on March 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184422) 20 additions and 13 deletions in 13 files</sub><br />
 
@@ -173,14 +170,8 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Downgrade CocoaPods doctor check to warning and fix build error messaging<br />
   <sub>[#184511](https://github.com/flutter/flutter/pull/184511) opened on on April 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184511) 7 additions and 7 deletions in 2 files</sub><br />
 
-* **[xfce0](https://github.com/xfce0)** &mdash; Remove live_text_utils cross-imports from material and cupertino tests<br />
-  <sub>[#184517](https://github.com/flutter/flutter/pull/184517) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184517) 160 additions and 4 deletions in 6 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Handle collections and records in custom preview annotations<br />
   <sub>[#184518](https://github.com/flutter/flutter/pull/184518) opened on on April 2, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184518) 146 additions and 83 deletions in 3 files</sub><br />
-
-* **[xfce0](https://github.com/xfce0)** &mdash; Remove editable_text_utils cross-imports from material and cupertino …<br />
-  <sub>[#184519](https://github.com/flutter/flutter/pull/184519) opened on on April 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/184519) 304 additions and 10 deletions in 12 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
   <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/184527) 429 additions and 43 deletions in 3 files</sub><br />
