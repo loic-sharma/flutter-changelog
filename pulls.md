@@ -129,7 +129,7 @@
   <sub>[#184166](https://github.com/flutter/flutter/pull/184166) opened on on March 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184166) 4 additions and 6 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Disable web hot reload when running with --no-hot<br />
-  <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184192) 81 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Disable Built-in Kotlin<br />
   <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/184255) 365 additions and 0 deletions in 4 files</sub><br />
