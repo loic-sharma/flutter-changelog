@@ -188,3 +188,12 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Downgrade CocoaPods doctor check to warning and fix build error messaging<br />
   <sub>[#184511](https://github.com/flutter/flutter/pull/184511) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184511) 10 additions and 10 deletions in 3 files</sub><br />
 
+* **[xfce0](https://github.com/xfce0)** &mdash; Remove live_text_utils cross-imports from material and cupertino tests<br />
+  <sub>[#184517](https://github.com/flutter/flutter/pull/184517) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184517) 160 additions and 4 deletions in 6 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Handle collections and records in custom preview annotations<br />
+  <sub>[#184518](https://github.com/flutter/flutter/pull/184518) opened on on April 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184518) 136 additions and 76 deletions in 2 files</sub><br />
+
+* **[xfce0](https://github.com/xfce0)** &mdash; Remove editable_text_utils cross-imports from material and cupertino …<br />
+  <sub>[#184519](https://github.com/flutter/flutter/pull/184519) opened on on April 2, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/184519) 304 additions and 10 deletions in 12 files</sub><br />
+
