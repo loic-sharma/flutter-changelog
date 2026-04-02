@@ -179,3 +179,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Enable SPM by default on Stable<br />
   <sub>[#184495](https://github.com/flutter/flutter/pull/184495) opened on on April 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184495) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; propagate enabled state to windows accessibility<br />
+  <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184501) 90 additions and 1 deletion in 5 files</sub><br />
+
