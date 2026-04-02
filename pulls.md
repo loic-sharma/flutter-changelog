@@ -149,7 +149,7 @@
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix/181532 widgetspan alignment<br />
+* **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix visual misalignment of WidgetSpan when text alignment changes<br />
   <sub>[#184347](https://github.com/flutter/flutter/pull/184347) opened on on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184347) 52 additions and 1 deletion in 3 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; wip: vmex<br />
@@ -184,9 +184,6 @@
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove editable_text_utils cross-imports from material and cupertino …<br />
   <sub>[#184519](https://github.com/flutter/flutter/pull/184519) opened on on April 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/184519) 304 additions and 10 deletions in 12 files</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add more error handling to unawaited callsites<br />
-  <sub>[#184526](https://github.com/flutter/flutter/pull/184526) opened on on April 2, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/184526) 678 additions and 165 deletions in 17 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
   <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/184527) 449 additions and 29 deletions in 3 files</sub><br />

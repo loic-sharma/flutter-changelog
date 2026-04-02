@@ -908,7 +908,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-13 commits.
+14 commits.
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Clarify ListTile error reporting in colored widget<br />
   <sub>[#13222](https://github.com/flutter/website/pull/13222) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13222) over 3 days, 9 additions and 9 deletions in 2 files</sub><br />
@@ -921,6 +921,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix list formatting on Antigravity page<br />
   <sub>[#13227](https://github.com/flutter/website/pull/13227) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13227) over 3 days, 15 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the Android deployment page<br />
+  <sub>[#13242](https://github.com/flutter/website/pull/13242) merged on April 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13242) over 1 day, 23 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify cookbook recipe on when to define a font style<br />
   <sub>[#13236](https://github.com/flutter/website/pull/13236) merged on March 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13236) over 1 hour, 11 additions and 9 deletions in 1 file</sub><br />
