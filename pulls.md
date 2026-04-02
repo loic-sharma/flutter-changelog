@@ -66,7 +66,7 @@
   <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
-  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/183657) 554 additions and 103 deletions in 4 files</sub><br />
+  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/183657) 466 additions and 98 deletions in 5 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add plugin version to SwiftPM package symlink directory<br />
   <sub>[#183668](https://github.com/flutter/flutter/pull/183668) opened on on March 13, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/183668) 609 additions and 155 deletions in 10 files</sub><br />
@@ -184,4 +184,7 @@
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; propagate enabled state to windows accessibility<br />
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184501) 90 additions and 1 deletion in 5 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Downgrade CocoaPods doctor check to warning and fix build error messaging<br />
+  <sub>[#184511](https://github.com/flutter/flutter/pull/184511) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184511) 10 additions and 10 deletions in 3 files</sub><br />
 
