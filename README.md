@@ -637,8 +637,8 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Reland "[Android] Add mechanism for setting Android engine flags via Android manifest (take 2)"<br />
-  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) merged on March 17, 2026 &mdash; **Extra large:** [26 comments](https://github.com/flutter/flutter/pull/182522) over 3 weeks, 2016 additions and 294 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+  <sub>[#182522](https://github.com/flutter/flutter/pull/182522) merged on March 17, 2026 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/182522) over 3 weeks, 2016 additions and 294 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Protect access to renderables with a mutex<br />
   <sub>[#183813](https://github.com/flutter/flutter/pull/183813) merged on March 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183813) over 1 day, 45 additions and 19 deletions in 1 file</sub><br />
@@ -713,7 +713,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-12 commits.
+13 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix merged cells unmerging behind pinned spans<br />
   <sub>[#11418](https://github.com/flutter/packages/pull/11418) merged on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11418) over 35 minutes, 165 additions and 13 deletions in 5 files</sub><br />
@@ -722,6 +722,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove usage of the env_variables property from .ci.yaml<br />
   <sub>[#11414](https://github.com/flutter/packages/pull/11414) merged on April 2, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/11414) over 18 hours, 0 additions and 415 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert plugin impl examples to Kotlin Gradle<br />
+  <sub>[#11421](https://github.com/flutter/packages/pull/11421) merged on April 3, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/11421) over 21 hours, 2354 additions and 2500 deletions in 119 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; [go_router] Fix Block.then() re-entrancy when triggered by refreshListenable<br />
   <sub>[#11136](https://github.com/flutter/packages/pull/11136) merged on March 31, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/11136) over 1 month, 291 additions and 14 deletions in 3 files</sub><br />
