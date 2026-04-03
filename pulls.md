@@ -186,5 +186,5 @@
   <sub>[#184563](https://github.com/flutter/flutter/pull/184563) opened on on April 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184563) 183 additions and 75 deletions in 6 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add disposal guidance to CurvedAnimation and CurveTween docs<br />
-  <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184569) 15 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184569) 16 additions and 4 deletions in 2 files</sub><br />
 
