@@ -957,7 +957,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-14 commits.
+15 commits.
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Clarify ListTile error reporting in colored widget<br />
   <sub>[#13222](https://github.com/flutter/website/pull/13222) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13222) over 3 days, 9 additions and 9 deletions in 2 files</sub><br />
@@ -978,6 +978,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify cookbook recipe on when to define a font style<br />
   <sub>[#13236](https://github.com/flutter/website/pull/13236) merged on March 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13236) over 1 hour, 11 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding more details on opening DevTools<br />
+  <sub>[#13248](https://github.com/flutter/website/pull/13248) merged on April 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13248) over 22 hours, 26 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add "agent skill" to the glossary<br />
   <sub>[#13239](https://github.com/flutter/website/pull/13239) merged on April 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13239) over 21 hours, 14 additions and 0 deletions in 1 file</sub><br />

@@ -156,7 +156,7 @@
   <sub>[#184549](https://github.com/flutter/flutter/pull/184549) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184549) 152 additions and 38 deletions in 3 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Even more awaits v2<br />
-  <sub>[#184552](https://github.com/flutter/flutter/pull/184552) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184552) 18 additions and 13 deletions in 8 files</sub><br />
+  <sub>[#184552](https://github.com/flutter/flutter/pull/184552) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184552) 17 additions and 12 deletions in 8 files</sub><br />
 
 * **[Mahima Sharma](https://github.com/mahi-ma)** &mdash; Reduce boilerplate in FlutterPlatformViewsTest.mm<br />
   <sub>[#184555](https://github.com/flutter/flutter/pull/184555) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184555) 54 additions and 131 deletions in 1 file</sub><br />
