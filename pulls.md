@@ -144,7 +144,7 @@
   <sub>[#184528](https://github.com/flutter/flutter/pull/184528) opened on on April 2, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/184528) 325 additions and 92 deletions in 5 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add `clipBehavior` parameter to `AnimatedCrossFade`<br />
-  <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184545) 55 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184545) 63 additions and 0 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add useLogicalPixels to ResizeImage for logical pixel cache sizing<br />
   <sub>[#184549](https://github.com/flutter/flutter/pull/184549) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184549) 152 additions and 38 deletions in 3 files</sub><br />
@@ -172,4 +172,10 @@
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove list_tile_tester and rendering_tester cross-imports from cupertino tests<br />
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184588) 52 additions and 2 deletions in 4 files</sub><br />
+
+* **[xfce0](https://github.com/xfce0)** &mdash; Remove unnecessary Material import from restoration_scopes_moving_test<br />
+  <sub>[#184591](https://github.com/flutter/flutter/pull/184591) opened on on April 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184591) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add a github workflow for reverting PRs.<br />
+  <sub>[#184593](https://github.com/flutter/flutter/pull/184593) opened on on April 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184593) 132 additions and 0 deletions in 1 file</sub><br />
 
