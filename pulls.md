@@ -75,7 +75,7 @@
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/widgets<br />
-  <sub>[#183965](https://github.com/flutter/flutter/pull/183965) opened on on March 21, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/183965) 426 additions and 481 deletions in 161 files</sub><br />
+  <sub>[#183965](https://github.com/flutter/flutter/pull/183965) opened on on March 21, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/183965) 427 additions and 483 deletions in 161 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Keep ExpansionPanelList dividers when expanded with 0 materialGapSize<br />
   <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183975) 172 additions and 9 deletions in 4 files</sub><br />
@@ -180,5 +180,5 @@
   <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184598) 9 additions and 10 deletions in 1 file</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Fix obscureText to count grapheme clusters instead of code units<br />
-  <sub>[#184600](https://github.com/flutter/flutter/pull/184600) opened on on April 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184600) 75 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#184600](https://github.com/flutter/flutter/pull/184600) opened on on April 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184600) 75 additions and 24 deletions in 2 files</sub><br />
 
