@@ -146,9 +146,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add useLogicalPixels to ResizeImage for logical pixel cache sizing<br />
   <sub>[#184549](https://github.com/flutter/flutter/pull/184549) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184549) 152 additions and 38 deletions in 3 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Even more awaits v2<br />
-  <sub>[#184552](https://github.com/flutter/flutter/pull/184552) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184552) 17 additions and 12 deletions in 8 files</sub><br />
-
 * **[Mahima Sharma](https://github.com/mahi-ma)** &mdash; Reduce boilerplate in FlutterPlatformViewsTest.mm<br />
   <sub>[#184555](https://github.com/flutter/flutter/pull/184555) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184555) 54 additions and 131 deletions in 1 file</sub><br />
 
@@ -159,7 +156,7 @@
   <sub>[#184563](https://github.com/flutter/flutter/pull/184563) opened on on April 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184563) 183 additions and 75 deletions in 6 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add disposal guidance to CurvedAnimation and CurveTween docs<br />
-  <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184569) 16 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184569) 17 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: correct LicenseRegistry docs to reference NOTICES instead of LICENSE<br />
   <sub>[#184572](https://github.com/flutter/flutter/pull/184572) opened on on April 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184572) 3 additions and 3 deletions in 2 files</sub><br />
@@ -171,7 +168,7 @@
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184588) 52 additions and 2 deletions in 4 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove unnecessary Material import from restoration_scopes_moving_test<br />
-  <sub>[#184591](https://github.com/flutter/flutter/pull/184591) opened on on April 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184591) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#184591](https://github.com/flutter/flutter/pull/184591) opened on on April 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184591) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add a github workflow for reverting PRs.<br />
   <sub>[#184593](https://github.com/flutter/flutter/pull/184593) opened on on April 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184593) 132 additions and 0 deletions in 1 file</sub><br />
