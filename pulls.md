@@ -86,9 +86,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Fix Autocomplete Tab focus traversal with disabled fields<br />
   <sub>[#184000](https://github.com/flutter/flutter/pull/184000) opened on on March 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184000) 68 additions and 0 deletions in 2 files</sub><br />
 
-* **[trizin](https://github.com/trizin)** &mdash; [flutter_tools] Fix arm64e incorrectly matching arm64 in regex check<br />
-  <sub>[#184057](https://github.com/flutter/flutter/pull/184057) opened on on March 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184057) 5 additions and 3 deletions in 2 files</sub><br />
-
 * **[BART SIMPSON](https://github.com/BartSimpson001)** &mdash; Fix reloaded_sources.json returning incorrect src URL (localhost) in web-server mode<br />
   <sub>[#184069](https://github.com/flutter/flutter/pull/184069) opened on on March 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184069) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -109,9 +106,6 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Update Golden Images to 26.4<br />
   <sub>[#184143](https://github.com/flutter/flutter/pull/184143) opened on on March 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184143) 0 additions and 0 deletions in 37 files</sub><br />
-
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix invisible accessibility element before scroll view<br />
-  <sub>[#184155](https://github.com/flutter/flutter/pull/184155) opened on on March 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184155) 34 additions and 5 deletions in 2 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Disable web hot reload when running with --no-hot<br />
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
@@ -165,7 +159,7 @@
   <sub>[#184511](https://github.com/flutter/flutter/pull/184511) opened on on April 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184511) 7 additions and 7 deletions in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
-  <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/184527) 462 additions and 37 deletions in 3 files</sub><br />
+  <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184527) 462 additions and 37 deletions in 3 files</sub><br />
 
 * **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing<br />
   <sub>[#184528](https://github.com/flutter/flutter/pull/184528) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184528) 204 additions and 76 deletions in 4 files</sub><br />
@@ -175,4 +169,10 @@
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add `clipBehavior` parameter to `AnimatedCrossFade`<br />
   <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184545) 55 additions and 0 deletions in 2 files</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add useLogicalPixels to ResizeImage for logical pixel cache sizing<br />
+  <sub>[#184549](https://github.com/flutter/flutter/pull/184549) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184549) 150 additions and 37 deletions in 3 files</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Even more awaits v2<br />
+  <sub>[#184552](https://github.com/flutter/flutter/pull/184552) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184552) 18 additions and 13 deletions in 8 files</sub><br />
 
