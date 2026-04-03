@@ -63,7 +63,7 @@
   <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduce `RawAvatar`<br />
-  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/183657) 464 additions and 98 deletions in 6 files</sub><br />
+  <sub>[#183657](https://github.com/flutter/flutter/pull/183657) opened on on March 13, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/183657) 459 additions and 98 deletions in 6 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
@@ -109,9 +109,6 @@
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Disable web hot reload when running with --no-hot<br />
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Collect HCPP adoption analytics for flutter run/build apk/build appbundle<br />
-  <sub>[#184225](https://github.com/flutter/flutter/pull/184225) opened on on March 26, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184225) 81 additions and 42 deletions in 12 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] [AGP 9] Add Disable Built-in Kotlin and newDSL Migratorrs<br />
   <sub>[#184255](https://github.com/flutter/flutter/pull/184255) opened on on March 27, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/184255) 346 additions and 0 deletions in 4 files</sub><br />
@@ -187,4 +184,7 @@
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add disposal guidance to CurvedAnimation and CurveTween docs<br />
   <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184569) 16 additions and 4 deletions in 2 files</sub><br />
+
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: correct LicenseRegistry docs to reference NOTICES instead of LICENSE<br />
+  <sub>[#184572](https://github.com/flutter/flutter/pull/184572) opened on on April 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184572) 3 additions and 3 deletions in 2 files</sub><br />
 
