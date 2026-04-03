@@ -165,11 +165,14 @@
   <sub>[#184574](https://github.com/flutter/flutter/pull/184574) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184574) 88 additions and 3 deletions in 2 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove list_tile_tester and rendering_tester cross-imports from cupertino tests<br />
-  <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184588) 52 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184588) 53 additions and 3 deletions in 5 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove unnecessary Material import from restoration_scopes_moving_test<br />
   <sub>[#184591](https://github.com/flutter/flutter/pull/184591) opened on on April 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184591) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add a github workflow for reverting PRs.<br />
   <sub>[#184593](https://github.com/flutter/flutter/pull/184593) opened on on April 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184593) 132 additions and 0 deletions in 1 file</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use relative path for reloadedSourcesUri and reloaded modules<br />
+  <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184598) 9 additions and 10 deletions in 1 file</sub><br />
 
