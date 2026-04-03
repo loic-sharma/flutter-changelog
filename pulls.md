@@ -185,3 +185,6 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: correct LicenseRegistry docs to reference NOTICES instead of LICENSE<br />
   <sub>[#184572](https://github.com/flutter/flutter/pull/184572) opened on on April 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184572) 3 additions and 3 deletions in 2 files</sub><br />
 
+* **[TT](https://github.com/Herrtian)** &mdash; Fix discrete Slider tap position mismatch with rounded track shapes<br />
+  <sub>[#184574](https://github.com/flutter/flutter/pull/184574) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184574) 88 additions and 3 deletions in 2 files</sub><br />
+
