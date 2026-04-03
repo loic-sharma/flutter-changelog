@@ -47,7 +47,7 @@
 * **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix wording and suggest GitHub Gist for sharing large logs<br />
   <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183063) 0 additions and 0 deletions in 0 files</sub><br />
 
-* **[Oleh Konko | semantic verification for trust infra |  LLM-augmented operations pipeline (precision-first, claim≤evidence, submit-human) | verify the payload, not the signer](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
+* **[Oleh Konko](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183180) 37 additions and 0 deletions in 4 files</sub><br />
 
 * **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
@@ -76,9 +76,6 @@
 
 * **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Keep ExpansionPanelList dividers when expanded with 0 materialGapSize<br />
   <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183975) 172 additions and 9 deletions in 4 files</sub><br />
-
-* **[ad-angelo](https://github.com/ad-angelo)** &mdash; Update Xcode supported languages instructions<br />
-  <sub>[#183983](https://github.com/flutter/flutter/pull/183983) opened on on March 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183983) 15 additions and 14 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Seal the geometry classes<br />
   <sub>[#183988](https://github.com/flutter/flutter/pull/183988) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183988) 3 additions and 3 deletions in 3 files</sub><br />
