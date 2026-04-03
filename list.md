@@ -57,7 +57,7 @@
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [data_assets] Cleanup tests
-  <sub>[#184209](https://github.com/flutter/flutter/pull/184209) merged on April 2, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/flutter/pull/184209) over 1 week, 3536 additions and 189 deletions in 65 files</sub>
+  <sub>[#184209](https://github.com/flutter/flutter/pull/184209) merged on April 2, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/184209) over 1 week, 3536 additions and 189 deletions in 65 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix layout overflowed in small screen in SensitiveContent's example
