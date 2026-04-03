@@ -717,7 +717,7 @@
 
 ### March 28, 2026 to April 3, 2026
 
-13 commits.
+14 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix merged cells unmerging behind pinned spans<br />
   <sub>[#11418](https://github.com/flutter/packages/pull/11418) merged on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11418) over 35 minutes, 165 additions and 13 deletions in 5 files</sub><br />
@@ -758,6 +758,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [ci] Add permission to  release_from_branches.yml<br />
   <sub>[#11397](https://github.com/flutter/packages/pull/11397) merged on March 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11397) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Move remove_cicd.yml to workflows/<br />
+  <sub>[#11426](https://github.com/flutter/packages/pull/11426) merged on April 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11426) over 5 hours, 0 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add missing exports<br />
   <sub>[#11196](https://github.com/flutter/packages/pull/11196) merged on March 30, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11196) over 3 weeks, 89 additions and 9 deletions in 8 files</sub><br />
