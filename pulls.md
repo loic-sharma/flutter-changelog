@@ -153,7 +153,7 @@
   <sub>[#184489](https://github.com/flutter/flutter/pull/184489) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184489) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; propagate enabled state to windows accessibility<br />
-  <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Downgrade CocoaPods doctor check to warning and fix build error messaging<br />
   <sub>[#184511](https://github.com/flutter/flutter/pull/184511) opened on on April 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184511) 7 additions and 7 deletions in 2 files</sub><br />
