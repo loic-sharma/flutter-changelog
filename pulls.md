@@ -78,10 +78,10 @@
   <sub>[#183965](https://github.com/flutter/flutter/pull/183965) opened on on March 21, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/183965) 427 additions and 483 deletions in 161 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/test<br />
-  <sub>[#183966](https://github.com/flutter/flutter/pull/183966) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183966) 85 additions and 121 deletions in 28 files</sub><br />
+  <sub>[#183966](https://github.com/flutter/flutter/pull/183966) opened on on March 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183966) 85 additions and 121 deletions in 28 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Finish examples/api migration<br />
-  <sub>[#183967](https://github.com/flutter/flutter/pull/183967) opened on on March 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/183967) 88 additions and 100 deletions in 20 files</sub><br />
+  <sub>[#183967](https://github.com/flutter/flutter/pull/183967) opened on on March 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183967) 88 additions and 100 deletions in 20 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Keep ExpansionPanelList dividers when expanded with 0 materialGapSize<br />
   <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183975) 172 additions and 9 deletions in 4 files</sub><br />
