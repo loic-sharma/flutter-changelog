@@ -78,29 +78,33 @@
   <sub>[#183785](https://github.com/flutter/flutter/pull/183785) merged on April 1, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/183785) over 2 weeks, 636 additions and 307 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brian Wilkerson](https://github.com/bwilkerson)</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Handle events without a device<br />
+  <sub>[#184163](https://github.com/flutter/flutter/pull/184163) merged on April 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184163) over 1 week, 20 additions and 13 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material from list_view_viewporting_test and page_forward_transitions_test<br />
   <sub>[#183564](https://github.com/flutter/flutter/pull/183564) merged on April 3, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/183564) over 3 weeks, 152 additions and 20 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; forward an application name to DDS<br />
-  <sub>[#184459](https://github.com/flutter/flutter/pull/184459) merged on April 2, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184459) over 1 day, 68 additions and 4 deletions in 16 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kenzie Davisson](https://github.com/kenzieschmoll), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[walley892](https://github.com/walley892)** &mdash; Fix wide gamut macos integration test<br />
+  <sub>[#184427](https://github.com/flutter/flutter/pull/184427) merged on April 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184427) over 2 days, 47 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Handle collections and records in custom preview annotations<br />
   <sub>[#184518](https://github.com/flutter/flutter/pull/184518) merged on April 2, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184518) over 6 hours, 146 additions and 83 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bumping KGP error minimum to 2.0.0<br />
-  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) merged on April 1, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184385) over 21 hours, 45 additions and 36 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Inject FlutterFramework dependency in iOS Add2App swift packages<br />
   <sub>[#184365](https://github.com/flutter/flutter/pull/184365) merged on April 1, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/184365) over 1 day, 954 additions and 601 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
-* **[walley892](https://github.com/walley892)** &mdash; Fix wide gamut macos integration test<br />
-  <sub>[#184427](https://github.com/flutter/flutter/pull/184427) merged on April 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184427) over 2 days, 47 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; forward an application name to DDS<br />
+  <sub>[#184459](https://github.com/flutter/flutter/pull/184459) merged on April 2, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184459) over 1 day, 68 additions and 4 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kenzie Davisson](https://github.com/kenzieschmoll), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bumping KGP error minimum to 2.0.0<br />
+  <sub>[#184385](https://github.com/flutter/flutter/pull/184385) merged on April 1, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184385) over 21 hours, 45 additions and 36 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds uber sdf shader gradients with blend<br />
   <sub>[#184090](https://github.com/flutter/flutter/pull/184090) merged on April 1, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/184090) over 1 week, 74 additions and 15 deletions in 3 files</sub><br />
@@ -117,10 +121,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Add alwaysSizeToContent argument to Overlay.<br />
   <sub>[#182009](https://github.com/flutter/flutter/pull/182009) merged on March 30, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182009) over 1 month, 122 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Handle events without a device<br />
-  <sub>[#184163](https://github.com/flutter/flutter/pull/184163) merged on April 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184163) over 1 week, 20 additions and 13 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add title evaluation<br />
   <sub>[#184084](https://github.com/flutter/flutter/pull/184084) merged on March 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184084) over 5 days, 136 additions and 0 deletions in 2 files</sub><br />
