@@ -176,3 +176,6 @@
 * **[xfce0](https://github.com/xfce0)** &mdash; Fix obscureText to count grapheme clusters instead of code units<br />
   <sub>[#184600](https://github.com/flutter/flutter/pull/184600) opened on on April 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184600) 75 additions and 24 deletions in 2 files</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS] Make it easier to run unit tests from CLI<br />
+  <sub>[#184617](https://github.com/flutter/flutter/pull/184617) opened on on April 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184617) 12 additions and 4 deletions in 1 file</sub><br />
+
