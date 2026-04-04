@@ -68,9 +68,6 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
 
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Add controller param for caller-managed options<br />
-  <sub>[#183705](https://github.com/flutter/flutter/pull/183705) opened on on March 15, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/183705) 286 additions and 33 deletions in 2 files</sub><br />
-
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
 
@@ -82,9 +79,6 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Finish examples/api migration<br />
   <sub>[#183967](https://github.com/flutter/flutter/pull/183967) opened on on March 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183967) 88 additions and 100 deletions in 20 files</sub><br />
-
-* **[Benji Farquhar](https://github.com/benji-farquhar)** &mdash; Keep ExpansionPanelList dividers when expanded with 0 materialGapSize<br />
-  <sub>[#183975](https://github.com/flutter/flutter/pull/183975) opened on on March 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183975) 172 additions and 9 deletions in 4 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Seal the geometry classes<br />
   <sub>[#183988](https://github.com/flutter/flutter/pull/183988) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183988) 3 additions and 3 deletions in 3 files</sub><br />
@@ -150,7 +144,7 @@
   <sub>[#184528](https://github.com/flutter/flutter/pull/184528) opened on on April 2, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/184528) 325 additions and 92 deletions in 5 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add `clipBehavior` parameter to `AnimatedCrossFade`<br />
-  <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184545) 64 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184545) 64 additions and 0 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add useLogicalPixels to ResizeImage for logical pixel cache sizing<br />
   <sub>[#184549](https://github.com/flutter/flutter/pull/184549) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184549) 152 additions and 38 deletions in 3 files</sub><br />
