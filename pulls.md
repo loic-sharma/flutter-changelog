@@ -140,9 +140,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
   <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184527) 462 additions and 37 deletions in 3 files</sub><br />
 
-* **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing<br />
-  <sub>[#184528](https://github.com/flutter/flutter/pull/184528) opened on on April 2, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/184528) 342 additions and 92 deletions in 5 files</sub><br />
-
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add `clipBehavior` parameter to `AnimatedCrossFade`<br />
   <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184545) 66 additions and 0 deletions in 2 files</sub><br />
 
