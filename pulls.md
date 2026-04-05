@@ -200,3 +200,6 @@
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Detect incompatible git in content_aware_hash to prevent SDK corruption<br />
   <sub>[#184634](https://github.com/flutter/flutter/pull/184634) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184634) 170 additions and 10 deletions in 5 files</sub><br />
 
+* **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix web dev proxy merging multiple Set-Cookie response headers<br />
+  <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 120 additions and 1 deletion in 2 files</sub><br />
+
