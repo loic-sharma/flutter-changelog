@@ -197,3 +197,6 @@
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix Android engine flags defaulting to true for malformed values<br />
   <sub>[#184631](https://github.com/flutter/flutter/pull/184631) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184631) 3 additions and 2 deletions in 1 file</sub><br />
 
+* **[Meylis](https://github.com/realmeylisdev)** &mdash; Detect incompatible git in content_aware_hash to prevent SDK corruption<br />
+  <sub>[#184634](https://github.com/flutter/flutter/pull/184634) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184634) 170 additions and 10 deletions in 5 files</sub><br />
+
