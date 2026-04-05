@@ -138,7 +138,7 @@
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve documentation of `frictionFactor` function<br />
-  <sub>[#184509](https://github.com/flutter/flutter/pull/184509) opened on on April 2, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184509) 7 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#184509](https://github.com/flutter/flutter/pull/184509) opened on on April 2, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184509) 7 additions and 4 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
   <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184527) 462 additions and 37 deletions in 3 files</sub><br />
