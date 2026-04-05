@@ -204,7 +204,7 @@
   <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 120 additions and 1 deletion in 2 files</sub><br />
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix SIGSEGV in VSyncClient on ProMotion devices when engine shell is nil<br />
-  <sub>[#184639](https://github.com/flutter/flutter/pull/184639) opened on on April 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184639) 50 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#184639](https://github.com/flutter/flutter/pull/184639) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184639) 50 additions and 2 deletions in 4 files</sub><br />
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Skip LLDB JIT breakpoint on Xcode 26.4 to work around breakpoint race<br />
   <sub>[#184640](https://github.com/flutter/flutter/pull/184640) opened on on April 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184640) 160 additions and 3 deletions in 3 files</sub><br />
