@@ -182,3 +182,18 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS] Make it easier to run unit tests from CLI<br />
   <sub>[#184617](https://github.com/flutter/flutter/pull/184617) opened on on April 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184617) 12 additions and 4 deletions in 1 file</sub><br />
 
+* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix debugNeedsPaint/Layout/CompositedLayerUpdate crashing in release mode<br />
+  <sub>[#184627](https://github.com/flutter/flutter/pull/184627) opened on on April 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184627) 15 additions and 21 deletions in 1 file</sub><br />
+
+* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix MergeSemantics resolving wrong handler for custom actions<br />
+  <sub>[#184628](https://github.com/flutter/flutter/pull/184628) opened on on April 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184628) 37 additions and 6 deletions in 1 file</sub><br />
+
+* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix arm64e incorrectly matching arm64 in EXCLUDED_ARCHS regex<br />
+  <sub>[#184629](https://github.com/flutter/flutter/pull/184629) opened on on April 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184629) 6 additions and 1 deletion in 2 files</sub><br />
+
+* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix AccessibilityBridge startup crash on vendor-modified Android<br />
+  <sub>[#184630](https://github.com/flutter/flutter/pull/184630) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184630) 13 additions and 5 deletions in 1 file</sub><br />
+
+* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix Android engine flags defaulting to true for malformed values<br />
+  <sub>[#184631](https://github.com/flutter/flutter/pull/184631) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184631) 3 additions and 2 deletions in 1 file</sub><br />
+
