@@ -4,7 +4,15 @@
 
 ### April 4, 2026 to April 10, 2026
 
-3 commits.
+5 commits.
+
+* **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; Keep last character obscured when toggling obscureText
+  <sub>[#183488](https://github.com/flutter/flutter/pull/183488) merged on April 6, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/183488) over 3 weeks, 75 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Navaron Bracke](https://github.com/navaronbracke)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Parse scheme file with XML parser for SwiftPM migrator
+  <sub>[#184525](https://github.com/flutter/flutter/pull/184525) merged on April 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184525) over 4 days, 163 additions and 23 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Fix go/ links in rbe.mde
   <sub>[#184672](https://github.com/flutter/flutter/pull/184672) merged on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184672) over 46 minutes, 3 additions and 3 deletions in 1 file</sub>
