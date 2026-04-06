@@ -75,7 +75,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>2 images...</summary>![telegram-cloud-photo-size-2-5226433707395193195-y](https://github.com/user-attachments/assets/a94ab85b-9a68-453b-8407-5e7c07e30755)![telegram-cloud-photo-size-2-5226433707395193194-y](https://github.com/user-attachments/assets/463bd2ba-a59d-46e6-96e6-113c5f8e4e75)</details></sub>
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Add Disable Built-in Kotlin and newDSL Migratorrs
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Add Disable Built-in Kotlin and newDSL Migrators
   <sub>[#184255](https://github.com/flutter/flutter/pull/184255) merged on April 3, 2026 &mdash; **Large:** [36 comments](https://github.com/flutter/flutter/pull/184255) over 1 week, 616 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
 
