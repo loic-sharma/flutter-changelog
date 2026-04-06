@@ -213,7 +213,7 @@
   <sub>[#184685](https://github.com/flutter/flutter/pull/184685) opened on on April 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184685) 111 additions and 22 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set path_provider_android version<br />
-  <sub>[#184688](https://github.com/flutter/flutter/pull/184688) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184688) 2 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#184688](https://github.com/flutter/flutter/pull/184688) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184688) 41 additions and 39 deletions in 6 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; skip LLDB breakpoint on Xcode 26.4<br />
   <sub>[#184690](https://github.com/flutter/flutter/pull/184690) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184690) 130 additions and 12 deletions in 5 files</sub><br />
