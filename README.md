@@ -690,9 +690,18 @@
 
 ## flutter/website
 
+### April 4, 2026 to April 10, 2026
+
+1 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Correct the entry for the "flutter build" command<br />
+  <sub>[#13241](https://github.com/flutter/website/pull/13241) merged on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13241) over 5 days, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### March 28, 2026 to April 3, 2026
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Clarify ListTile error reporting in colored widget<br />
   <sub>[#13222](https://github.com/flutter/website/pull/13222) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13222) over 3 days, 9 additions and 9 deletions in 2 files</sub><br />
@@ -753,6 +762,8 @@
 * **[Shemetov Max](https://github.com/shemetov-coder)** &mdash; Fix broken url of the App Brewery course<br />
   <sub>[#13228](https://github.com/flutter/website/pull/13228) merged on March 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13228) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### March 21, 2026 to March 27, 2026
 

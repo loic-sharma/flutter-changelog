@@ -215,9 +215,6 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove feedback_tester cross-import from checkbox_list_tile_test<br />
   <sub>[#184651](https://github.com/flutter/flutter/pull/184651) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184651) 39 additions and 3 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Introduce command to build a swift package for SwiftPM add to app integration<br />
-  <sub>[#184660](https://github.com/flutter/flutter/pull/184660) opened on on April 6, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/184660) 4128 additions and 70 deletions in 41 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Expose platform specific handles for multi-window API<br />
   <sub>[#184662](https://github.com/flutter/flutter/pull/184662) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184662) 74 additions and 12 deletions in 3 files</sub><br />
 
