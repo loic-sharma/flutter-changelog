@@ -515,7 +515,11 @@
 
 ### April 4, 2026 to April 10, 2026
 
-1 commits.
+2 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [path_provider_android] Changes internal implementation to use JNI
+  <sub>[#9770](https://github.com/flutter/packages/pull/9770) merged on April 6, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/packages/pull/9770) over 8 months, 10297 additions and 1116 deletions in 24 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Hossein Yousefi](https://github.com/HosseinYousefi), [Dominik Roszkowski](https://github.com/orestesgaolin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] use override: post-release-<package> label
   <sub>[#11429](https://github.com/flutter/packages/pull/11429) merged on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11429) over 2 days, 4 additions and 4 deletions in 3 files</sub>

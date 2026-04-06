@@ -191,9 +191,6 @@
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix AccessibilityBridge startup crash on vendor-modified Android<br />
   <sub>[#184630](https://github.com/flutter/flutter/pull/184630) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184630) 13 additions and 5 deletions in 1 file</sub><br />
 
-* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix Android engine flags defaulting to true for malformed values<br />
-  <sub>[#184631](https://github.com/flutter/flutter/pull/184631) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184631) 3 additions and 2 deletions in 1 file</sub><br />
-
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Detect incompatible git in content_aware_hash to prevent SDK corruption<br />
   <sub>[#184634](https://github.com/flutter/flutter/pull/184634) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184634) 170 additions and 10 deletions in 5 files</sub><br />
 
@@ -220,4 +217,7 @@
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Display the team ID and name when selecting a signing certificate<br />
   <sub>[#184665](https://github.com/flutter/flutter/pull/184665) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184665) 258 additions and 4 deletions in 2 files</sub><br />
+
+* **[rich22222](https://github.com/rich22222)** &mdash; Fix web autofill not picking up values after Windows Hello authentication<br />
+  <sub>[#184673](https://github.com/flutter/flutter/pull/184673) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184673) 86 additions and 13 deletions in 2 files</sub><br />
 
