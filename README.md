@@ -19,14 +19,14 @@
   <sub>[#182371](https://github.com/flutter/flutter/pull/182371) merged on April 2, 2026 &mdash; **Large:** [74 comments](https://github.com/flutter/flutter/pull/182371) over 1 month, 1168 additions and 201 deletions in 29 files</sub><br />
   <sub>Reviewed by: [Michał Sawicz](https://github.com/Saviq), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Rick roll triagers on/near April 1st<br />
+  <sub>[#184355](https://github.com/flutter/flutter/pull/184355) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184355) over 3 hours, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+
 * **[b-luk](https://github.com/b-luk)** &mdash; Support different joins for stroked rects in uber_sdf, fix incorrect aa<br />
   <sub>[#184395](https://github.com/flutter/flutter/pull/184395) merged on April 2, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/184395) over 2 days, 117 additions and 53 deletions in 7 files</sub><br />
   <sub>Reviewed by: [walley892](https://github.com/walley892), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
   <sub><details><summary>6 images...</summary><img width="484" height="320" alt="image" src="https://github.com/user-attachments/assets/aa395574-7af9-4f19-9afe-151b3726a1ed" /><img width="484" height="320" alt="image" src="https://github.com/user-attachments/assets/4cc13fbe-4a8a-4027-88c8-19a2366148d2" /><img width="484" height="320" alt="image" src="https://github.com/user-attachments/assets/135c0cb7-3479-4ac9-8aa3-ec6b77adaff8" /><img width="404" height="281" alt="image" src="https://github.com/user-attachments/assets/2c5126b1-60b8-437a-bfbb-f93726317057" /><img width="404" height="280" alt="image" src="https://github.com/user-attachments/assets/0d78f1d5-89a6-4705-a2fb-3cebc086a3a9" /><img width="404" height="280" alt="image" src="https://github.com/user-attachments/assets/c3f815b0-2eaf-4ecb-a0a2-ceebf18e33e7" /></details></sub>
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Rick roll triagers on/near April 1st<br />
-  <sub>[#184355](https://github.com/flutter/flutter/pull/184355) merged on March 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184355) over 3 hours, 4 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[Andrei Kabylin](https://github.com/sysint64)** &mdash; Add bottom safe area padding to licenses package license page<br />
   <sub>[#182425](https://github.com/flutter/flutter/pull/182425) merged on April 1, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/182425) over 1 month, 96 additions and 1 deletion in 2 files</sub><br />
