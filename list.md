@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 4, 2026 to April 10, 2026
+
+1 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Skill to find dart or flutter revision from a hash
+  <sub>[#184589](https://github.com/flutter/flutter/pull/184589) merged on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184589) over 2 days, 34 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53)</sub>
+
 ### March 28, 2026 to April 3, 2026
 
-64 commits.
+<details>
+<summary>64 commits...</summary>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix autofill in iOS 26 Safari
   <sub>[#182024](https://github.com/flutter/flutter/pull/182024) merged on March 31, 2026 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/182024) over 1 month, 826 additions and 242 deletions in 8 files</sub>
@@ -265,6 +274,8 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Reland "Even more awaits"
   <sub>[#184467](https://github.com/flutter/flutter/pull/184467) merged on April 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184467) over 23 hours, 145 additions and 69 deletions in 47 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+</details>
 
 ### March 21, 2026 to March 27, 2026
 
