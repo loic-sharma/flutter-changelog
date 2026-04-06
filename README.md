@@ -4,7 +4,15 @@
 
 ### April 4, 2026 to April 10, 2026
 
-5 commits.
+7 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix invisible accessibility element before scroll view<br />
+  <sub>[#184155](https://github.com/flutter/flutter/pull/184155) merged on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184155) over 1 week, 34 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] Allow percentage strings like "50%" as `SemanticsValue` for `ProgressIndicator`<br />
+  <sub>[#183670](https://github.com/flutter/flutter/pull/183670) merged on April 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/183670) over 3 weeks, 326 additions and 24 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; Keep last character obscured when toggling obscureText<br />
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) merged on April 6, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/183488) over 3 weeks, 75 additions and 2 deletions in 2 files</sub><br />
@@ -527,11 +535,15 @@
 
 ### April 4, 2026 to April 10, 2026
 
-2 commits.
+3 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [path_provider_android] Changes internal implementation to use JNI<br />
   <sub>[#9770](https://github.com/flutter/packages/pull/9770) merged on April 6, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/packages/pull/9770) over 8 months, 10297 additions and 1116 deletions in 24 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Hossein Yousefi](https://github.com/HosseinYousefi), [Dominik Roszkowski](https://github.com/orestesgaolin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Manually Sync go_router release to main<br />
+  <sub>[#11449](https://github.com/flutter/packages/pull/11449) merged on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11449) over 2 hours, 6 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] use override: post-release-<package> label<br />
   <sub>[#11429](https://github.com/flutter/packages/pull/11429) merged on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11429) over 2 days, 4 additions and 4 deletions in 3 files</sub><br />
