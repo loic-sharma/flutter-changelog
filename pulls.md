@@ -102,7 +102,7 @@
   <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184120) 93 additions and 2 deletions in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Ignore incoming deprecated_web_configuration lint<br />
-  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184130) 2 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184130) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Rafa Ruiz](https://github.com/RafaRuiz)** &mdash; Allow [NavigationDestination]'s text to be aligned horizontally<br />
   <sub>[#184136](https://github.com/flutter/flutter/pull/184136) opened on on March 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184136) 60 additions and 1 deletion in 2 files</sub><br />
@@ -195,7 +195,7 @@
   <sub>[#184640](https://github.com/flutter/flutter/pull/184640) opened on on April 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184640) 164 additions and 3 deletions in 3 files</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix ImageInfo.isCloneOf to correctly compare scale values (fixes #184626)<br />
-  <sub>[#184643](https://github.com/flutter/flutter/pull/184643) opened on on April 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184643) 108 additions and 23 deletions in 4 files</sub><br />
+  <sub>[#184643](https://github.com/flutter/flutter/pull/184643) opened on on April 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184643) 140 additions and 23 deletions in 4 files</sub><br />
 
 * **[interfect](https://github.com/interfect)** &mdash; Add tests for debugPrint-ing exciting Unicode codepoints<br />
   <sub>[#184649](https://github.com/flutter/flutter/pull/184649) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184649) 7 additions and 0 deletions in 1 file</sub><br />
