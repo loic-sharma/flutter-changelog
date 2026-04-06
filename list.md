@@ -4,7 +4,12 @@
 
 ### April 4, 2026 to April 10, 2026
 
-7 commits.
+8 commits.
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views
+  <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/c713dd0f-8cfd-4e7d-9070-3bf51a89f50a"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/fc23ff88-bd64-44d0-a840-e7ba58638943"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/fef237f1-9e4f-4376-a251-22335cf7a324"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/db707bf1-2bd8-4c39-a510-ca45f7730a0a"  style="max-width: 50%;"></details></sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix invisible accessibility element before scroll view
   <sub>[#184155](https://github.com/flutter/flutter/pull/184155) merged on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184155) over 1 week, 34 additions and 5 deletions in 2 files</sub>
