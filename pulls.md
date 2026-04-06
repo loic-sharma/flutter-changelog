@@ -216,5 +216,5 @@
   <sub>[#184694](https://github.com/flutter/flutter/pull/184694) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184694) 223 additions and 8 deletions in 6 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `WindowsPlugin` should not crash when ffiPlugin enabled<br />
-  <sub>[#184695](https://github.com/flutter/flutter/pull/184695) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184695) 6 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#184695](https://github.com/flutter/flutter/pull/184695) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184695) 6 additions and 1 deletion in 1 file</sub><br />
 
