@@ -194,9 +194,6 @@
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Skip LLDB JIT breakpoint on Xcode 26.4 to work around breakpoint race<br />
   <sub>[#184640](https://github.com/flutter/flutter/pull/184640) opened on on April 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184640) 164 additions and 3 deletions in 3 files</sub><br />
 
-* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix ImageInfo.isCloneOf to correctly compare scale values (fixes #184626)<br />
-  <sub>[#184643](https://github.com/flutter/flutter/pull/184643) opened on on April 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184643) 140 additions and 23 deletions in 4 files</sub><br />
-
 * **[interfect](https://github.com/interfect)** &mdash; Add tests for debugPrint-ing exciting Unicode codepoints<br />
   <sub>[#184649](https://github.com/flutter/flutter/pull/184649) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184649) 7 additions and 0 deletions in 1 file</sub><br />
 
@@ -217,4 +214,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set path_provider_android version<br />
   <sub>[#184688](https://github.com/flutter/flutter/pull/184688) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184688) 2 additions and 1 deletion in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; skip LLDB breakpoint on Xcode 26.4<br />
+  <sub>[#184690](https://github.com/flutter/flutter/pull/184690) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184690) 130 additions and 12 deletions in 5 files</sub><br />
 
