@@ -4,7 +4,11 @@
 
 ### April 4, 2026 to April 10, 2026
 
-1 commits.
+2 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add suggestion for what types of skills are helpful<br />
+  <sub>[#184661](https://github.com/flutter/flutter/pull/184661) merged on April 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184661) over 1 hour, 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Skill to find dart or flutter revision from a hash<br />
   <sub>[#184589](https://github.com/flutter/flutter/pull/184589) merged on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184589) over 2 days, 34 additions and 0 deletions in 2 files</sub><br />
@@ -509,9 +513,18 @@
 
 ## flutter/packages
 
+### April 4, 2026 to April 10, 2026
+
+1 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] use override: post-release-<package> label<br />
+  <sub>[#11429](https://github.com/flutter/packages/pull/11429) merged on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11429) over 2 days, 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
 ### March 28, 2026 to April 3, 2026
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix merged cells unmerging behind pinned spans<br />
   <sub>[#11418](https://github.com/flutter/packages/pull/11418) merged on April 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11418) over 35 minutes, 165 additions and 13 deletions in 5 files</sub><br />
@@ -568,6 +581,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Uses fluttergithubbot to create branches and PRs<br />
   <sub>[#11368](https://github.com/flutter/packages/pull/11368) merged on March 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11368) over 3 days, 4 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+</details>
 
 ### March 21, 2026 to March 27, 2026
 
