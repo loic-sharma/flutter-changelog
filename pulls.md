@@ -102,7 +102,7 @@
   <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184120) 93 additions and 2 deletions in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Ignore incoming deprecated_web_configuration lint<br />
-  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184130) 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184130) 5 additions and 2 deletions in 3 files</sub><br />
 
 * **[Rafa Ruiz](https://github.com/RafaRuiz)** &mdash; Allow [NavigationDestination]'s text to be aligned horizontally<br />
   <sub>[#184136](https://github.com/flutter/flutter/pull/184136) opened on on March 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184136) 60 additions and 1 deletion in 2 files</sub><br />
@@ -197,9 +197,6 @@
 * **[interfect](https://github.com/interfect)** &mdash; Add tests for debugPrint-ing exciting Unicode codepoints<br />
   <sub>[#184649](https://github.com/flutter/flutter/pull/184649) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184649) 7 additions and 0 deletions in 1 file</sub><br />
 
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove feedback_tester cross-import from checkbox_list_tile_test<br />
-  <sub>[#184651](https://github.com/flutter/flutter/pull/184651) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184651) 39 additions and 3 deletions in 1 file</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Expose platform specific handles for multi-window API<br />
   <sub>[#184662](https://github.com/flutter/flutter/pull/184662) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184662) 74 additions and 12 deletions in 3 files</sub><br />
 
@@ -212,9 +209,9 @@
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix flutter_tools crashing on invalid UTF-8 in log output (fixes #184646)<br />
   <sub>[#184685](https://github.com/flutter/flutter/pull/184685) opened on on April 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184685) 111 additions and 22 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Set path_provider_android version<br />
-  <sub>[#184688](https://github.com/flutter/flutter/pull/184688) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184688) 41 additions and 39 deletions in 6 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; skip LLDB breakpoint on Xcode 26.4<br />
   <sub>[#184690](https://github.com/flutter/flutter/pull/184690) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184690) 130 additions and 12 deletions in 5 files</sub><br />
+
+* **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; feat: Add tooltip option on the text_span<br />
+  <sub>[#184694](https://github.com/flutter/flutter/pull/184694) opened on on April 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184694) 222 additions and 7 deletions in 6 files</sub><br />
 
