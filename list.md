@@ -4,7 +4,11 @@
 
 ### April 4, 2026 to April 10, 2026
 
-2 commits.
+3 commits.
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Fix go/ links in rbe.mde
+  <sub>[#184672](https://github.com/flutter/flutter/pull/184672) merged on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184672) over 46 minutes, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add suggestion for what types of skills are helpful
   <sub>[#184661](https://github.com/flutter/flutter/pull/184661) merged on April 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184661) over 1 hour, 9 additions and 0 deletions in 1 file</sub>

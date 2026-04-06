@@ -212,9 +212,9 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Expose platform specific handles for multi-window API<br />
   <sub>[#184662](https://github.com/flutter/flutter/pull/184662) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184662) 74 additions and 12 deletions in 3 files</sub><br />
 
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Display the team ID and name when selecting a signing certificate<br />
-  <sub>[#184665](https://github.com/flutter/flutter/pull/184665) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184665) 258 additions and 4 deletions in 2 files</sub><br />
-
 * **[rich22222](https://github.com/rich22222)** &mdash; Fix web autofill not picking up values after Windows Hello authentication<br />
   <sub>[#184673](https://github.com/flutter/flutter/pull/184673) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184673) 89 additions and 15 deletions in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Async rendering for benchmarks<br />
+  <sub>[#184677](https://github.com/flutter/flutter/pull/184677) opened on on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184677) 10 additions and 9 deletions in 2 files</sub><br />
 
