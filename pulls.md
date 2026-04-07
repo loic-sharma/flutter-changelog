@@ -42,7 +42,7 @@
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) opened on on February 13, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/182333) 131 additions and 10 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
-  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/182788) 165 additions and 49 deletions in 11 files</sub><br />
+  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/182788) 165 additions and 49 deletions in 11 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
   <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
@@ -220,4 +220,7 @@
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix RenderParagraph.textAlign setter to call markNeedsLayout instead of markNeedsPaint<br />
   <sub>[#184712](https://github.com/flutter/flutter/pull/184712) opened on on April 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184712) 4 additions and 5 deletions in 2 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove custom `analysis_options.yaml` from `imitation_game_flutter`<br />
+  <sub>[#184717](https://github.com/flutter/flutter/pull/184717) opened on on April 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184717) 24 additions and 57 deletions in 2 files</sub><br />
 

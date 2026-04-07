@@ -737,7 +737,11 @@
 
 ### April 4, 2026 to April 10, 2026
 
-1 commits.
+2 commits.
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: Add dot shorthands guide to Flutter concepts<br />
+  <sub>[#13180](https://github.com/flutter/website/pull/13180) merged on April 7, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/website/pull/13180) over 3 weeks, 123 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Correct the entry for the "flutter build" command<br />
   <sub>[#13241](https://github.com/flutter/website/pull/13241) merged on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13241) over 5 days, 3 additions and 3 deletions in 1 file</sub><br />
