@@ -131,9 +131,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve documentation of `frictionFactor` function<br />
   <sub>[#184509](https://github.com/flutter/flutter/pull/184509) opened on on April 2, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184509) 7 additions and 4 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
-  <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184527) 462 additions and 37 deletions in 3 files</sub><br />
-
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add `clipBehavior` parameter to `AnimatedCrossFade`<br />
   <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184545) 68 additions and 0 deletions in 2 files</sub><br />
 
@@ -178,9 +175,6 @@
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Skip LLDB JIT breakpoint on Xcode 26.4 to work around breakpoint race<br />
   <sub>[#184640](https://github.com/flutter/flutter/pull/184640) opened on on April 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184640) 164 additions and 3 deletions in 3 files</sub><br />
-
-* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix ImageInfo.isCloneOf to correctly compare scale values (fixes #184626)<br />
-  <sub>[#184643](https://github.com/flutter/flutter/pull/184643) opened on on April 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184643) 29 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Expose platform specific handles for multi-window API<br />
   <sub>[#184662](https://github.com/flutter/flutter/pull/184662) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184662) 117 additions and 15 deletions in 4 files</sub><br />
