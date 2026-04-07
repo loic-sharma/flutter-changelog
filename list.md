@@ -4,7 +4,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-11 commits.
+12 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views
   <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub>
@@ -30,6 +30,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Parse scheme file with XML parser for SwiftPM migrator
   <sub>[#184525](https://github.com/flutter/flutter/pull/184525) merged on April 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184525) over 4 days, 163 additions and 23 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Have `flutter create` create a pubspec.lock to ensure pinned versions are being used.
+  <sub>[#175352](https://github.com/flutter/flutter/pull/175352) merged on April 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/175352) over 6 months, 105 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `WindowsPlugin` should not crash when ffiPlugin enabled
   <sub>[#184695](https://github.com/flutter/flutter/pull/184695) merged on April 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184695) over 7 hours, 6 additions and 1 deletion in 1 file</sub>

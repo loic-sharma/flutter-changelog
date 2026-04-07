@@ -2,9 +2,6 @@
 
 ## flutter/flutter
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Have `flutter create` create a pubspec.lock to ensure pinned versions are being used.<br />
-  <sub>[#175352](https://github.com/flutter/flutter/pull/175352) opened on on September 15, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/175352) 105 additions and 2 deletions in 3 files</sub><br />
-
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
