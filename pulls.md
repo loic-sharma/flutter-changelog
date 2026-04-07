@@ -74,9 +74,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/widgets<br />
   <sub>[#183965](https://github.com/flutter/flutter/pull/183965) opened on on March 21, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/183965) 427 additions and 483 deletions in 161 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/test<br />
-  <sub>[#183966](https://github.com/flutter/flutter/pull/183966) opened on on March 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183966) 85 additions and 121 deletions in 28 files</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Finish examples/api migration<br />
   <sub>[#183967](https://github.com/flutter/flutter/pull/183967) opened on on March 21, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183967) 88 additions and 100 deletions in 20 files</sub><br />
 
@@ -131,20 +128,11 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve documentation of `frictionFactor` function<br />
   <sub>[#184509](https://github.com/flutter/flutter/pull/184509) opened on on April 2, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184509) 7 additions and 4 deletions in 1 file</sub><br />
 
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add `clipBehavior` parameter to `AnimatedCrossFade`<br />
-  <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184545) 68 additions and 0 deletions in 2 files</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add useLogicalPixels to ResizeImage for logical pixel cache sizing<br />
   <sub>[#184549](https://github.com/flutter/flutter/pull/184549) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184549) 152 additions and 38 deletions in 3 files</sub><br />
 
 * **[Mahima Sharma](https://github.com/mahi-ma)** &mdash; Reduce boilerplate in FlutterPlatformViewsTest.mm<br />
   <sub>[#184555](https://github.com/flutter/flutter/pull/184555) opened on on April 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184555) 54 additions and 131 deletions in 1 file</sub><br />
-
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add disposal guidance to CurvedAnimation and CurveTween docs<br />
-  <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184569) 17 additions and 4 deletions in 2 files</sub><br />
-
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: correct LicenseRegistry docs to reference NOTICES instead of LICENSE<br />
-  <sub>[#184572](https://github.com/flutter/flutter/pull/184572) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184572) 7 additions and 5 deletions in 2 files</sub><br />
 
 * **[TT](https://github.com/Herrtian)** &mdash; Fix discrete Slider tap position mismatch with rounded track shapes<br />
   <sub>[#184574](https://github.com/flutter/flutter/pull/184574) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184574) 88 additions and 3 deletions in 2 files</sub><br />
@@ -154,9 +142,6 @@
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use relative path for reloadedSourcesUri and reloaded modules<br />
   <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184598) 9 additions and 10 deletions in 1 file</sub><br />
-
-* **[xfce0](https://github.com/xfce0)** &mdash; Fix obscureText to count grapheme clusters instead of code units<br />
-  <sub>[#184600](https://github.com/flutter/flutter/pull/184600) opened on on April 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184600) 76 additions and 24 deletions in 2 files</sub><br />
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix debugNeedsPaint/Layout/CompositedLayerUpdate crashing in release mode<br />
   <sub>[#184627](https://github.com/flutter/flutter/pull/184627) opened on on April 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184627) 15 additions and 21 deletions in 1 file</sub><br />
@@ -192,7 +177,7 @@
   <sub>[#184690](https://github.com/flutter/flutter/pull/184690) opened on on April 6, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/184690) 450 additions and 32 deletions in 5 files</sub><br />
 
 * **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; feat: Add tooltip option on the text_span<br />
-  <sub>[#184694](https://github.com/flutter/flutter/pull/184694) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184694) 223 additions and 8 deletions in 6 files</sub><br />
+  <sub>[#184694](https://github.com/flutter/flutter/pull/184694) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184694) 223 additions and 8 deletions in 6 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add swift strict concurrency attributes to iOS API - part 1<br />
   <sub>[#184703](https://github.com/flutter/flutter/pull/184703) opened on on April 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184703) 188 additions and 9 deletions in 14 files</sub><br />
