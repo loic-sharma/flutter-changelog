@@ -203,6 +203,9 @@
 * **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; feat: Add tooltip option on the text_span<br />
   <sub>[#184694](https://github.com/flutter/flutter/pull/184694) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184694) 223 additions and 8 deletions in 6 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add swift strict concurrency attributes to iOS API - part 1<br />
+  <sub>[#184703](https://github.com/flutter/flutter/pull/184703) opened on on April 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184703) 188 additions and 9 deletions in 14 files</sub><br />
+
 * **[Alex Li](https://github.com/AlexV525)** &mdash; Replace `widget.tabs[index]` with `tab` when creating wrapped children<br />
   <sub>[#184711](https://github.com/flutter/flutter/pull/184711) opened on on April 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184711) 1 addition and 1 deletion in 1 file</sub><br />
 
