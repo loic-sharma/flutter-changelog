@@ -4,7 +4,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-17 commits.
+18 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views
   <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub>
@@ -26,6 +26,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] Allow percentage strings like "50%" as `SemanticsValue` for `ProgressIndicator`
   <sub>[#183670](https://github.com/flutter/flutter/pull/183670) merged on April 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/183670) over 3 weeks, 326 additions and 24 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Add Support For Built-in Kotlin
+  <sub>[#184227](https://github.com/flutter/flutter/pull/184227) merged on April 7, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/184227) over 1 week, 3695 additions and 1588 deletions in 38 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; Keep last character obscured when toggling obscureText
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) merged on April 6, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/183488) over 3 weeks, 75 additions and 2 deletions in 2 files</sub>
