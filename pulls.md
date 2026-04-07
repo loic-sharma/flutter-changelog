@@ -78,7 +78,7 @@
   <sub>[#183966](https://github.com/flutter/flutter/pull/183966) opened on on March 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183966) 85 additions and 121 deletions in 28 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Finish examples/api migration<br />
-  <sub>[#183967](https://github.com/flutter/flutter/pull/183967) opened on on March 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183967) 88 additions and 100 deletions in 20 files</sub><br />
+  <sub>[#183967](https://github.com/flutter/flutter/pull/183967) opened on on March 21, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183967) 88 additions and 100 deletions in 20 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Seal the geometry classes<br />
   <sub>[#183988](https://github.com/flutter/flutter/pull/183988) opened on on March 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183988) 3 additions and 3 deletions in 3 files</sub><br />
@@ -97,9 +97,6 @@
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Ignore incoming deprecated_web_configuration lint<br />
   <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184130) 5 additions and 2 deletions in 3 files</sub><br />
-
-* **[Rafa Ruiz](https://github.com/RafaRuiz)** &mdash; Allow [NavigationDestination]'s text to be aligned horizontally<br />
-  <sub>[#184136](https://github.com/flutter/flutter/pull/184136) opened on on March 25, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184136) 60 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Disable web hot reload when running with --no-hot<br />
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
@@ -145,9 +142,6 @@
 
 * **[Mahima Sharma](https://github.com/mahi-ma)** &mdash; Reduce boilerplate in FlutterPlatformViewsTest.mm<br />
   <sub>[#184555](https://github.com/flutter/flutter/pull/184555) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184555) 54 additions and 131 deletions in 1 file</sub><br />
-
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Fix Container clipBehavior not clipping decoration painting<br />
-  <sub>[#184561](https://github.com/flutter/flutter/pull/184561) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184561) 124 additions and 15 deletions in 2 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add disposal guidance to CurvedAnimation and CurveTween docs<br />
   <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184569) 17 additions and 4 deletions in 2 files</sub><br />
