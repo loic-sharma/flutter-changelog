@@ -7,7 +7,7 @@
 12 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views
-  <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub>
+  <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
   <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/c713dd0f-8cfd-4e7d-9070-3bf51a89f50a"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/fc23ff88-bd64-44d0-a840-e7ba58638943"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/fef237f1-9e4f-4376-a251-22335cf7a324"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/db707bf1-2bd8-4c39-a510-ca45f7730a0a"  style="max-width: 50%;"></details></sub>
 
@@ -556,11 +556,15 @@
 
 ### April 4, 2026 to April 10, 2026
 
-4 commits.
+5 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [path_provider_android] Changes internal implementation to use JNI
   <sub>[#9770](https://github.com/flutter/packages/pull/9770) merged on April 6, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/packages/pull/9770) over 8 months, 10297 additions and 1116 deletions in 24 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Hossein Yousefi](https://github.com/HosseinYousefi), [Dominik Roszkowski](https://github.com/orestesgaolin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert remaining Groovy files to Kotlin
+  <sub>[#11443](https://github.com/flutter/packages/pull/11443) merged on April 7, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/11443) over 1 day, 1766 additions and 2676 deletions in 88 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Ignore generated plugin files
   <sub>[#11455](https://github.com/flutter/packages/pull/11455) merged on April 7, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/11455) over 36 minutes, 4 additions and 891 deletions in 39 files</sub>
