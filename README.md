@@ -117,7 +117,7 @@
   <sub><details><summary>2 images...</summary><img width="400" src="https://github.com/user-attachments/assets/ab6e32d2-3b0f-4277-93c3-5af350c2d0fd"><img width="400" src="https://github.com/user-attachments/assets/e0e4d980-16a5-4835-adf7-3cd735a60dff"></details></sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [data_assets] Cleanup tests<br />
-  <sub>[#184209](https://github.com/flutter/flutter/pull/184209) merged on April 2, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/184209) over 1 week, 3536 additions and 189 deletions in 65 files</sub><br />
+  <sub>[#184209](https://github.com/flutter/flutter/pull/184209) merged on April 2, 2026 &mdash; **Extra large:** [30 comments](https://github.com/flutter/flutter/pull/184209) over 1 week, 3536 additions and 189 deletions in 65 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Migrate `flutter analyze` to use LSP<br />

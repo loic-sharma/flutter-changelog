@@ -168,7 +168,7 @@
   <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184598) 9 additions and 10 deletions in 1 file</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Fix obscureText to count grapheme clusters instead of code units<br />
-  <sub>[#184600](https://github.com/flutter/flutter/pull/184600) opened on on April 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184600) 75 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#184600](https://github.com/flutter/flutter/pull/184600) opened on on April 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184600) 75 additions and 24 deletions in 2 files</sub><br />
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix debugNeedsPaint/Layout/CompositedLayerUpdate crashing in release mode<br />
   <sub>[#184627](https://github.com/flutter/flutter/pull/184627) opened on on April 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184627) 15 additions and 21 deletions in 1 file</sub><br />
