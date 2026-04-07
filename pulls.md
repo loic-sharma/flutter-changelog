@@ -167,9 +167,6 @@
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix MergeSemantics resolving wrong handler for custom actions<br />
   <sub>[#184628](https://github.com/flutter/flutter/pull/184628) opened on on April 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184628) 29 additions and 6 deletions in 1 file</sub><br />
 
-* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix AccessibilityBridge startup crash on vendor-modified Android<br />
-  <sub>[#184630](https://github.com/flutter/flutter/pull/184630) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184630) 12 additions and 5 deletions in 1 file</sub><br />
-
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Detect incompatible git in content_aware_hash to prevent SDK corruption<br />
   <sub>[#184634](https://github.com/flutter/flutter/pull/184634) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184634) 175 additions and 10 deletions in 5 files</sub><br />
 

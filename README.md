@@ -19,6 +19,10 @@
   <sub>[#182357](https://github.com/flutter/flutter/pull/182357) merged on April 7, 2026 &mdash; **Medium:** [51 comments](https://github.com/flutter/flutter/pull/182357) over 1 month, 340 additions and 66 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Add Support For Built-in Kotlin<br />
+  <sub>[#184227](https://github.com/flutter/flutter/pull/184227) merged on April 7, 2026 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/184227) over 1 week, 3695 additions and 1588 deletions in 38 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Introduce command to build a swift package for SwiftPM add to app integration<br />
   <sub>[#184660](https://github.com/flutter/flutter/pull/184660) merged on April 7, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/flutter/pull/184660) over 23 hours, 4422 additions and 57 deletions in 48 files</sub><br />
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
@@ -26,10 +30,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] Allow percentage strings like "50%" as `SemanticsValue` for `ProgressIndicator`<br />
   <sub>[#183670](https://github.com/flutter/flutter/pull/183670) merged on April 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/183670) over 3 weeks, 326 additions and 24 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Add Support For Built-in Kotlin<br />
-  <sub>[#184227](https://github.com/flutter/flutter/pull/184227) merged on April 7, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/184227) over 1 week, 3695 additions and 1588 deletions in 38 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; Keep last character obscured when toggling obscureText<br />
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) merged on April 6, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/183488) over 3 weeks, 75 additions and 2 deletions in 2 files</sub><br />
@@ -580,7 +580,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-7 commits.
+8 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [path_provider_android] Changes internal implementation to use JNI<br />
   <sub>[#9770](https://github.com/flutter/packages/pull/9770) merged on April 6, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/packages/pull/9770) over 8 months, 10297 additions and 1116 deletions in 24 files</sub><br />
@@ -597,6 +597,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Ignore generated plugin files<br />
   <sub>[#11455](https://github.com/flutter/packages/pull/11455) merged on April 7, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/11455) over 36 minutes, 4 additions and 891 deletions in 39 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [all] Prepare packages for skills<br />
+  <sub>[#11430](https://github.com/flutter/packages/pull/11430) merged on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11430) over 4 days, 21 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [flutter_svg] Remove generated CMake files<br />
   <sub>[#11459](https://github.com/flutter/packages/pull/11459) merged on April 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11459) over 2 hours, 0 additions and 46 deletions in 2 files</sub><br />
