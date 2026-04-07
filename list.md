@@ -4,7 +4,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-15 commits.
+16 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views
   <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub>
@@ -38,6 +38,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Parse scheme file with XML parser for SwiftPM migrator
   <sub>[#184525](https://github.com/flutter/flutter/pull/184525) merged on April 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184525) over 4 days, 163 additions and 23 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Fix-forward] Added Compose plugin to Add-to-app Integration Test
+  <sub>[#184681](https://github.com/flutter/flutter/pull/184681) merged on April 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184681) over 22 hours, 9 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Have `flutter create` create a pubspec.lock to ensure pinned versions are being used.
   <sub>[#175352](https://github.com/flutter/flutter/pull/175352) merged on April 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/175352) over 6 months, 105 additions and 2 deletions in 3 files</sub>
@@ -568,7 +572,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-6 commits.
+7 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [path_provider_android] Changes internal implementation to use JNI
   <sub>[#9770](https://github.com/flutter/packages/pull/9770) merged on April 6, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/packages/pull/9770) over 8 months, 10297 additions and 1116 deletions in 24 files</sub>
@@ -577,6 +581,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert remaining Groovy files to Kotlin
   <sub>[#11443](https://github.com/flutter/packages/pull/11443) merged on April 7, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/11443) over 1 day, 1766 additions and 2676 deletions in 88 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter] Android cluster pin info window onTap callback not firing
+  <sub>[#11390](https://github.com/flutter/packages/pull/11390) merged on April 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11390) over 1 week, 76 additions and 5 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Ignore generated plugin files
   <sub>[#11455](https://github.com/flutter/packages/pull/11455) merged on April 7, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/11455) over 36 minutes, 4 additions and 891 deletions in 39 files</sub>
