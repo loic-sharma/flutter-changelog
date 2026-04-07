@@ -183,7 +183,7 @@
   <sub>[#184634](https://github.com/flutter/flutter/pull/184634) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184634) 175 additions and 10 deletions in 5 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix web dev proxy merging multiple Set-Cookie response headers<br />
-  <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 120 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 169 additions and 1 deletion in 2 files</sub><br />
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix SIGSEGV in VSyncClient on ProMotion devices when engine shell is nil<br />
   <sub>[#184639](https://github.com/flutter/flutter/pull/184639) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184639) 51 additions and 3 deletions in 4 files</sub><br />
@@ -214,4 +214,7 @@
 
 * **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; feat: Add tooltip option on the text_span<br />
   <sub>[#184694](https://github.com/flutter/flutter/pull/184694) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184694) 223 additions and 8 deletions in 6 files</sub><br />
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; Replace `widget.tabs[index]` with `tab` when creating wrapped children<br />
+  <sub>[#184711](https://github.com/flutter/flutter/pull/184711) opened on on April 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184711) 1 addition and 1 deletion in 1 file</sub><br />
 
