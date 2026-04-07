@@ -200,8 +200,8 @@
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix flutter_tools crashing on invalid UTF-8 in log output (fixes #184646)<br />
   <sub>[#184685](https://github.com/flutter/flutter/pull/184685) opened on on April 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184685) 111 additions and 22 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Manually stop and continue LLDB JIT breakpoints on Xcode 26.4+<br />
-  <sub>[#184690](https://github.com/flutter/flutter/pull/184690) opened on on April 6, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/184690) 450 additions and 32 deletions in 5 files</sub><br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Manually stop and continue LLDB breakpoints on Xcode 26.4+<br />
+  <sub>[#184690](https://github.com/flutter/flutter/pull/184690) opened on on April 6, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/184690) 450 additions and 32 deletions in 5 files</sub><br />
 
 * **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; feat: Add tooltip option on the text_span<br />
   <sub>[#184694](https://github.com/flutter/flutter/pull/184694) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184694) 223 additions and 8 deletions in 6 files</sub><br />
