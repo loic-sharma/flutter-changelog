@@ -135,13 +135,13 @@
   <sub>[#184527](https://github.com/flutter/flutter/pull/184527) opened on on April 2, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184527) 462 additions and 37 deletions in 3 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add `clipBehavior` parameter to `AnimatedCrossFade`<br />
-  <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184545) 66 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#184545](https://github.com/flutter/flutter/pull/184545) opened on on April 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184545) 68 additions and 0 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add useLogicalPixels to ResizeImage for logical pixel cache sizing<br />
   <sub>[#184549](https://github.com/flutter/flutter/pull/184549) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184549) 152 additions and 38 deletions in 3 files</sub><br />
 
 * **[Mahima Sharma](https://github.com/mahi-ma)** &mdash; Reduce boilerplate in FlutterPlatformViewsTest.mm<br />
-  <sub>[#184555](https://github.com/flutter/flutter/pull/184555) opened on on April 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184555) 54 additions and 131 deletions in 1 file</sub><br />
+  <sub>[#184555](https://github.com/flutter/flutter/pull/184555) opened on on April 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184555) 54 additions and 131 deletions in 1 file</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add disposal guidance to CurvedAnimation and CurveTween docs<br />
   <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184569) 17 additions and 4 deletions in 2 files</sub><br />

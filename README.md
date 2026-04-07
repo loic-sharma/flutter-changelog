@@ -568,7 +568,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-5 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [path_provider_android] Changes internal implementation to use JNI<br />
   <sub>[#9770](https://github.com/flutter/packages/pull/9770) merged on April 6, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/packages/pull/9770) over 8 months, 10297 additions and 1116 deletions in 24 files</sub><br />
@@ -581,6 +581,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Ignore generated plugin files<br />
   <sub>[#11455](https://github.com/flutter/packages/pull/11455) merged on April 7, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/11455) over 36 minutes, 4 additions and 891 deletions in 39 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [flutter_svg] Remove generated CMake files<br />
+  <sub>[#11459](https://github.com/flutter/packages/pull/11459) merged on April 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11459) over 2 hours, 0 additions and 46 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Manually Sync go_router release to main<br />
   <sub>[#11449](https://github.com/flutter/packages/pull/11449) merged on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11449) over 2 hours, 6 additions and 7 deletions in 4 files</sub><br />
