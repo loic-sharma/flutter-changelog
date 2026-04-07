@@ -4,10 +4,10 @@
 
 ### April 4, 2026 to April 10, 2026
 
-12 commits.
+14 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views<br />
-  <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [37 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/c713dd0f-8cfd-4e7d-9070-3bf51a89f50a"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/fc23ff88-bd64-44d0-a840-e7ba58638943"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/fef237f1-9e4f-4376-a251-22335cf7a324"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/db707bf1-2bd8-4c39-a510-ca45f7730a0a"  style="max-width: 50%;"></details></sub>
 
@@ -19,6 +19,10 @@
   <sub>[#182357](https://github.com/flutter/flutter/pull/182357) merged on April 7, 2026 &mdash; **Medium:** [51 comments](https://github.com/flutter/flutter/pull/182357) over 1 month, 340 additions and 66 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Introduce command to build a swift package for SwiftPM add to app integration<br />
+  <sub>[#184660](https://github.com/flutter/flutter/pull/184660) merged on April 7, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/flutter/pull/184660) over 23 hours, 4422 additions and 57 deletions in 48 files</sub><br />
+  <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] Allow percentage strings like "50%" as `SemanticsValue` for `ProgressIndicator`<br />
   <sub>[#183670](https://github.com/flutter/flutter/pull/183670) merged on April 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/183670) over 3 weeks, 326 additions and 24 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -26,6 +30,10 @@
 * **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; Keep last character obscured when toggling obscureText<br />
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) merged on April 6, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/183488) over 3 weeks, 75 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Use the WindowRegistry in the multiple_windows example app<br />
+  <sub>[#184579](https://github.com/flutter/flutter/pull/184579) merged on April 7, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/184579) over 3 days, 300 additions and 478 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Parse scheme file with XML parser for SwiftPM migrator<br />
   <sub>[#184525](https://github.com/flutter/flutter/pull/184525) merged on April 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184525) over 4 days, 163 additions and 23 deletions in 2 files</sub><br />
