@@ -4,7 +4,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-20 commits.
+21 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views<br />
   <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub><br />
@@ -86,6 +86,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reland "[data_assets] Cleanup tests"<br />
   <sub>[#184714](https://github.com/flutter/flutter/pull/184714) merged on April 7, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184714) over 8 hours, 3597 additions and 205 deletions in 66 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Revert "Add Support For Built-in Kotlin (#184227)"<br />
+  <sub>[#184739](https://github.com/flutter/flutter/pull/184739) merged on April 7, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/184739) over 21 minutes, 1588 additions and 3695 deletions in 38 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 ### March 28, 2026 to April 3, 2026
 
