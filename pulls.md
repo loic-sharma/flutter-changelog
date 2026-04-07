@@ -198,7 +198,7 @@
   <sub>[#184649](https://github.com/flutter/flutter/pull/184649) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184649) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Expose platform specific handles for multi-window API<br />
-  <sub>[#184662](https://github.com/flutter/flutter/pull/184662) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184662) 74 additions and 12 deletions in 3 files</sub><br />
+  <sub>[#184662](https://github.com/flutter/flutter/pull/184662) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184662) 117 additions and 15 deletions in 4 files</sub><br />
 
 * **[rich22222](https://github.com/rich22222)** &mdash; Fix web autofill not picking up values after Windows Hello authentication<br />
   <sub>[#184673](https://github.com/flutter/flutter/pull/184673) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184673) 89 additions and 15 deletions in 2 files</sub><br />
