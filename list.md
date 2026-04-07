@@ -4,7 +4,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-10 commits.
+11 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views
   <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub>
@@ -14,6 +14,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix invisible accessibility element before scroll view
   <sub>[#184155](https://github.com/flutter/flutter/pull/184155) merged on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184155) over 1 week, 34 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Always call onClose and onCloseRequested on descendants before parent.
+  <sub>[#182357](https://github.com/flutter/flutter/pull/182357) merged on April 7, 2026 &mdash; **Medium:** [51 comments](https://github.com/flutter/flutter/pull/182357) over 1 month, 340 additions and 66 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] Allow percentage strings like "50%" as `SemanticsValue` for `ProgressIndicator`
   <sub>[#183670](https://github.com/flutter/flutter/pull/183670) merged on April 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/183670) over 3 weeks, 326 additions and 24 deletions in 5 files</sub>
