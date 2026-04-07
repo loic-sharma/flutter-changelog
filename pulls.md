@@ -153,7 +153,7 @@
   <sub>[#184561](https://github.com/flutter/flutter/pull/184561) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184561) 124 additions and 15 deletions in 2 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add disposal guidance to CurvedAnimation and CurveTween docs<br />
-  <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184569) 17 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184569) 17 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: correct LicenseRegistry docs to reference NOTICES instead of LICENSE<br />
   <sub>[#184572](https://github.com/flutter/flutter/pull/184572) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184572) 7 additions and 5 deletions in 2 files</sub><br />
@@ -217,4 +217,7 @@
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; Replace `widget.tabs[index]` with `tab` when creating wrapped children<br />
   <sub>[#184711](https://github.com/flutter/flutter/pull/184711) opened on on April 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184711) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix RenderParagraph.textAlign setter to call markNeedsLayout instead of markNeedsPaint<br />
+  <sub>[#184712](https://github.com/flutter/flutter/pull/184712) opened on on April 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184712) 4 additions and 5 deletions in 2 files</sub><br />
 
