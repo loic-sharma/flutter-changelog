@@ -7,7 +7,7 @@
 15 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views<br />
-  <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [37 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/c713dd0f-8cfd-4e7d-9070-3bf51a89f50a"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/fc23ff88-bd64-44d0-a840-e7ba58638943"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/fef237f1-9e4f-4376-a251-22335cf7a324"  style="max-width: 50%;"><img src="https://github.com/user-attachments/assets/db707bf1-2bd8-4c39-a510-ca45f7730a0a"  style="max-width: 50%;"></details></sub>
 

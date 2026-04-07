@@ -141,10 +141,10 @@
   <sub>[#184549](https://github.com/flutter/flutter/pull/184549) opened on on April 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184549) 152 additions and 38 deletions in 3 files</sub><br />
 
 * **[Mahima Sharma](https://github.com/mahi-ma)** &mdash; Reduce boilerplate in FlutterPlatformViewsTest.mm<br />
-  <sub>[#184555](https://github.com/flutter/flutter/pull/184555) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184555) 54 additions and 131 deletions in 1 file</sub><br />
+  <sub>[#184555](https://github.com/flutter/flutter/pull/184555) opened on on April 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184555) 54 additions and 131 deletions in 1 file</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add disposal guidance to CurvedAnimation and CurveTween docs<br />
-  <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184569) 17 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#184569](https://github.com/flutter/flutter/pull/184569) opened on on April 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184569) 17 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: correct LicenseRegistry docs to reference NOTICES instead of LICENSE<br />
   <sub>[#184572](https://github.com/flutter/flutter/pull/184572) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184572) 7 additions and 5 deletions in 2 files</sub><br />
@@ -197,6 +197,9 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Async rendering for benchmarks<br />
   <sub>[#184677](https://github.com/flutter/flutter/pull/184677) opened on on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184677) 10 additions and 9 deletions in 2 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Hide the warning message about root access when using `--machine`<br />
+  <sub>[#184680](https://github.com/flutter/flutter/pull/184680) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184680) 11 additions and 2 deletions in 1 file</sub><br />
+
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix flutter_tools crashing on invalid UTF-8 in log output (fixes #184646)<br />
   <sub>[#184685](https://github.com/flutter/flutter/pull/184685) opened on on April 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184685) 111 additions and 22 deletions in 2 files</sub><br />
 
@@ -213,8 +216,8 @@
   <sub>[#184712](https://github.com/flutter/flutter/pull/184712) opened on on April 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184712) 4 additions and 5 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove custom `analysis_options.yaml` from `imitation_game_flutter`<br />
-  <sub>[#184717](https://github.com/flutter/flutter/pull/184717) opened on on April 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184717) 24 additions and 57 deletions in 2 files</sub><br />
+  <sub>[#184717](https://github.com/flutter/flutter/pull/184717) opened on on April 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184717) 24 additions and 57 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove bringup label for resharded Windows tool_integration_tests shards<br />
-  <sub>[#184721](https://github.com/flutter/flutter/pull/184721) opened on on April 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184721) 0 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#184721](https://github.com/flutter/flutter/pull/184721) opened on on April 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184721) 0 additions and 10 deletions in 1 file</sub><br />
 
