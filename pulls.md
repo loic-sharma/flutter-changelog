@@ -191,6 +191,9 @@
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Skip LLDB JIT breakpoint on Xcode 26.4 to work around breakpoint race<br />
   <sub>[#184640](https://github.com/flutter/flutter/pull/184640) opened on on April 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184640) 164 additions and 3 deletions in 3 files</sub><br />
 
+* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix ImageInfo.isCloneOf to correctly compare scale values (fixes #184626)<br />
+  <sub>[#184643](https://github.com/flutter/flutter/pull/184643) opened on on April 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184643) 29 additions and 1 deletion in 2 files</sub><br />
+
 * **[interfect](https://github.com/interfect)** &mdash; Add tests for debugPrint-ing exciting Unicode codepoints<br />
   <sub>[#184649](https://github.com/flutter/flutter/pull/184649) opened on on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184649) 7 additions and 0 deletions in 1 file</sub><br />
 
