@@ -4,7 +4,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-14 commits.
+15 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views
   <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [37 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub>
@@ -62,6 +62,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Skill to find dart or flutter revision from a hash
   <sub>[#184589](https://github.com/flutter/flutter/pull/184589) merged on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184589) over 2 days, 34 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Reland "[data_assets] Cleanup tests"
+  <sub>[#184714](https://github.com/flutter/flutter/pull/184714) merged on April 7, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184714) over 8 hours, 3597 additions and 205 deletions in 66 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 ### March 28, 2026 to April 3, 2026
 

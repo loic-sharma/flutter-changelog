@@ -72,10 +72,10 @@
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/widgets<br />
-  <sub>[#183965](https://github.com/flutter/flutter/pull/183965) opened on on March 21, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/183965) 427 additions and 483 deletions in 161 files</sub><br />
+  <sub>[#183965](https://github.com/flutter/flutter/pull/183965) opened on on March 21, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/183965) 427 additions and 483 deletions in 161 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/test<br />
-  <sub>[#183966](https://github.com/flutter/flutter/pull/183966) opened on on March 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/183966) 85 additions and 121 deletions in 28 files</sub><br />
+  <sub>[#183966](https://github.com/flutter/flutter/pull/183966) opened on on March 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183966) 85 additions and 121 deletions in 28 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Finish examples/api migration<br />
   <sub>[#183967](https://github.com/flutter/flutter/pull/183967) opened on on March 21, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183967) 88 additions and 100 deletions in 20 files</sub><br />
@@ -200,8 +200,8 @@
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix flutter_tools crashing on invalid UTF-8 in log output (fixes #184646)<br />
   <sub>[#184685](https://github.com/flutter/flutter/pull/184685) opened on on April 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184685) 111 additions and 22 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; skip LLDB breakpoint on Xcode 26.4<br />
-  <sub>[#184690](https://github.com/flutter/flutter/pull/184690) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184690) 130 additions and 12 deletions in 5 files</sub><br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Manually stop and continue LLDB JIT breakpoints on Xcode 26.4+<br />
+  <sub>[#184690](https://github.com/flutter/flutter/pull/184690) opened on on April 6, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/184690) 450 additions and 32 deletions in 5 files</sub><br />
 
 * **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; feat: Add tooltip option on the text_span<br />
   <sub>[#184694](https://github.com/flutter/flutter/pull/184694) opened on on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184694) 223 additions and 8 deletions in 6 files</sub><br />
