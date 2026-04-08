@@ -850,11 +850,15 @@
 
 ### April 4, 2026 to April 10, 2026
 
-3 commits.
+4 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: Add dot shorthands guide to Flutter concepts<br />
   <sub>[#13180](https://github.com/flutter/website/pull/13180) merged on April 7, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/website/pull/13180) over 3 weeks, 123 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; filter out hidden elements when copying code<br />
+  <sub>[#13256](https://github.com/flutter/website/pull/13256) merged on April 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13256) over 15 hours, 19 additions and 10 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Andrew Brogdon](https://github.com/redbrogdon)** &mdash; Updated genui-codelab go link<br />
   <sub>[#13257](https://github.com/flutter/website/pull/13257) merged on April 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13257) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
