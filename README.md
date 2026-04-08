@@ -657,7 +657,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-8 commits.
+9 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [path_provider_android] Changes internal implementation to use JNI<br />
   <sub>[#9770](https://github.com/flutter/packages/pull/9770) merged on April 6, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/packages/pull/9770) over 8 months, 10297 additions and 1116 deletions in 24 files</sub><br />
@@ -674,6 +674,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Ignore generated plugin files<br />
   <sub>[#11455](https://github.com/flutter/packages/pull/11455) merged on April 7, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/11455) over 36 minutes, 4 additions and 891 deletions in 39 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Remove dependency on engine PathUtils<br />
+  <sub>[#11467](https://github.com/flutter/packages/pull/11467) merged on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11467) over 1 hour, 19 additions and 153 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [all] Prepare packages for skills<br />
   <sub>[#11430](https://github.com/flutter/packages/pull/11430) merged on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11430) over 4 days, 21 additions and 0 deletions in 5 files</sub><br />
