@@ -167,3 +167,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Allow sensitive content to gracefully fail when unregistering host before registering<br />
   <sub>[#184789](https://github.com/flutter/flutter/pull/184789) opened on on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184789) 14 additions and 7 deletions in 2 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Do not merge - Testing freeze<br />
+  <sub>[#184793](https://github.com/flutter/flutter/pull/184793) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184793) 2 additions and 0 deletions in 1 file</sub><br />
+
