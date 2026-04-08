@@ -4,7 +4,11 @@
 
 ### April 4, 2026 to April 10, 2026
 
-24 commits.
+29 commits.
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [cupertino.dart] Implement CupertinoMenuAnchor and CupertinoMenuItem using RawMenuAnchor
+  <sub>[#182036](https://github.com/flutter/flutter/pull/182036) merged on April 8, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/flutter/pull/182036) over 2 months, 10288 additions and 2 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views
   <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub>
@@ -39,9 +43,22 @@
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) merged on April 6, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/183488) over 3 weeks, 75 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Navaron Bracke](https://github.com/navaronbracke)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/widgets
+  <sub>[#183965](https://github.com/flutter/flutter/pull/183965) merged on April 8, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/183965) over 2 weeks, 427 additions and 483 deletions in 161 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [ci] mac build_test bringup false
+  <sub>[#184738](https://github.com/flutter/flutter/pull/184738) merged on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184738) over 4 hours, 0 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+  <sub><details><summary>1 image...</summary><img width="362" height="148" alt="image" src="https://github.com/user-attachments/assets/5f9b437c-3d93-42a4-960c-0f584fbd1adf" /></details></sub>
+
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Use the WindowRegistry in the multiple_windows example app
   <sub>[#184579](https://github.com/flutter/flutter/pull/184579) merged on April 7, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/184579) over 3 days, 300 additions and 478 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [Semantics] clarify Android header docs
+  <sub>[#183573](https://github.com/flutter/flutter/pull/183573) merged on April 8, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/183573) over 3 weeks, 7 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Parse scheme file with XML parser for SwiftPM migrator
   <sub>[#184525](https://github.com/flutter/flutter/pull/184525) merged on April 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184525) over 4 days, 163 additions and 23 deletions in 2 files</sub>
@@ -90,6 +107,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Skill to find dart or flutter revision from a hash
   <sub>[#184589](https://github.com/flutter/flutter/pull/184589) merged on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184589) over 2 days, 34 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Apply rect clipping to surface views"
+  <sub>[#184732](https://github.com/flutter/flutter/pull/184732) merged on April 8, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/184732) over 6 hours, 353 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Revert "Apply rect clipping to surface views (#184471)"
   <sub>[#184728](https://github.com/flutter/flutter/pull/184728) merged on April 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/184728) over 4 minutes, 1 addition and 353 deletions in 4 files</sub>

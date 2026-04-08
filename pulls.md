@@ -68,9 +68,6 @@
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/widgets<br />
-  <sub>[#183965](https://github.com/flutter/flutter/pull/183965) opened on on March 21, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/183965) 427 additions and 483 deletions in 161 files</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Finish examples/api migration<br />
   <sub>[#183967](https://github.com/flutter/flutter/pull/183967) opened on on March 21, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/183967) 88 additions and 100 deletions in 20 files</sub><br />
 
