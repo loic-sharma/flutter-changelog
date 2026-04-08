@@ -164,3 +164,6 @@
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove Material import from navigator_on_did_remove_page_test<br />
   <sub>[#184776](https://github.com/flutter/flutter/pull/184776) opened on on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184776) 32 additions and 15 deletions in 2 files</sub><br />
 
+* **[Alejandro Castillo](https://github.com/alejandro-all-win-software)** &mdash; Use null-aware elements in dev/devicelab/lib/framework/browser.dart<br />
+  <sub>[#184778](https://github.com/flutter/flutter/pull/184778) opened on on April 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184778) 1 addition and 1 deletion in 1 file</sub><br />
+

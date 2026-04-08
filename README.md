@@ -665,7 +665,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-9 commits.
+10 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [path_provider_android] Changes internal implementation to use JNI<br />
   <sub>[#9770](https://github.com/flutter/packages/pull/9770) merged on April 6, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/packages/pull/9770) over 8 months, 10297 additions and 1116 deletions in 24 files</sub><br />
@@ -674,6 +674,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert remaining Groovy files to Kotlin<br />
   <sub>[#11443](https://github.com/flutter/packages/pull/11443) merged on April 7, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/11443) over 1 day, 1766 additions and 2676 deletions in 88 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [pigeon] Make Kotlin FlutterError a runtime error<br />
+  <sub>[#11469](https://github.com/flutter/packages/pull/11469) merged on April 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11469) over 2 hours, 51 additions and 8 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; [google_maps_flutter] Android cluster pin info window onTap callback not firing<br />
   <sub>[#11390](https://github.com/flutter/packages/pull/11390) merged on April 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11390) over 1 week, 76 additions and 5 deletions in 6 files</sub><br />
