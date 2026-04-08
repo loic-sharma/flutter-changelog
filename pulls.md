@@ -56,9 +56,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) opened on on March 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183395) 87 additions and 5 deletions in 1 file</sub><br />
 
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Keep multiline CupertinoTextField placeholders in bounds<br />
-  <sub>[#183622](https://github.com/flutter/flutter/pull/183622) opened on on March 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183622) 57 additions and 10 deletions in 2 files</sub><br />
-
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
   <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
 
@@ -144,7 +141,7 @@
   <sub>[#184703](https://github.com/flutter/flutter/pull/184703) opened on on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184703) 237 additions and 49 deletions in 14 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Implement stepped image downscaling for CanvasKit and Skwasm<br />
-  <sub>[#184741](https://github.com/flutter/flutter/pull/184741) opened on on April 7, 2026 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/184741) 665 additions and 2 deletions in 8 files</sub><br />
+  <sub>[#184741](https://github.com/flutter/flutter/pull/184741) opened on on April 7, 2026 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/184741) 671 additions and 2 deletions in 8 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule<br />
   <sub>[#184765](https://github.com/flutter/flutter/pull/184765) opened on on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184765) 2 additions and 0 deletions in 2 files</sub><br />
