@@ -39,6 +39,11 @@
   <sub>[#184660](https://github.com/flutter/flutter/pull/184660) merged on April 7, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/flutter/pull/184660) over 23 hours, 4422 additions and 57 deletions in 48 files</sub><br />
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [ci] mac build_test bringup false<br />
+  <sub>[#184738](https://github.com/flutter/flutter/pull/184738) merged on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184738) over 4 hours, 0 additions and 10 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="362" height="148" alt="image" src="https://github.com/user-attachments/assets/5f9b437c-3d93-42a4-960c-0f584fbd1adf" /></details></sub>
+
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] Allow percentage strings like "50%" as `SemanticsValue` for `ProgressIndicator`<br />
   <sub>[#183670](https://github.com/flutter/flutter/pull/183670) merged on April 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/183670) over 3 weeks, 326 additions and 24 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -50,11 +55,6 @@
 * **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; Keep last character obscured when toggling obscureText<br />
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) merged on April 6, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/183488) over 3 weeks, 75 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [ci] mac build_test bringup false<br />
-  <sub>[#184738](https://github.com/flutter/flutter/pull/184738) merged on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184738) over 4 hours, 0 additions and 10 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-  <sub><details><summary>1 image...</summary><img width="362" height="148" alt="image" src="https://github.com/user-attachments/assets/5f9b437c-3d93-42a4-960c-0f584fbd1adf" /></details></sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/widgets<br />
   <sub>[#183965](https://github.com/flutter/flutter/pull/183965) merged on April 8, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/183965) over 2 weeks, 427 additions and 483 deletions in 161 files</sub><br />

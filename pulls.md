@@ -158,3 +158,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Implement stepped image downscaling for CanvasKit and Skwasm<br />
   <sub>[#184741](https://github.com/flutter/flutter/pull/184741) opened on on April 7, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/184741) 644 additions and 2 deletions in 8 files</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [ci] mac_arm64 build_test re-enable shard 1 presubmit<br />
+  <sub>[#184751](https://github.com/flutter/flutter/pull/184751) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184751) 0 additions and 2 deletions in 1 file</sub><br />
+
