@@ -4,7 +4,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-47 commits.
+48 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [cupertino.dart] Implement CupertinoMenuAnchor and CupertinoMenuItem using RawMenuAnchor
   <sub>[#182036](https://github.com/flutter/flutter/pull/182036) merged on April 8, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/flutter/pull/182036) over 2 months, 10288 additions and 2 deletions in 8 files</sub>
@@ -100,6 +100,10 @@
   <sub>[#175352](https://github.com/flutter/flutter/pull/175352) merged on April 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/175352) over 6 months, 105 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/test
+  <sub>[#183966](https://github.com/flutter/flutter/pull/183966) merged on April 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/183966) over 2 weeks, 85 additions and 121 deletions in 28 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Collect HCPP adoption analytics for flutter run/build apk/build appbundle
   <sub>[#184225](https://github.com/flutter/flutter/pull/184225) merged on April 7, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184225) over 1 week, 100 additions and 43 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -120,21 +124,21 @@
   <sub>[#184751](https://github.com/flutter/flutter/pull/184751) merged on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184751) over 11 hours, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix repo check on code freeze
-  <sub>[#184771](https://github.com/flutter/flutter/pull/184771) merged on April 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184771) over 45 minutes, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Try one more again
-  <sub>[#184767](https://github.com/flutter/flutter/pull/184767) merged on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184767) over 17 minutes, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Code freeze workflow
   <sub>[#184246](https://github.com/flutter/flutter/pull/184246) merged on April 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184246) over 1 week, 72 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix repo check on code freeze
+  <sub>[#184771](https://github.com/flutter/flutter/pull/184771) merged on April 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184771) over 45 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove custom `analysis_options.yaml` from `imitation_game_flutter`
   <sub>[#184717](https://github.com/flutter/flutter/pull/184717) merged on April 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184717) over 18 hours, 24 additions and 57 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Try one more again
+  <sub>[#184767](https://github.com/flutter/flutter/pull/184767) merged on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184767) over 17 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace hard coded max path length with system defined one.
   <sub>[#184697](https://github.com/flutter/flutter/pull/184697) merged on April 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184697) over 1 day, 1 addition and 1 deletion in 1 file</sub>
