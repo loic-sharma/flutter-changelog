@@ -11,8 +11,8 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Manually stop and continue LLDB breakpoints on Xcode 26.4+
-  <sub>[#184690](https://github.com/flutter/flutter/pull/184690) merged on April 8, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/184690) over 1 day, 450 additions and 32 deletions in 5 files</sub>
-  <sub>Reviewed by: [Elijah Okoroh](https://github.com/okorohelijah), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+  <sub>[#184690](https://github.com/flutter/flutter/pull/184690) merged on April 8, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/184690) over 1 day, 450 additions and 32 deletions in 5 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Elijah Okoroh](https://github.com/okorohelijah), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views
   <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub>
