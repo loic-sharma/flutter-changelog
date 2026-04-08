@@ -4,7 +4,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-21 commits.
+24 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Apply rect clipping to surface views
   <sub>[#184471](https://github.com/flutter/flutter/pull/184471) merged on April 6, 2026 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/184471) over 5 days, 353 additions and 1 deletion in 4 files</sub>
@@ -18,6 +18,10 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Always call onClose and onCloseRequested on descendants before parent.
   <sub>[#182357](https://github.com/flutter/flutter/pull/182357) merged on April 7, 2026 &mdash; **Medium:** [51 comments](https://github.com/flutter/flutter/pull/182357) over 1 month, 340 additions and 66 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Naman Goyal](https://github.com/NamanGoyalK)** &mdash; Tool: Add search and filtering to widget preview scaffold
+  <sub>[#184023](https://github.com/flutter/flutter/pull/184023) merged on April 8, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/184023) over 2 weeks, 977 additions and 108 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Add Support For Built-in Kotlin
   <sub>[#184227](https://github.com/flutter/flutter/pull/184227) merged on April 7, 2026 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/184227) over 1 week, 3695 additions and 1588 deletions in 38 files</sub>
@@ -58,6 +62,14 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add a github workflow for reverting PRs.
   <sub>[#184593](https://github.com/flutter/flutter/pull/184593) merged on April 7, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/184593) over 4 days, 129 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove bringup label for resharded Windows tool_integration_tests shards
+  <sub>[#184721](https://github.com/flutter/flutter/pull/184721) merged on April 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184721) over 9 hours, 0 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update localization from translation console
+  <sub>[#184742](https://github.com/flutter/flutter/pull/184742) merged on April 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184742) over 2 hours, 6 additions and 6 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `WindowsPlugin` should not crash when ffiPlugin enabled
   <sub>[#184695](https://github.com/flutter/flutter/pull/184695) merged on April 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184695) over 7 hours, 6 additions and 1 deletion in 1 file</sub>
