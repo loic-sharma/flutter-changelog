@@ -48,13 +48,17 @@
   <sub>[#183670](https://github.com/flutter/flutter/pull/183670) merged on April 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/183670) over 3 weeks, 326 additions and 24 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: remove material from absorb_ponter_test, container_test,  lookup_boundary_test, page_view_test, router_test, semantics_clipping_test, semantics_merge_test, shadow_test, text_test
-  <sub>[#183309](https://github.com/flutter/flutter/pull/183309) merged on April 8, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/183309) over 1 month, 783 additions and 330 deletions in 14 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Use the WindowRegistry in the multiple_windows example app
+  <sub>[#184579](https://github.com/flutter/flutter/pull/184579) merged on April 7, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/184579) over 3 days, 300 additions and 478 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; Keep last character obscured when toggling obscureText
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) merged on April 6, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/183488) over 3 weeks, 75 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Navaron Bracke](https://github.com/navaronbracke)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: remove material from absorb_ponter_test, container_test,  lookup_boundary_test, page_view_test, router_test, semantics_clipping_test, semantics_merge_test, shadow_test, text_test
+  <sub>[#183309](https://github.com/flutter/flutter/pull/183309) merged on April 8, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/183309) over 1 month, 783 additions and 330 deletions in 14 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/widgets
   <sub>[#183965](https://github.com/flutter/flutter/pull/183965) merged on April 8, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/183965) over 2 weeks, 427 additions and 483 deletions in 161 files</sub>
@@ -63,10 +67,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Re-land] Add Support For Built-in Kotlin
   <sub>[#184745](https://github.com/flutter/flutter/pull/184745) merged on April 8, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184745) over 1 hour, 3743 additions and 1590 deletions in 39 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Use the WindowRegistry in the multiple_windows example app
-  <sub>[#184579](https://github.com/flutter/flutter/pull/184579) merged on April 7, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/184579) over 3 days, 300 additions and 478 deletions in 9 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [Semantics] clarify Android header docs
   <sub>[#183573](https://github.com/flutter/flutter/pull/183573) merged on April 8, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/183573) over 3 weeks, 7 additions and 4 deletions in 1 file</sub>
