@@ -135,7 +135,7 @@
   <sub>[#184673](https://github.com/flutter/flutter/pull/184673) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184673) 89 additions and 15 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Async rendering for benchmarks<br />
-  <sub>[#184677](https://github.com/flutter/flutter/pull/184677) opened on on April 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184677) 10 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#184677](https://github.com/flutter/flutter/pull/184677) opened on on April 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184677) 10 additions and 9 deletions in 2 files</sub><br />
 
 * **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; feat: Add tooltip option on the text_span<br />
   <sub>[#184694](https://github.com/flutter/flutter/pull/184694) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184694) 223 additions and 8 deletions in 6 files</sub><br />
@@ -144,7 +144,7 @@
   <sub>[#184703](https://github.com/flutter/flutter/pull/184703) opened on on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184703) 237 additions and 49 deletions in 14 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Implement stepped image downscaling for CanvasKit and Skwasm<br />
-  <sub>[#184741](https://github.com/flutter/flutter/pull/184741) opened on on April 7, 2026 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/184741) 659 additions and 2 deletions in 8 files</sub><br />
+  <sub>[#184741](https://github.com/flutter/flutter/pull/184741) opened on on April 7, 2026 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/184741) 665 additions and 2 deletions in 8 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule<br />
   <sub>[#184765](https://github.com/flutter/flutter/pull/184765) opened on on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184765) 2 additions and 0 deletions in 2 files</sub><br />
@@ -163,4 +163,7 @@
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove Material import from toggleable_test<br />
   <sub>[#184786](https://github.com/flutter/flutter/pull/184786) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184786) 4 additions and 3 deletions in 2 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `linux_android_emu_unstable android_engine_vulkan_tests`<br />
+  <sub>[#184787](https://github.com/flutter/flutter/pull/184787) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184787) 0 additions and 13 deletions in 1 file</sub><br />
 
