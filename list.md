@@ -4,7 +4,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-36 commits.
+37 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [cupertino.dart] Implement CupertinoMenuAnchor and CupertinoMenuItem using RawMenuAnchor
   <sub>[#182036](https://github.com/flutter/flutter/pull/182036) merged on April 8, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/flutter/pull/182036) over 2 months, 10288 additions and 2 deletions in 8 files</sub>
@@ -99,6 +99,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add a github workflow for reverting PRs.
   <sub>[#184593](https://github.com/flutter/flutter/pull/184593) merged on April 7, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/184593) over 4 days, 129 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove custom `analysis_options.yaml` from `imitation_game_flutter`
+  <sub>[#184717](https://github.com/flutter/flutter/pull/184717) merged on April 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184717) over 18 hours, 24 additions and 57 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Code freeze workflow
   <sub>[#184246](https://github.com/flutter/flutter/pull/184246) merged on April 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184246) over 1 week, 72 additions and 0 deletions in 2 files</sub>

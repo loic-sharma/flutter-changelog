@@ -152,9 +152,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add swift strict concurrency attributes to iOS API - part 1<br />
   <sub>[#184703](https://github.com/flutter/flutter/pull/184703) opened on on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184703) 237 additions and 49 deletions in 14 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove custom `analysis_options.yaml` from `imitation_game_flutter`<br />
-  <sub>[#184717](https://github.com/flutter/flutter/pull/184717) opened on on April 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184717) 24 additions and 57 deletions in 2 files</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Implement stepped image downscaling for CanvasKit and Skwasm<br />
   <sub>[#184741](https://github.com/flutter/flutter/pull/184741) opened on on April 7, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/184741) 644 additions and 2 deletions in 8 files</sub><br />
 
@@ -163,4 +160,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make `windowing_test` follow repo analyzer rules<br />
   <sub>[#184752](https://github.com/flutter/flutter/pull/184752) opened on on April 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184752) 91 additions and 155 deletions in 3 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make `multiple_windows` follow repo analyzer rules<br />
+  <sub>[#184753](https://github.com/flutter/flutter/pull/184753) opened on on April 8, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/184753) 227 additions and 455 deletions in 18 files</sub><br />
 
