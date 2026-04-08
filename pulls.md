@@ -138,7 +138,7 @@
   <sub>[#184640](https://github.com/flutter/flutter/pull/184640) opened on on April 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184640) 164 additions and 3 deletions in 3 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Expose platform specific handles for multi-window API<br />
-  <sub>[#184662](https://github.com/flutter/flutter/pull/184662) opened on on April 6, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184662) 118 additions and 18 deletions in 4 files</sub><br />
+  <sub>[#184662](https://github.com/flutter/flutter/pull/184662) opened on on April 6, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184662) 114 additions and 14 deletions in 3 files</sub><br />
 
 * **[rich22222](https://github.com/rich22222)** &mdash; Fix web autofill not picking up values after Windows Hello authentication<br />
   <sub>[#184673](https://github.com/flutter/flutter/pull/184673) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184673) 89 additions and 15 deletions in 2 files</sub><br />
@@ -166,7 +166,4 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule in flutter_tools<br />
   <sub>[#184766](https://github.com/flutter/flutter/pull/184766) opened on on April 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184766) 3 additions and 1 deletion in 3 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable async mode with LLDB<br />
-  <sub>[#184768](https://github.com/flutter/flutter/pull/184768) opened on on April 8, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/184768) 44 additions and 455 deletions in 5 files</sub><br />
 
