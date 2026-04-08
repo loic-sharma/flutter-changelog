@@ -158,9 +158,3 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [ci] mac_arm64 build_test re-enable shard 1 presubmit<br />
   <sub>[#184751](https://github.com/flutter/flutter/pull/184751) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184751) 0 additions and 2 deletions in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make `windowing_test` follow repo analyzer rules<br />
-  <sub>[#184752](https://github.com/flutter/flutter/pull/184752) opened on on April 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184752) 91 additions and 155 deletions in 3 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make `multiple_windows` follow repo analyzer rules<br />
-  <sub>[#184753](https://github.com/flutter/flutter/pull/184753) opened on on April 8, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/184753) 227 additions and 455 deletions in 18 files</sub><br />
-
