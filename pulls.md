@@ -134,9 +134,6 @@
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Skip LLDB JIT breakpoint on Xcode 26.4 to work around breakpoint race<br />
   <sub>[#184640](https://github.com/flutter/flutter/pull/184640) opened on on April 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184640) 164 additions and 3 deletions in 3 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Expose platform specific handles for multi-window API<br />
-  <sub>[#184662](https://github.com/flutter/flutter/pull/184662) opened on on April 6, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184662) 114 additions and 14 deletions in 3 files</sub><br />
-
 * **[rich22222](https://github.com/rich22222)** &mdash; Fix web autofill not picking up values after Windows Hello authentication<br />
   <sub>[#184673](https://github.com/flutter/flutter/pull/184673) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184673) 89 additions and 15 deletions in 2 files</sub><br />
 
@@ -165,5 +162,5 @@
   <sub>[#184776](https://github.com/flutter/flutter/pull/184776) opened on on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184776) 32 additions and 15 deletions in 2 files</sub><br />
 
 * **[Alejandro Castillo](https://github.com/alejandro-all-win-software)** &mdash; Use null-aware elements in dev/devicelab/lib/framework/browser.dart<br />
-  <sub>[#184778](https://github.com/flutter/flutter/pull/184778) opened on on April 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184778) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#184778](https://github.com/flutter/flutter/pull/184778) opened on on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184778) 1 addition and 1 deletion in 1 file</sub><br />
 
