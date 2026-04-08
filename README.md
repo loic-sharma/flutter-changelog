@@ -862,7 +862,12 @@
 
 ### April 4, 2026 to April 10, 2026
 
-4 commits.
+5 commits.
+
+* **[Daniel A](https://github.com/blaqshyd)** &mdash; fix: allow inline code to wrap on mobile viewports<br />
+  <sub>[#13252](https://github.com/flutter/website/pull/13252) merged on April 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13252) over 2 days, 9 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub><details><summary>1 image...</summary>![Before - Mobile](https://github.com/user-attachments/assets/9699aa18-601e-403a-94e8-ae8566cc71c7) | ![After - Mobile](https://github.com/user-attachments/assets/90a79c47-b806-43d5-a9ac-25d0fc1ea85f)</details></sub>
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: Add dot shorthands guide to Flutter concepts<br />
   <sub>[#13180](https://github.com/flutter/website/pull/13180) merged on April 7, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/website/pull/13180) over 3 weeks, 123 additions and 0 deletions in 2 files</sub><br />
