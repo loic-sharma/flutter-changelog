@@ -4,7 +4,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-34 commits.
+36 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [cupertino.dart] Implement CupertinoMenuAnchor and CupertinoMenuItem using RawMenuAnchor
   <sub>[#182036](https://github.com/flutter/flutter/pull/182036) merged on April 8, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/flutter/pull/182036) over 2 months, 10288 additions and 2 deletions in 8 files</sub>
@@ -43,6 +43,10 @@
   <sub>[#183670](https://github.com/flutter/flutter/pull/183670) merged on April 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/183670) over 3 weeks, 326 additions and 24 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: remove material from absorb_ponter_test, container_test,  lookup_boundary_test, page_view_test, router_test, semantics_clipping_test, semantics_merge_test, shadow_test, text_test
+  <sub>[#183309](https://github.com/flutter/flutter/pull/183309) merged on April 8, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/183309) over 1 month, 783 additions and 330 deletions in 14 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[TrangLeQuynh](https://github.com/TrangLeQuynh)** &mdash; Keep last character obscured when toggling obscureText
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) merged on April 6, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/183488) over 3 weeks, 75 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Navaron Bracke](https://github.com/navaronbracke)</sub>
@@ -75,6 +79,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Parse scheme file with XML parser for SwiftPM migrator
   <sub>[#184525](https://github.com/flutter/flutter/pull/184525) merged on April 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184525) over 4 days, 163 additions and 23 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add more error handling to unawaited callsites
+  <sub>[#184526](https://github.com/flutter/flutter/pull/184526) merged on April 8, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/184526) over 5 days, 542 additions and 17 deletions in 13 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Fix-forward] Added Compose plugin to Add-to-app Integration Test
   <sub>[#184681](https://github.com/flutter/flutter/pull/184681) merged on April 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184681) over 22 hours, 9 additions and 3 deletions in 3 files</sub>
