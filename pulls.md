@@ -144,7 +144,7 @@
   <sub>[#184703](https://github.com/flutter/flutter/pull/184703) opened on on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184703) 237 additions and 49 deletions in 14 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Implement stepped image downscaling for CanvasKit and Skwasm<br />
-  <sub>[#184741](https://github.com/flutter/flutter/pull/184741) opened on on April 7, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/flutter/pull/184741) 655 additions and 2 deletions in 8 files</sub><br />
+  <sub>[#184741](https://github.com/flutter/flutter/pull/184741) opened on on April 7, 2026 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/184741) 659 additions and 2 deletions in 8 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule<br />
   <sub>[#184765](https://github.com/flutter/flutter/pull/184765) opened on on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184765) 2 additions and 0 deletions in 2 files</sub><br />
@@ -160,9 +160,6 @@
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove Material import from obscured_animated_image_test<br />
   <sub>[#184783](https://github.com/flutter/flutter/pull/184783) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184783) 3 additions and 3 deletions in 2 files</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Change freeze flow to pull_request_target<br />
-  <sub>[#184785](https://github.com/flutter/flutter/pull/184785) opened on on April 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184785) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove Material import from toggleable_test<br />
   <sub>[#184786](https://github.com/flutter/flutter/pull/184786) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184786) 4 additions and 3 deletions in 2 files</sub><br />
