@@ -66,7 +66,7 @@
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Finish examples/api migration<br />
-  <sub>[#183967](https://github.com/flutter/flutter/pull/183967) opened on on March 21, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/183967) 88 additions and 100 deletions in 20 files</sub><br />
+  <sub>[#183967](https://github.com/flutter/flutter/pull/183967) opened on on March 21, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/183967) 88 additions and 100 deletions in 20 files</sub><br />
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Fix Autocomplete Tab focus traversal with disabled fields<br />
   <sub>[#184000](https://github.com/flutter/flutter/pull/184000) opened on on March 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184000) 68 additions and 0 deletions in 2 files</sub><br />
@@ -160,4 +160,10 @@
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove Material import from obscured_animated_image_test<br />
   <sub>[#184783](https://github.com/flutter/flutter/pull/184783) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184783) 3 additions and 3 deletions in 2 files</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Change freeze flow to pull_request_target<br />
+  <sub>[#184785](https://github.com/flutter/flutter/pull/184785) opened on on April 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184785) 3 additions and 1 deletion in 1 file</sub><br />
+
+* **[xfce0](https://github.com/xfce0)** &mdash; Remove Material import from toggleable_test<br />
+  <sub>[#184786](https://github.com/flutter/flutter/pull/184786) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184786) 4 additions and 3 deletions in 2 files</sub><br />
 
