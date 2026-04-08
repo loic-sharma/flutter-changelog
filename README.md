@@ -4,7 +4,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-33 commits.
+34 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [cupertino.dart] Implement CupertinoMenuAnchor and CupertinoMenuItem using RawMenuAnchor<br />
   <sub>[#182036](https://github.com/flutter/flutter/pull/182036) merged on April 8, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/flutter/pull/182036) over 2 months, 10288 additions and 2 deletions in 8 files</sub><br />
@@ -47,14 +47,14 @@
   <sub>[#183488](https://github.com/flutter/flutter/pull/183488) merged on April 6, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/183488) over 3 weeks, 75 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/widgets<br />
-  <sub>[#183965](https://github.com/flutter/flutter/pull/183965) merged on April 8, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/183965) over 2 weeks, 427 additions and 483 deletions in 161 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [ci] mac build_test bringup false<br />
   <sub>[#184738](https://github.com/flutter/flutter/pull/184738) merged on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184738) over 4 hours, 0 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
   <sub><details><summary>1 image...</summary><img width="362" height="148" alt="image" src="https://github.com/user-attachments/assets/5f9b437c-3d93-42a4-960c-0f584fbd1adf" /></details></sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/widgets<br />
+  <sub>[#183965](https://github.com/flutter/flutter/pull/183965) merged on April 8, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/183965) over 2 weeks, 427 additions and 483 deletions in 161 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Re-land] Add Support For Built-in Kotlin<br />
   <sub>[#184745](https://github.com/flutter/flutter/pull/184745) merged on April 8, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184745) over 1 hour, 3743 additions and 1590 deletions in 39 files</sub><br />
@@ -67,6 +67,10 @@
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [Semantics] clarify Android header docs<br />
   <sub>[#183573](https://github.com/flutter/flutter/pull/183573) merged on April 8, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/183573) over 3 weeks, 7 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[xfce0](https://github.com/xfce0)** &mdash; Remove editable_text_utils cross-imports from material and cupertino …<br />
+  <sub>[#184519](https://github.com/flutter/flutter/pull/184519) merged on April 8, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184519) over 5 days, 304 additions and 11 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Parse scheme file with XML parser for SwiftPM migrator<br />
   <sub>[#184525](https://github.com/flutter/flutter/pull/184525) merged on April 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184525) over 4 days, 163 additions and 23 deletions in 2 files</sub><br />
