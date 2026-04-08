@@ -159,11 +159,14 @@
   <sub>[#184741](https://github.com/flutter/flutter/pull/184741) opened on on April 7, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/flutter/pull/184741) 655 additions and 2 deletions in 8 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [ci] mac_arm64 build_test re-enable shard 1 presubmit<br />
-  <sub>[#184751](https://github.com/flutter/flutter/pull/184751) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184751) 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#184751](https://github.com/flutter/flutter/pull/184751) opened on on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184751) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule<br />
   <sub>[#184765](https://github.com/flutter/flutter/pull/184765) opened on on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184765) 2 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule in flutter_tools<br />
   <sub>[#184766](https://github.com/flutter/flutter/pull/184766) opened on on April 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184766) 3 additions and 1 deletion in 3 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable async mode with LLDB<br />
+  <sub>[#184768](https://github.com/flutter/flutter/pull/184768) opened on on April 8, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/184768) 44 additions and 455 deletions in 5 files</sub><br />
 
