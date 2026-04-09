@@ -176,3 +176,6 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from user_accounts_drawer_header_test.dart<br />
   <sub>[#184809](https://github.com/flutter/flutter/pull/184809) opened on on April 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184809) 44 additions and 75 deletions in 1 file</sub><br />
 
+* **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix SelectionArea handles overlapping context menu on Android<br />
+  <sub>[#184813](https://github.com/flutter/flutter/pull/184813) opened on on April 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184813) 69 additions and 2 deletions in 2 files</sub><br />
+
