@@ -179,3 +179,6 @@
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix SelectionArea handles overlapping context menu on Android<br />
   <sub>[#184813](https://github.com/flutter/flutter/pull/184813) opened on on April 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184813) 69 additions and 2 deletions in 2 files</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make the welcome message output to stderr if --machine<br />
+  <sub>[#184819](https://github.com/flutter/flutter/pull/184819) opened on on April 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184819) 51 additions and 2 deletions in 4 files</sub><br />
+
