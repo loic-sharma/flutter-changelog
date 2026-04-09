@@ -78,7 +78,7 @@
   <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184120) 150 additions and 4 deletions in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Ignore incoming deprecated_web_configuration lint<br />
-  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184130) 5 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184130) 5 additions and 2 deletions in 3 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Disable web hot reload when running with --no-hot<br />
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
@@ -122,9 +122,6 @@
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix SIGSEGV in VSyncClient on ProMotion devices when engine shell is nil<br />
   <sub>[#184639](https://github.com/flutter/flutter/pull/184639) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184639) 51 additions and 3 deletions in 4 files</sub><br />
 
-* **[rich22222](https://github.com/rich22222)** &mdash; Fix web autofill not picking up values after Windows Hello authentication<br />
-  <sub>[#184673](https://github.com/flutter/flutter/pull/184673) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184673) 89 additions and 15 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Async rendering for benchmarks<br />
   <sub>[#184677](https://github.com/flutter/flutter/pull/184677) opened on on April 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184677) 5 additions and 4 deletions in 1 file</sub><br />
 
@@ -148,9 +145,6 @@
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove Material import from obscured_animated_image_test<br />
   <sub>[#184783](https://github.com/flutter/flutter/pull/184783) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184783) 3 additions and 3 deletions in 2 files</sub><br />
-
-* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix Tapping Shift gets stuck into change-selection state<br />
-  <sub>[#184800](https://github.com/flutter/flutter/pull/184800) opened on on April 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184800) 63 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove feedback_tester cross-import from calendar_date_picker_test<br />
   <sub>[#184802](https://github.com/flutter/flutter/pull/184802) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184802) 47 additions and 3 deletions in 1 file</sub><br />
