@@ -164,6 +164,3 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `linux_android_emu_unstable android_engine_vulkan_tests`<br />
   <sub>[#184787](https://github.com/flutter/flutter/pull/184787) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184787) 0 additions and 13 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fixed freeze flow<br />
-  <sub>[#184793](https://github.com/flutter/flutter/pull/184793) opened on on April 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184793) 5 additions and 29 deletions in 1 file</sub><br />
-
