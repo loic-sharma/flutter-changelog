@@ -179,3 +179,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Use an if-element in a collection literal instead of a conditional expression<br />
   <sub>[#184830](https://github.com/flutter/flutter/pull/184830) opened on on April 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184830) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix killing wrong xcrun command<br />
+  <sub>[#184831](https://github.com/flutter/flutter/pull/184831) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184831) 13 additions and 2 deletions in 2 files</sub><br />
+
