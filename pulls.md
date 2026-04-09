@@ -185,3 +185,6 @@
 * **[DaveT1991](https://github.com/DaveT1991)** &mdash; Remove tab scaffold test cross-import<br />
   <sub>[#184847](https://github.com/flutter/flutter/pull/184847) opened on on April 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184847) 26 additions and 13 deletions in 1 file</sub><br />
 
+* **[DaveT1991](https://github.com/DaveT1991)** &mdash; Inline test callback painter in tab scaffold test<br />
+  <sub>[#184851](https://github.com/flutter/flutter/pull/184851) opened on on April 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184851) 27 additions and 13 deletions in 1 file</sub><br />
+
