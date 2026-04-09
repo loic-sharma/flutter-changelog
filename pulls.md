@@ -158,9 +158,6 @@
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove Material import from obscured_animated_image_test<br />
   <sub>[#184783](https://github.com/flutter/flutter/pull/184783) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184783) 3 additions and 3 deletions in 2 files</sub><br />
 
-* **[xfce0](https://github.com/xfce0)** &mdash; Remove Material import from toggleable_test<br />
-  <sub>[#184786](https://github.com/flutter/flutter/pull/184786) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184786) 4 additions and 3 deletions in 2 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `linux_android_emu_unstable android_engine_vulkan_tests`<br />
   <sub>[#184787](https://github.com/flutter/flutter/pull/184787) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184787) 0 additions and 13 deletions in 1 file</sub><br />
 
