@@ -161,3 +161,9 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `linux_android_emu_unstable android_engine_vulkan_tests`<br />
   <sub>[#184787](https://github.com/flutter/flutter/pull/184787) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184787) 0 additions and 13 deletions in 1 file</sub><br />
 
+* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix Tapping Shift gets stuck into change-selection state<br />
+  <sub>[#184800](https://github.com/flutter/flutter/pull/184800) opened on on April 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184800) 67 additions and 1 deletion in 2 files</sub><br />
+
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove feedback_tester cross-import from calendar_date_picker_test<br />
+  <sub>[#184802](https://github.com/flutter/flutter/pull/184802) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184802) 45 additions and 3 deletions in 1 file</sub><br />
+
