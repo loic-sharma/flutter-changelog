@@ -141,7 +141,7 @@
   <sub>[#184703](https://github.com/flutter/flutter/pull/184703) opened on on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184703) 237 additions and 49 deletions in 14 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Implement stepped image downscaling for CanvasKit and Skwasm<br />
-  <sub>[#184741](https://github.com/flutter/flutter/pull/184741) opened on on April 7, 2026 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/184741) 671 additions and 2 deletions in 8 files</sub><br />
+  <sub>[#184741](https://github.com/flutter/flutter/pull/184741) opened on on April 7, 2026 &mdash; **Large:** [58 comments](https://github.com/flutter/flutter/pull/184741) 671 additions and 2 deletions in 8 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule<br />
   <sub>[#184765](https://github.com/flutter/flutter/pull/184765) opened on on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184765) 2 additions and 0 deletions in 2 files</sub><br />
@@ -164,6 +164,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `linux_android_emu_unstable android_engine_vulkan_tests`<br />
   <sub>[#184787](https://github.com/flutter/flutter/pull/184787) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184787) 0 additions and 13 deletions in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Allow sensitive content to gracefully fail when unregistering host before registering<br />
-  <sub>[#184789](https://github.com/flutter/flutter/pull/184789) opened on on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184789) 14 additions and 7 deletions in 2 files</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fixed freeze flow<br />
+  <sub>[#184793](https://github.com/flutter/flutter/pull/184793) opened on on April 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184793) 5 additions and 29 deletions in 1 file</sub><br />
 
