@@ -738,7 +738,12 @@
 
 ### April 4, 2026 to April 10, 2026
 
-10 commits.
+11 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds support to opt out of Android inset changes
+  <sub>[#11192](https://github.com/flutter/packages/pull/11192) merged on April 9, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/11192) over 1 month, 1075 additions and 1175 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>2 images...</summary><img width="1080" height="2424" alt="Screenshot_20260313_151847" src="https://github.com/user-attachments/assets/202da750-dc9e-4bfd-8a84-72462e405781" /><img width="1080" height="2424" alt="Screenshot_20260313_151957" src="https://github.com/user-attachments/assets/900554b9-2e85-4e28-83e9-71f795974191" /></details></sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [path_provider_android] Changes internal implementation to use JNI
   <sub>[#9770](https://github.com/flutter/packages/pull/9770) merged on April 6, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/packages/pull/9770) over 8 months, 10297 additions and 1116 deletions in 24 files</sub>
