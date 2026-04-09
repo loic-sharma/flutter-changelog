@@ -104,9 +104,6 @@
 * **[jingweicai](https://github.com/caijw)** &mdash; [fix][web] Font fallback download failure causes infinite loop.<br />
   <sub>[#184451](https://github.com/flutter/flutter/pull/184451) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184451) 36 additions and 2 deletions in 2 files</sub><br />
 
-* **[Hong Wei Li](https://github.com/wadelhw)** &mdash; [engine] Fix missing default return in 9 operator<< switch statements (display_list_testing.cc)<br />
-  <sub>[#184489](https://github.com/flutter/flutter/pull/184489) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184489) 18 additions and 0 deletions in 1 file</sub><br />
-
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [Windows] Propagate the enabled accessibility state<br />
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
 
