@@ -738,7 +738,7 @@
 
 ### April 4, 2026 to April 10, 2026
 
-11 commits.
+13 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds support to opt out of Android inset changes
   <sub>[#11192](https://github.com/flutter/packages/pull/11192) merged on April 9, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/11192) over 1 month, 1075 additions and 1175 deletions in 11 files</sub>
@@ -752,6 +752,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert remaining Groovy files to Kotlin
   <sub>[#11443](https://github.com/flutter/packages/pull/11443) merged on April 7, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/11443) over 1 day, 1766 additions and 2676 deletions in 88 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates plugin for iOS 26
+  <sub>[#11415](https://github.com/flutter/packages/pull/11415) merged on April 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11415) over 1 week, 101 additions and 24 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [pigeon] Make Kotlin FlutterError a runtime error
   <sub>[#11469](https://github.com/flutter/packages/pull/11469) merged on April 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11469) over 2 hours, 51 additions and 8 deletions in 9 files</sub>
@@ -768,6 +772,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [path_provider] Remove dependency on engine PathUtils
   <sub>[#11467](https://github.com/flutter/packages/pull/11467) merged on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11467) over 1 hour, 19 additions and 153 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Remove .static from Package.swift
+  <sub>[#11392](https://github.com/flutter/packages/pull/11392) merged on April 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11392) over 1 week, 12 additions and 8 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [all] Prepare packages for skills
   <sub>[#11430](https://github.com/flutter/packages/pull/11430) merged on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11430) over 4 days, 21 additions and 0 deletions in 5 files</sub>
