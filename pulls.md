@@ -188,3 +188,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Replace IndexedStack visibility children with _VisibilityScope + ExcludeFocus<br />
   <sub>[#184884](https://github.com/flutter/flutter/pull/184884) opened on on April 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184884) 76 additions and 16 deletions in 4 files</sub><br />
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Handle hairline strokes in UberSDF<br />
+  <sub>[#184895](https://github.com/flutter/flutter/pull/184895) opened on on April 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184895) 35 additions and 12 deletions in 4 files</sub><br />
+
