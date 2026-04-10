@@ -189,5 +189,5 @@
   <sub>[#184884](https://github.com/flutter/flutter/pull/184884) opened on on April 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184884) 76 additions and 16 deletions in 4 files</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Don't use UberSDF for paint with incompatible blend modes<br />
-  <sub>[#184889](https://github.com/flutter/flutter/pull/184889) opened on on April 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184889) 72 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#184889](https://github.com/flutter/flutter/pull/184889) opened on on April 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184889) 72 additions and 5 deletions in 2 files</sub><br />
 
