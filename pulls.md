@@ -189,5 +189,5 @@
   <sub>[#184877](https://github.com/flutter/flutter/pull/184877) opened on on April 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184877) 61 additions and 69 deletions in 4 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Replace IndexedStack visibility children with _VisibilityScope + ExcludeFocus<br />
-  <sub>[#184884](https://github.com/flutter/flutter/pull/184884) opened on on April 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184884) 75 additions and 16 deletions in 4 files</sub><br />
+  <sub>[#184884](https://github.com/flutter/flutter/pull/184884) opened on on April 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184884) 76 additions and 16 deletions in 4 files</sub><br />
 
