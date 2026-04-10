@@ -129,6 +129,10 @@
   <sub>[#175352](https://github.com/flutter/flutter/pull/175352) merged on April 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/175352) over 6 months, 105 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Skip freeze check in the merge queue<br />
+  <sub>[#184854](https://github.com/flutter/flutter/pull/184854) merged on April 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184854) over 18 minutes, 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove last material dependency from cupertino tests<br />
   <sub>[#184781](https://github.com/flutter/flutter/pull/184781) merged on April 9, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184781) over 18 hours, 135 additions and 61 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
@@ -165,10 +169,6 @@
   <sub>[#184593](https://github.com/flutter/flutter/pull/184593) merged on April 7, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/184593) over 4 days, 129 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Try one more again<br />
-  <sub>[#184767](https://github.com/flutter/flutter/pull/184767) merged on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184767) over 17 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [ci] mac_arm64 build_test re-enable shard 1 presubmit<br />
   <sub>[#184751](https://github.com/flutter/flutter/pull/184751) merged on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184751) over 11 hours, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
@@ -193,9 +193,9 @@
   <sub>[#184717](https://github.com/flutter/flutter/pull/184717) merged on April 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184717) over 18 hours, 24 additions and 57 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Skip freeze check in the merge queue<br />
-  <sub>[#184854](https://github.com/flutter/flutter/pull/184854) merged on April 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184854) over 18 minutes, 5 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Try one more again<br />
+  <sub>[#184767](https://github.com/flutter/flutter/pull/184767) merged on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184767) over 17 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Remove bringup label for resharded Windows tool_integration_tests shards<br />
   <sub>[#184721](https://github.com/flutter/flutter/pull/184721) merged on April 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184721) over 9 hours, 0 additions and 10 deletions in 1 file</sub><br />
