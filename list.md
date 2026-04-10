@@ -47,6 +47,10 @@
   <sub>[#183309](https://github.com/flutter/flutter/pull/183309) merged on April 8, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/183309) over 1 month, 783 additions and 330 deletions in 14 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Add move timer runloop mode to common modes
+  <sub>[#182295](https://github.com/flutter/flutter/pull/182295) merged on April 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182295) over 1 month, 65 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [A11y] Allow percentage strings like "50%" as `SemanticsValue` for `ProgressIndicator`
   <sub>[#183670](https://github.com/flutter/flutter/pull/183670) merged on April 6, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/183670) over 3 weeks, 326 additions and 24 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
@@ -63,10 +67,6 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Use the WindowRegistry in the multiple_windows example app
   <sub>[#184579](https://github.com/flutter/flutter/pull/184579) merged on April 7, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/184579) over 3 days, 300 additions and 478 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Add move timer runloop mode to common modes
-  <sub>[#182295](https://github.com/flutter/flutter/pull/182295) merged on April 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/182295) over 1 month, 65 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Migrate examples/api/lib/widgets
   <sub>[#183965](https://github.com/flutter/flutter/pull/183965) merged on April 8, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/183965) over 2 weeks, 427 additions and 483 deletions in 161 files</sub>
