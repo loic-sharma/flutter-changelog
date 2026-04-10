@@ -179,9 +179,6 @@
 * **[DaveT1991](https://github.com/DaveT1991)** &mdash; Inline test callback painter in tab scaffold test<br />
   <sub>[#184851](https://github.com/flutter/flutter/pull/184851) opened on on April 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184851) 28 additions and 13 deletions in 1 file</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Don't use SDFs for paint with clear blend mode<br />
-  <sub>[#184855](https://github.com/flutter/flutter/pull/184855) opened on on April 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184855) 17 additions and 5 deletions in 2 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `PerformanceOverlay` docs to explain more about FPS<br />
   <sub>[#184874](https://github.com/flutter/flutter/pull/184874) opened on on April 10, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184874) 28 additions and 9 deletions in 1 file</sub><br />
 
@@ -190,4 +187,7 @@
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Replace IndexedStack visibility children with _VisibilityScope + ExcludeFocus<br />
   <sub>[#184884](https://github.com/flutter/flutter/pull/184884) opened on on April 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184884) 76 additions and 16 deletions in 4 files</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Don't use UberSDF for paint with incompatible blend modes<br />
+  <sub>[#184889](https://github.com/flutter/flutter/pull/184889) opened on on April 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184889) 72 additions and 5 deletions in 2 files</sub><br />
 
