@@ -185,3 +185,6 @@
 * **[b-luk](https://github.com/b-luk)** &mdash; Don't use SDFs for paint with clear blend mode<br />
   <sub>[#184855](https://github.com/flutter/flutter/pull/184855) opened on on April 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184855) 17 additions and 5 deletions in 2 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `PerformanceOverlay` docs to explain more about FPS<br />
+  <sub>[#184874](https://github.com/flutter/flutter/pull/184874) opened on on April 10, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184874) 28 additions and 9 deletions in 1 file</sub><br />
+
