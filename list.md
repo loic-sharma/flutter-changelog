@@ -94,7 +94,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable async mode with LLDB
-  <sub>[#184768](https://github.com/flutter/flutter/pull/184768) merged on April 9, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/184768) over 23 hours, 44 additions and 455 deletions in 5 files</sub>
+  <sub>[#184768](https://github.com/flutter/flutter/pull/184768) merged on April 9, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/184768) over 23 hours, 44 additions and 455 deletions in 5 files</sub>
   <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix Android engine flags defaulting to true for malformed values
