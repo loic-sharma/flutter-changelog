@@ -185,6 +185,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `PerformanceOverlay` docs to explain more about FPS<br />
   <sub>[#184874](https://github.com/flutter/flutter/pull/184874) opened on on April 10, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184874) 28 additions and 9 deletions in 1 file</sub><br />
 
-* **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from sliversemantics_test.dart<br />
-  <sub>[#184877](https://github.com/flutter/flutter/pull/184877) opened on on April 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184877) 24 additions and 46 deletions in 2 files</sub><br />
+* **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from Widget tests <br />
+  <sub>[#184877](https://github.com/flutter/flutter/pull/184877) opened on on April 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184877) 61 additions and 69 deletions in 4 files</sub><br />
 
