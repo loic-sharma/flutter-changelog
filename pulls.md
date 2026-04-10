@@ -176,12 +176,12 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix killing wrong xcrun command<br />
   <sub>[#184831](https://github.com/flutter/flutter/pull/184831) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184831) 13 additions and 2 deletions in 2 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Win32: Prevent mouse leave on WM_SYSKEYUP.<br />
-  <sub>[#184835](https://github.com/flutter/flutter/pull/184835) opened on on April 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184835) 12 additions and 9 deletions in 4 files</sub><br />
-
 * **[DaveT1991](https://github.com/DaveT1991)** &mdash; Remove tab scaffold test cross-import<br />
   <sub>[#184847](https://github.com/flutter/flutter/pull/184847) opened on on April 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184847) 26 additions and 13 deletions in 1 file</sub><br />
 
 * **[DaveT1991](https://github.com/DaveT1991)** &mdash; Inline test callback painter in tab scaffold test<br />
   <sub>[#184851](https://github.com/flutter/flutter/pull/184851) opened on on April 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184851) 27 additions and 13 deletions in 1 file</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Don't use SDFs for paint with clear blend mode<br />
+  <sub>[#184855](https://github.com/flutter/flutter/pull/184855) opened on on April 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184855) 17 additions and 5 deletions in 2 files</sub><br />
 
