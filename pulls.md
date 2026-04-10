@@ -176,9 +176,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix killing wrong xcrun command<br />
   <sub>[#184831](https://github.com/flutter/flutter/pull/184831) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184831) 13 additions and 2 deletions in 2 files</sub><br />
 
-* **[DaveT1991](https://github.com/DaveT1991)** &mdash; Remove tab scaffold test cross-import<br />
-  <sub>[#184847](https://github.com/flutter/flutter/pull/184847) opened on on April 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184847) 26 additions and 13 deletions in 1 file</sub><br />
-
 * **[DaveT1991](https://github.com/DaveT1991)** &mdash; Inline test callback painter in tab scaffold test<br />
   <sub>[#184851](https://github.com/flutter/flutter/pull/184851) opened on on April 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184851) 28 additions and 13 deletions in 1 file</sub><br />
 
@@ -187,4 +184,7 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `PerformanceOverlay` docs to explain more about FPS<br />
   <sub>[#184874](https://github.com/flutter/flutter/pull/184874) opened on on April 10, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184874) 28 additions and 9 deletions in 1 file</sub><br />
+
+* **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from sliversemantics_test.dart<br />
+  <sub>[#184877](https://github.com/flutter/flutter/pull/184877) opened on on April 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184877) 24 additions and 46 deletions in 2 files</sub><br />
 
