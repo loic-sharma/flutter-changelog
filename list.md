@@ -85,14 +85,6 @@
   <sub>[#183573](https://github.com/flutter/flutter/pull/183573) merged on April 8, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/183573) over 3 weeks, 7 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve documentation of `frictionFactor` function
-  <sub>[#184509](https://github.com/flutter/flutter/pull/184509) merged on April 9, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184509) over 6 days, 7 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix Android engine flags defaulting to true for malformed values
-  <sub>[#184631](https://github.com/flutter/flutter/pull/184631) merged on April 8, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184631) over 3 days, 40 additions and 31 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: remove material from autocomplete_test, scrollable_restoration_test, semantics_tester_generate_test_semantics_expression_for_current_semantics_tree_test
   <sub>[#184615](https://github.com/flutter/flutter/pull/184615) merged on April 8, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/184615) over 4 days, 1552 additions and 1581 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -100,6 +92,18 @@
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove editable_text_utils cross-imports from material and cupertino …
   <sub>[#184519](https://github.com/flutter/flutter/pull/184519) merged on April 8, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184519) over 5 days, 304 additions and 11 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable async mode with LLDB
+  <sub>[#184768](https://github.com/flutter/flutter/pull/184768) merged on April 9, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/184768) over 23 hours, 44 additions and 455 deletions in 5 files</sub>
+  <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix Android engine flags defaulting to true for malformed values
+  <sub>[#184631](https://github.com/flutter/flutter/pull/184631) merged on April 8, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184631) over 3 days, 40 additions and 31 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve documentation of `frictionFactor` function
+  <sub>[#184509](https://github.com/flutter/flutter/pull/184509) merged on April 9, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184509) over 6 days, 7 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Add experimental flag and test project
   <sub>[#184719](https://github.com/flutter/flutter/pull/184719) merged on April 9, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/184719) over 2 days, 4903 additions and 1 deletion in 100 files</sub>
@@ -113,17 +117,13 @@
   <sub>[#184525](https://github.com/flutter/flutter/pull/184525) merged on April 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184525) over 4 days, 163 additions and 23 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable async mode with LLDB
-  <sub>[#184768](https://github.com/flutter/flutter/pull/184768) merged on April 9, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/184768) over 23 hours, 44 additions and 455 deletions in 5 files</sub>
-  <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add more error handling to unawaited callsites
+  <sub>[#184526](https://github.com/flutter/flutter/pull/184526) merged on April 8, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/184526) over 5 days, 542 additions and 17 deletions in 13 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Fix-forward] Added Compose plugin to Add-to-app Integration Test
   <sub>[#184681](https://github.com/flutter/flutter/pull/184681) merged on April 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184681) over 22 hours, 9 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub>
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add more error handling to unawaited callsites
-  <sub>[#184526](https://github.com/flutter/flutter/pull/184526) merged on April 8, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/184526) over 5 days, 542 additions and 17 deletions in 13 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Have `flutter create` create a pubspec.lock to ensure pinned versions are being used.
   <sub>[#175352](https://github.com/flutter/flutter/pull/175352) merged on April 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/175352) over 6 months, 105 additions and 2 deletions in 3 files</sub>
