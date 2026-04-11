@@ -197,3 +197,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some issues in the integration between EmbedderExternalViewEmbedder and Impeller<br />
   <sub>[#184905](https://github.com/flutter/flutter/pull/184905) opened on on April 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/184905) 219 additions and 103 deletions in 7 files</sub><br />
 
+* **[Meylis](https://github.com/realmeylisdev)** &mdash; Disable LLDB async mode to fix breakpoint race on Xcode 26.4+<br />
+  <sub>[#184907](https://github.com/flutter/flutter/pull/184907) opened on on April 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/184907) 69 additions and 377 deletions in 5 files</sub><br />
+
