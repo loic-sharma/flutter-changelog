@@ -206,6 +206,3 @@
 * **[SolveJet](https://github.com/solvejet-team)** &mdash; Fix DoNothingAction assertion when overriding Action.overridable<br />
   <sub>[#184919](https://github.com/flutter/flutter/pull/184919) opened on on April 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184919) 73 additions and 6 deletions in 2 files</sub><br />
 
-* **[Guesh0558](https://github.com/Guesh0558)** &mdash; the official Flutter team usually only accepts bug fixes or new features Custom<br />
-  <sub>[#184920](https://github.com/flutter/flutter/pull/184920) opened on on April 11, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/184920) 303 additions and 203 deletions in 5 files</sub><br />
-
