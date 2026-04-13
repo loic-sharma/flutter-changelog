@@ -4,11 +4,15 @@
 
 ### April 11, 2026 to April 17, 2026
 
-5 commits.
+6 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Expose platform specific handles for multi-window API
   <sub>[#184662](https://github.com/flutter/flutter/pull/184662) merged on April 13, 2026 &mdash; **Small:** [57 comments](https://github.com/flutter/flutter/pull/184662) over 1 week, 193 additions and 76 deletions in 3 files</sub>
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing
+  <sub>[#184528](https://github.com/flutter/flutter/pull/184528) merged on April 13, 2026 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/184528) over 1 week, 316 additions and 59 deletions in 5 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[kyungilcho](https://github.com/kyungilcho)** &mdash; Preprovision Android NDK for flavored builds and reuse matching unflavored NDKs
   <sub>[#183555](https://github.com/flutter/flutter/pull/183555) merged on April 13, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/183555) over 1 month, 1142 additions and 74 deletions in 10 files</sub>
