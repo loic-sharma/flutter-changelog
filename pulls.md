@@ -95,9 +95,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use relative path for reloadedSourcesUri and reloaded modules<br />
   <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184598) 49 additions and 10 deletions in 2 files</sub><br />
 
-* **[Meylis](https://github.com/realmeylisdev)** &mdash; Detect incompatible git in content_aware_hash to prevent SDK corruption<br />
-  <sub>[#184634](https://github.com/flutter/flutter/pull/184634) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184634) 175 additions and 10 deletions in 5 files</sub><br />
-
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix web dev proxy merging multiple Set-Cookie response headers<br />
   <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 169 additions and 1 deletion in 2 files</sub><br />
 
@@ -199,4 +196,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#184994](https://github.com/flutter/flutter/pull/184994) opened on on April 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184994) 27 additions and 1826 deletions in 24 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels<br />
+  <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 122 additions and 3 deletions in 2 files</sub><br />
 
