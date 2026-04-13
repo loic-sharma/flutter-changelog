@@ -203,3 +203,6 @@
 * **[SolveJet](https://github.com/solvejet-team)** &mdash; Fix DoNothingAction assertion when overriding Action.overridable<br />
   <sub>[#184919](https://github.com/flutter/flutter/pull/184919) opened on on April 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184919) 91 additions and 6 deletions in 2 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
+  <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184956) 3 additions and 0 deletions in 1 file</sub><br />
+
