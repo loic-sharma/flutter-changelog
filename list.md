@@ -121,13 +121,17 @@
   <sub>[#184509](https://github.com/flutter/flutter/pull/184509) merged on April 9, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184509) over 6 days, 7 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Add experimental flag and test project
-  <sub>[#184719](https://github.com/flutter/flutter/pull/184719) merged on April 9, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/184719) over 2 days, 4903 additions and 1 deletion in 100 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Skip freeze check in the merge queue
+  <sub>[#184854](https://github.com/flutter/flutter/pull/184854) merged on April 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184854) over 18 minutes, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Finish examples/api migration
   <sub>[#183967](https://github.com/flutter/flutter/pull/183967) merged on April 10, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/183967) over 2 weeks, 88 additions and 100 deletions in 20 files</sub>
   <sub>Reviewed by: [Mohellebi Abdessalem](https://github.com/AbdeMohlbi), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Add experimental flag and test project
+  <sub>[#184719](https://github.com/flutter/flutter/pull/184719) merged on April 9, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/184719) over 2 days, 4903 additions and 1 deletion in 100 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Allow sensitive content to gracefully fail when unregistering host before registering
   <sub>[#184789](https://github.com/flutter/flutter/pull/184789) merged on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184789) over 2 hours, 14 additions and 7 deletions in 2 files</sub>
@@ -137,13 +141,13 @@
   <sub>[#184525](https://github.com/flutter/flutter/pull/184525) merged on April 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184525) over 4 days, 163 additions and 23 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add more error handling to unawaited callsites
-  <sub>[#184526](https://github.com/flutter/flutter/pull/184526) merged on April 8, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/184526) over 5 days, 542 additions and 17 deletions in 13 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
-
 * **[Mahima Sharma](https://github.com/mahi-ma)** &mdash; Reduce boilerplate in FlutterPlatformViewsTest.mm
   <sub>[#184555](https://github.com/flutter/flutter/pull/184555) merged on April 10, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184555) over 1 week, 54 additions and 131 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add more error handling to unawaited callsites
+  <sub>[#184526](https://github.com/flutter/flutter/pull/184526) merged on April 8, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/184526) over 5 days, 542 additions and 17 deletions in 13 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Fix-forward] Added Compose plugin to Add-to-app Integration Test
   <sub>[#184681](https://github.com/flutter/flutter/pull/184681) merged on April 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184681) over 22 hours, 9 additions and 3 deletions in 3 files</sub>
@@ -152,10 +156,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Have `flutter create` create a pubspec.lock to ensure pinned versions are being used.
   <sub>[#175352](https://github.com/flutter/flutter/pull/175352) merged on April 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/175352) over 6 months, 105 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Skip freeze check in the merge queue
-  <sub>[#184854](https://github.com/flutter/flutter/pull/184854) merged on April 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184854) over 18 minutes, 5 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove last material dependency from cupertino tests
   <sub>[#184781](https://github.com/flutter/flutter/pull/184781) merged on April 9, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184781) over 18 hours, 135 additions and 61 deletions in 3 files</sub>
