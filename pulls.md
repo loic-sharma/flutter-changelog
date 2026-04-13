@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
-  <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
+  <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/178133) 62 additions and 63 deletions in 8 files</sub><br />
@@ -12,7 +12,7 @@
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/179810) 321 additions and 173 deletions in 48 files</sub><br />
@@ -61,9 +61,6 @@
 
 * **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Fix Autocomplete Tab focus traversal with disabled fields<br />
   <sub>[#184000](https://github.com/flutter/flutter/pull/184000) opened on on March 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184000) 68 additions and 0 deletions in 2 files</sub><br />
-
-* **[BART SIMPSON](https://github.com/BartSimpson001)** &mdash; Fix reloaded_sources.json returning incorrect src URL (localhost) in web-server mode<br />
-  <sub>[#184069](https://github.com/flutter/flutter/pull/184069) opened on on March 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184069) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [web] Prioritize Noto Color Emoji in font fallback selection<br />
   <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184120) 150 additions and 4 deletions in 2 files</sub><br />
@@ -117,7 +114,7 @@
   <sub>[#184703](https://github.com/flutter/flutter/pull/184703) opened on on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184703) 237 additions and 49 deletions in 14 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_tools] Migrate detectLowCompileSdkVersionOrNdkVersion to AGP task<br />
-  <sub>[#184731](https://github.com/flutter/flutter/pull/184731) opened on on April 7, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/184731) 633 additions and 331 deletions in 6 files</sub><br />
+  <sub>[#184731](https://github.com/flutter/flutter/pull/184731) opened on on April 7, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/184731) 634 additions and 331 deletions in 6 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule<br />
   <sub>[#184765](https://github.com/flutter/flutter/pull/184765) opened on on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184765) 2 additions and 0 deletions in 2 files</sub><br />
@@ -161,9 +158,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Use an if-element in a collection literal instead of a conditional expression<br />
   <sub>[#184830](https://github.com/flutter/flutter/pull/184830) opened on on April 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184830) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix killing wrong xcrun command<br />
-  <sub>[#184831](https://github.com/flutter/flutter/pull/184831) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184831) 13 additions and 2 deletions in 2 files</sub><br />
-
 * **[DaveT1991](https://github.com/DaveT1991)** &mdash; Inline test callback painter in tab scaffold test<br />
   <sub>[#184851](https://github.com/flutter/flutter/pull/184851) opened on on April 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184851) 28 additions and 13 deletions in 1 file</sub><br />
 
@@ -184,9 +178,6 @@
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Disable LLDB async mode to fix breakpoint race on Xcode 26.4+<br />
   <sub>[#184907](https://github.com/flutter/flutter/pull/184907) opened on on April 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/184907) 69 additions and 377 deletions in 5 files</sub><br />
-
-* **[arcashka](https://github.com/arcashka)** &mdash; [Impeller] Fix morphology filter asymmetric dilation/erosion<br />
-  <sub>[#184913](https://github.com/flutter/flutter/pull/184913) opened on on April 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184913) 165 additions and 1 deletion in 4 files</sub><br />
 
 * **[SolveJet](https://github.com/solvejet-team)** &mdash; Fix DoNothingAction assertion when overriding Action.overridable<br />
   <sub>[#184919](https://github.com/flutter/flutter/pull/184919) opened on on April 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184919) 91 additions and 6 deletions in 2 files</sub><br />

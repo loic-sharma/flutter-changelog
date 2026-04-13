@@ -15,7 +15,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jonas Finnemann Jensen](https://github.com/jonasfj)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Disable async mode with LLDB"
-  <sub>[#184970](https://github.com/flutter/flutter/pull/184970) merged on April 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/184970) over 1 hour, 45 additions and 456 deletions in 6 files</sub>
+  <sub>[#184970](https://github.com/flutter/flutter/pull/184970) merged on April 13, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/184970) over 1 hour, 45 additions and 456 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
 
 ### April 4, 2026 to April 10, 2026
@@ -604,9 +604,18 @@
 
 ## flutter/packages
 
+### April 11, 2026 to April 17, 2026
+
+1 commits.
+
+* **[jslater89](https://github.com/jslater89)** &mdash; [mustache_template] Fix auto-generated specification tests, run with `dart test`
+  <sub>[#11056](https://github.com/flutter/packages/pull/11056) merged on April 13, 2026 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/11056) over 1 month, 3497 additions and 988 deletions in 19 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 ### April 4, 2026 to April 10, 2026
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Adds support to opt out of Android inset changes
   <sub>[#11192](https://github.com/flutter/packages/pull/11192) merged on April 9, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/11192) over 1 month, 1075 additions and 1175 deletions in 11 files</sub>
@@ -668,6 +677,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] use override: post-release-<package> label
   <sub>[#11429](https://github.com/flutter/packages/pull/11429) merged on April 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11429) over 2 days, 4 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+</details>
 
 ### March 28, 2026 to April 3, 2026
 
