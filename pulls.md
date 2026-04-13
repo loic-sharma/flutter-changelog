@@ -186,13 +186,13 @@
   <sub>[#184983](https://github.com/flutter/flutter/pull/184983) opened on on April 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184983) 13 additions and 6 deletions in 3 files</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Change uber SDF to get pixel size (for AA) using euclidean distance rather than manhattan distance.<br />
-  <sub>[#184984](https://github.com/flutter/flutter/pull/184984) opened on on April 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184984) 14 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#184984](https://github.com/flutter/flutter/pull/184984) opened on on April 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184984) 38 additions and 29 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]`WindowsPlugin` should not crash when ffiPlugin enabled<br />
   <sub>[#184989](https://github.com/flutter/flutter/pull/184989) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184989) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix SelectableText crash with inline lambda contextMenuBuilder<br />
-  <sub>[#184990](https://github.com/flutter/flutter/pull/184990) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184990) 185 additions and 9 deletions in 5 files</sub><br />
+  <sub>[#184990](https://github.com/flutter/flutter/pull/184990) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184990) 178 additions and 9 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#184994](https://github.com/flutter/flutter/pull/184994) opened on on April 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184994) 27 additions and 1826 deletions in 24 files</sub><br />
