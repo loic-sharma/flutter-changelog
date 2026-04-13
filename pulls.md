@@ -185,3 +185,12 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184956) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-stable] Disable async mode with LLDB<br />
+  <sub>[#184983](https://github.com/flutter/flutter/pull/184983) opened on on April 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184983) 13 additions and 6 deletions in 3 files</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Skip flutter widget-preview test that times out frequently<br />
+  <sub>[#184988](https://github.com/flutter/flutter/pull/184988) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184988) 51 additions and 47 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]`WindowsPlugin` should not crash when ffiPlugin enabled<br />
+  <sub>[#184989](https://github.com/flutter/flutter/pull/184989) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184989) 6 additions and 1 deletion in 1 file</sub><br />
+
