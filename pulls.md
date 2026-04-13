@@ -186,7 +186,7 @@
   <sub>[#184983](https://github.com/flutter/flutter/pull/184983) opened on on April 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184983) 13 additions and 6 deletions in 3 files</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Change uber SDF to get pixel size (for AA) using euclidean distance rather than manhattan distance.<br />
-  <sub>[#184984](https://github.com/flutter/flutter/pull/184984) opened on on April 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184984) 38 additions and 29 deletions in 2 files</sub><br />
+  <sub>[#184984](https://github.com/flutter/flutter/pull/184984) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184984) 38 additions and 29 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]`WindowsPlugin` should not crash when ffiPlugin enabled<br />
   <sub>[#184989](https://github.com/flutter/flutter/pull/184989) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184989) 6 additions and 1 deletion in 1 file</sub><br />
