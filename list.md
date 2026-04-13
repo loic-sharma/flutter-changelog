@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 11, 2026 to April 17, 2026
+
+1 commits.
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound
+  <sub>[#183395](https://github.com/flutter/flutter/pull/183395) merged on April 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183395) over 1 month, 87 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jonas Finnemann Jensen](https://github.com/jonasfj)</sub>
+
 ### April 4, 2026 to April 10, 2026
 
-73 commits.
+<details>
+<summary>73 commits...</summary>
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [cupertino.dart] Implement CupertinoMenuAnchor and CupertinoMenuItem using RawMenuAnchor
   <sub>[#182036](https://github.com/flutter/flutter/pull/182036) merged on April 8, 2026 &mdash; **Extra large:** [89 comments](https://github.com/flutter/flutter/pull/182036) over 2 months, 10288 additions and 2 deletions in 8 files</sub>
@@ -300,6 +309,8 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Revert "Add Support For Built-in Kotlin (#184227)"
   <sub>[#184739](https://github.com/flutter/flutter/pull/184739) merged on April 7, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/184739) over 21 minutes, 1588 additions and 3695 deletions in 38 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [jesswrd](https://github.com/jesswrd)</sub>
+
+</details>
 
 ### March 28, 2026 to April 3, 2026
 
