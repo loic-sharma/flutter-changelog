@@ -66,7 +66,7 @@
   <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184120) 150 additions and 4 deletions in 2 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Ignore incoming deprecated_web_configuration lint<br />
-  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184130) 5 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#184130](https://github.com/flutter/flutter/pull/184130) opened on on March 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184130) 5 additions and 2 deletions in 3 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Disable web hot reload when running with --no-hot<br />
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
@@ -93,7 +93,7 @@
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184588) 53 additions and 3 deletions in 5 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use relative path for reloadedSourcesUri and reloaded modules<br />
-  <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184598) 57 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184598) 57 additions and 16 deletions in 2 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix web dev proxy merging multiple Set-Cookie response headers<br />
   <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 169 additions and 1 deletion in 2 files</sub><br />
@@ -102,7 +102,7 @@
   <sub>[#184639](https://github.com/flutter/flutter/pull/184639) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184639) 51 additions and 3 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Async rendering for benchmarks<br />
-  <sub>[#184677](https://github.com/flutter/flutter/pull/184677) opened on on April 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184677) 5 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#184677](https://github.com/flutter/flutter/pull/184677) opened on on April 6, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184677) 5 additions and 4 deletions in 1 file</sub><br />
 
 * **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; feat: Add tooltip option on the text_span<br />
   <sub>[#184694](https://github.com/flutter/flutter/pull/184694) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184694) 223 additions and 8 deletions in 6 files</sub><br />
@@ -192,7 +192,7 @@
   <sub>[#184989](https://github.com/flutter/flutter/pull/184989) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184989) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix SelectableText crash with inline lambda contextMenuBuilder<br />
-  <sub>[#184990](https://github.com/flutter/flutter/pull/184990) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184990) 177 additions and 9 deletions in 5 files</sub><br />
+  <sub>[#184990](https://github.com/flutter/flutter/pull/184990) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184990) 109 additions and 9 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#184994](https://github.com/flutter/flutter/pull/184994) opened on on April 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184994) 27 additions and 1826 deletions in 24 files</sub><br />

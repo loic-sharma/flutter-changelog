@@ -618,11 +618,15 @@
 
 ### April 11, 2026 to April 17, 2026
 
-1 commits.
+2 commits.
 
 * **[jslater89](https://github.com/jslater89)** &mdash; [mustache_template] Fix auto-generated specification tests, run with `dart test`<br />
   <sub>[#11056](https://github.com/flutter/packages/pull/11056) merged on April 13, 2026 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/11056) over 1 month, 3497 additions and 988 deletions in 19 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-go_router to main<br />
+  <sub>[#11499](https://github.com/flutter/packages/pull/11499) merged on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11499) over 2 hours, 6 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 ### April 4, 2026 to April 10, 2026
 
@@ -770,7 +774,11 @@
 
 ### April 11, 2026 to April 17, 2026
 
-1 commits.
+2 commits.
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add AI top-level section and restructure existing AI docs<br />
+  <sub>[#13264](https://github.com/flutter/website/pull/13264) merged on April 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13264) over 3 days, 160 additions and 21 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add release notes for DevTools 2.57.0<br />
   <sub>[#13262](https://github.com/flutter/website/pull/13262) merged on April 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13262) over 3 days, 30 additions and 0 deletions in 2 files</sub><br />
