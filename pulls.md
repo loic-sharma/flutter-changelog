@@ -74,9 +74,6 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Disable web hot reload when running with --no-hot<br />
   <sub>[#184192](https://github.com/flutter/flutter/pull/184192) opened on on March 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184192) 88 additions and 2 deletions in 6 files</sub><br />
 
-* **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
-  <sub>[#184275](https://github.com/flutter/flutter/pull/184275) opened on on March 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184275) 116 additions and 1 deletion in 2 files</sub><br />
-
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Hold startup lock until after `pub get` to prevent races<br />
   <sub>[#184294](https://github.com/flutter/flutter/pull/184294) opened on on March 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184294) 96 additions and 2 deletions in 2 files</sub><br />
 
@@ -207,5 +204,5 @@
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184956) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Disable async mode with LLDB"<br />
-  <sub>[#184970](https://github.com/flutter/flutter/pull/184970) opened on on April 13, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/184970) 45 additions and 456 deletions in 6 files</sub><br />
+  <sub>[#184970](https://github.com/flutter/flutter/pull/184970) opened on on April 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/184970) 45 additions and 456 deletions in 6 files</sub><br />
 

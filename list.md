@@ -737,9 +737,18 @@
 
 ## flutter/website
 
+### April 11, 2026 to April 17, 2026
+
+1 commits.
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add release notes for DevTools 2.57.0
+  <sub>[#13262](https://github.com/flutter/website/pull/13262) merged on April 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13262) over 3 days, 30 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### April 4, 2026 to April 10, 2026
 
-6 commits.
+<details>
+<summary>6 commits...</summary>
 
 * **[Daniel A](https://github.com/blaqshyd)** &mdash; fix: allow inline code to wrap on mobile viewports
   <sub>[#13252](https://github.com/flutter/website/pull/13252) merged on April 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13252) over 2 days, 9 additions and 7 deletions in 1 file</sub>
@@ -765,6 +774,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Correct the entry for the "flutter build" command
   <sub>[#13241](https://github.com/flutter/website/pull/13241) merged on April 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13241) over 5 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### March 28, 2026 to April 3, 2026
 
