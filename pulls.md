@@ -173,9 +173,6 @@
 * **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from Widget tests <br />
   <sub>[#184877](https://github.com/flutter/flutter/pull/184877) opened on on April 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184877) 47 additions and 69 deletions in 4 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Replace IndexedStack visibility children with _VisibilityScope + ExcludeFocus<br />
-  <sub>[#184884](https://github.com/flutter/flutter/pull/184884) opened on on April 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184884) 76 additions and 16 deletions in 4 files</sub><br />
-
 * **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; widgets: Guard _compareScreenOrder against unlaid-out selectables<br />
   <sub>[#184900](https://github.com/flutter/flutter/pull/184900) opened on on April 10, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/184900) 414 additions and 12 deletions in 4 files</sub><br />
 
