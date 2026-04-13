@@ -4,7 +4,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-4 commits.
+5 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Expose platform specific handles for multi-window API<br />
   <sub>[#184662](https://github.com/flutter/flutter/pull/184662) merged on April 13, 2026 &mdash; **Small:** [57 comments](https://github.com/flutter/flutter/pull/184662) over 1 week, 193 additions and 76 deletions in 3 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound<br />
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) merged on April 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183395) over 1 month, 87 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jonas Finnemann Jensen](https://github.com/jonasfj)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix codesign verification test for SwiftPM Add to App<br />
+  <sub>[#184980](https://github.com/flutter/flutter/pull/184980) merged on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184980) over 1 hour, 3 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reland "Disable async mode with LLDB"<br />
   <sub>[#184970](https://github.com/flutter/flutter/pull/184970) merged on April 13, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/184970) over 1 hour, 45 additions and 456 deletions in 6 files</sub><br />
