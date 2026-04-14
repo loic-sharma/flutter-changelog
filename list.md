@@ -4,7 +4,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-11 commits.
+12 commits.
 
 * **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing
   <sub>[#184528](https://github.com/flutter/flutter/pull/184528) merged on April 13, 2026 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/184528) over 1 week, 316 additions and 59 deletions in 5 files</sub>
@@ -25,6 +25,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Add recorded uses to link hooks
   <sub>[#184869](https://github.com/flutter/flutter/pull/184869) merged on April 14, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/184869) over 4 days, 480 additions and 295 deletions in 17 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Rebuild flutter tool skill
+  <sub>[#184975](https://github.com/flutter/flutter/pull/184975) merged on April 14, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/184975) over 21 hours, 33 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) merged on April 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183395) over 1 month, 87 additions and 5 deletions in 1 file</sub>
@@ -638,11 +642,15 @@
 
 ### April 11, 2026 to April 17, 2026
 
-2 commits.
+3 commits.
 
 * **[jslater89](https://github.com/jslater89)** &mdash; [mustache_template] Fix auto-generated specification tests, run with `dart test`
   <sub>[#11056](https://github.com/flutter/packages/pull/11056) merged on April 13, 2026 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/11056) over 1 month, 3497 additions and 988 deletions in 19 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Switch to Kotlin Pigeon
+  <sub>[#11482](https://github.com/flutter/packages/pull/11482) merged on April 14, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/11482) over 4 days, 742 additions and 1062 deletions in 13 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-go_router to main
   <sub>[#11499](https://github.com/flutter/packages/pull/11499) merged on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11499) over 2 hours, 6 additions and 5 deletions in 3 files</sub>
