@@ -182,14 +182,8 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184956) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-stable] Disable async mode with LLDB<br />
-  <sub>[#184983](https://github.com/flutter/flutter/pull/184983) opened on on April 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184983) 13 additions and 6 deletions in 3 files</sub><br />
-
 * **[b-luk](https://github.com/b-luk)** &mdash; Change uber SDF to get pixel size (for AA) using euclidean distance rather than manhattan distance.<br />
   <sub>[#184984](https://github.com/flutter/flutter/pull/184984) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184984) 38 additions and 29 deletions in 2 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]`WindowsPlugin` should not crash when ffiPlugin enabled<br />
-  <sub>[#184989](https://github.com/flutter/flutter/pull/184989) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184989) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix SelectableText crash with inline lambda contextMenuBuilder<br />
   <sub>[#184990](https://github.com/flutter/flutter/pull/184990) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184990) 158 additions and 11 deletions in 4 files</sub><br />
@@ -199,6 +193,9 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels<br />
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 122 additions and 3 deletions in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable multi-pack-index when calling flutter from Xcode<br />
+  <sub>[#184998](https://github.com/flutter/flutter/pull/184998) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184998) 7 additions and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
