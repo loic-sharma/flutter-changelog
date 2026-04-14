@@ -4,7 +4,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-8 commits.
+9 commits.
 
 * **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing
   <sub>[#184528](https://github.com/flutter/flutter/pull/184528) merged on April 13, 2026 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/184528) over 1 week, 316 additions and 59 deletions in 5 files</sub>
@@ -29,6 +29,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update autosubmit guide with the emergency label
   <sub>[#184993](https://github.com/flutter/flutter/pull/184993) merged on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184993) over 4 hours, 5 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Replace ambient-replace-as-executable with VmexResource.
+  <sub>[#184967](https://github.com/flutter/flutter/pull/184967) merged on April 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184967) over 10 hours, 43 additions and 34 deletions in 24 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andrew Wilson](https://github.com/apwilson)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix codesign verification test for SwiftPM Add to App
   <sub>[#184980](https://github.com/flutter/flutter/pull/184980) merged on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184980) over 1 hour, 3 additions and 5 deletions in 1 file</sub>
