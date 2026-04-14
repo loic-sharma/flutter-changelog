@@ -802,11 +802,15 @@
 
 ### April 11, 2026 to April 17, 2026
 
-3 commits.
+4 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add AI top-level section and restructure existing AI docs<br />
   <sub>[#13264](https://github.com/flutter/website/pull/13264) merged on April 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13264) over 3 days, 160 additions and 21 deletions in 26 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Ai cleanup redirects<br />
+  <sub>[#13270](https://github.com/flutter/website/pull/13270) merged on April 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13270) over 18 hours, 30 additions and 67 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add /go/codeshare-avatar doc redirect<br />
   <sub>[#13269](https://github.com/flutter/website/pull/13269) merged on April 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13269) over 21 hours, 1 addition and 0 deletions in 1 file</sub><br />
