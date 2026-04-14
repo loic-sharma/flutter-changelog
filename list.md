@@ -122,21 +122,13 @@
   <sub>[#183573](https://github.com/flutter/flutter/pull/183573) merged on April 8, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/183573) over 3 weeks, 7 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Skip freeze check in the merge queue
+  <sub>[#184854](https://github.com/flutter/flutter/pull/184854) merged on April 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184854) over 18 minutes, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Win32: Prevent mouse leave on WM_SYSKEYUP.
   <sub>[#184835](https://github.com/flutter/flutter/pull/184835) merged on April 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184835) over 23 hours, 12 additions and 9 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
-
-* **[xfce0](https://github.com/xfce0)** &mdash; Remove editable_text_utils cross-imports from material and cupertino …
-  <sub>[#184519](https://github.com/flutter/flutter/pull/184519) merged on April 8, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184519) over 5 days, 304 additions and 11 deletions in 12 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix Android engine flags defaulting to true for malformed values
-  <sub>[#184631](https://github.com/flutter/flutter/pull/184631) merged on April 8, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184631) over 3 days, 40 additions and 31 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: remove material from autocomplete_test, scrollable_restoration_test, semantics_tester_generate_test_semantics_expression_for_current_semantics_tree_test
-  <sub>[#184615](https://github.com/flutter/flutter/pull/184615) merged on April 8, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/184615) over 4 days, 1552 additions and 1581 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Refactor LazyPath and separate immutable paths from path builders
   <sub>[#177686](https://github.com/flutter/flutter/pull/177686) merged on April 10, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/177686) over 5 months, 539 additions and 447 deletions in 18 files</sub>
@@ -150,9 +142,17 @@
   <sub>[#184509](https://github.com/flutter/flutter/pull/184509) merged on April 9, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184509) over 6 days, 7 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Skip freeze check in the merge queue
-  <sub>[#184854](https://github.com/flutter/flutter/pull/184854) merged on April 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184854) over 18 minutes, 5 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+* **[xfce0](https://github.com/xfce0)** &mdash; Remove editable_text_utils cross-imports from material and cupertino …
+  <sub>[#184519](https://github.com/flutter/flutter/pull/184519) merged on April 8, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/184519) over 5 days, 304 additions and 11 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: remove material from autocomplete_test, scrollable_restoration_test, semantics_tester_generate_test_semantics_expression_for_current_semantics_tree_test
+  <sub>[#184615](https://github.com/flutter/flutter/pull/184615) merged on April 8, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/184615) over 4 days, 1552 additions and 1581 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix Android engine flags defaulting to true for malformed values
+  <sub>[#184631](https://github.com/flutter/flutter/pull/184631) merged on April 8, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184631) over 3 days, 40 additions and 31 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Dot shorthands] Finish examples/api migration
   <sub>[#183967](https://github.com/flutter/flutter/pull/183967) merged on April 10, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/183967) over 2 weeks, 88 additions and 100 deletions in 20 files</sub>
