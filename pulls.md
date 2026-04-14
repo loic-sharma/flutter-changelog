@@ -206,6 +206,3 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update image deserial proc<br />
   <sub>[#185041](https://github.com/flutter/flutter/pull/185041) opened on on April 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185041) 11 additions and 11 deletions in 3 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update AGP Error<br />
-  <sub>[#185043](https://github.com/flutter/flutter/pull/185043) opened on on April 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185043) 24 additions and 33 deletions in 2 files</sub><br />
-
