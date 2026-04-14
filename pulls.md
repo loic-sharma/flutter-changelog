@@ -185,17 +185,11 @@
 * **[b-luk](https://github.com/b-luk)** &mdash; Change uber SDF to get pixel size (for AA) using euclidean distance rather than manhattan distance.<br />
   <sub>[#184984](https://github.com/flutter/flutter/pull/184984) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184984) 38 additions and 29 deletions in 2 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix SelectableText crash with inline lambda contextMenuBuilder<br />
-  <sub>[#184990](https://github.com/flutter/flutter/pull/184990) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184990) 158 additions and 11 deletions in 4 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#184994](https://github.com/flutter/flutter/pull/184994) opened on on April 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184994) 27 additions and 1826 deletions in 24 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels<br />
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 122 additions and 3 deletions in 2 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable multi-pack-index when calling flutter from Xcode<br />
-  <sub>[#184998](https://github.com/flutter/flutter/pull/184998) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184998) 7 additions and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds sdf rrects (and fixes opacity + color source)<br />
   <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/184999) 169 additions and 35 deletions in 9 files</sub><br />
