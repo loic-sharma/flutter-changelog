@@ -802,10 +802,14 @@
 
 ### April 11, 2026 to April 17, 2026
 
-2 commits.
+3 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add AI top-level section and restructure existing AI docs<br />
   <sub>[#13264](https://github.com/flutter/website/pull/13264) merged on April 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13264) over 3 days, 160 additions and 21 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Add /go/codeshare-avatar doc redirect<br />
+  <sub>[#13269](https://github.com/flutter/website/pull/13269) merged on April 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13269) over 21 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add release notes for DevTools 2.57.0<br />
