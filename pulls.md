@@ -15,7 +15,7 @@
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
-  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/179810) 323 additions and 323 deletions in 69 files</sub><br />
+  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) opened on on December 12, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/179810) 323 additions and 323 deletions in 69 files</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
@@ -80,9 +80,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix selecting backwards when involving widget spans<br />
   <sub>[#184423](https://github.com/flutter/flutter/pull/184423) opened on on March 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184423) 103 additions and 3 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use the default version of Git in the content_aware_hash script instead of Xcode's Git<br />
-  <sub>[#184438](https://github.com/flutter/flutter/pull/184438) opened on on April 1, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184438) 16 additions and 5 deletions in 2 files</sub><br />
-
 * **[jingweicai](https://github.com/caijw)** &mdash; [fix][web] Font fallback download failure causes infinite loop.<br />
   <sub>[#184451](https://github.com/flutter/flutter/pull/184451) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184451) 36 additions and 2 deletions in 2 files</sub><br />
 
@@ -113,14 +110,8 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule<br />
   <sub>[#184765](https://github.com/flutter/flutter/pull/184765) opened on on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184765) 2 additions and 0 deletions in 2 files</sub><br />
 
-* **[xfce0](https://github.com/xfce0)** &mdash; Remove Material import from navigator_on_did_remove_page_test<br />
-  <sub>[#184776](https://github.com/flutter/flutter/pull/184776) opened on on April 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184776) 32 additions and 15 deletions in 2 files</sub><br />
-
 * **[Alejandro Castillo](https://github.com/alejandro-all-win-software)** &mdash; Use null-aware elements in dev/devicelab/lib/framework/browser.dart<br />
   <sub>[#184778](https://github.com/flutter/flutter/pull/184778) opened on on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184778) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[xfce0](https://github.com/xfce0)** &mdash; Remove Material import from obscured_animated_image_test<br />
-  <sub>[#184783](https://github.com/flutter/flutter/pull/184783) opened on on April 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184783) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove feedback_tester cross-import from calendar_date_picker_test<br />
   <sub>[#184802](https://github.com/flutter/flutter/pull/184802) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184802) 47 additions and 3 deletions in 1 file</sub><br />
@@ -149,9 +140,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Unpin sdk package dependencies<br />
   <sub>[#184821](https://github.com/flutter/flutter/pull/184821) opened on on April 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184821) 35 additions and 32 deletions in 5 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Use an if-element in a collection literal instead of a conditional expression<br />
-  <sub>[#184830](https://github.com/flutter/flutter/pull/184830) opened on on April 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184830) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use the `flutteractionsbot` token to push the release branch.<br />
   <sub>[#184833](https://github.com/flutter/flutter/pull/184833) opened on on April 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184833) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -164,9 +152,6 @@
 * **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from Widget tests <br />
   <sub>[#184877](https://github.com/flutter/flutter/pull/184877) opened on on April 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184877) 47 additions and 69 deletions in 4 files</sub><br />
 
-* **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; widgets: Guard _compareScreenOrder against unlaid-out selectables<br />
-  <sub>[#184900](https://github.com/flutter/flutter/pull/184900) opened on on April 10, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/184900) 414 additions and 12 deletions in 4 files</sub><br />
-
 * **[DaveT1991](https://github.com/DaveT1991)** &mdash; Remove tab scaffold test cross-import<br />
   <sub>[#184901](https://github.com/flutter/flutter/pull/184901) opened on on April 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184901) 29 additions and 13 deletions in 1 file</sub><br />
 
@@ -175,9 +160,6 @@
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Disable LLDB async mode to fix breakpoint race on Xcode 26.4+<br />
   <sub>[#184907](https://github.com/flutter/flutter/pull/184907) opened on on April 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/184907) 69 additions and 377 deletions in 5 files</sub><br />
-
-* **[SolveJet](https://github.com/solvejet-team)** &mdash; Fix DoNothingAction assertion when overriding Action.overridable<br />
-  <sub>[#184919](https://github.com/flutter/flutter/pull/184919) opened on on April 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184919) 91 additions and 6 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184956) 3 additions and 0 deletions in 1 file</sub><br />
@@ -192,7 +174,7 @@
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 122 additions and 3 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds sdf rrects (and fixes opacity + color source)<br />
-  <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/184999) 169 additions and 35 deletions in 9 files</sub><br />
+  <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/184999) 204 additions and 35 deletions in 9 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />

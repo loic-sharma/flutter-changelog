@@ -18,13 +18,13 @@
   <sub>[#183555](https://github.com/flutter/flutter/pull/183555) merged on April 13, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/183555) over 1 month, 1142 additions and 74 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Balázs R](https://github.com/nvi9)** &mdash; Fix icon tree shaking when building for desktop
-  <sub>[#184249](https://github.com/flutter/flutter/pull/184249) merged on April 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184249) over 2 weeks, 139 additions and 3 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Anurag Devanapally](https://github.com/andeart)** &mdash; Add `--include-example` flag to `flutter clean` for package example projects
   <sub>[#183455](https://github.com/flutter/flutter/pull/183455) merged on April 14, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/183455) over 1 month, 155 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Balázs R](https://github.com/nvi9)** &mdash; Fix icon tree shaking when building for desktop
+  <sub>[#184249](https://github.com/flutter/flutter/pull/184249) merged on April 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184249) over 2 weeks, 139 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Allow Xcode build configuration to not contain flavor name
   <sub>[#183398](https://github.com/flutter/flutter/pull/183398) merged on April 14, 2026 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/183398) over 1 month, 100 additions and 19 deletions in 3 files</sub>
