@@ -131,9 +131,6 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from user_accounts_drawer_header_test.dart<br />
   <sub>[#184809](https://github.com/flutter/flutter/pull/184809) opened on on April 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184809) 44 additions and 75 deletions in 1 file</sub><br />
 
-* **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix SelectionArea handles overlapping context menu on Android<br />
-  <sub>[#184813](https://github.com/flutter/flutter/pull/184813) opened on on April 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184813) 69 additions and 2 deletions in 2 files</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make the welcome message output to stderr if --machine<br />
   <sub>[#184819](https://github.com/flutter/flutter/pull/184819) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184819) 51 additions and 2 deletions in 4 files</sub><br />
 
@@ -164,9 +161,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184956) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Change uber SDF to get pixel size (for AA) using euclidean distance rather than manhattan distance.<br />
-  <sub>[#184984](https://github.com/flutter/flutter/pull/184984) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184984) 38 additions and 29 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#184994](https://github.com/flutter/flutter/pull/184994) opened on on April 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184994) 27 additions and 1826 deletions in 24 files</sub><br />
 
@@ -181,4 +175,7 @@
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update image deserial proc<br />
   <sub>[#185041](https://github.com/flutter/flutter/pull/185041) opened on on April 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185041) 11 additions and 11 deletions in 3 files</sub><br />
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Ask for both ambient-replace and VMEX to allow for a softer transition.<br />
+  <sub>[#185042](https://github.com/flutter/flutter/pull/185042) opened on on April 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185042) 16 additions and 0 deletions in 8 files</sub><br />
 
