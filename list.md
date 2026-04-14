@@ -4,7 +4,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-6 commits.
+8 commits.
 
 * **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing
   <sub>[#184528](https://github.com/flutter/flutter/pull/184528) merged on April 13, 2026 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/184528) over 1 week, 316 additions and 59 deletions in 5 files</sub>
@@ -18,9 +18,17 @@
   <sub>[#183555](https://github.com/flutter/flutter/pull/183555) merged on April 13, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/183555) over 1 month, 1142 additions and 74 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.
+  <sub>[#177473](https://github.com/flutter/flutter/pull/177473) merged on April 13, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/177473) over 5 months, 189 additions and 35 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) merged on April 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183395) over 1 month, 87 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jonas Finnemann Jensen](https://github.com/jonasfj)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update autosubmit guide with the emergency label
+  <sub>[#184993](https://github.com/flutter/flutter/pull/184993) merged on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184993) over 4 hours, 5 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix codesign verification test for SwiftPM Add to App
   <sub>[#184980](https://github.com/flutter/flutter/pull/184980) merged on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184980) over 1 hour, 3 additions and 5 deletions in 1 file</sub>
