@@ -150,7 +150,7 @@
   <sub>[#184819](https://github.com/flutter/flutter/pull/184819) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184819) 51 additions and 2 deletions in 4 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Unpin sdk package dependencies<br />
-  <sub>[#184821](https://github.com/flutter/flutter/pull/184821) opened on on April 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184821) 37 additions and 34 deletions in 5 files</sub><br />
+  <sub>[#184821](https://github.com/flutter/flutter/pull/184821) opened on on April 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184821) 35 additions and 32 deletions in 5 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Use an if-element in a collection literal instead of a conditional expression<br />
   <sub>[#184830](https://github.com/flutter/flutter/pull/184830) opened on on April 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184830) 1 addition and 1 deletion in 1 file</sub><br />
