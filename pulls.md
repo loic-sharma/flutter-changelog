@@ -173,3 +173,6 @@
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; Fix: activateSystemCursor should set cursor on all views<br />
   <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
+  <sub>[#185083](https://github.com/flutter/flutter/pull/185083) opened on on April 15, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185083) 320 additions and 320 deletions in 49 files</sub><br />
+
