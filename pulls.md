@@ -167,9 +167,9 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#185083](https://github.com/flutter/flutter/pull/185083) opened on on April 15, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185083) 320 additions and 320 deletions in 49 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix killing wrong xcrun command<br />
-  <sub>[#185097](https://github.com/flutter/flutter/pull/185097) opened on on April 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185097) 13 additions and 2 deletions in 2 files</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; Rect constructors for circle bounds (MakeRectRadi*)<br />
-  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185110) 106 additions and 51 deletions in 13 files</sub><br />
+  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185110) 106 additions and 51 deletions in 13 files</sub><br />
+
+* **[Reinar](https://github.com/reinar)** &mdash; Impeller: Recreate Vulkan transients on surface size change<br />
+  <sub>[#185122](https://github.com/flutter/flutter/pull/185122) opened on on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185122) 50 additions and 4 deletions in 3 files</sub><br />
 
