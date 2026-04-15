@@ -4,7 +4,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-29 commits.
+32 commits.
 
 * **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing
   <sub>[#184528](https://github.com/flutter/flutter/pull/184528) merged on April 13, 2026 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/184528) over 1 week, 316 additions and 59 deletions in 5 files</sub>
@@ -29,6 +29,10 @@
 * **[Balázs R](https://github.com/nvi9)** &mdash; Fix icon tree shaking when building for desktop
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) merged on April 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184249) over 2 weeks, 139 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add integration test for setting engine flags via the manifest
+  <sub>[#182241](https://github.com/flutter/flutter/pull/182241) merged on April 14, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/182241) over 2 months, 458 additions and 79 deletions in 14 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Allow Xcode build configuration to not contain flavor name
   <sub>[#183398](https://github.com/flutter/flutter/pull/183398) merged on April 14, 2026 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/183398) over 1 month, 100 additions and 19 deletions in 3 files</sub>
@@ -65,6 +69,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix killing wrong xcrun command
   <sub>[#184831](https://github.com/flutter/flutter/pull/184831) merged on April 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184831) over 4 days, 13 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; update popular issues documentation
+  <sub>[#183196](https://github.com/flutter/flutter/pull/183196) merged on April 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183196) over 1 month, 17 additions and 26 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Ignore incoming deprecated_web_configuration lint
   <sub>[#184130](https://github.com/flutter/flutter/pull/184130) merged on April 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184130) over 2 weeks, 5 additions and 2 deletions in 3 files</sub>
@@ -105,6 +113,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update autosubmit guide with the emergency label
   <sub>[#184993](https://github.com/flutter/flutter/pull/184993) merged on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184993) over 4 hours, 5 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Ask for both ambient-replace and VMEX to allow for a softer transition.
+  <sub>[#185042](https://github.com/flutter/flutter/pull/185042) merged on April 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185042) over 5 hours, 16 additions and 0 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Async rendering for benchmarks
   <sub>[#184677](https://github.com/flutter/flutter/pull/184677) merged on April 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184677) over 1 week, 5 additions and 4 deletions in 1 file</sub>
