@@ -4,7 +4,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-40 commits.
+41 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view]Reland hitTest approach (with a few 2026 update)
   <sub>[#183484](https://github.com/flutter/flutter/pull/183484) merged on April 15, 2026 &mdash; **Extra large:** [103 comments](https://github.com/flutter/flutter/pull/183484) over 1 month, 1512 additions and 156 deletions in 50 files</sub>
@@ -38,6 +38,10 @@
   <sub>[#184249](https://github.com/flutter/flutter/pull/184249) merged on April 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184249) over 2 weeks, 139 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.
+  <sub>[#177473](https://github.com/flutter/flutter/pull/177473) merged on April 13, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/177473) over 5 months, 189 additions and 35 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add integration test for setting engine flags via the manifest
   <sub>[#182241](https://github.com/flutter/flutter/pull/182241) merged on April 14, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/182241) over 2 months, 458 additions and 79 deletions in 14 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
@@ -46,37 +50,33 @@
   <sub>[#183398](https://github.com/flutter/flutter/pull/183398) merged on April 14, 2026 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/183398) over 1 month, 100 additions and 19 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Commands that don't specify their own viewports get the viewport of the render pass.
-  <sub>[#177473](https://github.com/flutter/flutter/pull/177473) merged on April 13, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/177473) over 5 months, 189 additions and 35 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub>
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Add recorded uses to link hooks
   <sub>[#184869](https://github.com/flutter/flutter/pull/184869) merged on April 14, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/184869) over 4 days, 480 additions and 295 deletions in 17 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi), [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Hold startup lock until after `pub get` to prevent races
-  <sub>[#184294](https://github.com/flutter/flutter/pull/184294) merged on April 14, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184294) over 2 weeks, 120 additions and 17 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; Fix gles interactive tests
   <sub>[#181389](https://github.com/flutter/flutter/pull/181389) merged on April 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181389) over 2 months, 15 additions and 15 deletions in 6 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move widget_preview_scaffold into pub workspace
-  <sub>[#182627](https://github.com/flutter/flutter/pull/182627) merged on April 14, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/182627) over 1 month, 241 additions and 55 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix an ordering dependency in the services/system_chrome_test.dart test suite
-  <sub>[#185086](https://github.com/flutter/flutter/pull/185086) merged on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185086) over 51 minutes, 5 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Hold startup lock until after `pub get` to prevent races
+  <sub>[#184294](https://github.com/flutter/flutter/pull/184294) merged on April 14, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184294) over 2 weeks, 120 additions and 17 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [ci] Split up integration.shard dart_data_asset_test.dart
   <sub>[#185021](https://github.com/flutter/flutter/pull/185021) merged on April 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185021) over 7 hours, 469 additions and 421 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move widget_preview_scaffold into pub workspace
+  <sub>[#182627](https://github.com/flutter/flutter/pull/182627) merged on April 14, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/182627) over 1 month, 241 additions and 55 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [ci] Split up integration.shard native_assets_test.dart
   <sub>[#185020](https://github.com/flutter/flutter/pull/185020) merged on April 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185020) over 5 hours, 804 additions and 674 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix an ordering dependency in the services/system_chrome_test.dart test suite
+  <sub>[#185086](https://github.com/flutter/flutter/pull/185086) merged on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185086) over 51 minutes, 5 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Remove material import from toggleable_test.dart + draggable_test.dart + obscured_animated_image_test.dart + sliver_constraints_test.dart
   <sub>[#181774](https://github.com/flutter/flutter/pull/181774) merged on April 15, 2026 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/181774) over 2 months, 278 additions and 276 deletions in 7 files</sub>
@@ -102,21 +102,21 @@
   <sub>[#184130](https://github.com/flutter/flutter/pull/184130) merged on April 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184130) over 2 weeks, 5 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Rebuild flutter tool skill
-  <sub>[#184975](https://github.com/flutter/flutter/pull/184975) merged on April 14, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/184975) over 21 hours, 33 additions and 1 deletion in 3 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound
-  <sub>[#183395](https://github.com/flutter/flutter/pull/183395) merged on April 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183395) over 1 month, 87 additions and 5 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jonas Finnemann Jensen](https://github.com/jonasfj)</sub>
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update AGP Error
+  <sub>[#185043](https://github.com/flutter/flutter/pull/185043) merged on April 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185043) over 2 hours, 24 additions and 33 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [SKILL] upgrade-browser
   <sub>[#184894](https://github.com/flutter/flutter/pull/184894) merged on April 14, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/184894) over 3 days, 226 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update AGP Error
-  <sub>[#185043](https://github.com/flutter/flutter/pull/185043) merged on April 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185043) over 2 hours, 24 additions and 33 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Test that the locked version of dependencies of sdk packages equal the lower bound
+  <sub>[#183395](https://github.com/flutter/flutter/pull/183395) merged on April 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183395) over 1 month, 87 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jonas Finnemann Jensen](https://github.com/jonasfj)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Rebuild flutter tool skill
+  <sub>[#184975](https://github.com/flutter/flutter/pull/184975) merged on April 14, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/184975) over 21 hours, 33 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable multi-pack-index when calling flutter from Xcode
   <sub>[#184998](https://github.com/flutter/flutter/pull/184998) merged on April 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184998) over 20 hours, 7 additions and 1 deletion in 1 file</sub>
@@ -137,6 +137,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update autosubmit guide with the emergency label
   <sub>[#184993](https://github.com/flutter/flutter/pull/184993) merged on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184993) over 4 hours, 5 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add initial AI guidance for issues
+  <sub>[#184885](https://github.com/flutter/flutter/pull/184885) merged on April 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184885) over 5 days, 23 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from Widget tests 
   <sub>[#184877](https://github.com/flutter/flutter/pull/184877) merged on April 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184877) over 4 days, 47 additions and 69 deletions in 4 files</sub>
@@ -942,10 +946,14 @@
 
 ### April 11, 2026 to April 17, 2026
 
-4 commits.
+5 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add AI top-level section and restructure existing AI docs
   <sub>[#13264](https://github.com/flutter/website/pull/13264) merged on April 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13264) over 3 days, 160 additions and 21 deletions in 26 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove deprecated flutter/samples from learning resource index
+  <sub>[#13277](https://github.com/flutter/website/pull/13277) merged on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13277) over 2 hours, 0 additions and 107 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Ai cleanup redirects
