@@ -4,7 +4,11 @@
 
 ### April 11, 2026 to April 17, 2026
 
-37 commits.
+38 commits.
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view]Reland hitTest approach (with a few 2026 update)
+  <sub>[#183484](https://github.com/flutter/flutter/pull/183484) merged on April 15, 2026 &mdash; **Extra large:** [101 comments](https://github.com/flutter/flutter/pull/183484) over 1 month, 1512 additions and 156 deletions in 50 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victoria Ashworth](https://github.com/vashworth), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing
   <sub>[#184528](https://github.com/flutter/flutter/pull/184528) merged on April 13, 2026 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/184528) over 1 week, 316 additions and 59 deletions in 5 files</sub>
@@ -94,10 +98,6 @@
   <sub>[#185043](https://github.com/flutter/flutter/pull/185043) merged on April 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185043) over 2 hours, 24 additions and 33 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [SKILL] upgrade-browser
-  <sub>[#184894](https://github.com/flutter/flutter/pull/184894) merged on April 14, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/184894) over 3 days, 226 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Rebuild flutter tool skill
   <sub>[#184975](https://github.com/flutter/flutter/pull/184975) merged on April 14, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/184975) over 21 hours, 33 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -106,9 +106,17 @@
   <sub>[#183395](https://github.com/flutter/flutter/pull/183395) merged on April 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183395) over 1 month, 87 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Jonas Finnemann Jensen](https://github.com/jonasfj)</sub>
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [SKILL] upgrade-browser
+  <sub>[#184894](https://github.com/flutter/flutter/pull/184894) merged on April 14, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/184894) over 3 days, 226 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable multi-pack-index when calling flutter from Xcode
   <sub>[#184998](https://github.com/flutter/flutter/pull/184998) merged on April 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184998) over 20 hours, 7 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Skip flutter widget-preview test that times out frequently
+  <sub>[#184988](https://github.com/flutter/flutter/pull/184988) merged on April 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184988) over 21 hours, 51 additions and 47 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [ci] Split up integration.shard record_use_test.dart
   <sub>[#185022](https://github.com/flutter/flutter/pull/185022) merged on April 14, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/185022) over 1 hour, 218 additions and 183 deletions in 4 files</sub>
@@ -121,10 +129,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer tests.version
   <sub>[#185044](https://github.com/flutter/flutter/pull/185044) merged on April 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185044) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Skip flutter widget-preview test that times out frequently
-  <sub>[#184988](https://github.com/flutter/flutter/pull/184988) merged on April 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184988) over 21 hours, 51 additions and 47 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from Widget tests 
   <sub>[#184877](https://github.com/flutter/flutter/pull/184877) merged on April 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184877) over 4 days, 47 additions and 69 deletions in 4 files</sub>
