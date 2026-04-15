@@ -694,7 +694,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-7 commits.
+8 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [pr-fix] Run all flutter/packages macOS tests using Xcode 26 and iOS 26 simulator
   <sub>[#10635](https://github.com/flutter/packages/pull/10635) merged on April 14, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/10635) over 3 months, 8 additions and 8 deletions in 4 files</sub>
@@ -715,6 +715,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Switch to Kotlin Pigeon
   <sub>[#11482](https://github.com/flutter/packages/pull/11482) merged on April 14, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/11482) over 4 days, 742 additions and 1062 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Skip dependabot updates for minor versions of gradle and kotlin
+  <sub>[#11509](https://github.com/flutter/packages/pull/11509) merged on April 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11509) over 2 hours, 6 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Ludwig Bolling](https://github.com/Bolling88)** &mdash; [camera_platform_interface] Add setJpegImageQuality method
   <sub>[#11454](https://github.com/flutter/packages/pull/11454) merged on April 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11454) over 1 week, 53 additions and 2 deletions in 6 files</sub>
