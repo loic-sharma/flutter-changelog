@@ -19,7 +19,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
-  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) merged on April 15, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/179810) over 4 months, 323 additions and 323 deletions in 69 files</sub><br />
+  <sub>[#179810](https://github.com/flutter/flutter/pull/179810) merged on April 15, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/179810) over 4 months, 323 additions and 323 deletions in 69 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Anurag Devanapally](https://github.com/andeart)** &mdash; Add `--include-example` flag to `flutter clean` for package example projects<br />
