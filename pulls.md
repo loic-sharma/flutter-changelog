@@ -179,9 +179,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix killing wrong xcrun command<br />
   <sub>[#185097](https://github.com/flutter/flutter/pull/185097) opened on on April 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185097) 13 additions and 2 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Disable multi-pack-index when calling flutter from Xcode<br />
-  <sub>[#185098](https://github.com/flutter/flutter/pull/185098) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185098) 7 additions and 1 deletion in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Disable multi-pack-index when calling flutter from Xcode<br />
-  <sub>[#185100](https://github.com/flutter/flutter/pull/185100) opened on on April 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185100) 7 additions and 1 deletion in 1 file</sub><br />
-
