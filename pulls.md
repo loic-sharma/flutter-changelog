@@ -182,9 +182,3 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-beta]Disable async mode with LLDB<br />
   <sub>[#185102](https://github.com/flutter/flutter/pull/185102) opened on on April 15, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185102) 45 additions and 456 deletions in 6 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix an ordering dependency in the services/system_chrome_test.dart test suite<br />
-  <sub>[#185104](https://github.com/flutter/flutter/pull/185104) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185104) 5 additions and 0 deletions in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix an ordering dependency in the services/system_chrome_test.dart test suite<br />
-  <sub>[#185105](https://github.com/flutter/flutter/pull/185105) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185105) 5 additions and 0 deletions in 1 file</sub><br />
-
