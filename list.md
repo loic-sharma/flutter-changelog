@@ -750,7 +750,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-8 commits.
+9 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [pr-fix] Run all flutter/packages macOS tests using Xcode 26 and iOS 26 simulator
   <sub>[#10635](https://github.com/flutter/packages/pull/10635) merged on April 14, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/10635) over 3 months, 8 additions and 8 deletions in 4 files</sub>
@@ -775,6 +775,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Skip dependabot updates for minor versions of gradle and kotlin
   <sub>[#11509](https://github.com/flutter/packages/pull/11509) merged on April 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11509) over 2 hours, 6 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [quick_actions] Remove manual thread hop in Android response
+  <sub>[#11445](https://github.com/flutter/packages/pull/11445) merged on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11445) over 1 week, 14 additions and 29 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Ludwig Bolling](https://github.com/Bolling88)** &mdash; [camera_platform_interface] Add setJpegImageQuality method
   <sub>[#11454](https://github.com/flutter/packages/pull/11454) merged on April 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11454) over 1 week, 53 additions and 2 deletions in 6 files</sub>
