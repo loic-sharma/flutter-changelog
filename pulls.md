@@ -125,9 +125,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Unpin sdk package dependencies<br />
   <sub>[#184821](https://github.com/flutter/flutter/pull/184821) opened on on April 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184821) 35 additions and 32 deletions in 5 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use the `flutteractionsbot` token to push the release branch.<br />
-  <sub>[#184833](https://github.com/flutter/flutter/pull/184833) opened on on April 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/184833) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[DaveT1991](https://github.com/DaveT1991)** &mdash; Inline test callback painter in tab scaffold test<br />
   <sub>[#184851](https://github.com/flutter/flutter/pull/184851) opened on on April 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184851) 28 additions and 13 deletions in 1 file</sub><br />
 
@@ -172,4 +169,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-beta]Disable async mode with LLDB<br />
   <sub>[#185102](https://github.com/flutter/flutter/pull/185102) opened on on April 15, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185102) 45 additions and 456 deletions in 6 files</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Rect constructors for circle bounds (MakeRectRadi*)<br />
+  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185110) 90 additions and 33 deletions in 11 files</sub><br />
 
