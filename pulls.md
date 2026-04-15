@@ -173,3 +173,12 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#185083](https://github.com/flutter/flutter/pull/185083) opened on on April 15, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185083) 320 additions and 320 deletions in 49 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [CP-stable] Fix changelog merging workflow.<br />
+  <sub>[#185095](https://github.com/flutter/flutter/pull/185095) opened on on April 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185095) 46 additions and 13 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Disable async mode with LLDB<br />
+  <sub>[#185096](https://github.com/flutter/flutter/pull/185096) opened on on April 15, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/185096) 44 additions and 455 deletions in 5 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix killing wrong xcrun command<br />
+  <sub>[#185097](https://github.com/flutter/flutter/pull/185097) opened on on April 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185097) 13 additions and 2 deletions in 2 files</sub><br />
+
