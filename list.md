@@ -7,7 +7,7 @@
 39 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view]Reland hitTest approach (with a few 2026 update)
-  <sub>[#183484](https://github.com/flutter/flutter/pull/183484) merged on April 15, 2026 &mdash; **Extra large:** [101 comments](https://github.com/flutter/flutter/pull/183484) over 1 month, 1512 additions and 156 deletions in 50 files</sub>
+  <sub>[#183484](https://github.com/flutter/flutter/pull/183484) merged on April 15, 2026 &mdash; **Extra large:** [103 comments](https://github.com/flutter/flutter/pull/183484) over 1 month, 1512 additions and 156 deletions in 50 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Victoria Ashworth](https://github.com/vashworth), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Vasiliy Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; [flutter_tools] Cache pubspec reads and share PackageGraph/PackageConfig across workspace packages during pub get post-processing
