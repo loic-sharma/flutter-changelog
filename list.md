@@ -750,7 +750,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-9 commits.
+10 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [pr-fix] Run all flutter/packages macOS tests using Xcode 26 and iOS 26 simulator
   <sub>[#10635](https://github.com/flutter/packages/pull/10635) merged on April 14, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/10635) over 3 months, 8 additions and 8 deletions in 4 files</sub>
@@ -763,6 +763,10 @@
 * **[Daiki Kajiwara](https://github.com/dkajiwara)** &mdash; [go_router] Fix pop() restoring stale configuration when route has onExit
   <sub>[#11241](https://github.com/flutter/packages/pull/11241) merged on April 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11241) over 1 month, 94 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Update java formatter
+  <sub>[#11508](https://github.com/flutter/packages/pull/11508) merged on April 15, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/11508) over 15 hours, 626 additions and 121 deletions in 60 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Switch to Kotlin Pigeon
   <sub>[#11473](https://github.com/flutter/packages/pull/11473) merged on April 14, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/11473) over 6 days, 681 additions and 728 deletions in 10 files</sub>
