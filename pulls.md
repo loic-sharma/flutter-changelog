@@ -71,9 +71,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix selecting backwards when involving widget spans<br />
-  <sub>[#184423](https://github.com/flutter/flutter/pull/184423) opened on on March 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184423) 199 additions and 83 deletions in 3 files</sub><br />
-
 * **[jingweicai](https://github.com/caijw)** &mdash; [fix][web] Font fallback download failure causes infinite loop.<br />
   <sub>[#184451](https://github.com/flutter/flutter/pull/184451) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184451) 36 additions and 2 deletions in 2 files</sub><br />
 
@@ -91,9 +88,6 @@
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix SIGSEGV in VSyncClient on ProMotion devices when engine shell is nil<br />
   <sub>[#184639](https://github.com/flutter/flutter/pull/184639) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184639) 51 additions and 3 deletions in 4 files</sub><br />
-
-* **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; feat: Add tooltip option on the text_span<br />
-  <sub>[#184694](https://github.com/flutter/flutter/pull/184694) opened on on April 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184694) 223 additions and 8 deletions in 6 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add swift strict concurrency attributes to iOS API - part 1<br />
   <sub>[#184703](https://github.com/flutter/flutter/pull/184703) opened on on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184703) 237 additions and 49 deletions in 14 files</sub><br />
@@ -156,7 +150,7 @@
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 122 additions and 3 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds sdf rrects (and fixes opacity + color source)<br />
-  <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/184999) 213 additions and 35 deletions in 9 files</sub><br />
+  <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/184999) 213 additions and 35 deletions in 9 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
@@ -165,7 +159,7 @@
   <sub>[#185041](https://github.com/flutter/flutter/pull/185041) opened on on April 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185041) 11 additions and 11 deletions in 3 files</sub><br />
 
 * **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from Widget tests <br />
-  <sub>[#185078](https://github.com/flutter/flutter/pull/185078) opened on on April 15, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/185078) 3090 additions and 1872 deletions in 25 files</sub><br />
+  <sub>[#185078](https://github.com/flutter/flutter/pull/185078) opened on on April 15, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/185078) 3090 additions and 1872 deletions in 25 files</sub><br />
 
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; Fix: activateSystemCursor should set cursor on all views<br />
   <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
@@ -175,9 +169,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix killing wrong xcrun command<br />
   <sub>[#185097](https://github.com/flutter/flutter/pull/185097) opened on on April 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185097) 13 additions and 2 deletions in 2 files</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; docs(web): add comprehensive READMEs for web_ui system understanding<br />
-  <sub>[#185101](https://github.com/flutter/flutter/pull/185101) opened on on April 15, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/185101) 1531 additions and 526 deletions in 66 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-beta]Disable async mode with LLDB<br />
   <sub>[#185102](https://github.com/flutter/flutter/pull/185102) opened on on April 15, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185102) 45 additions and 456 deletions in 6 files</sub><br />
