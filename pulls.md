@@ -168,5 +168,8 @@
   <sub>[#185041](https://github.com/flutter/flutter/pull/185041) opened on on April 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185041) 11 additions and 11 deletions in 3 files</sub><br />
 
 * **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from Widget tests <br />
-  <sub>[#185078](https://github.com/flutter/flutter/pull/185078) opened on on April 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/185078) 2903 additions and 1871 deletions in 23 files</sub><br />
+  <sub>[#185078](https://github.com/flutter/flutter/pull/185078) opened on on April 15, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/185078) 3090 additions and 1872 deletions in 25 files</sub><br />
+
+* **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; Fix: activateSystemCursor should set cursor on all views<br />
+  <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
 
