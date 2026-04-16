@@ -75,7 +75,7 @@
   <sub>[#184451](https://github.com/flutter/flutter/pull/184451) opened on on April 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184451) 36 additions and 2 deletions in 2 files</sub><br />
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [Windows] Propagate the enabled accessibility state<br />
-  <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove list_tile_tester and rendering_tester cross-imports from cupertino tests<br />
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184588) 53 additions and 3 deletions in 5 files</sub><br />
@@ -177,8 +177,11 @@
   <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185140) 325 additions and 8 deletions in 4 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Validate itemExtent with geometry in RenderSliverFixedExtentBoxAdaptor<br />
-  <sub>[#185159](https://github.com/flutter/flutter/pull/185159) opened on on April 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185159) 144 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#185159](https://github.com/flutter/flutter/pull/185159) opened on on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185159) 144 additions and 0 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#185166](https://github.com/flutter/flutter/pull/185166) opened on on April 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185166) 5 additions and 0 deletions in 1 file</sub><br />
+
+* **[Rusino](https://github.com/Rusino)** &mdash; Removing TODOs from the WebParagraph code and addressing technical debts.<br />
+  <sub>[#185168](https://github.com/flutter/flutter/pull/185168) opened on on April 16, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185168) 225 additions and 320 deletions in 13 files</sub><br />
 
