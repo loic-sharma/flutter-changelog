@@ -168,8 +168,14 @@
   <sub>[#185083](https://github.com/flutter/flutter/pull/185083) opened on on April 15, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/185083) 320 additions and 320 deletions in 49 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Rect constructors for circle bounds (MakeRectRadi*)<br />
-  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/185110) 106 additions and 51 deletions in 13 files</sub><br />
+  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185110) 108 additions and 57 deletions in 13 files</sub><br />
 
 * **[Reinar](https://github.com/reinar)** &mdash; Impeller: Recreate Vulkan transients on surface size change<br />
   <sub>[#185122](https://github.com/flutter/flutter/pull/185122) opened on on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185122) 50 additions and 4 deletions in 3 files</sub><br />
+
+* **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; Add javaHeapSpaceHandler to handle Gradle build failures due to Java …<br />
+  <sub>[#185127](https://github.com/flutter/flutter/pull/185127) opened on on April 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185127) 54 additions and 0 deletions in 2 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Changelog for Flutter 3.41.7.<br />
+  <sub>[#185128](https://github.com/flutter/flutter/pull/185128) opened on on April 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185128) 5 additions and 0 deletions in 1 file</sub><br />
 
