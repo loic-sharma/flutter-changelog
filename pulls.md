@@ -176,6 +176,3 @@
 * **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; Add javaHeapSpaceHandler to handle Gradle build failures due to Java …<br />
   <sub>[#185127](https://github.com/flutter/flutter/pull/185127) opened on on April 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185127) 54 additions and 0 deletions in 2 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Refactor previousCompositionOrder to return NSArray in public API<br />
-  <sub>[#185136](https://github.com/flutter/flutter/pull/185136) opened on on April 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185136) 16 additions and 13 deletions in 3 files</sub><br />
-
