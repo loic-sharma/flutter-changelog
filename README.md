@@ -971,7 +971,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-7 commits.
+8 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add AI top-level section and restructure existing AI docs<br />
   <sub>[#13264](https://github.com/flutter/website/pull/13264) merged on April 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13264) over 3 days, 160 additions and 21 deletions in 26 files</sub><br />
@@ -980,6 +980,10 @@
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove deprecated flutter/samples from learning resource index<br />
   <sub>[#13277](https://github.com/flutter/website/pull/13277) merged on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13277) over 2 hours, 0 additions and 107 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a missing import and a note about an edge-case crash<br />
+  <sub>[#13247](https://github.com/flutter/website/pull/13247) merged on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13247) over 1 week, 15 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Update cupertino code example<br />
   <sub>[#13278](https://github.com/flutter/website/pull/13278) merged on April 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13278) over 7 hours, 7 additions and 7 deletions in 2 files</sub><br />
