@@ -164,9 +164,6 @@
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; Fix: activateSystemCursor should set cursor on all views<br />
   <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
-  <sub>[#185083](https://github.com/flutter/flutter/pull/185083) opened on on April 15, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/185083) 320 additions and 320 deletions in 49 files</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; Rect constructors for circle bounds (MakeRectRadi*)<br />
   <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185110) 108 additions and 57 deletions in 13 files</sub><br />
 
@@ -177,5 +174,5 @@
   <sub>[#185127](https://github.com/flutter/flutter/pull/185127) opened on on April 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185127) 54 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/predictive back event swipe edge out of bounds<br />
-  <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185140) 29 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185140) 29 additions and 10 deletions in 2 files</sub><br />
 
