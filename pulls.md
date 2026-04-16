@@ -174,5 +174,5 @@
   <sub>[#185127](https://github.com/flutter/flutter/pull/185127) opened on on April 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185127) 54 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/predictive back event swipe edge out of bounds<br />
-  <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185140) 29 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185140) 105 additions and 13 deletions in 3 files</sub><br />
 
