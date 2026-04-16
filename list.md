@@ -787,7 +787,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-10 commits.
+11 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [pr-fix] Run all flutter/packages macOS tests using Xcode 26 and iOS 26 simulator
   <sub>[#10635](https://github.com/flutter/packages/pull/10635) merged on April 14, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/10635) over 3 months, 8 additions and 8 deletions in 4 files</sub>
@@ -800,6 +800,10 @@
 * **[Daiki Kajiwara](https://github.com/dkajiwara)** &mdash; [go_router] Fix pop() restoring stale configuration when route has onExit
   <sub>[#11241](https://github.com/flutter/packages/pull/11241) merged on April 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11241) over 1 month, 94 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [google_maps_flutter] Use super parameters in more places in examples
+  <sub>[#11517](https://github.com/flutter/packages/pull/11517) merged on April 16, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/11517) over 1 day, 235 additions and 338 deletions in 133 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Update java formatter
   <sub>[#11508](https://github.com/flutter/packages/pull/11508) merged on April 15, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/11508) over 15 hours, 626 additions and 121 deletions in 60 files</sub>

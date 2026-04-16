@@ -147,7 +147,7 @@
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 122 additions and 3 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds sdf rrects (and fixes opacity + color source)<br />
-  <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Extra large:** [41 comments](https://github.com/flutter/flutter/pull/184999) 30421 additions and 58 deletions in 9 files</sub><br />
+  <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Extra large:** [43 comments](https://github.com/flutter/flutter/pull/184999) 30435 additions and 72 deletions in 10 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
@@ -165,7 +165,7 @@
   <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Rect constructors for circle bounds (MakeRectRadi*)<br />
-  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/185110) 108 additions and 57 deletions in 13 files</sub><br />
+  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/185110) 108 additions and 57 deletions in 13 files</sub><br />
 
 * **[Reinar](https://github.com/reinar)** &mdash; Impeller: Recreate Vulkan transients on surface size change<br />
   <sub>[#185122](https://github.com/flutter/flutter/pull/185122) opened on on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185122) 50 additions and 4 deletions in 3 files</sub><br />
@@ -183,5 +183,5 @@
   <sub>[#185159](https://github.com/flutter/flutter/pull/185159) opened on on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185159) 144 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script<br />
-  <sub>[#185170](https://github.com/flutter/flutter/pull/185170) opened on on April 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185170) 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#185170](https://github.com/flutter/flutter/pull/185170) opened on on April 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185170) 5 additions and 1 deletion in 1 file</sub><br />
 
