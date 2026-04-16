@@ -48,7 +48,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
-  <sub>[#185083](https://github.com/flutter/flutter/pull/185083) merged on April 16, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/185083) over 16 hours, 320 additions and 320 deletions in 49 files</sub><br />
+  <sub>[#185083](https://github.com/flutter/flutter/pull/185083) merged on April 16, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/185083) over 16 hours, 320 additions and 320 deletions in 49 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add integration test for setting engine flags via the manifest<br />
