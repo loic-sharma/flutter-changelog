@@ -50,9 +50,6 @@
 * **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; Fix whitespace in the windows Flutter tool console output<br />
   <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; [flutter_tools] Clarify missing UIScene Info.plist warning<br />
-  <sub>[#183679](https://github.com/flutter/flutter/pull/183679) opened on on March 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183679) 23 additions and 7 deletions in 2 files</sub><br />
-
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
 
@@ -87,7 +84,7 @@
   <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 169 additions and 1 deletion in 2 files</sub><br />
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix SIGSEGV in VSyncClient on ProMotion devices when engine shell is nil<br />
-  <sub>[#184639](https://github.com/flutter/flutter/pull/184639) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184639) 51 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#184639](https://github.com/flutter/flutter/pull/184639) opened on on April 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184639) 51 additions and 3 deletions in 4 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add swift strict concurrency attributes to iOS API - part 1<br />
   <sub>[#184703](https://github.com/flutter/flutter/pull/184703) opened on on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184703) 237 additions and 49 deletions in 14 files</sub><br />
@@ -165,19 +162,19 @@
   <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Rect constructors for circle bounds (MakeRectRadi*)<br />
-  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/185110) 108 additions and 57 deletions in 13 files</sub><br />
+  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/185110) 108 additions and 57 deletions in 13 files</sub><br />
 
 * **[Reinar](https://github.com/reinar)** &mdash; Impeller: Recreate Vulkan transients on surface size change<br />
   <sub>[#185122](https://github.com/flutter/flutter/pull/185122) opened on on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185122) 50 additions and 4 deletions in 3 files</sub><br />
 
 * **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; Add javaHeapSpaceHandler to handle Gradle build failures due to Java …<br />
-  <sub>[#185127](https://github.com/flutter/flutter/pull/185127) opened on on April 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185127) 54 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#185127](https://github.com/flutter/flutter/pull/185127) opened on on April 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185127) 58 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/predictive back event swipe edge out of bounds<br />
   <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185140) 325 additions and 8 deletions in 4 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add documentation for overarching tests in flutter, add skill to help agents figure out where tests go<br />
-  <sub>[#185148](https://github.com/flutter/flutter/pull/185148) opened on on April 16, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/185148) 118 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#185148](https://github.com/flutter/flutter/pull/185148) opened on on April 16, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/185148) 118 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Validate itemExtent with geometry in RenderSliverFixedExtentBoxAdaptor<br />
   <sub>[#185159](https://github.com/flutter/flutter/pull/185159) opened on on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185159) 144 additions and 0 deletions in 2 files</sub><br />
