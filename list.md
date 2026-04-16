@@ -962,7 +962,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-6 commits.
+7 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add AI top-level section and restructure existing AI docs
   <sub>[#13264](https://github.com/flutter/website/pull/13264) merged on April 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13264) over 3 days, 160 additions and 21 deletions in 26 files</sub>
@@ -971,6 +971,10 @@
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove deprecated flutter/samples from learning resource index
   <sub>[#13277](https://github.com/flutter/website/pull/13277) merged on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13277) over 2 hours, 0 additions and 107 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Update cupertino code example
+  <sub>[#13278](https://github.com/flutter/website/pull/13278) merged on April 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13278) over 7 hours, 7 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Emma Twersky](https://github.com/twerske), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add info hybrid APK signing
   <sub>[#13275](https://github.com/flutter/website/pull/13275) merged on April 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13275) over 1 day, 78 additions and 28 deletions in 1 file</sub>
