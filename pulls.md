@@ -152,6 +152,9 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update image deserial proc<br />
   <sub>[#185041](https://github.com/flutter/flutter/pull/185041) opened on on April 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185041) 11 additions and 11 deletions in 3 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; add the next batch for VPAT assessment<br />
+  <sub>[#185053](https://github.com/flutter/flutter/pull/185053) opened on on April 14, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/185053) 1077 additions and 45 deletions in 47 files</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the dev/bots/analyze.dart script, obtain the relevant set of paths from Git instead of crawling the filesystem<br />
   <sub>[#185058](https://github.com/flutter/flutter/pull/185058) opened on on April 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185058) 34 additions and 33 deletions in 1 file</sub><br />
 
@@ -162,7 +165,7 @@
   <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Rect constructors for circle bounds (MakeRectRadi*)<br />
-  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/185110) 176 additions and 57 deletions in 13 files</sub><br />
+  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/185110) 176 additions and 57 deletions in 13 files</sub><br />
 
 * **[Reinar](https://github.com/reinar)** &mdash; Impeller: Recreate Vulkan transients on surface size change<br />
   <sub>[#185122](https://github.com/flutter/flutter/pull/185122) opened on on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185122) 50 additions and 4 deletions in 3 files</sub><br />
