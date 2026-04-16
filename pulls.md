@@ -174,5 +174,8 @@
   <sub>[#185127](https://github.com/flutter/flutter/pull/185127) opened on on April 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185127) 54 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/predictive back event swipe edge out of bounds<br />
-  <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/185140) 169 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/185140) 325 additions and 8 deletions in 4 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate FlutterLaunchEngine to Swift<br />
+  <sub>[#185151](https://github.com/flutter/flutter/pull/185151) opened on on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185151) 93 additions and 123 deletions in 8 files</sub><br />
 
