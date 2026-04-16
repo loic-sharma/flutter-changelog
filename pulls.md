@@ -183,5 +183,5 @@
   <sub>[#185168](https://github.com/flutter/flutter/pull/185168) opened on on April 16, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185168) 225 additions and 320 deletions in 13 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script<br />
-  <sub>[#185170](https://github.com/flutter/flutter/pull/185170) opened on on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185170) 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#185170](https://github.com/flutter/flutter/pull/185170) opened on on April 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185170) 5 additions and 1 deletion in 1 file</sub><br />
 
