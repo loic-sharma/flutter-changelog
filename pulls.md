@@ -147,7 +147,7 @@
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 122 additions and 3 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds sdf rrects (and fixes opacity + color source)<br />
-  <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/184999) 213 additions and 35 deletions in 9 files</sub><br />
+  <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/184999) 231 additions and 53 deletions in 10 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
@@ -175,7 +175,4 @@
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/predictive back event swipe edge out of bounds<br />
   <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/185140) 325 additions and 8 deletions in 4 files</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate FlutterLaunchEngine to Swift<br />
-  <sub>[#185151](https://github.com/flutter/flutter/pull/185151) opened on on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185151) 93 additions and 123 deletions in 8 files</sub><br />
 
