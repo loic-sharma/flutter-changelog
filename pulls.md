@@ -179,9 +179,9 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Validate itemExtent with geometry in RenderSliverFixedExtentBoxAdaptor<br />
   <sub>[#185159](https://github.com/flutter/flutter/pull/185159) opened on on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185159) 144 additions and 0 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
-  <sub>[#185166](https://github.com/flutter/flutter/pull/185166) opened on on April 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185166) 5 additions and 0 deletions in 1 file</sub><br />
-
 * **[Rusino](https://github.com/Rusino)** &mdash; Removing TODOs from the WebParagraph code and addressing technical debts.<br />
   <sub>[#185168](https://github.com/flutter/flutter/pull/185168) opened on on April 16, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185168) 225 additions and 320 deletions in 13 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script<br />
+  <sub>[#185170](https://github.com/flutter/flutter/pull/185170) opened on on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185170) 5 additions and 1 deletion in 1 file</sub><br />
 
