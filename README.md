@@ -69,7 +69,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix ImageInfo.isCloneOf to correctly compare scale values (fixes #184626)<br />
-  <sub>[#184643](https://github.com/flutter/flutter/pull/184643) merged on April 16, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/184643) over 1 week, 29 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#184643](https://github.com/flutter/flutter/pull/184643) merged on April 16, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/184643) over 1 week, 29 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
@@ -848,7 +848,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-11 commits.
+12 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [pr-fix] Run all flutter/packages macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#10635](https://github.com/flutter/packages/pull/10635) merged on April 14, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/10635) over 3 months, 8 additions and 8 deletions in 4 files</sub><br />
@@ -861,6 +861,10 @@
 * **[Daiki Kajiwara](https://github.com/dkajiwara)** &mdash; [go_router] Fix pop() restoring stale configuration when route has onExit<br />
   <sub>[#11241](https://github.com/flutter/packages/pull/11241) merged on April 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11241) over 1 month, 94 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix various Java warnings<br />
+  <sub>[#11516](https://github.com/flutter/packages/pull/11516) merged on April 17, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/11516) over 1 day, 87 additions and 263 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [google_maps_flutter] Use super parameters in more places in examples<br />
   <sub>[#11517](https://github.com/flutter/packages/pull/11517) merged on April 16, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/11517) over 1 day, 235 additions and 338 deletions in 133 files</sub><br />
