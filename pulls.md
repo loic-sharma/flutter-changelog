@@ -161,7 +161,7 @@
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; Fix: activateSystemCursor should set cursor on all views<br />
   <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Rect constructors for circle bounds (MakeRectRadi*)<br />
+* **[Jim Graham](https://github.com/flar)** &mdash; Rect constructors for circle bounds (MakeCircle/EllipseBounds)<br />
   <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/185110) 176 additions and 57 deletions in 13 files</sub><br />
 
 * **[Reinar](https://github.com/reinar)** &mdash; Impeller: Recreate Vulkan transients on surface size change<br />
