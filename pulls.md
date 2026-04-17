@@ -174,7 +174,7 @@
   <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185140) 325 additions and 8 deletions in 4 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add documentation for overarching tests in flutter, add skill to help agents figure out where tests go<br />
-  <sub>[#185148](https://github.com/flutter/flutter/pull/185148) opened on on April 16, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/185148) 118 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#185148](https://github.com/flutter/flutter/pull/185148) opened on on April 16, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/185148) 118 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script<br />
   <sub>[#185170](https://github.com/flutter/flutter/pull/185170) opened on on April 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185170) 5 additions and 1 deletion in 1 file</sub><br />
@@ -184,4 +184,7 @@
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 4<br />
   <sub>[#185187](https://github.com/flutter/flutter/pull/185187) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185187) 125 additions and 0 deletions in 10 files</sub><br />
+
+* **[Nicodemus Lin](https://github.com/nicolinx)** &mdash; Fix: stop auto-scrolling during selection handle drag<br />
+  <sub>[#185206](https://github.com/flutter/flutter/pull/185206) opened on on April 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185206) 54 additions and 1 deletion in 2 files</sub><br />
 
