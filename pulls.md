@@ -176,6 +176,9 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add documentation for overarching tests in flutter, add skill to help agents figure out where tests go<br />
   <sub>[#185148](https://github.com/flutter/flutter/pull/185148) opened on on April 16, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/185148) 118 additions and 0 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Only use LLDB breakpoint in debug mode<br />
+  <sub>[#185158](https://github.com/flutter/flutter/pull/185158) opened on on April 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185158) 112 additions and 7 deletions in 7 files</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script<br />
   <sub>[#185170](https://github.com/flutter/flutter/pull/185170) opened on on April 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185170) 5 additions and 1 deletion in 1 file</sub><br />
 
@@ -187,4 +190,7 @@
 
 * **[Nicodemus Lin](https://github.com/nicolinx)** &mdash; Fix: stop auto-scrolling during selection handle drag<br />
   <sub>[#185206](https://github.com/flutter/flutter/pull/185206) opened on on April 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185206) 54 additions and 1 deletion in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [SwiftPM] Enable package resolution on xcodebuild commands<br />
+  <sub>[#185208](https://github.com/flutter/flutter/pull/185208) opened on on April 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185208) 0 additions and 12 deletions in 2 files</sub><br />
 
