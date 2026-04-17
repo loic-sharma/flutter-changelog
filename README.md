@@ -94,7 +94,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; add playground to test SDF primitive rendering under transforms<br />
-  <sub>[#185010](https://github.com/flutter/flutter/pull/185010) merged on April 17, 2026 &mdash; **Small:** [85 comments](https://github.com/flutter/flutter/pull/185010) over 3 days, 242 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#185010](https://github.com/flutter/flutter/pull/185010) merged on April 17, 2026 &mdash; **Small:** [86 comments](https://github.com/flutter/flutter/pull/185010) over 3 days, 242 additions and 0 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimationStyle` methods<br />
@@ -880,7 +880,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_fluter] Switch to Kotlin Pigeon<br />
-  <sub>[#11522](https://github.com/flutter/packages/pull/11522) merged on April 17, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/11522) over 4 hours, 6485 additions and 10844 deletions in 35 files</sub><br />
+  <sub>[#11522](https://github.com/flutter/packages/pull/11522) merged on April 17, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/11522) over 4 hours, 6485 additions and 10844 deletions in 35 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix various Java warnings<br />
