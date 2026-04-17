@@ -146,9 +146,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update image deserial proc<br />
-  <sub>[#185041](https://github.com/flutter/flutter/pull/185041) opened on on April 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185041) 11 additions and 11 deletions in 3 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; add the next batch for VPAT assessment<br />
   <sub>[#185053](https://github.com/flutter/flutter/pull/185053) opened on on April 14, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185053) 1078 additions and 45 deletions in 47 files</sub><br />
 
@@ -177,7 +174,7 @@
   <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185140) 325 additions and 8 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Only use LLDB breakpoint in debug mode<br />
-  <sub>[#185158](https://github.com/flutter/flutter/pull/185158) opened on on April 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185158) 112 additions and 7 deletions in 7 files</sub><br />
+  <sub>[#185158](https://github.com/flutter/flutter/pull/185158) opened on on April 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185158) 112 additions and 7 deletions in 7 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script<br />
   <sub>[#185170](https://github.com/flutter/flutter/pull/185170) opened on on April 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185170) 5 additions and 1 deletion in 1 file</sub><br />
