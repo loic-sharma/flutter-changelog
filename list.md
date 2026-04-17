@@ -94,7 +94,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Widget Preview] Fix flaky integration test timeout during flutter clean
-  <sub>[#184991](https://github.com/flutter/flutter/pull/184991) merged on April 16, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184991) over 3 days, 95 additions and 55 deletions in 5 files</sub>
+  <sub>[#184991](https://github.com/flutter/flutter/pull/184991) merged on April 16, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184991) over 3 days, 95 additions and 55 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Hold startup lock until after `pub get` to prevent races

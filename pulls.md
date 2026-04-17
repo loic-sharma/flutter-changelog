@@ -191,3 +191,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [SwiftPM] Enable package resolution on xcodebuild commands<br />
   <sub>[#185208](https://github.com/flutter/flutter/pull/185208) opened on on April 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185208) 19 additions and 27 deletions in 8 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix background git fetch hanging silently when asking for an SSH passphrase<br />
+  <sub>[#185219](https://github.com/flutter/flutter/pull/185219) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185219) 39 additions and 18 deletions in 6 files</sub><br />
+
