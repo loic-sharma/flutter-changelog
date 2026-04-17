@@ -182,9 +182,6 @@
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; fix: --no-hot flag should trigger hot restart instead of being ignored<br />
   <sub>[#185181](https://github.com/flutter/flutter/pull/185181) opened on on April 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185181) 21 additions and 1 deletion in 6 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "Unpin sdk package dependencies"<br />
-  <sub>[#185186](https://github.com/flutter/flutter/pull/185186) opened on on April 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185186) 30 additions and 33 deletions in 4 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 4<br />
   <sub>[#185187](https://github.com/flutter/flutter/pull/185187) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185187) 125 additions and 0 deletions in 10 files</sub><br />
 
