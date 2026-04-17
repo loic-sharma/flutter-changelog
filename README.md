@@ -73,7 +73,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix ImageInfo.isCloneOf to correctly compare scale values (fixes #184626)<br />
-  <sub>[#184643](https://github.com/flutter/flutter/pull/184643) merged on April 16, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/184643) over 1 week, 29 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#184643](https://github.com/flutter/flutter/pull/184643) merged on April 16, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/184643) over 1 week, 29 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
@@ -112,6 +112,10 @@
   <sub>[#182333](https://github.com/flutter/flutter/pull/182333) merged on April 17, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/182333) over 2 months, 131 additions and 10 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate FlutterLaunchEngine to Swift<br />
+  <sub>[#185151](https://github.com/flutter/flutter/pull/185151) merged on April 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185151) over 16 hours, 92 additions and 123 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix an ordering dependency in the services/system_chrome_test.dart test suite<br />
   <sub>[#185086](https://github.com/flutter/flutter/pull/185086) merged on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185086) over 51 minutes, 5 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -143,10 +147,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Update previousCompositionOrder to return Obj-C type<br />
   <sub>[#185136](https://github.com/flutter/flutter/pull/185136) merged on April 17, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/185136) over 1 day, 17 additions and 14 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate FlutterLaunchEngine to Swift<br />
-  <sub>[#185151](https://github.com/flutter/flutter/pull/185151) merged on April 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185151) over 16 hours, 92 additions and 123 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Validate itemExtent with geometry in RenderSliverFixedExtentBoxAdaptor<br />
   <sub>[#185159](https://github.com/flutter/flutter/pull/185159) merged on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185159) over 5 hours, 144 additions and 0 deletions in 2 files</sub><br />
@@ -1048,7 +1048,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-9 commits.
+10 commits.
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add AI top-level section and restructure existing AI docs<br />
   <sub>[#13264](https://github.com/flutter/website/pull/13264) merged on April 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13264) over 3 days, 160 additions and 21 deletions in 26 files</sub><br />
@@ -1056,6 +1056,10 @@
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove deprecated flutter/samples from learning resource index<br />
   <sub>[#13277](https://github.com/flutter/website/pull/13277) merged on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13277) over 2 hours, 0 additions and 107 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[David Bebawy](https://github.com/dbebawy)** &mdash; Add go link redirect for /go/soft-hyphens<br />
+  <sub>[#13282](https://github.com/flutter/website/pull/13282) merged on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13282) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Chris Ray Gill](https://github.com/chrisraygill)** &mdash; Add Genkit Dart to AI documentation<br />
