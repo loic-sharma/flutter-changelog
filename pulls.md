@@ -185,6 +185,3 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 4<br />
   <sub>[#185187](https://github.com/flutter/flutter/pull/185187) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185187) 125 additions and 0 deletions in 10 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Improve LaunchEngine implementation/API/docs<br />
-  <sub>[#185200](https://github.com/flutter/flutter/pull/185200) opened on on April 17, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185200) 74 additions and 32 deletions in 3 files</sub><br />
-
