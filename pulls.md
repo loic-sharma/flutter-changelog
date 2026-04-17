@@ -140,9 +140,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels<br />
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 122 additions and 3 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds sdf rrects (and fixes opacity + color source)<br />
-  <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Extra large:** [52 comments](https://github.com/flutter/flutter/pull/184999) 30435 additions and 72 deletions in 10 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
 
@@ -159,7 +156,7 @@
   <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add ability to pass flags to `et run`<br />
-  <sub>[#185109](https://github.com/flutter/flutter/pull/185109) opened on on April 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185109) 50 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185109](https://github.com/flutter/flutter/pull/185109) opened on on April 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185109) 58 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Rect constructors for circle bounds (MakeCircle/EllipseBounds)<br />
   <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/185110) 176 additions and 57 deletions in 13 files</sub><br />
