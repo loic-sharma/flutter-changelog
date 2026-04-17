@@ -852,7 +852,7 @@
 
 ### April 11, 2026 to April 17, 2026
 
-12 commits.
+13 commits.
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [pr-fix] Run all flutter/packages macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#10635](https://github.com/flutter/packages/pull/10635) merged on April 14, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/10635) over 3 months, 8 additions and 8 deletions in 4 files</sub><br />
@@ -897,6 +897,10 @@
 * **[Ludwig Bolling](https://github.com/Bolling88)** &mdash; [camera_platform_interface] Add setJpegImageQuality method<br />
   <sub>[#11454](https://github.com/flutter/packages/pull/11454) merged on April 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11454) over 1 week, 53 additions and 2 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from db50e20168db to cc0734ac716f (8 revisions)<br />
+  <sub>[#11525](https://github.com/flutter/packages/pull/11525) merged on April 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11525) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-go_router to main<br />
   <sub>[#11499](https://github.com/flutter/packages/pull/11499) merged on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11499) over 2 hours, 6 additions and 5 deletions in 3 files</sub><br />
