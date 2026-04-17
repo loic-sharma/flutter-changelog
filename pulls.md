@@ -188,3 +188,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix background git fetch hanging silently when asking for an SSH passphrase<br />
   <sub>[#185219](https://github.com/flutter/flutter/pull/185219) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185219) 39 additions and 18 deletions in 6 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Testing autosubmit bot -- updating testowners<br />
+  <sub>[#185226](https://github.com/flutter/flutter/pull/185226) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185226) 1 addition and 1 deletion in 1 file</sub><br />
+
