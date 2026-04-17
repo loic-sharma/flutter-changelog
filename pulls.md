@@ -141,7 +141,7 @@
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 122 additions and 3 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds sdf rrects (and fixes opacity + color source)<br />
-  <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Extra large:** [45 comments](https://github.com/flutter/flutter/pull/184999) 30435 additions and 72 deletions in 10 files</sub><br />
+  <sub>[#184999](https://github.com/flutter/flutter/pull/184999) opened on on April 13, 2026 &mdash; **Extra large:** [46 comments](https://github.com/flutter/flutter/pull/184999) 30435 additions and 72 deletions in 10 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
@@ -176,12 +176,12 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add documentation for overarching tests in flutter, add skill to help agents figure out where tests go<br />
   <sub>[#185148](https://github.com/flutter/flutter/pull/185148) opened on on April 16, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/185148) 118 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Validate itemExtent with geometry in RenderSliverFixedExtentBoxAdaptor<br />
-  <sub>[#185159](https://github.com/flutter/flutter/pull/185159) opened on on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185159) 144 additions and 0 deletions in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script<br />
   <sub>[#185170](https://github.com/flutter/flutter/pull/185170) opened on on April 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185170) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; fix: --no-hot flag should trigger hot restart instead of being ignored<br />
   <sub>[#185181](https://github.com/flutter/flutter/pull/185181) opened on on April 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185181) 21 additions and 1 deletion in 6 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "Unpin sdk package dependencies"<br />
+  <sub>[#185186](https://github.com/flutter/flutter/pull/185186) opened on on April 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185186) 30 additions and 33 deletions in 4 files</sub><br />
 
