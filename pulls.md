@@ -200,3 +200,9 @@
 * **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material import from default_text_editing_shortcuts_test<br />
   <sub>[#185241](https://github.com/flutter/flutter/pull/185241) opened on on April 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185241) 18 additions and 15 deletions in 2 files</sub><br />
 
+* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove Material from Live Text test in editable_text_test<br />
+  <sub>[#185242](https://github.com/flutter/flutter/pull/185242) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185242) 5 additions and 7 deletions in 1 file</sub><br />
+
+* **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
+  <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
+
