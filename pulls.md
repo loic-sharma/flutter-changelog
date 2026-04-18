@@ -155,9 +155,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add ability to pass flags to `et run`<br />
   <sub>[#185109](https://github.com/flutter/flutter/pull/185109) opened on on April 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185109) 58 additions and 2 deletions in 2 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Rect constructors for circle bounds (MakeCircle/EllipseBounds)<br />
-  <sub>[#185110](https://github.com/flutter/flutter/pull/185110) opened on on April 15, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/185110) 178 additions and 64 deletions in 15 files</sub><br />
-
 * **[Reinar](https://github.com/reinar)** &mdash; Impeller: Recreate Vulkan transients on surface size change<br />
   <sub>[#185122](https://github.com/flutter/flutter/pull/185122) opened on on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185122) 50 additions and 4 deletions in 3 files</sub><br />
 
