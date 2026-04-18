@@ -191,3 +191,9 @@
 * **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unused material.dart import from force_press_test.dart<br />
   <sub>[#185236](https://github.com/flutter/flutter/pull/185236) opened on on April 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185236) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material import from editable_text_scribe_test<br />
+  <sub>[#185238](https://github.com/flutter/flutter/pull/185238) opened on on April 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185238) 6 additions and 4 deletions in 1 file</sub><br />
+
+* **[Anas Saifi](https://github.com/anazr9)** &mdash; Fix multiline EditableText selection highlighting width<br />
+  <sub>[#185239](https://github.com/flutter/flutter/pull/185239) opened on on April 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185239) 70 additions and 1 deletion in 2 files</sub><br />
+
