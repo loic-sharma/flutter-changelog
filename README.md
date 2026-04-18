@@ -1089,7 +1089,11 @@
 
 ### April 11, 2026 to April 17, 2026
 
-10 commits.
+11 commits.
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update FWE tutorial snippets Pt 3<br />
+  <sub>[#13271](https://github.com/flutter/website/pull/13271) merged on April 18, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/website/pull/13271) over 4 days, 2606 additions and 251 deletions in 34 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add AI top-level section and restructure existing AI docs<br />
   <sub>[#13264](https://github.com/flutter/website/pull/13264) merged on April 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13264) over 3 days, 160 additions and 21 deletions in 26 files</sub><br />
