@@ -210,5 +210,5 @@
   <sub>[#185245](https://github.com/flutter/flutter/pull/185245) opened on on April 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185245) 22 additions and 2 deletions in 7 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update TickerMode.getValuesNotifier to handle initialization during State.dispose<br />
-  <sub>[#185248](https://github.com/flutter/flutter/pull/185248) opened on on April 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185248) 73 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185248](https://github.com/flutter/flutter/pull/185248) opened on on April 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185248) 73 additions and 2 deletions in 2 files</sub><br />
 
