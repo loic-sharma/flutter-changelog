@@ -212,3 +212,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update TickerMode.getValuesNotifier to handle initialization during State.dispose<br />
   <sub>[#185248](https://github.com/flutter/flutter/pull/185248) opened on on April 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185248) 73 additions and 2 deletions in 2 files</sub><br />
 
+* **[spandan3001](https://github.com/spandan3001)** &mdash; Remove semantics_tester cross-import from segmented_button_test.dart<br />
+  <sub>[#185250](https://github.com/flutter/flutter/pull/185250) opened on on April 18, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/185250) 1327 additions and 1 deletion in 2 files</sub><br />
+
