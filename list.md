@@ -82,7 +82,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix ImageInfo.isCloneOf to correctly compare scale values (fixes #184626)
-  <sub>[#184643](https://github.com/flutter/flutter/pull/184643) merged on April 16, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/184643) over 1 week, 29 additions and 1 deletion in 2 files</sub>
+  <sub>[#184643](https://github.com/flutter/flutter/pull/184643) merged on April 16, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/184643) over 1 week, 29 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator
