@@ -1089,7 +1089,11 @@
 
 ### April 11, 2026 to April 17, 2026
 
-11 commits.
+12 commits.
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples (pt2 of 3) - Resubmission<br />
+  <sub>[#13196](https://github.com/flutter/website/pull/13196) merged on April 18, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/website/pull/13196) over 1 month, 1324 additions and 236 deletions in 29 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update FWE tutorial snippets Pt 3<br />
   <sub>[#13271](https://github.com/flutter/website/pull/13271) merged on April 18, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/website/pull/13271) over 4 days, 2606 additions and 251 deletions in 34 files</sub><br />
