@@ -195,5 +195,8 @@
   <sub>[#185238](https://github.com/flutter/flutter/pull/185238) opened on on April 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185238) 6 additions and 4 deletions in 1 file</sub><br />
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Fix multiline EditableText selection highlighting width<br />
-  <sub>[#185239](https://github.com/flutter/flutter/pull/185239) opened on on April 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185239) 70 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#185239](https://github.com/flutter/flutter/pull/185239) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185239) 86 additions and 2 deletions in 2 files</sub><br />
+
+* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material import from default_text_editing_shortcuts_test<br />
+  <sub>[#185241](https://github.com/flutter/flutter/pull/185241) opened on on April 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185241) 18 additions and 15 deletions in 2 files</sub><br />
 
