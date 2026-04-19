@@ -222,5 +222,5 @@
   <sub>[#185260](https://github.com/flutter/flutter/pull/185260) opened on on April 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185260) 0 additions and 18 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make key mapping code match existing embedder style<br />
-  <sub>[#185261](https://github.com/flutter/flutter/pull/185261) opened on on April 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185261) 47 additions and 67 deletions in 13 files</sub><br />
+  <sub>[#185261](https://github.com/flutter/flutter/pull/185261) opened on on April 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185261) 47 additions and 67 deletions in 13 files</sub><br />
 
