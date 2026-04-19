@@ -216,5 +216,5 @@
   <sub>[#185250](https://github.com/flutter/flutter/pull/185250) opened on on April 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185250) 1327 additions and 1 deletion in 2 files</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix ImageInfo.isCloneOf tests by moving async work to setUp<br />
-  <sub>[#185254](https://github.com/flutter/flutter/pull/185254) opened on on April 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185254) 29 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#185254](https://github.com/flutter/flutter/pull/185254) opened on on April 19, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/185254) 29 additions and 1 deletion in 2 files</sub><br />
 
