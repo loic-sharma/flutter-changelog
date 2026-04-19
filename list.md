@@ -53,13 +53,13 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [Jim Graham](https://github.com/flar)</sub>
   <sub><details><summary>3 images...</summary><img width="208" height="210" alt="image" src="https://github.com/user-attachments/assets/25dc26b1-6c05-46a3-a0e9-ce9be06e5ae1" /><img width="208" height="206" alt="image" src="https://github.com/user-attachments/assets/6500d0fd-3f64-4970-9974-ef1a2a6b4468" /><img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/eeaa5037-682a-452d-b0a5-8f7f287b63a3" /></details></sub>
 
-* **[Anurag Devanapally](https://github.com/andeart)** &mdash; Add `--include-example` flag to `flutter clean` for package example projects
-  <sub>[#183455](https://github.com/flutter/flutter/pull/183455) merged on April 14, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/183455) over 1 month, 155 additions and 9 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; [iOS] Clarify provisioning profile error instructions
   <sub>[#184051](https://github.com/flutter/flutter/pull/184051) merged on April 16, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/184051) over 3 weeks, 27 additions and 27 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
+
+* **[Anurag Devanapally](https://github.com/andeart)** &mdash; Add `--include-example` flag to `flutter clean` for package example projects
+  <sub>[#183455](https://github.com/flutter/flutter/pull/183455) merged on April 14, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/183455) over 1 month, 155 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make `multiple_windows` follow repo analyzer rules
   <sub>[#184753](https://github.com/flutter/flutter/pull/184753) merged on April 14, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/184753) over 6 days, 227 additions and 455 deletions in 18 files</sub>
