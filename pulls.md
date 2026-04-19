@@ -177,7 +177,7 @@
   <sub>[#185187](https://github.com/flutter/flutter/pull/185187) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185187) 125 additions and 0 deletions in 10 files</sub><br />
 
 * **[Nicodemus Lin](https://github.com/nicolinx)** &mdash; Fix: stop auto-scrolling during selection handle drag<br />
-  <sub>[#185206](https://github.com/flutter/flutter/pull/185206) opened on on April 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185206) 55 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#185206](https://github.com/flutter/flutter/pull/185206) opened on on April 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185206) 55 additions and 1 deletion in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [SwiftPM] Enable package resolution on xcodebuild commands<br />
   <sub>[#185208](https://github.com/flutter/flutter/pull/185208) opened on on April 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185208) 19 additions and 27 deletions in 8 files</sub><br />
