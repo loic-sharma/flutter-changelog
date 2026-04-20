@@ -778,7 +778,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-4 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add fwe excerpt projects to examples workspace and fix lints<br />
   <sub>[#13290](https://github.com/flutter/website/pull/13290) merged on April 20, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/website/pull/13290) over 1 day, 190 additions and 270 deletions in 57 files</sub><br />
@@ -791,6 +791,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [fwe] Clarify adding of first import in widget-fundamentals<br />
   <sub>[#13293](https://github.com/flutter/website/pull/13293) merged on April 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13293) over 1 day, 11 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the genui docs to match the current version<br />
+  <sub>[#13280](https://github.com/flutter/website/pull/13280) merged on April 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13280) over 4 days, 80 additions and 43 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add timeline for breaking changes in raw-menu-anchor-close-order<br />
   <sub>[#13287](https://github.com/flutter/website/pull/13287) merged on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13287) over 2 days, 5 additions and 0 deletions in 1 file</sub><br />

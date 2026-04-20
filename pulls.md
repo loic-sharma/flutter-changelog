@@ -95,9 +95,6 @@
 * **[Alejandro Castillo](https://github.com/alejandro-all-win-software)** &mdash; Use null-aware elements in dev/devicelab/lib/framework/browser.dart<br />
   <sub>[#184778](https://github.com/flutter/flutter/pull/184778) opened on on April 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184778) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove feedback_tester cross-import from calendar_date_picker_test<br />
-  <sub>[#184802](https://github.com/flutter/flutter/pull/184802) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184802) 47 additions and 3 deletions in 1 file</sub><br />
-
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from cupertino/slider_test.dart<br />
   <sub>[#184805](https://github.com/flutter/flutter/pull/184805) opened on on April 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184805) 13 additions and 31 deletions in 1 file</sub><br />
 
@@ -229,4 +226,7 @@
 
 * **[John Eismeier](https://github.com/jeis4wpi)** &mdash; Propose fix typos<br />
   <sub>[#185294](https://github.com/flutter/flutter/pull/185294) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185294) 16 additions and 16 deletions in 10 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][Widget Preview] Fix flaky integration test timeout during flutter clean (#184991)<br />
+  <sub>[#185300](https://github.com/flutter/flutter/pull/185300) opened on on April 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185300) 57 additions and 13 deletions in 5 files</sub><br />
 
