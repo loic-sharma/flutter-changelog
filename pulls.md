@@ -26,6 +26,9 @@
 * **[Aman Kumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update libimobiledevice and dependencies<br />
+  <sub>[#181932](https://github.com/flutter/flutter/pull/181932) opened on on February 5, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181932) 97 additions and 7 deletions in 7 files</sub><br />
+
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
@@ -149,9 +152,6 @@
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; fix: --no-hot flag should trigger hot restart instead of being ignored<br />
   <sub>[#185181](https://github.com/flutter/flutter/pull/185181) opened on on April 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185181) 21 additions and 1 deletion in 6 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix race condition in modifying release manifest.<br />
-  <sub>[#185185](https://github.com/flutter/flutter/pull/185185) opened on on April 17, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/185185) 534 additions and 142 deletions in 5 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 4<br />
   <sub>[#185187](https://github.com/flutter/flutter/pull/185187) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185187) 125 additions and 0 deletions in 10 files</sub><br />
 
@@ -214,4 +214,7 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add CONTENT_CHANGE_TYPE_EXPANDED support on android.<br />
   <sub>[#185305](https://github.com/flutter/flutter/pull/185305) opened on on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185305) 103 additions and 2 deletions in 2 files</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Add font fallback service<br />
+  <sub>[#185314](https://github.com/flutter/flutter/pull/185314) opened on on April 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/185314) 1131 additions and 551 deletions in 21 files</sub><br />
 
