@@ -631,9 +631,18 @@
 
 ## flutter/packages
 
+### April 18, 2026 to April 24, 2026
+
+1 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Support custom types
+  <sub>[#11068](https://github.com/flutter/packages/pull/11068) merged on April 20, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/11068) over 2 months, 332 additions and 25 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
 ### April 11, 2026 to April 17, 2026
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [pr-fix] Run all flutter/packages macOS tests using Xcode 26 and iOS 26 simulator
   <sub>[#10635](https://github.com/flutter/packages/pull/10635) merged on April 14, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/10635) over 3 months, 8 additions and 8 deletions in 4 files</sub>
@@ -690,6 +699,8 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-go_router to main
   <sub>[#11499](https://github.com/flutter/packages/pull/11499) merged on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11499) over 2 hours, 6 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+</details>
 
 ### April 4, 2026 to April 10, 2026
 
@@ -763,7 +774,19 @@
 
 ### April 18, 2026 to April 24, 2026
 
-1 commits.
+4 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add fwe excerpt projects to examples workspace and fix lints
+  <sub>[#13290](https://github.com/flutter/website/pull/13290) merged on April 20, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/website/pull/13290) over 1 day, 190 additions and 270 deletions in 57 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Highlight relevant lines per step in listenable-builder lesson
+  <sub>[#13291](https://github.com/flutter/website/pull/13291) merged on April 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13291) over 1 day, 11 additions and 11 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [fwe] Clarify adding of first import in widget-fundamentals
+  <sub>[#13293](https://github.com/flutter/website/pull/13293) merged on April 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13293) over 1 day, 11 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add timeline for breaking changes in raw-menu-anchor-close-order
   <sub>[#13287](https://github.com/flutter/website/pull/13287) merged on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13287) over 2 days, 5 additions and 0 deletions in 1 file</sub>
