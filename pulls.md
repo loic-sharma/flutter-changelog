@@ -204,7 +204,7 @@
   <sub>[#185242](https://github.com/flutter/flutter/pull/185242) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185242) 5 additions and 8 deletions in 2 files</sub><br />
 
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
-  <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
+  <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
 
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix: --no-hot flag should trigger hot restart instead of being ignored<br />
   <sub>[#185245](https://github.com/flutter/flutter/pull/185245) opened on on April 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185245) 22 additions and 2 deletions in 7 files</sub><br />
