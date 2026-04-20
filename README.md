@@ -641,11 +641,15 @@
 
 ### April 18, 2026 to April 24, 2026
 
-1 commits.
+2 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Support custom types<br />
   <sub>[#11068](https://github.com/flutter/packages/pull/11068) merged on April 20, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/11068) over 2 months, 332 additions and 25 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-go_router to main<br />
+  <sub>[#11545](https://github.com/flutter/packages/pull/11545) merged on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11545) over 44 minutes, 5 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 ### April 11, 2026 to April 17, 2026
 
@@ -782,7 +786,11 @@
 
 ### April 18, 2026 to April 24, 2026
 
-6 commits.
+7 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a page on building a custom extension for DevTools<br />
+  <sub>[#13288](https://github.com/flutter/website/pull/13288) merged on April 20, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/website/pull/13288) over 2 days, 511 additions and 9 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Jaspr for latest fixes and CLI improvements<br />
   <sub>[#13285](https://github.com/flutter/website/pull/13285) merged on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13285) over 2 days, 7 additions and 7 deletions in 2 files</sub><br />
