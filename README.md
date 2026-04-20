@@ -4,19 +4,23 @@
 
 ### April 18, 2026 to April 24, 2026
 
-3 commits.
+4 commits.
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Run build hooks and link hooks in separate targets<br />
   <sub>[#184880](https://github.com/flutter/flutter/pull/184880) merged on April 20, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/184880) over 1 week, 737 additions and 275 deletions in 23 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Move widget_preview_scaffold into pub workspace<br />
+  <sub>[#185176](https://github.com/flutter/flutter/pull/185176) merged on April 20, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/185176) over 3 days, 243 additions and 80 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; feat: add reloadIsRestart to handle hot reload as a restart for web #179448<br />
   <sub>[#183233](https://github.com/flutter/flutter/pull/183233) merged on April 20, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/183233) over 1 month, 43 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Move widget_preview_scaffold into pub workspace<br />
-  <sub>[#185176](https://github.com/flutter/flutter/pull/185176) merged on April 20, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/185176) over 3 days, 243 additions and 80 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script<br />
+  <sub>[#185170](https://github.com/flutter/flutter/pull/185170) merged on April 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185170) over 3 days, 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 ### April 11, 2026 to April 17, 2026
 

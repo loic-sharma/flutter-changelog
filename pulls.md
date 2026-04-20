@@ -141,7 +141,7 @@
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; add the next batch for VPAT assessment<br />
-  <sub>[#185053](https://github.com/flutter/flutter/pull/185053) opened on on April 14, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185053) 1095 additions and 55 deletions in 48 files</sub><br />
+  <sub>[#185053](https://github.com/flutter/flutter/pull/185053) opened on on April 14, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185053) 1079 additions and 55 deletions in 48 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the dev/bots/analyze.dart script, obtain the relevant set of paths from Git instead of crawling the filesystem<br />
   <sub>[#185058](https://github.com/flutter/flutter/pull/185058) opened on on April 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185058) 34 additions and 33 deletions in 1 file</sub><br />
@@ -163,9 +163,6 @@
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/predictive back event swipe edge out of bounds<br />
   <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185140) 325 additions and 8 deletions in 4 files</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script<br />
-  <sub>[#185170](https://github.com/flutter/flutter/pull/185170) opened on on April 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185170) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; fix: --no-hot flag should trigger hot restart instead of being ignored<br />
   <sub>[#185181](https://github.com/flutter/flutter/pull/185181) opened on on April 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185181) 21 additions and 1 deletion in 6 files</sub><br />
