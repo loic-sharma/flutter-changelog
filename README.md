@@ -4,7 +4,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-4 commits.
+5 commits.
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Run build hooks and link hooks in separate targets<br />
   <sub>[#184880](https://github.com/flutter/flutter/pull/184880) merged on April 20, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/184880) over 1 week, 737 additions and 275 deletions in 23 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script<br />
   <sub>[#185170](https://github.com/flutter/flutter/pull/185170) merged on April 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185170) over 3 days, 5 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Regenerate pubspec.lock<br />
+  <sub>[#185290](https://github.com/flutter/flutter/pull/185290) merged on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185290) over 1 minute, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 ### April 11, 2026 to April 17, 2026
 
@@ -778,7 +782,11 @@
 
 ### April 18, 2026 to April 24, 2026
 
-5 commits.
+6 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Jaspr for latest fixes and CLI improvements<br />
+  <sub>[#13285](https://github.com/flutter/website/pull/13285) merged on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13285) over 2 days, 7 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add fwe excerpt projects to examples workspace and fix lints<br />
   <sub>[#13290](https://github.com/flutter/website/pull/13290) merged on April 20, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/website/pull/13290) over 1 day, 190 additions and 270 deletions in 57 files</sub><br />

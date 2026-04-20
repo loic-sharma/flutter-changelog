@@ -129,7 +129,7 @@
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184956) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
-  <sub>[#184994](https://github.com/flutter/flutter/pull/184994) opened on on April 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184994) 27 additions and 1826 deletions in 24 files</sub><br />
+  <sub>[#184994](https://github.com/flutter/flutter/pull/184994) opened on on April 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184994) 27 additions and 1835 deletions in 25 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels<br />
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 122 additions and 3 deletions in 2 files</sub><br />
@@ -229,4 +229,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][Widget Preview] Fix flaky integration test timeout during flutter clean (#184991)<br />
   <sub>[#185300](https://github.com/flutter/flutter/pull/185300) opened on on April 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185300) 57 additions and 13 deletions in 5 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Avoid use of direct string injection in GitHub Workflow "run" steps.<br />
+  <sub>[#185301](https://github.com/flutter/flutter/pull/185301) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185301) 95 additions and 66 deletions in 8 files</sub><br />
 
