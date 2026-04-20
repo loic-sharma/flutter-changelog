@@ -742,9 +742,18 @@
 
 ## flutter/website
 
+### April 18, 2026 to April 24, 2026
+
+1 commits.
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Add timeline for breaking changes in raw-menu-anchor-close-order<br />
+  <sub>[#13287](https://github.com/flutter/website/pull/13287) merged on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13287) over 2 days, 5 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### April 11, 2026 to April 17, 2026
 
-12 commits.
+<details>
+<summary>12 commits...</summary>
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples (pt2 of 3) - Resubmission<br />
   <sub>[#13196](https://github.com/flutter/website/pull/13196) merged on April 18, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/website/pull/13196) over 1 month, 1324 additions and 236 deletions in 29 files</sub><br />
@@ -793,6 +802,8 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add release notes for DevTools 2.57.0<br />
   <sub>[#13262](https://github.com/flutter/website/pull/13262) merged on April 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13262) over 3 days, 30 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### April 4, 2026 to April 10, 2026
 
