@@ -218,9 +218,6 @@
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix ImageInfo.isCloneOf tests by moving async work to setUp<br />
   <sub>[#185254](https://github.com/flutter/flutter/pull/185254) opened on on April 19, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/185254) 29 additions and 1 deletion in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused private header<br />
-  <sub>[#185260](https://github.com/flutter/flutter/pull/185260) opened on on April 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185260) 0 additions and 18 deletions in 3 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make key mapping code match existing embedder style<br />
   <sub>[#185261](https://github.com/flutter/flutter/pull/185261) opened on on April 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185261) 47 additions and 67 deletions in 13 files</sub><br />
 
