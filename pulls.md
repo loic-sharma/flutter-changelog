@@ -128,9 +128,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the dev/bots/analyze.dart script, obtain the relevant set of paths from Git instead of crawling the filesystem<br />
-  <sub>[#185058](https://github.com/flutter/flutter/pull/185058) opened on on April 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185058) 34 additions and 33 deletions in 1 file</sub><br />
-
 * **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from Widget tests <br />
   <sub>[#185078](https://github.com/flutter/flutter/pull/185078) opened on on April 15, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/185078) 3094 additions and 1872 deletions in 25 files</sub><br />
 
