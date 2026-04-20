@@ -224,6 +224,9 @@
 * **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material imports from non-Material tests in flutter package<br />
   <sub>[#185271](https://github.com/flutter/flutter/pull/185271) opened on on April 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185271) 33 additions and 35 deletions in 10 files</sub><br />
 
+* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix focus violation when canRequestFocus set to false for all siblings in same build<br />
+  <sub>[#185280](https://github.com/flutter/flutter/pull/185280) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185280) 248 additions and 3 deletions in 3 files</sub><br />
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 8<br />
   <sub>[#185282](https://github.com/flutter/flutter/pull/185282) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185282) 224 additions and 37 deletions in 8 files</sub><br />
 

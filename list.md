@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 18, 2026 to April 24, 2026
+
+1 commits.
+
+* **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; feat: add reloadIsRestart to handle hot reload as a restart for web #179448
+  <sub>[#183233](https://github.com/flutter/flutter/pull/183233) merged on April 20, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/183233) over 1 month, 43 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 ### April 11, 2026 to April 17, 2026
 
-72 commits.
+<details>
+<summary>72 commits...</summary>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Unpin sdk package dependencies
   <sub>[#184821](https://github.com/flutter/flutter/pull/184821) merged on April 16, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184821) over 1 week, 33 additions and 30 deletions in 4 files</sub>
@@ -296,6 +305,8 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "Move widget_preview_scaffold into pub workspace"
   <sub>[#185164](https://github.com/flutter/flutter/pull/185164) merged on April 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185164) over 47 minutes, 55 additions and 241 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+</details>
 
 ### April 4, 2026 to April 10, 2026
 
