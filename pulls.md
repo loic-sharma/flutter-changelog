@@ -89,9 +89,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_tools] Migrate detectLowCompileSdkVersionOrNdkVersion to AGP task<br />
   <sub>[#184731](https://github.com/flutter/flutter/pull/184731) opened on on April 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/184731) 634 additions and 331 deletions in 6 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule<br />
-  <sub>[#184765](https://github.com/flutter/flutter/pull/184765) opened on on April 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184765) 2 additions and 0 deletions in 2 files</sub><br />
-
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from cupertino/slider_test.dart<br />
   <sub>[#184805](https://github.com/flutter/flutter/pull/184805) opened on on April 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184805) 13 additions and 31 deletions in 1 file</sub><br />
 
@@ -130,9 +127,6 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; add the next batch for VPAT assessment<br />
-  <sub>[#185053](https://github.com/flutter/flutter/pull/185053) opened on on April 14, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/185053) 1079 additions and 55 deletions in 48 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the dev/bots/analyze.dart script, obtain the relevant set of paths from Git instead of crawling the filesystem<br />
   <sub>[#185058](https://github.com/flutter/flutter/pull/185058) opened on on April 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185058) 34 additions and 33 deletions in 1 file</sub><br />
@@ -215,7 +209,7 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 8<br />
   <sub>[#185282](https://github.com/flutter/flutter/pull/185282) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185282) 224 additions and 37 deletions in 8 files</sub><br />
 
-* **[John Eismeier](https://github.com/jeis4wpi)** &mdash; Propose fix typos<br />
+* **[John Eismeier](https://github.com/jeis4wpi)** &mdash; Fix typos across multiple markdown files<br />
   <sub>[#185294](https://github.com/flutter/flutter/pull/185294) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185294) 16 additions and 16 deletions in 10 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][Widget Preview] Fix flaky integration test timeout during flutter clean (#184991)<br />

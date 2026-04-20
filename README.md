@@ -4,7 +4,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-6 commits.
+7 commits.
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Run build hooks and link hooks in separate targets<br />
   <sub>[#184880](https://github.com/flutter/flutter/pull/184880) merged on April 20, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/184880) over 1 week, 737 additions and 275 deletions in 23 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; feat: add reloadIsRestart to handle hot reload as a restart for web #179448<br />
   <sub>[#183233](https://github.com/flutter/flutter/pull/183233) merged on April 20, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/183233) over 1 month, 43 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; add the next batch for VPAT assessment<br />
+  <sub>[#185053](https://github.com/flutter/flutter/pull/185053) merged on April 20, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/185053) over 5 days, 1079 additions and 55 deletions in 48 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Avoid use of direct string injection in GitHub Workflow "run" steps.<br />
   <sub>[#185301](https://github.com/flutter/flutter/pull/185301) merged on April 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185301) over 1 hour, 95 additions and 66 deletions in 8 files</sub><br />
