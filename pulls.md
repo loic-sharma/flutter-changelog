@@ -128,9 +128,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184956) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
-  <sub>[#184994](https://github.com/flutter/flutter/pull/184994) opened on on April 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/184994) 27 additions and 1835 deletions in 25 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels<br />
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 122 additions and 3 deletions in 2 files</sub><br />
 
@@ -138,7 +135,7 @@
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; add the next batch for VPAT assessment<br />
-  <sub>[#185053](https://github.com/flutter/flutter/pull/185053) opened on on April 14, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185053) 1079 additions and 55 deletions in 48 files</sub><br />
+  <sub>[#185053](https://github.com/flutter/flutter/pull/185053) opened on on April 14, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/185053) 1079 additions and 55 deletions in 48 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the dev/bots/analyze.dart script, obtain the relevant set of paths from Git instead of crawling the filesystem<br />
   <sub>[#185058](https://github.com/flutter/flutter/pull/185058) opened on on April 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185058) 34 additions and 33 deletions in 1 file</sub><br />
@@ -230,6 +227,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][Widget Preview] Fix flaky integration test timeout during flutter clean (#184991)<br />
   <sub>[#185300](https://github.com/flutter/flutter/pull/185300) opened on on April 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185300) 57 additions and 13 deletions in 5 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Avoid use of direct string injection in GitHub Workflow "run" steps.<br />
-  <sub>[#185301](https://github.com/flutter/flutter/pull/185301) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185301) 95 additions and 66 deletions in 8 files</sub><br />
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add CONTENT_CHANGE_TYPE_EXPANDED support on android.<br />
+  <sub>[#185305](https://github.com/flutter/flutter/pull/185305) opened on on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185305) 103 additions and 2 deletions in 2 files</sub><br />
 
