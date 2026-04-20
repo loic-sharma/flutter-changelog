@@ -189,19 +189,19 @@
   <sub>[#185226](https://github.com/flutter/flutter/pull/185226) opened on on April 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185226) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unused material.dart import from force_press_test.dart<br />
-  <sub>[#185236](https://github.com/flutter/flutter/pull/185236) opened on on April 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185236) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#185236](https://github.com/flutter/flutter/pull/185236) opened on on April 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185236) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material import from editable_text_scribe_test<br />
-  <sub>[#185238](https://github.com/flutter/flutter/pull/185238) opened on on April 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185238) 6 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#185238](https://github.com/flutter/flutter/pull/185238) opened on on April 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185238) 6 additions and 5 deletions in 2 files</sub><br />
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Fix multiline EditableText selection highlighting width<br />
   <sub>[#185239](https://github.com/flutter/flutter/pull/185239) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185239) 86 additions and 2 deletions in 2 files</sub><br />
 
 * **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material import from default_text_editing_shortcuts_test<br />
-  <sub>[#185241](https://github.com/flutter/flutter/pull/185241) opened on on April 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185241) 18 additions and 15 deletions in 2 files</sub><br />
+  <sub>[#185241](https://github.com/flutter/flutter/pull/185241) opened on on April 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185241) 18 additions and 17 deletions in 3 files</sub><br />
 
 * **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove Material from Live Text test in editable_text_test<br />
-  <sub>[#185242](https://github.com/flutter/flutter/pull/185242) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185242) 5 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#185242](https://github.com/flutter/flutter/pull/185242) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185242) 5 additions and 8 deletions in 2 files</sub><br />
 
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
   <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
@@ -210,7 +210,7 @@
   <sub>[#185245](https://github.com/flutter/flutter/pull/185245) opened on on April 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185245) 22 additions and 2 deletions in 7 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update TickerMode.getValuesNotifier to handle initialization during State.dispose<br />
-  <sub>[#185248](https://github.com/flutter/flutter/pull/185248) opened on on April 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185248) 73 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185248](https://github.com/flutter/flutter/pull/185248) opened on on April 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185248) 73 additions and 2 deletions in 2 files</sub><br />
 
 * **[spandan3001](https://github.com/spandan3001)** &mdash; Remove semantics_tester cross-import from segmented_button_test.dart<br />
   <sub>[#185250](https://github.com/flutter/flutter/pull/185250) opened on on April 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185250) 1327 additions and 1 deletion in 2 files</sub><br />
