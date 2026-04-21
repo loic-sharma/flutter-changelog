@@ -122,9 +122,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels<br />
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 193 additions and 4 deletions in 3 files</sub><br />
 
-* **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from Widget tests <br />
-  <sub>[#185078](https://github.com/flutter/flutter/pull/185078) opened on on April 15, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/185078) 3094 additions and 1872 deletions in 25 files</sub><br />
-
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; Fix: activateSystemCursor should set cursor on all views<br />
   <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
 
@@ -137,23 +134,8 @@
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; fix: --no-hot flag should trigger hot restart instead of being ignored<br />
   <sub>[#185181](https://github.com/flutter/flutter/pull/185181) opened on on April 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185181) 21 additions and 1 deletion in 6 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 4<br />
-  <sub>[#185187](https://github.com/flutter/flutter/pull/185187) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185187) 125 additions and 0 deletions in 10 files</sub><br />
-
-* **[Nicodemus Lin](https://github.com/nicolinx)** &mdash; Fix: stop auto-scrolling during selection handle drag<br />
-  <sub>[#185206](https://github.com/flutter/flutter/pull/185206) opened on on April 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185206) 62 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix background git fetch hanging silently when asking for an SSH passphrase<br />
   <sub>[#185219](https://github.com/flutter/flutter/pull/185219) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185219) 94 additions and 5 deletions in 3 files</sub><br />
-
-* **[Anas Saifi](https://github.com/anazr9)** &mdash; Fix multiline EditableText selection highlighting width<br />
-  <sub>[#185239](https://github.com/flutter/flutter/pull/185239) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185239) 86 additions and 2 deletions in 2 files</sub><br />
-
-* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material import from default_text_editing_shortcuts_test<br />
-  <sub>[#185241](https://github.com/flutter/flutter/pull/185241) opened on on April 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185241) 18 additions and 17 deletions in 3 files</sub><br />
-
-* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove Material from Live Text test in editable_text_test<br />
-  <sub>[#185242](https://github.com/flutter/flutter/pull/185242) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185242) 5 additions and 8 deletions in 2 files</sub><br />
 
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
   <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
@@ -201,7 +183,7 @@
   <sub>[#185357](https://github.com/flutter/flutter/pull/185357) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185357) 12 additions and 7 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add a11y_assessment test and fixes issues<br />
-  <sub>[#185362](https://github.com/flutter/flutter/pull/185362) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185362) 38 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#185362](https://github.com/flutter/flutter/pull/185362) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185362) 44 additions and 22 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Refactor hostPlatform to use Abi.current()<br />
   <sub>[#185369](https://github.com/flutter/flutter/pull/185369) opened on on April 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185369) 77 additions and 146 deletions in 2 files</sub><br />
