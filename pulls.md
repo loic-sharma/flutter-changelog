@@ -209,6 +209,9 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Add font fallback service<br />
   <sub>[#185314](https://github.com/flutter/flutter/pull/185314) opened on on April 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/185314) 1131 additions and 551 deletions in 21 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove runtimeType.toString()<br />
+  <sub>[#185333](https://github.com/flutter/flutter/pull/185333) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185333) 2 additions and 6 deletions in 2 files</sub><br />
+
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
