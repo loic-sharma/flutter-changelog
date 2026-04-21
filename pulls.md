@@ -125,9 +125,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels<br />
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 193 additions and 4 deletions in 3 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
-  <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
-
 * **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; refactor: Remove material imports from Widget tests <br />
   <sub>[#185078](https://github.com/flutter/flutter/pull/185078) opened on on April 15, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/185078) 3094 additions and 1872 deletions in 25 files</sub><br />
 
@@ -235,4 +232,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds script to run malioc locally<br />
   <sub>[#185371](https://github.com/flutter/flutter/pull/185371) opened on on April 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185371) 235 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
+  <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 65 additions and 4 deletions in 2 files</sub><br />
 
