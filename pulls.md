@@ -75,7 +75,7 @@
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184588) 53 additions and 3 deletions in 5 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use relative path for reloadedSourcesUri and reloaded modules<br />
-  <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184598) 57 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184598) 126 additions and 43 deletions in 3 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix web dev proxy merging multiple Set-Cookie response headers<br />
   <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 169 additions and 1 deletion in 2 files</sub><br />
@@ -132,7 +132,7 @@
   <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add ability to pass flags to `et run`<br />
-  <sub>[#185109](https://github.com/flutter/flutter/pull/185109) opened on on April 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185109) 34 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#185109](https://github.com/flutter/flutter/pull/185109) opened on on April 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185109) 34 additions and 1 deletion in 2 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/predictive back event swipe edge out of bounds<br />
   <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185140) 325 additions and 8 deletions in 4 files</sub><br />
@@ -200,9 +200,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add CONTENT_CHANGE_TYPE_EXPANDED support on android.<br />
   <sub>[#185305](https://github.com/flutter/flutter/pull/185305) opened on on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185305) 103 additions and 2 deletions in 2 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Add font fallback service<br />
-  <sub>[#185314](https://github.com/flutter/flutter/pull/185314) opened on on April 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/185314) 1131 additions and 551 deletions in 21 files</sub><br />
-
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
@@ -215,14 +212,8 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; flutter_tools: Remove unused parameters<br />
   <sub>[#185347](https://github.com/flutter/flutter/pull/185347) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185347) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; new_gallery_macos_impeller__transition_perf out of bringup<br />
-  <sub>[#185355](https://github.com/flutter/flutter/pull/185355) opened on on April 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185355) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Testing dwds bump before publish<br />
   <sub>[#185357](https://github.com/flutter/flutter/pull/185357) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185357) 14 additions and 9 deletions in 2 files</sub><br />
-
-* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Compatibility bridge for analyzer 12 and 13.<br />
-  <sub>[#185360](https://github.com/flutter/flutter/pull/185360) opened on on April 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185360) 80 additions and 19 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add a11y_assessment test and fixes issues<br />
   <sub>[#185362](https://github.com/flutter/flutter/pull/185362) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185362) 38 additions and 12 deletions in 2 files</sub><br />
@@ -234,5 +225,5 @@
   <sub>[#185371](https://github.com/flutter/flutter/pull/185371) opened on on April 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185371) 235 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
-  <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 65 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />
 
