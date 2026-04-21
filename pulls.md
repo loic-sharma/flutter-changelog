@@ -27,7 +27,7 @@
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update libimobiledevice and dependencies<br />
-  <sub>[#181932](https://github.com/flutter/flutter/pull/181932) opened on on February 5, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/181932) 97 additions and 7 deletions in 7 files</sub><br />
+  <sub>[#181932](https://github.com/flutter/flutter/pull/181932) opened on on February 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181932) 97 additions and 7 deletions in 7 files</sub><br />
 
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
@@ -123,7 +123,7 @@
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184956) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels<br />
-  <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 191 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 193 additions and 4 deletions in 3 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) opened on on April 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185003) 7 additions and 4 deletions in 1 file</sub><br />
@@ -223,4 +223,16 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; flutter_tools: Remove unused parameters<br />
   <sub>[#185347](https://github.com/flutter/flutter/pull/185347) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185347) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; platform_view_macos_impeller__start_up out of bringup<br />
+  <sub>[#185354](https://github.com/flutter/flutter/pull/185354) opened on on April 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185354) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; new_gallery_macos_impeller__transition_perf out of bringup<br />
+  <sub>[#185355](https://github.com/flutter/flutter/pull/185355) opened on on April 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185355) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; complex_layout_scroll_perf_macos_impeller__timeline_summary out of bringup<br />
+  <sub>[#185356](https://github.com/flutter/flutter/pull/185356) opened on on April 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185356) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Testing dwds bump before publish<br />
+  <sub>[#185357](https://github.com/flutter/flutter/pull/185357) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185357) 6 additions and 2 deletions in 1 file</sub><br />
 
