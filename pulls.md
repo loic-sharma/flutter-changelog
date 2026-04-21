@@ -29,9 +29,6 @@
 * **[Aman Kumar](https://github.com/AmanGitkumar)** &mdash; Improve wording in Flutter Self Service Index<br />
   <sub>[#181318](https://github.com/flutter/flutter/pull/181318) opened on on January 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/181318) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update libimobiledevice and dependencies<br />
-  <sub>[#181932](https://github.com/flutter/flutter/pull/181932) opened on on February 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/181932) 97 additions and 7 deletions in 7 files</sub><br />
-
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
@@ -221,21 +218,21 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; flutter_tools: Remove unused parameters<br />
   <sub>[#185347](https://github.com/flutter/flutter/pull/185347) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185347) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; platform_view_macos_impeller__start_up out of bringup<br />
-  <sub>[#185354](https://github.com/flutter/flutter/pull/185354) opened on on April 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185354) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; new_gallery_macos_impeller__transition_perf out of bringup<br />
   <sub>[#185355](https://github.com/flutter/flutter/pull/185355) opened on on April 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185355) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; complex_layout_scroll_perf_macos_impeller__timeline_summary out of bringup<br />
-  <sub>[#185356](https://github.com/flutter/flutter/pull/185356) opened on on April 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185356) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Testing dwds bump before publish<br />
-  <sub>[#185357](https://github.com/flutter/flutter/pull/185357) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185357) 6 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#185357](https://github.com/flutter/flutter/pull/185357) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185357) 14 additions and 9 deletions in 2 files</sub><br />
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Compatibility bridge for analyzer 12 and 13.<br />
   <sub>[#185360](https://github.com/flutter/flutter/pull/185360) opened on on April 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185360) 80 additions and 19 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add a11y_assessment test and fixes issues<br />
   <sub>[#185362](https://github.com/flutter/flutter/pull/185362) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185362) 38 additions and 12 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Refactor hostPlatform to use Abi.current()<br />
+  <sub>[#185369](https://github.com/flutter/flutter/pull/185369) opened on on April 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185369) 77 additions and 146 deletions in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds script to run malioc locally<br />
+  <sub>[#185371](https://github.com/flutter/flutter/pull/185371) opened on on April 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185371) 235 additions and 0 deletions in 1 file</sub><br />
 
