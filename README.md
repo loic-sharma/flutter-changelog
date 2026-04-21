@@ -4,7 +4,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-21 commits.
+24 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reapply "Unpin sdk package dependencies"<br />
   <sub>[#185268](https://github.com/flutter/flutter/pull/185268) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185268) over 22 hours, 33 additions and 35 deletions in 5 files</sub><br />
@@ -13,6 +13,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv] Reland platform view hitTest approach (again)<br />
   <sub>[#185126](https://github.com/flutter/flutter/pull/185126) merged on April 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/185126) over 4 days, 1509 additions and 156 deletions in 50 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update libimobiledevice and dependencies<br />
+  <sub>[#181932](https://github.com/flutter/flutter/pull/181932) merged on April 21, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/181932) over 2 months, 97 additions and 7 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Replace IndexedStack visibility children with _VisibilityScope + ExcludeFocus<br />
   <sub>[#184884](https://github.com/flutter/flutter/pull/184884) merged on April 21, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/184884) over 1 week, 615 additions and 533 deletions in 6 files</sub><br />
@@ -65,6 +69,14 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the dev/bots/analyze.dart script, obtain the relevant set of paths from Git instead of crawling the filesystem<br />
   <sub>[#185058](https://github.com/flutter/flutter/pull/185058) merged on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185058) over 5 days, 34 additions and 33 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; platform_view_macos_impeller__start_up out of bringup<br />
+  <sub>[#185354](https://github.com/flutter/flutter/pull/185354) merged on April 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185354) over 4 hours, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; complex_layout_scroll_perf_macos_impeller__timeline_summary out of bringup<br />
+  <sub>[#185356](https://github.com/flutter/flutter/pull/185356) merged on April 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185356) over 3 hours, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Improve LaunchEngine implementation/API/docs<br />
   <sub>[#185200](https://github.com/flutter/flutter/pull/185200) merged on April 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185200) over 3 days, 74 additions and 32 deletions in 3 files</sub><br />
@@ -705,11 +717,15 @@
 
 ### April 18, 2026 to April 24, 2026
 
-2 commits.
+3 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Support custom types<br />
   <sub>[#11068](https://github.com/flutter/packages/pull/11068) merged on April 20, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/11068) over 2 months, 332 additions and 25 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Tear down ProxyAPIRegistrar in `applicationWillTerminate`<br />
+  <sub>[#11484](https://github.com/flutter/packages/pull/11484) merged on April 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11484) over 1 week, 125 additions and 4 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-go_router to main<br />
   <sub>[#11545](https://github.com/flutter/packages/pull/11545) merged on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11545) over 44 minutes, 5 additions and 4 deletions in 3 files</sub><br />

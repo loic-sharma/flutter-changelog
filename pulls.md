@@ -38,9 +38,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
   <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
 
-* **[Sanket Patil](https://github.com/sanketudaypatil)** &mdash; Fix wording and suggest GitHub Gist for sharing large logs<br />
-  <sub>[#183063](https://github.com/flutter/flutter/pull/183063) opened on on February 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/183063) 0 additions and 0 deletions in 0 files</sub><br />
-
 * **[Oleh Konko](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183180) 37 additions and 0 deletions in 4 files</sub><br />
 
@@ -149,12 +146,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix background git fetch hanging silently when asking for an SSH passphrase<br />
   <sub>[#185219](https://github.com/flutter/flutter/pull/185219) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185219) 94 additions and 5 deletions in 3 files</sub><br />
 
-* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unused material.dart import from force_press_test.dart<br />
-  <sub>[#185236](https://github.com/flutter/flutter/pull/185236) opened on on April 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185236) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material import from editable_text_scribe_test<br />
-  <sub>[#185238](https://github.com/flutter/flutter/pull/185238) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185238) 6 additions and 5 deletions in 2 files</sub><br />
-
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Fix multiline EditableText selection highlighting width<br />
   <sub>[#185239](https://github.com/flutter/flutter/pull/185239) opened on on April 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185239) 86 additions and 2 deletions in 2 files</sub><br />
 
@@ -178,12 +169,6 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make key mapping code match existing embedder style<br />
   <sub>[#185261](https://github.com/flutter/flutter/pull/185261) opened on on April 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185261) 53 additions and 68 deletions in 13 files</sub><br />
-
-* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material imports from non-Material tests in flutter package<br />
-  <sub>[#185271](https://github.com/flutter/flutter/pull/185271) opened on on April 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185271) 33 additions and 35 deletions in 10 files</sub><br />
-
-* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix focus violation when canRequestFocus set to false for all siblings in same build<br />
-  <sub>[#185280](https://github.com/flutter/flutter/pull/185280) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185280) 248 additions and 3 deletions in 3 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 8<br />
   <sub>[#185282](https://github.com/flutter/flutter/pull/185282) opened on on April 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185282) 224 additions and 37 deletions in 8 files</sub><br />
