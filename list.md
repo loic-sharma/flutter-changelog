@@ -4,7 +4,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-13 commits.
+14 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv] Reland platform view hitTest approach (again)
   <sub>[#185126](https://github.com/flutter/flutter/pull/185126) merged on April 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/185126) over 4 days, 1509 additions and 156 deletions in 50 files</sub>
@@ -49,6 +49,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script
   <sub>[#185170](https://github.com/flutter/flutter/pull/185170) merged on April 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185170) over 3 days, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused private header
+  <sub>[#185260](https://github.com/flutter/flutter/pull/185260) merged on April 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185260) over 1 day, 0 additions and 18 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule
   <sub>[#184765](https://github.com/flutter/flutter/pull/184765) merged on April 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184765) over 1 week, 2 additions and 0 deletions in 2 files</sub>

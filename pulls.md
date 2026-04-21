@@ -158,9 +158,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix background git fetch hanging silently when asking for an SSH passphrase<br />
   <sub>[#185219](https://github.com/flutter/flutter/pull/185219) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185219) 39 additions and 18 deletions in 6 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Testing autosubmit bot -- updating testowners<br />
-  <sub>[#185226](https://github.com/flutter/flutter/pull/185226) opened on on April 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185226) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unused material.dart import from force_press_test.dart<br />
   <sub>[#185236](https://github.com/flutter/flutter/pull/185236) opened on on April 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185236) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -189,7 +186,7 @@
   <sub>[#185250](https://github.com/flutter/flutter/pull/185250) opened on on April 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185250) 1327 additions and 1 deletion in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make key mapping code match existing embedder style<br />
-  <sub>[#185261](https://github.com/flutter/flutter/pull/185261) opened on on April 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185261) 47 additions and 67 deletions in 13 files</sub><br />
+  <sub>[#185261](https://github.com/flutter/flutter/pull/185261) opened on on April 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185261) 53 additions and 68 deletions in 13 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reapply "Unpin sdk package dependencies"<br />
   <sub>[#185268](https://github.com/flutter/flutter/pull/185268) opened on on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185268) 33 additions and 35 deletions in 5 files</sub><br />
