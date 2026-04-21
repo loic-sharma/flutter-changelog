@@ -53,9 +53,6 @@
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
 
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; Fix Autocomplete Tab focus traversal with disabled fields<br />
-  <sub>[#184000](https://github.com/flutter/flutter/pull/184000) opened on on March 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184000) 68 additions and 0 deletions in 2 files</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [web] Prioritize Noto Color Emoji in font fallback selection<br />
   <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184120) 150 additions and 4 deletions in 2 files</sub><br />
 
@@ -186,7 +183,7 @@
   <sub>[#185245](https://github.com/flutter/flutter/pull/185245) opened on on April 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185245) 22 additions and 2 deletions in 7 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update TickerMode.getValuesNotifier to handle initialization during State.dispose<br />
-  <sub>[#185248](https://github.com/flutter/flutter/pull/185248) opened on on April 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185248) 73 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185248](https://github.com/flutter/flutter/pull/185248) opened on on April 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185248) 73 additions and 2 deletions in 2 files</sub><br />
 
 * **[spandan3001](https://github.com/spandan3001)** &mdash; Remove semantics_tester cross-import from segmented_button_test.dart<br />
   <sub>[#185250](https://github.com/flutter/flutter/pull/185250) opened on on April 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185250) 1327 additions and 1 deletion in 2 files</sub><br />
@@ -217,7 +214,4 @@
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Add font fallback service<br />
   <sub>[#185314](https://github.com/flutter/flutter/pull/185314) opened on on April 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/185314) 1131 additions and 551 deletions in 21 files</sub><br />
-
-* **[Mayank Sharma](https://github.com/mayanksharma9)** &mdash; (Test cross-imports) Remove cross-imported test utils from Cupertino sheet/tab scaffold tests<br />
-  <sub>[#185315](https://github.com/flutter/flutter/pull/185315) opened on on April 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185315) 34 additions and 3 deletions in 2 files</sub><br />
 
