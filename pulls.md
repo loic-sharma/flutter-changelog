@@ -194,6 +194,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 8<br />
   <sub>[#185282](https://github.com/flutter/flutter/pull/185282) opened on on April 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185282) 224 additions and 37 deletions in 8 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix `SemanticsObject` crash when bridge is nullptr<br />
+  <sub>[#185293](https://github.com/flutter/flutter/pull/185293) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185293) 22 additions and 2 deletions in 2 files</sub><br />
+
 * **[John Eismeier](https://github.com/jeis4wpi)** &mdash; Fix typos across multiple markdown files<br />
   <sub>[#185294](https://github.com/flutter/flutter/pull/185294) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185294) 16 additions and 16 deletions in 10 files</sub><br />
 
@@ -229,4 +232,10 @@
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Testing dwds bump before publish<br />
   <sub>[#185357](https://github.com/flutter/flutter/pull/185357) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185357) 6 additions and 2 deletions in 1 file</sub><br />
+
+* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Compatibility bridge for analyzer 12 and 13.<br />
+  <sub>[#185360](https://github.com/flutter/flutter/pull/185360) opened on on April 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185360) 80 additions and 19 deletions in 2 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add a11y_assessment test and fixes issues<br />
+  <sub>[#185362](https://github.com/flutter/flutter/pull/185362) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185362) 38 additions and 12 deletions in 2 files</sub><br />
 
