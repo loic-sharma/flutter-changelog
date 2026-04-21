@@ -186,7 +186,7 @@
   <sub>[#185369](https://github.com/flutter/flutter/pull/185369) opened on on April 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185369) 77 additions and 146 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds script to run malioc locally<br />
-  <sub>[#185371](https://github.com/flutter/flutter/pull/185371) opened on on April 21, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185371) 235 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#185371](https://github.com/flutter/flutter/pull/185371) opened on on April 21, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185371) 238 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
   <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />

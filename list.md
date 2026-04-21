@@ -4,7 +4,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-28 commits.
+29 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reapply "Unpin sdk package dependencies"
   <sub>[#185268](https://github.com/flutter/flutter/pull/185268) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185268) over 22 hours, 33 additions and 35 deletions in 5 files</sub>
@@ -73,6 +73,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter] Remove dead check on null being in a set of non-nullables
   <sub>[#184100](https://github.com/flutter/flutter/pull/184100) merged on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184100) over 3 weeks, 1 addition and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`
+  <sub>[#185003](https://github.com/flutter/flutter/pull/185003) merged on April 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185003) over 1 week, 7 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update the text input triage process to route to platform teams
   <sub>[#185225](https://github.com/flutter/flutter/pull/185225) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185225) over 3 days, 1 addition and 0 deletions in 1 file</sub>
