@@ -4,7 +4,11 @@
 
 ### April 18, 2026 to April 24, 2026
 
-10 commits.
+13 commits.
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv] Reland platform view hitTest approach (again)<br />
+  <sub>[#185126](https://github.com/flutter/flutter/pull/185126) merged on April 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/185126) over 4 days, 1509 additions and 156 deletions in 50 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Implement images for wimp.<br />
   <sub>[#183913](https://github.com/flutter/flutter/pull/183913) merged on April 20, 2026 &mdash; **Extra large:** [69 comments](https://github.com/flutter/flutter/pull/183913) over 1 month, 1336 additions and 679 deletions in 79 files</sub><br />
@@ -38,9 +42,17 @@
   <sub>[#185058](https://github.com/flutter/flutter/pull/185058) merged on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185058) over 5 days, 34 additions and 33 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Improve LaunchEngine implementation/API/docs<br />
+  <sub>[#185200](https://github.com/flutter/flutter/pull/185200) merged on April 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185200) over 3 days, 74 additions and 32 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Report an error if the git ls-tree command fails in the content_aware_hash script<br />
   <sub>[#185170](https://github.com/flutter/flutter/pull/185170) merged on April 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185170) over 3 days, 5 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; ignore avoid_type_to_string lint rule<br />
+  <sub>[#184765](https://github.com/flutter/flutter/pull/184765) merged on April 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184765) over 1 week, 2 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Regenerate pubspec.lock<br />
   <sub>[#185290](https://github.com/flutter/flutter/pull/185290) merged on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185290) over 1 minute, 2 additions and 2 deletions in 1 file</sub><br />
