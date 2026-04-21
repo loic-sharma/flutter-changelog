@@ -4,7 +4,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-19 commits.
+20 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reapply "Unpin sdk package dependencies"<br />
   <sub>[#185268](https://github.com/flutter/flutter/pull/185268) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185268) over 22 hours, 33 additions and 35 deletions in 5 files</sub><br />
@@ -13,6 +13,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv] Reland platform view hitTest approach (again)<br />
   <sub>[#185126](https://github.com/flutter/flutter/pull/185126) merged on April 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/185126) over 4 days, 1509 additions and 156 deletions in 50 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Replace IndexedStack visibility children with _VisibilityScope + ExcludeFocus<br />
+  <sub>[#184884](https://github.com/flutter/flutter/pull/184884) merged on April 21, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/184884) over 1 week, 615 additions and 533 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Implement images for wimp.<br />
   <sub>[#183913](https://github.com/flutter/flutter/pull/183913) merged on April 20, 2026 &mdash; **Extra large:** [69 comments](https://github.com/flutter/flutter/pull/183913) over 1 month, 1336 additions and 679 deletions in 79 files</sub><br />
