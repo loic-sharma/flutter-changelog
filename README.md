@@ -4,7 +4,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-20 commits.
+21 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reapply "Unpin sdk package dependencies"<br />
   <sub>[#185268](https://github.com/flutter/flutter/pull/185268) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185268) over 22 hours, 33 additions and 35 deletions in 5 files</sub><br />
@@ -53,6 +53,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Avoid use of direct string injection in GitHub Workflow "run" steps.<br />
   <sub>[#185301](https://github.com/flutter/flutter/pull/185301) merged on April 20, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/185301) over 1 hour, 95 additions and 66 deletions in 8 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [John "agentfu" McDole](https://github.com/agentfu), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve the error if the tool cannot find the locally built engine<br />
+  <sub>[#184546](https://github.com/flutter/flutter/pull/184546) merged on April 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184546) over 2 weeks, 10 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [data_assets] Try fix #184505<br />
   <sub>[#185330](https://github.com/flutter/flutter/pull/185330) merged on April 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185330) over 7 hours, 11 additions and 15 deletions in 2 files</sub><br />
