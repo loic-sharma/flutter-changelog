@@ -4,7 +4,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-17 commits.
+18 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reapply "Unpin sdk package dependencies"<br />
   <sub>[#185268](https://github.com/flutter/flutter/pull/185268) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185268) over 22 hours, 33 additions and 35 deletions in 5 files</sub><br />
@@ -73,6 +73,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Regenerate pubspec.lock<br />
   <sub>[#185290](https://github.com/flutter/flutter/pull/185290) merged on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185290) over 1 minute, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland "Unpin google_mobile_ads"<br />
+  <sub>[#180838](https://github.com/flutter/flutter/pull/180838) merged on April 21, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/180838) over 3 months, 243 additions and 200 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 ### April 11, 2026 to April 17, 2026
 
@@ -319,7 +323,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Only use LLDB breakpoint in debug mode<br />
-  <sub>[#185158](https://github.com/flutter/flutter/pull/185158) merged on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185158) over 1 day, 112 additions and 7 deletions in 7 files</sub><br />
+  <sub>[#185158](https://github.com/flutter/flutter/pull/185158) merged on April 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185158) over 1 day, 112 additions and 7 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />

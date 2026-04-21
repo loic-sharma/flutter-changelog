@@ -186,7 +186,7 @@
   <sub>[#185250](https://github.com/flutter/flutter/pull/185250) opened on on April 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185250) 1327 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement size to content regular and dialog windows.<br />
-  <sub>[#185256](https://github.com/flutter/flutter/pull/185256) opened on on April 19, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185256) 537 additions and 115 deletions in 12 files</sub><br />
+  <sub>[#185256](https://github.com/flutter/flutter/pull/185256) opened on on April 19, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/185256) 537 additions and 115 deletions in 12 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make key mapping code match existing embedder style<br />
   <sub>[#185261](https://github.com/flutter/flutter/pull/185261) opened on on April 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185261) 53 additions and 68 deletions in 13 files</sub><br />
@@ -214,4 +214,7 @@
 
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Only use LLDB breakpoint in debug mode<br />
+  <sub>[#185343](https://github.com/flutter/flutter/pull/185343) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185343) 112 additions and 7 deletions in 7 files</sub><br />
 
