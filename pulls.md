@@ -18,7 +18,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [38 comments](https://github.com/flutter/flutter/pull/180591) 2566 additions and 545 deletions in 20 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/180591) 2566 additions and 545 deletions in 20 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -140,12 +140,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add ability to pass flags to `et run`<br />
   <sub>[#185109](https://github.com/flutter/flutter/pull/185109) opened on on April 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185109) 34 additions and 1 deletion in 2 files</sub><br />
 
-* **[Reinar](https://github.com/reinar)** &mdash; Impeller: Recreate Vulkan transients on surface size change<br />
-  <sub>[#185122](https://github.com/flutter/flutter/pull/185122) opened on on April 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185122) 50 additions and 4 deletions in 3 files</sub><br />
-
-* **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; Add javaHeapSpaceHandler to handle Gradle build failures due to Java …<br />
-  <sub>[#185127](https://github.com/flutter/flutter/pull/185127) opened on on April 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185127) 58 additions and 0 deletions in 2 files</sub><br />
-
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/predictive back event swipe edge out of bounds<br />
   <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185140) 325 additions and 8 deletions in 4 files</sub><br />
 
@@ -187,9 +181,6 @@
 
 * **[spandan3001](https://github.com/spandan3001)** &mdash; Remove semantics_tester cross-import from segmented_button_test.dart<br />
   <sub>[#185250](https://github.com/flutter/flutter/pull/185250) opened on on April 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185250) 1327 additions and 1 deletion in 2 files</sub><br />
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement size to content regular and dialog windows.<br />
-  <sub>[#185256](https://github.com/flutter/flutter/pull/185256) opened on on April 19, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/185256) 537 additions and 115 deletions in 12 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make key mapping code match existing embedder style<br />
   <sub>[#185261](https://github.com/flutter/flutter/pull/185261) opened on on April 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185261) 53 additions and 68 deletions in 13 files</sub><br />
