@@ -31,7 +31,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Avoid use of direct string injection in GitHub Workflow "run" steps.
-  <sub>[#185301](https://github.com/flutter/flutter/pull/185301) merged on April 20, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185301) over 1 hour, 95 additions and 66 deletions in 8 files</sub>
+  <sub>[#185301](https://github.com/flutter/flutter/pull/185301) merged on April 20, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/185301) over 1 hour, 95 additions and 66 deletions in 8 files</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [John "agentfu" McDole](https://github.com/agentfu), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the dev/bots/analyze.dart script, obtain the relevant set of paths from Git instead of crawling the filesystem
