@@ -4,18 +4,22 @@
 
 ### April 18, 2026 to April 24, 2026
 
-29 commits.
+30 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reapply "Unpin sdk package dependencies"
   <sub>[#185268](https://github.com/flutter/flutter/pull/185268) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185268) over 22 hours, 33 additions and 35 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectableRegion crash when the selection starts in a scrollable child but does not select anything initially
+  <sub>[#184420](https://github.com/flutter/flutter/pull/184420) merged on April 22, 2026 &mdash; **Small:** [48 comments](https://github.com/flutter/flutter/pull/184420) over 3 weeks, 156 additions and 39 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][pv] Reland platform view hitTest approach (again)
   <sub>[#185126](https://github.com/flutter/flutter/pull/185126) merged on April 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/185126) over 4 days, 1509 additions and 156 deletions in 50 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update libimobiledevice and dependencies
-  <sub>[#181932](https://github.com/flutter/flutter/pull/181932) merged on April 21, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/181932) over 2 months, 97 additions and 7 deletions in 7 files</sub>
+  <sub>[#181932](https://github.com/flutter/flutter/pull/181932) merged on April 21, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/181932) over 2 months, 97 additions and 7 deletions in 7 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Replace IndexedStack visibility children with _VisibilityScope + ExcludeFocus
