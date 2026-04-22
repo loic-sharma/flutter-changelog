@@ -204,5 +204,5 @@
   <sub>[#185402](https://github.com/flutter/flutter/pull/185402) opened on on April 22, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185402) 394 additions and 334 deletions in 2 files</sub><br />
 
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix: Remove incorrect scale parameter documentation from Image constructor<br />
-  <sub>[#185412](https://github.com/flutter/flutter/pull/185412) opened on on April 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185412) 69 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#185412](https://github.com/flutter/flutter/pull/185412) opened on on April 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185412) 69 additions and 6 deletions in 3 files</sub><br />
 
