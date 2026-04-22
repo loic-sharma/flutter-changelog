@@ -191,3 +191,12 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Add BrowserScrollable and BrowserScrollPhysics<br />
   <sub>[#185386](https://github.com/flutter/flutter/pull/185386) opened on on April 22, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/185386) 2995 additions and 40 deletions in 23 files</sub><br />
 
+* **[Shivanshu](https://github.com/shivanshu877)** &mdash; test: move Material-dependent scrollbar tests to material/ directory<br />
+  <sub>[#185396](https://github.com/flutter/flutter/pull/185396) opened on on April 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185396) 118 additions and 118 deletions in 2 files</sub><br />
+
+* **[Shivanshu](https://github.com/shivanshu877)** &mdash; test: move Material-dependent tap region tests to material/ directory<br />
+  <sub>[#185397](https://github.com/flutter/flutter/pull/185397) opened on on April 22, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/185397) 229 additions and 220 deletions in 2 files</sub><br />
+
+* **[Shivanshu](https://github.com/shivanshu877)** &mdash; test: inline TestCallbackPainter in cupertino/picker_test.dart<br />
+  <sub>[#185398](https://github.com/flutter/flutter/pull/185398) opened on on April 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185398) 14 additions and 1 deletion in 1 file</sub><br />
+
