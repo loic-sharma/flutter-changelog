@@ -4,7 +4,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-31 commits.
+32 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reapply "Unpin sdk package dependencies"
   <sub>[#185268](https://github.com/flutter/flutter/pull/185268) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185268) over 22 hours, 33 additions and 35 deletions in 5 files</sub>
@@ -53,6 +53,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve the error if the tool cannot find the locally built engine
   <sub>[#184546](https://github.com/flutter/flutter/pull/184546) merged on April 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184546) over 2 weeks, 10 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Roll pub packages
+  <sub>[#185274](https://github.com/flutter/flutter/pull/185274) merged on April 22, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/185274) over 2 days, 64 additions and 71 deletions in 9 files</sub>
+  <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[saurabh-mirajkar](https://github.com/saurabh-mirajkar)** &mdash; Fix incorrect scale parameter reference in Image constructor docs
   <sub>[#185403](https://github.com/flutter/flutter/pull/185403) merged on April 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185403) over 9 hours, 0 additions and 4 deletions in 1 file</sub>
