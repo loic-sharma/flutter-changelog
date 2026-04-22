@@ -174,7 +174,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [b-luk](https://github.com/b-luk)</sub>
 
 * **[kyungilcho](https://github.com/kyungilcho)** &mdash; Preprovision Android NDK for flavored builds and reuse matching unflavored NDKs
-  <sub>[#183555](https://github.com/flutter/flutter/pull/183555) merged on April 13, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/183555) over 1 month, 1142 additions and 74 deletions in 10 files</sub>
+  <sub>[#183555](https://github.com/flutter/flutter/pull/183555) merged on April 13, 2026 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/183555) over 1 month, 1142 additions and 74 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator
