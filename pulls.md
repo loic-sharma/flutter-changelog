@@ -140,9 +140,6 @@
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix: --no-hot flag should trigger hot restart instead of being ignored<br />
   <sub>[#185245](https://github.com/flutter/flutter/pull/185245) opened on on April 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185245) 22 additions and 2 deletions in 7 files</sub><br />
 
-* **[spandan3001](https://github.com/spandan3001)** &mdash; Remove semantics_tester cross-import from segmented_button_test.dart<br />
-  <sub>[#185250](https://github.com/flutter/flutter/pull/185250) opened on on April 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185250) 1327 additions and 1 deletion in 2 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make key mapping code match existing embedder style<br />
   <sub>[#185261](https://github.com/flutter/flutter/pull/185261) opened on on April 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185261) 53 additions and 68 deletions in 13 files</sub><br />
 
