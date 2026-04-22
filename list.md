@@ -741,7 +741,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-4 commits.
+5 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Support custom types
   <sub>[#11068](https://github.com/flutter/packages/pull/11068) merged on April 20, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/11068) over 2 months, 332 additions and 25 deletions in 11 files</sub>
@@ -758,6 +758,10 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-go_router to main
   <sub>[#11545](https://github.com/flutter/packages/pull/11545) merged on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11545) over 44 minutes, 5 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Revert "[webview_flutter_wkwebview] Tear down ProxyAPIRegistrar in `applicationWillTerminate`"
+  <sub>[#11564](https://github.com/flutter/packages/pull/11564) merged on April 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11564) over 41 minutes, 8 additions and 121 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 ### April 11, 2026 to April 17, 2026
 

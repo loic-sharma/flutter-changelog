@@ -18,7 +18,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/180591) 2566 additions and 545 deletions in 20 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [43 comments](https://github.com/flutter/flutter/pull/180591) 2566 additions and 545 deletions in 20 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -79,9 +79,6 @@
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix SIGSEGV in VSyncClient on ProMotion devices when engine shell is nil<br />
   <sub>[#184639](https://github.com/flutter/flutter/pull/184639) opened on on April 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184639) 51 additions and 3 deletions in 4 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add swift strict concurrency attributes to iOS API - part 1<br />
-  <sub>[#184703](https://github.com/flutter/flutter/pull/184703) opened on on April 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184703) 237 additions and 49 deletions in 14 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_tools] Migrate detectLowCompileSdkVersionOrNdkVersion to AGP task<br />
   <sub>[#184731](https://github.com/flutter/flutter/pull/184731) opened on on April 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/184731) 634 additions and 331 deletions in 6 files</sub><br />
@@ -164,9 +161,6 @@
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; dev: Remove unused parameters<br />
-  <sub>[#185345](https://github.com/flutter/flutter/pull/185345) opened on on April 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185345) 0 additions and 2 deletions in 1 file</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters<br />
   <sub>[#185346](https://github.com/flutter/flutter/pull/185346) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185346) 2 additions and 9 deletions in 1 file</sub><br />
 
@@ -196,9 +190,6 @@
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; test: move Material-dependent tap region tests to material/ directory<br />
   <sub>[#185397](https://github.com/flutter/flutter/pull/185397) opened on on April 22, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/185397) 220 additions and 220 deletions in 2 files</sub><br />
-
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; test: inline TestCallbackPainter in cupertino/picker_test.dart<br />
-  <sub>[#185398](https://github.com/flutter/flutter/pull/185398) opened on on April 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185398) 17 additions and 1 deletion in 1 file</sub><br />
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; test: remove Material dependency from sliver_main_axis_group_test<br />
   <sub>[#185402](https://github.com/flutter/flutter/pull/185402) opened on on April 22, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185402) 394 additions and 334 deletions in 2 files</sub><br />
