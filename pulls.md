@@ -209,3 +209,6 @@
 * **[Josh Miller](https://github.com/utopiancreations)** &mdash; Fix: Preserve multiple Set-Cookie headers in web proxy (#178582)<br />
   <sub>[#185419](https://github.com/flutter/flutter/pull/185419) opened on on April 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185419) 123 additions and 4 deletions in 1 file</sub><br />
 
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]skip non-tappable web view workaround on ios 26.4<br />
+  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
+
