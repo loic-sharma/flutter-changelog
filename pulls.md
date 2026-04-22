@@ -161,9 +161,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [CP-beta][Widget Preview] Fix flaky integration test timeout during flutter clean (#184991)<br />
   <sub>[#185300](https://github.com/flutter/flutter/pull/185300) opened on on April 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185300) 57 additions and 13 deletions in 5 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add CONTENT_CHANGE_TYPE_EXPANDED support on android.<br />
-  <sub>[#185305](https://github.com/flutter/flutter/pull/185305) opened on on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185305) 103 additions and 2 deletions in 2 files</sub><br />
-
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
@@ -190,4 +187,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
   <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Add BrowserScrollable and BrowserScrollPhysics<br />
+  <sub>[#185386](https://github.com/flutter/flutter/pull/185386) opened on on April 22, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/185386) 2995 additions and 40 deletions in 23 files</sub><br />
 

@@ -50,6 +50,10 @@
   <sub>[#183233](https://github.com/flutter/flutter/pull/183233) merged on April 20, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/183233) over 1 month, 43 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve the error if the tool cannot find the locally built engine<br />
+  <sub>[#184546](https://github.com/flutter/flutter/pull/184546) merged on April 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184546) over 2 weeks, 10 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools<br />
   <sub>[#183971](https://github.com/flutter/flutter/pull/183971) merged on April 21, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/183971) over 1 month, 21 additions and 22 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
@@ -62,9 +66,9 @@
   <sub>[#185301](https://github.com/flutter/flutter/pull/185301) merged on April 20, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/185301) over 1 hour, 95 additions and 66 deletions in 8 files</sub><br />
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [John "agentfu" McDole](https://github.com/agentfu), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve the error if the tool cannot find the locally built engine<br />
-  <sub>[#184546](https://github.com/flutter/flutter/pull/184546) merged on April 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184546) over 2 weeks, 10 additions and 7 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update the text input triage process to route to platform teams<br />
+  <sub>[#185225](https://github.com/flutter/flutter/pull/185225) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185225) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [data_assets] Try fix #184505<br />
   <sub>[#185330](https://github.com/flutter/flutter/pull/185330) merged on April 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185330) over 7 hours, 11 additions and 15 deletions in 2 files</sub><br />
@@ -81,10 +85,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix timeout when `hybrid_android_views` fails `MotionEvent recomposition`<br />
   <sub>[#185003](https://github.com/flutter/flutter/pull/185003) merged on April 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185003) over 1 week, 7 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update the text input triage process to route to platform teams<br />
-  <sub>[#185225](https://github.com/flutter/flutter/pull/185225) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185225) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; new_gallery_macos_impeller__transition_perf out of bringup<br />
   <sub>[#185355](https://github.com/flutter/flutter/pull/185355) merged on April 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185355) over 4 hours, 0 additions and 1 deletion in 1 file</sub><br />
