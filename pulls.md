@@ -72,7 +72,7 @@
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184588) 53 additions and 3 deletions in 5 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use relative path for reloadedSourcesUri and reloaded modules<br />
-  <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184598) 126 additions and 43 deletions in 3 files</sub><br />
+  <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184598) 166 additions and 18 deletions in 2 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix web dev proxy merging multiple Set-Cookie response headers<br />
   <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 169 additions and 1 deletion in 2 files</sub><br />
@@ -202,4 +202,7 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]skip non-tappable web view workaround on ios 26.4<br />
   <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
+  <sub>[#185431](https://github.com/flutter/flutter/pull/185431) opened on on April 22, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185431) 320 additions and 320 deletions in 49 files</sub><br />
 

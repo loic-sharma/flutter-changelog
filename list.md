@@ -4,7 +4,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-30 commits.
+31 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reapply "Unpin sdk package dependencies"
   <sub>[#185268](https://github.com/flutter/flutter/pull/185268) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185268) over 22 hours, 33 additions and 35 deletions in 5 files</sub>
@@ -53,6 +53,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve the error if the tool cannot find the locally built engine
   <sub>[#184546](https://github.com/flutter/flutter/pull/184546) merged on April 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184546) over 2 weeks, 10 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[saurabh-mirajkar](https://github.com/saurabh-mirajkar)** &mdash; Fix incorrect scale parameter reference in Image constructor docs
+  <sub>[#185403](https://github.com/flutter/flutter/pull/185403) merged on April 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185403) over 9 hours, 0 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools
   <sub>[#183971](https://github.com/flutter/flutter/pull/183971) merged on April 21, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/183971) over 1 month, 21 additions and 22 deletions in 14 files</sub>
