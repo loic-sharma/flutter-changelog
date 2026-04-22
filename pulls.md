@@ -206,3 +206,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#185431](https://github.com/flutter/flutter/pull/185431) opened on on April 22, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185431) 320 additions and 320 deletions in 49 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Revert "Preprovision Android NDK for flavored builds and reuse matchi…<br />
+  <sub>[#185439](https://github.com/flutter/flutter/pull/185439) opened on on April 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185439) 74 additions and 1142 deletions in 10 files</sub><br />
+

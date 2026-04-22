@@ -4,7 +4,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-32 commits.
+33 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reapply "Unpin sdk package dependencies"
   <sub>[#185268](https://github.com/flutter/flutter/pull/185268) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185268) over 22 hours, 33 additions and 35 deletions in 5 files</sub>
@@ -114,6 +114,10 @@
   <sub>[#185170](https://github.com/flutter/flutter/pull/185170) merged on April 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185170) over 3 days, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add more guidelines for code review bot
+  <sub>[#185367](https://github.com/flutter/flutter/pull/185367) merged on April 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185367) over 1 day, 5 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Compatibility bridge for analyzer 12 and 13.
   <sub>[#185360](https://github.com/flutter/flutter/pull/185360) merged on April 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185360) over 3 hours, 80 additions and 19 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Aprelev](https://github.com/aam), [Ryan Macnak](https://github.com/rmacnak-google)</sub>
@@ -174,7 +178,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [b-luk](https://github.com/b-luk)</sub>
 
 * **[kyungilcho](https://github.com/kyungilcho)** &mdash; Preprovision Android NDK for flavored builds and reuse matching unflavored NDKs
-  <sub>[#183555](https://github.com/flutter/flutter/pull/183555) merged on April 13, 2026 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/183555) over 1 month, 1142 additions and 74 deletions in 10 files</sub>
+  <sub>[#183555](https://github.com/flutter/flutter/pull/183555) merged on April 13, 2026 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/183555) over 1 month, 1142 additions and 74 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator
