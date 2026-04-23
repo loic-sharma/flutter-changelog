@@ -48,7 +48,7 @@
   <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
-  <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/183838) 165 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/183838) 197 additions and 11 deletions in 10 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [web] Prioritize Noto Color Emoji in font fallback selection<br />
   <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184120) 150 additions and 4 deletions in 2 files</sub><br />
