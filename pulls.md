@@ -201,7 +201,7 @@
   <sub>[#185439](https://github.com/flutter/flutter/pull/185439) opened on on April 22, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/185439) 74 additions and 1142 deletions in 10 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add pr filter for waiting for response label in triage<br />
-  <sub>[#185441](https://github.com/flutter/flutter/pull/185441) opened on on April 22, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/185441) 16 additions and 16 deletions in 1 file</sub><br />
+  <sub>[#185441](https://github.com/flutter/flutter/pull/185441) opened on on April 22, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185441) 16 additions and 16 deletions in 1 file</sub><br />
 
 * **[Hashem](https://github.com/haashem)** &mdash; fix:`DropdownMenuFormField` missing leading icon<br />
   <sub>[#185445](https://github.com/flutter/flutter/pull/185445) opened on on April 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185445) 32 additions and 0 deletions in 2 files</sub><br />
@@ -219,8 +219,11 @@
   <sub>[#185458](https://github.com/flutter/flutter/pull/185458) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185458) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ahmed Mostafa](https://github.com/ahmedm-gh)** &mdash; Widgets: Add .only and .symmetric constructors to SafeArea<br />
-  <sub>[#185470](https://github.com/flutter/flutter/pull/185470) opened on on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185470) 42 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#185470](https://github.com/flutter/flutter/pull/185470) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185470) 42 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; (Test cross-imports) Remove legacy Material import from sliver_utils<br />
   <sub>[#185472](https://github.com/flutter/flutter/pull/185472) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185472) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Accessibility: Add semanticLabel to MenuAnchor. Fixes #184876.<br />
+  <sub>[#185475](https://github.com/flutter/flutter/pull/185475) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185475) 53 additions and 14 deletions in 2 files</sub><br />
 
