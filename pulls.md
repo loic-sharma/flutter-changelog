@@ -206,3 +206,6 @@
 * **[Hashem](https://github.com/haashem)** &mdash; fix:`DropdownMenuFormField` missing leading icon<br />
   <sub>[#185445](https://github.com/flutter/flutter/pull/185445) opened on on April 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185445) 32 additions and 0 deletions in 2 files</sub><br />
 
+* **[Roman Diakonov](https://github.com/ultra-rony)** &mdash; fix(l10n): fix reversed expanded/collapsed labels in ru<br />
+  <sub>[#185454](https://github.com/flutter/flutter/pull/185454) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185454) 2 additions and 2 deletions in 1 file</sub><br />
+
