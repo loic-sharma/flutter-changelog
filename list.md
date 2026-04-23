@@ -34,6 +34,10 @@
   <sub>[#184545](https://github.com/flutter/flutter/pull/184545) merged on April 23, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/184545) over 2 weeks, 66 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add disposal guidance to CurvedAnimation and CurveTween docs
+  <sub>[#184569](https://github.com/flutter/flutter/pull/184569) merged on April 23, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/184569) over 2 weeks, 17 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Run build hooks and link hooks in separate targets
   <sub>[#184880](https://github.com/flutter/flutter/pull/184880) merged on April 20, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/184880) over 1 week, 737 additions and 275 deletions in 23 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer), [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -45,10 +49,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Move widget_preview_scaffold into pub workspace
   <sub>[#185176](https://github.com/flutter/flutter/pull/185176) merged on April 20, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/185176) over 3 days, 243 additions and 80 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jessy Yameogo](https://github.com/jyameo), [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add disposal guidance to CurvedAnimation and CurveTween docs
-  <sub>[#184569](https://github.com/flutter/flutter/pull/184569) merged on April 23, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/184569) over 2 weeks, 17 additions and 4 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: correct LicenseRegistry docs to reference NOTICES instead of LICENSE
   <sub>[#184572](https://github.com/flutter/flutter/pull/184572) merged on April 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184572) over 2 weeks, 7 additions and 5 deletions in 2 files</sub>
