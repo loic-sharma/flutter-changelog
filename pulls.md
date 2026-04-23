@@ -167,9 +167,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add a11y_assessment test and fixes issues<br />
   <sub>[#185362](https://github.com/flutter/flutter/pull/185362) opened on on April 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185362) 44 additions and 22 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Refactor hostPlatform to use Abi.current()<br />
-  <sub>[#185369](https://github.com/flutter/flutter/pull/185369) opened on on April 21, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/185369) 159 additions and 267 deletions in 11 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
   <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />
 
