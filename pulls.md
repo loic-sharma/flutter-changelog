@@ -227,3 +227,9 @@
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Accessibility: Add semanticLabel to MenuAnchor. Fixes #184876.<br />
   <sub>[#185475](https://github.com/flutter/flutter/pull/185475) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185475) 58 additions and 18 deletions in 2 files</sub><br />
 
+* **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; [flutter_tools] Fix `flutter drive --chrome-binary` being ignored on web<br />
+  <sub>[#185481](https://github.com/flutter/flutter/pull/185481) opened on on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185481) 135 additions and 1 deletion in 2 files</sub><br />
+
+* **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; Remove test utils cross-import from elevated_button_test<br />
+  <sub>[#185483](https://github.com/flutter/flutter/pull/185483) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185483) 12 additions and 23 deletions in 1 file</sub><br />
+
