@@ -228,5 +228,8 @@
   <sub>[#185486](https://github.com/flutter/flutter/pull/185486) opened on on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185486) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete some remaining HTML renderer references<br />
-  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185487) 8 additions and 92 deletions in 10 files</sub><br />
+  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185487) 24 additions and 96 deletions in 12 files</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update ios-reviewers tags to include more files<br />
+  <sub>[#185490](https://github.com/flutter/flutter/pull/185490) opened on on April 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185490) 14 additions and 2 deletions in 2 files</sub><br />
 

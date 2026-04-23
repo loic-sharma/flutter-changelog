@@ -789,11 +789,15 @@
 
 ### April 18, 2026 to April 24, 2026
 
-5 commits.
+6 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Support custom types<br />
   <sub>[#11068](https://github.com/flutter/packages/pull/11068) merged on April 20, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/11068) over 2 months, 332 additions and 25 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[moepanda](https://github.com/moepanda)** &mdash; [Animations] Add support for custom shadows to OpenContainer (#62475)<br />
+  <sub>[#11401](https://github.com/flutter/packages/pull/11401) merged on April 23, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/packages/pull/11401) over 3 weeks, 508 additions and 83 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fix assertion failure on URLs with hash fragments missing leading slash<br />
   <sub>[#11431](https://github.com/flutter/packages/pull/11431) merged on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11431) over 2 weeks, 87 additions and 5 deletions in 4 files</sub><br />
