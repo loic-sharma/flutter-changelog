@@ -195,7 +195,7 @@
   <sub>[#185431](https://github.com/flutter/flutter/pull/185431) opened on on April 22, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185431) 320 additions and 320 deletions in 49 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Revert "Preprovision Android NDK for flavored builds and reuse matchi…<br />
-  <sub>[#185439](https://github.com/flutter/flutter/pull/185439) opened on on April 22, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/185439) 74 additions and 1142 deletions in 10 files</sub><br />
+  <sub>[#185439](https://github.com/flutter/flutter/pull/185439) opened on on April 22, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185439) 74 additions and 1142 deletions in 10 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add pr filter for waiting for response label in triage<br />
   <sub>[#185441](https://github.com/flutter/flutter/pull/185441) opened on on April 22, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185441) 16 additions and 16 deletions in 1 file</sub><br />
@@ -232,4 +232,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made wide_gamut_macos only run on arm64 machines<br />
   <sub>[#185486](https://github.com/flutter/flutter/pull/185486) opened on on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185486) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete some remaining HTML renderer references<br />
+  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185487) 8 additions and 92 deletions in 10 files</sub><br />
 

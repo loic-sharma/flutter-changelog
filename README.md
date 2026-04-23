@@ -86,6 +86,10 @@
   <sub>[#185403](https://github.com/flutter/flutter/pull/185403) merged on April 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185403) over 9 hours, 0 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios] Update documentation for FlutterAppDelegate.pluginRegistrant<br />
+  <sub>[#185201](https://github.com/flutter/flutter/pull/185201) merged on April 23, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185201) over 6 days, 14 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds script to run malioc locally<br />
   <sub>[#185371](https://github.com/flutter/flutter/pull/185371) merged on April 22, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185371) over 1 day, 238 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [b-luk](https://github.com/b-luk), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
@@ -109,10 +113,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter] Remove dead check on null being in a set of non-nullables<br />
   <sub>[#184100](https://github.com/flutter/flutter/pull/184100) merged on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184100) over 3 weeks, 1 addition and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios] Update documentation for FlutterAppDelegate.pluginRegistrant<br />
-  <sub>[#185201](https://github.com/flutter/flutter/pull/185201) merged on April 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185201) over 6 days, 14 additions and 8 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Improve LaunchEngine implementation/API/docs<br />
   <sub>[#185200](https://github.com/flutter/flutter/pull/185200) merged on April 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185200) over 3 days, 74 additions and 32 deletions in 3 files</sub><br />
