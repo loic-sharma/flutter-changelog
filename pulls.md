@@ -194,9 +194,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#185431](https://github.com/flutter/flutter/pull/185431) opened on on April 22, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/185431) 320 additions and 320 deletions in 69 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Revert "Preprovision Android NDK for flavored builds and reuse matchi…<br />
-  <sub>[#185439](https://github.com/flutter/flutter/pull/185439) opened on on April 22, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185439) 74 additions and 1142 deletions in 10 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add pr filter for waiting for response label in a11y pr triage<br />
   <sub>[#185441](https://github.com/flutter/flutter/pull/185441) opened on on April 22, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/185441) 1 addition and 1 deletion in 1 file</sub><br />
 
