@@ -171,7 +171,7 @@
   <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Run tests in `selectable_region_context_menu_test.dart`<br />
-  <sub>[#185380](https://github.com/flutter/flutter/pull/185380) opened on on April 21, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185380) 117 additions and 129 deletions in 1 file</sub><br />
+  <sub>[#185380](https://github.com/flutter/flutter/pull/185380) opened on on April 21, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185380) 117 additions and 129 deletions in 1 file</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Add BrowserScrollable and BrowserScrollPhysics<br />
   <sub>[#185386](https://github.com/flutter/flutter/pull/185386) opened on on April 22, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/185386) 2995 additions and 40 deletions in 23 files</sub><br />
@@ -208,4 +208,13 @@
 
 * **[Roman Diakonov](https://github.com/ultra-rony)** &mdash; fix(l10n): fix reversed expanded/collapsed labels in ru<br />
   <sub>[#185454](https://github.com/flutter/flutter/pull/185454) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185454) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: remove ToString() from Vector3/Vector4 and ColorToString()<br />
+  <sub>[#185456](https://github.com/flutter/flutter/pull/185456) opened on on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185456) 2 additions and 29 deletions in 5 files</sub><br />
+
+* **[Shivanshu](https://github.com/shivanshu877)** &mdash; docs: update Impeller advanced blend docs for framebuffer fetch<br />
+  <sub>[#185457](https://github.com/flutter/flutter/pull/185457) opened on on April 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185457) 21 additions and 9 deletions in 1 file</sub><br />
+
+* **[Roman Diakonov](https://github.com/ultra-rony)** &mdash; fix(l10n): fix reversed expanded/collapsed labels in ru<br />
+  <sub>[#185458](https://github.com/flutter/flutter/pull/185458) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185458) 4 additions and 4 deletions in 2 files</sub><br />
 
