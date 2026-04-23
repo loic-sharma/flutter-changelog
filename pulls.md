@@ -197,9 +197,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Revert "Preprovision Android NDK for flavored builds and reuse matchi…<br />
   <sub>[#185439](https://github.com/flutter/flutter/pull/185439) opened on on April 22, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185439) 74 additions and 1142 deletions in 10 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Add pr filter for waiting for response label in triage<br />
-  <sub>[#185441](https://github.com/flutter/flutter/pull/185441) opened on on April 22, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185441) 16 additions and 16 deletions in 1 file</sub><br />
-
 * **[Hashem](https://github.com/haashem)** &mdash; fix:`DropdownMenuFormField` missing leading icon<br />
   <sub>[#185445](https://github.com/flutter/flutter/pull/185445) opened on on April 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185445) 32 additions and 0 deletions in 2 files</sub><br />
 
@@ -221,9 +218,6 @@
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; (Test cross-imports) Remove legacy Material import from sliver_utils<br />
   <sub>[#185472](https://github.com/flutter/flutter/pull/185472) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185472) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Accessibility: Add semanticLabel to MenuAnchor. Fixes #184876.<br />
-  <sub>[#185475](https://github.com/flutter/flutter/pull/185475) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185475) 58 additions and 18 deletions in 2 files</sub><br />
-
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; [flutter_tools] Fix `flutter drive --chrome-binary` being ignored on web<br />
   <sub>[#185481](https://github.com/flutter/flutter/pull/185481) opened on on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185481) 135 additions and 1 deletion in 2 files</sub><br />
 
@@ -234,5 +228,5 @@
   <sub>[#185486](https://github.com/flutter/flutter/pull/185486) opened on on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185486) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete some remaining HTML renderer references<br />
-  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185487) 8 additions and 92 deletions in 10 files</sub><br />
+  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185487) 8 additions and 92 deletions in 10 files</sub><br />
 
