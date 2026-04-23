@@ -72,7 +72,7 @@
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184588) 53 additions and 3 deletions in 5 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use relative path for reloadedSourcesUri and reloaded modules<br />
-  <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184598) 216 additions and 18 deletions in 2 files</sub><br />
+  <sub>[#184598](https://github.com/flutter/flutter/pull/184598) opened on on April 3, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184598) 220 additions and 18 deletions in 2 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix web dev proxy merging multiple Set-Cookie response headers<br />
   <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 169 additions and 1 deletion in 2 files</sub><br />
@@ -170,9 +170,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
   <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Run tests in `selectable_region_context_menu_test.dart`<br />
-  <sub>[#185380](https://github.com/flutter/flutter/pull/185380) opened on on April 21, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185380) 117 additions and 129 deletions in 1 file</sub><br />
-
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Add BrowserScrollable and BrowserScrollPhysics<br />
   <sub>[#185386](https://github.com/flutter/flutter/pull/185386) opened on on April 22, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/185386) 2995 additions and 40 deletions in 23 files</sub><br />
 
@@ -231,5 +228,8 @@
   <sub>[#185481](https://github.com/flutter/flutter/pull/185481) opened on on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185481) 135 additions and 1 deletion in 2 files</sub><br />
 
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; Remove test utils cross-import from elevated_button_test<br />
-  <sub>[#185483](https://github.com/flutter/flutter/pull/185483) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185483) 12 additions and 23 deletions in 1 file</sub><br />
+  <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made wide_gamut_macos only run on arm64 machines<br />
+  <sub>[#185486](https://github.com/flutter/flutter/pull/185486) opened on on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185486) 1 addition and 0 deletions in 1 file</sub><br />
 
