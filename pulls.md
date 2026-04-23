@@ -231,5 +231,5 @@
   <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185487) 24 additions and 96 deletions in 12 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update ios-reviewers tags to include more files<br />
-  <sub>[#185490](https://github.com/flutter/flutter/pull/185490) opened on on April 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185490) 14 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185490](https://github.com/flutter/flutter/pull/185490) opened on on April 23, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/185490) 20 additions and 2 deletions in 2 files</sub><br />
 

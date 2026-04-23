@@ -950,7 +950,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-12 commits.
+13 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a page on building a custom extension for DevTools<br />
   <sub>[#13288](https://github.com/flutter/website/pull/13288) merged on April 20, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/website/pull/13288) over 2 days, 511 additions and 9 deletions in 10 files</sub><br />
@@ -963,6 +963,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a note on working around a potential crash on iOS<br />
   <sub>[#13244](https://github.com/flutter/website/pull/13244) merged on April 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13244) over 2 weeks, 41 additions and 35 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update and simplify dependabot config<br />
+  <sub>[#13302](https://github.com/flutter/website/pull/13302) merged on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13302) over 27 minutes, 15 additions and 145 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix Material 2 widget catalog images<br />
   <sub>[#13301](https://github.com/flutter/website/pull/13301) merged on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13301) over 2 hours, 8 additions and 8 deletions in 9 files</sub><br />
