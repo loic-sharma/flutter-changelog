@@ -75,7 +75,7 @@
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [John "agentfu" McDole](https://github.com/agentfu), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Roll pub packages<br />
-  <sub>[#185274](https://github.com/flutter/flutter/pull/185274) merged on April 22, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/185274) over 2 days, 64 additions and 71 deletions in 9 files</sub><br />
+  <sub>[#185274](https://github.com/flutter/flutter/pull/185274) merged on April 22, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/185274) over 2 days, 64 additions and 71 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix non-minimal relative imports in flutter_tools<br />
