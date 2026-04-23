@@ -950,7 +950,7 @@
 
 ### April 18, 2026 to April 24, 2026
 
-13 commits.
+14 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a page on building a custom extension for DevTools
   <sub>[#13288](https://github.com/flutter/website/pull/13288) merged on April 20, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/website/pull/13288) over 2 days, 511 additions and 9 deletions in 10 files</sub>
@@ -959,6 +959,10 @@
 * **[zeyus](https://github.com/zeyus)** &mdash; Added note regarding libc++_shared.so in the bind-native-code docs
   <sub>[#13212](https://github.com/flutter/website/pull/13212) merged on April 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13212) over 1 month, 17 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[solsTiCe d'Hiver](https://github.com/solsticedhiver)** &mdash; Add storetype option to keytool command example for linux
+  <sub>[#13213](https://github.com/flutter/website/pull/13213) merged on April 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13213) over 1 month, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a note on working around a potential crash on iOS
   <sub>[#13244](https://github.com/flutter/website/pull/13244) merged on April 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13244) over 2 weeks, 41 additions and 35 deletions in 2 files</sub>
