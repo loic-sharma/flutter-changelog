@@ -225,5 +225,5 @@
   <sub>[#185472](https://github.com/flutter/flutter/pull/185472) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185472) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Accessibility: Add semanticLabel to MenuAnchor. Fixes #184876.<br />
-  <sub>[#185475](https://github.com/flutter/flutter/pull/185475) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185475) 53 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#185475](https://github.com/flutter/flutter/pull/185475) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185475) 58 additions and 18 deletions in 2 files</sub><br />
 
