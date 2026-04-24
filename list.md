@@ -44,7 +44,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator
-  <sub>[#185431](https://github.com/flutter/flutter/pull/185431) merged on April 23, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/185431) over 1 day, 320 additions and 320 deletions in 69 files</sub>
+  <sub>[#185431](https://github.com/flutter/flutter/pull/185431) merged on April 23, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185431) over 1 day, 320 additions and 320 deletions in 69 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Updating the windowing API for sized to content regular and dialog windows + removing the decorated flag
