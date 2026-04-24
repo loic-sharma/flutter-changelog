@@ -158,9 +158,6 @@
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Testing dwds bump before publish<br />
   <sub>[#185357](https://github.com/flutter/flutter/pull/185357) opened on on April 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185357) 13 additions and 22 deletions in 3 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Add a11y_assessment test and fixes issues<br />
-  <sub>[#185362](https://github.com/flutter/flutter/pull/185362) opened on on April 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185362) 44 additions and 22 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
   <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />
 
@@ -249,5 +246,5 @@
   <sub>[#185539](https://github.com/flutter/flutter/pull/185539) opened on on April 24, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185539) 684 additions and 38 deletions in 12 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Enable SPM for GoogleMobileAds<br />
-  <sub>[#185548](https://github.com/flutter/flutter/pull/185548) opened on on April 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185548) 47 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#185548](https://github.com/flutter/flutter/pull/185548) opened on on April 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185548) 46 additions and 4 deletions in 3 files</sub><br />
 
