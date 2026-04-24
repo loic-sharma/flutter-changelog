@@ -245,3 +245,6 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; fix: MergeSemantics dispatches correct handler for specific custom action<br />
   <sub>[#185524](https://github.com/flutter/flutter/pull/185524) opened on on April 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185524) 133 additions and 4 deletions in 2 files</sub><br />
 
+* **[kyungilcho](https://github.com/kyungilcho)** &mdash; [flutter_tools] Preprovision Android NDK only for flavored builds<br />
+  <sub>[#185531](https://github.com/flutter/flutter/pull/185531) opened on on April 24, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185531) 865 additions and 78 deletions in 10 files</sub><br />
+
