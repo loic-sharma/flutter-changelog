@@ -248,3 +248,9 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders<br />
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185534) 144 additions and 3 deletions in 3 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Manually Revert "fix(web): Fix LateInitializationError in CkSurface and SkwasmSurface (#185116)"<br />
+  <sub>[#185539](https://github.com/flutter/flutter/pull/185539) opened on on April 24, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185539) 684 additions and 38 deletions in 12 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Use relative path for reloadedSourcesUri and reloaded modules<br />
+  <sub>[#185540](https://github.com/flutter/flutter/pull/185540) opened on on April 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185540) 186 additions and 18 deletions in 2 files</sub><br />
+
