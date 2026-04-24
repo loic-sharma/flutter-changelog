@@ -228,7 +228,7 @@
   <sub>[#185495](https://github.com/flutter/flutter/pull/185495) opened on on April 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185495) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix leak on error case<br />
-  <sub>[#185516](https://github.com/flutter/flutter/pull/185516) opened on on April 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185516) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#185516](https://github.com/flutter/flutter/pull/185516) opened on on April 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185516) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't leak gesture objects<br />
   <sub>[#185517](https://github.com/flutter/flutter/pull/185517) opened on on April 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185517) 19 additions and 10 deletions in 1 file</sub><br />
