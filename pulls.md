@@ -248,3 +248,6 @@
 * **[kyungilcho](https://github.com/kyungilcho)** &mdash; [flutter_tools] Preprovision Android NDK only for flavored builds<br />
   <sub>[#185531](https://github.com/flutter/flutter/pull/185531) opened on on April 24, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185531) 865 additions and 78 deletions in 10 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders<br />
+  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185534) 144 additions and 3 deletions in 3 files</sub><br />
+
