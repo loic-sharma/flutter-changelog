@@ -111,7 +111,7 @@
   <sub>[#184905](https://github.com/flutter/flutter/pull/184905) opened on on April 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/184905) 219 additions and 103 deletions in 7 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
-  <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184956) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184956) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels<br />
   <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 193 additions and 4 deletions in 3 files</sub><br />
@@ -226,4 +226,19 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [github]fix git ls-file glob pattern in labeler.yml instruction<br />
   <sub>[#185495](https://github.com/flutter/flutter/pull/185495) opened on on April 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185495) 2 additions and 2 deletions in 2 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix leak on error case<br />
+  <sub>[#185516](https://github.com/flutter/flutter/pull/185516) opened on on April 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185516) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't leak gesture objects<br />
+  <sub>[#185517](https://github.com/flutter/flutter/pull/185517) opened on on April 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185517) 19 additions and 10 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use g_free when using glib memory allocation<br />
+  <sub>[#185519](https://github.com/flutter/flutter/pull/185519) opened on on April 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185519) 4 additions and 4 deletions in 2 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use g_realloc instead of realloc<br />
+  <sub>[#185520](https://github.com/flutter/flutter/pull/185520) opened on on April 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185520) 4 additions and 3 deletions in 2 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Disconnect from parent window signal when view is destroyed<br />
+  <sub>[#185521](https://github.com/flutter/flutter/pull/185521) opened on on April 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185521) 11 additions and 2 deletions in 1 file</sub><br />
 
