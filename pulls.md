@@ -242,9 +242,9 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support reloading assets (including shaders)<br />
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/185534) 506 additions and 19 deletions in 3 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Manually Revert "fix(web): Fix LateInitializationError in CkSurface and SkwasmSurface (#185116)"<br />
-  <sub>[#185539](https://github.com/flutter/flutter/pull/185539) opened on on April 24, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185539) 684 additions and 38 deletions in 12 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Enable SPM for GoogleMobileAds<br />
-  <sub>[#185548](https://github.com/flutter/flutter/pull/185548) opened on on April 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185548) 46 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#185548](https://github.com/flutter/flutter/pull/185548) opened on on April 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185548) 46 additions and 4 deletions in 3 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland "[web] Fix LateInitializationError in CkSurface and SkwasmSurface (#185116)"<br />
+  <sub>[#185553](https://github.com/flutter/flutter/pull/185553) opened on on April 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185553) 36 additions and 5 deletions in 4 files</sub><br />
 
