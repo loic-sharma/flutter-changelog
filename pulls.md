@@ -248,3 +248,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Manually Revert "fix(web): Fix LateInitializationError in CkSurface and SkwasmSurface (#185116)"<br />
   <sub>[#185539](https://github.com/flutter/flutter/pull/185539) opened on on April 24, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185539) 684 additions and 38 deletions in 12 files</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Enable SPM for GoogleMobileAds<br />
+  <sub>[#185548](https://github.com/flutter/flutter/pull/185548) opened on on April 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185548) 47 additions and 3 deletions in 3 files</sub><br />
+
