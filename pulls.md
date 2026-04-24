@@ -212,9 +212,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete some remaining HTML renderer references<br />
   <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185487) 24 additions and 96 deletions in 12 files</sub><br />
 
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [github]fix git ls-file glob pattern in labeler.yml instruction<br />
-  <sub>[#185495](https://github.com/flutter/flutter/pull/185495) opened on on April 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185495) 2 additions and 2 deletions in 2 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't leak gesture objects<br />
   <sub>[#185517](https://github.com/flutter/flutter/pull/185517) opened on on April 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185517) 19 additions and 10 deletions in 1 file</sub><br />
 
