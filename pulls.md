@@ -233,6 +233,3 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/185534) 697 additions and 106 deletions in 5 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Enable SPM for GoogleMobileAds<br />
-  <sub>[#185548](https://github.com/flutter/flutter/pull/185548) opened on on April 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185548) 46 additions and 4 deletions in 3 files</sub><br />
-
