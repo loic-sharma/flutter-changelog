@@ -57,6 +57,10 @@
   <sub>[#185370](https://github.com/flutter/flutter/pull/185370) merged on April 25, 2026 &mdash; **Medium:** [43 comments](https://github.com/flutter/flutter/pull/185370) over 3 days, 367 additions and 34 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add @awaitNotRequired annotation to flutter sdk<br />
+  <sub>[#181513](https://github.com/flutter/flutter/pull/181513) merged on April 25, 2026 &mdash; **Small:** [49 comments](https://github.com/flutter/flutter/pull/181513) over 2 months, 65 additions and 9 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: Remove material imports from editable_text_scribble_test, editable_text_scribe_test, page_route_builder_test, radio_group_test, semantics_debugger_test, range_maintaining_scroll_physics_test, two_dimensional_scroll_view_test, routes_test, text_selection_test, selectable_region_test and text_golden_test<br />
   <sub>[#184798](https://github.com/flutter/flutter/pull/184798) merged on April 24, 2026 &mdash; **Extra large:** [30 comments](https://github.com/flutter/flutter/pull/184798) over 2 weeks, 2314 additions and 1936 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -81,10 +85,6 @@
   <sub>[#184977](https://github.com/flutter/flutter/pull/184977) merged on April 23, 2026 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/184977) over 1 week, 221 additions and 143 deletions in 12 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matej Knopp](https://github.com/knopp), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
-  <sub>[#185431](https://github.com/flutter/flutter/pull/185431) merged on April 23, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185431) over 1 day, 320 additions and 320 deletions in 69 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
-
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add disposal guidance to CurvedAnimation and CurveTween docs<br />
   <sub>[#184569](https://github.com/flutter/flutter/pull/184569) merged on April 23, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/184569) over 2 weeks, 17 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -94,9 +94,9 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
   <sub><details><summary>1 image...</summary><img width="447" height="84" alt="Screenshot 2026-04-22 at 14 02 39" src="https://github.com/user-attachments/assets/93fc0f49-cd1d-411e-89db-cfc01c16a493" /></details></sub>
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add @awaitNotRequired annotation to flutter sdk<br />
-  <sub>[#181513](https://github.com/flutter/flutter/pull/181513) merged on April 25, 2026 &mdash; **Small:** [49 comments](https://github.com/flutter/flutter/pull/181513) over 2 months, 65 additions and 9 deletions in 21 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
+  <sub>[#185431](https://github.com/flutter/flutter/pull/185431) merged on April 23, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185431) over 1 day, 320 additions and 320 deletions in 69 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Run build hooks and link hooks in separate targets<br />
   <sub>[#184880](https://github.com/flutter/flutter/pull/184880) merged on April 20, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/184880) over 1 week, 737 additions and 275 deletions in 23 files</sub><br />
