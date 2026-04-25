@@ -234,5 +234,5 @@
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/185534) 697 additions and 106 deletions in 5 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Win32: Add FlutterDesktopPluginRegistrarGetGraphicsAdapter<br />
-  <sub>[#185580](https://github.com/flutter/flutter/pull/185580) opened on on April 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185580) 42 additions and 0 deletions in 6 files</sub><br />
+  <sub>[#185580](https://github.com/flutter/flutter/pull/185580) opened on on April 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185580) 42 additions and 0 deletions in 6 files</sub><br />
 
