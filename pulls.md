@@ -245,3 +245,6 @@
 * **[Edo Sagron](https://github.com/EdoSag)** &mdash; Add minSdkVersion compatibility check in Flutter Gradle Plugin<br />
   <sub>[#185594](https://github.com/flutter/flutter/pull/185594) opened on on April 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185594) 112 additions and 0 deletions in 3 files</sub><br />
 
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Cache plugin registrant in test compiler<br />
+  <sub>[#185598](https://github.com/flutter/flutter/pull/185598) opened on on April 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185598) 167 additions and 10 deletions in 2 files</sub><br />
+
