@@ -239,3 +239,6 @@
 * **[Mohamed Risaldar UT](https://github.com/MohamedRisaldarTA)** &mdash; Added name to AUTHORS<br />
   <sub>[#185586](https://github.com/flutter/flutter/pull/185586) opened on on April 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185586) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Edo Sagron](https://github.com/EdoSag)** &mdash; Add minSdkVersion compatibility check in Flutter Gradle Plugin<br />
+  <sub>[#185594](https://github.com/flutter/flutter/pull/185594) opened on on April 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185594) 112 additions and 0 deletions in 3 files</sub><br />
+
