@@ -4,7 +4,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-10 commits.
+12 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Refactor keyboard inset logic into FlutterKeyboardInsetManager<br />
   <sub>[#185535](https://github.com/flutter/flutter/pull/185535) merged on April 27, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/185535) over 2 days, 990 additions and 594 deletions in 6 files</sub><br />
@@ -18,6 +18,10 @@
   <sub>[#184627](https://github.com/flutter/flutter/pull/184627) merged on April 27, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184627) over 3 weeks, 15 additions and 21 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Modify analyze.dart to have flags to run only or exclude each verification step. <br />
+  <sub>[#185618](https://github.com/flutter/flutter/pull/185618) merged on April 27, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185618) over 6 hours, 470 additions and 190 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Zaw Htet Naing](https://github.com/zawhtetnaing10)** &mdash; Added useOriginalColors flag which allows ImageIcon to bypass IconTheme colorization and use the original colors<br />
   <sub>[#180491](https://github.com/flutter/flutter/pull/180491) merged on April 27, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/180491) over 3 months, 72 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -29,6 +33,10 @@
 * **[Alejandro Castillo](https://github.com/alejandro-all-win-software)** &mdash; Use null-aware elements in dev/devicelab/lib/framework/browser.dart<br />
   <sub>[#184778](https://github.com/flutter/flutter/pull/184778) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184778) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add CONTENT_CHANGE_TYPE_EXPANDED support on android.<br />
+  <sub>[#185305](https://github.com/flutter/flutter/pull/185305) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185305) over 1 week, 101 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Enable `var_with_no_type_annotation` lint.<br />
   <sub>[#185215](https://github.com/flutter/flutter/pull/185215) merged on April 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185215) over 1 week, 2 additions and 0 deletions in 1 file</sub><br />
