@@ -213,7 +213,7 @@
   <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185487) 24 additions and 96 deletions in 12 files</sub><br />
 
 * **[Adil Hanney](https://github.com/adil192)** &mdash; [Breaking Change] Rename `CurvedAnimation` to `ReversibleCurvedAnimation` for disambiguation<br />
-  <sub>[#185501](https://github.com/flutter/flutter/pull/185501) opened on on April 23, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/185501) 301 additions and 65 deletions in 11 files</sub><br />
+  <sub>[#185501](https://github.com/flutter/flutter/pull/185501) opened on on April 23, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185501) 301 additions and 65 deletions in 11 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't leak gesture objects<br />
   <sub>[#185517](https://github.com/flutter/flutter/pull/185517) opened on on April 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185517) 19 additions and 10 deletions in 1 file</sub><br />
