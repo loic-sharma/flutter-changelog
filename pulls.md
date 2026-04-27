@@ -237,7 +237,7 @@
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/185534) 697 additions and 106 deletions in 5 files</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix: TextInputAction not updating on keyboard when changed dynamically (fixes #185466)<br />
-  <sub>[#185582](https://github.com/flutter/flutter/pull/185582) opened on on April 25, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185582) 74 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185582](https://github.com/flutter/flutter/pull/185582) opened on on April 25, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185582) 59 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mohamed Risaldar UT](https://github.com/MohamedRisaldarTA)** &mdash; Added name to AUTHORS<br />
   <sub>[#185586](https://github.com/flutter/flutter/pull/185586) opened on on April 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185586) 1 addition and 0 deletions in 1 file</sub><br />
