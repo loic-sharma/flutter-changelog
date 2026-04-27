@@ -251,3 +251,9 @@
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Check for overflow when computing the pixel buffer size for an animated PNG frame<br />
+  <sub>[#185620](https://github.com/flutter/flutter/pull/185620) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185620) 133 additions and 3 deletions in 5 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Check for overflow when computing the pixel buffer size for an animated PNG frame<br />
+  <sub>[#185621](https://github.com/flutter/flutter/pull/185621) opened on on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185621) 133 additions and 3 deletions in 5 files</sub><br />
+
