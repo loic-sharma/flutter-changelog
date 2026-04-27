@@ -4,7 +4,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-4 commits.
+5 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Refactor keyboard inset logic into FlutterKeyboardInsetManager
   <sub>[#185535](https://github.com/flutter/flutter/pull/185535) merged on April 27, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/185535) over 2 days, 990 additions and 594 deletions in 6 files</sub>
@@ -21,6 +21,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Win32] FlutterDesktopEngineGetGraphicsAdapter should use out parameter
   <sub>[#185590](https://github.com/flutter/flutter/pull/185590) merged on April 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185590) over 18 hours, 44 additions and 27 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable
+  <sub>[#185633](https://github.com/flutter/flutter/pull/185633) merged on April 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185633) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 ### April 18, 2026 to April 24, 2026
 

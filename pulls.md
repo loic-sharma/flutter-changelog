@@ -267,11 +267,14 @@
   <sub>[#185629](https://github.com/flutter/flutter/pull/185629) opened on on April 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185629) 15 additions and 1 deletion in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds integration test for the FLTEnableSDFs flag for iOS<br />
-  <sub>[#185637](https://github.com/flutter/flutter/pull/185637) opened on on April 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185637) 160 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#185637](https://github.com/flutter/flutter/pull/185637) opened on on April 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185637) 161 additions and 0 deletions in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Move try/catch to processFileLines_<br />
-  <sub>[#185646](https://github.com/flutter/flutter/pull/185646) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185646) 7 additions and 13 deletions in 3 files</sub><br />
+  <sub>[#185646](https://github.com/flutter/flutter/pull/185646) opened on on April 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185646) 7 additions and 13 deletions in 3 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_goldens] Allow using print<br />
   <sub>[#185649](https://github.com/flutter/flutter/pull/185649) opened on on April 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185649) 3 additions and 0 deletions in 1 file</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Allow using print<br />
+  <sub>[#185650](https://github.com/flutter/flutter/pull/185650) opened on on April 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185650) 1 addition and 0 deletions in 1 file</sub><br />
 
