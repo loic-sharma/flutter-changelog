@@ -161,9 +161,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
   <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Add BrowserScrollable and BrowserScrollPhysics<br />
-  <sub>[#185386](https://github.com/flutter/flutter/pull/185386) opened on on April 22, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/185386) 2995 additions and 40 deletions in 23 files</sub><br />
-
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; test: move Material-dependent scrollbar tests to material/ directory<br />
   <sub>[#185396](https://github.com/flutter/flutter/pull/185396) opened on on April 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185396) 118 additions and 118 deletions in 2 files</sub><br />
 
@@ -277,4 +274,7 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Allow using print<br />
   <sub>[#185650](https://github.com/flutter/flutter/pull/185650) opened on on April 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185650) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
+  <sub>[#185651](https://github.com/flutter/flutter/pull/185651) opened on on April 27, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185651) 320 additions and 320 deletions in 69 files</sub><br />
 
