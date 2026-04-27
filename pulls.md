@@ -185,7 +185,7 @@
 * **[Hashem](https://github.com/haashem)** &mdash; fix:`DropdownMenuFormField` missing leading icon<br />
   <sub>[#185445](https://github.com/flutter/flutter/pull/185445) opened on on April 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185445) 32 additions and 0 deletions in 2 files</sub><br />
 
-* **[Roman Diakonov](https://github.com/ultra-rony)** &mdash; fix(l10n): fix reversed expanded/collapsed labels in ru<br />
+* **[Roman Diakonov](https://github.com/ultra-rony)** &mdash; reversed expanded/collapsed labels in ru<br />
   <sub>[#185454](https://github.com/flutter/flutter/pull/185454) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185454) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: remove ToString() from Vector3/Vector4 and ColorToString()<br />
@@ -194,7 +194,7 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; docs: update Impeller advanced blend docs for framebuffer fetch<br />
   <sub>[#185457](https://github.com/flutter/flutter/pull/185457) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185457) 21 additions and 9 deletions in 1 file</sub><br />
 
-* **[Roman Diakonov](https://github.com/ultra-rony)** &mdash; fix(l10n): fix reversed expanded/collapsed labels in ru<br />
+* **[Roman Diakonov](https://github.com/ultra-rony)** &mdash; reversed expanded/collapsed labels in ru<br />
   <sub>[#185458](https://github.com/flutter/flutter/pull/185458) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185458) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ahmed Mostafa](https://github.com/ahmedm-gh)** &mdash; Widgets: Add .only and .symmetric constructors to SafeArea<br />
@@ -237,7 +237,7 @@
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/185534) 697 additions and 106 deletions in 5 files</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix: TextInputAction not updating on keyboard when changed dynamically (fixes #185466)<br />
-  <sub>[#185582](https://github.com/flutter/flutter/pull/185582) opened on on April 25, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185582) 56 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185582](https://github.com/flutter/flutter/pull/185582) opened on on April 25, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185582) 74 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mohamed Risaldar UT](https://github.com/MohamedRisaldarTA)** &mdash; Added name to AUTHORS<br />
   <sub>[#185586](https://github.com/flutter/flutter/pull/185586) opened on on April 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185586) 1 addition and 0 deletions in 1 file</sub><br />
@@ -247,4 +247,7 @@
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Cache plugin registrant in test compiler<br />
   <sub>[#185598](https://github.com/flutter/flutter/pull/185598) opened on on April 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185598) 167 additions and 10 deletions in 2 files</sub><br />
+
+* **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
+  <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
