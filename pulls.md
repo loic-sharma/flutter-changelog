@@ -200,8 +200,8 @@
 * **[Ahmed Mostafa](https://github.com/ahmedm-gh)** &mdash; Widgets: Add .only and .symmetric constructors to SafeArea<br />
   <sub>[#185470](https://github.com/flutter/flutter/pull/185470) opened on on April 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185470) 42 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; (Test cross-imports) Remove legacy Material import from sliver_utils<br />
-  <sub>[#185472](https://github.com/flutter/flutter/pull/185472) opened on on April 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185472) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; Move sliver_utils to test/widgets to fix rendering→widgets layering<br />
+  <sub>[#185472](https://github.com/flutter/flutter/pull/185472) opened on on April 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185472) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; [flutter_tools] Fix `flutter drive --chrome-binary` being ignored on web<br />
   <sub>[#185481](https://github.com/flutter/flutter/pull/185481) opened on on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185481) 135 additions and 1 deletion in 2 files</sub><br />
@@ -210,7 +210,7 @@
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete some remaining HTML renderer references<br />
-  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185487) 24 additions and 96 deletions in 12 files</sub><br />
+  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185487) 24 additions and 96 deletions in 12 files</sub><br />
 
 * **[Adil Hanney](https://github.com/adil192)** &mdash; [Breaking Change] Rename `CurvedAnimation` to `ReversibleCurvedAnimation` for disambiguation<br />
   <sub>[#185501](https://github.com/flutter/flutter/pull/185501) opened on on April 23, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185501) 301 additions and 65 deletions in 11 files</sub><br />
@@ -234,7 +234,7 @@
   <sub>[#185531](https://github.com/flutter/flutter/pull/185531) opened on on April 24, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185531) 865 additions and 78 deletions in 10 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
-  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/185534) 697 additions and 106 deletions in 5 files</sub><br />
+  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/185534) 697 additions and 106 deletions in 5 files</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix: TextInputAction not updating on keyboard when changed dynamically (fixes #185466)<br />
   <sub>[#185582](https://github.com/flutter/flutter/pull/185582) opened on on April 25, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185582) 59 additions and 2 deletions in 2 files</sub><br />
@@ -256,4 +256,22 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Check for overflow when computing the pixel buffer size for an animated PNG frame<br />
   <sub>[#185621](https://github.com/flutter/flutter/pull/185621) opened on on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185621) 133 additions and 3 deletions in 5 files</sub><br />
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 9<br />
+  <sub>[#185625](https://github.com/flutter/flutter/pull/185625) opened on on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185625) 136 additions and 0 deletions in 5 files</sub><br />
+
+* **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; Replace Material import with animation in semantics_and_children_test<br />
+  <sub>[#185626](https://github.com/flutter/flutter/pull/185626) opened on on April 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185626) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds debugging information to compiled metal shaders<br />
+  <sub>[#185629](https://github.com/flutter/flutter/pull/185629) opened on on April 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185629) 15 additions and 1 deletion in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds integration test for the FLTEnableSDFs flag for iOS<br />
+  <sub>[#185637](https://github.com/flutter/flutter/pull/185637) opened on on April 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185637) 160 additions and 0 deletions in 3 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Move try/catch to processFileLines_<br />
+  <sub>[#185646](https://github.com/flutter/flutter/pull/185646) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185646) 7 additions and 13 deletions in 3 files</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_goldens] Allow using print<br />
+  <sub>[#185649](https://github.com/flutter/flutter/pull/185649) opened on on April 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185649) 3 additions and 0 deletions in 1 file</sub><br />
 
