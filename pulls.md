@@ -141,7 +141,7 @@
   <sub>[#185282](https://github.com/flutter/flutter/pull/185282) opened on on April 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185282) 224 additions and 37 deletions in 8 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix `SemanticsObject` crash when bridge is nullptr<br />
-  <sub>[#185293](https://github.com/flutter/flutter/pull/185293) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185293) 22 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185293](https://github.com/flutter/flutter/pull/185293) opened on on April 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185293) 22 additions and 2 deletions in 2 files</sub><br />
 
 * **[John Eismeier](https://github.com/jeis4wpi)** &mdash; Fix typos across multiple markdown files<br />
   <sub>[#185294](https://github.com/flutter/flutter/pull/185294) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185294) 16 additions and 16 deletions in 10 files</sub><br />
