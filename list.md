@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 25, 2026 to May 1, 2026
+
+1 commits.
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [Win32] FlutterDesktopEngineGetGraphicsAdapter should use out parameter
+  <sub>[#185590](https://github.com/flutter/flutter/pull/185590) merged on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185590) over 18 hours, 44 additions and 27 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 ### April 18, 2026 to April 24, 2026
 
-76 commits.
+<details>
+<summary>76 commits...</summary>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reapply "Unpin sdk package dependencies"
   <sub>[#185268](https://github.com/flutter/flutter/pull/185268) merged on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185268) over 22 hours, 33 additions and 35 deletions in 5 files</sub>
@@ -313,6 +322,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland "[web] Fix LateInitializationError in CkSurface and SkwasmSurface (#185116)"
   <sub>[#185553](https://github.com/flutter/flutter/pull/185553) merged on April 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185553) over 2 hours, 36 additions and 5 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+</details>
 
 ### April 11, 2026 to April 17, 2026
 
