@@ -636,9 +636,18 @@
 
 ## flutter/packages
 
+### April 25, 2026 to May 1, 2026
+
+1 commits.
+
+* **[Andrew Brampton](https://github.com/bramp)** &mdash; [google_font] Move the httpClient from a package level variable to the Config object
+  <sub>[#11027](https://github.com/flutter/packages/pull/11027) merged on April 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11027) over 2 months, 31 additions and 11 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
 ### April 18, 2026 to April 24, 2026
 
-6 commits.
+<details>
+<summary>6 commits...</summary>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Support custom types
   <sub>[#11068](https://github.com/flutter/packages/pull/11068) merged on April 20, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/packages/pull/11068) over 2 months, 332 additions and 25 deletions in 11 files</sub>
@@ -663,6 +672,8 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Revert "[webview_flutter_wkwebview] Tear down ProxyAPIRegistrar in `applicationWillTerminate`"
   <sub>[#11564](https://github.com/flutter/packages/pull/11564) merged on April 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11564) over 41 minutes, 8 additions and 121 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+</details>
 
 ### April 11, 2026 to April 17, 2026
 

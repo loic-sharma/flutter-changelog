@@ -18,7 +18,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [43 comments](https://github.com/flutter/flutter/pull/180591) 2566 additions and 545 deletions in 20 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [46 comments](https://github.com/flutter/flutter/pull/180591) 2570 additions and 544 deletions in 19 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -143,9 +143,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix `SemanticsObject` crash when bridge is nullptr<br />
   <sub>[#185293](https://github.com/flutter/flutter/pull/185293) opened on on April 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185293) 22 additions and 2 deletions in 2 files</sub><br />
 
-* **[John Eismeier](https://github.com/jeis4wpi)** &mdash; Fix typos across multiple markdown files<br />
-  <sub>[#185294](https://github.com/flutter/flutter/pull/185294) opened on on April 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185294) 16 additions and 16 deletions in 10 files</sub><br />
-
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
@@ -261,7 +258,7 @@
   <sub>[#185637](https://github.com/flutter/flutter/pull/185637) opened on on April 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185637) 161 additions and 0 deletions in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Move try/catch to processFileLines_<br />
-  <sub>[#185646](https://github.com/flutter/flutter/pull/185646) opened on on April 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185646) 15 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#185646](https://github.com/flutter/flutter/pull/185646) opened on on April 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185646) 15 additions and 15 deletions in 3 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_goldens] Allow using print<br />
   <sub>[#185649](https://github.com/flutter/flutter/pull/185649) opened on on April 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185649) 3 additions and 0 deletions in 1 file</sub><br />
