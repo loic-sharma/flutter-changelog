@@ -735,7 +735,11 @@
 
 ### April 25, 2026 to May 1, 2026
 
-1 commits.
+2 commits.
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; fix pagenav header for tutorial<br />
+  <sub>[#13311](https://github.com/flutter/website/pull/13311) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13311) over 2 hours, 40 additions and 16 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; Add example of SQLite table relationships<br />
   <sub>[#13309](https://github.com/flutter/website/pull/13309) merged on April 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13309) over 1 day, 32 additions and 0 deletions in 1 file</sub><br />
