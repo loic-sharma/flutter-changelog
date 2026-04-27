@@ -4,7 +4,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-8 commits.
+10 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Refactor keyboard inset logic into FlutterKeyboardInsetManager
   <sub>[#185535](https://github.com/flutter/flutter/pull/185535) merged on April 27, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/185535) over 2 days, 990 additions and 594 deletions in 6 files</sub>
@@ -13,6 +13,10 @@
 * **[Jhonacode](https://github.com/JhonaCodes)** &mdash; Fix SelectionArea handles overlapping context menu on Android
   <sub>[#182663](https://github.com/flutter/flutter/pull/182663) merged on April 27, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/182663) over 2 months, 73 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix debugNeedsPaint/Layout/CompositedLayerUpdate crashing in release mode
+  <sub>[#184627](https://github.com/flutter/flutter/pull/184627) merged on April 27, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184627) over 3 weeks, 15 additions and 21 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Zaw Htet Naing](https://github.com/zawhtetnaing10)** &mdash; Added useOriginalColors flag which allows ImageIcon to bypass IconTheme colorization and use the original colors
   <sub>[#180491](https://github.com/flutter/flutter/pull/180491) merged on April 27, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/180491) over 3 months, 72 additions and 2 deletions in 2 files</sub>
@@ -25,6 +29,10 @@
 * **[Alejandro Castillo](https://github.com/alejandro-all-win-software)** &mdash; Use null-aware elements in dev/devicelab/lib/framework/browser.dart
   <sub>[#184778](https://github.com/flutter/flutter/pull/184778) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184778) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
+* **[Kallen Tu](https://github.com/kallentu)** &mdash; Enable `var_with_no_type_annotation` lint.
+  <sub>[#185215](https://github.com/flutter/flutter/pull/185215) merged on April 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185215) over 1 week, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds debugging information to compiled metal shaders
   <sub>[#185629](https://github.com/flutter/flutter/pull/185629) merged on April 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185629) over 2 hours, 15 additions and 1 deletion in 2 files</sub>
