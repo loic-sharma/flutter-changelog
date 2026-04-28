@@ -95,9 +95,6 @@
 * **[DaveT1991](https://github.com/DaveT1991)** &mdash; Inline test callback painter in tab scaffold test<br />
   <sub>[#184851](https://github.com/flutter/flutter/pull/184851) opened on on April 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184851) 28 additions and 13 deletions in 1 file</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `PerformanceOverlay` docs to explain more about FPS<br />
-  <sub>[#184874](https://github.com/flutter/flutter/pull/184874) opened on on April 10, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/184874) 28 additions and 9 deletions in 1 file</sub><br />
-
 * **[DaveT1991](https://github.com/DaveT1991)** &mdash; Remove tab scaffold test cross-import<br />
   <sub>[#184901](https://github.com/flutter/flutter/pull/184901) opened on on April 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184901) 29 additions and 13 deletions in 1 file</sub><br />
 
@@ -112,9 +109,6 @@
 
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; fix: --no-hot flag should trigger hot restart instead of being ignored<br />
   <sub>[#185181](https://github.com/flutter/flutter/pull/185181) opened on on April 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185181) 21 additions and 1 deletion in 6 files</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; document that default Key is null and explain proper usage in list diffing<br />
-  <sub>[#185197](https://github.com/flutter/flutter/pull/185197) opened on on April 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185197) 21 additions and 0 deletions in 1 file</sub><br />
 
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
   <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
@@ -133,9 +127,6 @@
 
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters<br />
-  <sub>[#185346](https://github.com/flutter/flutter/pull/185346) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185346) 2 additions and 9 deletions in 1 file</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; flutter_tools: Remove unused parameters<br />
   <sub>[#185347](https://github.com/flutter/flutter/pull/185347) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185347) 1 addition and 1 deletion in 1 file</sub><br />
@@ -173,9 +164,6 @@
 * **[Ahmed Mostafa](https://github.com/ahmedm-gh)** &mdash; Widgets: Add .only and .symmetric constructors to SafeArea<br />
   <sub>[#185470](https://github.com/flutter/flutter/pull/185470) opened on on April 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185470) 42 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; Move sliver_utils to test/widgets to fix rendering→widgets layering<br />
-  <sub>[#185472](https://github.com/flutter/flutter/pull/185472) opened on on April 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185472) 3 additions and 3 deletions in 3 files</sub><br />
-
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; [flutter_tools] Fix `flutter drive --chrome-binary` being ignored on web<br />
   <sub>[#185481](https://github.com/flutter/flutter/pull/185481) opened on on April 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185481) 135 additions and 1 deletion in 2 files</sub><br />
 
@@ -184,9 +172,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete some remaining HTML renderer references<br />
   <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185487) 26 additions and 97 deletions in 13 files</sub><br />
-
-* **[Adil Hanney](https://github.com/adil192)** &mdash; [Breaking Change] Rename `CurvedAnimation` to `ReversibleCurvedAnimation` for disambiguation<br />
-  <sub>[#185501](https://github.com/flutter/flutter/pull/185501) opened on on April 23, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185501) 301 additions and 65 deletions in 11 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't leak gesture objects<br />
   <sub>[#185517](https://github.com/flutter/flutter/pull/185517) opened on on April 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185517) 19 additions and 10 deletions in 1 file</sub><br />
@@ -199,9 +184,6 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Disconnect from parent window signal when view is destroyed<br />
   <sub>[#185521](https://github.com/flutter/flutter/pull/185521) opened on on April 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185521) 11 additions and 2 deletions in 1 file</sub><br />
-
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; fix: MergeSemantics dispatches correct handler for specific custom action<br />
-  <sub>[#185524](https://github.com/flutter/flutter/pull/185524) opened on on April 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185524) 133 additions and 4 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/185534) 697 additions and 106 deletions in 5 files</sub><br />
@@ -223,9 +205,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Move try/catch to processFileLines_<br />
   <sub>[#185646](https://github.com/flutter/flutter/pull/185646) opened on on April 27, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185646) 20 additions and 21 deletions in 5 files</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_goldens] Allow using print<br />
-  <sub>[#185649](https://github.com/flutter/flutter/pull/185649) opened on on April 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185649) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Allow using print<br />
   <sub>[#185650](https://github.com/flutter/flutter/pull/185650) opened on on April 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185650) 1 addition and 0 deletions in 1 file</sub><br />

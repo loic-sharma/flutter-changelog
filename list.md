@@ -4,7 +4,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-30 commits.
+31 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Don't use UberSDF for paint with incompatible blend modes
   <sub>[#184889](https://github.com/flutter/flutter/pull/184889) merged on April 27, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/184889) over 2 weeks, 105 additions and 4 deletions in 3 files</sub>
@@ -58,6 +58,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [SwiftPM] Enable package resolution on xcodebuild commands
   <sub>[#185208](https://github.com/flutter/flutter/pull/185208) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185208) over 1 week, 55 additions and 50 deletions in 8 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Win32: Add FlutterDesktopPluginRegistrarGetGraphicsAdapter
+  <sub>[#185580](https://github.com/flutter/flutter/pull/185580) merged on April 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185580) over 3 days, 57 additions and 0 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds integration test for the FLTEnableSDFs flag for iOS
   <sub>[#185637](https://github.com/flutter/flutter/pull/185637) merged on April 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185637) over 5 hours, 161 additions and 0 deletions in 4 files</sub>
