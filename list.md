@@ -4,7 +4,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-28 commits.
+30 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Don't use UberSDF for paint with incompatible blend modes
   <sub>[#184889](https://github.com/flutter/flutter/pull/184889) merged on April 27, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/184889) over 2 weeks, 105 additions and 4 deletions in 3 files</sub>
@@ -74,6 +74,14 @@
 * **[Alejandro Castillo](https://github.com/alejandro-all-win-software)** &mdash; Use null-aware elements in dev/devicelab/lib/framework/browser.dart
   <sub>[#184778](https://github.com/flutter/flutter/pull/184778) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184778) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Define the build_devtools_from_sources GN variable that is expected by current versions of the Dart SDK
+  <sub>[#185683](https://github.com/flutter/flutter/pull/185683) merged on April 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185683) over 3 hours, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [b-luk](https://github.com/b-luk)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes Impeller Frame capture scope for macOS.
+  <sub>[#185656](https://github.com/flutter/flutter/pull/185656) merged on April 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185656) over 22 hours, 14 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Enable the `avoid_final_parameters` lint.
   <sub>[#185216](https://github.com/flutter/flutter/pull/185216) merged on April 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185216) over 1 week, 57 additions and 57 deletions in 23 files</sub>

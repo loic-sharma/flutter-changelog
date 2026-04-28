@@ -233,9 +233,6 @@
 * **[Aryan Shukla](https://github.com/Telomelonia)** &mdash; Add actionsPadding to DatePickerThemeData<br />
   <sub>[#185663](https://github.com/flutter/flutter/pull/185663) opened on on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185663) 60 additions and 2 deletions in 3 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Define the build_devtools_from_sources GN variable that is expected by current versions of the Dart SDK<br />
-  <sub>[#185683](https://github.com/flutter/flutter/pull/185683) opened on on April 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185683) 5 additions and 1 deletion in 1 file</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `--enable-hcpp` flag being ignored in release<br />
   <sub>[#185692](https://github.com/flutter/flutter/pull/185692) opened on on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185692) 92 additions and 11 deletions in 2 files</sub><br />
 
