@@ -122,9 +122,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; document that default Key is null and explain proper usage in list diffing<br />
   <sub>[#185197](https://github.com/flutter/flutter/pull/185197) opened on on April 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185197) 21 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix background git fetch hanging silently when asking for an SSH passphrase<br />
-  <sub>[#185219](https://github.com/flutter/flutter/pull/185219) opened on on April 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185219) 94 additions and 5 deletions in 3 files</sub><br />
-
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
   <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
 
@@ -198,7 +195,7 @@
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete some remaining HTML renderer references<br />
-  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185487) 24 additions and 96 deletions in 12 files</sub><br />
+  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185487) 26 additions and 97 deletions in 13 files</sub><br />
 
 * **[Adil Hanney](https://github.com/adil192)** &mdash; [Breaking Change] Rename `CurvedAnimation` to `ReversibleCurvedAnimation` for disambiguation<br />
   <sub>[#185501](https://github.com/flutter/flutter/pull/185501) opened on on April 23, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185501) 301 additions and 65 deletions in 11 files</sub><br />
@@ -225,7 +222,7 @@
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/185534) 697 additions and 106 deletions in 5 files</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix: TextInputAction not updating on keyboard when changed dynamically (fixes #185466)<br />
-  <sub>[#185582](https://github.com/flutter/flutter/pull/185582) opened on on April 25, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185582) 66 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185582](https://github.com/flutter/flutter/pull/185582) opened on on April 25, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/185582) 66 additions and 2 deletions in 2 files</sub><br />
 
 * **[Edo Sagron](https://github.com/EdoSag)** &mdash; Add minSdkVersion compatibility check in Flutter Gradle Plugin<br />
   <sub>[#185594](https://github.com/flutter/flutter/pull/185594) opened on on April 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185594) 112 additions and 0 deletions in 3 files</sub><br />
