@@ -4,7 +4,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-20 commits.
+22 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Don't use UberSDF for paint with incompatible blend modes
   <sub>[#184889](https://github.com/flutter/flutter/pull/184889) merged on April 27, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/184889) over 2 weeks, 105 additions and 4 deletions in 3 files</sub>
@@ -19,6 +19,10 @@
   <sub>[#184627](https://github.com/flutter/flutter/pull/184627) merged on April 27, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184627) over 3 weeks, 15 additions and 21 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Add font fallback service
+  <sub>[#185314](https://github.com/flutter/flutter/pull/185314) merged on April 28, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/185314) over 1 week, 1247 additions and 551 deletions in 21 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Refactor keyboard inset logic into FlutterKeyboardInsetManager
   <sub>[#185535](https://github.com/flutter/flutter/pull/185535) merged on April 27, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/185535) over 2 days, 990 additions and 594 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
@@ -30,6 +34,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Skill ] Adds a "Flutter PR Failure Collector" skill
   <sub>[#185480](https://github.com/flutter/flutter/pull/185480) merged on April 28, 2026 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/185480) over 4 days, 146 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels
+  <sub>[#184997](https://github.com/flutter/flutter/pull/184997) merged on April 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) over 2 weeks, 193 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Modify analyze.dart to have flags to run only or exclude each verification step. 
   <sub>[#185618](https://github.com/flutter/flutter/pull/185618) merged on April 27, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185618) over 6 hours, 470 additions and 190 deletions in 2 files</sub>
@@ -797,6 +805,10 @@
   <sub>[#13316](https://github.com/flutter/website/pull/13316) merged on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13316) over 5 hours, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [jesswrd](https://github.com/jesswrd)</sub>
 
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Add skills page
+  <sub>[#13320](https://github.com/flutter/website/pull/13320) merged on April 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13320) over 1 hour, 85 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Kevin Lamenzo](https://github.com/lamek), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add breaking change page for Android 17 orientation and resizability restrictions
   <sub>[#13314](https://github.com/flutter/website/pull/13314) merged on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13314) over 17 hours, 59 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
@@ -804,10 +816,6 @@
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; fix pagenav header for tutorial
   <sub>[#13311](https://github.com/flutter/website/pull/13311) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13311) over 2 hours, 40 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
-
-* **[John Ryan](https://github.com/johnpryan)** &mdash; Add skills page
-  <sub>[#13320](https://github.com/flutter/website/pull/13320) merged on April 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13320) over 1 hour, 85 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; Add example of SQLite table relationships
   <sub>[#13309](https://github.com/flutter/website/pull/13309) merged on April 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13309) over 1 day, 32 additions and 0 deletions in 1 file</sub>
