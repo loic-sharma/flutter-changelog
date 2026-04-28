@@ -30,7 +30,7 @@
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) opened on on February 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/182047) 9 additions and 5 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
-  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/182788) 164 additions and 50 deletions in 11 files</sub><br />
+  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/182788) 164 additions and 50 deletions in 11 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Migrate Python formatter from yapf to black<br />
   <sub>[#182966](https://github.com/flutter/flutter/pull/182966) opened on on February 26, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/182966) 7859 additions and 7485 deletions in 73 files</sub><br />
@@ -203,9 +203,6 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; fix: MergeSemantics dispatches correct handler for specific custom action<br />
   <sub>[#185524](https://github.com/flutter/flutter/pull/185524) opened on on April 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185524) 133 additions and 4 deletions in 2 files</sub><br />
 
-* **[kyungilcho](https://github.com/kyungilcho)** &mdash; [flutter_tools] Preprovision Android NDK only for flavored builds<br />
-  <sub>[#185531](https://github.com/flutter/flutter/pull/185531) opened on on April 24, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185531) 865 additions and 78 deletions in 10 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/185534) 697 additions and 106 deletions in 5 files</sub><br />
 
@@ -225,7 +222,7 @@
   <sub>[#185626](https://github.com/flutter/flutter/pull/185626) opened on on April 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185626) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Move try/catch to processFileLines_<br />
-  <sub>[#185646](https://github.com/flutter/flutter/pull/185646) opened on on April 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/185646) 15 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#185646](https://github.com/flutter/flutter/pull/185646) opened on on April 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/185646) 20 additions and 21 deletions in 5 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_goldens] Allow using print<br />
   <sub>[#185649](https://github.com/flutter/flutter/pull/185649) opened on on April 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185649) 3 additions and 0 deletions in 1 file</sub><br />
