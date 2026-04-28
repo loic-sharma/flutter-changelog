@@ -107,9 +107,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184956) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Ignore pubspec.lock dirty checkout modifications on non-stable channels<br />
-  <sub>[#184997](https://github.com/flutter/flutter/pull/184997) opened on on April 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184997) 193 additions and 4 deletions in 3 files</sub><br />
-
 * **[Arpit Gandhi](https://github.com/arpitgandhi9)** &mdash; Fix: activateSystemCursor should set cursor on all views<br />
   <sub>[#185080](https://github.com/flutter/flutter/pull/185080) opened on on April 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185080) 12 additions and 23 deletions in 3 files</sub><br />
 
