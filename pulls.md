@@ -236,15 +236,12 @@
 * **[Aryan Shukla](https://github.com/Telomelonia)** &mdash; Add actionsPadding to DatePickerThemeData<br />
   <sub>[#185663](https://github.com/flutter/flutter/pull/185663) opened on on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185663) 60 additions and 2 deletions in 3 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Remove warning when running with merged threads.<br />
-  <sub>[#185673](https://github.com/flutter/flutter/pull/185673) opened on on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185673) 3 additions and 2 deletions in 1 file</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Define the build_devtools_from_sources GN variable that is expected by current versions of the Dart SDK<br />
   <sub>[#185683](https://github.com/flutter/flutter/pull/185683) opened on on April 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185683) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `--enable-hcpp` flag being ignored in release<br />
   <sub>[#185692](https://github.com/flutter/flutter/pull/185692) opened on on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185692) 92 additions and 11 deletions in 2 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Mark SemanticsNode dirty when customSemanticsActions change <br />
-  <sub>[#185707](https://github.com/flutter/flutter/pull/185707) opened on on April 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185707) 30 additions and 1 deletion in 2 files</sub><br />
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix broken local paths in docs/engine/testing/Testing-the-engine.md <br />
+  <sub>[#185701](https://github.com/flutter/flutter/pull/185701) opened on on April 28, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/185701) 21 additions and 21 deletions in 1 file</sub><br />
 
