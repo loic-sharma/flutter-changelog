@@ -4,7 +4,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-17 commits.
+20 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Don't use UberSDF for paint with incompatible blend modes
   <sub>[#184889](https://github.com/flutter/flutter/pull/184889) merged on April 27, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/184889) over 2 weeks, 105 additions and 4 deletions in 3 files</sub>
@@ -59,6 +59,10 @@
   <sub>[#184778](https://github.com/flutter/flutter/pull/184778) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184778) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [code_assets] Fix multi architecture framework naming
+  <sub>[#185640](https://github.com/flutter/flutter/pull/185640) merged on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185640) over 20 hours, 115 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Liam Appelbe](https://github.com/liamappelbe), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add CONTENT_CHANGE_TYPE_EXPANDED support on android.
   <sub>[#185305](https://github.com/flutter/flutter/pull/185305) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185305) over 1 week, 101 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
@@ -66,6 +70,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds debugging information to compiled metal shaders
   <sub>[#185629](https://github.com/flutter/flutter/pull/185629) merged on April 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185629) over 2 hours, 15 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
+
+* **[John Eismeier](https://github.com/jeis4wpi)** &mdash; Fix typos across multiple markdown files
+  <sub>[#185294](https://github.com/flutter/flutter/pull/185294) merged on April 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185294) over 1 week, 16 additions and 16 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Navaron Bracke](https://github.com/navaronbracke), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; [fuchsia] Ask for VMEX only for JIT.
+  <sub>[#185440](https://github.com/flutter/flutter/pull/185440) merged on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185440) over 5 days, 28 additions and 2 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Fix sdfs being enabled for MacOS regardless of FLTEnableSDFs value
   <sub>[#185565](https://github.com/flutter/flutter/pull/185565) merged on April 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185565) over 2 days, 152 additions and 2 deletions in 4 files</sub>
