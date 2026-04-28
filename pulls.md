@@ -188,7 +188,7 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; docs: update Impeller advanced blend docs for framebuffer fetch<br />
   <sub>[#185457](https://github.com/flutter/flutter/pull/185457) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185457) 21 additions and 9 deletions in 1 file</sub><br />
 
-* **[Roman Diakonov](https://github.com/ultra-rony)** &mdash; reversed expanded/collapsed labels in ru<br />
+* **[Roman Diakonov](https://github.com/ultra-rony)** &mdash; Correct reversed expanded/collapsed labels in Russian<br />
   <sub>[#185458](https://github.com/flutter/flutter/pull/185458) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185458) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ahmed Mostafa](https://github.com/ahmedm-gh)** &mdash; Widgets: Add .only and .symmetric constructors to SafeArea<br />
