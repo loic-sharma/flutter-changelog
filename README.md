@@ -667,7 +667,11 @@
 
 ### April 25, 2026 to May 1, 2026
 
-1 commits.
+2 commits.
+
+* **[suojae](https://github.com/suojae)** &mdash; [vector_graphics] add imageBuilder property to VectorGraphic<br />
+  <sub>[#11094](https://github.com/flutter/packages/pull/11094) merged on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11094) over 2 months, 90 additions and 1 deletion in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Andrew Brampton](https://github.com/bramp)** &mdash; [google_font] Move the httpClient from a package level variable to the Config object<br />
   <sub>[#11027](https://github.com/flutter/packages/pull/11027) merged on April 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11027) over 2 months, 31 additions and 11 deletions in 8 files</sub><br />

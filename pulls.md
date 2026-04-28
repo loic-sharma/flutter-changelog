@@ -18,7 +18,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [46 comments](https://github.com/flutter/flutter/pull/180591) 2570 additions and 544 deletions in 19 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/180591) 2570 additions and 544 deletions in 19 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -170,12 +170,6 @@
 * **[Hashem](https://github.com/haashem)** &mdash; fix:`DropdownMenuFormField` missing leading icon<br />
   <sub>[#185445](https://github.com/flutter/flutter/pull/185445) opened on on April 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185445) 32 additions and 0 deletions in 2 files</sub><br />
 
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: remove ToString() from Vector3/Vector4 and ColorToString()<br />
-  <sub>[#185456](https://github.com/flutter/flutter/pull/185456) opened on on April 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185456) 1 addition and 30 deletions in 5 files</sub><br />
-
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; docs: update Impeller advanced blend docs for framebuffer fetch<br />
-  <sub>[#185457](https://github.com/flutter/flutter/pull/185457) opened on on April 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185457) 21 additions and 9 deletions in 1 file</sub><br />
-
 * **[Roman Diakonov](https://github.com/ultra-rony)** &mdash; Correct reversed expanded/collapsed labels in Russian<br />
   <sub>[#185458](https://github.com/flutter/flutter/pull/185458) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185458) 4 additions and 4 deletions in 2 files</sub><br />
 
@@ -230,12 +224,6 @@
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Check for overflow when computing the pixel buffer size for an animated PNG frame<br />
-  <sub>[#185620](https://github.com/flutter/flutter/pull/185620) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185620) 133 additions and 3 deletions in 5 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Check for overflow when computing the pixel buffer size for an animated PNG frame<br />
-  <sub>[#185621](https://github.com/flutter/flutter/pull/185621) opened on on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185621) 133 additions and 3 deletions in 5 files</sub><br />
-
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; Replace Material import with animation in semantics_and_children_test<br />
   <sub>[#185626](https://github.com/flutter/flutter/pull/185626) opened on on April 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185626) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -259,4 +247,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Remove bringup property from android_engine_flags_* tests<br />
   <sub>[#185685](https://github.com/flutter/flutter/pull/185685) opened on on April 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185685) 0 additions and 2 deletions in 1 file</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `--enable-hcpp` flag being ignored in release<br />
+  <sub>[#185692](https://github.com/flutter/flutter/pull/185692) opened on on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185692) 92 additions and 11 deletions in 2 files</sub><br />
 
