@@ -263,3 +263,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#185651](https://github.com/flutter/flutter/pull/185651) opened on on April 27, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185651) 320 additions and 320 deletions in 69 files</sub><br />
 
+* **[Aryan Shukla](https://github.com/Telomelonia)** &mdash; Add actionsPadding to DatePickerThemeData<br />
+  <sub>[#185663](https://github.com/flutter/flutter/pull/185663) opened on on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185663) 60 additions and 2 deletions in 3 files</sub><br />
+
