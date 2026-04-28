@@ -667,7 +667,11 @@
 
 ### April 25, 2026 to May 1, 2026
 
-2 commits.
+3 commits.
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; [image_picker] Update documentation of maxDuration to reflect that it only applies to recording<br />
+  <sub>[#11417](https://github.com/flutter/packages/pull/11417) merged on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11417) over 3 weeks, 6 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[suojae](https://github.com/suojae)** &mdash; [vector_graphics] add imageBuilder property to VectorGraphic<br />
   <sub>[#11094](https://github.com/flutter/packages/pull/11094) merged on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11094) over 2 months, 90 additions and 1 deletion in 5 files</sub><br />
@@ -777,10 +781,6 @@
 
 4 commits.
 
-* **[Kilian Schulte](https://github.com/schultek)** &mdash; fix pagenav header for tutorial<br />
-  <sub>[#13311](https://github.com/flutter/website/pull/13311) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13311) over 2 hours, 40 additions and 16 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move "Update the plugin's pubspec.yaml" outside of tab<br />
   <sub>[#13316](https://github.com/flutter/website/pull/13316) merged on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13316) over 5 hours, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [jesswrd](https://github.com/jesswrd)</sub><br />
@@ -788,6 +788,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add breaking change page for Android 17 orientation and resizability restrictions<br />
   <sub>[#13314](https://github.com/flutter/website/pull/13314) merged on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13314) over 17 hours, 59 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; fix pagenav header for tutorial<br />
+  <sub>[#13311](https://github.com/flutter/website/pull/13311) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13311) over 2 hours, 40 additions and 16 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; Add example of SQLite table relationships<br />
   <sub>[#13309](https://github.com/flutter/website/pull/13309) merged on April 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13309) over 1 day, 32 additions and 0 deletions in 1 file</sub><br />

@@ -225,7 +225,7 @@
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; Replace Material import with animation in semantics_and_children_test<br />
-  <sub>[#185626](https://github.com/flutter/flutter/pull/185626) opened on on April 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185626) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#185626](https://github.com/flutter/flutter/pull/185626) opened on on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185626) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Move try/catch to processFileLines_<br />
   <sub>[#185646](https://github.com/flutter/flutter/pull/185646) opened on on April 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185646) 15 additions and 15 deletions in 3 files</sub><br />
@@ -244,9 +244,6 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Define the build_devtools_from_sources GN variable that is expected by current versions of the Dart SDK<br />
   <sub>[#185683](https://github.com/flutter/flutter/pull/185683) opened on on April 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185683) 5 additions and 1 deletion in 1 file</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Remove bringup property from android_engine_flags_* tests<br />
-  <sub>[#185685](https://github.com/flutter/flutter/pull/185685) opened on on April 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185685) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `--enable-hcpp` flag being ignored in release<br />
   <sub>[#185692](https://github.com/flutter/flutter/pull/185692) opened on on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185692) 92 additions and 11 deletions in 2 files</sub><br />
