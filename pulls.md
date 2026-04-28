@@ -141,7 +141,7 @@
   <sub>[#185282](https://github.com/flutter/flutter/pull/185282) opened on on April 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185282) 224 additions and 37 deletions in 8 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix `SemanticsObject` crash when bridge is nullptr<br />
-  <sub>[#185293](https://github.com/flutter/flutter/pull/185293) opened on on April 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185293) 22 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185293](https://github.com/flutter/flutter/pull/185293) opened on on April 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185293) 22 additions and 2 deletions in 2 files</sub><br />
 
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
@@ -250,9 +250,6 @@
 
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; Replace Material import with animation in semantics_and_children_test<br />
   <sub>[#185626](https://github.com/flutter/flutter/pull/185626) opened on on April 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185626) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds integration test for the FLTEnableSDFs flag for iOS<br />
-  <sub>[#185637](https://github.com/flutter/flutter/pull/185637) opened on on April 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185637) 161 additions and 0 deletions in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Move try/catch to processFileLines_<br />
   <sub>[#185646](https://github.com/flutter/flutter/pull/185646) opened on on April 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185646) 15 additions and 15 deletions in 3 files</sub><br />
