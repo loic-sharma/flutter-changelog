@@ -212,3 +212,6 @@
 * **[Kiran Immadi](https://github.com/kiranimmadi2)** &mdash; feat: change maxLines and minLines to double in material TextField<br />
   <sub>[#185740](https://github.com/flutter/flutter/pull/185740) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185740) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][SwiftPM] Enable package resolution on xcodebuild commands<br />
+  <sub>[#185746](https://github.com/flutter/flutter/pull/185746) opened on on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185746) 55 additions and 50 deletions in 8 files</sub><br />
+

@@ -775,7 +775,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-5 commits.
+10 commits.
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; [image_picker] Update documentation of maxDuration to reflect that it only applies to recording
   <sub>[#11417](https://github.com/flutter/packages/pull/11417) merged on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11417) over 3 weeks, 6 additions and 4 deletions in 3 files</sub>
@@ -785,9 +785,29 @@
   <sub>[#11094](https://github.com/flutter/packages/pull/11094) merged on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11094) over 2 months, 90 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [quick_actions] Switch to Kotlin Pigeon
+  <sub>[#11507](https://github.com/flutter/packages/pull/11507) merged on April 29, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/11507) over 2 weeks, 603 additions and 523 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Andrew Brampton](https://github.com/bramp)** &mdash; [google_font] Move the httpClient from a package level variable to the Config object
   <sub>[#11027](https://github.com/flutter/packages/pull/11027) merged on April 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11027) over 2 months, 31 additions and 11 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
+* **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player_platform_interface] Add video track selection support
+  <sub>[#11474](https://github.com/flutter/packages/pull/11474) merged on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11474) over 2 weeks, 255 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update git ignore for personal/iterating on agent skills and rules
+  <sub>[#11600](https://github.com/flutter/packages/pull/11600) merged on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11600) over 15 hours, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[August](https://github.com/Gustl22)** &mdash; [pigeon] fix: Apply correct ThrowError success callback
+  <sub>[#11585](https://github.com/flutter/packages/pull/11585) merged on April 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11585) over 2 days, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Update Windows example for deprecations
+  <sub>[#11570](https://github.com/flutter/packages/pull/11570) merged on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11570) over 5 days, 7 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[August](https://github.com/Gustl22)** &mdash; [various] Upgrade googletest to v1.15.2
   <sub>[#11586](https://github.com/flutter/packages/pull/11586) merged on April 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11586) over 2 days, 8 additions and 8 deletions in 8 files</sub>
