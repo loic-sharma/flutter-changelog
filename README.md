@@ -12,7 +12,7 @@
   <sub><details><summary>1 image...</summary><img width="685" height="238" alt="image" src="https://github.com/user-attachments/assets/9a8f7bd2-70ab-419a-802e-0de04a22bbd8" /></details></sub>
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
-  <sub>[#182552](https://github.com/flutter/flutter/pull/182552) merged on April 28, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/182552) over 2 months, 484 additions and 15 deletions in 7 files</sub><br />
+  <sub>[#182552](https://github.com/flutter/flutter/pull/182552) merged on April 28, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/182552) over 2 months, 484 additions and 15 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jhonacode](https://github.com/JhonaCodes)** &mdash; Fix SelectionArea handles overlapping context menu on Android<br />
@@ -44,7 +44,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mantim Best Nimyel](https://github.com/Nimsdragon007), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Gboard Text Shift Stuck Fix<br />
-  <sub>[#185292](https://github.com/flutter/flutter/pull/185292) merged on April 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185292) over 1 week, 115 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#185292](https://github.com/flutter/flutter/pull/185292) merged on April 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185292) over 1 week, 115 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add documentation for overarching tests in flutter, add skill to help agents figure out where tests go<br />

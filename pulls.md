@@ -209,3 +209,6 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; feat(services): expose SystemChrome.preferredOrientations getter<br />
   <sub>[#185722](https://github.com/flutter/flutter/pull/185722) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185722) 119 additions and 0 deletions in 2 files</sub><br />
 
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester cross-imports from material tests<br />
+  <sub>[#185736](https://github.com/flutter/flutter/pull/185736) opened on on April 29, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185736) 1330 additions and 4 deletions in 5 files</sub><br />
+
