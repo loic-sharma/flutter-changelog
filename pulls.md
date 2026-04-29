@@ -204,5 +204,8 @@
   <sub>[#185663](https://github.com/flutter/flutter/pull/185663) opened on on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185663) 60 additions and 2 deletions in 3 files</sub><br />
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; feat: make SystemContextMenuController.isVisible part of the public API<br />
-  <sub>[#185720](https://github.com/flutter/flutter/pull/185720) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185720) 6 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#185720](https://github.com/flutter/flutter/pull/185720) opened on on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185720) 12 additions and 1 deletion in 1 file</sub><br />
+
+* **[Shivanshu](https://github.com/shivanshu877)** &mdash; feat(services): expose SystemChrome.preferredOrientations getter<br />
+  <sub>[#185722](https://github.com/flutter/flutter/pull/185722) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185722) 119 additions and 0 deletions in 2 files</sub><br />
 
