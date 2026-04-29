@@ -200,12 +200,6 @@
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
-* **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; Replace Material import with animation in semantics_and_children_test<br />
-  <sub>[#185626](https://github.com/flutter/flutter/pull/185626) opened on on April 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185626) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Move try/catch to processFileLines_<br />
-  <sub>[#185646](https://github.com/flutter/flutter/pull/185646) opened on on April 27, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185646) 20 additions and 21 deletions in 5 files</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Allow using print<br />
   <sub>[#185650](https://github.com/flutter/flutter/pull/185650) opened on on April 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185650) 1 addition and 0 deletions in 1 file</sub><br />
 
