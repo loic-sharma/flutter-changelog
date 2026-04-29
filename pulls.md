@@ -215,3 +215,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][SwiftPM] Enable package resolution on xcodebuild commands<br />
   <sub>[#185746](https://github.com/flutter/flutter/pull/185746) opened on on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185746) 55 additions and 50 deletions in 8 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Android] Gboard Text Shift Stuck Fix<br />
+  <sub>[#185749](https://github.com/flutter/flutter/pull/185749) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185749) 115 additions and 2 deletions in 3 files</sub><br />
+
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Add mouseCursor to RawScrollbar<br />
+  <sub>[#185750](https://github.com/flutter/flutter/pull/185750) opened on on April 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185750) 218 additions and 0 deletions in 2 files</sub><br />
+
