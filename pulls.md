@@ -212,12 +212,12 @@
 * **[Kiran Immadi](https://github.com/kiranimmadi2)** &mdash; feat: change maxLines and minLines to double in material TextField<br />
   <sub>[#185740](https://github.com/flutter/flutter/pull/185740) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185740) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][SwiftPM] Enable package resolution on xcodebuild commands<br />
-  <sub>[#185746](https://github.com/flutter/flutter/pull/185746) opened on on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185746) 55 additions and 50 deletions in 8 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Android] Gboard Text Shift Stuck Fix<br />
   <sub>[#185749](https://github.com/flutter/flutter/pull/185749) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185749) 115 additions and 2 deletions in 3 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Add mouseCursor to RawScrollbar<br />
-  <sub>[#185750](https://github.com/flutter/flutter/pull/185750) opened on on April 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185750) 218 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#185750](https://github.com/flutter/flutter/pull/185750) opened on on April 29, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185750) 303 additions and 0 deletions in 2 files</sub><br />
+
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix AnimatedList.separated assertion when re-inserting after a removeItem<br />
+  <sub>[#185754](https://github.com/flutter/flutter/pull/185754) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185754) 65 additions and 2 deletions in 2 files</sub><br />
 

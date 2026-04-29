@@ -931,7 +931,11 @@
 
 ### April 25, 2026 to May 1, 2026
 
-9 commits.
+10 commits.
+
+* **[Piotr Denert](https://github.com/pdenert)** &mdash; Add Patrol docs to testing section
+  <sub>[#13298](https://github.com/flutter/website/pull/13298) merged on April 29, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/website/pull/13298) over 1 week, 49 additions and 21 deletions in 3 files</sub>
+  <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move "Update the plugin's pubspec.yaml" outside of tab
   <sub>[#13316](https://github.com/flutter/website/pull/13316) merged on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13316) over 5 hours, 2 additions and 0 deletions in 1 file</sub>
@@ -1047,7 +1051,7 @@
 ### April 11, 2026 to April 17, 2026
 
 <details>
-<summary>11 commits...</summary>
+<summary>12 commits...</summary>
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update fwe samples (pt2 of 3) - Resubmission
   <sub>[#13196](https://github.com/flutter/website/pull/13196) merged on April 18, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/website/pull/13196) over 1 month, 1324 additions and 236 deletions in 29 files</sub>
@@ -1072,6 +1076,10 @@
 * **[Chris Ray Gill](https://github.com/chrisraygill)** &mdash; Add Genkit Dart to AI documentation
   <sub>[#13284](https://github.com/flutter/website/pull/13284) merged on April 17, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13284) over 16 hours, 38 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a missing import and a note about an edge-case crash
+  <sub>[#13247](https://github.com/flutter/website/pull/13247) merged on April 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13247) over 1 week, 15 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Update cupertino code example
   <sub>[#13278](https://github.com/flutter/website/pull/13278) merged on April 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13278) over 7 hours, 7 additions and 7 deletions in 2 files</sub>
