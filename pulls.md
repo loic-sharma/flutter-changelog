@@ -218,3 +218,6 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix AnimatedList.separated assertion when re-inserting after a removeItem<br />
   <sub>[#185754](https://github.com/flutter/flutter/pull/185754) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185754) 65 additions and 2 deletions in 2 files</sub><br />
 
+* **[Michael Brase](https://github.com/mbrase)** &mdash; Ensure that vulkan_interface.h gets included before vk_mem_alloc.h<br />
+  <sub>[#185777](https://github.com/flutter/flutter/pull/185777) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185777) 4 additions and 0 deletions in 1 file</sub><br />
+
