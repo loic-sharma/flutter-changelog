@@ -787,7 +787,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-13 commits.
+14 commits.
 
 * **[Khaled](https://github.com/khaled-0)** &mdash; [webview_flutter] Platform implementations for getCookies #11037<br />
   <sub>[#11386](https://github.com/flutter/packages/pull/11386) merged on April 29, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/11386) over 1 month, 1089 additions and 1400 deletions in 25 files</sub><br />
@@ -823,6 +823,10 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update git ignore for personal/iterating on agent skills and rules<br />
   <sub>[#11600](https://github.com/flutter/packages/pull/11600) merged on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11600) over 15 hours, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Update branch management for batch release<br />
+  <sub>[#11575](https://github.com/flutter/packages/pull/11575) merged on April 29, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/11575) over 5 days, 144 additions and 179 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; [pigeon] fix: Apply correct ThrowError success callback<br />
