@@ -775,11 +775,19 @@
 
 ### April 25, 2026 to May 1, 2026
 
-10 commits.
+12 commits.
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; [image_picker] Update documentation of maxDuration to reflect that it only applies to recording<br />
   <sub>[#11417](https://github.com/flutter/packages/pull/11417) merged on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11417) over 3 weeks, 6 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Switch to Kotlin Pigeon<br />
+  <sub>[#11479](https://github.com/flutter/packages/pull/11479) merged on April 29, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/11479) over 2 weeks, 852 additions and 910 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [image_picker] Switch to Kotlin Pigeon<br />
+  <sub>[#11504](https://github.com/flutter/packages/pull/11504) merged on April 29, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/11504) over 2 weeks, 1541 additions and 1555 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[suojae](https://github.com/suojae)** &mdash; [vector_graphics] add imageBuilder property to VectorGraphic<br />
   <sub>[#11094](https://github.com/flutter/packages/pull/11094) merged on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11094) over 2 months, 90 additions and 1 deletion in 5 files</sub><br />
@@ -802,7 +810,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; [pigeon] fix: Apply correct ThrowError success callback<br />
-  <sub>[#11585](https://github.com/flutter/packages/pull/11585) merged on April 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11585) over 2 days, 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#11585](https://github.com/flutter/packages/pull/11585) merged on April 29, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11585) over 2 days, 3 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Update Windows example for deprecations<br />
