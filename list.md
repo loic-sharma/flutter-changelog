@@ -4,7 +4,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-31 commits.
+33 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Don't use UberSDF for paint with incompatible blend modes
   <sub>[#184889](https://github.com/flutter/flutter/pull/184889) merged on April 27, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/184889) over 2 weeks, 105 additions and 4 deletions in 3 files</sub>
@@ -26,6 +26,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Refactor keyboard inset logic into FlutterKeyboardInsetManager
   <sub>[#185535](https://github.com/flutter/flutter/pull/185535) merged on April 27, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/185535) over 2 days, 990 additions and 594 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests, part 6
+  <sub>[#184049](https://github.com/flutter/flutter/pull/184049) merged on April 28, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/184049) over 1 month, 643 additions and 423 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator
   <sub>[#185651](https://github.com/flutter/flutter/pull/185651) merged on April 28, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185651) over 19 hours, 320 additions and 320 deletions in 69 files</sub>
@@ -106,6 +110,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds debugging information to compiled metal shaders
   <sub>[#185629](https://github.com/flutter/flutter/pull/185629) merged on April 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185629) over 2 hours, 15 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 9
+  <sub>[#185625](https://github.com/flutter/flutter/pull/185625) merged on April 28, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185625) over 1 day, 136 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Remove bringup property from android_engine_flags_* tests
   <sub>[#185685](https://github.com/flutter/flutter/pull/185685) merged on April 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185685) over 3 hours, 0 additions and 2 deletions in 1 file</sub>
