@@ -47,9 +47,6 @@
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/183838) 197 additions and 11 deletions in 10 files</sub><br />
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [web] Prioritize Noto Color Emoji in font fallback selection<br />
-  <sub>[#184120](https://github.com/flutter/flutter/pull/184120) opened on on March 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184120) 150 additions and 4 deletions in 2 files</sub><br />
-
 * **[mohammadmseet-hue](https://github.com/mohammadmseet-hue)** &mdash; Reject fdAT chunks with data_length < 4 in APNG parser to prevent heap overflow<br />
   <sub>[#184301](https://github.com/flutter/flutter/pull/184301) opened on on March 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184301) 216 additions and 0 deletions in 3 files</sub><br />
 
@@ -211,4 +208,7 @@
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester cross-imports from material tests<br />
   <sub>[#185736](https://github.com/flutter/flutter/pull/185736) opened on on April 29, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185736) 1330 additions and 4 deletions in 5 files</sub><br />
+
+* **[Kiran Immadi](https://github.com/kiranimmadi2)** &mdash; feat: change maxLines and minLines to double in material TextField<br />
+  <sub>[#185740](https://github.com/flutter/flutter/pull/185740) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185740) 2 additions and 2 deletions in 1 file</sub><br />
 

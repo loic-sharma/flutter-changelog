@@ -895,11 +895,15 @@
 
 ### April 25, 2026 to May 1, 2026
 
-7 commits.
+9 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move "Update the plugin's pubspec.yaml" outside of tab
   <sub>[#13316](https://github.com/flutter/website/pull/13316) merged on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13316) over 5 hours, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [jesswrd](https://github.com/jesswrd)</sub>
+
+* **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; Add installation steps for Flutter archive downloads
+  <sub>[#13325](https://github.com/flutter/website/pull/13325) merged on April 29, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13325) over 7 hours, 21 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add skills page
   <sub>[#13320](https://github.com/flutter/website/pull/13320) merged on April 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13320) over 1 hour, 85 additions and 0 deletions in 3 files</sub>
@@ -912,6 +916,10 @@
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; fix pagenav header for tutorial
   <sub>[#13311](https://github.com/flutter/website/pull/13311) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13311) over 2 hours, 40 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove framework role
+  <sub>[#13324](https://github.com/flutter/website/pull/13324) merged on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13324) over 11 hours, 0 additions and 83 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Remove the -all flag from installation instructions. 
   <sub>[#13322](https://github.com/flutter/website/pull/13322) merged on April 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13322) over 9 minutes, 2 additions and 2 deletions in 1 file</sub>
