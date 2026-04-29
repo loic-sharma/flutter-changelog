@@ -60,7 +60,7 @@
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove list_tile_tester and rendering_tester cross-imports from cupertino tests<br />
-  <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184588) 53 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184588) 53 additions and 3 deletions in 5 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix web dev proxy merging multiple Set-Cookie response headers<br />
   <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 169 additions and 1 deletion in 2 files</sub><br />
@@ -71,29 +71,11 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_tools] Migrate detectLowCompileSdkVersionOrNdkVersion to AGP task<br />
   <sub>[#184731](https://github.com/flutter/flutter/pull/184731) opened on on April 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/184731) 634 additions and 331 deletions in 6 files</sub><br />
 
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from cupertino/slider_test.dart<br />
-  <sub>[#184805](https://github.com/flutter/flutter/pull/184805) opened on on April 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184805) 12 additions and 33 deletions in 1 file</sub><br />
-
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from raw_material_button_test.dart<br />
-  <sub>[#184806](https://github.com/flutter/flutter/pull/184806) opened on on April 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184806) 13 additions and 24 deletions in 1 file</sub><br />
-
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from material_button_test.dart<br />
-  <sub>[#184807](https://github.com/flutter/flutter/pull/184807) opened on on April 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184807) 25 additions and 47 deletions in 1 file</sub><br />
-
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from card_test.dart<br />
-  <sub>[#184808](https://github.com/flutter/flutter/pull/184808) opened on on April 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184808) 58 additions and 73 deletions in 1 file</sub><br />
-
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from user_accounts_drawer_header_test.dart<br />
-  <sub>[#184809](https://github.com/flutter/flutter/pull/184809) opened on on April 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/184809) 44 additions and 75 deletions in 1 file</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make the welcome message output to stderr if --machine<br />
   <sub>[#184819](https://github.com/flutter/flutter/pull/184819) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184819) 51 additions and 2 deletions in 4 files</sub><br />
 
 * **[DaveT1991](https://github.com/DaveT1991)** &mdash; Inline test callback painter in tab scaffold test<br />
   <sub>[#184851](https://github.com/flutter/flutter/pull/184851) opened on on April 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184851) 28 additions and 13 deletions in 1 file</sub><br />
-
-* **[DaveT1991](https://github.com/DaveT1991)** &mdash; Remove tab scaffold test cross-import<br />
-  <sub>[#184901](https://github.com/flutter/flutter/pull/184901) opened on on April 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/184901) 29 additions and 13 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184956) 6 additions and 0 deletions in 1 file</sub><br />
@@ -220,4 +202,7 @@
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Ensure that vulkan_interface.h gets included before vk_mem_alloc.h<br />
   <sub>[#185777](https://github.com/flutter/flutter/pull/185777) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185777) 4 additions and 0 deletions in 1 file</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add null check for `hitTestTransform`<br />
+  <sub>[#185786](https://github.com/flutter/flutter/pull/185786) opened on on April 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185786) 50 additions and 2 deletions in 2 files</sub><br />
 
