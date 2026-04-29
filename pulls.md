@@ -74,9 +74,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make the welcome message output to stderr if --machine<br />
   <sub>[#184819](https://github.com/flutter/flutter/pull/184819) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184819) 51 additions and 2 deletions in 4 files</sub><br />
 
-* **[DaveT1991](https://github.com/DaveT1991)** &mdash; Inline test callback painter in tab scaffold test<br />
-  <sub>[#184851](https://github.com/flutter/flutter/pull/184851) opened on on April 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184851) 28 additions and 13 deletions in 1 file</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184956) 6 additions and 0 deletions in 1 file</sub><br />
 
@@ -109,15 +106,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
   <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />
-
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; test: move Material-dependent scrollbar tests to material/ directory<br />
-  <sub>[#185396](https://github.com/flutter/flutter/pull/185396) opened on on April 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185396) 118 additions and 118 deletions in 2 files</sub><br />
-
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; test: move Material-dependent tap region tests to material/ directory<br />
-  <sub>[#185397](https://github.com/flutter/flutter/pull/185397) opened on on April 22, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/185397) 220 additions and 220 deletions in 2 files</sub><br />
-
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; test: remove Material dependency from sliver_main_axis_group_test<br />
-  <sub>[#185402](https://github.com/flutter/flutter/pull/185402) opened on on April 22, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/185402) 394 additions and 334 deletions in 2 files</sub><br />
 
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix: Remove incorrect scale parameter documentation from Image constructor<br />
   <sub>[#185412](https://github.com/flutter/flutter/pull/185412) opened on on April 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185412) 69 additions and 6 deletions in 3 files</sub><br />
@@ -202,7 +190,4 @@
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Ensure that vulkan_interface.h gets included before vk_mem_alloc.h<br />
   <sub>[#185777](https://github.com/flutter/flutter/pull/185777) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185777) 4 additions and 0 deletions in 1 file</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add null check for `hitTestTransform`<br />
-  <sub>[#185786](https://github.com/flutter/flutter/pull/185786) opened on on April 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185786) 50 additions and 2 deletions in 2 files</sub><br />
 
