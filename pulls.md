@@ -18,7 +18,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/180591) 2570 additions and 544 deletions in 19 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/180591) 2593 additions and 551 deletions in 19 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -165,7 +165,7 @@
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete some remaining HTML renderer references<br />
-  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185487) 26 additions and 97 deletions in 13 files</sub><br />
+  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185487) 24 additions and 96 deletions in 11 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't leak gesture objects<br />
   <sub>[#185517](https://github.com/flutter/flutter/pull/185517) opened on on April 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185517) 19 additions and 10 deletions in 1 file</sub><br />
@@ -211,9 +211,6 @@
 
 * **[Kiran Immadi](https://github.com/kiranimmadi2)** &mdash; feat: change maxLines and minLines to double in material TextField<br />
   <sub>[#185740](https://github.com/flutter/flutter/pull/185740) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185740) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Android] Gboard Text Shift Stuck Fix<br />
-  <sub>[#185749](https://github.com/flutter/flutter/pull/185749) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185749) 115 additions and 2 deletions in 3 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Add mouseCursor to RawScrollbar<br />
   <sub>[#185750](https://github.com/flutter/flutter/pull/185750) opened on on April 29, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185750) 303 additions and 0 deletions in 2 files</sub><br />
