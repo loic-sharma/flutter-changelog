@@ -851,7 +851,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-18 commits.
+19 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] trailing pinned row/col for TableView
   <sub>[#11519](https://github.com/flutter/packages/pull/11519) merged on April 29, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/11519) over 1 week, 920 additions and 132 deletions in 7 files</sub>
@@ -896,6 +896,10 @@
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player_platform_interface] Add video track selection support
   <sub>[#11474](https://github.com/flutter/packages/pull/11474) merged on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11474) over 2 weeks, 255 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fix mouse event loop when calling setState in TableSpan.onEnter
+  <sub>[#11606](https://github.com/flutter/packages/pull/11606) merged on April 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11606) over 6 hours, 107 additions and 13 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update git ignore for personal/iterating on agent skills and rules
   <sub>[#11600](https://github.com/flutter/packages/pull/11600) merged on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11600) over 15 hours, 4 additions and 0 deletions in 1 file</sub>
