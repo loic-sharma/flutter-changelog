@@ -81,7 +81,7 @@
   <sub>[#185181](https://github.com/flutter/flutter/pull/185181) opened on on April 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185181) 21 additions and 1 deletion in 6 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Parse common SwiftPM errors<br />
-  <sub>[#185218](https://github.com/flutter/flutter/pull/185218) opened on on April 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185218) 148 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#185218](https://github.com/flutter/flutter/pull/185218) opened on on April 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185218) 148 additions and 1 deletion in 5 files</sub><br />
 
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
   <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
@@ -174,7 +174,7 @@
   <sub>[#185722](https://github.com/flutter/flutter/pull/185722) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185722) 119 additions and 0 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Template Bump to AGP 9<br />
-  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/185730) 425 additions and 252 deletions in 57 files</sub><br />
+  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/185730) 425 additions and 252 deletions in 57 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester cross-imports from material tests<br />
   <sub>[#185736](https://github.com/flutter/flutter/pull/185736) opened on on April 29, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185736) 1330 additions and 4 deletions in 5 files</sub><br />
