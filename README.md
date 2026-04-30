@@ -771,7 +771,7 @@
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [LouiseHsu](https://github.com/LouiseHsu), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update AGP Error<br />
-  <sub>[#185043](https://github.com/flutter/flutter/pull/185043) merged on April 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185043) over 2 hours, 24 additions and 33 deletions in 2 files</sub><br />
+  <sub>[#185043](https://github.com/flutter/flutter/pull/185043) merged on April 14, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/185043) over 2 hours, 24 additions and 33 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Rebuild flutter tool skill<br />
@@ -875,7 +875,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-20 commits.
+21 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] trailing pinned row/col for TableView<br />
   <sub>[#11519](https://github.com/flutter/packages/pull/11519) merged on April 29, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/11519) over 1 week, 920 additions and 132 deletions in 7 files</sub><br />
@@ -887,6 +887,10 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; [image_picker] Update documentation of maxDuration to reflect that it only applies to recording<br />
   <sub>[#11417](https://github.com/flutter/packages/pull/11417) merged on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11417) over 3 weeks, 6 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher_web] Re-enable flaky test (not flaky anymore)<br />
+  <sub>[#11478](https://github.com/flutter/packages/pull/11478) merged on April 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11478) over 3 weeks, 68 additions and 75 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Switch to Kotlin Pigeon<br />
