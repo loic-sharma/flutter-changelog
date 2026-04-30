@@ -161,9 +161,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Allow using print<br />
   <sub>[#185650](https://github.com/flutter/flutter/pull/185650) opened on on April 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185650) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds vm services to override font scaler<br />
-  <sub>[#185659](https://github.com/flutter/flutter/pull/185659) opened on on April 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185659) 262 additions and 6 deletions in 7 files</sub><br />
-
 * **[Aryan Shukla](https://github.com/Telomelonia)** &mdash; Add actionsPadding to DatePickerThemeData<br />
   <sub>[#185663](https://github.com/flutter/flutter/pull/185663) opened on on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185663) 60 additions and 2 deletions in 3 files</sub><br />
 
@@ -174,7 +171,7 @@
   <sub>[#185722](https://github.com/flutter/flutter/pull/185722) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185722) 119 additions and 0 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Template Bump to AGP 9<br />
-  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/185730) 425 additions and 252 deletions in 57 files</sub><br />
+  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/185730) 425 additions and 252 deletions in 57 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester cross-imports from material tests<br />
   <sub>[#185736](https://github.com/flutter/flutter/pull/185736) opened on on April 29, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185736) 1330 additions and 4 deletions in 5 files</sub><br />
@@ -189,7 +186,7 @@
   <sub>[#185754](https://github.com/flutter/flutter/pull/185754) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185754) 65 additions and 2 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix App binary path for SwiftPM Add2App on macOS<br />
-  <sub>[#185769](https://github.com/flutter/flutter/pull/185769) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185769) 19 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#185769](https://github.com/flutter/flutter/pull/185769) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185769) 42 additions and 4 deletions in 3 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Ensure that vulkan_interface.h gets included before vk_mem_alloc.h<br />
   <sub>[#185777](https://github.com/flutter/flutter/pull/185777) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185777) 4 additions and 0 deletions in 1 file</sub><br />
