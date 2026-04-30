@@ -1055,7 +1055,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-13 commits.
+14 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; Add Patrol docs to testing section
   <sub>[#13298](https://github.com/flutter/website/pull/13298) merged on April 29, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/website/pull/13298) over 1 week, 49 additions and 21 deletions in 3 files</sub>
@@ -1088,6 +1088,10 @@
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; fix pagenav header for tutorial
   <sub>[#13311](https://github.com/flutter/website/pull/13311) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13311) over 2 hours, 40 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update firebase-ghcli README to trigger build
+  <sub>[#13341](https://github.com/flutter/website/pull/13341) merged on April 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/13341) over 3 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove framework role
   <sub>[#13324](https://github.com/flutter/website/pull/13324) merged on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13324) over 11 hours, 0 additions and 83 deletions in 2 files</sub>

@@ -218,3 +218,9 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
   <sub>[#185846](https://github.com/flutter/flutter/pull/185846) opened on on April 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/185846) 501 additions and 37 deletions in 3 files</sub><br />
 
+* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
+  <sub>[#185850](https://github.com/flutter/flutter/pull/185850) opened on on April 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185850) 4 additions and 4 deletions in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete the old `BROWSER_IMAGE_DECODING_ENABLED` flag<br />
+  <sub>[#185851](https://github.com/flutter/flutter/pull/185851) opened on on April 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185851) 0 additions and 14 deletions in 1 file</sub><br />
+
