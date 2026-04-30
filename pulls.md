@@ -218,3 +218,9 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Skip SwiftPM plugin schemes when doing flutter clean<br />
   <sub>[#185853](https://github.com/flutter/flutter/pull/185853) opened on on April 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185853) 19 additions and 0 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Match on process name before killing for SwiftPM<br />
+  <sub>[#185856](https://github.com/flutter/flutter/pull/185856) opened on on April 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185856) 142 additions and 34 deletions in 2 files</sub><br />
+
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Avoid CurvedAnimation leak during InteractiveViewer fling inertia<br />
+  <sub>[#185859](https://github.com/flutter/flutter/pull/185859) opened on on April 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185859) 25 additions and 2 deletions in 2 files</sub><br />
+
