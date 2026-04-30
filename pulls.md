@@ -95,8 +95,8 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; flutter_tools: Remove unused parameters<br />
   <sub>[#185347](https://github.com/flutter/flutter/pull/185347) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185347) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Testing dwds bump before publish<br />
-  <sub>[#185357](https://github.com/flutter/flutter/pull/185357) opened on on April 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185357) 6 additions and 20 deletions in 3 files</sub><br />
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Bump dwds dependency to v27.1.1<br />
+  <sub>[#185357](https://github.com/flutter/flutter/pull/185357) opened on on April 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185357) 6 additions and 20 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
   <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />
@@ -218,9 +218,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Skip SwiftPM plugin schemes when doing flutter clean<br />
   <sub>[#185853](https://github.com/flutter/flutter/pull/185853) opened on on April 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185853) 19 additions and 0 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Match on process name before killing for SwiftPM<br />
-  <sub>[#185856](https://github.com/flutter/flutter/pull/185856) opened on on April 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185856) 142 additions and 34 deletions in 2 files</sub><br />
-
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Avoid CurvedAnimation leak during InteractiveViewer fling inertia<br />
-  <sub>[#185859](https://github.com/flutter/flutter/pull/185859) opened on on April 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185859) 25 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185860](https://github.com/flutter/flutter/pull/185860) opened on on April 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185860) 25 additions and 2 deletions in 2 files</sub><br />
 
