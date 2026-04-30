@@ -216,5 +216,5 @@
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185819) 1 addition and 6 deletions in 1 file</sub><br />
 
 * **[Adil Hanney](https://github.com/adil192)** &mdash; Fix `InteractiveViewer` memory leak from undisposed `CurvedAnimation`s<br />
-  <sub>[#185826](https://github.com/flutter/flutter/pull/185826) opened on on April 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185826) 27 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185826](https://github.com/flutter/flutter/pull/185826) opened on on April 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185826) 27 additions and 2 deletions in 2 files</sub><br />
 
