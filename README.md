@@ -589,6 +589,10 @@
   <sub>[#183555](https://github.com/flutter/flutter/pull/183555) merged on April 13, 2026 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/183555) over 1 month, 1142 additions and 74 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
+* **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; [iOS] Clarify provisioning profile error instructions<br />
+  <sub>[#184051](https://github.com/flutter/flutter/pull/184051) merged on April 16, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/184051) over 3 weeks, 27 additions and 27 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
+
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#179810](https://github.com/flutter/flutter/pull/179810) merged on April 15, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/179810) over 4 months, 323 additions and 323 deletions in 69 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
@@ -597,10 +601,6 @@
   <sub>[#184913](https://github.com/flutter/flutter/pull/184913) merged on April 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184913) over 5 days, 165 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [Jim Graham](https://github.com/flar)</sub><br />
   <sub><details><summary>3 images...</summary><img width="208" height="210" alt="image" src="https://github.com/user-attachments/assets/25dc26b1-6c05-46a3-a0e9-ce9be06e5ae1" /><img width="208" height="206" alt="image" src="https://github.com/user-attachments/assets/6500d0fd-3f64-4970-9974-ef1a2a6b4468" /><img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/eeaa5037-682a-452d-b0a5-8f7f287b63a3" /></details></sub>
-
-* **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; [iOS] Clarify provisioning profile error instructions<br />
-  <sub>[#184051](https://github.com/flutter/flutter/pull/184051) merged on April 16, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/184051) over 3 weeks, 27 additions and 27 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
 * **[Anurag Devanapally](https://github.com/andeart)** &mdash; Add `--include-example` flag to `flutter clean` for package example projects<br />
   <sub>[#183455](https://github.com/flutter/flutter/pull/183455) merged on April 14, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/183455) over 1 month, 155 additions and 9 deletions in 2 files</sub><br />
