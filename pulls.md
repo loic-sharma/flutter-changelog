@@ -174,13 +174,13 @@
   <sub>[#185722](https://github.com/flutter/flutter/pull/185722) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185722) 119 additions and 0 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Template Bump to AGP 9<br />
-  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/185730) 425 additions and 252 deletions in 57 files</sub><br />
+  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [36 comments](https://github.com/flutter/flutter/pull/185730) 425 additions and 252 deletions in 57 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester cross-imports from material tests<br />
   <sub>[#185736](https://github.com/flutter/flutter/pull/185736) opened on on April 29, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185736) 1330 additions and 4 deletions in 5 files</sub><br />
 
 * **[Kiran Immadi](https://github.com/kiranimmadi2)** &mdash; feat: change maxLines and minLines to double in material TextField<br />
-  <sub>[#185740](https://github.com/flutter/flutter/pull/185740) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185740) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#185740](https://github.com/flutter/flutter/pull/185740) opened on on April 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185740) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Add mouseCursor to RawScrollbar<br />
   <sub>[#185750](https://github.com/flutter/flutter/pull/185750) opened on on April 29, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185750) 303 additions and 0 deletions in 2 files</sub><br />
@@ -219,7 +219,7 @@
   <sub>[#185846](https://github.com/flutter/flutter/pull/185846) opened on on April 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/185846) 501 additions and 37 deletions in 3 files</sub><br />
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
-  <sub>[#185850](https://github.com/flutter/flutter/pull/185850) opened on on April 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185850) 53 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#185850](https://github.com/flutter/flutter/pull/185850) opened on on April 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185850) 92 additions and 24 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete the old `BROWSER_IMAGE_DECODING_ENABLED` flag<br />
   <sub>[#185851](https://github.com/flutter/flutter/pull/185851) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185851) 0 additions and 14 deletions in 1 file</sub><br />
