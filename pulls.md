@@ -177,7 +177,7 @@
   <sub>[#185722](https://github.com/flutter/flutter/pull/185722) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185722) 119 additions and 0 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Template Bump to AGP 9<br />
-  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/185730) 414 additions and 229 deletions in 52 files</sub><br />
+  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/185730) 414 additions and 229 deletions in 52 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester cross-imports from material tests<br />
   <sub>[#185736](https://github.com/flutter/flutter/pull/185736) opened on on April 29, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185736) 1330 additions and 4 deletions in 5 files</sub><br />
@@ -209,9 +209,9 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: add null pointer check for window on update tooltip and popup position<br />
   <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185807) 10 additions and 6 deletions in 1 file</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate to FlutterFMLTaskRunner(s)<br />
-  <sub>[#185810](https://github.com/flutter/flutter/pull/185810) opened on on April 30, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/185810) 466 additions and 479 deletions in 21 files</sub><br />
-
 * **[Asad Rafique](https://github.com/briskbase-projects)** &mdash; fix: prevent null crash in debugTogglePlatform when vmService is null<br />
   <sub>[#185812](https://github.com/flutter/flutter/pull/185812) opened on on April 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185812) 26 additions and 1 deletion in 2 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate to FlutterFMLTaskRunner(s)<br />
+  <sub>[#185815](https://github.com/flutter/flutter/pull/185815) opened on on April 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185815) 477 additions and 481 deletions in 21 files</sub><br />
 
