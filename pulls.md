@@ -212,9 +212,6 @@
 * **[Asad Rafique](https://github.com/briskbase-projects)** &mdash; fix: prevent null crash in debugTogglePlatform when vmService is null<br />
   <sub>[#185812](https://github.com/flutter/flutter/pull/185812) opened on on April 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185812) 26 additions and 1 deletion in 2 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate to FlutterFMLTaskRunner(s)<br />
-  <sub>[#185815](https://github.com/flutter/flutter/pull/185815) opened on on April 30, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/185815) 498 additions and 480 deletions in 21 files</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters<br />
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185819) 1 addition and 6 deletions in 1 file</sub><br />
 
