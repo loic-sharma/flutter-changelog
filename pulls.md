@@ -57,7 +57,7 @@
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove list_tile_tester and rendering_tester cross-imports from cupertino tests<br />
-  <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/184588) 53 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184588) 53 additions and 3 deletions in 5 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix web dev proxy merging multiple Set-Cookie response headers<br />
   <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 169 additions and 1 deletion in 2 files</sub><br />
@@ -168,7 +168,7 @@
   <sub>[#185722](https://github.com/flutter/flutter/pull/185722) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185722) 119 additions and 0 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Template Bump to AGP 9<br />
-  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/185730) 425 additions and 252 deletions in 57 files</sub><br />
+  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/185730) 425 additions and 252 deletions in 57 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester cross-imports from material tests<br />
   <sub>[#185736](https://github.com/flutter/flutter/pull/185736) opened on on April 29, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185736) 1330 additions and 4 deletions in 5 files</sub><br />
@@ -217,4 +217,10 @@
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Avoid CurvedAnimation leak during InteractiveViewer fling inertia<br />
   <sub>[#185860](https://github.com/flutter/flutter/pull/185860) opened on on April 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185860) 29 additions and 2 deletions in 2 files</sub><br />
+
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix SelectionArea crash after selected list content scrolls away<br />
+  <sub>[#185864](https://github.com/flutter/flutter/pull/185864) opened on on April 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185864) 69 additions and 24 deletions in 2 files</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Run the DisplayList Primitive Rendering benchmarks in post-submit<br />
+  <sub>[#185865](https://github.com/flutter/flutter/pull/185865) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185865) 28 additions and 7 deletions in 6 files</sub><br />
 
