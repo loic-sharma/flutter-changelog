@@ -95,9 +95,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; flutter_tools: Remove unused parameters<br />
   <sub>[#185347](https://github.com/flutter/flutter/pull/185347) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185347) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Bump dwds dependency to v27.1.1<br />
-  <sub>[#185357](https://github.com/flutter/flutter/pull/185357) opened on on April 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185357) 6 additions and 20 deletions in 3 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
   <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />
 
@@ -108,7 +105,7 @@
   <sub>[#185419](https://github.com/flutter/flutter/pull/185419) opened on on April 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185419) 123 additions and 4 deletions in 1 file</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]skip non-tappable web view workaround on ios 26.4<br />
-  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
 
 * **[Hashem](https://github.com/haashem)** &mdash; fix:`DropdownMenuFormField` missing leading icon<br />
   <sub>[#185445](https://github.com/flutter/flutter/pull/185445) opened on on April 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185445) 32 additions and 0 deletions in 2 files</sub><br />
@@ -161,6 +158,9 @@
 * **[Aryan Shukla](https://github.com/Telomelonia)** &mdash; Add actionsPadding to DatePickerThemeData<br />
   <sub>[#185663](https://github.com/flutter/flutter/pull/185663) opened on on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185663) 60 additions and 2 deletions in 3 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Enable Swift testing in the iOS embedder<br />
+  <sub>[#185712](https://github.com/flutter/flutter/pull/185712) opened on on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185712) 149 additions and 129 deletions in 8 files</sub><br />
+
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; feat: make SystemContextMenuController.isVisible part of the public API<br />
   <sub>[#185720](https://github.com/flutter/flutter/pull/185720) opened on on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185720) 12 additions and 1 deletion in 1 file</sub><br />
 
@@ -209,9 +209,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
   <sub>[#185846](https://github.com/flutter/flutter/pull/185846) opened on on April 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/185846) 501 additions and 37 deletions in 3 files</sub><br />
 
-* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
-  <sub>[#185850](https://github.com/flutter/flutter/pull/185850) opened on on April 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185850) 92 additions and 24 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete the old `BROWSER_IMAGE_DECODING_ENABLED` flag<br />
   <sub>[#185851](https://github.com/flutter/flutter/pull/185851) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185851) 0 additions and 14 deletions in 1 file</sub><br />
 
@@ -219,5 +216,5 @@
   <sub>[#185853](https://github.com/flutter/flutter/pull/185853) opened on on April 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185853) 19 additions and 0 deletions in 2 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Avoid CurvedAnimation leak during InteractiveViewer fling inertia<br />
-  <sub>[#185860](https://github.com/flutter/flutter/pull/185860) opened on on April 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185860) 25 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185860](https://github.com/flutter/flutter/pull/185860) opened on on April 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185860) 29 additions and 2 deletions in 2 files</sub><br />
 
