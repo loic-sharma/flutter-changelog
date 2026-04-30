@@ -203,3 +203,12 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Add SliverFormField for sliver-typed FormField builders<br />
   <sub>[#185795](https://github.com/flutter/flutter/pull/185795) opened on on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185795) 210 additions and 19 deletions in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: add null pointer check for window on update tooltip and popup position<br />
+  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185807) 10 additions and 6 deletions in 1 file</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate to FlutterFMLTaskRunner(s)<br />
+  <sub>[#185810](https://github.com/flutter/flutter/pull/185810) opened on on April 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185810) 466 additions and 471 deletions in 21 files</sub><br />
+
+* **[Asad Rafique](https://github.com/briskbase-projects)** &mdash; fix: prevent null crash in debugTogglePlatform when vmService is null<br />
+  <sub>[#185812](https://github.com/flutter/flutter/pull/185812) opened on on April 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185812) 7 additions and 0 deletions in 1 file</sub><br />
+
