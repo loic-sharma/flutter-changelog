@@ -177,7 +177,7 @@
   <sub>[#185754](https://github.com/flutter/flutter/pull/185754) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185754) 65 additions and 2 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix App binary path for SwiftPM Add2App on macOS<br />
-  <sub>[#185769](https://github.com/flutter/flutter/pull/185769) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185769) 42 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#185769](https://github.com/flutter/flutter/pull/185769) opened on on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185769) 42 additions and 4 deletions in 3 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Ensure that vulkan_interface.h gets included before vk_mem_alloc.h<br />
   <sub>[#185777](https://github.com/flutter/flutter/pull/185777) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185777) 4 additions and 0 deletions in 1 file</sub><br />
