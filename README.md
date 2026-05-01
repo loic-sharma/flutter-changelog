@@ -1139,11 +1139,15 @@
 
 ### April 25, 2026 to May 1, 2026
 
-14 commits.
+18 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; Add Patrol docs to testing section<br />
   <sub>[#13298](https://github.com/flutter/website/pull/13298) merged on April 29, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/website/pull/13298) over 1 week, 49 additions and 21 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [fwe] Clean up `game.dart`, fix lints, add more doc comments<br />
+  <sub>[#13340](https://github.com/flutter/website/pull/13340) merged on May 1, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/13340) over 23 hours, 392 additions and 253 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the hcpp docs<br />
   <sub>[#13326](https://github.com/flutter/website/pull/13326) merged on April 29, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13326) over 9 hours, 92 additions and 30 deletions in 1 file</sub><br />
@@ -1173,12 +1177,24 @@
   <sub>[#13311](https://github.com/flutter/website/pull/13311) merged on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13311) over 2 hours, 40 additions and 16 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; Update custom-llm-providers.md<br />
+  <sub>[#13339](https://github.com/flutter/website/pull/13339) merged on May 1, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13339) over 1 day, 7 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up multiple sidenav support<br />
+  <sub>[#13343](https://github.com/flutter/website/pull/13343) merged on May 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13343) over 21 hours, 18 additions and 21 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update firebase-ghcli README to trigger build<br />
   <sub>[#13341](https://github.com/flutter/website/pull/13341) merged on April 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/13341) over 3 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove framework role<br />
   <sub>[#13324](https://github.com/flutter/website/pull/13324) merged on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13324) over 11 hours, 0 additions and 83 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Update firebase.json for  flutter.dev/go/view-metrics-overrides<br />
+  <sub>[#13345](https://github.com/flutter/website/pull/13345) merged on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13345) over 18 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fixing the agent skills<br />
