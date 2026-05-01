@@ -177,7 +177,7 @@
   <sub>[#185754](https://github.com/flutter/flutter/pull/185754) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185754) 65 additions and 2 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix App binary path for SwiftPM Add2App on macOS<br />
-  <sub>[#185769](https://github.com/flutter/flutter/pull/185769) opened on on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185769) 42 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#185769](https://github.com/flutter/flutter/pull/185769) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185769) 42 additions and 4 deletions in 3 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Tolerate floating-point rounding in paintImage centerSlice assertion<br />
   <sub>[#185789](https://github.com/flutter/flutter/pull/185789) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185789) 57 additions and 2 deletions in 2 files</sub><br />
