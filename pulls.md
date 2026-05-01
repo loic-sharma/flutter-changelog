@@ -224,3 +224,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task cacheable<br />
   <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185903) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Remove `currentMainUri` from `generateMainDartWithPluginRegistrant`<br />
+  <sub>[#185907](https://github.com/flutter/flutter/pull/185907) opened on on May 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185907) 9 additions and 49 deletions in 4 files</sub><br />
+

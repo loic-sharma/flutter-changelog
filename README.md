@@ -955,7 +955,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-23 commits.
+24 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] trailing pinned row/col for TableView<br />
   <sub>[#11519](https://github.com/flutter/packages/pull/11519) merged on April 29, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/11519) over 1 week, 920 additions and 132 deletions in 7 files</sub><br />
@@ -1040,6 +1040,10 @@
 * **[August](https://github.com/Gustl22)** &mdash; [various] Upgrade googletest to v1.15.2<br />
   <sub>[#11586](https://github.com/flutter/packages/pull/11586) merged on April 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11586) over 2 days, 8 additions and 8 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-go_router-17.2.3 to main<br />
+  <sub>[#11633](https://github.com/flutter/packages/pull/11633) merged on May 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11633) over 22 minutes, 5 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 02085feb3f5d to 00b0c91f0620 (3 revisions)<br />
   <sub>[#11627](https://github.com/flutter/packages/pull/11627) merged on May 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11627) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
