@@ -233,3 +233,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow allocating multi-mip textures and overwriting specific (mip, slice) levels<br />
   <sub>[#185890](https://github.com/flutter/flutter/pull/185890) opened on on May 1, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185890) 349 additions and 38 deletions in 5 files</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Migrate VSyncClientTest to Swift<br />
+  <sub>[#185893](https://github.com/flutter/flutter/pull/185893) opened on on May 1, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/185893) 174 additions and 184 deletions in 7 files</sub><br />
+
