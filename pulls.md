@@ -231,5 +231,5 @@
   <sub>[#185878](https://github.com/flutter/flutter/pull/185878) opened on on May 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185878) 157 additions and 26 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow allocating multi-mip textures and overwriting specific (mip, slice) levels<br />
-  <sub>[#185890](https://github.com/flutter/flutter/pull/185890) opened on on May 1, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/185890) 339 additions and 38 deletions in 5 files</sub><br />
+  <sub>[#185890](https://github.com/flutter/flutter/pull/185890) opened on on May 1, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185890) 349 additions and 38 deletions in 5 files</sub><br />
 
