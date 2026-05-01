@@ -188,9 +188,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters<br />
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185819) 1 addition and 6 deletions in 1 file</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Update DisplayList rendering unittests for new SufaceProvider API and to be able to test Impeller<br />
-  <sub>[#185820](https://github.com/flutter/flutter/pull/185820) opened on on April 30, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/185820) 1026 additions and 1665 deletions in 20 files</sub><br />
-
 * **[Adil Hanney](https://github.com/adil192)** &mdash; Fix `InteractiveViewer` memory leak from undisposed `CurvedAnimation`s<br />
   <sub>[#185826](https://github.com/flutter/flutter/pull/185826) opened on on April 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185826) 27 additions and 2 deletions in 2 files</sub><br />
 
