@@ -74,6 +74,9 @@
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; fix: --no-hot flag should trigger hot restart instead of being ignored<br />
   <sub>[#185181](https://github.com/flutter/flutter/pull/185181) opened on on April 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185181) 21 additions and 1 deletion in 6 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Parse common SwiftPM errors<br />
+  <sub>[#185218](https://github.com/flutter/flutter/pull/185218) opened on on April 17, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/185218) 406 additions and 51 deletions in 7 files</sub><br />
+
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
   <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
 
@@ -170,9 +173,6 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix AnimatedList.separated assertion when re-inserting after a removeItem<br />
   <sub>[#185754](https://github.com/flutter/flutter/pull/185754) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185754) 65 additions and 2 deletions in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix App binary path for SwiftPM Add2App on macOS<br />
-  <sub>[#185769](https://github.com/flutter/flutter/pull/185769) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185769) 42 additions and 4 deletions in 3 files</sub><br />
-
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Tolerate floating-point rounding in paintImage centerSlice assertion<br />
   <sub>[#185789](https://github.com/flutter/flutter/pull/185789) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185789) 57 additions and 2 deletions in 2 files</sub><br />
 
@@ -218,9 +218,9 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Prevent Cubic transform from looping on out-of-range input<br />
   <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
 
-* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix text selection handle drag jumps<br />
-  <sub>[#185878](https://github.com/flutter/flutter/pull/185878) opened on on May 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185878) 157 additions and 26 deletions in 2 files</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow allocating multi-mip textures and overwriting specific (mip, slice) levels<br />
   <sub>[#185890](https://github.com/flutter/flutter/pull/185890) opened on on May 1, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185890) 349 additions and 38 deletions in 5 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task cacheable<br />
+  <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185903) 5 additions and 0 deletions in 1 file</sub><br />
 
