@@ -947,7 +947,7 @@
 
 ### April 25, 2026 to May 1, 2026
 
-22 commits.
+23 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] trailing pinned row/col for TableView<br />
   <sub>[#11519](https://github.com/flutter/packages/pull/11519) merged on April 29, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/11519) over 1 week, 920 additions and 132 deletions in 7 files</sub><br />
@@ -1008,6 +1008,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update git ignore for personal/iterating on agent skills and rules<br />
   <sub>[#11600](https://github.com/flutter/packages/pull/11600) merged on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11600) over 15 hours, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix styles on web<br />
+  <sub>[#11629](https://github.com/flutter/packages/pull/11629) merged on May 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11629) over 1 hour, 68 additions and 9 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Remove --against-pub flag<br />
   <sub>[#11550](https://github.com/flutter/packages/pull/11550) merged on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11550) over 1 week, 10 additions and 195 deletions in 2 files</sub><br />
