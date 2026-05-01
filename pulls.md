@@ -179,9 +179,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix App binary path for SwiftPM Add2App on macOS<br />
   <sub>[#185769](https://github.com/flutter/flutter/pull/185769) opened on on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185769) 42 additions and 4 deletions in 3 files</sub><br />
 
-* **[Michael Brase](https://github.com/mbrase)** &mdash; Ensure that vulkan_interface.h gets included before vk_mem_alloc.h<br />
-  <sub>[#185777](https://github.com/flutter/flutter/pull/185777) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185777) 4 additions and 0 deletions in 1 file</sub><br />
-
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Tolerate floating-point rounding in paintImage centerSlice assertion<br />
   <sub>[#185789](https://github.com/flutter/flutter/pull/185789) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185789) 57 additions and 2 deletions in 2 files</sub><br />
 
@@ -223,9 +220,6 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux implementation of popup windows<br />
   <sub>[#185866](https://github.com/flutter/flutter/pull/185866) opened on on May 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185866) 232 additions and 9 deletions in 3 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update iOS tools to fat binaries<br />
-  <sub>[#185868](https://github.com/flutter/flutter/pull/185868) opened on on May 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185868) 97 additions and 3 deletions in 4 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Prevent Cubic transform from looping on out-of-range input<br />
   <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
