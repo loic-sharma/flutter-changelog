@@ -230,3 +230,6 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix text selection handle drag jumps<br />
   <sub>[#185878](https://github.com/flutter/flutter/pull/185878) opened on on May 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185878) 157 additions and 26 deletions in 2 files</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow allocating multi-mip textures and overwriting specific (mip, slice) levels<br />
+  <sub>[#185890](https://github.com/flutter/flutter/pull/185890) opened on on May 1, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/185890) 331 additions and 38 deletions in 5 files</sub><br />
+
