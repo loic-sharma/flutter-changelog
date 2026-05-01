@@ -168,7 +168,7 @@
   <sub>[#185722](https://github.com/flutter/flutter/pull/185722) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185722) 119 additions and 0 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Template Bump to AGP 9<br />
-  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/185730) 426 additions and 251 deletions in 57 files</sub><br />
+  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [46 comments](https://github.com/flutter/flutter/pull/185730) 426 additions and 251 deletions in 57 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester cross-imports from material tests<br />
   <sub>[#185736](https://github.com/flutter/flutter/pull/185736) opened on on April 29, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/185736) 1330 additions and 4 deletions in 5 files</sub><br />
@@ -177,7 +177,7 @@
   <sub>[#185750](https://github.com/flutter/flutter/pull/185750) opened on on April 29, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185750) 303 additions and 0 deletions in 2 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix AnimatedList.separated assertion when re-inserting after a removeItem<br />
-  <sub>[#185754](https://github.com/flutter/flutter/pull/185754) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185754) 65 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185754](https://github.com/flutter/flutter/pull/185754) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185754) 65 additions and 2 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix App binary path for SwiftPM Add2App on macOS<br />
   <sub>[#185769](https://github.com/flutter/flutter/pull/185769) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185769) 42 additions and 4 deletions in 3 files</sub><br />
@@ -224,9 +224,9 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix SelectionArea crash after selected list content scrolls away<br />
   <sub>[#185864](https://github.com/flutter/flutter/pull/185864) opened on on April 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185864) 69 additions and 24 deletions in 2 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Run the DisplayList Primitive Rendering benchmarks in post-submit<br />
-  <sub>[#185865](https://github.com/flutter/flutter/pull/185865) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185865) 25 additions and 7 deletions in 6 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux implementation of popup windows<br />
   <sub>[#185866](https://github.com/flutter/flutter/pull/185866) opened on on May 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185866) 232 additions and 9 deletions in 3 files</sub><br />
+
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Prevent Cubic transform from looping on out-of-range input<br />
+  <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
 
