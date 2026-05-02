@@ -135,7 +135,7 @@
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/185534) 697 additions and 106 deletions in 5 files</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix: TextInputAction not updating on keyboard when changed dynamically (fixes #185466)<br />
-  <sub>[#185582](https://github.com/flutter/flutter/pull/185582) opened on on April 25, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/185582) 66 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#185582](https://github.com/flutter/flutter/pull/185582) opened on on April 25, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/185582) 66 additions and 2 deletions in 2 files</sub><br />
 
 * **[Edo Sagron](https://github.com/EdoSag)** &mdash; Add minSdkVersion compatibility check in Flutter Gradle Plugin<br />
   <sub>[#185594](https://github.com/flutter/flutter/pull/185594) opened on on April 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185594) 112 additions and 0 deletions in 3 files</sub><br />
