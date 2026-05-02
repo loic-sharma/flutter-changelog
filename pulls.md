@@ -228,5 +228,5 @@
   <sub>[#185921](https://github.com/flutter/flutter/pull/185921) opened on on May 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185921) 48 additions and 18 deletions in 2 files</sub><br />
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Fix ellipsis before truncated hard line breaks<br />
-  <sub>[#185923](https://github.com/flutter/flutter/pull/185923) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185923) 147 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#185923](https://github.com/flutter/flutter/pull/185923) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185923) 162 additions and 24 deletions in 2 files</sub><br />
 
