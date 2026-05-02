@@ -71,6 +71,10 @@
   <sub>[#184049](https://github.com/flutter/flutter/pull/184049) merged on April 28, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/184049) over 1 month, 643 additions and 423 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Carry vec_size & columns in shader bundle uniform metadata
+  <sub>[#185879](https://github.com/flutter/flutter/pull/185879) merged on May 1, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/185879) over 14 hours, 414 additions and 283 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update merge semantics logic to merge sibling nodes
   <sub>[#183745](https://github.com/flutter/flutter/pull/183745) merged on April 29, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/183745) over 1 month, 116 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
@@ -94,10 +98,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add documentation for overarching tests in flutter, add skill to help agents figure out where tests go
   <sub>[#185148](https://github.com/flutter/flutter/pull/185148) merged on April 28, 2026 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/185148) over 1 week, 104 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victoria Ashworth](https://github.com/vashworth)</sub>
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Carry vec_size & columns in shader bundle uniform metadata
-  <sub>[#185879](https://github.com/flutter/flutter/pull/185879) merged on May 1, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/185879) over 14 hours, 414 additions and 283 deletions in 12 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove trivial test utility cross-imports from material and cupertino…
   <sub>[#184295](https://github.com/flutter/flutter/pull/184295) merged on May 1, 2026 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/184295) over 1 month, 128 additions and 4 deletions in 7 files</sub>
