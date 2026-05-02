@@ -985,6 +985,10 @@
   <sub>[#11478](https://github.com/flutter/packages/pull/11478) merged on April 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11478) over 3 weeks, 68 additions and 75 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [in_app_purchase] Switch to Kotlin Pigeon
+  <sub>[#11608](https://github.com/flutter/packages/pull/11608) merged on April 30, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/11608) over 23 hours, 3404 additions and 5450 deletions in 18 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Switch to Kotlin Pigeon
   <sub>[#11479](https://github.com/flutter/packages/pull/11479) merged on April 29, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/11479) over 2 weeks, 852 additions and 910 deletions in 12 files</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -996,10 +1000,6 @@
 * **[suojae](https://github.com/suojae)** &mdash; [vector_graphics] add imageBuilder property to VectorGraphic
   <sub>[#11094](https://github.com/flutter/packages/pull/11094) merged on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11094) over 2 months, 90 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [in_app_purchase] Switch to Kotlin Pigeon
-  <sub>[#11608](https://github.com/flutter/packages/pull/11608) merged on April 30, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/11608) over 23 hours, 3404 additions and 5450 deletions in 18 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [quick_actions] Switch to Kotlin Pigeon
   <sub>[#11507](https://github.com/flutter/packages/pull/11507) merged on April 29, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/11507) over 2 weeks, 603 additions and 523 deletions in 10 files</sub>
