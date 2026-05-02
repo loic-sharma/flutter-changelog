@@ -39,6 +39,10 @@
   <sub>[#182263](https://github.com/flutter/flutter/pull/182263) merged on April 29, 2026 &mdash; **Medium:** [38 comments](https://github.com/flutter/flutter/pull/182263) over 2 months, 347 additions and 101 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Camille Simon](https://github.com/camsim99), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material import froma sliver_main_axis_group_test, sliver_semantics_test, semantics_role_checks_test, sliver_fill_remaining_test, tap_region_test<br />
+  <sub>[#185567](https://github.com/flutter/flutter/pull/185567) merged on May 1, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185567) over 6 days, 499 additions and 378 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 * **[Rusino](https://github.com/Rusino)** &mdash; Removing TODOs from the WebParagraph code and addressing technical debts.<br />
   <sub>[#185168](https://github.com/flutter/flutter/pull/185168) merged on May 1, 2026 &mdash; **Large:** [59 comments](https://github.com/flutter/flutter/pull/185168) over 2 weeks, 236 additions and 358 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
@@ -66,10 +70,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests, part 6<br />
   <sub>[#184049](https://github.com/flutter/flutter/pull/184049) merged on April 28, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/184049) over 1 month, 643 additions and 423 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material import froma sliver_main_axis_group_test, sliver_semantics_test, semantics_role_checks_test, sliver_fill_remaining_test, tap_region_test<br />
-  <sub>[#185567](https://github.com/flutter/flutter/pull/185567) merged on May 1, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185567) over 6 days, 499 additions and 378 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update merge semantics logic to merge sibling nodes<br />
   <sub>[#183745](https://github.com/flutter/flutter/pull/183745) merged on April 29, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/183745) over 1 month, 116 additions and 6 deletions in 2 files</sub><br />
@@ -1185,6 +1185,10 @@
   <sub>[#13316](https://github.com/flutter/website/pull/13316) merged on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13316) over 5 hours, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [jesswrd](https://github.com/jesswrd)</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Update firebase.json for  flutter.dev/go/view-metrics-overrides<br />
+  <sub>[#13345](https://github.com/flutter/website/pull/13345) merged on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13345) over 18 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; Add installation steps for Flutter archive downloads<br />
   <sub>[#13325](https://github.com/flutter/website/pull/13325) merged on April 29, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13325) over 7 hours, 21 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
@@ -1215,10 +1219,6 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove framework role<br />
   <sub>[#13324](https://github.com/flutter/website/pull/13324) merged on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13324) over 11 hours, 0 additions and 83 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Update firebase.json for  flutter.dev/go/view-metrics-overrides<br />
-  <sub>[#13345](https://github.com/flutter/website/pull/13345) merged on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13345) over 18 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fixing the agent skills<br />
