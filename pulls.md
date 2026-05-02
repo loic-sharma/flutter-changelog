@@ -221,6 +221,6 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Remove `currentMainUri` from `generateMainDartWithPluginRegistrant`<br />
   <sub>[#185907](https://github.com/flutter/flutter/pull/185907) opened on on May 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185907) 9 additions and 49 deletions in 4 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate to explicit VSyncClient initialisers<br />
-  <sub>[#185916](https://github.com/flutter/flutter/pull/185916) opened on on May 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185916) 15 additions and 41 deletions in 7 files</sub><br />
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: update filename for sliver semantic widget<br />
+  <sub>[#185917](https://github.com/flutter/flutter/pull/185917) opened on on May 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185917) 5 additions and 11 deletions in 1 file</sub><br />
 
