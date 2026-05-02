@@ -225,5 +225,5 @@
   <sub>[#185917](https://github.com/flutter/flutter/pull/185917) opened on on May 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185917) 5 additions and 11 deletions in 1 file</sub><br />
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; fix: resolve TestSemantics comparison and assert issues<br />
-  <sub>[#185921](https://github.com/flutter/flutter/pull/185921) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185921) 18 additions and 18 deletions in 1 file</sub><br />
+  <sub>[#185921](https://github.com/flutter/flutter/pull/185921) opened on on May 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185921) 48 additions and 18 deletions in 2 files</sub><br />
 
