@@ -222,7 +222,7 @@
   <sub>[#185907](https://github.com/flutter/flutter/pull/185907) opened on on May 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185907) 9 additions and 49 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: update filename for sliver semantic widget<br />
-  <sub>[#185917](https://github.com/flutter/flutter/pull/185917) opened on on May 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185917) 5 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#185917](https://github.com/flutter/flutter/pull/185917) opened on on May 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185917) 5 additions and 11 deletions in 1 file</sub><br />
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; fix: resolve TestSemantics comparison and assert issues<br />
   <sub>[#185921](https://github.com/flutter/flutter/pull/185921) opened on on May 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185921) 48 additions and 18 deletions in 2 files</sub><br />
