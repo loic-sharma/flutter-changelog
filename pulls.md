@@ -54,7 +54,7 @@
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove list_tile_tester and rendering_tester cross-imports from cupertino tests<br />
-  <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/184588) 53 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184588) 57 additions and 3 deletions in 5 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Fix web dev proxy merging multiple Set-Cookie response headers<br />
   <sub>[#184638](https://github.com/flutter/flutter/pull/184638) opened on on April 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184638) 169 additions and 1 deletion in 2 files</sub><br />
@@ -212,9 +212,6 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Prevent Cubic transform from looping on out-of-range input<br />
   <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow allocating multi-mip textures and overwriting specific (mip, slice) levels<br />
-  <sub>[#185890](https://github.com/flutter/flutter/pull/185890) opened on on May 1, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185890) 349 additions and 38 deletions in 5 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task cacheable<br />
   <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185903) 5 additions and 0 deletions in 1 file</sub><br />
 
@@ -229,4 +226,7 @@
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Fix ellipsis before truncated hard line breaks<br />
   <sub>[#185923](https://github.com/flutter/flutter/pull/185923) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185923) 162 additions and 24 deletions in 2 files</sub><br />
+
+* **[Nikolay Kirillov](https://github.com/nukeolay)** &mdash; Sanitize Git environment for Flutter SDK git commands<br />
+  <sub>[#185929](https://github.com/flutter/flutter/pull/185929) opened on on May 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185929) 178 additions and 4 deletions in 5 files</sub><br />
 
