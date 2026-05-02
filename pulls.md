@@ -228,5 +228,5 @@
   <sub>[#185923](https://github.com/flutter/flutter/pull/185923) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185923) 162 additions and 24 deletions in 2 files</sub><br />
 
 * **[Nikolay Kirillov](https://github.com/nukeolay)** &mdash; Sanitize Git environment for Flutter SDK git commands<br />
-  <sub>[#185929](https://github.com/flutter/flutter/pull/185929) opened on on May 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185929) 178 additions and 4 deletions in 5 files</sub><br />
+  <sub>[#185929](https://github.com/flutter/flutter/pull/185929) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185929) 180 additions and 4 deletions in 5 files</sub><br />
 
