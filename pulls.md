@@ -233,3 +233,6 @@
 * **[Nikolay Kirillov](https://github.com/nukeolay)** &mdash; Sanitize Git environment for Flutter SDK git commands<br />
   <sub>[#185929](https://github.com/flutter/flutter/pull/185929) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185929) 180 additions and 4 deletions in 5 files</sub><br />
 
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add blendMode parameter to RawImage and RenderImage<br />
+  <sub>[#185938](https://github.com/flutter/flutter/pull/185938) opened on on May 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185938) 73 additions and 2 deletions in 4 files</sub><br />
+
