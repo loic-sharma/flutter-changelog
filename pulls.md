@@ -236,3 +236,6 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add blendMode parameter to RawImage and RenderImage<br />
   <sub>[#185938](https://github.com/flutter/flutter/pull/185938) opened on on May 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185938) 73 additions and 2 deletions in 4 files</sub><br />
 
+* **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Document super call order for State.didChangeDependencies<br />
+  <sub>[#185945](https://github.com/flutter/flutter/pull/185945) opened on on May 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185945) 3 additions and 0 deletions in 1 file</sub><br />
+
