@@ -182,6 +182,9 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Add SliverFormField for sliver-typed FormField builders<br />
   <sub>[#185795](https://github.com/flutter/flutter/pull/185795) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185795) 210 additions and 19 deletions in 2 files</sub><br />
 
+* **[Adil Hanney](https://github.com/adil192)** &mdash; Deprecate `CurvedAnimation.reverseCurve` for `AsymmetricCurvedAnimation`<br />
+  <sub>[#185797](https://github.com/flutter/flutter/pull/185797) opened on on April 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185797) 121 additions and 48 deletions in 5 files</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: add null pointer check for window on update tooltip and popup position<br />
   <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185807) 40 additions and 6 deletions in 2 files</sub><br />
 
