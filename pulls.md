@@ -234,7 +234,7 @@
   <sub>[#185938](https://github.com/flutter/flutter/pull/185938) opened on on May 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185938) 73 additions and 2 deletions in 4 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Document super call order for State.didChangeDependencies<br />
-  <sub>[#185945](https://github.com/flutter/flutter/pull/185945) opened on on May 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185945) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#185945](https://github.com/flutter/flutter/pull/185945) opened on on May 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185945) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[orbisai0security](https://github.com/orbisai0security)** &mdash; fix: the flutter daemon accepts json-rpc requests ov... in daemon.dart<br />
   <sub>[#185959](https://github.com/flutter/flutter/pull/185959) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185959) 11 additions and 0 deletions in 1 file</sub><br />
@@ -262,4 +262,7 @@
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Fix self-comparison and assert typos in TestSemantics<br />
   <sub>[#185975](https://github.com/flutter/flutter/pull/185975) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185975) 5 additions and 4 deletions in 1 file</sub><br />
+
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Add EditableText.unfocusedSelectionColor for view-unfocus styling<br />
+  <sub>[#185976](https://github.com/flutter/flutter/pull/185976) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185976) 160 additions and 1 deletion in 2 files</sub><br />
 
