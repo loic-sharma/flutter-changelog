@@ -176,8 +176,8 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Prevent Cubic transform from looping on out-of-range input<br />
   <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task cacheable<br />
-  <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185903) 5 additions and 0 deletions in 1 file</sub><br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task build cacheable<br />
+  <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185903) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: update filename for sliver semantic widget<br />
   <sub>[#185917](https://github.com/flutter/flutter/pull/185917) opened on on May 2, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185917) 165 additions and 147 deletions in 1 file</sub><br />
@@ -229,4 +229,7 @@
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; fix: forward DropdownMenu leadingIcon when decorationBuilder omits prefixIcon<br />
   <sub>[#185981](https://github.com/flutter/flutter/pull/185981) opened on on May 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185981) 53 additions and 0 deletions in 2 files</sub><br />
+
+* **[Lin Zhenming](https://github.com/lzm-build)** &mdash; And static library and impellerc binary to impeller_sdk<br />
+  <sub>[#185996](https://github.com/flutter/flutter/pull/185996) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185996) 56 additions and 2 deletions in 1 file</sub><br />
 

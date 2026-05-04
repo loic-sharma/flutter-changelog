@@ -4,7 +4,12 @@
 
 ### May 2, 2026 to May 8, 2026
 
-1 commits.
+2 commits.
+
+* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
+  <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="2560" height="1528" alt="grafik" src="https://github.com/user-attachments/assets/f9ea4170-bb26-49bd-8384-270aa76d04fb" /></details></sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) merged on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184956) over 3 weeks, 6 additions and 0 deletions in 1 file</sub><br />
@@ -826,9 +831,26 @@
 
 ## flutter/website
 
+### May 2, 2026 to May 8, 2026
+
+3 commits.
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Clarify widget vs Container hierarchy in DevTools tutorial<br />
+  <sub>[#13332](https://github.com/flutter/website/pull/13332) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13332) over 4 days, 5 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Clarify Property Editor live patching behavior in DevTools<br />
+  <sub>[#13333](https://github.com/flutter/website/pull/13333) merged on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13333) over 4 days, 5 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Refactor ArticleView to StatefulWidget and simplify lesson steps<br />
+  <sub>[#13331](https://github.com/flutter/website/pull/13331) merged on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13331) over 4 days, 103 additions and 28 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
 ### April 25, 2026 to May 1, 2026
 
-18 commits.
+<details>
+<summary>18 commits...</summary>
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; Add Patrol docs to testing section<br />
   <sub>[#13298](https://github.com/flutter/website/pull/13298) merged on April 29, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/website/pull/13298) over 1 week, 49 additions and 21 deletions in 3 files</sub><br />
@@ -901,6 +923,8 @@
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; Add example of SQLite table relationships<br />
   <sub>[#13309](https://github.com/flutter/website/pull/13309) merged on April 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13309) over 1 day, 32 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### April 18, 2026 to April 24, 2026
 
