@@ -233,3 +233,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Test: assert supported dependency versions match template versions<br />
   <sub>[#186009](https://github.com/flutter/flutter/pull/186009) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186009) 19 additions and 0 deletions in 1 file</sub><br />
 
+* **[Rusino](https://github.com/Rusino)** &mdash; Painting decorations directly on CanvasKit<br />
+  <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186013) 164 additions and 19 deletions in 4 files</sub><br />
+
