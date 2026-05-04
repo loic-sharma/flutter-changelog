@@ -221,15 +221,15 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Fix self-comparison and assert typos in TestSemantics<br />
   <sub>[#185975](https://github.com/flutter/flutter/pull/185975) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185975) 10 additions and 4 deletions in 1 file</sub><br />
 
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Add EditableText.unfocusedSelectionColor for view-unfocus styling<br />
-  <sub>[#185976](https://github.com/flutter/flutter/pull/185976) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185976) 211 additions and 1 deletion in 2 files</sub><br />
-
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; fix: forward DropdownMenu leadingIcon when decorationBuilder omits prefixIcon<br />
   <sub>[#185981](https://github.com/flutter/flutter/pull/185981) opened on on May 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185981) 53 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Chunk drawAtlas/drawRawAtlas to avoid wasm stack overflow<br />
   <sub>[#185997](https://github.com/flutter/flutter/pull/185997) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185997) 68 additions and 0 deletions in 1 file</sub><br />
 
-* **[Luke Memet](https://github.com/lukemmtt)** &mdash; Skip non-host schemes in watch companion fallback to avoid SwiftPM scan<br />
+* **[Luke Memet](https://github.com/lukemmtt)** &mdash; Skip schemes outside Runner.xcodeproj when detecting watch companion<br />
   <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186006) 91 additions and 0 deletions in 2 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Test: assert supported dependency versions match template versions<br />
+  <sub>[#186009](https://github.com/flutter/flutter/pull/186009) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186009) 19 additions and 0 deletions in 1 file</sub><br />
 
