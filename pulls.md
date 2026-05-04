@@ -183,7 +183,7 @@
   <sub>[#185917](https://github.com/flutter/flutter/pull/185917) opened on on May 2, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185917) 165 additions and 147 deletions in 1 file</sub><br />
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; fix: resolve TestSemantics comparison and assert issues<br />
-  <sub>[#185921](https://github.com/flutter/flutter/pull/185921) opened on on May 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185921) 48 additions and 18 deletions in 2 files</sub><br />
+  <sub>[#185921](https://github.com/flutter/flutter/pull/185921) opened on on May 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185921) 48 additions and 18 deletions in 2 files</sub><br />
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Fix ellipsis before truncated hard line breaks<br />
   <sub>[#185923](https://github.com/flutter/flutter/pull/185923) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185923) 162 additions and 24 deletions in 2 files</sub><br />
@@ -210,7 +210,7 @@
   <sub>[#185965](https://github.com/flutter/flutter/pull/185965) opened on on May 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185965) 14 additions and 25 deletions in 1 file</sub><br />
 
 * **[q404365631](https://github.com/q404365631)** &mdash; [framework] Fix TestSemantics self-comparison bugs and stray comma<br />
-  <sub>[#185968](https://github.com/flutter/flutter/pull/185968) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185968) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#185968](https://github.com/flutter/flutter/pull/185968) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185968) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from range_slider_test.dart<br />
   <sub>[#185972](https://github.com/flutter/flutter/pull/185972) opened on on May 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185972) 4 additions and 6 deletions in 1 file</sub><br />
@@ -222,7 +222,7 @@
   <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185974) 3 additions and 4 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Fix self-comparison and assert typos in TestSemantics<br />
-  <sub>[#185975](https://github.com/flutter/flutter/pull/185975) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185975) 10 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#185975](https://github.com/flutter/flutter/pull/185975) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185975) 10 additions and 4 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Add EditableText.unfocusedSelectionColor for view-unfocus styling<br />
   <sub>[#185976](https://github.com/flutter/flutter/pull/185976) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185976) 211 additions and 1 deletion in 2 files</sub><br />
