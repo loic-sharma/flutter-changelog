@@ -102,7 +102,7 @@
   <sub>[#185419](https://github.com/flutter/flutter/pull/185419) opened on on April 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185419) 123 additions and 4 deletions in 1 file</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]skip non-tappable web view workaround on ios 26.4<br />
-  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
 
 * **[Hashem](https://github.com/haashem)** &mdash; fix:`DropdownMenuFormField` missing leading icon<br />
   <sub>[#185445](https://github.com/flutter/flutter/pull/185445) opened on on April 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185445) 32 additions and 0 deletions in 2 files</sub><br />
@@ -235,4 +235,7 @@
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Document super call order for State.didChangeDependencies<br />
   <sub>[#185945](https://github.com/flutter/flutter/pull/185945) opened on on May 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185945) 3 additions and 0 deletions in 1 file</sub><br />
+
+* **[orbisai0security](https://github.com/orbisai0security)** &mdash; fix: the flutter daemon accepts json-rpc requests ov... in daemon.dart<br />
+  <sub>[#185959](https://github.com/flutter/flutter/pull/185959) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185959) 11 additions and 0 deletions in 1 file</sub><br />
 
