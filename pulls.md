@@ -180,7 +180,7 @@
   <sub>[#185917](https://github.com/flutter/flutter/pull/185917) opened on on May 2, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185917) 165 additions and 147 deletions in 1 file</sub><br />
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; fix: resolve TestSemantics comparison and assert issues<br />
-  <sub>[#185921](https://github.com/flutter/flutter/pull/185921) opened on on May 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185921) 48 additions and 18 deletions in 2 files</sub><br />
+  <sub>[#185921](https://github.com/flutter/flutter/pull/185921) opened on on May 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185921) 48 additions and 18 deletions in 2 files</sub><br />
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Fix ellipsis before truncated hard line breaks<br />
   <sub>[#185923](https://github.com/flutter/flutter/pull/185923) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185923) 162 additions and 24 deletions in 2 files</sub><br />
@@ -226,9 +226,6 @@
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; fix: forward DropdownMenu leadingIcon when decorationBuilder omits prefixIcon<br />
   <sub>[#185981](https://github.com/flutter/flutter/pull/185981) opened on on May 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185981) 53 additions and 0 deletions in 2 files</sub><br />
-
-* **[Lin Zhenming](https://github.com/lzm-build)** &mdash; And static library and impellerc binary to impeller_sdk<br />
-  <sub>[#185996](https://github.com/flutter/flutter/pull/185996) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185996) 56 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Chunk drawAtlas/drawRawAtlas to avoid wasm stack overflow<br />
   <sub>[#185997](https://github.com/flutter/flutter/pull/185997) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185997) 68 additions and 0 deletions in 1 file</sub><br />
