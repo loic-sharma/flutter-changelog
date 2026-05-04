@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 2, 2026 to May 8, 2026
+
+1 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
+  <sub>[#184956](https://github.com/flutter/flutter/pull/184956) merged on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184956) over 3 weeks, 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
 ### April 25, 2026 to May 1, 2026
 
-83 commits.
+<details>
+<summary>83 commits...</summary>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Don't use UberSDF for paint with incompatible blend modes<br />
   <sub>[#184889](https://github.com/flutter/flutter/pull/184889) merged on April 27, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/184889) over 2 weeks, 105 additions and 4 deletions in 3 files</sub><br />
@@ -338,6 +347,8 @@
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; Replace Material import with animation in semantics_and_children_test<br />
   <sub>[#185626](https://github.com/flutter/flutter/pull/185626) merged on April 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185626) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+
+</details>
 
 ### April 18, 2026 to April 24, 2026
 
