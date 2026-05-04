@@ -857,7 +857,11 @@
 
 ### May 2, 2026 to May 8, 2026
 
-4 commits.
+5 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a section on managing app lifecycle
+  <sub>[#13352](https://github.com/flutter/website/pull/13352) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13352) over 3 hours, 38 additions and 15 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Khanh Nguyen](https://github.com/khanhnwin), [Connie Ooi ](https://github.com/conooi)</sub>
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Layout shorthand cleanup
   <sub>[#13334](https://github.com/flutter/website/pull/13334) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13334) over 4 days, 9 additions and 1 deletion in 1 file</sub>
