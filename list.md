@@ -671,9 +671,18 @@
 
 ## flutter/packages
 
+### May 2, 2026 to May 8, 2026
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Extract most conformance checks to separate validator classes
+  <sub>[#11610](https://github.com/flutter/packages/pull/11610) merged on May 4, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/11610) over 4 days, 3054 additions and 2703 deletions in 20 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### April 25, 2026 to May 1, 2026
 
-24 commits.
+<details>
+<summary>24 commits...</summary>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] trailing pinned row/col for TableView
   <sub>[#11519](https://github.com/flutter/packages/pull/11519) merged on April 29, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/11519) over 1 week, 920 additions and 132 deletions in 7 files</sub>
@@ -770,6 +779,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from cc0734ac716f to 02085feb3f5d (2 revisions)
   <sub>[#11598](https://github.com/flutter/packages/pull/11598) merged on April 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11598) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### April 18, 2026 to April 24, 2026
 

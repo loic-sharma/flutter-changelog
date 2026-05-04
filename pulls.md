@@ -38,9 +38,6 @@
 * **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
 
-* **[Nico Stöhr](https://github.com/nicostoehr)** &mdash; Fix whitespace in the windows Flutter tool console output<br />
-  <sub>[#183356](https://github.com/flutter/flutter/pull/183356) opened on on March 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/183356) 2 additions and 2 deletions in 2 files</sub><br />
-
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/183838) 197 additions and 11 deletions in 10 files</sub><br />
 
@@ -62,9 +59,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_tools] Migrate detectLowCompileSdkVersionOrNdkVersion to AGP task<br />
   <sub>[#184731](https://github.com/flutter/flutter/pull/184731) opened on on April 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/184731) 634 additions and 331 deletions in 6 files</sub><br />
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make the welcome message output to stderr if --machine<br />
-  <sub>[#184819](https://github.com/flutter/flutter/pull/184819) opened on on April 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184819) 51 additions and 2 deletions in 4 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) opened on on April 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184956) 6 additions and 0 deletions in 1 file</sub><br />
 
@@ -77,9 +71,6 @@
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
   <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
 
-* **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix: --no-hot flag should trigger hot restart instead of being ignored<br />
-  <sub>[#185245](https://github.com/flutter/flutter/pull/185245) opened on on April 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185245) 22 additions and 2 deletions in 7 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make key mapping code match existing embedder style<br />
   <sub>[#185261](https://github.com/flutter/flutter/pull/185261) opened on on April 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185261) 53 additions and 68 deletions in 13 files</sub><br />
 
@@ -91,9 +82,6 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; flutter_tools: Remove unused parameters<br />
   <sub>[#185347](https://github.com/flutter/flutter/pull/185347) opened on on April 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185347) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Set GIT_TERMINAL_PROMPT to 0 by default to prevent silent hangs<br />
-  <sub>[#185374](https://github.com/flutter/flutter/pull/185374) opened on on April 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185374) 76 additions and 9 deletions in 2 files</sub><br />
 
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix: Remove incorrect scale parameter documentation from Image constructor<br />
   <sub>[#185412](https://github.com/flutter/flutter/pull/185412) opened on on April 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185412) 69 additions and 6 deletions in 3 files</sub><br />
@@ -214,9 +202,6 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task cacheable<br />
   <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185903) 5 additions and 0 deletions in 1 file</sub><br />
-
-* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Remove `currentMainUri` from `generateMainDartWithPluginRegistrant`<br />
-  <sub>[#185907](https://github.com/flutter/flutter/pull/185907) opened on on May 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185907) 9 additions and 49 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: update filename for sliver semantic widget<br />
   <sub>[#185917](https://github.com/flutter/flutter/pull/185917) opened on on May 2, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185917) 165 additions and 147 deletions in 1 file</sub><br />
