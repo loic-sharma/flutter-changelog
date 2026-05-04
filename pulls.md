@@ -207,7 +207,7 @@
   <sub>[#185864](https://github.com/flutter/flutter/pull/185864) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185864) 69 additions and 24 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux implementation of popup windows<br />
-  <sub>[#185866](https://github.com/flutter/flutter/pull/185866) opened on on May 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185866) 232 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#185866](https://github.com/flutter/flutter/pull/185866) opened on on May 1, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185866) 232 additions and 9 deletions in 3 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Prevent Cubic transform from looping on out-of-range input<br />
   <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
@@ -234,7 +234,7 @@
   <sub>[#185938](https://github.com/flutter/flutter/pull/185938) opened on on May 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185938) 73 additions and 2 deletions in 4 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Document super call order for State.didChangeDependencies<br />
-  <sub>[#185945](https://github.com/flutter/flutter/pull/185945) opened on on May 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185945) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#185945](https://github.com/flutter/flutter/pull/185945) opened on on May 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185945) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[orbisai0security](https://github.com/orbisai0security)** &mdash; fix: the flutter daemon accepts json-rpc requests ov... in daemon.dart<br />
   <sub>[#185959](https://github.com/flutter/flutter/pull/185959) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185959) 11 additions and 0 deletions in 1 file</sub><br />
