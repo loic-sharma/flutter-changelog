@@ -11,13 +11,13 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
   <sub><details><summary>1 image...</summary><img width="685" height="238" alt="image" src="https://github.com/user-attachments/assets/9a8f7bd2-70ab-419a-802e-0de04a22bbd8" /></details></sub>
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add reportErrors to ImageStreamListener<br />
-  <sub>[#180327](https://github.com/flutter/flutter/pull/180327) merged on April 29, 2026 &mdash; **Small:** [35 comments](https://github.com/flutter/flutter/pull/180327) over 4 months, 140 additions and 60 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
   <sub>[#182552](https://github.com/flutter/flutter/pull/182552) merged on April 28, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/182552) over 2 months, 484 additions and 15 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add reportErrors to ImageStreamListener<br />
+  <sub>[#180327](https://github.com/flutter/flutter/pull/180327) merged on April 29, 2026 &mdash; **Small:** [35 comments](https://github.com/flutter/flutter/pull/180327) over 4 months, 140 additions and 60 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Jhonacode](https://github.com/JhonaCodes)** &mdash; Fix SelectionArea handles overlapping context menu on Android<br />
   <sub>[#182663](https://github.com/flutter/flutter/pull/182663) merged on April 27, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/182663) over 2 months, 73 additions and 3 deletions in 3 files</sub><br />
