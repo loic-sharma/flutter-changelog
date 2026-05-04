@@ -237,8 +237,11 @@
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186013) 164 additions and 19 deletions in 4 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Update iOS tools to fat binaries<br />
-  <sub>[#186016](https://github.com/flutter/flutter/pull/186016) opened on on May 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186016) 98 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#186016](https://github.com/flutter/flutter/pull/186016) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186016) 98 additions and 3 deletions in 4 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Update iOS tools to fat binaries<br />
-  <sub>[#186017](https://github.com/flutter/flutter/pull/186017) opened on on May 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186017) 98 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#186017](https://github.com/flutter/flutter/pull/186017) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186017) 98 additions and 3 deletions in 4 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Restrict PlatformViewCreationRequest constructor visibility<br />
+  <sub>[#186019](https://github.com/flutter/flutter/pull/186019) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186019) 2 additions and 3 deletions in 1 file</sub><br />
 
