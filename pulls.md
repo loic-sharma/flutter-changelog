@@ -261,8 +261,8 @@
   <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185974) 3 additions and 4 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Fix self-comparison and assert typos in TestSemantics<br />
-  <sub>[#185975](https://github.com/flutter/flutter/pull/185975) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185975) 5 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#185975](https://github.com/flutter/flutter/pull/185975) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185975) 10 additions and 4 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Add EditableText.unfocusedSelectionColor for view-unfocus styling<br />
-  <sub>[#185976](https://github.com/flutter/flutter/pull/185976) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185976) 160 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#185976](https://github.com/flutter/flutter/pull/185976) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185976) 211 additions and 1 deletion in 2 files</sub><br />
 
