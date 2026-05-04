@@ -251,3 +251,15 @@
 * **[q404365631](https://github.com/q404365631)** &mdash; [framework] Fix TestSemantics self-comparison bugs and stray comma<br />
   <sub>[#185968](https://github.com/flutter/flutter/pull/185968) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185968) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from range_slider_test.dart<br />
+  <sub>[#185972](https://github.com/flutter/flutter/pull/185972) opened on on May 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185972) 4 additions and 6 deletions in 1 file</sub><br />
+
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from autocomplete_test.dart<br />
+  <sub>[#185973](https://github.com/flutter/flutter/pull/185973) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185973) 2 additions and 4 deletions in 1 file</sub><br />
+
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from animated_icons_test.dart<br />
+  <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185974) 3 additions and 4 deletions in 1 file</sub><br />
+
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Fix self-comparison and assert typos in TestSemantics<br />
+  <sub>[#185975](https://github.com/flutter/flutter/pull/185975) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185975) 5 additions and 4 deletions in 1 file</sub><br />
+
