@@ -861,7 +861,11 @@
 
 ### May 2, 2026 to May 8, 2026
 
-5 commits.
+6 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix genui deprecated pkg<br />
+  <sub>[#13353](https://github.com/flutter/website/pull/13353) merged on May 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13353) over 2 hours, 33 additions and 66 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a section on managing app lifecycle<br />
   <sub>[#13352](https://github.com/flutter/website/pull/13352) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13352) over 3 hours, 38 additions and 15 deletions in 1 file</sub><br />
