@@ -4,12 +4,16 @@
 
 ### May 2, 2026 to May 8, 2026
 
-7 commits.
+8 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
   <sub><details><summary>1 image...</summary><img width="2560" height="1528" alt="grafik" src="https://github.com/user-attachments/assets/f9ea4170-bb26-49bd-8384-270aa76d04fb" /></details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes it so ubersdf contents can be collapsed to clear colors.<br />
+  <sub>[#185760](https://github.com/flutter/flutter/pull/185760) merged on May 4, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/185760) over 5 days, 111 additions and 12 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Always use RGBA8888 format in the Skia bitmap used to draw a color glyph atlas<br />
   <sub>[#185857](https://github.com/flutter/flutter/pull/185857) merged on May 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185857) over 3 days, 33 additions and 5 deletions in 3 files</sub><br />
