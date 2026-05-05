@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-13 commits.
+14 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Asad Rafique](https://github.com/briskbase-projects)** &mdash; fix: prevent null crash in debugTogglePlatform when vmService is null<br />
   <sub>[#185812](https://github.com/flutter/flutter/pull/185812) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185812) over 4 days, 25 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [Ben Konyi](https://github.com/bkonyi), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Run the DisplayList Primitive Rendering benchmarks in post-submit<br />
+  <sub>[#185865](https://github.com/flutter/flutter/pull/185865) merged on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185865) over 4 days, 25 additions and 7 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make the welcome message output to stderr if --machine<br />
   <sub>[#184819](https://github.com/flutter/flutter/pull/184819) merged on May 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184819) over 3 weeks, 51 additions and 2 deletions in 4 files</sub><br />
