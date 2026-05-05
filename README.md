@@ -15,6 +15,10 @@
   <sub>[#185760](https://github.com/flutter/flutter/pull/185760) merged on May 4, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/185760) over 5 days, 111 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; AGP 9 template<br />
+  <sub>[#185953](https://github.com/flutter/flutter/pull/185953) merged on May 5, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/185953) over 1 day, 1384 additions and 1371 deletions in 42 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux implementation of popup windows<br />
   <sub>[#185866](https://github.com/flutter/flutter/pull/185866) merged on May 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185866) over 4 days, 232 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
@@ -42,10 +46,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make the welcome message output to stderr if --machine<br />
   <sub>[#184819](https://github.com/flutter/flutter/pull/184819) merged on May 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184819) over 3 weeks, 51 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; AGP 9 template<br />
-  <sub>[#185953](https://github.com/flutter/flutter/pull/185953) merged on May 5, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/185953) over 1 day, 1384 additions and 1371 deletions in 42 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) merged on May 4, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184275) over 1 month, 116 additions and 1 deletion in 2 files</sub><br />
