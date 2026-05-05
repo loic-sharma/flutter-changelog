@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-16 commits.
+17 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
@@ -31,6 +31,10 @@
   <sub>[#185812](https://github.com/flutter/flutter/pull/185812) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185812) over 4 days, 25 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [Ben Konyi](https://github.com/bkonyi), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
+* **[Slava Egorov](https://github.com/mraleph)** &mdash; Roll Dart SDK from 5dbfbf6487d2 to 28ef48bc86d5 (1 revision)<br />
+  <sub>[#186050](https://github.com/flutter/flutter/pull/186050) merged on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186050) over 5 hours, 9 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; Run the DisplayList Primitive Rendering benchmarks in post-submit<br />
   <sub>[#185865](https://github.com/flutter/flutter/pull/185865) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185865) over 4 days, 25 additions and 7 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
@@ -40,7 +44,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; AGP 9 template<br />
-  <sub>[#185953](https://github.com/flutter/flutter/pull/185953) merged on May 5, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/185953) over 1 day, 1384 additions and 1371 deletions in 42 files</sub><br />
+  <sub>[#185953](https://github.com/flutter/flutter/pull/185953) merged on May 5, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/185953) over 1 day, 1384 additions and 1371 deletions in 42 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
@@ -905,11 +909,15 @@
 
 ### May 2, 2026 to May 8, 2026
 
-9 commits.
+10 commits.
 
 * **[Alexander Sandberg](https://github.com/alexandersandberg)** &mdash; Fix and improve code samples<br />
   <sub>[#13312](https://github.com/flutter/website/pull/13312) merged on May 5, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13312) over 1 week, 28 additions and 30 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update site tool to support multiple sites<br />
+  <sub>[#13354](https://github.com/flutter/website/pull/13354) merged on May 5, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13354) over 5 hours, 47 additions and 12 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Nest docs website in new sites directory<br />
   <sub>[#13338](https://github.com/flutter/website/pull/13338) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13338) over 5 days, 58 additions and 24 deletions in 2001 files</sub><br />

@@ -161,9 +161,6 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Avoid CurvedAnimation leak during InteractiveViewer fling inertia<br />
   <sub>[#185860](https://github.com/flutter/flutter/pull/185860) opened on on April 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185860) 29 additions and 2 deletions in 2 files</sub><br />
 
-* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix SelectionArea crash after selected list content scrolls away<br />
-  <sub>[#185864](https://github.com/flutter/flutter/pull/185864) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185864) 69 additions and 24 deletions in 2 files</sub><br />
-
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Prevent Cubic transform from looping on out-of-range input<br />
   <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
 
@@ -265,6 +262,9 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [integration_test] Update README to support modern Kotlin-based setups by default<br />
   <sub>[#186080](https://github.com/flutter/flutter/pull/186080) opened on on May 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186080) 24 additions and 3 deletions in 1 file</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Pre provision the ndk from within the FGP<br />
+  <sub>[#186081](https://github.com/flutter/flutter/pull/186081) opened on on May 5, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/186081) 1428 additions and 1388 deletions in 7 files</sub><br />
 
 * **[Shadman Ahmmed](https://github.com/CoderBoxer)** &mdash; Fix expanded semantics for DatePicker mode toggle button<br />
   <sub>[#186084](https://github.com/flutter/flutter/pull/186084) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186084) 63 additions and 0 deletions in 2 files</sub><br />
