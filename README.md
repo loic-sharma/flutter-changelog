@@ -861,7 +861,11 @@
 
 ### May 2, 2026 to May 8, 2026
 
-6 commits.
+7 commits.
+
+* **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; feat: Add redirect for SRI design doc<br />
+  <sub>[#13349](https://github.com/flutter/website/pull/13349) merged on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13349) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix genui deprecated pkg<br />
   <sub>[#13353](https://github.com/flutter/website/pull/13353) merged on May 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13353) over 2 hours, 33 additions and 66 deletions in 1 file</sub><br />
