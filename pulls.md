@@ -104,9 +104,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/185534) 697 additions and 106 deletions in 5 files</sub><br />
 
-* **[Edo Sagron](https://github.com/EdoSag)** &mdash; Add minSdkVersion compatibility check in Flutter Gradle Plugin<br />
-  <sub>[#185594](https://github.com/flutter/flutter/pull/185594) opened on on April 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185594) 112 additions and 0 deletions in 3 files</sub><br />
-
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
@@ -265,9 +262,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [integration_test] Update README to support modern Kotlin-based setups by default<br />
   <sub>[#186080](https://github.com/flutter/flutter/pull/186080) opened on on May 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186080) 24 additions and 3 deletions in 1 file</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Pre provision the ndk from within the FGP<br />
-  <sub>[#186081](https://github.com/flutter/flutter/pull/186081) opened on on May 5, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/186081) 1428 additions and 1388 deletions in 7 files</sub><br />
 
 * **[Shadman Ahmmed](https://github.com/CoderBoxer)** &mdash; Fix expanded semantics for DatePicker mode toggle button<br />
   <sub>[#186084](https://github.com/flutter/flutter/pull/186084) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186084) 63 additions and 0 deletions in 2 files</sub><br />
