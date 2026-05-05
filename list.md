@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-17 commits.
+19 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub>
@@ -62,6 +62,14 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate to explicit VSyncClient initialisers
   <sub>[#185916](https://github.com/flutter/flutter/pull/185916) merged on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185916) over 2 days, 30 additions and 49 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Allow using print
+  <sub>[#185650](https://github.com/flutter/flutter/pull/185650) merged on May 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185650) over 1 week, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Cache plugin registrant in test compiler
+  <sub>[#185598](https://github.com/flutter/flutter/pull/185598) merged on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185598) over 1 week, 167 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Restrict PlatformViewCreationRequest constructor visibility
   <sub>[#186019](https://github.com/flutter/flutter/pull/186019) merged on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186019) over 2 hours, 2 additions and 3 deletions in 1 file</sub>
