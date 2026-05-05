@@ -119,9 +119,6 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; feat(services): expose SystemChrome.preferredOrientations getter<br />
   <sub>[#185722](https://github.com/flutter/flutter/pull/185722) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185722) 119 additions and 0 deletions in 2 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Template Bump to AGP 9<br />
-  <sub>[#185730](https://github.com/flutter/flutter/pull/185730) opened on on April 29, 2026 &mdash; **Large:** [46 comments](https://github.com/flutter/flutter/pull/185730) 426 additions and 251 deletions in 57 files</sub><br />
-
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Add mouseCursor to RawScrollbar<br />
   <sub>[#185750](https://github.com/flutter/flutter/pull/185750) opened on on April 29, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/185750) 363 additions and 0 deletions in 2 files</sub><br />
 
@@ -250,4 +247,10 @@
 
 * **[Shadman Ahmmed](https://github.com/CoderBoxer)** &mdash; Fix SearchAnchor.bar to respect SearchBarThemeData padding<br />
   <sub>[#186037](https://github.com/flutter/flutter/pull/186037) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186037) 27 additions and 0 deletions in 2 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [CP-beta] [AGP 9] Update AGP Error With Flutter Docs (#185043)<br />
+  <sub>[#186040](https://github.com/flutter/flutter/pull/186040) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186040) 24 additions and 33 deletions in 2 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Fix Broken Flutter Docs Link<br />
+  <sub>[#186042](https://github.com/flutter/flutter/pull/186042) opened on on May 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186042) 1 addition and 1 deletion in 1 file</sub><br />
 
