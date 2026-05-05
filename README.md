@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-8 commits.
+11 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes it so ubersdf contents can be collapsed to clear colors.<br />
   <sub>[#185760](https://github.com/flutter/flutter/pull/185760) merged on May 4, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/185760) over 5 days, 111 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix flutter_tools crashing on invalid UTF-8 in log output (fixes #184646)<br />
+  <sub>[#184685](https://github.com/flutter/flutter/pull/184685) merged on May 5, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/184685) over 4 weeks, 231 additions and 19 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Always use RGBA8888 format in the Skia bitmap used to draw a color glyph atlas<br />
   <sub>[#185857](https://github.com/flutter/flutter/pull/185857) merged on May 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185857) over 3 days, 33 additions and 5 deletions in 3 files</sub><br />
@@ -34,6 +38,14 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) merged on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184956) over 3 weeks, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Restrict PlatformViewCreationRequest constructor visibility<br />
+  <sub>[#186019](https://github.com/flutter/flutter/pull/186019) merged on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186019) over 2 hours, 2 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Lin Zhenming](https://github.com/lzm-build)** &mdash; And static library and impellerc binary to impeller_sdk<br />
+  <sub>[#185996](https://github.com/flutter/flutter/pull/185996) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185996) over 5 hours, 56 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; flutter_tools: Remove unused parameters<br />
   <sub>[#185347](https://github.com/flutter/flutter/pull/185347) merged on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185347) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
