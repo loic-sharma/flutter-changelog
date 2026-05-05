@@ -84,7 +84,7 @@
   <sub>[#185458](https://github.com/flutter/flutter/pull/185458) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185458) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ahmed Mostafa](https://github.com/ahmedm-gh)** &mdash; Widgets: Add .only and .symmetric constructors to SafeArea<br />
-  <sub>[#185470](https://github.com/flutter/flutter/pull/185470) opened on on April 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185470) 42 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#185470](https://github.com/flutter/flutter/pull/185470) opened on on April 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185470) 42 additions and 0 deletions in 1 file</sub><br />
 
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; Remove test utils cross-import from elevated_button_test<br />
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
@@ -109,9 +109,6 @@
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; feat: make SystemContextMenuController.isVisible part of the public API<br />
   <sub>[#185720](https://github.com/flutter/flutter/pull/185720) opened on on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185720) 12 additions and 1 deletion in 1 file</sub><br />
-
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; feat(services): expose SystemChrome.preferredOrientations getter<br />
-  <sub>[#185722](https://github.com/flutter/flutter/pull/185722) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185722) 119 additions and 0 deletions in 2 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Treat package:stack_trace async-gap marker as asynchronous suspension<br />
   <sub>[#185791](https://github.com/flutter/flutter/pull/185791) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185791) 40 additions and 14 deletions in 2 files</sub><br />
@@ -206,9 +203,6 @@
 * **[Shadman Ahmmed](https://github.com/CoderBoxer)** &mdash; Fix SearchAnchor.bar to respect SearchBarThemeData padding<br />
   <sub>[#186037](https://github.com/flutter/flutter/pull/186037) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186037) 27 additions and 0 deletions in 2 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Fix Broken Flutter Docs Link<br />
-  <sub>[#186042](https://github.com/flutter/flutter/pull/186042) opened on on May 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186042) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[7. Sun](https://github.com/sjhddh)** &mdash; fix(test): correct three TestSemantics typo bugs in semantics_tester.dart<br />
   <sub>[#186058](https://github.com/flutter/flutter/pull/186058) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186058) 5 additions and 4 deletions in 1 file</sub><br />
 
@@ -219,7 +213,7 @@
   <sub>[#186073](https://github.com/flutter/flutter/pull/186073) opened on on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186073) 56 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
-  <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186075) 63 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186075) 63 additions and 2 deletions in 2 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Harden dev tooling scripts against command injection and log leaks<br />
   <sub>[#186076](https://github.com/flutter/flutter/pull/186076) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186076) 7 additions and 7 deletions in 6 files</sub><br />
