@@ -18,7 +18,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/180591) 2596 additions and 551 deletions in 19 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [49 comments](https://github.com/flutter/flutter/pull/180591) 2596 additions and 551 deletions in 19 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -89,9 +89,6 @@
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; Remove test utils cross-import from elevated_button_test<br />
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete some remaining HTML renderer references<br />
-  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) opened on on April 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185487) 55 additions and 134 deletions in 16 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't leak gesture objects<br />
   <sub>[#185517](https://github.com/flutter/flutter/pull/185517) opened on on April 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185517) 19 additions and 10 deletions in 1 file</sub><br />
 
@@ -116,12 +113,6 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; feat(services): expose SystemChrome.preferredOrientations getter<br />
   <sub>[#185722](https://github.com/flutter/flutter/pull/185722) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185722) 119 additions and 0 deletions in 2 files</sub><br />
 
-* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix AnimatedList.separated assertion when re-inserting after a removeItem<br />
-  <sub>[#185754](https://github.com/flutter/flutter/pull/185754) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185754) 65 additions and 2 deletions in 2 files</sub><br />
-
-* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Tolerate floating-point rounding in paintImage centerSlice assertion<br />
-  <sub>[#185789](https://github.com/flutter/flutter/pull/185789) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185789) 57 additions and 2 deletions in 2 files</sub><br />
-
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Treat package:stack_trace async-gap marker as asynchronous suspension<br />
   <sub>[#185791](https://github.com/flutter/flutter/pull/185791) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185791) 40 additions and 14 deletions in 2 files</sub><br />
 
@@ -131,17 +122,11 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Add SliverFormField for sliver-typed FormField builders<br />
   <sub>[#185795](https://github.com/flutter/flutter/pull/185795) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185795) 210 additions and 19 deletions in 2 files</sub><br />
 
-* **[Adil Hanney](https://github.com/adil192)** &mdash; Deprecate `CurvedAnimation.reverseCurve` for `AsymmetricCurvedAnimation`<br />
-  <sub>[#185797](https://github.com/flutter/flutter/pull/185797) opened on on April 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185797) 121 additions and 48 deletions in 5 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: add null pointer check for window on update tooltip and popup position<br />
   <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185807) 46 additions and 6 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters<br />
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185819) 1 addition and 6 deletions in 1 file</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add alignment to SliverConstrainedCrossAxis<br />
-  <sub>[#185846](https://github.com/flutter/flutter/pull/185846) opened on on April 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/185846) 503 additions and 37 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete the old `BROWSER_IMAGE_DECODING_ENABLED` flag<br />
   <sub>[#185851](https://github.com/flutter/flutter/pull/185851) opened on on April 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185851) 1 addition and 16 deletions in 1 file</sub><br />
@@ -158,17 +143,8 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task build cacheable<br />
   <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185903) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: update filename for sliver semantic widget<br />
-  <sub>[#185917](https://github.com/flutter/flutter/pull/185917) opened on on May 2, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185917) 165 additions and 147 deletions in 1 file</sub><br />
-
-* **[Anas Saifi](https://github.com/anazr9)** &mdash; Fix ellipsis before truncated hard line breaks<br />
-  <sub>[#185923](https://github.com/flutter/flutter/pull/185923) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185923) 162 additions and 24 deletions in 2 files</sub><br />
-
 * **[Nikolay Kirillov](https://github.com/nukeolay)** &mdash; Sanitize Git environment for Flutter SDK git commands<br />
   <sub>[#185929](https://github.com/flutter/flutter/pull/185929) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185929) 180 additions and 4 deletions in 5 files</sub><br />
-
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add blendMode parameter to RawImage and RenderImage<br />
-  <sub>[#185938](https://github.com/flutter/flutter/pull/185938) opened on on May 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185938) 73 additions and 2 deletions in 4 files</sub><br />
 
 * **[orbisai0security](https://github.com/orbisai0security)** &mdash; fix: the flutter daemon accepts json-rpc requests ov... in daemon.dart<br />
   <sub>[#185959](https://github.com/flutter/flutter/pull/185959) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185959) 31 additions and 0 deletions in 1 file</sub><br />
@@ -255,8 +231,8 @@
   <sub>[#186084](https://github.com/flutter/flutter/pull/186084) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186084) 63 additions and 0 deletions in 2 files</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix gradle deps conflict in integration_test/example<br />
-  <sub>[#186095](https://github.com/flutter/flutter/pull/186095) opened on on May 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186095) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#186095](https://github.com/flutter/flutter/pull/186095) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186095) 35 additions and 42 deletions in 2 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: Harden CI scripts and driver against command injection<br />
-  <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 228 additions and 17 deletions in 8 files</sub><br />
+  <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 

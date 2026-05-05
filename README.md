@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-19 commits.
+20 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
@@ -62,6 +62,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate to explicit VSyncClient initialisers<br />
   <sub>[#185916](https://github.com/flutter/flutter/pull/185916) merged on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185916) over 2 days, 30 additions and 49 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete some remaining HTML renderer references<br />
+  <sub>[#185487](https://github.com/flutter/flutter/pull/185487) merged on May 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185487) over 1 week, 55 additions and 134 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Allow using print<br />
   <sub>[#185650](https://github.com/flutter/flutter/pull/185650) merged on May 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185650) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
