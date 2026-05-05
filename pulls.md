@@ -263,3 +263,12 @@
 * **[Luca Venir](https://github.com/lucavenir)** &mdash; add a `focusNode` to `SearchAnchor.bar`<br />
   <sub>[#186073](https://github.com/flutter/flutter/pull/186073) opened on on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186073) 56 additions and 0 deletions in 2 files</sub><br />
 
+* **[b-luk](https://github.com/b-luk)** &mdash; Fix inconsistent macOS text stroke weights by supporting light/dark glyph separation in glyph atlas<br />
+  <sub>[#186074](https://github.com/flutter/flutter/pull/186074) opened on on May 5, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/186074) 264 additions and 103 deletions in 13 files</sub><br />
+
+* **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
+  <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186075) 63 additions and 2 deletions in 2 files</sub><br />
+
+* **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Harden dev tooling scripts against command injection and log leaks<br />
+  <sub>[#186076](https://github.com/flutter/flutter/pull/186076) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186076) 7 additions and 7 deletions in 6 files</sub><br />
+
