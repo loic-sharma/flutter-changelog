@@ -243,7 +243,7 @@
   <sub>[#186031](https://github.com/flutter/flutter/pull/186031) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186031) 136 additions and 0 deletions in 3 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [CP-beta] Fix pointer position<br />
-  <sub>[#186034](https://github.com/flutter/flutter/pull/186034) opened on on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186034) 92 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#186034](https://github.com/flutter/flutter/pull/186034) opened on on May 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186034) 92 additions and 24 deletions in 2 files</sub><br />
 
 * **[Shadman Ahmmed](https://github.com/CoderBoxer)** &mdash; Fix SearchAnchor.bar to respect SearchBarThemeData padding<br />
   <sub>[#186037](https://github.com/flutter/flutter/pull/186037) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186037) 27 additions and 0 deletions in 2 files</sub><br />
@@ -259,4 +259,7 @@
 
 * **[gecho11](https://github.com/gecho11)** &mdash; color change<br />
   <sub>[#186069](https://github.com/flutter/flutter/pull/186069) opened on on May 5, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186069) 322 additions and 214 deletions in 8 files</sub><br />
+
+* **[Luca Venir](https://github.com/lucavenir)** &mdash; add a `focusNode` to `SearchAnchor.bar`<br />
+  <sub>[#186073](https://github.com/flutter/flutter/pull/186073) opened on on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186073) 56 additions and 0 deletions in 2 files</sub><br />
 
