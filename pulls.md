@@ -141,7 +141,7 @@
   <sub>[#185797](https://github.com/flutter/flutter/pull/185797) opened on on April 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185797) 121 additions and 48 deletions in 5 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: add null pointer check for window on update tooltip and popup position<br />
-  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185807) 44 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185807) 46 additions and 6 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters<br />
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185819) 1 addition and 6 deletions in 1 file</sub><br />
@@ -163,9 +163,6 @@
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix SelectionArea crash after selected list content scrolls away<br />
   <sub>[#185864](https://github.com/flutter/flutter/pull/185864) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185864) 69 additions and 24 deletions in 2 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux implementation of popup windows<br />
-  <sub>[#185866](https://github.com/flutter/flutter/pull/185866) opened on on May 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185866) 232 additions and 9 deletions in 3 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Prevent Cubic transform from looping on out-of-range input<br />
   <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
@@ -221,6 +218,9 @@
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Chunk drawAtlas/drawRawAtlas to avoid wasm stack overflow<br />
   <sub>[#185997](https://github.com/flutter/flutter/pull/185997) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185997) 68 additions and 0 deletions in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip xattr removal for Swift package cache<br />
+  <sub>[#186001](https://github.com/flutter/flutter/pull/186001) opened on on May 4, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/186001) 313 additions and 241 deletions in 9 files</sub><br />
+
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Skip schemes outside Runner.xcodeproj when detecting watch companion<br />
   <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186006) 151 additions and 0 deletions in 2 files</sub><br />
 
@@ -228,7 +228,7 @@
   <sub>[#186009](https://github.com/flutter/flutter/pull/186009) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186009) 19 additions and 0 deletions in 1 file</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Painting decorations directly on CanvasKit<br />
-  <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186013) 164 additions and 19 deletions in 4 files</sub><br />
+  <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Update iOS tools to fat binaries<br />
   <sub>[#186016](https://github.com/flutter/flutter/pull/186016) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186016) 98 additions and 3 deletions in 4 files</sub><br />
@@ -253,4 +253,13 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fix Broken Flutter Docs Link<br />
   <sub>[#186042](https://github.com/flutter/flutter/pull/186042) opened on on May 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186042) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[7. Sun](https://github.com/sjhddh)** &mdash; fix(test): correct three TestSemantics typo bugs in semantics_tester.dart<br />
+  <sub>[#186058](https://github.com/flutter/flutter/pull/186058) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186058) 5 additions and 4 deletions in 1 file</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-beta] Update iOS tools to fat binaries (#185868)<br />
+  <sub>[#186063](https://github.com/flutter/flutter/pull/186063) opened on on May 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186063) 93 additions and 3 deletions in 3 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-stable] Update iOS tools to fat binaries (#185868)<br />
+  <sub>[#186064](https://github.com/flutter/flutter/pull/186064) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186064) 93 additions and 3 deletions in 3 files</sub><br />
 

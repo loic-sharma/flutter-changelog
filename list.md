@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-14 commits.
+15 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub>
@@ -14,6 +14,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes it so ubersdf contents can be collapsed to clear colors.
   <sub>[#185760](https://github.com/flutter/flutter/pull/185760) merged on May 4, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/185760) over 5 days, 111 additions and 12 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux implementation of popup windows
+  <sub>[#185866](https://github.com/flutter/flutter/pull/185866) merged on May 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185866) over 4 days, 232 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix flutter_tools crashing on invalid UTF-8 in log output (fixes #184646)
   <sub>[#184685](https://github.com/flutter/flutter/pull/184685) merged on May 5, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/184685) over 4 weeks, 231 additions and 19 deletions in 7 files</sub>
@@ -885,7 +889,11 @@
 
 ### May 2, 2026 to May 8, 2026
 
-7 commits.
+8 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Nest docs website in new sites directory
+  <sub>[#13338](https://github.com/flutter/website/pull/13338) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13338) over 5 days, 58 additions and 24 deletions in 2001 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; feat: Add redirect for SRI design doc
   <sub>[#13349](https://github.com/flutter/website/pull/13349) merged on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13349) over 1 day, 1 addition and 0 deletions in 1 file</sub>
