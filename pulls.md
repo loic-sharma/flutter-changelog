@@ -231,10 +231,10 @@
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Update iOS tools to fat binaries<br />
-  <sub>[#186016](https://github.com/flutter/flutter/pull/186016) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186016) 98 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#186016](https://github.com/flutter/flutter/pull/186016) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186016) 98 additions and 3 deletions in 4 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Update iOS tools to fat binaries<br />
-  <sub>[#186017](https://github.com/flutter/flutter/pull/186017) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186017) 98 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#186017](https://github.com/flutter/flutter/pull/186017) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186017) 98 additions and 3 deletions in 4 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
   <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186028) 200 additions and 1 deletion in 4 files</sub><br />
@@ -257,9 +257,6 @@
 * **[7. Sun](https://github.com/sjhddh)** &mdash; fix(test): correct three TestSemantics typo bugs in semantics_tester.dart<br />
   <sub>[#186058](https://github.com/flutter/flutter/pull/186058) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186058) 5 additions and 4 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-beta] Update iOS tools to fat binaries (#185868)<br />
-  <sub>[#186063](https://github.com/flutter/flutter/pull/186063) opened on on May 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186063) 93 additions and 3 deletions in 3 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-stable] Update iOS tools to fat binaries (#185868)<br />
-  <sub>[#186064](https://github.com/flutter/flutter/pull/186064) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186064) 93 additions and 3 deletions in 3 files</sub><br />
+* **[gecho11](https://github.com/gecho11)** &mdash; color change<br />
+  <sub>[#186069](https://github.com/flutter/flutter/pull/186069) opened on on May 5, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186069) 322 additions and 214 deletions in 8 files</sub><br />
 
