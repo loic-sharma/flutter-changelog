@@ -179,9 +179,6 @@
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Skip schemes outside Runner.xcodeproj when detecting watch companion<br />
   <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186006) 151 additions and 0 deletions in 2 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Test: assert supported dependency versions match template versions<br />
-  <sub>[#186009](https://github.com/flutter/flutter/pull/186009) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186009) 19 additions and 0 deletions in 1 file</sub><br />
-
 * **[Rusino](https://github.com/Rusino)** &mdash; Painting decorations directly on CanvasKit<br />
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
