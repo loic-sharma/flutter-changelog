@@ -248,3 +248,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [CP-beta] Fix pointer position<br />
   <sub>[#186034](https://github.com/flutter/flutter/pull/186034) opened on on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186034) 92 additions and 24 deletions in 2 files</sub><br />
 
+* **[Shadman Ahmmed](https://github.com/CoderBoxer)** &mdash; Fix SearchAnchor.bar to respect SearchBarThemeData padding<br />
+  <sub>[#186037](https://github.com/flutter/flutter/pull/186037) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186037) 27 additions and 0 deletions in 2 files</sub><br />
+
