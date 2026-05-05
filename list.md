@@ -889,7 +889,11 @@
 
 ### May 2, 2026 to May 8, 2026
 
-8 commits.
+9 commits.
+
+* **[Alexander Sandberg](https://github.com/alexandersandberg)** &mdash; Fix and improve code samples
+  <sub>[#13312](https://github.com/flutter/website/pull/13312) merged on May 5, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13312) over 1 week, 28 additions and 30 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Nest docs website in new sites directory
   <sub>[#13338](https://github.com/flutter/website/pull/13338) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13338) over 5 days, 58 additions and 24 deletions in 2001 files</sub>
