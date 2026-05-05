@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-12 commits.
+13 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub>
@@ -34,6 +34,10 @@
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) merged on May 4, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184275) over 1 month, 116 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: remove ToString() from Vector3/Vector4 and ColorToString()
+  <sub>[#185456](https://github.com/flutter/flutter/pull/185456) merged on May 5, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/185456) over 1 week, 1 addition and 31 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) merged on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184956) over 3 weeks, 6 additions and 0 deletions in 1 file</sub>
