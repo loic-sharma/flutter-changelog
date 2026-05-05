@@ -218,11 +218,8 @@
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Chunk drawAtlas/drawRawAtlas to avoid wasm stack overflow<br />
   <sub>[#185997](https://github.com/flutter/flutter/pull/185997) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185997) 68 additions and 0 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip xattr removal for Swift package cache<br />
-  <sub>[#186001](https://github.com/flutter/flutter/pull/186001) opened on on May 4, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/186001) 313 additions and 241 deletions in 9 files</sub><br />
-
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Skip schemes outside Runner.xcodeproj when detecting watch companion<br />
-  <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186006) 151 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186006) 151 additions and 0 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Test: assert supported dependency versions match template versions<br />
   <sub>[#186009](https://github.com/flutter/flutter/pull/186009) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186009) 19 additions and 0 deletions in 1 file</sub><br />
@@ -263,9 +260,6 @@
 * **[Luca Venir](https://github.com/lucavenir)** &mdash; add a `focusNode` to `SearchAnchor.bar`<br />
   <sub>[#186073](https://github.com/flutter/flutter/pull/186073) opened on on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186073) 56 additions and 0 deletions in 2 files</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Fix inconsistent macOS text stroke weights by supporting light/dark glyph separation in glyph atlas<br />
-  <sub>[#186074](https://github.com/flutter/flutter/pull/186074) opened on on May 5, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186074) 252 additions and 103 deletions in 13 files</sub><br />
-
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
   <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186075) 63 additions and 2 deletions in 2 files</sub><br />
 
@@ -274,4 +268,7 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [integration_test] Update README to support modern Kotlin-based setups by default<br />
   <sub>[#186080](https://github.com/flutter/flutter/pull/186080) opened on on May 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186080) 24 additions and 3 deletions in 1 file</sub><br />
+
+* **[Shadman Ahmmed](https://github.com/CoderBoxer)** &mdash; Fix expanded semantics for DatePicker mode toggle button<br />
+  <sub>[#186084](https://github.com/flutter/flutter/pull/186084) opened on on May 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186084) 90 additions and 0 deletions in 4 files</sub><br />
 

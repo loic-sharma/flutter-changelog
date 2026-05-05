@@ -741,7 +741,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Extract most conformance checks to separate validator classes<br />
   <sub>[#11610](https://github.com/flutter/packages/pull/11610) merged on May 4, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/11610) over 4 days, 3054 additions and 2703 deletions in 20 files</sub><br />
@@ -754,6 +754,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] remove provider from examples<br />
   <sub>[#11647](https://github.com/flutter/packages/pull/11647) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11647) over 1 hour, 26 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Remove obsolete LICENSE entries<br />
+  <sub>[#11631](https://github.com/flutter/packages/pull/11631) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11631) over 4 days, 32 additions and 231 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds ci enable branch for batch release<br />
   <sub>[#11614](https://github.com/flutter/packages/pull/11614) merged on May 5, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11614) over 5 days, 121 additions and 1 deletion in 3 files</sub><br />
