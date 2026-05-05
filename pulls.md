@@ -245,9 +245,6 @@
 * **[Shadman Ahmmed](https://github.com/CoderBoxer)** &mdash; Fix SearchAnchor.bar to respect SearchBarThemeData padding<br />
   <sub>[#186037](https://github.com/flutter/flutter/pull/186037) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186037) 27 additions and 0 deletions in 2 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [CP-beta] [AGP 9] Update AGP Error With Flutter Docs (#185043)<br />
-  <sub>[#186040](https://github.com/flutter/flutter/pull/186040) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186040) 24 additions and 33 deletions in 2 files</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fix Broken Flutter Docs Link<br />
   <sub>[#186042](https://github.com/flutter/flutter/pull/186042) opened on on May 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186042) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -270,5 +267,5 @@
   <sub>[#186080](https://github.com/flutter/flutter/pull/186080) opened on on May 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186080) 24 additions and 3 deletions in 1 file</sub><br />
 
 * **[Shadman Ahmmed](https://github.com/CoderBoxer)** &mdash; Fix expanded semantics for DatePicker mode toggle button<br />
-  <sub>[#186084](https://github.com/flutter/flutter/pull/186084) opened on on May 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186084) 90 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#186084](https://github.com/flutter/flutter/pull/186084) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186084) 63 additions and 0 deletions in 2 files</sub><br />
 

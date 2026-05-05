@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-15 commits.
+16 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub>
@@ -38,6 +38,10 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make the welcome message output to stderr if --machine
   <sub>[#184819](https://github.com/flutter/flutter/pull/184819) merged on May 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184819) over 3 weeks, 51 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; AGP 9 template
+  <sub>[#185953](https://github.com/flutter/flutter/pull/185953) merged on May 5, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/185953) over 1 day, 1384 additions and 1371 deletions in 42 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) merged on May 4, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184275) over 1 month, 116 additions and 1 deletion in 2 files</sub>
