@@ -125,6 +125,9 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix AnimatedList.separated assertion when re-inserting after a removeItem<br />
   <sub>[#185754](https://github.com/flutter/flutter/pull/185754) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185754) 65 additions and 2 deletions in 2 files</sub><br />
 
+* **[Luke Hutchison](https://github.com/lukehutch)** &mdash; Address linker issue (#151638)<br />
+  <sub>[#185783](https://github.com/flutter/flutter/pull/185783) opened on on April 29, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185783) 544 additions and 70 deletions in 5 files</sub><br />
+
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Tolerate floating-point rounding in paintImage centerSlice assertion<br />
   <sub>[#185789](https://github.com/flutter/flutter/pull/185789) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185789) 57 additions and 2 deletions in 2 files</sub><br />
 
@@ -216,7 +219,7 @@
   <sub>[#185997](https://github.com/flutter/flutter/pull/185997) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185997) 68 additions and 0 deletions in 1 file</sub><br />
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Skip schemes outside Runner.xcodeproj when detecting watch companion<br />
-  <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186006) 151 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186006) 151 additions and 0 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Test: assert supported dependency versions match template versions<br />
   <sub>[#186009](https://github.com/flutter/flutter/pull/186009) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186009) 19 additions and 0 deletions in 1 file</sub><br />
@@ -243,7 +246,7 @@
   <sub>[#186037](https://github.com/flutter/flutter/pull/186037) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186037) 27 additions and 0 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fix Broken Flutter Docs Link<br />
-  <sub>[#186042](https://github.com/flutter/flutter/pull/186042) opened on on May 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186042) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#186042](https://github.com/flutter/flutter/pull/186042) opened on on May 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186042) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[7. Sun](https://github.com/sjhddh)** &mdash; fix(test): correct three TestSemantics typo bugs in semantics_tester.dart<br />
   <sub>[#186058](https://github.com/flutter/flutter/pull/186058) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186058) 5 additions and 4 deletions in 1 file</sub><br />
@@ -268,4 +271,7 @@
 
 * **[Shadman Ahmmed](https://github.com/CoderBoxer)** &mdash; Fix expanded semantics for DatePicker mode toggle button<br />
   <sub>[#186084](https://github.com/flutter/flutter/pull/186084) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186084) 63 additions and 0 deletions in 2 files</sub><br />
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix gradle deps conflict in integration_test/example<br />
+  <sub>[#186095](https://github.com/flutter/flutter/pull/186095) opened on on May 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186095) 2 additions and 2 deletions in 1 file</sub><br />
 
