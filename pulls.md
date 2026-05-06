@@ -237,5 +237,5 @@
   <sub>[#186125](https://github.com/flutter/flutter/pull/186125) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186125) 11 additions and 11 deletions in 3 files</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart 3.13 beta1 into Flutter<br />
-  <sub>[#186131](https://github.com/flutter/flutter/pull/186131) opened on on May 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186131) 13 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#186131](https://github.com/flutter/flutter/pull/186131) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186131) 14 additions and 13 deletions in 2 files</sub><br />
 
