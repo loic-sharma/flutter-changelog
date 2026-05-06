@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-27 commits.
+28 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub>
@@ -70,6 +70,10 @@
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) merged on May 4, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184275) over 1 month, 116 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Eliminate VSyncClient C++ initialiser
+  <sub>[#186111](https://github.com/flutter/flutter/pull/186111) merged on May 6, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186111) over 4 hours, 27 additions and 70 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: remove ToString() from Vector3/Vector4 and ColorToString()
   <sub>[#185456](https://github.com/flutter/flutter/pull/185456) merged on May 5, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/185456) over 1 week, 1 addition and 31 deletions in 5 files</sub>
