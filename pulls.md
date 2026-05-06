@@ -105,7 +105,7 @@
   <sub>[#185795](https://github.com/flutter/flutter/pull/185795) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185795) 210 additions and 19 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: add null pointer check for window on update tooltip and popup position<br />
-  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185807) 46 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185807) 46 additions and 6 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters<br />
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185819) 3 additions and 11 deletions in 1 file</sub><br />
@@ -176,9 +176,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tools] Add doctor validator warning for multiple adb installations<br />
   <sub>[#186031](https://github.com/flutter/flutter/pull/186031) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186031) 136 additions and 0 deletions in 3 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [CP-beta] Fix pointer position<br />
-  <sub>[#186034](https://github.com/flutter/flutter/pull/186034) opened on on May 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186034) 92 additions and 24 deletions in 2 files</sub><br />
-
 * **[7. Sun](https://github.com/sjhddh)** &mdash; fix(test): correct three TestSemantics typo bugs in semantics_tester.dart<br />
   <sub>[#186058](https://github.com/flutter/flutter/pull/186058) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186058) 5 additions and 4 deletions in 1 file</sub><br />
 
@@ -225,5 +222,8 @@
   <sub>[#186148](https://github.com/flutter/flutter/pull/186148) opened on on May 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186148) 16 additions and 10 deletions in 3 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Make logger a public getter in mixin to fix crash<br />
-  <sub>[#186151](https://github.com/flutter/flutter/pull/186151) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186151) 105 additions and 26 deletions in 3 files</sub><br />
+  <sub>[#186151](https://github.com/flutter/flutter/pull/186151) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186151) 104 additions and 26 deletions in 3 files</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add 'cp: review' label to the manual cherrypick process<br />
+  <sub>[#186158](https://github.com/flutter/flutter/pull/186158) opened on on May 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186158) 1 addition and 0 deletions in 1 file</sub><br />
 

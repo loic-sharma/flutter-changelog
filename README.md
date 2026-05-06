@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-34 commits.
+35 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
@@ -51,21 +51,21 @@
   <sub>[#185812](https://github.com/flutter/flutter/pull/185812) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185812) over 4 days, 25 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [Ben Konyi](https://github.com/bkonyi), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds ability to turn off sdfs with paint.<br />
-  <sub>[#186020](https://github.com/flutter/flutter/pull/186020) merged on May 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186020) over 1 day, 108 additions and 2 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
+* **[Jim Graham](https://github.com/flar)** &mdash; Run the DisplayList Primitive Rendering benchmarks in post-submit<br />
+  <sub>[#185865](https://github.com/flutter/flutter/pull/185865) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185865) over 4 days, 25 additions and 7 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Roll Dart SDK from 5dbfbf6487d2 to 28ef48bc86d5 (1 revision)<br />
   <sub>[#186050](https://github.com/flutter/flutter/pull/186050) merged on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186050) over 5 hours, 9 additions and 10 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Run the DisplayList Primitive Rendering benchmarks in post-submit<br />
-  <sub>[#185865](https://github.com/flutter/flutter/pull/185865) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185865) over 4 days, 25 additions and 7 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make the welcome message output to stderr if --machine<br />
   <sub>[#184819](https://github.com/flutter/flutter/pull/184819) merged on May 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184819) over 3 weeks, 51 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds ability to turn off sdfs with paint.<br />
+  <sub>[#186020](https://github.com/flutter/flutter/pull/186020) merged on May 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186020) over 1 day, 108 additions and 2 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Save event data by pointer in an extensible _RecognizerEventData structure<br />
   <sub>[#181113](https://github.com/flutter/flutter/pull/181113) merged on May 5, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/181113) over 3 months, 39 additions and 7 deletions in 1 file</sub><br />
@@ -95,13 +95,17 @@
   <sub>[#186111](https://github.com/flutter/flutter/pull/186111) merged on May 6, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186111) over 4 hours, 27 additions and 70 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: remove ToString() from Vector3/Vector4 and ColorToString()<br />
-  <sub>[#185456](https://github.com/flutter/flutter/pull/185456) merged on May 5, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/185456) over 1 week, 1 addition and 31 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) merged on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184956) over 3 weeks, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from cupertino/slider_test.dart<br />
+  <sub>[#184805](https://github.com/flutter/flutter/pull/184805) merged on May 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/184805) over 3 weeks, 12 additions and 33 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
+
+* **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: remove ToString() from Vector3/Vector4 and ColorToString()<br />
+  <sub>[#185456](https://github.com/flutter/flutter/pull/185456) merged on May 5, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/185456) over 1 week, 1 addition and 31 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Clarify CoversArea behavior and change arg to IRect<br />
   <sub>[#186094](https://github.com/flutter/flutter/pull/186094) merged on May 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186094) over 6 hours, 95 additions and 64 deletions in 29 files</sub><br />
@@ -981,11 +985,19 @@
 
 ### May 2, 2026 to May 8, 2026
 
-14 commits.
+16 commits.
+
+* **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Fix build.gradle file paths in Kotlin migration guide<br />
+  <sub>[#13342](https://github.com/flutter/website/pull/13342) merged on May 6, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/13342) over 6 days, 15 additions and 15 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[Alexander Sandberg](https://github.com/alexandersandberg)** &mdash; Fix and improve code samples<br />
   <sub>[#13312](https://github.com/flutter/website/pull/13312) merged on May 5, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13312) over 1 week, 28 additions and 30 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; DevTools 2.58.0 release notes<br />
+  <sub>[#13366](https://github.com/flutter/website/pull/13366) merged on May 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13366) over 4 hours, 51 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix view source path after moving site content<br />
   <sub>[#13360](https://github.com/flutter/website/pull/13360) merged on May 6, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13360) over 5 hours, 83 additions and 36 deletions in 1 file</sub><br />
