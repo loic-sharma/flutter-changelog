@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-33 commits.
+34 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
@@ -30,6 +30,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes it so ubersdf contents can be collapsed to clear colors.<br />
   <sub>[#185760](https://github.com/flutter/flutter/pull/185760) merged on May 4, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/185760) over 5 days, 111 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[spandan3001](https://github.com/spandan3001)** &mdash; Remove semantics_tester cross-import from segmented_button_test.dart<br />
+  <sub>[#185250](https://github.com/flutter/flutter/pull/185250) merged on May 6, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/185250) over 2 weeks, 1327 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; AGP 9 template<br />
   <sub>[#185953](https://github.com/flutter/flutter/pull/185953) merged on May 5, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/185953) over 1 day, 1384 additions and 1371 deletions in 42 files</sub><br />
@@ -977,11 +981,27 @@
 
 ### May 2, 2026 to May 8, 2026
 
-10 commits.
+14 commits.
 
 * **[Alexander Sandberg](https://github.com/alexandersandberg)** &mdash; Fix and improve code samples<br />
   <sub>[#13312](https://github.com/flutter/website/pull/13312) merged on May 5, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13312) over 1 week, 28 additions and 30 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix view source path after moving site content<br />
+  <sub>[#13360](https://github.com/flutter/website/pull/13360) merged on May 6, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13360) over 5 hours, 83 additions and 36 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix refresh-excerpts command after content move<br />
+  <sub>[#13361](https://github.com/flutter/website/pull/13361) merged on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13361) over 4 hours, 4 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [fwe] Fix lint in wikipedia reader step 4<br />
+  <sub>[#13363](https://github.com/flutter/website/pull/13363) merged on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13363) over 4 hours, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Ensure use of latest Jaspr and build deps<br />
+  <sub>[#13365](https://github.com/flutter/website/pull/13365) merged on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13365) over 3 hours, 7 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update site tool to support multiple sites<br />
   <sub>[#13354](https://github.com/flutter/website/pull/13354) merged on May 5, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13354) over 5 hours, 47 additions and 12 deletions in 8 files</sub><br />

@@ -153,7 +153,7 @@
   <sub>[#185975](https://github.com/flutter/flutter/pull/185975) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185975) 10 additions and 4 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show SwiftPM warnings right before iOS/macOS build<br />
-  <sub>[#185984](https://github.com/flutter/flutter/pull/185984) opened on on May 4, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/185984) 604 additions and 362 deletions in 6 files</sub><br />
+  <sub>[#185984](https://github.com/flutter/flutter/pull/185984) opened on on May 4, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185984) 604 additions and 362 deletions in 6 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Chunk drawAtlas/drawRawAtlas to avoid wasm stack overflow<br />
   <sub>[#185997](https://github.com/flutter/flutter/pull/185997) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185997) 68 additions and 0 deletions in 1 file</sub><br />
