@@ -56,17 +56,11 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_tools] Migrate detectLowCompileSdkVersionOrNdkVersion to AGP task<br />
   <sub>[#184731](https://github.com/flutter/flutter/pull/184731) opened on on April 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/184731) 634 additions and 331 deletions in 6 files</sub><br />
 
-* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix/predictive back event swipe edge out of bounds<br />
-  <sub>[#185140](https://github.com/flutter/flutter/pull/185140) opened on on April 16, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185140) 325 additions and 8 deletions in 4 files</sub><br />
-
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
   <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make key mapping code match existing embedder style<br />
   <sub>[#185261](https://github.com/flutter/flutter/pull/185261) opened on on April 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185261) 53 additions and 68 deletions in 13 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 8<br />
-  <sub>[#185282](https://github.com/flutter/flutter/pull/185282) opened on on April 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185282) 224 additions and 37 deletions in 8 files</sub><br />
 
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
@@ -76,12 +70,6 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]skip non-tappable web view workaround on ios 26.4<br />
   <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
-
-* **[Hashem](https://github.com/haashem)** &mdash; fix:`DropdownMenuFormField` missing leading icon<br />
-  <sub>[#185445](https://github.com/flutter/flutter/pull/185445) opened on on April 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185445) 32 additions and 0 deletions in 2 files</sub><br />
-
-* **[Roman Diakonov](https://github.com/ultra-rony)** &mdash; Correct reversed expanded/collapsed labels in Russian<br />
-  <sub>[#185458](https://github.com/flutter/flutter/pull/185458) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185458) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ahmed Mostafa](https://github.com/ahmedm-gh)** &mdash; Widgets: Add .only and .symmetric constructors to SafeArea<br />
   <sub>[#185470](https://github.com/flutter/flutter/pull/185470) opened on on April 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185470) 42 additions and 0 deletions in 1 file</sub><br />
@@ -104,9 +92,6 @@
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
-* **[Aryan Shukla](https://github.com/Telomelonia)** &mdash; Add actionsPadding to DatePickerThemeData<br />
-  <sub>[#185663](https://github.com/flutter/flutter/pull/185663) opened on on April 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185663) 60 additions and 2 deletions in 3 files</sub><br />
-
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; feat: make SystemContextMenuController.isVisible part of the public API<br />
   <sub>[#185720](https://github.com/flutter/flutter/pull/185720) opened on on April 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185720) 12 additions and 1 deletion in 1 file</sub><br />
 
@@ -126,7 +111,7 @@
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185819) 3 additions and 11 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete the old `BROWSER_IMAGE_DECODING_ENABLED` flag<br />
-  <sub>[#185851](https://github.com/flutter/flutter/pull/185851) opened on on April 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185851) 1 addition and 16 deletions in 1 file</sub><br />
+  <sub>[#185851](https://github.com/flutter/flutter/pull/185851) opened on on April 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185851) 1 addition and 16 deletions in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Skip SwiftPM plugin schemes when doing flutter clean<br />
   <sub>[#185853](https://github.com/flutter/flutter/pull/185853) opened on on April 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185853) 19 additions and 0 deletions in 2 files</sub><br />
@@ -196,12 +181,6 @@
 
 * **[7. Sun](https://github.com/sjhddh)** &mdash; fix(test): correct three TestSemantics typo bugs in semantics_tester.dart<br />
   <sub>[#186058](https://github.com/flutter/flutter/pull/186058) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186058) 5 additions and 4 deletions in 1 file</sub><br />
-
-* **[gecho11](https://github.com/gecho11)** &mdash; color change<br />
-  <sub>[#186069](https://github.com/flutter/flutter/pull/186069) opened on on May 5, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186069) 322 additions and 214 deletions in 8 files</sub><br />
-
-* **[Luca Venir](https://github.com/lucavenir)** &mdash; add a `focusNode` to `SearchAnchor.bar`<br />
-  <sub>[#186073](https://github.com/flutter/flutter/pull/186073) opened on on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186073) 56 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
   <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186075) 95 additions and 2 deletions in 2 files</sub><br />
