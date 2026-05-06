@@ -248,3 +248,6 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Update iOS section of AppLocalizations template to current Xcode workflow<br />
   <sub>[#186142](https://github.com/flutter/flutter/pull/186142) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186142) 15 additions and 14 deletions in 1 file</sub><br />
 
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart sdk to 3.13.0-99.0.dev<br />
+  <sub>[#186148](https://github.com/flutter/flutter/pull/186148) opened on on May 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186148) 16 additions and 10 deletions in 3 files</sub><br />
+
