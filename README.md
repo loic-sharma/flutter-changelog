@@ -993,7 +993,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-17 commits.
+18 commits.
 
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Fix build.gradle file paths in Kotlin migration guide<br />
   <sub>[#13342](https://github.com/flutter/website/pull/13342) merged on May 6, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/13342) over 6 days, 15 additions and 15 deletions in 1 file</sub><br />
@@ -1030,6 +1030,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Nest docs website in new sites directory<br />
   <sub>[#13338](https://github.com/flutter/website/pull/13338) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13338) over 5 days, 58 additions and 24 deletions in 2001 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify text about using multiple scenes<br />
+  <sub>[#13358](https://github.com/flutter/website/pull/13358) merged on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13358) over 18 hours, 27 additions and 21 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add logo to web/ directory<br />
   <sub>[#13367](https://github.com/flutter/website/pull/13367) merged on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13367) over 36 minutes, 0 additions and 0 deletions in 1 file</sub><br />
