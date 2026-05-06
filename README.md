@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-31 commits.
+33 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
@@ -46,6 +46,10 @@
 * **[Asad Rafique](https://github.com/briskbase-projects)** &mdash; fix: prevent null crash in debugTogglePlatform when vmService is null<br />
   <sub>[#185812](https://github.com/flutter/flutter/pull/185812) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185812) over 4 days, 25 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [Ben Konyi](https://github.com/bkonyi), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds ability to turn off sdfs with paint.<br />
+  <sub>[#186020](https://github.com/flutter/flutter/pull/186020) merged on May 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186020) over 1 day, 108 additions and 2 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Roll Dart SDK from 5dbfbf6487d2 to 28ef48bc86d5 (1 revision)<br />
   <sub>[#186050](https://github.com/flutter/flutter/pull/186050) merged on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186050) over 5 hours, 9 additions and 10 deletions in 2 files</sub><br />
@@ -101,6 +105,10 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate to explicit VSyncClient initialisers<br />
   <sub>[#185916](https://github.com/flutter/flutter/pull/185916) merged on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185916) over 2 days, 30 additions and 49 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove Xcode version override for animation_with_microtasks_perf_ios__timeline_summary<br />
+  <sub>[#186150](https://github.com/flutter/flutter/pull/186150) merged on May 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186150) over 1 hour, 0 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Clean up `animation_controller.dart`<br />

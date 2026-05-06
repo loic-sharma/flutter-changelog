@@ -225,5 +225,5 @@
   <sub>[#186148](https://github.com/flutter/flutter/pull/186148) opened on on May 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186148) 16 additions and 10 deletions in 3 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Make logger a public getter in mixin to fix crash<br />
-  <sub>[#186151](https://github.com/flutter/flutter/pull/186151) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186151) 14 additions and 15 deletions in 2 files</sub><br />
+  <sub>[#186151](https://github.com/flutter/flutter/pull/186151) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186151) 105 additions and 26 deletions in 3 files</sub><br />
 
