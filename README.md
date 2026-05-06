@@ -4,12 +4,16 @@
 
 ### May 2, 2026 to May 8, 2026
 
-35 commits.
+37 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
   <sub><details><summary>1 image...</summary><img width="2560" height="1528" alt="grafik" src="https://github.com/user-attachments/assets/f9ea4170-bb26-49bd-8384-270aa76d04fb" /></details></sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Update DisplayList rendering unittests for new SufaceProvider API and to be able to test Impeller<br />
+  <sub>[#185820](https://github.com/flutter/flutter/pull/185820) merged on May 6, 2026 &mdash; **Extra large:** [41 comments](https://github.com/flutter/flutter/pull/185820) over 6 days, 1277 additions and 1853 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip xattr removal for Swift package cache<br />
   <sub>[#186001](https://github.com/flutter/flutter/pull/186001) merged on May 6, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186001) over 1 day, 317 additions and 241 deletions in 9 files</sub><br />
@@ -55,10 +59,6 @@
   <sub>[#185865](https://github.com/flutter/flutter/pull/185865) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185865) over 4 days, 25 additions and 7 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Slava Egorov](https://github.com/mraleph)** &mdash; Roll Dart SDK from 5dbfbf6487d2 to 28ef48bc86d5 (1 revision)<br />
-  <sub>[#186050](https://github.com/flutter/flutter/pull/186050) merged on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186050) over 5 hours, 9 additions and 10 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Make the welcome message output to stderr if --machine<br />
   <sub>[#184819](https://github.com/flutter/flutter/pull/184819) merged on May 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184819) over 3 weeks, 51 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -66,6 +66,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds ability to turn off sdfs with paint.<br />
   <sub>[#186020](https://github.com/flutter/flutter/pull/186020) merged on May 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186020) over 1 day, 108 additions and 2 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Slava Egorov](https://github.com/mraleph)** &mdash; Roll Dart SDK from 5dbfbf6487d2 to 28ef48bc86d5 (1 revision)<br />
+  <sub>[#186050](https://github.com/flutter/flutter/pull/186050) merged on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186050) over 5 hours, 9 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete the old `BROWSER_IMAGE_DECODING_ENABLED` flag<br />
+  <sub>[#185851](https://github.com/flutter/flutter/pull/185851) merged on May 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185851) over 5 days, 1 addition and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Save event data by pointer in an extensible _RecognizerEventData structure<br />
   <sub>[#181113](https://github.com/flutter/flutter/pull/181113) merged on May 5, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/181113) over 3 months, 39 additions and 7 deletions in 1 file</sub><br />
@@ -985,7 +993,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-16 commits.
+17 commits.
 
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Fix build.gradle file paths in Kotlin migration guide<br />
   <sub>[#13342](https://github.com/flutter/website/pull/13342) merged on May 6, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/13342) over 6 days, 15 additions and 15 deletions in 1 file</sub><br />
@@ -1022,6 +1030,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Nest docs website in new sites directory<br />
   <sub>[#13338](https://github.com/flutter/website/pull/13338) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13338) over 5 days, 58 additions and 24 deletions in 2001 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Add logo to web/ directory<br />
+  <sub>[#13367](https://github.com/flutter/website/pull/13367) merged on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13367) over 36 minutes, 0 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; feat: Add redirect for SRI design doc<br />
   <sub>[#13349](https://github.com/flutter/website/pull/13349) merged on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13349) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
