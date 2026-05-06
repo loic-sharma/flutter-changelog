@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-26 commits.
+27 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
@@ -78,6 +78,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Ensure windows are realized before the first frame received.<br />
   <sub>[#184956](https://github.com/flutter/flutter/pull/184956) merged on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184956) over 3 weeks, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Clarify CoversArea behavior and change arg to IRect<br />
+  <sub>[#186094](https://github.com/flutter/flutter/pull/186094) merged on May 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186094) over 6 hours, 95 additions and 64 deletions in 29 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate to explicit VSyncClient initialisers<br />
   <sub>[#185916](https://github.com/flutter/flutter/pull/185916) merged on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185916) over 2 days, 30 additions and 49 deletions in 7 files</sub><br />
