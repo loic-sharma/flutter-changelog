@@ -131,9 +131,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Skip SwiftPM plugin schemes when doing flutter clean<br />
   <sub>[#185853](https://github.com/flutter/flutter/pull/185853) opened on on April 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185853) 19 additions and 0 deletions in 2 files</sub><br />
 
-* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Avoid CurvedAnimation leak during InteractiveViewer fling inertia<br />
-  <sub>[#185860](https://github.com/flutter/flutter/pull/185860) opened on on April 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185860) 29 additions and 2 deletions in 2 files</sub><br />
-
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Prevent Cubic transform from looping on out-of-range input<br />
   <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
 
@@ -229,4 +226,10 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add logging to figure out jvm crashes for `hot_mode_tests`<br />
   <sub>[#186107](https://github.com/flutter/flutter/pull/186107) opened on on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186107) 35 additions and 2 deletions in 1 file</sub><br />
+
+* **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: ignore client customTool in debug adapters<br />
+  <sub>[#186115](https://github.com/flutter/flutter/pull/186115) opened on on May 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186115) 115 additions and 84 deletions in 7 files</sub><br />
+
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix nested Text.rich semantics order<br />
+  <sub>[#186116](https://github.com/flutter/flutter/pull/186116) opened on on May 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186116) 52 additions and 17 deletions in 2 files</sub><br />
 
