@@ -237,11 +237,11 @@
   <sub>[#186125](https://github.com/flutter/flutter/pull/186125) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186125) 11 additions and 11 deletions in 3 files</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart 3.13 beta1 into Flutter<br />
-  <sub>[#186131](https://github.com/flutter/flutter/pull/186131) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186131) 14 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#186131](https://github.com/flutter/flutter/pull/186131) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186131) 24 additions and 18 deletions in 3 files</sub><br />
 
 * **[Haider](https://github.com/HaiderQadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186141) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Update iOS section of AppLocalizations template to current Xcode workflow<br />
-  <sub>[#186142](https://github.com/flutter/flutter/pull/186142) opened on on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186142) 15 additions and 14 deletions in 1 file</sub><br />
+  <sub>[#186142](https://github.com/flutter/flutter/pull/186142) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186142) 15 additions and 14 deletions in 1 file</sub><br />
 
