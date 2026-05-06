@@ -210,7 +210,7 @@
   <sub>[#186073](https://github.com/flutter/flutter/pull/186073) opened on on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186073) 56 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
-  <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186075) 63 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186075) 64 additions and 2 deletions in 2 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Harden dev tooling scripts against command injection and log leaks<br />
   <sub>[#186076](https://github.com/flutter/flutter/pull/186076) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186076) 7 additions and 7 deletions in 6 files</sub><br />
@@ -229,6 +229,9 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add logging to figure out jvm crashes for `hot_mode_tests`<br />
   <sub>[#186107](https://github.com/flutter/flutter/pull/186107) opened on on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186107) 35 additions and 2 deletions in 1 file</sub><br />
+
+* **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Honor Paint.filterQuality in Canvas.drawAtlas<br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186108) 54 additions and 7 deletions in 4 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: ignore client customTool in debug adapters<br />
   <sub>[#186115](https://github.com/flutter/flutter/pull/186115) opened on on May 6, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/186115) 181 additions and 130 deletions in 8 files</sub><br />

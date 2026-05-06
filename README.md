@@ -4,16 +4,24 @@
 
 ### May 2, 2026 to May 8, 2026
 
-30 commits.
+31 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
   <sub><details><summary>1 image...</summary><img width="2560" height="1528" alt="grafik" src="https://github.com/user-attachments/assets/f9ea4170-bb26-49bd-8384-270aa76d04fb" /></details></sub>
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip xattr removal for Swift package cache<br />
+  <sub>[#186001](https://github.com/flutter/flutter/pull/186001) merged on May 6, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186001) over 1 day, 317 additions and 241 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix MergeSemantics resolving wrong handler for custom actions<br />
   <sub>[#184628](https://github.com/flutter/flutter/pull/184628) merged on May 5, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/184628) over 1 month, 323 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux implementation of popup windows<br />
+  <sub>[#185866](https://github.com/flutter/flutter/pull/185866) merged on May 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185866) over 4 days, 232 additions and 9 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Add FlutterTracing to support tracing from Swift<br />
   <sub>[#185918](https://github.com/flutter/flutter/pull/185918) merged on May 6, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/185918) over 4 days, 315 additions and 8 deletions in 9 files</sub><br />
@@ -26,10 +34,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; AGP 9 template<br />
   <sub>[#185953](https://github.com/flutter/flutter/pull/185953) merged on May 5, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/185953) over 1 day, 1384 additions and 1371 deletions in 42 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux implementation of popup windows<br />
-  <sub>[#185866](https://github.com/flutter/flutter/pull/185866) merged on May 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185866) over 4 days, 232 additions and 9 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Fix flutter_tools crashing on invalid UTF-8 in log output (fixes #184646)<br />
   <sub>[#184685](https://github.com/flutter/flutter/pull/184685) merged on May 5, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/184685) over 4 weeks, 231 additions and 19 deletions in 7 files</sub><br />
