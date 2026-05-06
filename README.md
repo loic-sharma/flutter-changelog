@@ -4,7 +4,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-24 commits.
+26 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix pointer position<br />
   <sub>[#185850](https://github.com/flutter/flutter/pull/185850) merged on May 4, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185850) over 3 days, 92 additions and 24 deletions in 2 files</sub><br />
@@ -51,9 +51,21 @@
   <sub>[#184819](https://github.com/flutter/flutter/pull/184819) merged on May 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/184819) over 3 weeks, 51 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Save event data by pointer in an extensible _RecognizerEventData structure<br />
+  <sub>[#181113](https://github.com/flutter/flutter/pull/181113) merged on May 5, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/181113) over 3 months, 39 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Exclude the RawAutocomplete options overlay from the ambient focus traversal tree<br />
+  <sub>[#185543](https://github.com/flutter/flutter/pull/185543) merged on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185543) over 1 week, 64 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Test: assert supported dependency versions match template versions<br />
   <sub>[#186009](https://github.com/flutter/flutter/pull/186009) merged on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186009) over 1 day, 19 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Fix Broken Flutter Docs Link<br />
+  <sub>[#186042](https://github.com/flutter/flutter/pull/186042) merged on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186042) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds<br />
   <sub>[#184275](https://github.com/flutter/flutter/pull/184275) merged on May 4, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184275) over 1 month, 116 additions and 1 deletion in 2 files</sub><br />
@@ -74,10 +86,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Clean up `animation_controller.dart`<br />
   <sub>[#182338](https://github.com/flutter/flutter/pull/182338) merged on May 5, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/182338) over 2 months, 33 additions and 49 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Fix Broken Flutter Docs Link<br />
-  <sub>[#186042](https://github.com/flutter/flutter/pull/186042) merged on May 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186042) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete some remaining HTML renderer references<br />
   <sub>[#185487](https://github.com/flutter/flutter/pull/185487) merged on May 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185487) over 1 week, 55 additions and 134 deletions in 16 files</sub><br />

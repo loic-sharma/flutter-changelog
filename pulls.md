@@ -123,7 +123,7 @@
   <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185807) 46 additions and 6 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters<br />
-  <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185819) 1 addition and 6 deletions in 1 file</sub><br />
+  <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185819) 1 addition and 6 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Delete the old `BROWSER_IMAGE_DECODING_ENABLED` flag<br />
   <sub>[#185851](https://github.com/flutter/flutter/pull/185851) opened on on April 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185851) 1 addition and 16 deletions in 1 file</sub><br />
@@ -138,7 +138,7 @@
   <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task build cacheable<br />
-  <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185903) 5 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185903) 73 additions and 0 deletions in 2 files</sub><br />
 
 * **[Nikolay Kirillov](https://github.com/nukeolay)** &mdash; Sanitize Git environment for Flutter SDK git commands<br />
   <sub>[#185929](https://github.com/flutter/flutter/pull/185929) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185929) 180 additions and 4 deletions in 5 files</sub><br />
@@ -226,4 +226,7 @@
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: Harden CI scripts and driver against command injection<br />
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add logging to figure out jvm crashes for `hot_mode_tests`<br />
+  <sub>[#186107](https://github.com/flutter/flutter/pull/186107) opened on on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186107) 35 additions and 2 deletions in 1 file</sub><br />
 
