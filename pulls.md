@@ -186,7 +186,7 @@
   <sub>[#186017](https://github.com/flutter/flutter/pull/186017) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186017) 98 additions and 3 deletions in 4 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
-  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186028) 200 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186028) 200 additions and 1 deletion in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tools] Add doctor validator warning for multiple adb installations<br />
   <sub>[#186031](https://github.com/flutter/flutter/pull/186031) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186031) 136 additions and 0 deletions in 3 files</sub><br />
@@ -207,7 +207,7 @@
   <sub>[#186073](https://github.com/flutter/flutter/pull/186073) opened on on May 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186073) 56 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
-  <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186075) 63 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186075) 63 additions and 2 deletions in 2 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Harden dev tooling scripts against command injection and log leaks<br />
   <sub>[#186076](https://github.com/flutter/flutter/pull/186076) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186076) 7 additions and 7 deletions in 6 files</sub><br />
@@ -235,4 +235,7 @@
 
 * **[Alexander Aks'onov](https://github.com/AlexEduV)** &mdash; Docs/improving docs for semantics UI lib<br />
   <sub>[#186125](https://github.com/flutter/flutter/pull/186125) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186125) 11 additions and 11 deletions in 3 files</sub><br />
+
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart 3.13 beta1 into Flutter<br />
+  <sub>[#186131](https://github.com/flutter/flutter/pull/186131) opened on on May 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186131) 13 additions and 13 deletions in 2 files</sub><br />
 
