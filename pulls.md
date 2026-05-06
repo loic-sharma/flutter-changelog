@@ -233,3 +233,6 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix nested Text.rich semantics order<br />
   <sub>[#186116](https://github.com/flutter/flutter/pull/186116) opened on on May 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186116) 57 additions and 17 deletions in 2 files</sub><br />
 
+* **[Alexander Aks'onov](https://github.com/AlexEduV)** &mdash; Docs/improving docs for semantics UI lib<br />
+  <sub>[#186125](https://github.com/flutter/flutter/pull/186125) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186125) 11 additions and 11 deletions in 3 files</sub><br />
+
