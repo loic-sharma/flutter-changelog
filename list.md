@@ -805,7 +805,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-5 commits.
+6 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Extract most conformance checks to separate validator classes
   <sub>[#11610](https://github.com/flutter/packages/pull/11610) merged on May 4, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/11610) over 4 days, 3054 additions and 2703 deletions in 20 files</sub>
@@ -814,6 +814,10 @@
 * **[q2a3z](https://github.com/q2a3z)** &mdash; [camera_android] Reset AE and AF triggers to idle after capture
   <sub>[#11330](https://github.com/flutter/packages/pull/11330) merged on May 5, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11330) over 1 month, 98 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[fondoger](https://github.com/fondoger)** &mdash; [vector_graphics_compiler] Fix HSL color parsing for decimal percentage components
+  <sub>[#11619](https://github.com/flutter/packages/pull/11619) merged on May 6, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11619) over 6 days, 83 additions and 18 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] remove provider from examples
   <sub>[#11647](https://github.com/flutter/packages/pull/11647) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11647) over 1 hour, 26 additions and 6 deletions in 2 files</sub>
