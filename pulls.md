@@ -170,6 +170,9 @@
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; fix: forward DropdownMenu leadingIcon when decorationBuilder omits prefixIcon<br />
   <sub>[#185981](https://github.com/flutter/flutter/pull/185981) opened on on May 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/185981) 53 additions and 0 deletions in 2 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show SwiftPM warnings right before iOS/macOS build<br />
+  <sub>[#185984](https://github.com/flutter/flutter/pull/185984) opened on on May 4, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/185984) 604 additions and 362 deletions in 6 files</sub><br />
+
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Chunk drawAtlas/drawRawAtlas to avoid wasm stack overflow<br />
   <sub>[#185997](https://github.com/flutter/flutter/pull/185997) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185997) 68 additions and 0 deletions in 1 file</sub><br />
 
