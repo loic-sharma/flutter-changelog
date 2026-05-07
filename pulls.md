@@ -219,5 +219,5 @@
   <sub>[#186179](https://github.com/flutter/flutter/pull/186179) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186179) 20 additions and 20 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.41-candidate.0] Update Flutter DEPS to Dart c00628e0f2dd093edea5db6d7540976601a0541e<br />
-  <sub>[#186180](https://github.com/flutter/flutter/pull/186180) opened on on May 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186180) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#186180](https://github.com/flutter/flutter/pull/186180) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186180) 1 addition and 1 deletion in 1 file</sub><br />
 
