@@ -203,9 +203,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart sdk to 3.13.0-101.0.dev<br />
   <sub>[#186148](https://github.com/flutter/flutter/pull/186148) opened on on May 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186148) 16 additions and 10 deletions in 3 files</sub><br />
 
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Make logger a public getter in mixin to fix crash<br />
-  <sub>[#186151](https://github.com/flutter/flutter/pull/186151) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186151) 102 additions and 26 deletions in 3 files</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add 'cp: review' label to the manual cherrypick process<br />
   <sub>[#186158](https://github.com/flutter/flutter/pull/186158) opened on on May 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186158) 1 addition and 0 deletions in 1 file</sub><br />
 
