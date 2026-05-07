@@ -218,9 +218,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [examples] Use super parameters in missed spots<br />
   <sub>[#186194](https://github.com/flutter/flutter/pull/186194) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186194) 4 additions and 2 deletions in 1 file</sub><br />
 
-* **[John Ryan](https://github.com/johnpryan)** &mdash; Update Flutter logo image sources in README<br />
-  <sub>[#186195](https://github.com/flutter/flutter/pull/186195) opened on on May 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186195) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Use super parameters in missed spots<br />
   <sub>[#186197](https://github.com/flutter/flutter/pull/186197) opened on on May 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186197) 4 additions and 9 deletions in 2 files</sub><br />
 
@@ -237,5 +234,5 @@
   <sub>[#186204](https://github.com/flutter/flutter/pull/186204) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186204) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update semantics accessibility block to also block keyboard focusability<br />
-  <sub>[#186206](https://github.com/flutter/flutter/pull/186206) opened on on May 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186206) 16 additions and 12 deletions in 3 files</sub><br />
+  <sub>[#186206](https://github.com/flutter/flutter/pull/186206) opened on on May 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/186206) 16 additions and 12 deletions in 3 files</sub><br />
 
