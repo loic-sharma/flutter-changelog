@@ -96,7 +96,7 @@
   <sub>[#185795](https://github.com/flutter/flutter/pull/185795) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185795) 210 additions and 19 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: add null pointer check for window on update tooltip and popup position<br />
-  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185807) 46 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185807) 46 additions and 6 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters<br />
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185819) 3 additions and 11 deletions in 1 file</sub><br />
@@ -139,9 +139,6 @@
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Fix self-comparison and assert typos in TestSemantics<br />
   <sub>[#185975](https://github.com/flutter/flutter/pull/185975) opened on on May 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185975) 10 additions and 4 deletions in 1 file</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show SwiftPM warnings right before iOS/macOS build<br />
-  <sub>[#185984](https://github.com/flutter/flutter/pull/185984) opened on on May 4, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185984) 604 additions and 362 deletions in 6 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Chunk drawAtlas/drawRawAtlas to avoid wasm stack overflow<br />
   <sub>[#185997](https://github.com/flutter/flutter/pull/185997) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185997) 68 additions and 0 deletions in 1 file</sub><br />
@@ -199,9 +196,6 @@
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Update iOS section of AppLocalizations template to current Xcode workflow<br />
   <sub>[#186142](https://github.com/flutter/flutter/pull/186142) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186142) 15 additions and 14 deletions in 1 file</sub><br />
-
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart sdk to 3.13.0-101.0.dev<br />
-  <sub>[#186148](https://github.com/flutter/flutter/pull/186148) opened on on May 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186148) 16 additions and 10 deletions in 3 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add 'cp: review' label to the manual cherrypick process<br />
   <sub>[#186158](https://github.com/flutter/flutter/pull/186158) opened on on May 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186158) 1 addition and 0 deletions in 1 file</sub><br />
