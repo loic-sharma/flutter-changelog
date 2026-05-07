@@ -78,7 +78,7 @@
   <sub>[#185521](https://github.com/flutter/flutter/pull/185521) opened on on April 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185521) 11 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
-  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/185534) 691 additions and 105 deletions in 5 files</sub><br />
+  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/185534) 691 additions and 105 deletions in 5 files</sub><br />
 
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
@@ -96,7 +96,7 @@
   <sub>[#185795](https://github.com/flutter/flutter/pull/185795) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185795) 210 additions and 19 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: add null pointer check for window on update tooltip and popup position<br />
-  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185807) 46 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/185807) 150 additions and 6 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters<br />
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185819) 3 additions and 11 deletions in 1 file</sub><br />
@@ -201,7 +201,7 @@
   <sub>[#186158](https://github.com/flutter/flutter/pull/186158) opened on on May 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186158) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia integration tests to use subpackaged runners<br />
-  <sub>[#186172](https://github.com/flutter/flutter/pull/186172) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186172) 36 additions and 136 deletions in 24 files</sub><br />
+  <sub>[#186172](https://github.com/flutter/flutter/pull/186172) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186172) 36 additions and 136 deletions in 24 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
@@ -217,4 +217,13 @@
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Allow selecting multi-digit device options<br />
   <sub>[#186184](https://github.com/flutter/flutter/pull/186184) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186184) 100 additions and 0 deletions in 2 files</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [dev] Use super parameters in missed spots<br />
+  <sub>[#186193](https://github.com/flutter/flutter/pull/186193) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186193) 4 additions and 6 deletions in 1 file</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [examples] Use super parameters in missed spots<br />
+  <sub>[#186194](https://github.com/flutter/flutter/pull/186194) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186194) 1 addition and 2 deletions in 1 file</sub><br />
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update Flutter logo image source in README<br />
+  <sub>[#186195](https://github.com/flutter/flutter/pull/186195) opened on on May 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186195) 2 additions and 2 deletions in 1 file</sub><br />
 

@@ -865,7 +865,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Comment out the test that uses implemented NetworkInterface to accommodate dart sdk breaking change.<br />
-  <sub>[#11659](https://github.com/flutter/packages/pull/11659) merged on May 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11659) over 12 hours, 127 additions and 90 deletions in 1 file</sub><br />
+  <sub>[#11659](https://github.com/flutter/packages/pull/11659) merged on May 7, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11659) over 12 hours, 127 additions and 90 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ivan Inozemtsev](https://github.com/iinozemtsev)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] remove provider from examples<br />
