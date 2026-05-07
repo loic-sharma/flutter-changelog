@@ -874,7 +874,11 @@
 
 ### May 2, 2026 to May 8, 2026
 
-7 commits.
+8 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Convert top-level classes to Swift<br />
+  <sub>[#11658](https://github.com/flutter/packages/pull/11658) merged on May 7, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/11658) over 1 day, 1981 additions and 1640 deletions in 49 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Extract most conformance checks to separate validator classes<br />
   <sub>[#11610](https://github.com/flutter/packages/pull/11610) merged on May 4, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/11610) over 4 days, 3054 additions and 2703 deletions in 20 files</sub><br />
