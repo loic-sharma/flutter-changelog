@@ -209,9 +209,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Update Flutter DEPS to Dart 9576691c37d84d3b66a9722e4fadacc764f04b21<br />
   <sub>[#186179](https://github.com/flutter/flutter/pull/186179) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186179) 20 additions and 20 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.41-candidate.0] Update Flutter DEPS to Dart c00628e0f2dd093edea5db6d7540976601a0541e<br />
-  <sub>[#186180](https://github.com/flutter/flutter/pull/186180) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186180) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Allow selecting multi-digit device options<br />
   <sub>[#186184](https://github.com/flutter/flutter/pull/186184) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186184) 100 additions and 0 deletions in 2 files</sub><br />
 
@@ -234,5 +231,11 @@
   <sub>[#186201](https://github.com/flutter/flutter/pull/186201) opened on on May 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186201) 136 additions and 0 deletions in 9 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Simplify catch with wildcard<br />
-  <sub>[#186202](https://github.com/flutter/flutter/pull/186202) opened on on May 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186202) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#186202](https://github.com/flutter/flutter/pull/186202) opened on on May 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186202) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Michael Brase](https://github.com/mbrase)** &mdash; Fix dangling pointer in texture_gles.cc<br />
+  <sub>[#186204](https://github.com/flutter/flutter/pull/186204) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186204) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Update semantics accessibility block to also block keyboard focusability<br />
+  <sub>[#186206](https://github.com/flutter/flutter/pull/186206) opened on on May 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186206) 16 additions and 12 deletions in 3 files</sub><br />
 
