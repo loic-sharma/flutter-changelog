@@ -227,12 +227,9 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part10<br />
   <sub>[#186201](https://github.com/flutter/flutter/pull/186201) opened on on May 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186201) 136 additions and 0 deletions in 9 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Simplify catch with wildcard<br />
-  <sub>[#186202](https://github.com/flutter/flutter/pull/186202) opened on on May 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186202) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Fix dangling pointer in texture_gles.cc<br />
   <sub>[#186204](https://github.com/flutter/flutter/pull/186204) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186204) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update semantics accessibility block to also block keyboard focusability<br />
-  <sub>[#186206](https://github.com/flutter/flutter/pull/186206) opened on on May 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/186206) 16 additions and 12 deletions in 3 files</sub><br />
+  <sub>[#186206](https://github.com/flutter/flutter/pull/186206) opened on on May 7, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/186206) 16 additions and 12 deletions in 3 files</sub><br />
 
