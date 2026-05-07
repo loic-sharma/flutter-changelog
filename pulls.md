@@ -78,7 +78,7 @@
   <sub>[#185521](https://github.com/flutter/flutter/pull/185521) opened on on April 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185521) 11 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
-  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/185534) 691 additions and 105 deletions in 5 files</sub><br />
+  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/185534) 717 additions and 106 deletions in 5 files</sub><br />
 
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
@@ -228,7 +228,7 @@
   <sub>[#186201](https://github.com/flutter/flutter/pull/186201) opened on on May 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186201) 136 additions and 0 deletions in 9 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Fix dangling pointer in texture_gles.cc<br />
-  <sub>[#186204](https://github.com/flutter/flutter/pull/186204) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186204) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#186204](https://github.com/flutter/flutter/pull/186204) opened on on May 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186204) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update semantics accessibility block to also block keyboard focusability<br />
   <sub>[#186206](https://github.com/flutter/flutter/pull/186206) opened on on May 7, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/186206) 16 additions and 12 deletions in 3 files</sub><br />
