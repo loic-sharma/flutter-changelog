@@ -850,7 +850,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-6 commits.
+7 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Extract most conformance checks to separate validator classes<br />
   <sub>[#11610](https://github.com/flutter/packages/pull/11610) merged on May 4, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/11610) over 4 days, 3054 additions and 2703 deletions in 20 files</sub><br />
@@ -863,6 +863,10 @@
 * **[fondoger](https://github.com/fondoger)** &mdash; [vector_graphics_compiler] Fix HSL color parsing for decimal percentage components<br />
   <sub>[#11619](https://github.com/flutter/packages/pull/11619) merged on May 6, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11619) over 6 days, 83 additions and 18 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Comment out the test that uses implemented NetworkInterface to accommodate dart sdk breaking change.<br />
+  <sub>[#11659](https://github.com/flutter/packages/pull/11659) merged on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11659) over 12 hours, 127 additions and 90 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ivan Inozemtsev](https://github.com/iinozemtsev)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] remove provider from examples<br />
   <sub>[#11647](https://github.com/flutter/packages/pull/11647) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11647) over 1 hour, 26 additions and 6 deletions in 2 files</sub><br />
