@@ -39,7 +39,7 @@
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
 
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
-  <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/183838) 197 additions and 11 deletions in 10 files</sub><br />
+  <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/183838) 197 additions and 11 deletions in 10 files</sub><br />
 
 * **[mohammadmseet-hue](https://github.com/mohammadmseet-hue)** &mdash; Reject fdAT chunks with data_length < 4 in APNG parser to prevent heap overflow<br />
   <sub>[#184301](https://github.com/flutter/flutter/pull/184301) opened on on March 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184301) 216 additions and 0 deletions in 3 files</sub><br />
@@ -78,7 +78,7 @@
   <sub>[#185521](https://github.com/flutter/flutter/pull/185521) opened on on April 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185521) 11 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
-  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [41 comments](https://github.com/flutter/flutter/pull/185534) 964 additions and 165 deletions in 9 files</sub><br />
+  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [46 comments](https://github.com/flutter/flutter/pull/185534) 964 additions and 165 deletions in 9 files</sub><br />
 
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
