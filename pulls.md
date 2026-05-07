@@ -138,7 +138,7 @@
   <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185974) 3 additions and 4 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Fix self-comparison and assert typos in TestSemantics<br />
-  <sub>[#185975](https://github.com/flutter/flutter/pull/185975) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185975) 10 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#185975](https://github.com/flutter/flutter/pull/185975) opened on on May 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185975) 10 additions and 4 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show SwiftPM warnings right before iOS/macOS build<br />
   <sub>[#185984](https://github.com/flutter/flutter/pull/185984) opened on on May 4, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/185984) 604 additions and 362 deletions in 6 files</sub><br />
@@ -153,7 +153,7 @@
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
-  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186028) 200 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186028) 200 additions and 1 deletion in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tools] Add doctor validator warning for multiple adb installations<br />
   <sub>[#186031](https://github.com/flutter/flutter/pull/186031) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186031) 136 additions and 0 deletions in 3 files</sub><br />
@@ -220,4 +220,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.41-candidate.0] Update Flutter DEPS to Dart c00628e0f2dd093edea5db6d7540976601a0541e<br />
   <sub>[#186180](https://github.com/flutter/flutter/pull/186180) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186180) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Allow selecting multi-digit device options<br />
+  <sub>[#186184](https://github.com/flutter/flutter/pull/186184) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186184) 100 additions and 0 deletions in 2 files</sub><br />
 
