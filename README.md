@@ -395,7 +395,7 @@
   <sub>Reviewed by: [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; Enable the `avoid_final_parameters` lint.<br />
-  <sub>[#185216](https://github.com/flutter/flutter/pull/185216) merged on April 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185216) over 1 week, 57 additions and 57 deletions in 23 files</sub><br />
+  <sub>[#185216](https://github.com/flutter/flutter/pull/185216) merged on April 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185216) over 1 week, 57 additions and 57 deletions in 23 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes Impeller Frame capture scope for macOS.<br />
@@ -865,7 +865,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Comment out the test that uses implemented NetworkInterface to accommodate dart sdk breaking change.<br />
-  <sub>[#11659](https://github.com/flutter/packages/pull/11659) merged on May 7, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11659) over 12 hours, 127 additions and 90 deletions in 1 file</sub><br />
+  <sub>[#11659](https://github.com/flutter/packages/pull/11659) merged on May 7, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11659) over 12 hours, 127 additions and 90 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ivan Inozemtsev](https://github.com/iinozemtsev)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] remove provider from examples<br />
@@ -1018,7 +1018,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-18 commits.
+19 commits.
 
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Fix build.gradle file paths in Kotlin migration guide<br />
   <sub>[#13342](https://github.com/flutter/website/pull/13342) merged on May 6, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/13342) over 6 days, 15 additions and 15 deletions in 1 file</sub><br />
@@ -1055,6 +1055,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Nest docs website in new sites directory<br />
   <sub>[#13338](https://github.com/flutter/website/pull/13338) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13338) over 5 days, 58 additions and 24 deletions in 2001 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update logo image for README<br />
+  <sub>[#13372](https://github.com/flutter/website/pull/13372) merged on May 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13372) over 23 minutes, 0 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify text about using multiple scenes<br />
   <sub>[#13358](https://github.com/flutter/website/pull/13358) merged on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13358) over 18 hours, 27 additions and 21 deletions in 1 file</sub><br />

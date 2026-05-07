@@ -188,9 +188,6 @@
 * **[Alexander Aks'onov](https://github.com/AlexEduV)** &mdash; Docs/improving docs for semantics UI lib<br />
   <sub>[#186125](https://github.com/flutter/flutter/pull/186125) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186125) 11 additions and 11 deletions in 3 files</sub><br />
 
-* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart 3.13 beta1 into Flutter<br />
-  <sub>[#186131](https://github.com/flutter/flutter/pull/186131) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186131) 29 additions and 23 deletions in 5 files</sub><br />
-
 * **[Haider](https://github.com/HaiderQadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186141) 3 additions and 3 deletions in 3 files</sub><br />
 
@@ -201,7 +198,7 @@
   <sub>[#186158](https://github.com/flutter/flutter/pull/186158) opened on on May 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186158) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia integration tests to use subpackaged runners<br />
-  <sub>[#186172](https://github.com/flutter/flutter/pull/186172) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186172) 36 additions and 136 deletions in 24 files</sub><br />
+  <sub>[#186172](https://github.com/flutter/flutter/pull/186172) opened on on May 7, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186172) 36 additions and 136 deletions in 24 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
@@ -219,11 +216,20 @@
   <sub>[#186184](https://github.com/flutter/flutter/pull/186184) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186184) 100 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [dev] Use super parameters in missed spots<br />
-  <sub>[#186193](https://github.com/flutter/flutter/pull/186193) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186193) 4 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#186193](https://github.com/flutter/flutter/pull/186193) opened on on May 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186193) 3 additions and 6 deletions in 1 file</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [examples] Use super parameters in missed spots<br />
-  <sub>[#186194](https://github.com/flutter/flutter/pull/186194) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186194) 1 addition and 2 deletions in 1 file</sub><br />
+  <sub>[#186194](https://github.com/flutter/flutter/pull/186194) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186194) 4 additions and 2 deletions in 1 file</sub><br />
 
-* **[John Ryan](https://github.com/johnpryan)** &mdash; Update Flutter logo image source in README<br />
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update Flutter logo image sources in README<br />
   <sub>[#186195](https://github.com/flutter/flutter/pull/186195) opened on on May 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186195) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Use super parameters in missed spots<br />
+  <sub>[#186197](https://github.com/flutter/flutter/pull/186197) opened on on May 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186197) 3 additions and 5 deletions in 2 files</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [widgets] Use super parameters in missed spots<br />
+  <sub>[#186198](https://github.com/flutter/flutter/pull/186198) opened on on May 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186198) 20 additions and 22 deletions in 7 files</sub><br />
+
+* **[walley892](https://github.com/walley892)** &mdash; [CP-beta] Enable the `avoid_final_parameters` lint. (#185216)<br />
+  <sub>[#186199](https://github.com/flutter/flutter/pull/186199) opened on on May 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186199) 57 additions and 63 deletions in 23 files</sub><br />
 
