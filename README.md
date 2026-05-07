@@ -1046,7 +1046,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-19 commits.
+20 commits.
 
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Fix build.gradle file paths in Kotlin migration guide<br />
   <sub>[#13342](https://github.com/flutter/website/pull/13342) merged on May 6, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/13342) over 6 days, 15 additions and 15 deletions in 1 file</sub><br />
@@ -1083,6 +1083,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Nest docs website in new sites directory<br />
   <sub>[#13338](https://github.com/flutter/website/pull/13338) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13338) over 5 days, 58 additions and 24 deletions in 2001 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing the Rosetta requirement<br />
+  <sub>[#13368](https://github.com/flutter/website/pull/13368) merged on May 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13368) over 23 hours, 5 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update logo image for README<br />
   <sub>[#13372](https://github.com/flutter/website/pull/13372) merged on May 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13372) over 23 minutes, 0 additions and 0 deletions in 2 files</sub><br />
