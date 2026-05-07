@@ -78,7 +78,7 @@
   <sub>[#185521](https://github.com/flutter/flutter/pull/185521) opened on on April 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185521) 11 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
-  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [46 comments](https://github.com/flutter/flutter/pull/185534) 964 additions and 165 deletions in 9 files</sub><br />
+  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/185534) 964 additions and 165 deletions in 9 files</sub><br />
 
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
@@ -196,9 +196,6 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add 'cp: review' label to the manual cherrypick process<br />
   <sub>[#186158](https://github.com/flutter/flutter/pull/186158) opened on on May 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186158) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia integration tests to use subpackaged runners<br />
-  <sub>[#186172](https://github.com/flutter/flutter/pull/186172) opened on on May 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186172) 36 additions and 136 deletions in 24 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
