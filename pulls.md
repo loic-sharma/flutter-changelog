@@ -213,5 +213,5 @@
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Use null-aware elements in NavigationRail<br />
-  <sub>[#186174](https://github.com/flutter/flutter/pull/186174) opened on on May 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186174) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#186174](https://github.com/flutter/flutter/pull/186174) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186174) 2 additions and 2 deletions in 1 file</sub><br />
 
