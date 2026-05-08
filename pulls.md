@@ -96,7 +96,7 @@
   <sub>[#185795](https://github.com/flutter/flutter/pull/185795) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185795) 210 additions and 19 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: add null pointer check for window on update tooltip and popup position<br />
-  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/185807) 150 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/185807) 150 additions and 6 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters<br />
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) opened on on April 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185819) 3 additions and 11 deletions in 1 file</sub><br />
@@ -235,4 +235,7 @@
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: explain why each candidate build was skipped in Flutter web loader<br />
   <sub>[#186238](https://github.com/flutter/flutter/pull/186238) opened on on May 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186238) 58 additions and 9 deletions in 1 file</sub><br />
+
+* **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImageTransition enum to control placeholder fade-out behavior<br />
+  <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186246) 230 additions and 34 deletions in 2 files</sub><br />
 
