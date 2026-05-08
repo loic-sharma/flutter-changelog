@@ -1108,6 +1108,10 @@
   <sub>[#13338](https://github.com/flutter/website/pull/13338) merged on May 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13338) over 5 days, 58 additions and 24 deletions in 2001 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a section on managing app lifecycle<br />
+  <sub>[#13352](https://github.com/flutter/website/pull/13352) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13352) over 3 hours, 38 additions and 15 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Khanh Nguyen](https://github.com/khanhnwin), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing the Rosetta requirement<br />
   <sub>[#13368](https://github.com/flutter/website/pull/13368) merged on May 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13368) over 23 hours, 5 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
@@ -1131,10 +1135,6 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Fix genui deprecated pkg<br />
   <sub>[#13353](https://github.com/flutter/website/pull/13353) merged on May 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13353) over 2 hours, 33 additions and 66 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch)</sub><br />
-
-* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a section on managing app lifecycle<br />
-  <sub>[#13352](https://github.com/flutter/website/pull/13352) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13352) over 3 hours, 38 additions and 15 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Khanh Nguyen](https://github.com/khanhnwin), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Layout shorthand cleanup<br />
   <sub>[#13334](https://github.com/flutter/website/pull/13334) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13334) over 4 days, 9 additions and 1 deletion in 1 file</sub><br />
