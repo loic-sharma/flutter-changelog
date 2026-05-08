@@ -173,9 +173,6 @@
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: Harden CI scripts and driver against command injection<br />
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add logging to figure out jvm crashes for `hot_mode_tests`<br />
-  <sub>[#186107](https://github.com/flutter/flutter/pull/186107) opened on on May 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186107) 35 additions and 2 deletions in 1 file</sub><br />
-
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Honor Paint.filterQuality in Canvas.drawAtlas<br />
   <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186108) 54 additions and 7 deletions in 4 files</sub><br />
 
@@ -249,7 +246,7 @@
   <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186254) 58 additions and 9 deletions in 1 file</sub><br />
 
 * **[Lam Nhan](https://github.com/lamnhan066)** &mdash; Time picker error in some locales<br />
-  <sub>[#186258](https://github.com/flutter/flutter/pull/186258) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186258) 100 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#186258](https://github.com/flutter/flutter/pull/186258) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186258) 108 additions and 3 deletions in 2 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to subpackage their child components<br />
   <sub>[#186259](https://github.com/flutter/flutter/pull/186259) opened on on May 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186259) 46 additions and 82 deletions in 22 files</sub><br />
