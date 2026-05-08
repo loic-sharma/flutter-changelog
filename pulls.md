@@ -245,3 +245,6 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to subpackage their child components<br />
   <sub>[#186259](https://github.com/flutter/flutter/pull/186259) opened on on May 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186259) 46 additions and 82 deletions in 22 files</sub><br />
 
+* **[walley892](https://github.com/walley892)** &mdash; Update dart version to 3.12.0-327.5.beta<br />
+  <sub>[#186276](https://github.com/flutter/flutter/pull/186276) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186276) 1 addition and 1 deletion in 1 file</sub><br />
+
