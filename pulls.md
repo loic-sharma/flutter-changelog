@@ -227,15 +227,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Update Flutter DEPS to Dart 9576691c37d84d3b66a9722e4fadacc764f04b21<br />
   <sub>[#186219](https://github.com/flutter/flutter/pull/186219) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186219) 20 additions and 20 deletions in 1 file</sub><br />
 
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: warn on WASM load failure when not crossOriginIsolated<br />
-  <sub>[#186236](https://github.com/flutter/flutter/pull/186236) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186236) 59 additions and 29 deletions in 1 file</sub><br />
-
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; tool: build both Wasm and JS targets for `flutter run --wasm`<br />
-  <sub>[#186237](https://github.com/flutter/flutter/pull/186237) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186237) 92 additions and 12 deletions in 2 files</sub><br />
-
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: explain why each candidate build was skipped in Flutter web loader<br />
-  <sub>[#186238](https://github.com/flutter/flutter/pull/186238) opened on on May 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186238) 58 additions and 9 deletions in 1 file</sub><br />
-
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Allow building projects lacking Runner.xcworkspace<br />
   <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186239) 76 additions and 70 deletions in 5 files</sub><br />
 
@@ -245,6 +236,15 @@
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Add ScrollIntent support to Slider widget for gamepad/hardware input<br />
   <sub>[#186248](https://github.com/flutter/flutter/pull/186248) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186248) 134 additions and 7 deletions in 2 files</sub><br />
 
-* **[ho426os](https://github.com/ho426os)** &mdash; Update copyright year and action versions in coverage.yml<br />
-  <sub>[#186251](https://github.com/flutter/flutter/pull/186251) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186251) 4 additions and 4 deletions in 1 file</sub><br />
+* **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent upgrading `project.pbxproj` when greater version number<br />
+  <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186250) 151 additions and 11 deletions in 2 files</sub><br />
+
+* **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: warn on WASM load failure when not crossOriginIsolated<br />
+  <sub>[#186252](https://github.com/flutter/flutter/pull/186252) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186252) 59 additions and 29 deletions in 1 file</sub><br />
+
+* **[Shivanshu](https://github.com/shivanshu877)** &mdash; tool: build both Wasm and JS targets for `flutter run --wasm`<br />
+  <sub>[#186253](https://github.com/flutter/flutter/pull/186253) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186253) 92 additions and 12 deletions in 2 files</sub><br />
+
+* **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: explain why each candidate build was skipped in Flutter web loader<br />
+  <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186254) 58 additions and 9 deletions in 1 file</sub><br />
 
