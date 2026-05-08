@@ -1070,7 +1070,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-20 commits.
+21 commits.
 
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; Fix build.gradle file paths in Kotlin migration guide
   <sub>[#13342](https://github.com/flutter/website/pull/13342) merged on May 6, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/13342) over 6 days, 15 additions and 15 deletions in 1 file</sub>
@@ -1111,6 +1111,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a section on managing app lifecycle
   <sub>[#13352](https://github.com/flutter/website/pull/13352) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13352) over 3 hours, 38 additions and 15 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Khanh Nguyen](https://github.com/khanhnwin), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add redirect for overlay-semantics documentation
+  <sub>[#13374](https://github.com/flutter/website/pull/13374) merged on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13374) over 13 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing the Rosetta requirement
   <sub>[#13368](https://github.com/flutter/website/pull/13368) merged on May 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13368) over 23 hours, 5 additions and 9 deletions in 1 file</sub>
