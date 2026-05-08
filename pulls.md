@@ -236,6 +236,9 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: explain why each candidate build was skipped in Flutter web loader<br />
   <sub>[#186238](https://github.com/flutter/flutter/pull/186238) opened on on May 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186238) 58 additions and 9 deletions in 1 file</sub><br />
 
+* **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Allow building projects lacking Runner.xcworkspace<br />
+  <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186239) 76 additions and 70 deletions in 5 files</sub><br />
+
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImageTransition enum to control placeholder fade-out behavior<br />
   <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186246) 240 additions and 35 deletions in 2 files</sub><br />
 
