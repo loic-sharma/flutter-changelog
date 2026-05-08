@@ -227,9 +227,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Update Flutter DEPS to Dart 9576691c37d84d3b66a9722e4fadacc764f04b21<br />
   <sub>[#186219](https://github.com/flutter/flutter/pull/186219) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186219) 20 additions and 20 deletions in 1 file</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [Cupertino] More consistent of rendering of CupertinoActivityIndicator<br />
-  <sub>[#186234](https://github.com/flutter/flutter/pull/186234) opened on on May 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186234) 7 additions and 3 deletions in 1 file</sub><br />
-
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: warn on WASM load failure when not crossOriginIsolated<br />
   <sub>[#186236](https://github.com/flutter/flutter/pull/186236) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186236) 59 additions and 29 deletions in 1 file</sub><br />
 
