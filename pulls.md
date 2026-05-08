@@ -248,3 +248,9 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: explain why each candidate build was skipped in Flutter web loader<br />
   <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186254) 58 additions and 9 deletions in 1 file</sub><br />
 
+* **[Lam Nhan](https://github.com/lamnhan066)** &mdash; Time picker error in some locales<br />
+  <sub>[#186258](https://github.com/flutter/flutter/pull/186258) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186258) 100 additions and 3 deletions in 2 files</sub><br />
+
+* **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to subpackage their child components<br />
+  <sub>[#186259](https://github.com/flutter/flutter/pull/186259) opened on on May 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186259) 46 additions and 82 deletions in 22 files</sub><br />
+
