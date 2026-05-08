@@ -914,7 +914,7 @@
 
 ### May 2, 2026 to May 8, 2026
 
-10 commits.
+11 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [material_ui, cupertino_ui, infra] Support skipping golden files for the design migration<br />
   <sub>[#11649](https://github.com/flutter/packages/pull/11649) merged on May 8, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/packages/pull/11649) over 3 days, 468 additions and 2 deletions in 21 files</sub><br />
@@ -943,6 +943,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] remove provider from examples<br />
   <sub>[#11647](https://github.com/flutter/packages/pull/11647) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11647) over 1 hour, 26 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[suojae](https://github.com/suojae)** &mdash; [flutter_svg] add imageBuilder property to SvgPicture<br />
+  <sub>[#11615](https://github.com/flutter/packages/pull/11615) merged on May 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11615) over 1 week, 102 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Add missing swift_version to podspec<br />
   <sub>[#11670](https://github.com/flutter/packages/pull/11670) merged on May 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11670) over 4 hours, 126 additions and 6 deletions in 5 files</sub><br />
