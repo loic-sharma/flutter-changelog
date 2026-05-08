@@ -914,7 +914,11 @@
 
 ### May 2, 2026 to May 8, 2026
 
-9 commits.
+10 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [material_ui, cupertino_ui, infra] Support skipping golden files for the design migration
+  <sub>[#11649](https://github.com/flutter/packages/pull/11649) merged on May 8, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/packages/pull/11649) over 3 days, 468 additions and 2 deletions in 21 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [video_player] Convert top-level classes to Swift
   <sub>[#11658](https://github.com/flutter/packages/pull/11658) merged on May 7, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/11658) over 1 day, 1981 additions and 1640 deletions in 49 files</sub>
