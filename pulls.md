@@ -39,7 +39,7 @@
   <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
 
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
-  <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/183838) 197 additions and 11 deletions in 10 files</sub><br />
+  <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/183838) 197 additions and 11 deletions in 10 files</sub><br />
 
 * **[mohammadmseet-hue](https://github.com/mohammadmseet-hue)** &mdash; Reject fdAT chunks with data_length < 4 in APNG parser to prevent heap overflow<br />
   <sub>[#184301](https://github.com/flutter/flutter/pull/184301) opened on on March 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184301) 216 additions and 0 deletions in 3 files</sub><br />
@@ -155,9 +155,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tools] Add doctor validator warning for multiple adb installations<br />
   <sub>[#186031](https://github.com/flutter/flutter/pull/186031) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186031) 131 additions and 0 deletions in 3 files</sub><br />
 
-* **[7. Sun](https://github.com/sjhddh)** &mdash; fix(test): correct three TestSemantics typo bugs in semantics_tester.dart<br />
-  <sub>[#186058](https://github.com/flutter/flutter/pull/186058) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186058) 5 additions and 4 deletions in 1 file</sub><br />
-
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
   <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186075) 95 additions and 2 deletions in 2 files</sub><br />
 
@@ -183,10 +180,10 @@
   <sub>[#186116](https://github.com/flutter/flutter/pull/186116) opened on on May 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186116) 57 additions and 17 deletions in 2 files</sub><br />
 
 * **[Alexander Aks'onov](https://github.com/AlexEduV)** &mdash; Docs/improving docs for semantics UI lib<br />
-  <sub>[#186125](https://github.com/flutter/flutter/pull/186125) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186125) 11 additions and 11 deletions in 3 files</sub><br />
+  <sub>[#186125](https://github.com/flutter/flutter/pull/186125) opened on on May 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186125) 11 additions and 11 deletions in 3 files</sub><br />
 
 * **[Haider](https://github.com/HaiderQadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
-  <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186141) 3 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Update iOS section of AppLocalizations template to current Xcode workflow<br />
   <sub>[#186142](https://github.com/flutter/flutter/pull/186142) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186142) 15 additions and 14 deletions in 1 file</sub><br />
@@ -215,6 +212,9 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [widgets] Use super parameters in missed spots<br />
   <sub>[#186198](https://github.com/flutter/flutter/pull/186198) opened on on May 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186198) 20 additions and 22 deletions in 7 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moves wide_gamut_macos to arm64<br />
+  <sub>[#186214](https://github.com/flutter/flutter/pull/186214) opened on on May 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186214) 1 addition and 3 deletions in 1 file</sub><br />
+
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `dependOnInheritedWidgetOfExactType` documentation to explain why it is bad to use it in iniState<br />
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) opened on on May 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186216) 23 additions and 12 deletions in 1 file</sub><br />
 
@@ -225,7 +225,7 @@
   <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186239) 76 additions and 70 deletions in 5 files</sub><br />
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImageTransition enum to control placeholder fade-out behavior<br />
-  <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186246) 240 additions and 35 deletions in 2 files</sub><br />
+  <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186246) 240 additions and 35 deletions in 2 files</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Add ScrollIntent support to Slider widget for gamepad/hardware input<br />
   <sub>[#186248](https://github.com/flutter/flutter/pull/186248) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186248) 134 additions and 7 deletions in 2 files</sub><br />
