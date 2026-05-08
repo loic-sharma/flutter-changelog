@@ -236,3 +236,9 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: explain why each candidate build was skipped in Flutter web loader<br />
   <sub>[#186238](https://github.com/flutter/flutter/pull/186238) opened on on May 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186238) 58 additions and 9 deletions in 1 file</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [material] Reduce flakiness in bottom_app_bar_theme_test<br />
+  <sub>[#186244](https://github.com/flutter/flutter/pull/186244) opened on on May 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186244) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [material] Reduce flakiness in ink_paint_test<br />
+  <sub>[#186245](https://github.com/flutter/flutter/pull/186245) opened on on May 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186245) 22 additions and 0 deletions in 1 file</sub><br />
+
