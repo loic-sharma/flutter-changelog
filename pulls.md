@@ -116,9 +116,6 @@
 * **[orbisai0security](https://github.com/orbisai0security)** &mdash; fix: the flutter daemon accepts json-rpc requests ov... in daemon.dart<br />
   <sub>[#185959](https://github.com/flutter/flutter/pull/185959) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185959) 31 additions and 0 deletions in 1 file</sub><br />
 
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from text_button_test.dart<br />
-  <sub>[#185963](https://github.com/flutter/flutter/pull/185963) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185963) 14 additions and 25 deletions in 1 file</sub><br />
-
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from outlined_button_test.dart<br />
   <sub>[#185964](https://github.com/flutter/flutter/pull/185964) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185964) 12 additions and 23 deletions in 1 file</sub><br />
 
@@ -175,9 +172,6 @@
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: ignore client customTool in debug adapters<br />
   <sub>[#186115](https://github.com/flutter/flutter/pull/186115) opened on on May 6, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/186115) 181 additions and 130 deletions in 8 files</sub><br />
-
-* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix nested Text.rich semantics order<br />
-  <sub>[#186116](https://github.com/flutter/flutter/pull/186116) opened on on May 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186116) 57 additions and 17 deletions in 2 files</sub><br />
 
 * **[Alexander Aks'onov](https://github.com/AlexEduV)** &mdash; Docs/improving docs for semantics UI lib<br />
   <sub>[#186125](https://github.com/flutter/flutter/pull/186125) opened on on May 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186125) 11 additions and 11 deletions in 3 files</sub><br />
