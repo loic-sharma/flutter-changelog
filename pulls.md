@@ -210,7 +210,7 @@
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) opened on on May 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186216) 23 additions and 12 deletions in 1 file</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Allow building projects lacking Runner.xcworkspace<br />
-  <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186239) 76 additions and 70 deletions in 5 files</sub><br />
+  <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186239) 76 additions and 70 deletions in 5 files</sub><br />
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImage.fadeInOver constructor to skip placeholder fade-out<br />
   <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186246) 252 additions and 38 deletions in 2 files</sub><br />
@@ -219,7 +219,7 @@
   <sub>[#186248](https://github.com/flutter/flutter/pull/186248) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186248) 134 additions and 7 deletions in 2 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent upgrading `project.pbxproj` when greater version number<br />
-  <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186250) 151 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186250) 158 additions and 20 deletions in 2 files</sub><br />
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: warn on WASM load failure when not crossOriginIsolated<br />
   <sub>[#186252](https://github.com/flutter/flutter/pull/186252) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186252) 59 additions and 29 deletions in 1 file</sub><br />
