@@ -234,7 +234,7 @@
   <sub>[#186258](https://github.com/flutter/flutter/pull/186258) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186258) 108 additions and 3 deletions in 2 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to subpackage their child components<br />
-  <sub>[#186259](https://github.com/flutter/flutter/pull/186259) opened on on May 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186259) 46 additions and 82 deletions in 22 files</sub><br />
+  <sub>[#186259](https://github.com/flutter/flutter/pull/186259) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186259) 46 additions and 82 deletions in 22 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to 4b520f6012e613925f891f7fdcbe731909fdfbd9<br />
   <sub>[#186279](https://github.com/flutter/flutter/pull/186279) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186279) 1 addition and 1 deletion in 1 file</sub><br />

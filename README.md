@@ -299,7 +299,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make exceptions thrown by JNI calls to Image.getHardwareBuffer non-fatal<br />
-  <sub>[#185125](https://github.com/flutter/flutter/pull/185125) merged on April 29, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/185125) over 1 week, 341 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#185125](https://github.com/flutter/flutter/pull/185125) merged on April 29, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/185125) over 1 week, 341 additions and 1 deletion in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Extract FlutterVSyncClient from vsync_waiter_ios<br />
