@@ -239,6 +239,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to 4b520f6012e613925f891f7fdcbe731909fdfbd9<br />
   <sub>[#186279](https://github.com/flutter/flutter/pull/186279) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186279) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[ho426os](https://github.com/ho426os)** &mdash; Changh pr checkout 186288 - ge managed status to True and update use_rbe<br />
-  <sub>[#186288](https://github.com/flutter/flutter/pull/186288) opened on on May 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186288) 4 additions and 4 deletions in 1 file</sub><br />
-
