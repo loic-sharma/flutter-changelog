@@ -248,3 +248,6 @@
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: Fix doubled-word typos in framework dartdoc<br />
   <sub>[#186319](https://github.com/flutter/flutter/pull/186319) opened on on May 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186319) 9 additions and 9 deletions in 5 files</sub><br />
 
+* **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix doubled-word typos in comments<br />
+  <sub>[#186320](https://github.com/flutter/flutter/pull/186320) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186320) 4 additions and 4 deletions in 3 files</sub><br />
+
