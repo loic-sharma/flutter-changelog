@@ -239,3 +239,6 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
 
+* **[Bilal Rehman](https://github.com/BilalRehman08)** &mdash; Fix TestSemantics typo bugs in semantics_tester (widgets and material)<br />
+  <sub>[#186314](https://github.com/flutter/flutter/pull/186314) opened on on May 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186314) 10 additions and 8 deletions in 2 files</sub><br />
+
