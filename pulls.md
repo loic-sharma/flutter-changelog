@@ -48,7 +48,7 @@
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
 
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove list_tile_tester and rendering_tester cross-imports from cupertino tests<br />
-  <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184588) 24 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184588) 36 additions and 45 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_tools] Migrate detectLowCompileSdkVersionOrNdkVersion to AGP task<br />
   <sub>[#184731](https://github.com/flutter/flutter/pull/184731) opened on on April 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/184731) 634 additions and 331 deletions in 6 files</sub><br />
@@ -246,5 +246,5 @@
   <sub>[#186314](https://github.com/flutter/flutter/pull/186314) opened on on May 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186314) 10 additions and 8 deletions in 2 files</sub><br />
 
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: Fix doubled-word typos in framework dartdoc<br />
-  <sub>[#186319](https://github.com/flutter/flutter/pull/186319) opened on on May 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186319) 10 additions and 10 deletions in 6 files</sub><br />
+  <sub>[#186319](https://github.com/flutter/flutter/pull/186319) opened on on May 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186319) 9 additions and 9 deletions in 5 files</sub><br />
 
