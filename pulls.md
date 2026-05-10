@@ -251,3 +251,12 @@
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix doubled-word typos in comments<br />
   <sub>[#186320](https://github.com/flutter/flutter/pull/186320) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186320) 4 additions and 4 deletions in 3 files</sub><br />
 
+* **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix typos in flutter_tools comments<br />
+  <sub>[#186321](https://github.com/flutter/flutter/pull/186321) opened on on May 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186321) 11 additions and 11 deletions in 3 files</sub><br />
+
+* **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix "tha" -> "that" typo in widget_inspector_test comment<br />
+  <sub>[#186322](https://github.com/flutter/flutter/pull/186322) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186322) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix overriden -> overridden in MediaQueryData dartdoc<br />
+  <sub>[#186323](https://github.com/flutter/flutter/pull/186323) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186323) 3 additions and 3 deletions in 1 file</sub><br />
+
