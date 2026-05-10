@@ -257,3 +257,6 @@
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix overriden -> overridden in MediaQueryData dartdoc<br />
   <sub>[#186323](https://github.com/flutter/flutter/pull/186323) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186323) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Disable spell check for obscured text<br />
+  <sub>[#186329](https://github.com/flutter/flutter/pull/186329) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186329) 119 additions and 9 deletions in 2 files</sub><br />
+
