@@ -15,7 +15,7 @@
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
-  <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
+  <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
   <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [49 comments](https://github.com/flutter/flutter/pull/180591) 2596 additions and 551 deletions in 19 files</sub><br />
@@ -239,7 +239,7 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
 
-* **[Lam Nhan](https://github.com/lamnhan066)** &mdash; Time picker error in some locales<br />
+* **[Lam Nhan](https://github.com/lamnhan066)** &mdash; Time picker error in locales that do not use Latin digits<br />
   <sub>[#186311](https://github.com/flutter/flutter/pull/186311) opened on on May 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186311) 118 additions and 3 deletions in 2 files</sub><br />
 
 * **[Bilal Rehman](https://github.com/BilalRehman08)** &mdash; Fix TestSemantics typo bugs in semantics_tester (widgets and material)<br />
