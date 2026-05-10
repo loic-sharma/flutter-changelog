@@ -245,3 +245,6 @@
 * **[Bilal Rehman](https://github.com/BilalRehman08)** &mdash; Fix TestSemantics typo bugs in semantics_tester (widgets and material)<br />
   <sub>[#186314](https://github.com/flutter/flutter/pull/186314) opened on on May 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186314) 10 additions and 8 deletions in 2 files</sub><br />
 
+* **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: Fix doubled-word typos in framework dartdoc<br />
+  <sub>[#186319](https://github.com/flutter/flutter/pull/186319) opened on on May 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186319) 10 additions and 10 deletions in 6 files</sub><br />
+
