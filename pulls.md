@@ -35,9 +35,6 @@
 * **[Oleh Konko](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183180) 37 additions and 0 deletions in 4 files</sub><br />
 
-* **[qwe321](https://github.com/qwe321)** &mdash; flutter_gpu texture mipmapping.<br />
-  <sub>[#183279](https://github.com/flutter/flutter/pull/183279) opened on on March 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/183279) 134 additions and 8 deletions in 13 files</sub><br />
-
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/183838) 197 additions and 11 deletions in 10 files</sub><br />
 
