@@ -218,7 +218,7 @@
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Add ScrollIntent support to Slider widget for gamepad/hardware input<br />
   <sub>[#186248](https://github.com/flutter/flutter/pull/186248) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186248) 134 additions and 7 deletions in 2 files</sub><br />
 
-* **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent upgrading `project.pbxproj` when greater version number<br />
+* **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent downgrading `project.pbxproj` when greater version number<br />
   <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186250) 158 additions and 20 deletions in 2 files</sub><br />
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: warn on WASM load failure when not crossOriginIsolated<br />
@@ -244,4 +244,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] GLES: allocate full mip chain on first slice init<br />
   <sub>[#186302](https://github.com/flutter/flutter/pull/186302) opened on on May 10, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/186302) 303 additions and 25 deletions in 5 files</sub><br />
+
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
+  <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
 
