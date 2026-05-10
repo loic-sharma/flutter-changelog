@@ -239,6 +239,3 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline<br />
-  <sub>[#186310](https://github.com/flutter/flutter/pull/186310) opened on on May 10, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186310) 741 additions and 31 deletions in 13 files</sub><br />
-
