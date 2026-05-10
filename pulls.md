@@ -243,5 +243,5 @@
   <sub>[#186301](https://github.com/flutter/flutter/pull/186301) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186301) 52 additions and 1 deletion in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] GLES: allocate full mip chain on first slice init<br />
-  <sub>[#186302](https://github.com/flutter/flutter/pull/186302) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186302) 42 additions and 20 deletions in 2 files</sub><br />
+  <sub>[#186302](https://github.com/flutter/flutter/pull/186302) opened on on May 10, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/186302) 303 additions and 25 deletions in 5 files</sub><br />
 
