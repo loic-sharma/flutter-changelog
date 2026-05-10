@@ -239,3 +239,9 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Android] Propagate --enable-flutter-gpu Intent extra to engine args<br />
   <sub>[#186298](https://github.com/flutter/flutter/pull/186298) opened on on May 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186298) 33 additions and 0 deletions in 2 files</sub><br />
 
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix `pub get` resolving wrong path in pub workspaces<br />
+  <sub>[#186301](https://github.com/flutter/flutter/pull/186301) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186301) 52 additions and 1 deletion in 2 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] GLES: allocate full mip chain on first slice init<br />
+  <sub>[#186302](https://github.com/flutter/flutter/pull/186302) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186302) 42 additions and 20 deletions in 2 files</sub><br />
+
