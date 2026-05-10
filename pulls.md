@@ -242,9 +242,6 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix `pub get` resolving wrong path in pub workspaces<br />
   <sub>[#186301](https://github.com/flutter/flutter/pull/186301) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186301) 52 additions and 1 deletion in 2 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] GLES: lazily allocate texture mip levels on first per-level write<br />
-  <sub>[#186302](https://github.com/flutter/flutter/pull/186302) opened on on May 10, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/186302) 408 additions and 24 deletions in 5 files</sub><br />
-
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
 
