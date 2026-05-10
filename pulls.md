@@ -236,3 +236,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to 4b520f6012e613925f891f7fdcbe731909fdfbd9<br />
   <sub>[#186279](https://github.com/flutter/flutter/pull/186279) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186279) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Android] Propagate --enable-flutter-gpu Intent extra to engine args<br />
+  <sub>[#186298](https://github.com/flutter/flutter/pull/186298) opened on on May 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186298) 33 additions and 0 deletions in 2 files</sub><br />
+
