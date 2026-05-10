@@ -227,9 +227,6 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: explain why each candidate build was skipped in Flutter web loader<br />
   <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186254) 58 additions and 9 deletions in 1 file</sub><br />
 
-* **[Lam Nhan](https://github.com/lamnhan066)** &mdash; Time picker error in some locales<br />
-  <sub>[#186258](https://github.com/flutter/flutter/pull/186258) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186258) 108 additions and 3 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to 4b520f6012e613925f891f7fdcbe731909fdfbd9<br />
   <sub>[#186279](https://github.com/flutter/flutter/pull/186279) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186279) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -241,4 +238,7 @@
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline<br />
+  <sub>[#186310](https://github.com/flutter/flutter/pull/186310) opened on on May 10, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186310) 741 additions and 31 deletions in 13 files</sub><br />
 
