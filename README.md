@@ -643,11 +643,15 @@
 
 ### May 9, 2026 to May 15, 2026
 
-1 commits.
+2 commits.
 
 * **[August](https://github.com/Gustl22)** &mdash; [ci] refactor: Cleanup tooling for handling arch build output <= Flutter v3.13.x<br />
   <sub>[#11399](https://github.com/flutter/packages/pull/11399) merged on May 11, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11399) over 1 month, 48 additions and 131 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
+* **[fondoger](https://github.com/fondoger)** &mdash; [vector_graphics_compiler] Add modern HSL color parsing<br />
+  <sub>[#11657](https://github.com/flutter/packages/pull/11657) merged on May 11, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/11657) over 4 days, 464 additions and 67 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 ### May 2, 2026 to May 8, 2026
 
