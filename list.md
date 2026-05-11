@@ -327,7 +327,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make exceptions thrown by JNI calls to Image.getHardwareBuffer non-fatal
-  <sub>[#185125](https://github.com/flutter/flutter/pull/185125) merged on April 29, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/185125) over 1 week, 341 additions and 1 deletion in 7 files</sub>
+  <sub>[#185125](https://github.com/flutter/flutter/pull/185125) merged on April 29, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/185125) over 1 week, 341 additions and 1 deletion in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Extract FlutterVSyncClient from vsync_waiter_ios
@@ -641,9 +641,18 @@
 
 ## flutter/packages
 
+### May 9, 2026 to May 15, 2026
+
+1 commits.
+
+* **[August](https://github.com/Gustl22)** &mdash; [ci] refactor: Cleanup tooling for handling arch build output <= Flutter v3.13.x
+  <sub>[#11399](https://github.com/flutter/packages/pull/11399) merged on May 11, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11399) over 1 month, 48 additions and 131 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Robert Ancell](https://github.com/robert-ancell)</sub>
+
 ### May 2, 2026 to May 8, 2026
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [material_ui, cupertino_ui, infra] Support skipping golden files for the design migration
   <sub>[#11649](https://github.com/flutter/packages/pull/11649) merged on May 8, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/packages/pull/11649) over 3 days, 468 additions and 2 deletions in 21 files</sub>
@@ -688,6 +697,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Adds ci enable branch for batch release
   <sub>[#11614](https://github.com/flutter/packages/pull/11614) merged on May 5, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11614) over 5 days, 121 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+</details>
 
 ### April 25, 2026 to May 1, 2026
 
