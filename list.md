@@ -4,7 +4,11 @@
 
 ### May 9, 2026 to May 15, 2026
 
-2 commits.
+3 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use Xcode's LLDB
+  <sub>[#186273](https://github.com/flutter/flutter/pull/186273) merged on May 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186273) over 2 days, 97 additions and 22 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Remove `currentMainUri` from `generateMainDartWithPluginRegistrant`
   <sub>[#185907](https://github.com/flutter/flutter/pull/185907) merged on May 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185907) over 1 week, 9 additions and 49 deletions in 4 files</sub>
