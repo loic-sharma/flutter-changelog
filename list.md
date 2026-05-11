@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 9, 2026 to May 15, 2026
+
+1 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Check for absolute paths in skills. 
+  <sub>[#185632](https://github.com/flutter/flutter/pull/185632) merged on May 11, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185632) over 1 week, 159 additions and 17 deletions in 4 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 ### May 2, 2026 to May 8, 2026
 
-63 commits.
+<details>
+<summary>63 commits...</summary>
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Improve non rect platform view rendering 
   <sub>[#182662](https://github.com/flutter/flutter/pull/182662) merged on May 9, 2026 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/182662) over 2 months, 144 additions and 14 deletions in 6 files</sub>
@@ -260,6 +269,8 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia integration tests to use subpackaged runners
   <sub>[#186172](https://github.com/flutter/flutter/pull/186172) merged on May 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186172) over 17 hours, 36 additions and 136 deletions in 24 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zijiehe@](https://github.com/zijiehe-google-com)</sub>
+
+</details>
 
 ### April 25, 2026 to May 1, 2026
 
