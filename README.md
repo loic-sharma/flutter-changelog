@@ -817,9 +817,19 @@
 
 ## flutter/website
 
+### May 9, 2026 to May 15, 2026
+
+1 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Inital example of a bare skill that gives contributors their installed mcp servers but only the skills that have been vetted<br />
+  <sub>[#13376](https://github.com/flutter/website/pull/13376) merged on May 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13376) over 2 days, 16 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="202" height="157" alt="Screenshot 2026-05-08 at 7 06 05 PM" src="https://github.com/user-attachments/assets/3a65459d-916b-4251-970c-7dff88ecbcf2" /></details></sub>
+
 ### May 2, 2026 to May 8, 2026
 
-21 commits.
+<details>
+<summary>21 commits...</summary>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a section on managing app lifecycle<br />
   <sub>[#13352](https://github.com/flutter/website/pull/13352) merged on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13352) over 3 hours, 38 additions and 15 deletions in 1 file</sub><br />
@@ -904,6 +914,8 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Refactor ArticleView to StatefulWidget and simplify lesson steps<br />
   <sub>[#13331](https://github.com/flutter/website/pull/13331) merged on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13331) over 4 days, 103 additions and 28 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+</details>
 
 ### April 25, 2026 to May 1, 2026
 

@@ -266,3 +266,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Only add -Pshrink=false flag for AGP version < 4.2<br />
   <sub>[#186363](https://github.com/flutter/flutter/pull/186363) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186363) 14 additions and 9 deletions in 1 file</sub><br />
 
+* **[Thiago Bortoluzzi ](https://github.com/thiagobmi)** &mdash; Fix broken image paths in README.md<br />
+  <sub>[#186369](https://github.com/flutter/flutter/pull/186369) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186369) 3 additions and 3 deletions in 1 file</sub><br />
+
