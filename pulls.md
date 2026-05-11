@@ -260,3 +260,9 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Support custom BoxBorder animation in BoxDecoration<br />
   <sub>[#186348](https://github.com/flutter/flutter/pull/186348) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186348) 96 additions and 2 deletions in 2 files</sub><br />
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Add avdmanager functionality validation to flutter doctor<br />
+  <sub>[#186358](https://github.com/flutter/flutter/pull/186358) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186358) 100 additions and 1 deletion in 2 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Only add -Pshrink=false flag for AGP version < 4.2<br />
+  <sub>[#186363](https://github.com/flutter/flutter/pull/186363) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186363) 14 additions and 9 deletions in 1 file</sub><br />
+

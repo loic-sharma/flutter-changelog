@@ -135,7 +135,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Saman Zamani](https://github.com/samanzamani)** &mdash; Bundle a local Roboto fallback for no-CDN web builds
-  <sub>[#184275](https://github.com/flutter/flutter/pull/184275) merged on May 4, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184275) over 1 month, 116 additions and 1 deletion in 2 files</sub>
+  <sub>[#184275](https://github.com/flutter/flutter/pull/184275) merged on May 4, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/184275) over 1 month, 116 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS][macOS] Handle Swift extensions in framework exports check
