@@ -203,6 +203,9 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [widgets] Use super parameters in missed spots<br />
   <sub>[#186198](https://github.com/flutter/flutter/pull/186198) opened on on May 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186198) 20 additions and 22 deletions in 7 files</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Upgrade Flutter Test Apps to AGP 9<br />
+  <sub>[#186200](https://github.com/flutter/flutter/pull/186200) opened on on May 7, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/186200) 10550 additions and 9666 deletions in 166 files</sub><br />
+
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `dependOnInheritedWidgetOfExactType` documentation to explain why it is bad to use it in iniState<br />
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) opened on on May 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186216) 23 additions and 12 deletions in 1 file</sub><br />
 
@@ -228,7 +231,7 @@
   <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186254) 58 additions and 9 deletions in 1 file</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Android] Propagate --enable-flutter-gpu Intent extra to engine args<br />
-  <sub>[#186298](https://github.com/flutter/flutter/pull/186298) opened on on May 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186298) 33 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186298](https://github.com/flutter/flutter/pull/186298) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186298) 33 additions and 0 deletions in 2 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix `pub get` resolving wrong path in pub workspaces<br />
   <sub>[#186301](https://github.com/flutter/flutter/pull/186301) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186301) 52 additions and 1 deletion in 2 files</sub><br />
@@ -259,9 +262,6 @@
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Support custom BoxBorder animation in BoxDecoration<br />
   <sub>[#186348](https://github.com/flutter/flutter/pull/186348) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186348) 96 additions and 2 deletions in 2 files</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Add avdmanager functionality validation to flutter doctor<br />
-  <sub>[#186358](https://github.com/flutter/flutter/pull/186358) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186358) 100 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Only add -Pshrink=false flag for AGP version < 4.2<br />
   <sub>[#186363](https://github.com/flutter/flutter/pull/186363) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186363) 14 additions and 9 deletions in 1 file</sub><br />

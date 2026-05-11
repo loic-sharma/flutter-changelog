@@ -4,7 +4,11 @@
 
 ### May 9, 2026 to May 15, 2026
 
-1 commits.
+2 commits.
+
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Remove `currentMainUri` from `generateMainDartWithPluginRegistrant`<br />
+  <sub>[#185907](https://github.com/flutter/flutter/pull/185907) merged on May 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185907) over 1 week, 9 additions and 49 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Check for absolute paths in skills. <br />
   <sub>[#185632](https://github.com/flutter/flutter/pull/185632) merged on May 11, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185632) over 1 week, 159 additions and 17 deletions in 4 files</sub><br />
@@ -643,7 +647,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-2 commits.
+3 commits.
 
 * **[August](https://github.com/Gustl22)** &mdash; [ci] refactor: Cleanup tooling for handling arch build output <= Flutter v3.13.x<br />
   <sub>[#11399](https://github.com/flutter/packages/pull/11399) merged on May 11, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11399) over 1 month, 48 additions and 131 deletions in 4 files</sub><br />
@@ -651,6 +655,10 @@
 
 * **[fondoger](https://github.com/fondoger)** &mdash; [vector_graphics_compiler] Add modern HSL color parsing<br />
   <sub>[#11657](https://github.com/flutter/packages/pull/11657) merged on May 11, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/11657) over 4 days, 464 additions and 67 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Shin Aoyama](https://github.com/smihica)** &mdash; [vector_graphics] Fix uncaught StateError in useHtmlRenderObject on CanvasKit / iOS Safari<br />
+  <sub>[#11685](https://github.com/flutter/packages/pull/11685) merged on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11685) over 15 hours, 17 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 ### May 2, 2026 to May 8, 2026
