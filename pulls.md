@@ -257,9 +257,3 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Disable spell check for obscured text<br />
   <sub>[#186329](https://github.com/flutter/flutter/pull/186329) opened on on May 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186329) 128 additions and 9 deletions in 2 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Namespace user-supplied shaders to prevent collisions with engine-internal shaders<br />
-  <sub>[#186332](https://github.com/flutter/flutter/pull/186332) opened on on May 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186332) 236 additions and 19 deletions in 12 files</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Write a depfile when --shader-bundle is in use<br />
-  <sub>[#186341](https://github.com/flutter/flutter/pull/186341) opened on on May 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186341) 156 additions and 16 deletions in 3 files</sub><br />
-
