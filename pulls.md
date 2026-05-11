@@ -105,7 +105,7 @@
   <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task build cacheable<br />
-  <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185903) 72 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185903) 72 additions and 0 deletions in 2 files</sub><br />
 
 * **[Nikolay Kirillov](https://github.com/nukeolay)** &mdash; Sanitize Git environment for Flutter SDK git commands<br />
   <sub>[#185929](https://github.com/flutter/flutter/pull/185929) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185929) 180 additions and 4 deletions in 5 files</sub><br />
@@ -230,6 +230,9 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: explain why each candidate build was skipped in Flutter web loader<br />
   <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186254) 58 additions and 9 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes SDF option for macOS (always enabled)<br />
+  <sub>[#186265](https://github.com/flutter/flutter/pull/186265) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186265) 25 additions and 83 deletions in 3 files</sub><br />
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Android] Propagate --enable-flutter-gpu Intent extra to engine args<br />
   <sub>[#186298](https://github.com/flutter/flutter/pull/186298) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186298) 33 additions and 0 deletions in 2 files</sub><br />
 
@@ -270,5 +273,5 @@
   <sub>[#186369](https://github.com/flutter/flutter/pull/186369) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186369) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] update no-response workflow to also look for old label name in e…<br />
-  <sub>[#186373](https://github.com/flutter/flutter/pull/186373) opened on on May 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186373) 9 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#186373](https://github.com/flutter/flutter/pull/186373) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186373) 9 additions and 2 deletions in 1 file</sub><br />
 
