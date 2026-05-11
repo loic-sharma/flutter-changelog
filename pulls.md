@@ -264,5 +264,5 @@
   <sub>[#186375](https://github.com/flutter/flutter/pull/186375) opened on on May 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186375) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Call onCloseRequested on closed menus<br />
-  <sub>[#186376](https://github.com/flutter/flutter/pull/186376) opened on on May 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186376) 3 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#186376](https://github.com/flutter/flutter/pull/186376) opened on on May 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186376) 10 additions and 14 deletions in 2 files</sub><br />
 
