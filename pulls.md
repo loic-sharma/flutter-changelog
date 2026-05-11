@@ -179,9 +179,6 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Update iOS section of AppLocalizations template to current Xcode workflow<br />
   <sub>[#186142](https://github.com/flutter/flutter/pull/186142) opened on on May 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186142) 15 additions and 14 deletions in 1 file</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add 'cp: review' label to the manual cherrypick process<br />
-  <sub>[#186158](https://github.com/flutter/flutter/pull/186158) opened on on May 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186158) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
 
@@ -213,7 +210,7 @@
   <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186239) 76 additions and 70 deletions in 5 files</sub><br />
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImage.fadeInOver constructor to skip placeholder fade-out<br />
-  <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186246) 252 additions and 38 deletions in 2 files</sub><br />
+  <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186246) 252 additions and 38 deletions in 2 files</sub><br />
 
 * **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Add ScrollIntent support to Slider widget for gamepad/hardware input<br />
   <sub>[#186248](https://github.com/flutter/flutter/pull/186248) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186248) 134 additions and 7 deletions in 2 files</sub><br />
@@ -245,9 +242,6 @@
 * **[Lam Nhan](https://github.com/lamnhan066)** &mdash; Time picker error in locales that do not use Latin digits<br />
   <sub>[#186311](https://github.com/flutter/flutter/pull/186311) opened on on May 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186311) 118 additions and 3 deletions in 2 files</sub><br />
 
-* **[Bilal Rehman](https://github.com/BilalRehman08)** &mdash; Fix TestSemantics typo bugs in semantics_tester (widgets and material)<br />
-  <sub>[#186314](https://github.com/flutter/flutter/pull/186314) opened on on May 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186314) 5 additions and 4 deletions in 1 file</sub><br />
-
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: Fix doubled-word typos in framework dartdoc<br />
   <sub>[#186319](https://github.com/flutter/flutter/pull/186319) opened on on May 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186319) 9 additions and 9 deletions in 5 files</sub><br />
 
@@ -255,10 +249,10 @@
   <sub>[#186321](https://github.com/flutter/flutter/pull/186321) opened on on May 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186321) 11 additions and 11 deletions in 3 files</sub><br />
 
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix "tha" -> "that" typo in widget_inspector_test comment<br />
-  <sub>[#186322](https://github.com/flutter/flutter/pull/186322) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186322) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#186322](https://github.com/flutter/flutter/pull/186322) opened on on May 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186322) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix overriden -> overridden in MediaQueryData dartdoc<br />
-  <sub>[#186323](https://github.com/flutter/flutter/pull/186323) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186323) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#186323](https://github.com/flutter/flutter/pull/186323) opened on on May 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186323) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Disable spell check for obscured text<br />
   <sub>[#186329](https://github.com/flutter/flutter/pull/186329) opened on on May 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186329) 128 additions and 9 deletions in 2 files</sub><br />
@@ -268,10 +262,4 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Only add -Pshrink=false flag for AGP version < 4.2<br />
   <sub>[#186363](https://github.com/flutter/flutter/pull/186363) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186363) 14 additions and 9 deletions in 1 file</sub><br />
-
-* **[Thiago Bortoluzzi ](https://github.com/thiagobmi)** &mdash; Fix broken image paths in README.md<br />
-  <sub>[#186369](https://github.com/flutter/flutter/pull/186369) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186369) 3 additions and 3 deletions in 1 file</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] update no-response workflow to also look for old label name in e…<br />
-  <sub>[#186373](https://github.com/flutter/flutter/pull/186373) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186373) 9 additions and 2 deletions in 1 file</sub><br />
 
