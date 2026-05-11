@@ -257,3 +257,6 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Disable spell check for obscured text<br />
   <sub>[#186329](https://github.com/flutter/flutter/pull/186329) opened on on May 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186329) 128 additions and 9 deletions in 2 files</sub><br />
 
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Support custom BoxBorder animation in BoxDecoration<br />
+  <sub>[#186348](https://github.com/flutter/flutter/pull/186348) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186348) 96 additions and 2 deletions in 2 files</sub><br />
+
