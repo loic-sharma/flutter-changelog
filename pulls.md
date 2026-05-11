@@ -240,7 +240,7 @@
   <sub>[#186311](https://github.com/flutter/flutter/pull/186311) opened on on May 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186311) 118 additions and 3 deletions in 2 files</sub><br />
 
 * **[Bilal Rehman](https://github.com/BilalRehman08)** &mdash; Fix TestSemantics typo bugs in semantics_tester (widgets and material)<br />
-  <sub>[#186314](https://github.com/flutter/flutter/pull/186314) opened on on May 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186314) 10 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#186314](https://github.com/flutter/flutter/pull/186314) opened on on May 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186314) 5 additions and 4 deletions in 1 file</sub><br />
 
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: Fix doubled-word typos in framework dartdoc<br />
   <sub>[#186319](https://github.com/flutter/flutter/pull/186319) opened on on May 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186319) 9 additions and 9 deletions in 5 files</sub><br />
