@@ -206,9 +206,6 @@
 * **[Lam Nhan](https://github.com/lamnhan066)** &mdash; Time picker error in locales that do not use Latin digits<br />
   <sub>[#186311](https://github.com/flutter/flutter/pull/186311) opened on on May 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186311) 118 additions and 3 deletions in 2 files</sub><br />
 
-* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Disable spell check for obscured text<br />
-  <sub>[#186329](https://github.com/flutter/flutter/pull/186329) opened on on May 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186329) 128 additions and 9 deletions in 2 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Only add -Pshrink=false flag for AGP version < 4.2<br />
   <sub>[#186363](https://github.com/flutter/flutter/pull/186363) opened on on May 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186363) 16 additions and 9 deletions in 1 file</sub><br />
 
