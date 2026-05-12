@@ -123,7 +123,7 @@
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
-  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186028) 200 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186028) 200 additions and 1 deletion in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tools] Add doctor validator warning for multiple adb installations<br />
   <sub>[#186031](https://github.com/flutter/flutter/pull/186031) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186031) 131 additions and 0 deletions in 3 files</sub><br />
@@ -206,8 +206,8 @@
 * **[Lam Nhan](https://github.com/lamnhan066)** &mdash; Time picker error in locales that do not use Latin digits<br />
   <sub>[#186311](https://github.com/flutter/flutter/pull/186311) opened on on May 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186311) 118 additions and 3 deletions in 2 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Only add -Pshrink=false flag for AGP version < 4.2<br />
-  <sub>[#186363](https://github.com/flutter/flutter/pull/186363) opened on on May 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186363) 16 additions and 9 deletions in 1 file</sub><br />
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Remove obsolete code regarding AGP < 4.2<br />
+  <sub>[#186363](https://github.com/flutter/flutter/pull/186363) opened on on May 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186363) 1 addition and 9 deletions in 1 file</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix AnimatedList.separated assert when removing last item mid-removal…<br />
   <sub>[#186389](https://github.com/flutter/flutter/pull/186389) opened on on May 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186389) 83 additions and 2 deletions in 2 files</sub><br />
