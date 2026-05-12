@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-15 commits.
+16 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub>
@@ -49,6 +49,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update iOS scenario app test goldens to match changes from https://github.com/flutter/flutter/pull/182662
   <sub>[#186390](https://github.com/flutter/flutter/pull/186390) merged on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186390) over 7 hours, 0 additions and 0 deletions in 9 files</sub>
   <sub>Reviewed by: [b-luk](https://github.com/b-luk)</sub>
+
+* **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix typos in flutter_tools comments
+  <sub>[#186321](https://github.com/flutter/flutter/pull/186321) merged on May 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186321) over 1 day, 11 additions and 11 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Fix `EmbedderTest.CanRenderTextWithImpellerMetal` test breakage
   <sub>[#186262](https://github.com/flutter/flutter/pull/186262) merged on May 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186262) over 3 days, 52 additions and 16 deletions in 5 files</sub>
@@ -699,7 +703,11 @@
 
 ### May 9, 2026 to May 15, 2026
 
-3 commits.
+4 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fixes TreeView crash when empty or last node collapsed
+  <sub>[#11622](https://github.com/flutter/packages/pull/11622) merged on May 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11622) over 1 week, 174 additions and 24 deletions in 4 files</sub>
+  <sub>Reviewed by: [Mohellebi Abdessalem](https://github.com/AbdeMohlbi), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[August](https://github.com/Gustl22)** &mdash; [ci] refactor: Cleanup tooling for handling arch build output <= Flutter v3.13.x
   <sub>[#11399](https://github.com/flutter/packages/pull/11399) merged on May 11, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11399) over 1 month, 48 additions and 131 deletions in 4 files</sub>

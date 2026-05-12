@@ -201,7 +201,7 @@
   <sub>[#186198](https://github.com/flutter/flutter/pull/186198) opened on on May 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186198) 20 additions and 22 deletions in 7 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Upgrade Flutter Test Apps to AGP 9<br />
-  <sub>[#186200](https://github.com/flutter/flutter/pull/186200) opened on on May 7, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/186200) 10550 additions and 9666 deletions in 166 files</sub><br />
+  <sub>[#186200](https://github.com/flutter/flutter/pull/186200) opened on on May 7, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/186200) 10550 additions and 9666 deletions in 166 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `dependOnInheritedWidgetOfExactType` documentation to explain why it is bad to use it in initState<br />
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) opened on on May 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186216) 23 additions and 12 deletions in 1 file</sub><br />
@@ -241,9 +241,6 @@
 
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: Fix doubled-word typos in framework dartdoc<br />
   <sub>[#186319](https://github.com/flutter/flutter/pull/186319) opened on on May 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186319) 9 additions and 9 deletions in 5 files</sub><br />
-
-* **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix typos in flutter_tools comments<br />
-  <sub>[#186321](https://github.com/flutter/flutter/pull/186321) opened on on May 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186321) 11 additions and 11 deletions in 3 files</sub><br />
 
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix "tha" -> "that" typo in widget_inspector_test comment<br />
   <sub>[#186322](https://github.com/flutter/flutter/pull/186322) opened on on May 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186322) 1 addition and 1 deletion in 1 file</sub><br />
