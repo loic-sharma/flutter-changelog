@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-17 commits.
+18 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline<br />
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub><br />
@@ -49,6 +49,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Check for absolute paths in skills. <br />
   <sub>[#185632](https://github.com/flutter/flutter/pull/185632) merged on May 11, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185632) over 1 week, 159 additions and 17 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add 'cp: review' label to the manual cherrypick process<br />
+  <sub>[#186158](https://github.com/flutter/flutter/pull/186158) merged on May 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186158) over 5 days, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [walley892](https://github.com/walley892)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update iOS scenario app test goldens to match changes from https://github.com/flutter/flutter/pull/182662<br />
   <sub>[#186390](https://github.com/flutter/flutter/pull/186390) merged on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186390) over 7 hours, 0 additions and 0 deletions in 9 files</sub><br />
@@ -883,7 +887,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-3 commits.
+4 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Inital example of a bare skill that gives contributors their installed mcp servers but only the skills that have been vetted<br />
   <sub>[#13376](https://github.com/flutter/website/pull/13376) merged on May 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13376) over 2 days, 16 additions and 0 deletions in 2 files</sub><br />
@@ -897,6 +901,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix a variety of spelling, grammar, and punctuation issues<br />
   <sub>[#13378](https://github.com/flutter/website/pull/13378) merged on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13378) over 2 days, 101 additions and 113 deletions in 52 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding instructions on using Swift Package Manager<br />
+  <sub>[#13359](https://github.com/flutter/website/pull/13359) merged on May 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13359) over 6 days, 51 additions and 44 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 ### May 2, 2026 to May 8, 2026
 

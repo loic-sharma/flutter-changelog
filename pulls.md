@@ -201,7 +201,7 @@
   <sub>[#186198](https://github.com/flutter/flutter/pull/186198) opened on on May 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186198) 20 additions and 22 deletions in 7 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Upgrade Flutter Test Apps to AGP 9<br />
-  <sub>[#186200](https://github.com/flutter/flutter/pull/186200) opened on on May 7, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/186200) 10550 additions and 9666 deletions in 166 files</sub><br />
+  <sub>[#186200](https://github.com/flutter/flutter/pull/186200) opened on on May 7, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/186200) 10550 additions and 9666 deletions in 166 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `dependOnInheritedWidgetOfExactType` documentation to explain why it is bad to use it in initState<br />
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) opened on on May 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186216) 23 additions and 12 deletions in 1 file</sub><br />
@@ -251,9 +251,6 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Support custom BoxBorder animation in BoxDecoration<br />
   <sub>[#186348](https://github.com/flutter/flutter/pull/186348) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186348) 96 additions and 2 deletions in 2 files</sub><br />
 
-* **[CHOIgoung](https://github.com/CHOIgoung)** &mdash; Fix Windows Korean IME caret position during composition<br />
-  <sub>[#186353](https://github.com/flutter/flutter/pull/186353) opened on on May 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186353) 93 additions and 12 deletions in 2 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Only add -Pshrink=false flag for AGP version < 4.2<br />
   <sub>[#186363](https://github.com/flutter/flutter/pull/186363) opened on on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186363) 16 additions and 9 deletions in 1 file</sub><br />
 
@@ -271,4 +268,10 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix several WebParagraph bugs<br />
   <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186403) 111 additions and 158 deletions in 7 files</sub><br />
+
+* **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
+  <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186409) 17 additions and 31 deletions in 13 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Update Flutter DEPS to Dart 9576691c37d84d3b66a9722e4fadacc764f04b21<br />
+  <sub>[#186411](https://github.com/flutter/flutter/pull/186411) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186411) 20 additions and 20 deletions in 1 file</sub><br />
 
