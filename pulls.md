@@ -270,5 +270,11 @@
   <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186409) 17 additions and 31 deletions in 13 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds device metrics override<br />
-  <sub>[#186416](https://github.com/flutter/flutter/pull/186416) opened on on May 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186416) 131 additions and 61 deletions in 8 files</sub><br />
+  <sub>[#186416](https://github.com/flutter/flutter/pull/186416) opened on on May 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186416) 143 additions and 61 deletions in 8 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Update Flutter DEPS to Dart 98116461144f4429ab873f8497023a5ec3b08127<br />
+  <sub>[#186420](https://github.com/flutter/flutter/pull/186420) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186420) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve zoom behavior and add zoom slider<br />
+  <sub>[#186422](https://github.com/flutter/flutter/pull/186422) opened on on May 12, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/186422) 414 additions and 104 deletions in 8 files</sub><br />
 
