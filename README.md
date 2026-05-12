@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-16 commits.
+17 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline<br />
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use Xcode's LLDB<br />
   <sub>[#186273](https://github.com/flutter/flutter/pull/186273) merged on May 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186273) over 2 days, 97 additions and 22 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes SDF option for macOS (always enabled)<br />
+  <sub>[#186265](https://github.com/flutter/flutter/pull/186265) merged on May 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186265) over 3 days, 25 additions and 83 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Pass XcodeBasedProject instead of String to functions in XcodeProjectInterpreter<br />
   <sub>[#186378](https://github.com/flutter/flutter/pull/186378) merged on May 12, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186378) over 15 hours, 481 additions and 502 deletions in 23 files</sub><br />
