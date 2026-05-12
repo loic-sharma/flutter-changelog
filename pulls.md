@@ -165,7 +165,7 @@
   <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186108) 54 additions and 7 deletions in 4 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: ignore client customTool in debug adapters<br />
-  <sub>[#186115](https://github.com/flutter/flutter/pull/186115) opened on on May 6, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/186115) 181 additions and 130 deletions in 8 files</sub><br />
+  <sub>[#186115](https://github.com/flutter/flutter/pull/186115) opened on on May 6, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/186115) 181 additions and 130 deletions in 8 files</sub><br />
 
 * **[Alexander Aks'onov](https://github.com/AlexEduV)** &mdash; Docs/improving docs for semantics UI lib<br />
   <sub>[#186125](https://github.com/flutter/flutter/pull/186125) opened on on May 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186125) 11 additions and 11 deletions in 3 files</sub><br />
@@ -225,7 +225,7 @@
   <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186254) 58 additions and 9 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes SDF option for macOS (always enabled)<br />
-  <sub>[#186265](https://github.com/flutter/flutter/pull/186265) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186265) 25 additions and 83 deletions in 3 files</sub><br />
+  <sub>[#186265](https://github.com/flutter/flutter/pull/186265) opened on on May 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186265) 25 additions and 83 deletions in 3 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix `pub get` resolving wrong path in pub workspaces<br />
   <sub>[#186301](https://github.com/flutter/flutter/pull/186301) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186301) 52 additions and 1 deletion in 2 files</sub><br />
@@ -270,5 +270,5 @@
   <sub>[#186389](https://github.com/flutter/flutter/pull/186389) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186389) 79 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update iOS scenario app test goldens to match changes from https://github.com/flutter/flutter/pull/182662<br />
-  <sub>[#186390](https://github.com/flutter/flutter/pull/186390) opened on on May 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186390) 0 additions and 0 deletions in 9 files</sub><br />
+  <sub>[#186390](https://github.com/flutter/flutter/pull/186390) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186390) 0 additions and 0 deletions in 9 files</sub><br />
 
