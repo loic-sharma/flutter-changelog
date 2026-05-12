@@ -225,10 +225,7 @@
   <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186254) 58 additions and 9 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes SDF option for macOS (always enabled)<br />
-  <sub>[#186265](https://github.com/flutter/flutter/pull/186265) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186265) 25 additions and 83 deletions in 3 files</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Android] Propagate --enable-flutter-gpu Intent extra to engine args<br />
-  <sub>[#186298](https://github.com/flutter/flutter/pull/186298) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186298) 33 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186265](https://github.com/flutter/flutter/pull/186265) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186265) 25 additions and 83 deletions in 3 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix `pub get` resolving wrong path in pub workspaces<br />
   <sub>[#186301](https://github.com/flutter/flutter/pull/186301) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186301) 52 additions and 1 deletion in 2 files</sub><br />
@@ -268,4 +265,10 @@
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Call onCloseRequested on closed menus<br />
   <sub>[#186376](https://github.com/flutter/flutter/pull/186376) opened on on May 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186376) 10 additions and 14 deletions in 2 files</sub><br />
+
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix AnimatedList.separated assert when removing last item mid-removal…<br />
+  <sub>[#186389](https://github.com/flutter/flutter/pull/186389) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186389) 79 additions and 2 deletions in 2 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update iOS scenario app test goldens to match changes from https://github.com/flutter/flutter/pull/182662<br />
+  <sub>[#186390](https://github.com/flutter/flutter/pull/186390) opened on on May 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186390) 0 additions and 0 deletions in 9 files</sub><br />
 
