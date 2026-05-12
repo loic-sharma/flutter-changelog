@@ -4,11 +4,15 @@
 
 ### May 9, 2026 to May 15, 2026
 
-12 commits.
+13 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline<br />
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Jochum van der Ploeg](https://github.com/wolfenrain)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Migrate focus_node.unfocus.0.dart to use `RadioGroup`<br />
+  <sub>[#183979](https://github.com/flutter/flutter/pull/183979) merged on May 12, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/183979) over 1 month, 36 additions and 49 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show SwiftPM warnings right before iOS/macOS build<br />
   <sub>[#185984](https://github.com/flutter/flutter/pull/185984) merged on May 11, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185984) over 1 week, 609 additions and 367 deletions in 6 files</sub><br />

@@ -273,5 +273,5 @@
   <sub>[#186390](https://github.com/flutter/flutter/pull/186390) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186390) 0 additions and 0 deletions in 9 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Canonicalize uniform block instance names for the GL backends<br />
-  <sub>[#186394](https://github.com/flutter/flutter/pull/186394) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186394) 82 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186394](https://github.com/flutter/flutter/pull/186394) opened on on May 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186394) 88 additions and 0 deletions in 2 files</sub><br />
 
