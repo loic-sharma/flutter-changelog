@@ -275,3 +275,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle tag from dropdown_test.dart<br />
   <sub>[#186398](https://github.com/flutter/flutter/pull/186398) opened on on May 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186398) 1 addition and 6 deletions in 1 file</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix several WebParagraph bugs<br />
+  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186403) 111 additions and 158 deletions in 7 files</sub><br />
+
