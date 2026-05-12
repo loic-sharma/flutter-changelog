@@ -264,7 +264,7 @@
   <sub>[#186398](https://github.com/flutter/flutter/pull/186398) opened on on May 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186398) 1 addition and 6 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix several WebParagraph bugs<br />
-  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186403) 111 additions and 158 deletions in 7 files</sub><br />
+  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186403) 268 additions and 174 deletions in 9 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
   <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186409) 17 additions and 31 deletions in 13 files</sub><br />
@@ -276,5 +276,5 @@
   <sub>[#186420](https://github.com/flutter/flutter/pull/186420) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186420) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve zoom behavior and add zoom slider<br />
-  <sub>[#186422](https://github.com/flutter/flutter/pull/186422) opened on on May 12, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/186422) 414 additions and 104 deletions in 8 files</sub><br />
+  <sub>[#186422](https://github.com/flutter/flutter/pull/186422) opened on on May 12, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/186422) 616 additions and 106 deletions in 9 files</sub><br />
 
