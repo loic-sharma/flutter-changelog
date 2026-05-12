@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-14 commits.
+15 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline<br />
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use Xcode's LLDB<br />
   <sub>[#186273](https://github.com/flutter/flutter/pull/186273) merged on May 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186273) over 2 days, 97 additions and 22 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Pass XcodeBasedProject instead of String to functions in XcodeProjectInterpreter<br />
+  <sub>[#186378](https://github.com/flutter/flutter/pull/186378) merged on May 12, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186378) over 15 hours, 481 additions and 502 deletions in 23 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] update no-response workflow to also look for old label name in e…<br />
   <sub>[#186373](https://github.com/flutter/flutter/pull/186373) merged on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186373) over 1 hour, 9 additions and 2 deletions in 1 file</sub><br />
