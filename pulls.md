@@ -53,6 +53,9 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_tools] Migrate detectLowCompileSdkVersionOrNdkVersion to AGP task<br />
   <sub>[#184731](https://github.com/flutter/flutter/pull/184731) opened on on April 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/184731) 634 additions and 331 deletions in 6 files</sub><br />
 
+* **[holzgeist](https://github.com/holzgeist)** &mdash; Fix rendering custom element size<br />
+  <sub>[#184961](https://github.com/flutter/flutter/pull/184961) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184961) 22 additions and 4 deletions in 2 files</sub><br />
+
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
   <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
 
