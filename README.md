@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-20 commits.
+21 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline<br />
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub><br />
@@ -49,6 +49,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] update no-response workflow to also look for old label name in e…<br />
   <sub>[#186373](https://github.com/flutter/flutter/pull/186373) merged on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186373) over 1 hour, 9 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Harden dev tooling scripts against command injection and log leaks<br />
+  <sub>[#186076](https://github.com/flutter/flutter/pull/186076) merged on May 12, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186076) over 1 week, 3 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Remove `currentMainUri` from `generateMainDartWithPluginRegistrant`<br />
   <sub>[#185907](https://github.com/flutter/flutter/pull/185907) merged on May 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185907) over 1 week, 9 additions and 49 deletions in 4 files</sub><br />
@@ -895,12 +899,16 @@
 
 ### May 9, 2026 to May 15, 2026
 
-4 commits.
+5 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Inital example of a bare skill that gives contributors their installed mcp servers but only the skills that have been vetted<br />
   <sub>[#13376](https://github.com/flutter/website/pull/13376) merged on May 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13376) over 2 days, 16 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
   <sub><details><summary>1 image...</summary><img width="202" height="157" alt="Screenshot 2026-05-08 at 7 06 05 PM" src="https://github.com/user-attachments/assets/3a65459d-916b-4251-970c-7dff88ecbcf2" /></details></sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add contributor ladder doc<br />
+  <sub>[#13381](https://github.com/flutter/website/pull/13381) merged on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13381) over 21 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking changes for upcoming 3.44 release<br />
   <sub>[#13377](https://github.com/flutter/website/pull/13377) merged on May 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13377) over 2 days, 46 additions and 27 deletions in 9 files</sub><br />

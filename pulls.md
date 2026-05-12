@@ -62,9 +62,6 @@
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
-* **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix: Remove incorrect scale parameter documentation from Image constructor<br />
-  <sub>[#185412](https://github.com/flutter/flutter/pull/185412) opened on on April 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185412) 69 additions and 6 deletions in 3 files</sub><br />
-
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]skip non-tappable web view workaround on ios 26.4<br />
   <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
 
@@ -271,4 +268,7 @@
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
   <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186409) 17 additions and 31 deletions in 13 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds device metrics override<br />
+  <sub>[#186416](https://github.com/flutter/flutter/pull/186416) opened on on May 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186416) 131 additions and 61 deletions in 8 files</sub><br />
 
