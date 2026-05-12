@@ -272,9 +272,6 @@
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix AnimatedList.separated assert when removing last item mid-removal…<br />
   <sub>[#186389](https://github.com/flutter/flutter/pull/186389) opened on on May 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186389) 79 additions and 2 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update iOS scenario app test goldens to match changes from https://github.com/flutter/flutter/pull/182662<br />
-  <sub>[#186390](https://github.com/flutter/flutter/pull/186390) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186390) 0 additions and 0 deletions in 9 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle tag from dropdown_test.dart<br />
   <sub>[#186398](https://github.com/flutter/flutter/pull/186398) opened on on May 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186398) 1 addition and 6 deletions in 1 file</sub><br />
 

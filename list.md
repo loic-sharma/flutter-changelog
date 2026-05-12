@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-13 commits.
+14 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub>
@@ -41,6 +41,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Check for absolute paths in skills. 
   <sub>[#185632](https://github.com/flutter/flutter/pull/185632) merged on May 11, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185632) over 1 week, 159 additions and 17 deletions in 4 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update iOS scenario app test goldens to match changes from https://github.com/flutter/flutter/pull/182662
+  <sub>[#186390](https://github.com/flutter/flutter/pull/186390) merged on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186390) over 7 hours, 0 additions and 0 deletions in 9 files</sub>
+  <sub>Reviewed by: [b-luk](https://github.com/b-luk)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Fix `EmbedderTest.CanRenderTextWithImpellerMetal` test breakage
   <sub>[#186262](https://github.com/flutter/flutter/pull/186262) merged on May 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186262) over 3 days, 52 additions and 16 deletions in 5 files</sub>
