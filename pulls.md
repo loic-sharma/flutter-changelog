@@ -83,12 +83,6 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; feat: make SystemContextMenuController.isVisible part of the public API<br />
   <sub>[#185720](https://github.com/flutter/flutter/pull/185720) opened on on April 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185720) 12 additions and 1 deletion in 1 file</sub><br />
 
-* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Treat package:stack_trace async-gap marker as asynchronous suspension<br />
-  <sub>[#185791](https://github.com/flutter/flutter/pull/185791) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185791) 40 additions and 14 deletions in 2 files</sub><br />
-
-* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix owner-mismatch crash for OverlayPortal inside a deferred-mount parent (e.g. Table)<br />
-  <sub>[#185793](https://github.com/flutter/flutter/pull/185793) opened on on April 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185793) 63 additions and 1 deletion in 2 files</sub><br />
-
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Add SliverFormField for sliver-typed FormField builders<br />
   <sub>[#185795](https://github.com/flutter/flutter/pull/185795) opened on on April 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185795) 210 additions and 19 deletions in 2 files</sub><br />
 
@@ -100,12 +94,6 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Skip SwiftPM plugin schemes when doing flutter clean<br />
   <sub>[#185853](https://github.com/flutter/flutter/pull/185853) opened on on April 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185853) 19 additions and 0 deletions in 2 files</sub><br />
-
-* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Prevent Cubic transform from looping on out-of-range input<br />
-  <sub>[#185875](https://github.com/flutter/flutter/pull/185875) opened on on May 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185875) 13 additions and 0 deletions in 2 files</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task build cacheable<br />
-  <sub>[#185903](https://github.com/flutter/flutter/pull/185903) opened on on May 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185903) 72 additions and 0 deletions in 2 files</sub><br />
 
 * **[Nikolay Kirillov](https://github.com/nukeolay)** &mdash; Sanitize Git environment for Flutter SDK git commands<br />
   <sub>[#185929](https://github.com/flutter/flutter/pull/185929) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185929) 180 additions and 4 deletions in 5 files</sub><br />
@@ -268,9 +256,6 @@
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
   <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186409) 17 additions and 31 deletions in 13 files</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds device metrics override<br />
-  <sub>[#186416](https://github.com/flutter/flutter/pull/186416) opened on on May 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186416) 143 additions and 61 deletions in 8 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Update Flutter DEPS to Dart 98116461144f4429ab873f8497023a5ec3b08127<br />
   <sub>[#186420](https://github.com/flutter/flutter/pull/186420) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186420) 1 addition and 1 deletion in 1 file</sub><br />
