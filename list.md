@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-5 commits.
+7 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show SwiftPM warnings right before iOS/macOS build
   <sub>[#185984](https://github.com/flutter/flutter/pull/185984) merged on May 11, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185984) over 1 week, 609 additions and 367 deletions in 6 files</sub>
@@ -25,6 +25,14 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Check for absolute paths in skills. 
   <sub>[#185632](https://github.com/flutter/flutter/pull/185632) merged on May 11, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185632) over 1 week, 159 additions and 17 deletions in 4 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [ImpellerC] Write a depfile when --shader-bundle is in use
+  <sub>[#186341](https://github.com/flutter/flutter/pull/186341) merged on May 11, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186341) over 14 hours, 159 additions and 16 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix doubled-word typos in comments
+  <sub>[#186320](https://github.com/flutter/flutter/pull/186320) merged on May 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186320) over 1 day, 4 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 ### May 2, 2026 to May 8, 2026
 
@@ -831,12 +839,20 @@
 
 ### May 9, 2026 to May 15, 2026
 
-1 commits.
+3 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Inital example of a bare skill that gives contributors their installed mcp servers but only the skills that have been vetted
   <sub>[#13376](https://github.com/flutter/website/pull/13376) merged on May 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13376) over 2 days, 16 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Shams Zakhour](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary><img width="202" height="157" alt="Screenshot 2026-05-08 at 7 06 05 PM" src="https://github.com/user-attachments/assets/3a65459d-916b-4251-970c-7dff88ecbcf2" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking changes for upcoming 3.44 release
+  <sub>[#13377](https://github.com/flutter/website/pull/13377) merged on May 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13377) over 2 days, 46 additions and 27 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix a variety of spelling, grammar, and punctuation issues
+  <sub>[#13378](https://github.com/flutter/website/pull/13378) merged on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13378) over 2 days, 101 additions and 113 deletions in 52 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### May 2, 2026 to May 8, 2026
 
