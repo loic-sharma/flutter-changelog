@@ -228,5 +228,5 @@
   <sub>[#186432](https://github.com/flutter/flutter/pull/186432) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186432) 210 additions and 28 deletions in 3 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
-  <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
