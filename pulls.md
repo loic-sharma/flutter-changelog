@@ -53,9 +53,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_tools] Migrate detectLowCompileSdkVersionOrNdkVersion to AGP task<br />
   <sub>[#184731](https://github.com/flutter/flutter/pull/184731) opened on on April 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/184731) 634 additions and 331 deletions in 6 files</sub><br />
 
-* **[holzgeist](https://github.com/holzgeist)** &mdash; Fix rendering custom element size<br />
-  <sub>[#184961](https://github.com/flutter/flutter/pull/184961) opened on on April 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184961) 22 additions and 4 deletions in 2 files</sub><br />
-
 * **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
   <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
 
@@ -113,9 +110,6 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from animated_icons_test.dart<br />
   <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185974) 3 additions and 4 deletions in 1 file</sub><br />
 
-* **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Chunk drawAtlas/drawRawAtlas to avoid wasm stack overflow<br />
-  <sub>[#185997](https://github.com/flutter/flutter/pull/185997) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185997) 68 additions and 0 deletions in 1 file</sub><br />
-
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Skip schemes outside Runner.xcodeproj when detecting watch companion<br />
   <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186006) 151 additions and 0 deletions in 2 files</sub><br />
 
@@ -155,14 +149,8 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Use null-aware elements in NavigationRail<br />
-  <sub>[#186174](https://github.com/flutter/flutter/pull/186174) opened on on May 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186174) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Allow selecting multi-digit device options<br />
   <sub>[#186184](https://github.com/flutter/flutter/pull/186184) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186184) 100 additions and 0 deletions in 2 files</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [dev] Use super parameters in missed spots<br />
-  <sub>[#186193](https://github.com/flutter/flutter/pull/186193) opened on on May 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186193) 3 additions and 6 deletions in 1 file</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Use super parameters in missed spots<br />
   <sub>[#186197](https://github.com/flutter/flutter/pull/186197) opened on on May 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186197) 4 additions and 9 deletions in 2 files</sub><br />
@@ -179,14 +167,8 @@
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImage.fadeInOver constructor to skip placeholder fade-out<br />
   <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186246) 252 additions and 38 deletions in 2 files</sub><br />
 
-* **[Istiak Ahmed](https://github.com/Istiak-Ahmed78)** &mdash; Add ScrollIntent support to Slider widget for gamepad/hardware input<br />
-  <sub>[#186248](https://github.com/flutter/flutter/pull/186248) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186248) 134 additions and 7 deletions in 2 files</sub><br />
-
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent downgrading `project.pbxproj` when greater version number<br />
   <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186250) 158 additions and 20 deletions in 2 files</sub><br />
-
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: warn on WASM load failure when not crossOriginIsolated<br />
-  <sub>[#186252](https://github.com/flutter/flutter/pull/186252) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186252) 59 additions and 29 deletions in 1 file</sub><br />
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; tool: build both Wasm and JS targets for `flutter run --wasm`<br />
   <sub>[#186253](https://github.com/flutter/flutter/pull/186253) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186253) 92 additions and 12 deletions in 2 files</sub><br />
@@ -200,17 +182,11 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
 
-* **[Lam Nhan](https://github.com/lamnhan066)** &mdash; Time picker error in locales that do not use Latin digits<br />
-  <sub>[#186311](https://github.com/flutter/flutter/pull/186311) opened on on May 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186311) 118 additions and 3 deletions in 2 files</sub><br />
-
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix AnimatedList.separated assert when removing last item mid-removal…<br />
   <sub>[#186389](https://github.com/flutter/flutter/pull/186389) opened on on May 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186389) 83 additions and 2 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle tag from dropdown_test.dart<br />
-  <sub>[#186398](https://github.com/flutter/flutter/pull/186398) opened on on May 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186398) 1 addition and 6 deletions in 1 file</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix several WebParagraph bugs<br />
-  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186403) 268 additions and 174 deletions in 9 files</sub><br />
+  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/186403) 268 additions and 174 deletions in 9 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
   <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186409) 20 additions and 34 deletions in 13 files</sub><br />
@@ -219,11 +195,14 @@
   <sub>[#186420](https://github.com/flutter/flutter/pull/186420) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186420) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve zoom behavior and add zoom slider<br />
-  <sub>[#186422](https://github.com/flutter/flutter/pull/186422) opened on on May 12, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/186422) 616 additions and 106 deletions in 9 files</sub><br />
+  <sub>[#186422](https://github.com/flutter/flutter/pull/186422) opened on on May 12, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/186422) 618 additions and 108 deletions in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix inspector split resize focus loss over WebViews<br />
   <sub>[#186432](https://github.com/flutter/flutter/pull/186432) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186432) 270 additions and 28 deletions in 10 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix untriaged issues link label<br />
+  <sub>[#186465](https://github.com/flutter/flutter/pull/186465) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186465) 1 addition and 1 deletion in 1 file</sub><br />
 
