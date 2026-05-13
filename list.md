@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-31 commits.
+33 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub>
@@ -13,6 +13,14 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Fix MenuAnchor dismiss when semantics enabled
   <sub>[#183093](https://github.com/flutter/flutter/pull/183093) merged on May 12, 2026 &mdash; **Medium:** [47 comments](https://github.com/flutter/flutter/pull/183093) over 2 months, 389 additions and 22 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Namespace user-supplied shaders to prevent entrypoint collisions
+  <sub>[#186332](https://github.com/flutter/flutter/pull/186332) merged on May 13, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/186332) over 2 days, 441 additions and 43 deletions in 19 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_tools] Migrate detectLowCompileSdkVersionOrNdkVersion to AGP task
+  <sub>[#184731](https://github.com/flutter/flutter/pull/184731) merged on May 13, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/184731) over 1 month, 634 additions and 331 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow allocating multi-mip textures and overwriting specific (mip, slice) levels
   <sub>[#185890](https://github.com/flutter/flutter/pull/185890) merged on May 12, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/185890) over 1 week, 347 additions and 38 deletions in 5 files</sub>
