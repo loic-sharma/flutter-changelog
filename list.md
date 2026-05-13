@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-29 commits.
+30 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub>
@@ -29,6 +29,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show SwiftPM warnings right before iOS/macOS build
   <sub>[#185984](https://github.com/flutter/flutter/pull/185984) merged on May 11, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185984) over 1 week, 609 additions and 367 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Use heap allocation for buffers that would consume too much space on the Wasm stack
+  <sub>[#186228](https://github.com/flutter/flutter/pull/186228) merged on May 13, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/186228) over 5 days, 64 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Tool] Support glob patterns when parsing workspaces in FlutterProject
   <sub>[#185715](https://github.com/flutter/flutter/pull/185715) merged on May 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185715) over 1 week, 122 additions and 97 deletions in 4 files</sub>
