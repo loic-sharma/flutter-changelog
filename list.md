@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-33 commits.
+35 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub>
@@ -46,6 +46,10 @@
   <sub>[#185715](https://github.com/flutter/flutter/pull/185715) merged on May 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185715) over 1 week, 122 additions and 97 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use Xcode's LLDB
+  <sub>[#186273](https://github.com/flutter/flutter/pull/186273) merged on May 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186273) over 2 days, 97 additions and 22 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] GLES: lazily allocate texture mip levels on first per-level write
   <sub>[#186302](https://github.com/flutter/flutter/pull/186302) merged on May 12, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/186302) over 1 day, 422 additions and 36 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -53,10 +57,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Convert rebuilding-flutter-tool script to dart
   <sub>[#185089](https://github.com/flutter/flutter/pull/185089) merged on May 11, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/185089) over 3 weeks, 35 additions and 17 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use Xcode's LLDB
-  <sub>[#186273](https://github.com/flutter/flutter/pull/186273) merged on May 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186273) over 2 days, 97 additions and 22 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bumped required mediatek vender sdk version.
   <sub>[#186405](https://github.com/flutter/flutter/pull/186405) merged on May 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186405) over 3 hours, 9 additions and 3 deletions in 1 file</sub>
@@ -69,6 +69,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] update no-response workflow to also look for old label name in e…
   <sub>[#186373](https://github.com/flutter/flutter/pull/186373) merged on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186373) over 1 hour, 9 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tool] filter out MotionEvent-JNI warning spam from logcat (#174783)
+  <sub>[#186079](https://github.com/flutter/flutter/pull/186079) merged on May 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186079) over 1 week, 34 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [Test cross imports] No material in `test/foundation`, `test/gestures`, `test/semantics`, `test/services`
   <sub>[#186144](https://github.com/flutter/flutter/pull/186144) merged on May 12, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/186144) over 6 days, 200 additions and 192 deletions in 19 files</sub>
@@ -102,10 +106,6 @@
   <sub>[#186390](https://github.com/flutter/flutter/pull/186390) merged on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186390) over 7 hours, 0 additions and 0 deletions in 9 files</sub>
   <sub>Reviewed by: [b-luk](https://github.com/b-luk)</sub>
 
-* **[Alexander Aks'onov](https://github.com/AlexEduV)** &mdash; Docs/improving docs for semantics UI lib
-  <sub>[#186125](https://github.com/flutter/flutter/pull/186125) merged on May 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186125) over 6 days, 11 additions and 11 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [zhongliugo](https://github.com/flutter-zl)</sub>
-
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix overriden -> overridden in MediaQueryData dartdoc
   <sub>[#186323](https://github.com/flutter/flutter/pull/186323) merged on May 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186323) over 2 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -137,6 +137,14 @@
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix doubled-word typos in comments
   <sub>[#186320](https://github.com/flutter/flutter/pull/186320) merged on May 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186320) over 1 day, 4 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix untriaged issues link label
+  <sub>[#186465](https://github.com/flutter/flutter/pull/186465) merged on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186465) over 14 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zhongliugo](https://github.com/flutter-zl)</sub>
+
+* **[Alexander Aks'onov](https://github.com/AlexEduV)** &mdash; Docs/improving docs for semantics UI lib
+  <sub>[#186125](https://github.com/flutter/flutter/pull/186125) merged on May 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186125) over 6 days, 11 additions and 11 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [zhongliugo](https://github.com/flutter-zl)</sub>
 
 ### May 2, 2026 to May 8, 2026
 
