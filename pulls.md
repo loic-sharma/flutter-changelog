@@ -213,5 +213,5 @@
   <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186476) 209 additions and 53 deletions in 14 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix state leak in `TestRenderingFlutterBinding` using `addTearDown`<br />
-  <sub>[#186483](https://github.com/flutter/flutter/pull/186483) opened on on May 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186483) 7 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#186483](https://github.com/flutter/flutter/pull/186483) opened on on May 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186483) 58 additions and 2 deletions in 2 files</sub><br />
 
