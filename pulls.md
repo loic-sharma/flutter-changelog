@@ -146,9 +146,6 @@
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: ignore client customTool in debug adapters<br />
   <sub>[#186115](https://github.com/flutter/flutter/pull/186115) opened on on May 6, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/186115) 181 additions and 130 deletions in 8 files</sub><br />
 
-* **[Alexander Aks'onov](https://github.com/AlexEduV)** &mdash; Docs/improving docs for semantics UI lib<br />
-  <sub>[#186125](https://github.com/flutter/flutter/pull/186125) opened on on May 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186125) 11 additions and 11 deletions in 3 files</sub><br />
-
 * **[Haider](https://github.com/HaiderQadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) 3 additions and 3 deletions in 3 files</sub><br />
 

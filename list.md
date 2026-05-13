@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-27 commits.
+29 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub>
@@ -29,6 +29,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Show SwiftPM warnings right before iOS/macOS build
   <sub>[#185984](https://github.com/flutter/flutter/pull/185984) merged on May 11, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/185984) over 1 week, 609 additions and 367 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Tool] Support glob patterns when parsing workspaces in FlutterProject
+  <sub>[#185715](https://github.com/flutter/flutter/pull/185715) merged on May 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185715) over 1 week, 122 additions and 97 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] GLES: lazily allocate texture mip levels on first per-level write
   <sub>[#186302](https://github.com/flutter/flutter/pull/186302) merged on May 12, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/186302) over 1 day, 422 additions and 36 deletions in 6 files</sub>
@@ -81,6 +85,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update iOS scenario app test goldens to match changes from https://github.com/flutter/flutter/pull/182662
   <sub>[#186390](https://github.com/flutter/flutter/pull/186390) merged on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186390) over 7 hours, 0 additions and 0 deletions in 9 files</sub>
   <sub>Reviewed by: [b-luk](https://github.com/b-luk)</sub>
+
+* **[Alexander Aks'onov](https://github.com/AlexEduV)** &mdash; Docs/improving docs for semantics UI lib
+  <sub>[#186125](https://github.com/flutter/flutter/pull/186125) merged on May 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186125) over 6 days, 11 additions and 11 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [zhongliugo](https://github.com/flutter-zl)</sub>
 
 * **[Nicoreia](https://github.com/Nicoreia)** &mdash; docs: fix overriden -> overridden in MediaQueryData dartdoc
   <sub>[#186323](https://github.com/flutter/flutter/pull/186323) merged on May 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186323) over 2 days, 3 additions and 3 deletions in 1 file</sub>
