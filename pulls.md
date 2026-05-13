@@ -207,7 +207,7 @@
   <sub>[#186363](https://github.com/flutter/flutter/pull/186363) opened on on May 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186363) 1 addition and 9 deletions in 1 file</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix AnimatedList.separated assert when removing last item mid-removal…<br />
-  <sub>[#186389](https://github.com/flutter/flutter/pull/186389) opened on on May 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186389) 83 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#186389](https://github.com/flutter/flutter/pull/186389) opened on on May 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186389) 83 additions and 2 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle tag from dropdown_test.dart<br />
   <sub>[#186398](https://github.com/flutter/flutter/pull/186398) opened on on May 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186398) 1 addition and 6 deletions in 1 file</sub><br />
