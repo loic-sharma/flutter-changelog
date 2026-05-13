@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-30 commits.
+31 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow customizing the vertex layout on a RenderPipeline<br />
   <sub>[#186310](https://github.com/flutter/flutter/pull/186310) merged on May 12, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186310) over 1 day, 968 additions and 39 deletions in 14 files</sub><br />
@@ -77,6 +77,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Check for absolute paths in skills. <br />
   <sub>[#185632](https://github.com/flutter/flutter/pull/185632) merged on May 11, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185632) over 1 week, 159 additions and 17 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Flutter Gallery web app template files to support running with Wasm<br />
+  <sub>[#186268](https://github.com/flutter/flutter/pull/186268) merged on May 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186268) over 4 days, 29 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task build cacheable<br />
   <sub>[#185903](https://github.com/flutter/flutter/pull/185903) merged on May 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185903) over 1 week, 72 additions and 0 deletions in 2 files</sub><br />
@@ -399,7 +403,7 @@
   <sub><details><summary>1 image...</summary><img width="685" height="238" alt="image" src="https://github.com/user-attachments/assets/9a8f7bd2-70ab-419a-802e-0de04a22bbd8" /></details></sub>
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
-  <sub>[#182552](https://github.com/flutter/flutter/pull/182552) merged on April 28, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/182552) over 2 months, 484 additions and 15 deletions in 7 files</sub><br />
+  <sub>[#182552](https://github.com/flutter/flutter/pull/182552) merged on April 28, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/182552) over 2 months, 484 additions and 15 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add reportErrors to ImageStreamListener<br />

@@ -206,3 +206,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix untriaged issues link label<br />
   <sub>[#186465](https://github.com/flutter/flutter/pull/186465) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186465) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move prefetchSwiftPackages to be per platform<br />
+  <sub>[#186468](https://github.com/flutter/flutter/pull/186468) opened on on May 13, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/186468) 654 additions and 542 deletions in 7 files</sub><br />
+
