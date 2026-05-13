@@ -108,7 +108,7 @@
   <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185974) 3 additions and 4 deletions in 1 file</sub><br />
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Skip schemes outside Runner.xcodeproj when detecting watch companion<br />
-  <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186006) 151 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186006) 149 additions and 3 deletions in 2 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Painting decorations directly on CanvasKit<br />
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
@@ -183,7 +183,7 @@
   <sub>[#186389](https://github.com/flutter/flutter/pull/186389) opened on on May 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186389) 83 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix several WebParagraph bugs<br />
-  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/186403) 268 additions and 174 deletions in 9 files</sub><br />
+  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/186403) 270 additions and 174 deletions in 9 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
   <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186409) 20 additions and 34 deletions in 13 files</sub><br />
