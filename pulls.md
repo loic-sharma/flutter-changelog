@@ -249,7 +249,7 @@
   <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 73 additions and 0 deletions in 2 files</sub><br />
 
 * **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples: fix IndexedStack dispose memory leak<br />
-  <sub>[#186524](https://github.com/flutter/flutter/pull/186524) opened on on May 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186524) 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#186524](https://github.com/flutter/flutter/pull/186524) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186524) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes bringup from passing macos/sdf tests<br />
   <sub>[#186527](https://github.com/flutter/flutter/pull/186527) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186527) 0 additions and 3 deletions in 1 file</sub><br />
@@ -259,4 +259,7 @@
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Apply ScrollbarTheme to iOS Scrollbar<br />
   <sub>[#186529](https://github.com/flutter/flutter/pull/186529) opened on on May 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186529) 175 additions and 102 deletions in 4 files</sub><br />
+
+* **[mvincentong](https://github.com/mvincentong)** &mdash; Scope NavigationBar sample ScaffoldMessenger<br />
+  <sub>[#186533](https://github.com/flutter/flutter/pull/186533) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186533) 59 additions and 19 deletions in 2 files</sub><br />
 
