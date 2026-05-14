@@ -176,11 +176,8 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
 
-* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix AnimatedList.separated assert when removing last item mid-removal…<br />
-  <sub>[#186389](https://github.com/flutter/flutter/pull/186389) opened on on May 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186389) 83 additions and 2 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix several WebParagraph bugs<br />
-  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186403) 271 additions and 170 deletions in 8 files</sub><br />
+  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/186403) 271 additions and 170 deletions in 8 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
   <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186409) 20 additions and 34 deletions in 13 files</sub><br />
@@ -255,7 +252,7 @@
   <sub>[#186527](https://github.com/flutter/flutter/pull/186527) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186527) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dart_skills_lint dependency to e449787 and optimize skills validation test<br />
-  <sub>[#186528](https://github.com/flutter/flutter/pull/186528) opened on on May 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186528) 27 additions and 13 deletions in 4 files</sub><br />
+  <sub>[#186528](https://github.com/flutter/flutter/pull/186528) opened on on May 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186528) 28 additions and 12 deletions in 4 files</sub><br />
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Apply ScrollbarTheme to iOS Scrollbar<br />
   <sub>[#186529](https://github.com/flutter/flutter/pull/186529) opened on on May 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186529) 175 additions and 102 deletions in 4 files</sub><br />
@@ -264,5 +261,8 @@
   <sub>[#186533](https://github.com/flutter/flutter/pull/186533) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186533) 59 additions and 19 deletions in 2 files</sub><br />
 
 * **[Maxim Savin](https://github.com/soulman-is-good)** &mdash; Fix HostBuffer.emplace overflow at block boundary<br />
-  <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186539) 50 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186539) 49 additions and 1 deletion in 2 files</sub><br />
+
+* **[Bilal Rehman](https://github.com/BilalRehman08)** &mdash; Add visible focus ring for keyboard-focused semantics nodes<br />
+  <sub>[#186540](https://github.com/flutter/flutter/pull/186540) opened on on May 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186540) 82 additions and 0 deletions in 3 files</sub><br />
 
