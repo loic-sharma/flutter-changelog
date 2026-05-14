@@ -180,7 +180,7 @@
   <sub>[#186389](https://github.com/flutter/flutter/pull/186389) opened on on May 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186389) 83 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix several WebParagraph bugs<br />
-  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/186403) 270 additions and 174 deletions in 9 files</sub><br />
+  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/186403) 270 additions and 174 deletions in 9 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
   <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186409) 20 additions and 34 deletions in 13 files</sub><br />
@@ -226,4 +226,16 @@
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Read FLTEnableWideGamut from Dart bundle<br />
   <sub>[#186509](https://github.com/flutter/flutter/pull/186509) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186509) 41 additions and 1 deletion in 3 files</sub><br />
+
+* **[trippusultan](https://github.com/trippusultan)** &mdash; examples/indexed_stack: dispose TextEditingController<br />
+  <sub>[#186512](https://github.com/flutter/flutter/pull/186512) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186512) 5 additions and 0 deletions in 1 file</sub><br />
+
+* **[trippusultan](https://github.com/trippusultan)** &mdash; TestSemantics: Fix three typo bugs<br />
+  <sub>[#186513](https://github.com/flutter/flutter/pull/186513) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186513) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[mvincentong](https://github.com/mvincentong)** &mdash; Preserve web drive target paths outside lib<br />
+  <sub>[#186515](https://github.com/flutter/flutter/pull/186515) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186515) 103 additions and 6 deletions in 2 files</sub><br />
+
+* **[mvincentong](https://github.com/mvincentong)** &mdash; Honor animateTo timing in TabBarView<br />
+  <sub>[#186516](https://github.com/flutter/flutter/pull/186516) opened on on May 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186516) 185 additions and 25 deletions in 2 files</sub><br />
 
