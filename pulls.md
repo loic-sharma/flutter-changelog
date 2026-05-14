@@ -239,6 +239,9 @@
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Simplify AbsorbPointer sample<br />
   <sub>[#186517](https://github.com/flutter/flutter/pull/186517) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186517) 81 additions and 46 deletions in 3 files</sub><br />
 
+* **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
+  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186519) 61 additions and 1 deletion in 6 files</sub><br />
+
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Filter macOS LogStore xcodebuild noise<br />
   <sub>[#186521](https://github.com/flutter/flutter/pull/186521) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186521) 20 additions and 0 deletions in 2 files</sub><br />
 
