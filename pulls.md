@@ -129,7 +129,7 @@
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186108) 54 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186108) 54 additions and 7 deletions in 4 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: ignore client customTool in debug adapters<br />
   <sub>[#186115](https://github.com/flutter/flutter/pull/186115) opened on on May 6, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/186115) 181 additions and 130 deletions in 8 files</sub><br />
