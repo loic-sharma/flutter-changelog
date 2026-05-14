@@ -215,3 +215,6 @@
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Clip text-selection handles and toolbar to the enclosing viewport<br />
   <sub>[#186491](https://github.com/flutter/flutter/pull/186491) opened on on May 14, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186491) 820 additions and 81 deletions in 9 files</sub><br />
 
+* **[mvincentong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
+  <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186501) 47 additions and 1 deletion in 2 files</sub><br />
+
