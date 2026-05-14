@@ -180,7 +180,7 @@
   <sub>[#186389](https://github.com/flutter/flutter/pull/186389) opened on on May 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186389) 83 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix several WebParagraph bugs<br />
-  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/186403) 270 additions and 174 deletions in 9 files</sub><br />
+  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186403) 271 additions and 170 deletions in 8 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
   <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186409) 20 additions and 34 deletions in 13 files</sub><br />
@@ -207,7 +207,7 @@
   <sub>[#186475](https://github.com/flutter/flutter/pull/186475) opened on on May 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186475) 4 additions and 4 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Stop generating widget preview scaffold under $TMP<br />
-  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186476) 209 additions and 53 deletions in 14 files</sub><br />
+  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186476) 210 additions and 53 deletions in 15 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix state leak in `TestRenderingFlutterBinding` using `addTearDown`<br />
   <sub>[#186483](https://github.com/flutter/flutter/pull/186483) opened on on May 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186483) 58 additions and 2 deletions in 2 files</sub><br />
@@ -222,7 +222,7 @@
   <sub>[#186503](https://github.com/flutter/flutter/pull/186503) opened on on May 14, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186503) 1412 additions and 17 deletions in 17 files</sub><br />
 
 * **[Ibrar Ahmad](https://github.com/IbrarIlyas)** &mdash; Fix AnimatedList.separated.removeItem during in-flight remove animation<br />
-  <sub>[#186508](https://github.com/flutter/flutter/pull/186508) opened on on May 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186508) 115 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#186508](https://github.com/flutter/flutter/pull/186508) opened on on May 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186508) 125 additions and 18 deletions in 2 files</sub><br />
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Read FLTEnableWideGamut from Dart bundle<br />
   <sub>[#186509](https://github.com/flutter/flutter/pull/186509) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186509) 41 additions and 1 deletion in 3 files</sub><br />
@@ -246,8 +246,14 @@
   <sub>[#186521](https://github.com/flutter/flutter/pull/186521) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186521) 20 additions and 0 deletions in 2 files</sub><br />
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Validate dart define file newlines<br />
-  <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 37 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 73 additions and 0 deletions in 2 files</sub><br />
 
 * **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples: fix IndexedStack dispose memory leak<br />
   <sub>[#186524](https://github.com/flutter/flutter/pull/186524) opened on on May 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186524) 6 additions and 0 deletions in 1 file</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes bringup from passing macos/sdf tests<br />
+  <sub>[#186527](https://github.com/flutter/flutter/pull/186527) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186527) 0 additions and 3 deletions in 1 file</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dart_skills_lint dependency to e449787 and optimize skills validation test<br />
+  <sub>[#186528](https://github.com/flutter/flutter/pull/186528) opened on on May 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186528) 27 additions and 13 deletions in 4 files</sub><br />
 
