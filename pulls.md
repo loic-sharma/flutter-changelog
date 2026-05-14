@@ -111,7 +111,7 @@
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
-  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/186028) 200 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tools] Add doctor validator warning for multiple adb installations<br />
   <sub>[#186031](https://github.com/flutter/flutter/pull/186031) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186031) 131 additions and 0 deletions in 3 files</sub><br />
@@ -216,5 +216,8 @@
   <sub>[#186491](https://github.com/flutter/flutter/pull/186491) opened on on May 14, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186491) 820 additions and 81 deletions in 9 files</sub><br />
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
-  <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186501) 47 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
+
+* **[mvincentong](https://github.com/mvincentong)** &mdash; Remove Cupertino semantics tester cross-imports<br />
+  <sub>[#186503](https://github.com/flutter/flutter/pull/186503) opened on on May 14, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186503) 1412 additions and 17 deletions in 17 files</sub><br />
 
