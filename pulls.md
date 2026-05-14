@@ -221,3 +221,9 @@
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Remove Cupertino semantics tester cross-imports<br />
   <sub>[#186503](https://github.com/flutter/flutter/pull/186503) opened on on May 14, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186503) 1412 additions and 17 deletions in 17 files</sub><br />
 
+* **[Ibrar Ahmad](https://github.com/IbrarIlyas)** &mdash; Fix AnimatedList.separated.removeItem during in-flight remove animation<br />
+  <sub>[#186508](https://github.com/flutter/flutter/pull/186508) opened on on May 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186508) 115 additions and 13 deletions in 2 files</sub><br />
+
+* **[mvincentong](https://github.com/mvincentong)** &mdash; Read FLTEnableWideGamut from Dart bundle<br />
+  <sub>[#186509](https://github.com/flutter/flutter/pull/186509) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186509) 41 additions and 1 deletion in 3 files</sub><br />
+
