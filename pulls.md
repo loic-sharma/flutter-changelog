@@ -212,6 +212,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix state leak in `TestRenderingFlutterBinding` using `addTearDown`<br />
   <sub>[#186483](https://github.com/flutter/flutter/pull/186483) opened on on May 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186483) 58 additions and 2 deletions in 2 files</sub><br />
 
-* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; feat: Enhance overlay management for text selection and context menus<br />
-  <sub>[#186491](https://github.com/flutter/flutter/pull/186491) opened on on May 14, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/186491) 820 additions and 81 deletions in 9 files</sub><br />
+* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Clip text-selection handles and toolbar to the enclosing viewport<br />
+  <sub>[#186491](https://github.com/flutter/flutter/pull/186491) opened on on May 14, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186491) 820 additions and 81 deletions in 9 files</sub><br />
 
