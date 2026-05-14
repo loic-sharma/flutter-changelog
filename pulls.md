@@ -66,7 +66,7 @@
   <sub>[#185521](https://github.com/flutter/flutter/pull/185521) opened on on April 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185521) 11 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
-  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/185534) 1080 additions and 201 deletions in 12 files</sub><br />
+  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/185534) 1083 additions and 218 deletions in 13 files</sub><br />
 
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
@@ -211,4 +211,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix state leak in `TestRenderingFlutterBinding` using `addTearDown`<br />
   <sub>[#186483](https://github.com/flutter/flutter/pull/186483) opened on on May 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186483) 58 additions and 2 deletions in 2 files</sub><br />
+
+* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; feat: Enhance overlay management for text selection and context menus<br />
+  <sub>[#186491](https://github.com/flutter/flutter/pull/186491) opened on on May 14, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/186491) 820 additions and 81 deletions in 9 files</sub><br />
 
