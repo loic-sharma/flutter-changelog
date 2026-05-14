@@ -44,9 +44,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [Windows] Propagate the enabled accessibility state<br />
-  <sub>[#184501](https://github.com/flutter/flutter/pull/184501) opened on on April 2, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/184501) 149 additions and 3 deletions in 5 files</sub><br />
-
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove list_tile_tester and rendering_tester cross-imports from cupertino tests<br />
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184588) 36 additions and 45 deletions in 3 files</sub><br />
 
