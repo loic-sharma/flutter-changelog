@@ -194,9 +194,6 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move prefetchSwiftPackages to be per platform<br />
-  <sub>[#186468](https://github.com/flutter/flutter/pull/186468) opened on on May 13, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/186468) 654 additions and 542 deletions in 7 files</sub><br />
-
 * **[YounesseAmhend](https://github.com/YounesseAmhend)** &mdash; Remove semantics_tester and feedback_tester cross-imports from materi…<br />
   <sub>[#186473](https://github.com/flutter/flutter/pull/186473) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186473) 111 additions and 60 deletions in 48 files</sub><br />
 
@@ -218,9 +215,6 @@
 * **[Ibrar Ahmad](https://github.com/IbrarIlyas)** &mdash; Fix AnimatedList.separated.removeItem during in-flight remove animation<br />
   <sub>[#186508](https://github.com/flutter/flutter/pull/186508) opened on on May 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186508) 125 additions and 18 deletions in 2 files</sub><br />
 
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Read FLTEnableWideGamut from Dart bundle<br />
-  <sub>[#186509](https://github.com/flutter/flutter/pull/186509) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186509) 41 additions and 1 deletion in 3 files</sub><br />
-
 * **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples/indexed_stack: dispose TextEditingController<br />
   <sub>[#186512](https://github.com/flutter/flutter/pull/186512) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186512) 5 additions and 0 deletions in 1 file</sub><br />
 
@@ -237,10 +231,7 @@
   <sub>[#186517](https://github.com/flutter/flutter/pull/186517) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186517) 81 additions and 46 deletions in 3 files</sub><br />
 
 * **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
-  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186519) 61 additions and 1 deletion in 6 files</sub><br />
-
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Filter macOS LogStore xcodebuild noise<br />
-  <sub>[#186521](https://github.com/flutter/flutter/pull/186521) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186521) 20 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186519) 68 additions and 1 deletion in 7 files</sub><br />
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Validate dart define file newlines<br />
   <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 73 additions and 0 deletions in 2 files</sub><br />
