@@ -168,7 +168,7 @@
   <sub>[#186253](https://github.com/flutter/flutter/pull/186253) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186253) 92 additions and 12 deletions in 2 files</sub><br />
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: explain why each candidate build was skipped in Flutter web loader<br />
-  <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186254) 58 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186254) 58 additions and 9 deletions in 1 file</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix `pub get` resolving wrong path in pub workspaces<br />
   <sub>[#186301](https://github.com/flutter/flutter/pull/186301) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186301) 52 additions and 1 deletion in 2 files</sub><br />
@@ -262,4 +262,7 @@
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Scope NavigationBar sample ScaffoldMessenger<br />
   <sub>[#186533](https://github.com/flutter/flutter/pull/186533) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186533) 59 additions and 19 deletions in 2 files</sub><br />
+
+* **[Maxim Savin](https://github.com/soulman-is-good)** &mdash; Fix HostBuffer.emplace overflow at block boundary<br />
+  <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186539) 50 additions and 1 deletion in 2 files</sub><br />
 
