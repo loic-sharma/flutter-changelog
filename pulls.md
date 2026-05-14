@@ -227,15 +227,27 @@
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Read FLTEnableWideGamut from Dart bundle<br />
   <sub>[#186509](https://github.com/flutter/flutter/pull/186509) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186509) 41 additions and 1 deletion in 3 files</sub><br />
 
-* **[trippusultan](https://github.com/trippusultan)** &mdash; examples/indexed_stack: dispose TextEditingController<br />
+* **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples/indexed_stack: dispose TextEditingController<br />
   <sub>[#186512](https://github.com/flutter/flutter/pull/186512) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186512) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[trippusultan](https://github.com/trippusultan)** &mdash; TestSemantics: Fix three typo bugs<br />
+* **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; TestSemantics: Fix three typo bugs<br />
   <sub>[#186513](https://github.com/flutter/flutter/pull/186513) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186513) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Preserve web drive target paths outside lib<br />
   <sub>[#186515](https://github.com/flutter/flutter/pull/186515) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186515) 103 additions and 6 deletions in 2 files</sub><br />
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Honor animateTo timing in TabBarView<br />
-  <sub>[#186516](https://github.com/flutter/flutter/pull/186516) opened on on May 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186516) 185 additions and 25 deletions in 2 files</sub><br />
+  <sub>[#186516](https://github.com/flutter/flutter/pull/186516) opened on on May 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186516) 188 additions and 24 deletions in 2 files</sub><br />
+
+* **[mvincentong](https://github.com/mvincentong)** &mdash; Simplify AbsorbPointer sample<br />
+  <sub>[#186517](https://github.com/flutter/flutter/pull/186517) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186517) 81 additions and 46 deletions in 3 files</sub><br />
+
+* **[mvincentong](https://github.com/mvincentong)** &mdash; Filter macOS LogStore xcodebuild noise<br />
+  <sub>[#186521](https://github.com/flutter/flutter/pull/186521) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186521) 20 additions and 0 deletions in 2 files</sub><br />
+
+* **[mvincentong](https://github.com/mvincentong)** &mdash; Validate dart define file newlines<br />
+  <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 37 additions and 0 deletions in 2 files</sub><br />
+
+* **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples: fix IndexedStack dispose memory leak<br />
+  <sub>[#186524](https://github.com/flutter/flutter/pull/186524) opened on on May 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186524) 6 additions and 0 deletions in 1 file</sub><br />
 
