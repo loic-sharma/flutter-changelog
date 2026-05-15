@@ -255,7 +255,7 @@
   <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186539) 49 additions and 1 deletion in 2 files</sub><br />
 
 * **[Bilal Rehman](https://github.com/BilalRehman08)** &mdash; Add visible focus ring for keyboard-focused semantics nodes<br />
-  <sub>[#186540](https://github.com/flutter/flutter/pull/186540) opened on on May 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186540) 82 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#186540](https://github.com/flutter/flutter/pull/186540) opened on on May 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186540) 85 additions and 0 deletions in 3 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify route transition animations<br />
   <sub>[#186552](https://github.com/flutter/flutter/pull/186552) opened on on May 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186552) 18 additions and 0 deletions in 2 files</sub><br />
