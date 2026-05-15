@@ -269,3 +269,6 @@
 * **[Jules Blok](https://github.com/CrossVR)** &mdash; os.dart: Switch the codepage to UTF-8 when calling where.exe<br />
   <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to 4c525dac5ebe5971c5708ef73558ed8edcf4a362<br />
+  <sub>[#186587](https://github.com/flutter/flutter/pull/186587) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186587) 1 addition and 1 deletion in 1 file</sub><br />
+
