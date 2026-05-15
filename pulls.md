@@ -264,7 +264,7 @@
   <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Fix version cache poisoning from git environment variables<br />
-  <sub>[#186595](https://github.com/flutter/flutter/pull/186595) opened on on May 15, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186595) 573 additions and 267 deletions in 4 files</sub><br />
+  <sub>[#186595](https://github.com/flutter/flutter/pull/186595) opened on on May 15, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186595) 563 additions and 267 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug when changing accessibilityFocusBlockType doesn't update ch…<br />
   <sub>[#186596](https://github.com/flutter/flutter/pull/186596) opened on on May 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186596) 34 additions and 0 deletions in 2 files</sub><br />
