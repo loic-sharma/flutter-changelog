@@ -156,7 +156,7 @@
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) opened on on May 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186216) 23 additions and 12 deletions in 1 file</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Allow building projects lacking Runner.xcworkspace<br />
-  <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186239) 76 additions and 70 deletions in 5 files</sub><br />
+  <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186239) 77 additions and 74 deletions in 5 files</sub><br />
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImage.fadeInOver constructor to skip placeholder fade-out<br />
   <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186246) 252 additions and 38 deletions in 2 files</sub><br />
@@ -267,5 +267,11 @@
   <sub>[#186558](https://github.com/flutter/flutter/pull/186558) opened on on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186558) 72 additions and 15 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add/remove overlay child RenderObject from the tree in `attach`/`detach`<br />
-  <sub>[#186564](https://github.com/flutter/flutter/pull/186564) opened on on May 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186564) 193 additions and 68 deletions in 3 files</sub><br />
+  <sub>[#186564](https://github.com/flutter/flutter/pull/186564) opened on on May 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186564) 193 additions and 68 deletions in 3 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Restore Material PageRouteBuilder barrier goldens<br />
+  <sub>[#186566](https://github.com/flutter/flutter/pull/186566) opened on on May 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186566) 105 additions and 0 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify GLFW example platform support<br />
+  <sub>[#186568](https://github.com/flutter/flutter/pull/186568) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186568) 7 additions and 4 deletions in 1 file</sub><br />
 
