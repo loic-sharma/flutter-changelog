@@ -976,12 +976,16 @@
 
 ### May 9, 2026 to May 15, 2026
 
-5 commits.
+6 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Inital example of a bare skill that gives contributors their installed mcp servers but only the skills that have been vetted
   <sub>[#13376](https://github.com/flutter/website/pull/13376) merged on May 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13376) over 2 days, 16 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Shams Zakhour](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary><img width="202" height="157" alt="Screenshot 2026-05-08 at 7 06 05 PM" src="https://github.com/user-attachments/assets/3a65459d-916b-4251-970c-7dff88ecbcf2" /></details></sub>
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Preliminary 3.44 release notes
+  <sub>[#13385](https://github.com/flutter/website/pull/13385) merged on May 15, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/website/pull/13385) over 1 day, 1011 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add contributor ladder doc
   <sub>[#13381](https://github.com/flutter/website/pull/13381) merged on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13381) over 21 minutes, 1 addition and 0 deletions in 1 file</sub>
