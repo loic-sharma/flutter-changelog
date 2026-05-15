@@ -275,3 +275,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify GLFW example platform support<br />
   <sub>[#186568](https://github.com/flutter/flutter/pull/186568) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186568) 7 additions and 4 deletions in 1 file</sub><br />
 
+* **[Jules Blok](https://github.com/CrossVR)** &mdash; os.dart: Switch the codepage to UTF-8 when calling where.exe<br />
+  <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
+
