@@ -249,7 +249,7 @@
   <sub>[#186529](https://github.com/flutter/flutter/pull/186529) opened on on May 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186529) 175 additions and 102 deletions in 4 files</sub><br />
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Scope NavigationBar sample ScaffoldMessenger<br />
-  <sub>[#186533](https://github.com/flutter/flutter/pull/186533) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186533) 59 additions and 19 deletions in 2 files</sub><br />
+  <sub>[#186533](https://github.com/flutter/flutter/pull/186533) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186533) 62 additions and 19 deletions in 2 files</sub><br />
 
 * **[Maxim Savin](https://github.com/soulman-is-good)** &mdash; Fix HostBuffer.emplace overflow at block boundary<br />
   <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186539) 49 additions and 1 deletion in 2 files</sub><br />
@@ -258,5 +258,8 @@
   <sub>[#186540](https://github.com/flutter/flutter/pull/186540) opened on on May 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186540) 82 additions and 0 deletions in 3 files</sub><br />
 
 * **[mvincentong](https://github.com/mvincentong)** &mdash; Clarify route transition animations<br />
-  <sub>[#186552](https://github.com/flutter/flutter/pull/186552) opened on on May 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186552) 16 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186552](https://github.com/flutter/flutter/pull/186552) opened on on May 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186552) 18 additions and 0 deletions in 2 files</sub><br />
+
+* **[mvincentong](https://github.com/mvincentong)** &mdash; Preserve SelectableRegion scope across context menu rebuilds<br />
+  <sub>[#186553](https://github.com/flutter/flutter/pull/186553) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186553) 35 additions and 0 deletions in 2 files</sub><br />
 
