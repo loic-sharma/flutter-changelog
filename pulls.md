@@ -186,7 +186,7 @@
   <sub>[#186420](https://github.com/flutter/flutter/pull/186420) opened on on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186420) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve zoom behavior and add zoom slider<br />
-  <sub>[#186422](https://github.com/flutter/flutter/pull/186422) opened on on May 12, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/186422) 642 additions and 108 deletions in 9 files</sub><br />
+  <sub>[#186422](https://github.com/flutter/flutter/pull/186422) opened on on May 12, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/186422) 654 additions and 108 deletions in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix inspector split resize focus loss over WebViews<br />
   <sub>[#186432](https://github.com/flutter/flutter/pull/186432) opened on on May 13, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/186432) 337 additions and 0 deletions in 10 files</sub><br />
