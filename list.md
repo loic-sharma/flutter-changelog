@@ -791,7 +791,11 @@
 
 ### May 9, 2026 to May 15, 2026
 
-4 commits.
+5 commits.
+
+* **[StefanGilligan](https://github.com/StefanGilligan)** &mdash; [video_player] Fix washed-out HDR video playback on iOS
+  <sub>[#11569](https://github.com/flutter/packages/pull/11569) merged on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11569) over 3 weeks, 53 additions and 15 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Fixes TreeView crash when empty or last node collapsed
   <sub>[#11622](https://github.com/flutter/packages/pull/11622) merged on May 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11622) over 1 week, 174 additions and 24 deletions in 4 files</sub>
