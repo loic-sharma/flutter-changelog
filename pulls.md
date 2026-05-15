@@ -206,10 +206,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix state leak in `TestRenderingFlutterBinding` using `addTearDown`<br />
   <sub>[#186483](https://github.com/flutter/flutter/pull/186483) opened on on May 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186483) 58 additions and 2 deletions in 2 files</sub><br />
 
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
   <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
 
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Remove Cupertino semantics tester cross-imports<br />
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Remove Cupertino semantics tester cross-imports<br />
   <sub>[#186503](https://github.com/flutter/flutter/pull/186503) opened on on May 14, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186503) 1412 additions and 17 deletions in 17 files</sub><br />
 
 * **[Ibrar Ahmad](https://github.com/IbrarIlyas)** &mdash; Fix AnimatedList.separated.removeItem during in-flight remove animation<br />
@@ -221,19 +221,19 @@
 * **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; TestSemantics: Fix three typo bugs<br />
   <sub>[#186513](https://github.com/flutter/flutter/pull/186513) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186513) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Preserve web drive target paths outside lib<br />
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Preserve web drive target paths outside lib<br />
   <sub>[#186515](https://github.com/flutter/flutter/pull/186515) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186515) 103 additions and 6 deletions in 2 files</sub><br />
 
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Honor animateTo timing in TabBarView<br />
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Honor animateTo timing in TabBarView<br />
   <sub>[#186516](https://github.com/flutter/flutter/pull/186516) opened on on May 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186516) 188 additions and 24 deletions in 2 files</sub><br />
 
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Simplify AbsorbPointer sample<br />
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Simplify AbsorbPointer sample<br />
   <sub>[#186517](https://github.com/flutter/flutter/pull/186517) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186517) 81 additions and 46 deletions in 3 files</sub><br />
 
 * **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
   <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186519) 68 additions and 1 deletion in 7 files</sub><br />
 
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Validate dart define file newlines<br />
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Validate dart define file newlines<br />
   <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 73 additions and 0 deletions in 2 files</sub><br />
 
 * **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples: fix IndexedStack dispose memory leak<br />
@@ -245,10 +245,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dart_skills_lint dependency to e449787 and optimize skills validation test<br />
   <sub>[#186528](https://github.com/flutter/flutter/pull/186528) opened on on May 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186528) 28 additions and 12 deletions in 4 files</sub><br />
 
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Apply ScrollbarTheme to iOS Scrollbar<br />
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Apply ScrollbarTheme to iOS Scrollbar<br />
   <sub>[#186529](https://github.com/flutter/flutter/pull/186529) opened on on May 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186529) 175 additions and 102 deletions in 4 files</sub><br />
 
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Scope NavigationBar sample ScaffoldMessenger<br />
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Scope NavigationBar sample ScaffoldMessenger<br />
   <sub>[#186533](https://github.com/flutter/flutter/pull/186533) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186533) 62 additions and 19 deletions in 2 files</sub><br />
 
 * **[Maxim Savin](https://github.com/soulman-is-good)** &mdash; Fix HostBuffer.emplace overflow at block boundary<br />
@@ -257,9 +257,12 @@
 * **[Bilal Rehman](https://github.com/BilalRehman08)** &mdash; Add visible focus ring for keyboard-focused semantics nodes<br />
   <sub>[#186540](https://github.com/flutter/flutter/pull/186540) opened on on May 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186540) 82 additions and 0 deletions in 3 files</sub><br />
 
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Clarify route transition animations<br />
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify route transition animations<br />
   <sub>[#186552](https://github.com/flutter/flutter/pull/186552) opened on on May 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186552) 18 additions and 0 deletions in 2 files</sub><br />
 
-* **[mvincentong](https://github.com/mvincentong)** &mdash; Preserve SelectableRegion scope across context menu rebuilds<br />
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Preserve SelectableRegion scope across context menu rebuilds<br />
   <sub>[#186553](https://github.com/flutter/flutter/pull/186553) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186553) 35 additions and 0 deletions in 2 files</sub><br />
+
+* **[Dhananjay Aggarwal](https://github.com/dhananjay6561)** &mdash; [iOS] Fix implicit engine missing didFinishLaunching and sceneWillConnect events<br />
+  <sub>[#186558](https://github.com/flutter/flutter/pull/186558) opened on on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186558) 72 additions and 15 deletions in 3 files</sub><br />
 
