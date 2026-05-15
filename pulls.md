@@ -263,9 +263,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Preserve SelectableRegion scope across context menu rebuilds<br />
   <sub>[#186553](https://github.com/flutter/flutter/pull/186553) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186553) 38 additions and 0 deletions in 2 files</sub><br />
 
-* **[Dhananjay Aggarwal](https://github.com/dhananjay6561)** &mdash; [iOS] Fix implicit engine missing didFinishLaunching and sceneWillConnect events<br />
-  <sub>[#186558](https://github.com/flutter/flutter/pull/186558) opened on on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186558) 72 additions and 15 deletions in 3 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add/remove overlay child RenderObject from the tree in `attach`/`detach`<br />
   <sub>[#186564](https://github.com/flutter/flutter/pull/186564) opened on on May 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186564) 193 additions and 68 deletions in 3 files</sub><br />
 
