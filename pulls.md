@@ -168,7 +168,7 @@
   <sub>[#186253](https://github.com/flutter/flutter/pull/186253) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186253) 92 additions and 12 deletions in 2 files</sub><br />
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: explain why each candidate build was skipped in Flutter web loader<br />
-  <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186254) 46 additions and 10 deletions in 1 file</sub><br />
+  <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186254) 47 additions and 11 deletions in 1 file</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Fix `pub get` resolving wrong path in pub workspaces<br />
   <sub>[#186301](https://github.com/flutter/flutter/pull/186301) opened on on May 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186301) 52 additions and 1 deletion in 2 files</sub><br />
@@ -261,8 +261,11 @@
   <sub>[#186552](https://github.com/flutter/flutter/pull/186552) opened on on May 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186552) 18 additions and 0 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Preserve SelectableRegion scope across context menu rebuilds<br />
-  <sub>[#186553](https://github.com/flutter/flutter/pull/186553) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186553) 35 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186553](https://github.com/flutter/flutter/pull/186553) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186553) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Dhananjay Aggarwal](https://github.com/dhananjay6561)** &mdash; [iOS] Fix implicit engine missing didFinishLaunching and sceneWillConnect events<br />
   <sub>[#186558](https://github.com/flutter/flutter/pull/186558) opened on on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186558) 72 additions and 15 deletions in 3 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add/remove overlay child RenderObject from the tree in `attach`/`detach`<br />
+  <sub>[#186564](https://github.com/flutter/flutter/pull/186564) opened on on May 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186564) 193 additions and 68 deletions in 3 files</sub><br />
 
