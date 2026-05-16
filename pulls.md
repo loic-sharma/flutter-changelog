@@ -269,3 +269,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material import from scrollable_semantics_test and selectable_region_context_menu_test<br />
   <sub>[#186611](https://github.com/flutter/flutter/pull/186611) opened on on May 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186611) 43 additions and 25 deletions in 3 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add examples of using drawImage<br />
+  <sub>[#186612](https://github.com/flutter/flutter/pull/186612) opened on on May 16, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186612) 229 additions and 0 deletions in 1 file</sub><br />
+
