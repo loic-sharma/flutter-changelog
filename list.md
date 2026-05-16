@@ -4,7 +4,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-48 commits.
+49 commits.
 
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) merged on May 15, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/183838) over 1 month, 193 additions and 11 deletions in 10 files</sub>
@@ -75,9 +75,9 @@
   <sub>[#186116](https://github.com/flutter/flutter/pull/186116) merged on May 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186116) over 1 week, 58 additions and 17 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Pass XcodeBasedProject instead of String to functions in XcodeProjectInterpreter
-  <sub>[#186378](https://github.com/flutter/flutter/pull/186378) merged on May 12, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186378) over 15 hours, 481 additions and 502 deletions in 23 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+* **[Bilal Rehman](https://github.com/BilalRehman08)** &mdash; Dispose TextEditingController in IndexedStack example
+  <sub>[#186375](https://github.com/flutter/flutter/pull/186375) merged on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186375) over 4 days, 6 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/flutter/pull/186375)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] update no-response workflow to also look for old label name in e…
   <sub>[#186373](https://github.com/flutter/flutter/pull/186373) merged on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186373) over 1 hour, 9 additions and 2 deletions in 1 file</sub>
@@ -91,9 +91,9 @@
   <sub>[#184501](https://github.com/flutter/flutter/pull/184501) merged on May 13, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/184501) over 1 month, 149 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
-* **[Bilal Rehman](https://github.com/BilalRehman08)** &mdash; Dispose TextEditingController in IndexedStack example
-  <sub>[#186375](https://github.com/flutter/flutter/pull/186375) merged on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186375) over 4 days, 6 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/flutter/pull/186375)</sub>
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Pass XcodeBasedProject instead of String to functions in XcodeProjectInterpreter
+  <sub>[#186378](https://github.com/flutter/flutter/pull/186378) merged on May 12, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186378) over 15 hours, 481 additions and 502 deletions in 23 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Improve documentation on FlutterVSyncClient and FlutterDisplayLink
   <sub>[#186456](https://github.com/flutter/flutter/pull/186456) merged on May 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186456) over 2 days, 64 additions and 8 deletions in 2 files</sub>
@@ -123,17 +123,13 @@
   <sub>[#185632](https://github.com/flutter/flutter/pull/185632) merged on May 11, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185632) over 1 week, 159 additions and 17 deletions in 4 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [gn] Fix typo in comment
+  <sub>[#186549](https://github.com/flutter/flutter/pull/186549) merged on May 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186549) over 1 day, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes bringup from passing macos/sdf tests
   <sub>[#186527](https://github.com/flutter/flutter/pull/186527) merged on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186527) over 1 day, 0 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Andy Wolff](https://github.com/andywolff), [b-luk](https://github.com/b-luk)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Increase the run time of text field integration tests to 10 seconds
-  <sub>[#186475](https://github.com/flutter/flutter/pull/186475) merged on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186475) over 2 days, 4 additions and 4 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task build cacheable
-  <sub>[#185903](https://github.com/flutter/flutter/pull/185903) merged on May 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185903) over 1 week, 72 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add 'cp: review' label to the manual cherrypick process
   <sub>[#186158](https://github.com/flutter/flutter/pull/186158) merged on May 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186158) over 5 days, 1 addition and 0 deletions in 1 file</sub>
@@ -142,6 +138,14 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update iOS scenario app test goldens to match changes from https://github.com/flutter/flutter/pull/182662
   <sub>[#186390](https://github.com/flutter/flutter/pull/186390) merged on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186390) over 7 hours, 0 additions and 0 deletions in 9 files</sub>
   <sub>Reviewed by: [b-luk](https://github.com/b-luk)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Increase the run time of text field integration tests to 10 seconds
+  <sub>[#186475](https://github.com/flutter/flutter/pull/186475) merged on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186475) over 2 days, 4 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Make DeepLinkJsonFromManifestTask Gradle task build cacheable
+  <sub>[#185903](https://github.com/flutter/flutter/pull/185903) merged on May 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185903) over 1 week, 72 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Flutter Gallery web app template files to support running with Wasm
   <sub>[#186268](https://github.com/flutter/flutter/pull/186268) merged on May 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186268) over 4 days, 29 additions and 4 deletions in 2 files</sub>
