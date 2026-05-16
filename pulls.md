@@ -207,10 +207,10 @@
   <sub>[#186513](https://github.com/flutter/flutter/pull/186513) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186513) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Preserve web drive target paths outside lib<br />
-  <sub>[#186515](https://github.com/flutter/flutter/pull/186515) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186515) 103 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#186515](https://github.com/flutter/flutter/pull/186515) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186515) 103 additions and 10 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Honor animateTo timing in TabBarView<br />
-  <sub>[#186516](https://github.com/flutter/flutter/pull/186516) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186516) 188 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#186516](https://github.com/flutter/flutter/pull/186516) opened on on May 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186516) 171 additions and 7 deletions in 4 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Simplify AbsorbPointer sample<br />
   <sub>[#186517](https://github.com/flutter/flutter/pull/186517) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186517) 81 additions and 46 deletions in 3 files</sub><br />
@@ -259,4 +259,10 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug when changing accessibilityFocusBlockType doesn't update ch…<br />
   <sub>[#186596](https://github.com/flutter/flutter/pull/186596) opened on on May 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186596) 34 additions and 0 deletions in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Allow target platform override teardown in widget tests<br />
+  <sub>[#186604](https://github.com/flutter/flutter/pull/186604) opened on on May 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186604) 54 additions and 5 deletions in 4 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Restore ANSI colors from iOS simulator logs<br />
+  <sub>[#186605](https://github.com/flutter/flutter/pull/186605) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186605) 81 additions and 1 deletion in 2 files</sub><br />
 
