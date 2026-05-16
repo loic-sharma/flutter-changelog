@@ -275,3 +275,9 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve docs on MediaQuery: highContrast, invertColors and disableAnimations<br />
   <sub>[#186614](https://github.com/flutter/flutter/pull/186614) opened on on May 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186614) 39 additions and 5 deletions in 1 file</sub><br />
 
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Remove Material import from view chrome style test<br />
+  <sub>[#186615](https://github.com/flutter/flutter/pull/186615) opened on on May 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186615) 59 additions and 63 deletions in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify transparent Material InkWell docs<br />
+  <sub>[#186616](https://github.com/flutter/flutter/pull/186616) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186616) 6 additions and 6 deletions in 1 file</sub><br />
+
