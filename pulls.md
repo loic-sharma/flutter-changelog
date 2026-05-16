@@ -188,9 +188,6 @@
 * **[YounesseAmhend](https://github.com/YounesseAmhend)** &mdash; Remove semantics_tester and feedback_tester cross-imports from materi…<br />
   <sub>[#186473](https://github.com/flutter/flutter/pull/186473) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186473) 111 additions and 60 deletions in 48 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Increase the run time of text field integration tests to 10 seconds<br />
-  <sub>[#186475](https://github.com/flutter/flutter/pull/186475) opened on on May 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186475) 4 additions and 4 deletions in 4 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Stop generating widget preview scaffold under $TMP<br />
   <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186476) 210 additions and 53 deletions in 15 files</sub><br />
 
