@@ -302,3 +302,6 @@
 * **[Muhammet Enes Ilhan](https://github.com/xlash5)** &mdash; Expose selectionHeightStyle and selectionWidthStyle on SelectionArea<br />
   <sub>[#186630](https://github.com/flutter/flutter/pull/186630) opened on on May 16, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/186630) 3382 additions and 780 deletions in 189 files</sub><br />
 
+* **[Muhammet Enes Ilhan](https://github.com/xlash5)** &mdash; [about] Add excludePackages parameter to license display APIs<br />
+  <sub>[#186632](https://github.com/flutter/flutter/pull/186632) opened on on May 16, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186632) 459 additions and 10 deletions in 5 files</sub><br />
+
