@@ -281,3 +281,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify transparent Material InkWell docs<br />
   <sub>[#186616](https://github.com/flutter/flutter/pull/186616) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186616) 6 additions and 6 deletions in 1 file</sub><br />
 
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Assert TextStyle height is not NaN<br />
+  <sub>[#186617](https://github.com/flutter/flutter/pull/186617) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186617) 29 additions and 1 deletion in 2 files</sub><br />
+
