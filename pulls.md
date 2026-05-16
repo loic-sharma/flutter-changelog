@@ -80,7 +80,7 @@
 * **[Nikolay Kirillov](https://github.com/nukeolay)** &mdash; Sanitize Git environment for Flutter SDK git commands<br />
   <sub>[#185929](https://github.com/flutter/flutter/pull/185929) opened on on May 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185929) 180 additions and 4 deletions in 5 files</sub><br />
 
-* **[orbisai0security](https://github.com/orbisai0security)** &mdash; fix: the flutter daemon accepts json-rpc requests ov... in daemon.dart<br />
+* **[OrbisAI Security](https://github.com/orbisai0security)** &mdash; fix: the flutter daemon accepts json-rpc requests ov... in daemon.dart<br />
   <sub>[#185959](https://github.com/flutter/flutter/pull/185959) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185959) 31 additions and 0 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from outlined_button_test.dart<br />
@@ -261,7 +261,7 @@
   <sub>[#186605](https://github.com/flutter/flutter/pull/186605) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186605) 81 additions and 1 deletion in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify WidgetStatesController value snapshots<br />
-  <sub>[#186607](https://github.com/flutter/flutter/pull/186607) opened on on May 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186607) 10 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#186607](https://github.com/flutter/flutter/pull/186607) opened on on May 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186607) 12 additions and 1 deletion in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT MERGE: support both x64 and arm64 clang toolchains on mac hosts<br />
   <sub>[#186610](https://github.com/flutter/flutter/pull/186610) opened on on May 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186610) 73 additions and 20 deletions in 10 files</sub><br />
@@ -270,5 +270,8 @@
   <sub>[#186611](https://github.com/flutter/flutter/pull/186611) opened on on May 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186611) 43 additions and 25 deletions in 3 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add examples of using drawImage<br />
-  <sub>[#186612](https://github.com/flutter/flutter/pull/186612) opened on on May 16, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186612) 229 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#186612](https://github.com/flutter/flutter/pull/186612) opened on on May 16, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/186612) 234 additions and 0 deletions in 1 file</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve docs on MediaQuery: highContrast, invertColors and disableAnimations<br />
+  <sub>[#186614](https://github.com/flutter/flutter/pull/186614) opened on on May 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186614) 39 additions and 5 deletions in 1 file</sub><br />
 
