@@ -290,3 +290,6 @@
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Move routes_transition_test to material<br />
   <sub>[#186620](https://github.com/flutter/flutter/pull/186620) opened on on May 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186620) 0 additions and 0 deletions in 1 file</sub><br />
 
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from scrollable semantics test<br />
+  <sub>[#186623](https://github.com/flutter/flutter/pull/186623) opened on on May 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186623) 57 additions and 46 deletions in 1 file</sub><br />
+
