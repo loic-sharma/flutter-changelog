@@ -299,3 +299,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from widget app tests<br />
   <sub>[#186626](https://github.com/flutter/flutter/pull/186626) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186626) 116 additions and 37 deletions in 2 files</sub><br />
 
+* **[Muhammet Enes Ilhan](https://github.com/xlash5)** &mdash; Expose selectionHeightStyle and selectionWidthStyle on SelectionArea<br />
+  <sub>[#186630](https://github.com/flutter/flutter/pull/186630) opened on on May 16, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/186630) 3428 additions and 826 deletions in 193 files</sub><br />
+
