@@ -173,9 +173,6 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix several WebParagraph bugs<br />
-  <sub>[#186403](https://github.com/flutter/flutter/pull/186403) opened on on May 12, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/186403) 271 additions and 170 deletions in 8 files</sub><br />
-
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
   <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186409) 20 additions and 34 deletions in 13 files</sub><br />
 
@@ -265,4 +262,10 @@
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Restore ANSI colors from iOS simulator logs<br />
   <sub>[#186605](https://github.com/flutter/flutter/pull/186605) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186605) 81 additions and 1 deletion in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify WidgetStatesController value snapshots<br />
+  <sub>[#186607](https://github.com/flutter/flutter/pull/186607) opened on on May 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186607) 10 additions and 1 deletion in 1 file</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT MERGE: support both x64 and arm64 clang toolchains on mac hosts<br />
+  <sub>[#186610](https://github.com/flutter/flutter/pull/186610) opened on on May 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186610) 73 additions and 20 deletions in 10 files</sub><br />
 
