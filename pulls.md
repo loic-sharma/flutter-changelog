@@ -35,9 +35,6 @@
 * **[Oleh Konko](https://github.com/1seal)** &mdash; engine apng: reject short fdAT chunk lengths<br />
   <sub>[#183180](https://github.com/flutter/flutter/pull/183180) opened on on March 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/183180) 37 additions and 0 deletions in 4 files</sub><br />
 
-* **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib<br />
-  <sub>[#183838](https://github.com/flutter/flutter/pull/183838) opened on on March 18, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/183838) 193 additions and 11 deletions in 10 files</sub><br />
-
 * **[mohammadmseet-hue](https://github.com/mohammadmseet-hue)** &mdash; Reject fdAT chunks with data_length < 4 in APNG parser to prevent heap overflow<br />
   <sub>[#184301](https://github.com/flutter/flutter/pull/184301) opened on on March 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/184301) 216 additions and 0 deletions in 3 files</sub><br />
 
@@ -233,9 +230,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes bringup from passing macos/sdf tests<br />
   <sub>[#186527](https://github.com/flutter/flutter/pull/186527) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186527) 0 additions and 3 deletions in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update dart_skills_lint dependency to e449787 and optimize skills validation test<br />
-  <sub>[#186528](https://github.com/flutter/flutter/pull/186528) opened on on May 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186528) 28 additions and 12 deletions in 4 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Apply ScrollbarTheme to iOS Scrollbar<br />
   <sub>[#186529](https://github.com/flutter/flutter/pull/186529) opened on on May 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186529) 175 additions and 102 deletions in 4 files</sub><br />
 
@@ -264,7 +258,7 @@
   <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Fix version cache poisoning from git environment variables<br />
-  <sub>[#186595](https://github.com/flutter/flutter/pull/186595) opened on on May 15, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186595) 563 additions and 267 deletions in 4 files</sub><br />
+  <sub>[#186595](https://github.com/flutter/flutter/pull/186595) opened on on May 15, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186595) 566 additions and 270 deletions in 5 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug when changing accessibilityFocusBlockType doesn't update ch…<br />
   <sub>[#186596](https://github.com/flutter/flutter/pull/186596) opened on on May 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186596) 34 additions and 0 deletions in 2 files</sub><br />
