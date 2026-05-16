@@ -144,7 +144,7 @@
   <sub>[#186184](https://github.com/flutter/flutter/pull/186184) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186184) 100 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Use super parameters in missed spots<br />
-  <sub>[#186197](https://github.com/flutter/flutter/pull/186197) opened on on May 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186197) 4 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#186197](https://github.com/flutter/flutter/pull/186197) opened on on May 7, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/186197) 327 additions and 388 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Upgrade Flutter Test Apps to AGP 9<br />
   <sub>[#186200](https://github.com/flutter/flutter/pull/186200) opened on on May 7, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/186200) 10550 additions and 9666 deletions in 166 files</sub><br />
@@ -295,4 +295,7 @@
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from navigator restoration test<br />
   <sub>[#186624](https://github.com/flutter/flutter/pull/186624) opened on on May 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186624) 24 additions and 11 deletions in 1 file</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from widget app tests<br />
+  <sub>[#186626](https://github.com/flutter/flutter/pull/186626) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186626) 102 additions and 37 deletions in 2 files</sub><br />
 
