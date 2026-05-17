@@ -341,3 +341,9 @@
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; Navigator: Surface an actionable error when build runs with empty history (#158182)<br />
   <sub>[#186649](https://github.com/flutter/flutter/pull/186649) opened on on May 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186649) 60 additions and 1 deletion in 2 files</sub><br />
 
+* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; [flutter_tools] Honor "optional": true on ARB placeholders (#177158)<br />
+  <sub>[#186650](https://github.com/flutter/flutter/pull/186650) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186650) 59 additions and 2 deletions in 3 files</sub><br />
+
+* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; Drop stale TextStyle.package when fontFamily changes via copyWith/apply/merge (#108230)<br />
+  <sub>[#186651](https://github.com/flutter/flutter/pull/186651) opened on on May 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186651) 44 additions and 2 deletions in 2 files</sub><br />
+
