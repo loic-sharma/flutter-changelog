@@ -305,3 +305,6 @@
 * **[Muhammet Enes Ilhan](https://github.com/xlash5)** &mdash; [about] Add excludePackages parameter to license display APIs<br />
   <sub>[#186632](https://github.com/flutter/flutter/pull/186632) opened on on May 16, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186632) 459 additions and 10 deletions in 5 files</sub><br />
 
+* **[Vantimitta](https://github.com/Vantimitta)** &mdash; Update CHANGELOG.md for Flutter 3.41.9 (#185755)<br />
+  <sub>[#186635](https://github.com/flutter/flutter/pull/186635) opened on on May 17, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/186635) 3495 additions and 829 deletions in 202 files</sub><br />
+
