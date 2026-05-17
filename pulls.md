@@ -315,7 +315,7 @@
   <sub>[#186635](https://github.com/flutter/flutter/pull/186635) opened on on May 17, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/186635) 3495 additions and 829 deletions in 202 files</sub><br />
 
 * **[Muhammet Enes Ilhan](https://github.com/xlash5)** &mdash; [framework] Allow nested perpendicular scrollables to both scroll from a diagonal pointer signal<br />
-  <sub>[#186638](https://github.com/flutter/flutter/pull/186638) opened on on May 17, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186638) 406 additions and 46 deletions in 5 files</sub><br />
+  <sub>[#186638](https://github.com/flutter/flutter/pull/186638) opened on on May 17, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/186638) 406 additions and 46 deletions in 5 files</sub><br />
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document MediaQueryData.alwaysUse24HourFormat on macOS, Windows, Linux, web (#160664)<br />
   <sub>[#186642](https://github.com/flutter/flutter/pull/186642) opened on on May 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186642) 15 additions and 0 deletions in 1 file</sub><br />
