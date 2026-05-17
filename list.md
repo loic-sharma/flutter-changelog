@@ -1028,7 +1028,7 @@
 
 ### May 9, 2026 to May 15, 2026
 
-9 commits.
+10 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Inital example of a bare skill that gives contributors their installed mcp servers but only the skills that have been vetted
   <sub>[#13376](https://github.com/flutter/website/pull/13376) merged on May 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13376) over 2 days, 16 additions and 0 deletions in 2 files</sub>
@@ -1042,6 +1042,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add contributor ladder doc
   <sub>[#13381](https://github.com/flutter/website/pull/13381) merged on May 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13381) over 21 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Customize ports used by Jaspr during serving
+  <sub>[#13389](https://github.com/flutter/website/pull/13389) merged on May 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13389) over 1 day, 20 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update more `dash_site` commands to support multiple sites
   <sub>[#13388](https://github.com/flutter/website/pull/13388) merged on May 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13388) over 22 minutes, 131 additions and 57 deletions in 8 files</sub>
