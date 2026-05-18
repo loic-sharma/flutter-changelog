@@ -509,9 +509,19 @@
 
 ## flutter/packages
 
+### May 16, 2026 to May 22, 2026
+
+1 commits.
+
+* **[fondoger](https://github.com/fondoger)** &mdash; [vector_graphics][vector_graphics_compiler] Fix text-anchor and tspan gap with adjacent <tspan>s
+  <sub>[#11637](https://github.com/flutter/packages/pull/11637) merged on May 18, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/11637) over 2 weeks, 224 additions and 28 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [gaaclarke](https://github.com/gaaclarke)</sub>
+  <sub><details><summary>2 images...</summary><img width="390" height="844" alt="image" src="https://github.com/user-attachments/assets/7ffbe594-d821-4b4c-b759-c5fb61a61339" /><img width="780" height="1688" alt="image" src="https://github.com/user-attachments/assets/076b69fb-2bfc-490a-9669-566e45f7e9a2" /></details></sub>
+
 ### May 9, 2026 to May 15, 2026
 
-5 commits.
+<details>
+<summary>5 commits...</summary>
 
 * **[StefanGilligan](https://github.com/StefanGilligan)** &mdash; [video_player] Fix washed-out HDR video playback on iOS
   <sub>[#11569](https://github.com/flutter/packages/pull/11569) merged on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11569) over 3 weeks, 53 additions and 15 deletions in 7 files</sub>
@@ -532,6 +542,8 @@
 * **[Shin Aoyama](https://github.com/smihica)** &mdash; [vector_graphics] Fix uncaught StateError in useHtmlRenderObject on CanvasKit / iOS Safari
   <sub>[#11685](https://github.com/flutter/packages/pull/11685) merged on May 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11685) over 15 hours, 17 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+</details>
 
 ### May 2, 2026 to May 8, 2026
 
