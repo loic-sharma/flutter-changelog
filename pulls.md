@@ -347,3 +347,6 @@
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; Drop stale TextStyle.package when fontFamily changes via copyWith/apply/merge (#108230)<br />
   <sub>[#186651](https://github.com/flutter/flutter/pull/186651) opened on on May 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186651) 44 additions and 2 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from progress indicator test<br />
+  <sub>[#186655](https://github.com/flutter/flutter/pull/186655) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186655) 1 addition and 6 deletions in 1 file</sub><br />
+
