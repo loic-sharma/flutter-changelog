@@ -371,3 +371,18 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from editable text cursor tests<br />
   <sub>[#186671](https://github.com/flutter/flutter/pull/186671) opened on on May 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186671) 159 additions and 151 deletions in 1 file</sub><br />
 
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from selectable region context menu tests<br />
+  <sub>[#186672](https://github.com/flutter/flutter/pull/186672) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186672) 7 additions and 6 deletions in 1 file</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from implicit animation tests<br />
+  <sub>[#186673](https://github.com/flutter/flutter/pull/186673) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186673) 135 additions and 61 deletions in 2 files</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from navigator replacement tests<br />
+  <sub>[#186674](https://github.com/flutter/flutter/pull/186674) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186674) 65 additions and 40 deletions in 1 file</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move drawer route tests to Material<br />
+  <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186675) 26 additions and 28 deletions in 1 file</sub><br />
+
+* **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
+  <sub>[#186677](https://github.com/flutter/flutter/pull/186677) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186677) 61 additions and 37 deletions in 3 files</sub><br />
+
