@@ -359,3 +359,15 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Fix TestSemantics comparison typos<br />
   <sub>[#186659](https://github.com/flutter/flutter/pull/186659) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186659) 181 additions and 8 deletions in 4 files</sub><br />
 
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Make SearchAnchor.bar respect SearchBarTheme padding<br />
+  <sub>[#186666](https://github.com/flutter/flutter/pull/186666) opened on on May 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186666) 80 additions and 3 deletions in 2 files</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material button tests<br />
+  <sub>[#186667](https://github.com/flutter/flutter/pull/186667) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186667) 6 additions and 5 deletions in 5 files</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material selection tests<br />
+  <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186670) 5 additions and 5 deletions in 5 files</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from editable text cursor tests<br />
+  <sub>[#186671](https://github.com/flutter/flutter/pull/186671) opened on on May 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186671) 159 additions and 151 deletions in 1 file</sub><br />
+
