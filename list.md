@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 16, 2026 to May 22, 2026
+
+1 commits.
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Upgrade Flutter Test Apps to AGP 9
+  <sub>[#186200](https://github.com/flutter/flutter/pull/186200) merged on May 18, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/186200) over 1 week, 10550 additions and 9666 deletions in 166 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
 ### May 9, 2026 to May 15, 2026
 
-52 commits.
+<details>
+<summary>52 commits...</summary>
 
 * **[Matej Rešetár](https://github.com/MatejLNCD)** &mdash; Fix web-server hot restart/reload not applying changes for entrypoints outside lib
   <sub>[#183838](https://github.com/flutter/flutter/pull/183838) merged on May 15, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/183838) over 1 month, 193 additions and 11 deletions in 10 files</sub>
@@ -214,6 +223,8 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [dev] Use super parameters in missed spots
   <sub>[#186193](https://github.com/flutter/flutter/pull/186193) merged on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186193) over 6 days, 3 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+</details>
 
 ### May 2, 2026 to May 8, 2026
 
@@ -569,7 +580,11 @@
 
 ### May 16, 2026 to May 22, 2026
 
-1 commits.
+2 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraints and code for Dart 3.12
+  <sub>[#13397](https://github.com/flutter/website/pull/13397) merged on May 18, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/website/pull/13397) over 11 minutes, 178 additions and 186 deletions in 168 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.44] Account for deprecation of `builder` parameter of `showCupertinoSheet`
   <sub>[#13362](https://github.com/flutter/website/pull/13362) merged on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13362) over 1 week, 7 additions and 4 deletions in 2 files</sub>
