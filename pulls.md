@@ -317,6 +317,9 @@
 * **[Muhammet Enes Ilhan](https://github.com/xlash5)** &mdash; [framework] Allow nested perpendicular scrollables to both scroll from a diagonal pointer signal<br />
   <sub>[#186638](https://github.com/flutter/flutter/pull/186638) opened on on May 17, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/186638) 406 additions and 46 deletions in 5 files</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add explicit draw counts<br />
+  <sub>[#186639](https://github.com/flutter/flutter/pull/186639) opened on on May 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186639) 170 additions and 106 deletions in 6 files</sub><br />
+
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document MediaQueryData.alwaysUse24HourFormat on macOS, Windows, Linux, web (#160664)<br />
   <sub>[#186642](https://github.com/flutter/flutter/pull/186642) opened on on May 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186642) 15 additions and 0 deletions in 1 file</sub><br />
 
