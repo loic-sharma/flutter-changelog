@@ -18,7 +18,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [49 comments](https://github.com/flutter/flutter/pull/180591) 2596 additions and 551 deletions in 19 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [51 comments](https://github.com/flutter/flutter/pull/180591) 2596 additions and 551 deletions in 19 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
