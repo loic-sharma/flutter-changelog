@@ -293,9 +293,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove another `String.valueOf`<br />
   <sub>[#186628](https://github.com/flutter/flutter/pull/186628) opened on on May 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186628) 3 additions and 4 deletions in 1 file</sub><br />
 
-* **[Muhammet Enes Ilhan](https://github.com/xlash5)** &mdash; Expose selectionHeightStyle and selectionWidthStyle on SelectionArea<br />
-  <sub>[#186630](https://github.com/flutter/flutter/pull/186630) opened on on May 16, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/186630) 3382 additions and 780 deletions in 189 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Small clean-up in different java files under `engine/src/flutter/shell/platform/android/io/flutter/embedding/engine/`<br />
   <sub>[#186631](https://github.com/flutter/flutter/pull/186631) opened on on May 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186631) 5 additions and 10 deletions in 7 files</sub><br />
 
