@@ -264,7 +264,7 @@
   <sub>[#186607](https://github.com/flutter/flutter/pull/186607) opened on on May 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186607) 12 additions and 1 deletion in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT MERGE: support both x64 and arm64 clang toolchains on mac hosts<br />
-  <sub>[#186610](https://github.com/flutter/flutter/pull/186610) opened on on May 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186610) 76 additions and 18 deletions in 9 files</sub><br />
+  <sub>[#186610](https://github.com/flutter/flutter/pull/186610) opened on on May 16, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186610) 76 additions and 18 deletions in 9 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material import from scrollable_semantics_test and selectable_region_context_menu_test<br />
   <sub>[#186611](https://github.com/flutter/flutter/pull/186611) opened on on May 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186611) 42 additions and 24 deletions in 3 files</sub><br />
@@ -316,9 +316,6 @@
 
 * **[Muhammet Enes Ilhan](https://github.com/xlash5)** &mdash; [framework] Allow nested perpendicular scrollables to both scroll from a diagonal pointer signal<br />
   <sub>[#186638](https://github.com/flutter/flutter/pull/186638) opened on on May 17, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/186638) 406 additions and 46 deletions in 5 files</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add explicit draw counts<br />
-  <sub>[#186639](https://github.com/flutter/flutter/pull/186639) opened on on May 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186639) 170 additions and 106 deletions in 6 files</sub><br />
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document MediaQueryData.alwaysUse24HourFormat on macOS, Windows, Linux, web (#160664)<br />
   <sub>[#186642](https://github.com/flutter/flutter/pull/186642) opened on on May 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186642) 15 additions and 0 deletions in 1 file</sub><br />
