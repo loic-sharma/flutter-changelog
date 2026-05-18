@@ -567,9 +567,18 @@
 
 ## flutter/website
 
+### May 16, 2026 to May 22, 2026
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.44] Account for deprecation of `builder` parameter of `showCupertinoSheet`
+  <sub>[#13362](https://github.com/flutter/website/pull/13362) merged on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13362) over 1 week, 7 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### May 9, 2026 to May 15, 2026
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Inital example of a bare skill that gives contributors their installed mcp servers but only the skills that have been vetted
   <sub>[#13376](https://github.com/flutter/website/pull/13376) merged on May 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13376) over 2 days, 16 additions and 0 deletions in 2 files</sub>
@@ -611,6 +620,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding instructions on using Swift Package Manager
   <sub>[#13359](https://github.com/flutter/website/pull/13359) merged on May 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13359) over 6 days, 51 additions and 44 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub>
+
+</details>
 
 ### May 2, 2026 to May 8, 2026
 

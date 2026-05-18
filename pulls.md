@@ -354,7 +354,7 @@
   <sub>[#186656](https://github.com/flutter/flutter/pull/186656) opened on on May 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186656) 187 additions and 195 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Add Material/Cupertino migration supplement<br />
-  <sub>[#186658](https://github.com/flutter/flutter/pull/186658) opened on on May 18, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186658) 1406 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186658](https://github.com/flutter/flutter/pull/186658) opened on on May 18, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/186658) 1569 additions and 0 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Fix TestSemantics comparison typos<br />
   <sub>[#186659](https://github.com/flutter/flutter/pull/186659) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186659) 181 additions and 8 deletions in 4 files</sub><br />
