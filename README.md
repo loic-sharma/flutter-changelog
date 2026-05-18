@@ -4,11 +4,15 @@
 
 ### May 16, 2026 to May 22, 2026
 
-1 commits.
+2 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Upgrade Flutter Test Apps to AGP 9<br />
   <sub>[#186200](https://github.com/flutter/flutter/pull/186200) merged on May 18, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/186200) over 1 week, 10550 additions and 9666 deletions in 166 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [Android][macOS][gn] support both x64/arm64 macOS host clang toolchains<br />
+  <sub>[#186660](https://github.com/flutter/flutter/pull/186660) merged on May 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186660) over 10 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 ### May 9, 2026 to May 15, 2026
 
@@ -580,7 +584,11 @@
 
 ### May 16, 2026 to May 22, 2026
 
-2 commits.
+3 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add design doc for macos-intel-deprecation<br />
+  <sub>[#13398](https://github.com/flutter/website/pull/13398) merged on May 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13398) over 33 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraints and code for Dart 3.12<br />
   <sub>[#13397](https://github.com/flutter/website/pull/13397) merged on May 18, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/website/pull/13397) over 11 minutes, 178 additions and 186 deletions in 168 files</sub><br />
