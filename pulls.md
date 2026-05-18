@@ -354,7 +354,7 @@
   <sub>[#186656](https://github.com/flutter/flutter/pull/186656) opened on on May 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186656) 187 additions and 195 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Add Material/Cupertino migration supplement<br />
-  <sub>[#186658](https://github.com/flutter/flutter/pull/186658) opened on on May 18, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186658) 1282 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186658](https://github.com/flutter/flutter/pull/186658) opened on on May 18, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186658) 1406 additions and 0 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Fix TestSemantics comparison typos<br />
   <sub>[#186659](https://github.com/flutter/flutter/pull/186659) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186659) 181 additions and 8 deletions in 4 files</sub><br />
@@ -381,7 +381,7 @@
   <sub>[#186674](https://github.com/flutter/flutter/pull/186674) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186674) 67 additions and 40 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move drawer route tests to Material<br />
-  <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186675) 26 additions and 28 deletions in 1 file</sub><br />
+  <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186675) 28 additions and 26 deletions in 1 file</sub><br />
 
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
   <sub>[#186677](https://github.com/flutter/flutter/pull/186677) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186677) 61 additions and 37 deletions in 3 files</sub><br />
@@ -391,4 +391,13 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Refactor webparagraph painters to separate CK properly<br />
   <sub>[#186684](https://github.com/flutter/flutter/pull/186684) opened on on May 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/186684) 491 additions and 623 deletions in 15 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
+  <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.45-candidate.0] Sync engine.version to 5606f0c774c65d0951a1b928f16aaacf4ba199de<br />
+  <sub>[#186689](https://github.com/flutter/flutter/pull/186689) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186689) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Dart roll from 8e30b88e4d5a to 66873d2da857<br />
+  <sub>[#186690](https://github.com/flutter/flutter/pull/186690) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186690) 6 additions and 7 deletions in 4 files</sub><br />
 
