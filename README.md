@@ -4,7 +4,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-5 commits.
+8 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Upgrade Flutter Test Apps to AGP 9<br />
   <sub>[#186200](https://github.com/flutter/flutter/pull/186200) merged on May 18, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/186200) over 1 week, 10550 additions and 9666 deletions in 166 files</sub><br />
@@ -14,9 +14,21 @@
   <sub>[#185226](https://github.com/flutter/flutter/pull/185226) merged on May 18, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185226) over 1 month, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [John "codefu" McDole](https://github.com/jtmcdole), [b-luk](https://github.com/b-luk)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS][gn] Use arm64 clang in copy_info_plist.py on arm64 Macs<br />
+  <sub>[#186661](https://github.com/flutter/flutter/pull/186661) merged on May 19, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186661) over 16 hours, 5 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios] Correct handling for CADisplayLink paused-to-unpaused transitions<br />
   <sub>[#186457](https://github.com/flutter/flutter/pull/186457) merged on May 18, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186457) over 5 days, 145 additions and 10 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS][gn] Use arm64 clang in verify_exported.dart on arm64 Macs<br />
+  <sub>[#186664](https://github.com/flutter/flutter/pull/186664) merged on May 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186664) over 16 hours, 7 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS][gn] Use arm64 clang in sanitizer_suppressions.sh on arm64 Macs<br />
+  <sub>[#186663](https://github.com/flutter/flutter/pull/186663) merged on May 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186663) over 16 hours, 10 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Android][macOS][gn] support both x64/arm64 macOS host clang toolchains<br />
   <sub>[#186660](https://github.com/flutter/flutter/pull/186660) merged on May 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186660) over 10 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -608,7 +620,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-4 commits.
+5 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add SwiftPM Add to App Docs<br />
   <sub>[#13318](https://github.com/flutter/website/pull/13318) merged on May 18, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/website/pull/13318) over 2 weeks, 1109 additions and 233 deletions in 15 files</sub><br />
@@ -625,6 +637,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.44] Account for deprecation of `builder` parameter of `showCupertinoSheet`<br />
   <sub>[#13362](https://github.com/flutter/website/pull/13362) merged on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13362) over 1 week, 7 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: document agentic hot reload<br />
+  <sub>[#13400](https://github.com/flutter/website/pull/13400) merged on May 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13400) over 2 hours, 14 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch)</sub><br />
 
 ### May 9, 2026 to May 15, 2026
 
