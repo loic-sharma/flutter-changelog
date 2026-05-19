@@ -311,9 +311,6 @@
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; [flutter_tools] Reject archive entries that escape into a sibling directory by name prefix (#185794)<br />
   <sub>[#186647](https://github.com/flutter/flutter/pull/186647) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186647) 49 additions and 4 deletions in 2 files</sub><br />
 
-* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; Defensively clean up scrollable _hold/_drag in _handleDragCancel (#172174)<br />
-  <sub>[#186648](https://github.com/flutter/flutter/pull/186648) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186648) 70 additions and 2 deletions in 2 files</sub><br />
-
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; Navigator: Surface an actionable error when build runs with empty history (#158182)<br />
   <sub>[#186649](https://github.com/flutter/flutter/pull/186649) opened on on May 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186649) 60 additions and 1 deletion in 2 files</sub><br />
 
