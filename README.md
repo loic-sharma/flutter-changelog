@@ -661,7 +661,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-5 commits.
+6 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add SwiftPM Add to App Docs<br />
   <sub>[#13318](https://github.com/flutter/website/pull/13318) merged on May 18, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/website/pull/13318) over 2 weeks, 1109 additions and 233 deletions in 15 files</sub><br />
@@ -670,6 +670,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add design doc for macos-intel-deprecation<br />
   <sub>[#13398](https://github.com/flutter/website/pull/13398) merged on May 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13398) over 33 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Use stable 3.12 image for stage and deploy<br />
+  <sub>[#13401](https://github.com/flutter/website/pull/13401) merged on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13401) over 16 hours, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraints and code for Dart 3.12<br />
   <sub>[#13397](https://github.com/flutter/website/pull/13397) merged on May 18, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/website/pull/13397) over 11 minutes, 178 additions and 186 deletions in 168 files</sub><br />
