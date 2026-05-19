@@ -363,11 +363,14 @@
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes navigator may not report correct canhandlepop when propagate in…<br />
-  <sub>[#186705](https://github.com/flutter/flutter/pull/186705) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186705) 148 additions and 104 deletions in 2 files</sub><br />
+  <sub>[#186705](https://github.com/flutter/flutter/pull/186705) opened on on May 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186705) 148 additions and 104 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds linux impeller hello world integration test<br />
   <sub>[#186715](https://github.com/flutter/flutter/pull/186715) opened on on May 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186715) 94 additions and 0 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools, devicelab] Add safety filesystem guard to tests<br />
   <sub>[#186748](https://github.com/flutter/flutter/pull/186748) opened on on May 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186748) 1451 additions and 9 deletions in 8 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds linux impeller integration test for external textures<br />
+  <sub>[#186759](https://github.com/flutter/flutter/pull/186759) opened on on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186759) 121 additions and 0 deletions in 7 files</sub><br />
 
