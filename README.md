@@ -4,7 +4,12 @@
 
 ### May 16, 2026 to May 22, 2026
 
-11 commits.
+13 commits.
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused field in `ResourceExtractor`<br />
+  <sub>[#186629](https://github.com/flutter/flutter/pull/186629) merged on May 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186629) over 2 days, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="726" height="204" alt="Screenshot 2026-05-16 at 21 07 03" src="https://github.com/user-attachments/assets/2827496d-8c81-4980-9376-90fa6b6a46fc" /></details></sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Upgrade Flutter Test Apps to AGP 9<br />
   <sub>[#186200](https://github.com/flutter/flutter/pull/186200) merged on May 18, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/186200) over 1 week, 10550 additions and 9666 deletions in 166 files</sub><br />
@@ -21,6 +26,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios] Correct handling for CADisplayLink paused-to-unpaused transitions<br />
   <sub>[#186457](https://github.com/flutter/flutter/pull/186457) merged on May 18, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186457) over 5 days, 145 additions and 10 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
+  <sub>[#186409](https://github.com/flutter/flutter/pull/186409) merged on May 19, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186409) over 6 days, 20 additions and 34 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zijiehe@](https://github.com/zijiehe-google-com)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS][gn] support both x64/arm64 macOS host clang toolchains for ASAN<br />
   <sub>[#186669](https://github.com/flutter/flutter/pull/186669) merged on May 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186669) over 16 hours, 3 additions and 1 deletion in 1 file</sub><br />
