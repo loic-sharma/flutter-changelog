@@ -285,7 +285,7 @@
   <sub>[#186624](https://github.com/flutter/flutter/pull/186624) opened on on May 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186624) 24 additions and 11 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from widget app tests<br />
-  <sub>[#186626](https://github.com/flutter/flutter/pull/186626) opened on on May 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186626) 116 additions and 37 deletions in 2 files</sub><br />
+  <sub>[#186626](https://github.com/flutter/flutter/pull/186626) opened on on May 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186626) 116 additions and 37 deletions in 2 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove another `String.valueOf`<br />
   <sub>[#186628](https://github.com/flutter/flutter/pull/186628) opened on on May 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186628) 3 additions and 4 deletions in 1 file</sub><br />
@@ -366,7 +366,7 @@
   <sub>[#186677](https://github.com/flutter/flutter/pull/186677) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186677) 61 additions and 37 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Rename WebParagraph goldens<br />
-  <sub>[#186680](https://github.com/flutter/flutter/pull/186680) opened on on May 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186680) 84 additions and 121 deletions in 2 files</sub><br />
+  <sub>[#186680](https://github.com/flutter/flutter/pull/186680) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186680) 84 additions and 121 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Refactor webparagraph painters to separate CK properly<br />
   <sub>[#186684](https://github.com/flutter/flutter/pull/186684) opened on on May 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/186684) 491 additions and 623 deletions in 15 files</sub><br />
@@ -376,4 +376,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes navigator may not report correct canhandlepop when propagate in…<br />
   <sub>[#186705](https://github.com/flutter/flutter/pull/186705) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186705) 148 additions and 104 deletions in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds linux impeller hello world integration test<br />
+  <sub>[#186715](https://github.com/flutter/flutter/pull/186715) opened on on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186715) 93 additions and 0 deletions in 3 files</sub><br />
 
