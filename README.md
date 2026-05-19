@@ -564,12 +564,16 @@
 
 ### May 16, 2026 to May 22, 2026
 
-2 commits.
+3 commits.
 
 * **[fondoger](https://github.com/fondoger)** &mdash; [vector_graphics][vector_graphics_compiler] Fix text-anchor and tspan gap with adjacent <tspan>s<br />
   <sub>[#11637](https://github.com/flutter/packages/pull/11637) merged on May 18, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/11637) over 2 weeks, 224 additions and 28 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [gaaclarke](https://github.com/gaaclarke)</sub><br />
   <sub><details><summary>2 images...</summary><img width="390" height="844" alt="image" src="https://github.com/user-attachments/assets/7ffbe594-d821-4b4c-b759-c5fb61a61339" /><img width="780" height="1688" alt="image" src="https://github.com/user-attachments/assets/076b69fb-2bfc-490a-9669-566e45f7e9a2" /></details></sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Replace deprecated offer code API<br />
+  <sub>[#11223](https://github.com/flutter/packages/pull/11223) merged on May 19, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/11223) over 2 months, 339 additions and 214 deletions in 20 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 00b0c91f0620 to 559ffa3f75e7 (1442 revisions)<br />
   <sub>[#11730](https://github.com/flutter/packages/pull/11730) merged on May 19, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11730) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
