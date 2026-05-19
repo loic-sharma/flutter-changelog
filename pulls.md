@@ -204,7 +204,7 @@
   <sub>[#186517](https://github.com/flutter/flutter/pull/186517) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186517) 81 additions and 46 deletions in 3 files</sub><br />
 
 * **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
-  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186519) 68 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Validate dart define file newlines<br />
   <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 73 additions and 0 deletions in 2 files</sub><br />
@@ -376,7 +376,4 @@
 
 * **[Md Mushfiqur Rahim](https://github.com/MD-Mushfiqur123)** &mdash; Add Md Mushfiqur Rahim to AUTHORS<br />
   <sub>[#186725](https://github.com/flutter/flutter/pull/186725) opened on on May 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186725) 11 additions and 0 deletions in 1 file</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden harness support to the renderer test layer<br />
-  <sub>[#186735](https://github.com/flutter/flutter/pull/186735) opened on on May 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186735) 144 additions and 52 deletions in 6 files</sub><br />
 
