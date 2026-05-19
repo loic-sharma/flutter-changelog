@@ -4,7 +4,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-8 commits.
+11 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Upgrade Flutter Test Apps to AGP 9<br />
   <sub>[#186200](https://github.com/flutter/flutter/pull/186200) merged on May 18, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/186200) over 1 week, 10550 additions and 9666 deletions in 166 files</sub><br />
@@ -15,12 +15,20 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [John "codefu" McDole](https://github.com/jtmcdole), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS][gn] Use arm64 clang in copy_info_plist.py on arm64 Macs<br />
-  <sub>[#186661](https://github.com/flutter/flutter/pull/186661) merged on May 19, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186661) over 16 hours, 5 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#186661](https://github.com/flutter/flutter/pull/186661) merged on May 19, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186661) over 16 hours, 5 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios] Correct handling for CADisplayLink paused-to-unpaused transitions<br />
   <sub>[#186457](https://github.com/flutter/flutter/pull/186457) merged on May 18, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186457) over 5 days, 145 additions and 10 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS][gn] support both x64/arm64 macOS host clang toolchains for ASAN<br />
+  <sub>[#186669](https://github.com/flutter/flutter/pull/186669) merged on May 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186669) over 16 hours, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS][gn] Use arm64 clang in generate_coverage.py on arm64 Macs<br />
+  <sub>[#186662](https://github.com/flutter/flutter/pull/186662) merged on May 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186662) over 17 hours, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS][gn] Use arm64 clang in verify_exported.dart on arm64 Macs<br />
   <sub>[#186664](https://github.com/flutter/flutter/pull/186664) merged on May 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186664) over 16 hours, 7 additions and 1 deletion in 1 file</sub><br />
@@ -33,6 +41,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [Android][macOS][gn] support both x64/arm64 macOS host clang toolchains<br />
   <sub>[#186660](https://github.com/flutter/flutter/pull/186660) merged on May 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186660) over 10 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix broken link in impeller golden_tests readme<br />
+  <sub>[#186470](https://github.com/flutter/flutter/pull/186470) merged on May 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186470) over 5 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Complete completer only once in hot restart tests<br />
   <sub>[#186702](https://github.com/flutter/flutter/pull/186702) merged on May 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186702) over 3 hours, 2 additions and 2 deletions in 2 files</sub><br />

@@ -60,7 +60,7 @@
   <sub>[#185521](https://github.com/flutter/flutter/pull/185521) opened on on April 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185521) 11 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
-  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [63 comments](https://github.com/flutter/flutter/pull/185534) 1091 additions and 218 deletions in 13 files</sub><br />
+  <sub>[#185534](https://github.com/flutter/flutter/pull/185534) opened on on April 24, 2026 &mdash; **Large:** [64 comments](https://github.com/flutter/flutter/pull/185534) 1101 additions and 218 deletions in 13 files</sub><br />
 
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
@@ -285,7 +285,7 @@
   <sub>[#186624](https://github.com/flutter/flutter/pull/186624) opened on on May 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186624) 24 additions and 11 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from widget app tests<br />
-  <sub>[#186626](https://github.com/flutter/flutter/pull/186626) opened on on May 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186626) 116 additions and 37 deletions in 2 files</sub><br />
+  <sub>[#186626](https://github.com/flutter/flutter/pull/186626) opened on on May 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186626) 101 additions and 39 deletions in 4 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove another `String.valueOf`<br />
   <sub>[#186628](https://github.com/flutter/flutter/pull/186628) opened on on May 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186628) 3 additions and 4 deletions in 1 file</sub><br />
@@ -348,19 +348,19 @@
   <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186670) 5 additions and 5 deletions in 5 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from editable text cursor tests<br />
-  <sub>[#186671](https://github.com/flutter/flutter/pull/186671) opened on on May 18, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186671) 162 additions and 151 deletions in 1 file</sub><br />
+  <sub>[#186671](https://github.com/flutter/flutter/pull/186671) opened on on May 18, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186671) 164 additions and 147 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from selectable region context menu tests<br />
-  <sub>[#186672](https://github.com/flutter/flutter/pull/186672) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186672) 7 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#186672](https://github.com/flutter/flutter/pull/186672) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186672) 7 additions and 7 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from implicit animation tests<br />
   <sub>[#186673](https://github.com/flutter/flutter/pull/186673) opened on on May 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186673) 138 additions and 62 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from navigator replacement tests<br />
-  <sub>[#186674](https://github.com/flutter/flutter/pull/186674) opened on on May 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186674) 67 additions and 40 deletions in 1 file</sub><br />
+  <sub>[#186674](https://github.com/flutter/flutter/pull/186674) opened on on May 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186674) 67 additions and 41 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move drawer route tests to Material<br />
-  <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186675) 28 additions and 27 deletions in 2 files</sub><br />
+  <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186675) 27 additions and 26 deletions in 2 files</sub><br />
 
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
   <sub>[#186677](https://github.com/flutter/flutter/pull/186677) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186677) 61 additions and 37 deletions in 3 files</sub><br />
