@@ -564,7 +564,12 @@
 
 ### May 16, 2026 to May 22, 2026
 
-3 commits.
+4 commits.
+
+* **[David Martos](https://github.com/davidmartos96)** &mdash; [google_sign_in_android] Update android libraries
+  <sub>[#11694](https://github.com/flutter/packages/pull/11694) merged on May 19, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/11694) over 1 week, 59 additions and 49 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+  <sub><details><summary>1 image...</summary><img width="1723" height="509" alt="image" src="https://github.com/user-attachments/assets/f7b2288d-a460-4311-ac4d-7b031a8fbd0d" /></details></sub>
 
 * **[fondoger](https://github.com/fondoger)** &mdash; [vector_graphics][vector_graphics_compiler] Fix text-anchor and tspan gap with adjacent <tspan>s
   <sub>[#11637](https://github.com/flutter/packages/pull/11637) merged on May 18, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/11637) over 2 weeks, 224 additions and 28 deletions in 8 files</sub>

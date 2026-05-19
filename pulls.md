@@ -174,7 +174,7 @@
   <sub>[#186473](https://github.com/flutter/flutter/pull/186473) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186473) 111 additions and 60 deletions in 48 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Stop generating widget preview scaffold under $TMP<br />
-  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186476) 211 additions and 54 deletions in 15 files</sub><br />
+  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186476) 233 additions and 62 deletions in 19 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
   <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
@@ -363,7 +363,7 @@
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes navigator may not report correct canhandlepop when propagate in…<br />
-  <sub>[#186705](https://github.com/flutter/flutter/pull/186705) opened on on May 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186705) 148 additions and 104 deletions in 2 files</sub><br />
+  <sub>[#186705](https://github.com/flutter/flutter/pull/186705) opened on on May 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186705) 143 additions and 104 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds linux impeller hello world integration test<br />
   <sub>[#186715](https://github.com/flutter/flutter/pull/186715) opened on on May 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186715) 94 additions and 0 deletions in 3 files</sub><br />
@@ -372,5 +372,5 @@
   <sub>[#186748](https://github.com/flutter/flutter/pull/186748) opened on on May 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186748) 1451 additions and 9 deletions in 8 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds linux impeller integration test for external textures<br />
-  <sub>[#186759](https://github.com/flutter/flutter/pull/186759) opened on on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186759) 121 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#186759](https://github.com/flutter/flutter/pull/186759) opened on on May 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186759) 124 additions and 0 deletions in 7 files</sub><br />
 
