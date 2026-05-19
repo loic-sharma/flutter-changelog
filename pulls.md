@@ -6,7 +6,7 @@
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
-  <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/178133) 61 additions and 62 deletions in 8 files</sub><br />
+  <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/178133) 61 additions and 62 deletions in 8 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use local lld explicitly in custom toolchain<br />
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
@@ -174,7 +174,7 @@
   <sub>[#186473](https://github.com/flutter/flutter/pull/186473) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186473) 111 additions and 60 deletions in 48 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Stop generating widget preview scaffold under $TMP<br />
-  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186476) 210 additions and 53 deletions in 15 files</sub><br />
+  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186476) 211 additions and 54 deletions in 15 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
   <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
@@ -307,9 +307,6 @@
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Override fullscreenDialog on CupertinoSheetRoute with sheet-specific note (#175198)<br />
   <sub>[#186646](https://github.com/flutter/flutter/pull/186646) opened on on May 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186646) 21 additions and 0 deletions in 2 files</sub><br />
-
-* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; [flutter_tools] Reject archive entries that escape into a sibling directory by name prefix (#185794)<br />
-  <sub>[#186647](https://github.com/flutter/flutter/pull/186647) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186647) 49 additions and 4 deletions in 2 files</sub><br />
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; Navigator: Surface an actionable error when build runs with empty history (#158182)<br />
   <sub>[#186649](https://github.com/flutter/flutter/pull/186649) opened on on May 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186649) 60 additions and 1 deletion in 2 files</sub><br />
