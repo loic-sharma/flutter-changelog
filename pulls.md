@@ -251,9 +251,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify WidgetStatesController value snapshots<br />
   <sub>[#186607](https://github.com/flutter/flutter/pull/186607) opened on on May 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186607) 12 additions and 1 deletion in 1 file</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT MERGE: support both x64 and arm64 clang toolchains on mac hosts<br />
-  <sub>[#186610](https://github.com/flutter/flutter/pull/186610) opened on on May 16, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186610) 76 additions and 18 deletions in 9 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material import from scrollable_semantics_test and selectable_region_context_menu_test<br />
   <sub>[#186611](https://github.com/flutter/flutter/pull/186611) opened on on May 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186611) 42 additions and 24 deletions in 3 files</sub><br />
 
@@ -379,4 +376,7 @@
 
 * **[Md Mushfiqur Rahim](https://github.com/MD-Mushfiqur123)** &mdash; Add Md Mushfiqur Rahim to AUTHORS<br />
   <sub>[#186725](https://github.com/flutter/flutter/pull/186725) opened on on May 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186725) 11 additions and 0 deletions in 1 file</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add golden harness support to the renderer test layer<br />
+  <sub>[#186735](https://github.com/flutter/flutter/pull/186735) opened on on May 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186735) 144 additions and 52 deletions in 6 files</sub><br />
 
