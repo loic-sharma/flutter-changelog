@@ -290,6 +290,9 @@
 * **[Muhammet Enes Ilhan](https://github.com/xlash5)** &mdash; [framework] Allow nested perpendicular scrollables to both scroll from a diagonal pointer signal<br />
   <sub>[#186638](https://github.com/flutter/flutter/pull/186638) opened on on May 17, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/186638) 485 additions and 46 deletions in 5 files</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add explicit draw counts<br />
+  <sub>[#186639](https://github.com/flutter/flutter/pull/186639) opened on on May 17, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186639) 166 additions and 106 deletions in 6 files</sub><br />
+
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document MediaQueryData.alwaysUse24HourFormat on macOS, Windows, Linux, web (#160664)<br />
   <sub>[#186642](https://github.com/flutter/flutter/pull/186642) opened on on May 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186642) 15 additions and 0 deletions in 1 file</sub><br />
 
@@ -354,10 +357,10 @@
   <sub>[#186677](https://github.com/flutter/flutter/pull/186677) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186677) 61 additions and 37 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Rename WebParagraph goldens<br />
-  <sub>[#186680](https://github.com/flutter/flutter/pull/186680) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186680) 84 additions and 121 deletions in 2 files</sub><br />
+  <sub>[#186680](https://github.com/flutter/flutter/pull/186680) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186680) 84 additions and 121 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Refactor webparagraph painters to separate CK properly<br />
-  <sub>[#186684](https://github.com/flutter/flutter/pull/186684) opened on on May 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/186684) 491 additions and 623 deletions in 15 files</sub><br />
+  <sub>[#186684](https://github.com/flutter/flutter/pull/186684) opened on on May 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/186684) 494 additions and 622 deletions in 15 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
@@ -366,10 +369,7 @@
   <sub>[#186705](https://github.com/flutter/flutter/pull/186705) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186705) 148 additions and 104 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds linux impeller hello world integration test<br />
-  <sub>[#186715](https://github.com/flutter/flutter/pull/186715) opened on on May 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186715) 93 additions and 0 deletions in 3 files</sub><br />
-
-* **[Md Mushfiqur Rahim](https://github.com/MD-Mushfiqur123)** &mdash; Add Md Mushfiqur Rahim to AUTHORS<br />
-  <sub>[#186725](https://github.com/flutter/flutter/pull/186725) opened on on May 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186725) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#186715](https://github.com/flutter/flutter/pull/186715) opened on on May 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186715) 94 additions and 0 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools, devicelab] Add safety filesystem guard to tests<br />
   <sub>[#186748](https://github.com/flutter/flutter/pull/186748) opened on on May 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186748) 1316 additions and 6 deletions in 7 files</sub><br />
