@@ -167,9 +167,6 @@
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
 
-* **[Michael Brase](https://github.com/mbrase)** &mdash; Update Fuchsia tests to use realm_builder_server as a subpackage<br />
-  <sub>[#186409](https://github.com/flutter/flutter/pull/186409) opened on on May 12, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186409) 20 additions and 34 deletions in 13 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix inspector split resize focus loss over WebViews<br />
   <sub>[#186432](https://github.com/flutter/flutter/pull/186432) opened on on May 13, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/186432) 337 additions and 0 deletions in 10 files</sub><br />
 
@@ -378,5 +375,8 @@
   <sub>[#186705](https://github.com/flutter/flutter/pull/186705) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186705) 148 additions and 104 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds linux impeller hello world integration test<br />
-  <sub>[#186715](https://github.com/flutter/flutter/pull/186715) opened on on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186715) 93 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#186715](https://github.com/flutter/flutter/pull/186715) opened on on May 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186715) 93 additions and 0 deletions in 3 files</sub><br />
+
+* **[Md Mushfiqur Rahim](https://github.com/MD-Mushfiqur123)** &mdash; Add Md Mushfiqur Rahim to AUTHORS<br />
+  <sub>[#186725](https://github.com/flutter/flutter/pull/186725) opened on on May 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186725) 11 additions and 0 deletions in 1 file</sub><br />
 
