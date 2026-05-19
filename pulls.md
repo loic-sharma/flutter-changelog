@@ -207,7 +207,7 @@
   <sub>[#186517](https://github.com/flutter/flutter/pull/186517) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186517) 81 additions and 46 deletions in 3 files</sub><br />
 
 * **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
-  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186519) 68 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186519) 68 additions and 1 deletion in 7 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Validate dart define file newlines<br />
   <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 73 additions and 0 deletions in 2 files</sub><br />
@@ -318,7 +318,7 @@
   <sub>[#186647](https://github.com/flutter/flutter/pull/186647) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186647) 49 additions and 4 deletions in 2 files</sub><br />
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; Defensively clean up scrollable _hold/_drag in _handleDragCancel (#172174)<br />
-  <sub>[#186648](https://github.com/flutter/flutter/pull/186648) opened on on May 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186648) 70 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#186648](https://github.com/flutter/flutter/pull/186648) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186648) 70 additions and 2 deletions in 2 files</sub><br />
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; Navigator: Surface an actionable error when build runs with empty history (#158182)<br />
   <sub>[#186649](https://github.com/flutter/flutter/pull/186649) opened on on May 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186649) 60 additions and 1 deletion in 2 files</sub><br />
@@ -335,9 +335,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from scrollbar test<br />
   <sub>[#186656](https://github.com/flutter/flutter/pull/186656) opened on on May 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186656) 187 additions and 195 deletions in 1 file</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Add Material/Cupertino migration supplement<br />
-  <sub>[#186658](https://github.com/flutter/flutter/pull/186658) opened on on May 18, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/186658) 1569 additions and 0 deletions in 2 files</sub><br />
-
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Fix TestSemantics comparison typos<br />
   <sub>[#186659](https://github.com/flutter/flutter/pull/186659) opened on on May 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186659) 181 additions and 8 deletions in 4 files</sub><br />
 
@@ -348,10 +345,10 @@
   <sub>[#186667](https://github.com/flutter/flutter/pull/186667) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186667) 6 additions and 5 deletions in 5 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material selection tests<br />
-  <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186670) 5 additions and 5 deletions in 5 files</sub><br />
+  <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186670) 5 additions and 5 deletions in 5 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from editable text cursor tests<br />
-  <sub>[#186671](https://github.com/flutter/flutter/pull/186671) opened on on May 18, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/186671) 162 additions and 151 deletions in 1 file</sub><br />
+  <sub>[#186671](https://github.com/flutter/flutter/pull/186671) opened on on May 18, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186671) 162 additions and 151 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from selectable region context menu tests<br />
   <sub>[#186672](https://github.com/flutter/flutter/pull/186672) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186672) 7 additions and 6 deletions in 1 file</sub><br />
