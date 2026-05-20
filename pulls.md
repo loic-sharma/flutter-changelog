@@ -83,9 +83,6 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from filled_button_test.dart<br />
   <sub>[#185965](https://github.com/flutter/flutter/pull/185965) opened on on May 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185965) 34 additions and 47 deletions in 1 file</sub><br />
 
-* **[q404365631](https://github.com/q404365631)** &mdash; [framework] Fix TestSemantics self-comparison bugs and stray comma<br />
-  <sub>[#185968](https://github.com/flutter/flutter/pull/185968) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185968) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from range_slider_test.dart<br />
   <sub>[#185972](https://github.com/flutter/flutter/pull/185972) opened on on May 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185972) 4 additions and 6 deletions in 1 file</sub><br />
 
@@ -206,9 +203,6 @@
 * **[Maxim Savin](https://github.com/soulman-is-good)** &mdash; Fix HostBuffer.emplace overflow at block boundary<br />
   <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186539) 49 additions and 1 deletion in 2 files</sub><br />
 
-* **[Bilal Rehman](https://github.com/BilalRehman08)** &mdash; Add visible focus ring for keyboard-focused semantics nodes<br />
-  <sub>[#186540](https://github.com/flutter/flutter/pull/186540) opened on on May 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186540) 85 additions and 0 deletions in 3 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify route transition animations<br />
   <sub>[#186552](https://github.com/flutter/flutter/pull/186552) opened on on May 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186552) 18 additions and 0 deletions in 2 files</sub><br />
 
@@ -296,9 +290,6 @@
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; Drop stale TextStyle.package when fontFamily changes via copyWith/apply/merge (#108230)<br />
   <sub>[#186651](https://github.com/flutter/flutter/pull/186651) opened on on May 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186651) 44 additions and 2 deletions in 2 files</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Fix TestSemantics comparison typos<br />
-  <sub>[#186659](https://github.com/flutter/flutter/pull/186659) opened on on May 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186659) 181 additions and 8 deletions in 4 files</sub><br />
-
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material button tests<br />
   <sub>[#186667](https://github.com/flutter/flutter/pull/186667) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186667) 6 additions and 5 deletions in 5 files</sub><br />
 
@@ -333,7 +324,7 @@
   <sub>[#186767](https://github.com/flutter/flutter/pull/186767) opened on on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186767) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material rendering tests to material<br />
-  <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186776) 0 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186776) 0 additions and 2 deletions in 3 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Scope widget inspector overlay to the selected widget's modal route<br />
   <sub>[#186784](https://github.com/flutter/flutter/pull/186784) opened on on May 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186784) 320 additions and 2 deletions in 2 files</sub><br />
@@ -355,4 +346,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [beta] Fix `EmbedderTest.CanRenderTextWithImpellerMetal` test breakage<br />
   <sub>[#186828](https://github.com/flutter/flutter/pull/186828) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186828) 52 additions and 16 deletions in 5 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use swift demangle to verify internal Swift symbols<br />
+  <sub>[#186835](https://github.com/flutter/flutter/pull/186835) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186835) 81 additions and 56 deletions in 1 file</sub><br />
 

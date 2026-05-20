@@ -4,7 +4,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-30 commits.
+31 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) merged on May 20, 2026 &mdash; **Large:** [65 comments](https://github.com/flutter/flutter/pull/185534) over 3 weeks, 1101 additions and 218 deletions in 13 files</sub>
@@ -26,6 +26,10 @@
   <sub>[#186629](https://github.com/flutter/flutter/pull/186629) merged on May 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186629) over 2 days, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
   <sub><details><summary>1 image...</summary><img width="726" height="204" alt="Screenshot 2026-05-16 at 21 07 03" src="https://github.com/user-attachments/assets/2827496d-8c81-4980-9376-90fa6b6a46fc" /></details></sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Detached traversal child should update its traversal parent
+  <sub>[#186118](https://github.com/flutter/flutter/pull/186118) merged on May 20, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186118) over 2 weeks, 124 additions and 57 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Enable Swift testing in the iOS embedder
   <sub>[#185712](https://github.com/flutter/flutter/pull/185712) merged on May 19, 2026 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/185712) over 3 weeks, 158 additions and 136 deletions in 9 files</sub>
