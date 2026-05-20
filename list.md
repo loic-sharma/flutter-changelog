@@ -734,7 +734,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-15 commits.
+17 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add SwiftPM Add to App Docs
   <sub>[#13318](https://github.com/flutter/website/pull/13318) merged on May 18, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/website/pull/13318) over 2 weeks, 1109 additions and 233 deletions in 15 files</sub>
@@ -751,6 +751,14 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add design doc for macos-intel-deprecation
   <sub>[#13398](https://github.com/flutter/website/pull/13398) merged on May 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13398) over 33 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Restructure GitHub actions jobs
+  <sub>[#13415](https://github.com/flutter/website/pull/13415) merged on May 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13415) over 40 minutes, 161 additions and 97 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up issue update code now that upstream issue was fixed
+  <sub>[#13416](https://github.com/flutter/website/pull/13416) merged on May 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13416) over 35 minutes, 5 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add I/O video to 3.44 banner
   <sub>[#13414](https://github.com/flutter/website/pull/13414) merged on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13414) over 36 minutes, 3 additions and 2 deletions in 1 file</sub>

@@ -345,5 +345,5 @@
   <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186819) 154 additions and 80 deletions in 4 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use swift demangle to verify internal Swift symbols<br />
-  <sub>[#186835](https://github.com/flutter/flutter/pull/186835) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186835) 81 additions and 56 deletions in 1 file</sub><br />
+  <sub>[#186835](https://github.com/flutter/flutter/pull/186835) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186835) 122 additions and 57 deletions in 1 file</sub><br />
 
