@@ -153,7 +153,7 @@
   <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186246) 252 additions and 38 deletions in 2 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent downgrading `project.pbxproj` when greater version number<br />
-  <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186250) 158 additions and 20 deletions in 2 files</sub><br />
+  <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186250) 159 additions and 20 deletions in 2 files</sub><br />
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; tool: build both Wasm and JS targets for `flutter run --wasm`<br />
   <sub>[#186253](https://github.com/flutter/flutter/pull/186253) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186253) 92 additions and 12 deletions in 2 files</sub><br />
@@ -174,7 +174,7 @@
   <sub>[#186473](https://github.com/flutter/flutter/pull/186473) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186473) 111 additions and 60 deletions in 48 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Stop generating widget preview scaffold under $TMP<br />
-  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186476) 266 additions and 64 deletions in 21 files</sub><br />
+  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186476) 260 additions and 82 deletions in 20 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
   <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
@@ -350,6 +350,9 @@
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
   <sub>[#186677](https://github.com/flutter/flutter/pull/186677) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186677) 61 additions and 37 deletions in 3 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup unused shadow stuff<br />
+  <sub>[#186681](https://github.com/flutter/flutter/pull/186681) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186681) 2 additions and 165 deletions in 3 files</sub><br />
+
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
 
@@ -388,4 +391,7 @@
 
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; Fetch native assets darwin minimum versions<br />
   <sub>[#186807](https://github.com/flutter/flutter/pull/186807) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186807) 139 additions and 4 deletions in 4 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph locales test<br />
+  <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186813) 1 addition and 1 deletion in 1 file</sub><br />
 
