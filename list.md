@@ -4,7 +4,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-25 commits.
+26 commits.
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Make EdgeDraggingAutoScroller respect ScrollPhysics
   <sub>[#186541](https://github.com/flutter/flutter/pull/186541) merged on May 19, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186541) over 5 days, 139 additions and 75 deletions in 2 files</sub>
@@ -50,6 +50,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Testing autosubmit bot -- updating testowners
   <sub>[#185226](https://github.com/flutter/flutter/pull/185226) merged on May 18, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185226) over 1 month, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [John "codefu" McDole](https://github.com/jtmcdole), [b-luk](https://github.com/b-luk)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Refactor webparagraph painters to separate CK properly
+  <sub>[#186684](https://github.com/flutter/flutter/pull/186684) merged on May 20, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186684) over 1 day, 494 additions and 622 deletions in 15 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub>
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "Ship gen_snapshot for linux-arm64 hosts targeting Android"
   <sub>[#186693](https://github.com/flutter/flutter/pull/186693) merged on May 19, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186693) over 1 day, 42 additions and 519 deletions in 7 files</sub>

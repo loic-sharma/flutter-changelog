@@ -353,9 +353,6 @@
 * **[Luan Nico](https://github.com/luanpotter)** &mdash; refactor: Centralize copying of drag events when handling scrollbar scrolling<br />
   <sub>[#186677](https://github.com/flutter/flutter/pull/186677) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186677) 61 additions and 37 deletions in 3 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Refactor webparagraph painters to separate CK properly<br />
-  <sub>[#186684](https://github.com/flutter/flutter/pull/186684) opened on on May 18, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186684) 494 additions and 622 deletions in 15 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
 
@@ -368,6 +365,12 @@
 * **[Kercy](https://github.com/KercyDing)** &mdash; [Impeller] Fix hardcoded Vulkan validation state in C API<br />
   <sub>[#186767](https://github.com/flutter/flutter/pull/186767) opened on on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186767) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material rendering tests to material<br />
+  <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186776) 0 additions and 2 deletions in 3 files</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material color tests to material<br />
+  <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/186777) 671 additions and 680 deletions in 3 files</sub><br />
+
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move nested scroll view tests to Material<br />
-  <sub>[#186771](https://github.com/flutter/flutter/pull/186771) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186771) 1 addition and 2 deletions in 2 files</sub><br />
+  <sub>[#186778](https://github.com/flutter/flutter/pull/186778) opened on on May 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186778) 1 addition and 2 deletions in 2 files</sub><br />
 
