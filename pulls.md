@@ -371,3 +371,6 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 11<br />
   <sub>[#186822](https://github.com/flutter/flutter/pull/186822) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186822) 204 additions and 71 deletions in 6 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [beta] Fix `EmbedderTest.CanRenderTextWithImpellerMetal` test breakage<br />
+  <sub>[#186828](https://github.com/flutter/flutter/pull/186828) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186828) 52 additions and 16 deletions in 5 files</sub><br />
+

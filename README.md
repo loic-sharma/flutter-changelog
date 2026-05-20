@@ -726,7 +726,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-14 commits.
+15 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add SwiftPM Add to App Docs<br />
   <sub>[#13318](https://github.com/flutter/website/pull/13318) merged on May 18, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/website/pull/13318) over 2 weeks, 1109 additions and 233 deletions in 15 files</sub><br />
@@ -743,6 +743,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add design doc for macos-intel-deprecation<br />
   <sub>[#13398](https://github.com/flutter/website/pull/13398) merged on May 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13398) over 33 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add I/O video to 3.44 banner<br />
+  <sub>[#13414](https://github.com/flutter/website/pull/13414) merged on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13414) over 36 minutes, 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.44] Update supported and tested deployment platforms<br />
   <sub>[#13399](https://github.com/flutter/website/pull/13399) merged on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13399) over 1 day, 49 additions and 49 deletions in 1 file</sub><br />
