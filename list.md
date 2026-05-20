@@ -718,7 +718,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-13 commits.
+14 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add SwiftPM Add to App Docs
   <sub>[#13318](https://github.com/flutter/website/pull/13318) merged on May 18, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/website/pull/13318) over 2 weeks, 1109 additions and 233 deletions in 15 files</sub>
@@ -759,6 +759,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.44] Account for deprecation of `builder` parameter of `showCupertinoSheet`
   <sub>[#13362](https://github.com/flutter/website/pull/13362) merged on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13362) over 1 week, 7 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update banner for Flutter 3.44
+  <sub>[#13396](https://github.com/flutter/website/pull/13396) merged on May 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13396) over 2 days, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add redirect for iOS 26 keyboard bleed document
   <sub>[#13411](https://github.com/flutter/website/pull/13411) merged on May 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13411) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
