@@ -381,8 +381,11 @@
   <sub>[#186788](https://github.com/flutter/flutter/pull/186788) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186788) 47 additions and 5 deletions in 3 files</sub><br />
 
 * **[saurabh-mirajkar](https://github.com/saurabh-mirajkar)** &mdash; Add selection highlight styles to SelectionArea<br />
-  <sub>[#186802](https://github.com/flutter/flutter/pull/186802) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186802) 176 additions and 16 deletions in 7 files</sub><br />
+  <sub>[#186802](https://github.com/flutter/flutter/pull/186802) opened on on May 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186802) 191 additions and 16 deletions in 7 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify build side effects in docs<br />
   <sub>[#186803](https://github.com/flutter/flutter/pull/186803) opened on on May 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186803) 12 additions and 6 deletions in 2 files</sub><br />
+
+* **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; Fetch native assets darwin minimum versions<br />
+  <sub>[#186807](https://github.com/flutter/flutter/pull/186807) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186807) 139 additions and 4 deletions in 4 files</sub><br />
 
