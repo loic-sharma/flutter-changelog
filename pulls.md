@@ -374,3 +374,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move nested scroll view tests to Material<br />
   <sub>[#186778](https://github.com/flutter/flutter/pull/186778) opened on on May 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186778) 1 addition and 2 deletions in 2 files</sub><br />
 
+* **[Phil Quitslund](https://github.com/pq)** &mdash; [flutter tool] propagate analytics env to sub-tools<br />
+  <sub>[#186780](https://github.com/flutter/flutter/pull/186780) opened on on May 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186780) 140 additions and 31 deletions in 2 files</sub><br />
+

@@ -706,10 +706,14 @@
 
 ### May 16, 2026 to May 22, 2026
 
-11 commits.
+13 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add SwiftPM Add to App Docs
   <sub>[#13318](https://github.com/flutter/website/pull/13318) merged on May 18, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/website/pull/13318) over 2 weeks, 1109 additions and 233 deletions in 15 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Tighten miscellaneous dependency constraints
+  <sub>[#13410](https://github.com/flutter/website/pull/13410) merged on May 20, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/13410) over 3 hours, 347 additions and 163 deletions in 84 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate deploy and stage to be implemented in Dart
@@ -743,6 +747,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [3.44] Account for deprecation of `builder` parameter of `showCupertinoSheet`
   <sub>[#13362](https://github.com/flutter/website/pull/13362) merged on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13362) over 1 week, 7 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add redirect for iOS 26 keyboard bleed document
+  <sub>[#13411](https://github.com/flutter/website/pull/13411) merged on May 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13411) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Added built-in kotlin migration workaround for plugin authors
   <sub>[#13407](https://github.com/flutter/website/pull/13407) merged on May 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13407) over 3 hours, 190 additions and 0 deletions in 1 file</sub>
