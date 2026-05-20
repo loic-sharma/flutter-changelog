@@ -99,7 +99,7 @@
   <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185974) 3 additions and 4 deletions in 1 file</sub><br />
 
 * **[Luke Memet](https://github.com/lukemmtt)** &mdash; Filter out SwiftPM schemes when fetching schemes<br />
-  <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/186006) 168 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/186006) 168 additions and 3 deletions in 2 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Painting decorations directly on CanvasKit<br />
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
@@ -174,7 +174,7 @@
   <sub>[#186473](https://github.com/flutter/flutter/pull/186473) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186473) 111 additions and 60 deletions in 48 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Stop generating widget preview scaffold under $TMP<br />
-  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186476) 263 additions and 64 deletions in 21 files</sub><br />
+  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186476) 266 additions and 64 deletions in 21 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
   <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
@@ -378,7 +378,7 @@
   <sub>[#186784](https://github.com/flutter/flutter/pull/186784) opened on on May 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186784) 320 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets<br />
-  <sub>[#186788](https://github.com/flutter/flutter/pull/186788) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186788) 47 additions and 5 deletions in 3 files</sub><br />
+  <sub>[#186788](https://github.com/flutter/flutter/pull/186788) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186788) 52 additions and 5 deletions in 3 files</sub><br />
 
 * **[saurabh-mirajkar](https://github.com/saurabh-mirajkar)** &mdash; Add selection highlight styles to SelectionArea<br />
   <sub>[#186802](https://github.com/flutter/flutter/pull/186802) opened on on May 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186802) 191 additions and 16 deletions in 7 files</sub><br />
