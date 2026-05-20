@@ -201,7 +201,7 @@
   <sub>[#186517](https://github.com/flutter/flutter/pull/186517) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186517) 81 additions and 46 deletions in 3 files</sub><br />
 
 * **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
-  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Validate dart define file newlines<br />
   <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 73 additions and 0 deletions in 2 files</sub><br />
@@ -379,4 +379,7 @@
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Scope widget inspector overlay to the selected widget's modal route<br />
   <sub>[#186784](https://github.com/flutter/flutter/pull/186784) opened on on May 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186784) 320 additions and 2 deletions in 2 files</sub><br />
+
+* **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets<br />
+  <sub>[#186788](https://github.com/flutter/flutter/pull/186788) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186788) 47 additions and 5 deletions in 3 files</sub><br />
 
