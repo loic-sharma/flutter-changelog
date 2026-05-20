@@ -179,9 +179,6 @@
 * **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples/indexed_stack: dispose TextEditingController<br />
   <sub>[#186512](https://github.com/flutter/flutter/pull/186512) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186512) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; TestSemantics: Fix three typo bugs<br />
-  <sub>[#186513](https://github.com/flutter/flutter/pull/186513) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186513) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Preserve web drive target paths outside lib<br />
   <sub>[#186515](https://github.com/flutter/flutter/pull/186515) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186515) 103 additions and 10 deletions in 2 files</sub><br />
 
@@ -236,9 +233,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify WidgetStatesController value snapshots<br />
   <sub>[#186607](https://github.com/flutter/flutter/pull/186607) opened on on May 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186607) 12 additions and 1 deletion in 1 file</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material import from scrollable_semantics_test and selectable_region_context_menu_test<br />
-  <sub>[#186611](https://github.com/flutter/flutter/pull/186611) opened on on May 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186611) 42 additions and 24 deletions in 3 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve docs on MediaQuery: highContrast, invertColors and disableAnimations<br />
   <sub>[#186614](https://github.com/flutter/flutter/pull/186614) opened on on May 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186614) 39 additions and 5 deletions in 1 file</sub><br />
 
@@ -256,9 +250,6 @@
 
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Move routes_transition_test to material<br />
   <sub>[#186620](https://github.com/flutter/flutter/pull/186620) opened on on May 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186620) 0 additions and 0 deletions in 1 file</sub><br />
-
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from scrollable semantics test<br />
-  <sub>[#186623](https://github.com/flutter/flutter/pull/186623) opened on on May 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186623) 63 additions and 47 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from navigator restoration test<br />
   <sub>[#186624](https://github.com/flutter/flutter/pull/186624) opened on on May 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186624) 24 additions and 11 deletions in 1 file</sub><br />
@@ -344,12 +335,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material rendering tests to material<br />
   <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186776) 0 additions and 2 deletions in 3 files</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material color tests to material<br />
-  <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/186777) 671 additions and 680 deletions in 3 files</sub><br />
-
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move nested scroll view tests to Material<br />
-  <sub>[#186778](https://github.com/flutter/flutter/pull/186778) opened on on May 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186778) 1 addition and 2 deletions in 2 files</sub><br />
-
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Scope widget inspector overlay to the selected widget's modal route<br />
   <sub>[#186784](https://github.com/flutter/flutter/pull/186784) opened on on May 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186784) 320 additions and 2 deletions in 2 files</sub><br />
 
@@ -367,9 +352,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix cutoff text in WebParagraph<br />
   <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186819) 154 additions and 80 deletions in 4 files</sub><br />
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 11<br />
-  <sub>[#186822](https://github.com/flutter/flutter/pull/186822) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186822) 204 additions and 71 deletions in 6 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [beta] Fix `EmbedderTest.CanRenderTextWithImpellerMetal` test breakage<br />
   <sub>[#186828](https://github.com/flutter/flutter/pull/186828) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186828) 52 additions and 16 deletions in 5 files</sub><br />

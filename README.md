@@ -4,7 +4,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-29 commits.
+30 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) merged on May 20, 2026 &mdash; **Large:** [65 comments](https://github.com/flutter/flutter/pull/185534) over 3 weeks, 1101 additions and 218 deletions in 13 files</sub><br />
@@ -82,6 +82,10 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Complete completer only once in hot restart tests<br />
   <sub>[#186702](https://github.com/flutter/flutter/pull/186702) merged on May 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186702) over 3 hours, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [ELIEZER MUNUNGA](https://github.com/Eliezermga), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nicholas Shahan](https://github.com/nshahan), [zhongliugo](https://github.com/flutter-zl)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Dart roll from 66873d2da857 to 84220a34788e<br />
+  <sub>[#186812](https://github.com/flutter/flutter/pull/186812) merged on May 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186812) over 4 hours, 4 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Ryan Macnak](https://github.com/rmacnak-google)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the list of binaries in the code signing verification test to include new Dart snapshots<br />
   <sub>[#186754](https://github.com/flutter/flutter/pull/186754) merged on May 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186754) over 4 hours, 18 additions and 1 deletion in 1 file</sub><br />
