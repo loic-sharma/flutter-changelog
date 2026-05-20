@@ -604,7 +604,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-4 commits.
+5 commits.
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; [google_sign_in_android] Update android libraries<br />
   <sub>[#11694](https://github.com/flutter/packages/pull/11694) merged on May 19, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/11694) over 1 week, 59 additions and 49 deletions in 10 files</sub><br />
@@ -619,6 +619,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Replace deprecated offer code API<br />
   <sub>[#11223](https://github.com/flutter/packages/pull/11223) merged on May 19, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/11223) over 2 months, 339 additions and 214 deletions in 20 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Unify most validation commands<br />
+  <sub>[#11641](https://github.com/flutter/packages/pull/11641) merged on May 20, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/11641) over 2 weeks, 819 additions and 861 deletions in 35 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 00b0c91f0620 to 559ffa3f75e7 (1442 revisions)<br />
   <sub>[#11730](https://github.com/flutter/packages/pull/11730) merged on May 19, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11730) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
