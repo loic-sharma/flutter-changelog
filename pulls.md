@@ -380,6 +380,3 @@
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets<br />
   <sub>[#186788](https://github.com/flutter/flutter/pull/186788) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186788) 47 additions and 5 deletions in 3 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Flutter GPU ShaderLibrary in-place reload for shader hot reload<br />
-  <sub>[#186793](https://github.com/flutter/flutter/pull/186793) opened on on May 20, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186793) 415 additions and 30 deletions in 9 files</sub><br />
-
