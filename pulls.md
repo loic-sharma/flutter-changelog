@@ -182,9 +182,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Remove Cupertino semantics tester cross-imports<br />
   <sub>[#186503](https://github.com/flutter/flutter/pull/186503) opened on on May 14, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186503) 1412 additions and 17 deletions in 17 files</sub><br />
 
-* **[Ibrar Ahmad](https://github.com/IbrarIlyas)** &mdash; Fix AnimatedList.separated.removeItem during in-flight remove animation<br />
-  <sub>[#186508](https://github.com/flutter/flutter/pull/186508) opened on on May 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186508) 125 additions and 18 deletions in 2 files</sub><br />
-
 * **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples/indexed_stack: dispose TextEditingController<br />
   <sub>[#186512](https://github.com/flutter/flutter/pull/186512) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186512) 5 additions and 0 deletions in 1 file</sub><br />
 
@@ -382,4 +379,7 @@
 
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets<br />
   <sub>[#186788](https://github.com/flutter/flutter/pull/186788) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186788) 47 additions and 5 deletions in 3 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Flutter GPU ShaderLibrary in-place reload for shader hot reload<br />
+  <sub>[#186793](https://github.com/flutter/flutter/pull/186793) opened on on May 20, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186793) 415 additions and 30 deletions in 9 files</sub><br />
 
