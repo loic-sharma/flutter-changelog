@@ -4,11 +4,15 @@
 
 ### May 16, 2026 to May 22, 2026
 
-21 commits.
+23 commits.
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Make EdgeDraggingAutoScroller respect ScrollPhysics<br />
   <sub>[#186541](https://github.com/flutter/flutter/pull/186541) merged on May 19, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186541) over 5 days, 139 additions and 75 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
+  <sub>[#184994](https://github.com/flutter/flutter/pull/184994) merged on May 19, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/184994) over 1 month, 83 additions and 1947 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Parker Lougheed](https://github.com/parlough), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Fix inspector split resize focus loss over WebViews<br />
   <sub>[#186432](https://github.com/flutter/flutter/pull/186432) merged on May 19, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/186432) over 6 days, 337 additions and 0 deletions in 10 files</sub><br />
@@ -42,6 +46,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Testing autosubmit bot -- updating testowners<br />
   <sub>[#185226](https://github.com/flutter/flutter/pull/185226) merged on May 18, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185226) over 1 month, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [John "codefu" McDole](https://github.com/jtmcdole), [b-luk](https://github.com/b-luk)</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "Ship gen_snapshot for linux-arm64 hosts targeting Android"<br />
+  <sub>[#186693](https://github.com/flutter/flutter/pull/186693) merged on May 19, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186693) over 1 day, 42 additions and 519 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS][gn] Use arm64 clang in copy_info_plist.py on arm64 Macs<br />
   <sub>[#186661](https://github.com/flutter/flutter/pull/186661) merged on May 19, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186661) over 16 hours, 5 additions and 3 deletions in 1 file</sub><br />

@@ -174,7 +174,7 @@
   <sub>[#186473](https://github.com/flutter/flutter/pull/186473) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186473) 111 additions and 60 deletions in 48 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Stop generating widget preview scaffold under $TMP<br />
-  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186476) 246 additions and 64 deletions in 20 files</sub><br />
+  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186476) 263 additions and 64 deletions in 21 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
   <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
@@ -336,7 +336,7 @@
   <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186670) 5 additions and 5 deletions in 5 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from editable text cursor tests<br />
-  <sub>[#186671](https://github.com/flutter/flutter/pull/186671) opened on on May 18, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/186671) 164 additions and 147 deletions in 2 files</sub><br />
+  <sub>[#186671](https://github.com/flutter/flutter/pull/186671) opened on on May 18, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/186671) 167 additions and 147 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from selectable region context menu tests<br />
   <sub>[#186672](https://github.com/flutter/flutter/pull/186672) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186672) 7 additions and 7 deletions in 2 files</sub><br />
