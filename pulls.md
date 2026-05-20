@@ -98,9 +98,6 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from animated_icons_test.dart<br />
   <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185974) 3 additions and 4 deletions in 1 file</sub><br />
 
-* **[Luke Memet](https://github.com/lukemmtt)** &mdash; Filter out SwiftPM schemes when fetching schemes<br />
-  <sub>[#186006](https://github.com/flutter/flutter/pull/186006) opened on on May 4, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/186006) 168 additions and 3 deletions in 2 files</sub><br />
-
 * **[Rusino](https://github.com/Rusino)** &mdash; Painting decorations directly on CanvasKit<br />
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
@@ -198,7 +195,7 @@
   <sub>[#186517](https://github.com/flutter/flutter/pull/186517) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186517) 81 additions and 46 deletions in 3 files</sub><br />
 
 * **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
-  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Validate dart define file newlines<br />
   <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 73 additions and 0 deletions in 2 files</sub><br />
@@ -238,9 +235,6 @@
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Allow target platform override teardown in widget tests<br />
   <sub>[#186604](https://github.com/flutter/flutter/pull/186604) opened on on May 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186604) 54 additions and 5 deletions in 4 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Restore ANSI colors from iOS simulator logs<br />
-  <sub>[#186605](https://github.com/flutter/flutter/pull/186605) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186605) 81 additions and 1 deletion in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify WidgetStatesController value snapshots<br />
   <sub>[#186607](https://github.com/flutter/flutter/pull/186607) opened on on May 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186607) 12 additions and 1 deletion in 1 file</sub><br />
@@ -374,9 +368,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move nested scroll view tests to Material<br />
   <sub>[#186778](https://github.com/flutter/flutter/pull/186778) opened on on May 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186778) 1 addition and 2 deletions in 2 files</sub><br />
 
-* **[Phil Quitslund](https://github.com/pq)** &mdash; [flutter tool] propagate analytics env to sub-tools<br />
-  <sub>[#186780](https://github.com/flutter/flutter/pull/186780) opened on on May 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186780) 140 additions and 31 deletions in 2 files</sub><br />
-
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Scope widget inspector overlay to the selected widget's modal route<br />
   <sub>[#186784](https://github.com/flutter/flutter/pull/186784) opened on on May 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186784) 320 additions and 2 deletions in 2 files</sub><br />
 
@@ -393,5 +384,8 @@
   <sub>[#186807](https://github.com/flutter/flutter/pull/186807) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186807) 139 additions and 4 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph locales test<br />
-  <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186813) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186813) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix cutoff text in WebParagraph<br />
+  <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186819) 154 additions and 80 deletions in 4 files</sub><br />
 
