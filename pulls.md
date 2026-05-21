@@ -417,5 +417,14 @@
   <sub>[#186877](https://github.com/flutter/flutter/pull/186877) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186877) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify precache enabled platforms help<br />
-  <sub>[#186878](https://github.com/flutter/flutter/pull/186878) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186878) 16 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#186878](https://github.com/flutter/flutter/pull/186878) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186878) 16 additions and 1 deletion in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify layout callback debug flag docs<br />
+  <sub>[#186879](https://github.com/flutter/flutter/pull/186879) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186879) 12 additions and 2 deletions in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document follower overlay sizing constraints<br />
+  <sub>[#186880](https://github.com/flutter/flutter/pull/186880) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186880) 8 additions and 0 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Improve ScrollController multiple position error<br />
+  <sub>[#186883](https://github.com/flutter/flutter/pull/186883) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186883) 27 additions and 3 deletions in 2 files</sub><br />
 
