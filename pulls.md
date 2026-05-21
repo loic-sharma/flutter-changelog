@@ -312,7 +312,7 @@
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools, devicelab] Add safety filesystem guard to tests<br />
-  <sub>[#186748](https://github.com/flutter/flutter/pull/186748) opened on on May 19, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186748) 1451 additions and 9 deletions in 8 files</sub><br />
+  <sub>[#186748](https://github.com/flutter/flutter/pull/186748) opened on on May 19, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186748) 1452 additions and 10 deletions in 9 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds linux impeller integration test for external textures<br />
   <sub>[#186759](https://github.com/flutter/flutter/pull/186759) opened on on May 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186759) 124 additions and 0 deletions in 7 files</sub><br />
@@ -339,7 +339,7 @@
   <sub>[#186807](https://github.com/flutter/flutter/pull/186807) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186807) 139 additions and 4 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph locales test<br />
-  <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186813) 17 additions and 19 deletions in 1 file</sub><br />
+  <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186813) 25 additions and 21 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix cutoff text in WebParagraph<br />
   <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186819) 154 additions and 80 deletions in 4 files</sub><br />
@@ -433,4 +433,16 @@
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify PointerEvent buttons state<br />
   <sub>[#186890](https://github.com/flutter/flutter/pull/186890) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186890) 5 additions and 0 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document primary scroll view keyboard fallback<br />
+  <sub>[#186891](https://github.com/flutter/flutter/pull/186891) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186891) 6 additions and 2 deletions in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document TextPainter placeholder dimensions<br />
+  <sub>[#186893](https://github.com/flutter/flutter/pull/186893) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186893) 26 additions and 7 deletions in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify OverscrollNotification with bouncing physics<br />
+  <sub>[#186894](https://github.com/flutter/flutter/pull/186894) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186894) 29 additions and 8 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document key event simulation platforms<br />
+  <sub>[#186895](https://github.com/flutter/flutter/pull/186895) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186895) 18 additions and 41 deletions in 2 files</sub><br />
 
