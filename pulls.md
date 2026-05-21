@@ -141,7 +141,7 @@
   <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186239) 77 additions and 74 deletions in 5 files</sub><br />
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImage.fadeInOver constructor to skip placeholder fade-out<br />
-  <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186246) 252 additions and 38 deletions in 2 files</sub><br />
+  <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186246) 252 additions and 38 deletions in 2 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent downgrading `project.pbxproj` when greater version number<br />
   <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186250) 159 additions and 20 deletions in 2 files</sub><br />
@@ -363,5 +363,17 @@
   <sub>[#186847](https://github.com/flutter/flutter/pull/186847) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186847) 53 additions and 1 deletion in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix crash if FlView is destroyed during a draw.<br />
-  <sub>[#186848](https://github.com/flutter/flutter/pull/186848) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186848) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#186848](https://github.com/flutter/flutter/pull/186848) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186848) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Make ImageProvider sample web-compatible<br />
+  <sub>[#186851](https://github.com/flutter/flutter/pull/186851) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186851) 69 additions and 46 deletions in 3 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify Flutter Driver semantics finder docs<br />
+  <sub>[#186852](https://github.com/flutter/flutter/pull/186852) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186852) 22 additions and 2 deletions in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document EdgeDraggingAutoScroller usage<br />
+  <sub>[#186854](https://github.com/flutter/flutter/pull/186854) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186854) 76 additions and 1 deletion in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix layers rendering semantics startup<br />
+  <sub>[#186855](https://github.com/flutter/flutter/pull/186855) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186855) 36 additions and 3 deletions in 2 files</sub><br />
 
