@@ -405,5 +405,17 @@
   <sub>[#186869](https://github.com/flutter/flutter/pull/186869) opened on on May 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186869) 64 additions and 13 deletions in 8 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Explain Navigator pointer cancellation<br />
-  <sub>[#186870](https://github.com/flutter/flutter/pull/186870) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186870) 16 additions and 16 deletions in 1 file</sub><br />
+  <sub>[#186870](https://github.com/flutter/flutter/pull/186870) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186870) 17 additions and 16 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify RenderBox globalToLocal unprojection<br />
+  <sub>[#186874](https://github.com/flutter/flutter/pull/186874) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186874) 71 additions and 20 deletions in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify RouterDelegate popRoute bubbling<br />
+  <sub>[#186875](https://github.com/flutter/flutter/pull/186875) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186875) 6 additions and 2 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify contributor write access wording<br />
+  <sub>[#186877](https://github.com/flutter/flutter/pull/186877) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186877) 2 additions and 0 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify precache enabled platforms help<br />
+  <sub>[#186878](https://github.com/flutter/flutter/pull/186878) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186878) 16 additions and 1 deletion in 2 files</sub><br />
 
