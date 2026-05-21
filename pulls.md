@@ -314,9 +314,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools, devicelab] Add safety filesystem guard to tests<br />
   <sub>[#186748](https://github.com/flutter/flutter/pull/186748) opened on on May 19, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186748) 1452 additions and 10 deletions in 9 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds linux impeller integration test for external textures<br />
-  <sub>[#186759](https://github.com/flutter/flutter/pull/186759) opened on on May 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186759) 124 additions and 0 deletions in 7 files</sub><br />
-
 * **[Kercy](https://github.com/KercyDing)** &mdash; [Impeller] Fix hardcoded Vulkan validation state in C API<br />
   <sub>[#186767](https://github.com/flutter/flutter/pull/186767) opened on on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186767) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -428,9 +425,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify Navigator.replace old route requirement<br />
   <sub>[#186887](https://github.com/flutter/flutter/pull/186887) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186887) 51 additions and 2 deletions in 2 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Upgrade iOS version<br />
-  <sub>[#186889](https://github.com/flutter/flutter/pull/186889) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186889) 4 additions and 4 deletions in 1 file</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify PointerEvent buttons state<br />
   <sub>[#186890](https://github.com/flutter/flutter/pull/186890) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186890) 5 additions and 0 deletions in 1 file</sub><br />
 
@@ -444,5 +438,11 @@
   <sub>[#186894](https://github.com/flutter/flutter/pull/186894) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186894) 29 additions and 8 deletions in 1 file</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document key event simulation platforms<br />
-  <sub>[#186895](https://github.com/flutter/flutter/pull/186895) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186895) 18 additions and 41 deletions in 2 files</sub><br />
+  <sub>[#186895](https://github.com/flutter/flutter/pull/186895) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186895) 19 additions and 42 deletions in 2 files</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in StretchingOverscrollIndicator docs<br />
+  <sub>[#186897](https://github.com/flutter/flutter/pull/186897) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186897) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Do not share pointer counter between tests<br />
+  <sub>[#186898](https://github.com/flutter/flutter/pull/186898) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186898) 2 additions and 9 deletions in 2 files</sub><br />
 
