@@ -632,7 +632,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-6 commits.
+7 commits.
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; [google_sign_in_android] Update android libraries<br />
   <sub>[#11694](https://github.com/flutter/packages/pull/11694) merged on May 19, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/11694) over 1 week, 59 additions and 49 deletions in 10 files</sub><br />
@@ -650,6 +650,10 @@
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Unify most validation commands<br />
   <sub>[#11641](https://github.com/flutter/packages/pull/11641) merged on May 20, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/11641) over 2 weeks, 819 additions and 861 deletions in 35 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Restore publishability<br />
+  <sub>[#11745](https://github.com/flutter/packages/pull/11745) merged on May 21, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/11745) over 23 hours, 830 additions and 98 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Update repo for 3.44 stable release<br />

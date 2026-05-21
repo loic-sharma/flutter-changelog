@@ -164,9 +164,6 @@
 * **[YounesseAmhend](https://github.com/YounesseAmhend)** &mdash; Remove semantics_tester and feedback_tester cross-imports from materi…<br />
   <sub>[#186473](https://github.com/flutter/flutter/pull/186473) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186473) 111 additions and 60 deletions in 48 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Stop generating widget preview scaffold under $TMP<br />
-  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) opened on on May 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186476) 260 additions and 82 deletions in 20 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
   <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
 
@@ -315,7 +312,7 @@
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools, devicelab] Add safety filesystem guard to tests<br />
-  <sub>[#186748](https://github.com/flutter/flutter/pull/186748) opened on on May 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186748) 1451 additions and 9 deletions in 8 files</sub><br />
+  <sub>[#186748](https://github.com/flutter/flutter/pull/186748) opened on on May 19, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186748) 1451 additions and 9 deletions in 8 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds linux impeller integration test for external textures<br />
   <sub>[#186759](https://github.com/flutter/flutter/pull/186759) opened on on May 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186759) 124 additions and 0 deletions in 7 files</sub><br />
@@ -342,10 +339,10 @@
   <sub>[#186807](https://github.com/flutter/flutter/pull/186807) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186807) 139 additions and 4 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph locales test<br />
-  <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186813) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186813) 17 additions and 19 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix cutoff text in WebParagraph<br />
-  <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186819) 154 additions and 80 deletions in 4 files</sub><br />
+  <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186819) 154 additions and 80 deletions in 4 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use swift demangle to verify internal Swift symbols<br />
   <sub>[#186835](https://github.com/flutter/flutter/pull/186835) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186835) 122 additions and 57 deletions in 1 file</sub><br />
@@ -427,4 +424,13 @@
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Improve ScrollController multiple position error<br />
   <sub>[#186883](https://github.com/flutter/flutter/pull/186883) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186883) 27 additions and 3 deletions in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify Navigator.replace old route requirement<br />
+  <sub>[#186887](https://github.com/flutter/flutter/pull/186887) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186887) 51 additions and 2 deletions in 2 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Upgrade iOS version<br />
+  <sub>[#186889](https://github.com/flutter/flutter/pull/186889) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186889) 4 additions and 4 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify PointerEvent buttons state<br />
+  <sub>[#186890](https://github.com/flutter/flutter/pull/186890) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186890) 5 additions and 0 deletions in 1 file</sub><br />
 
