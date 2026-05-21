@@ -161,14 +161,8 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[YounesseAmhend](https://github.com/YounesseAmhend)** &mdash; Remove semantics_tester and feedback_tester cross-imports from materi…<br />
-  <sub>[#186473](https://github.com/flutter/flutter/pull/186473) opened on on May 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186473) 111 additions and 60 deletions in 48 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
   <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Remove Cupertino semantics tester cross-imports<br />
-  <sub>[#186503](https://github.com/flutter/flutter/pull/186503) opened on on May 14, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186503) 1412 additions and 17 deletions in 17 files</sub><br />
 
 * **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples/indexed_stack: dispose TextEditingController<br />
   <sub>[#186512](https://github.com/flutter/flutter/pull/186512) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186512) 5 additions and 0 deletions in 1 file</sub><br />
@@ -233,12 +227,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify transparent Material InkWell docs<br />
   <sub>[#186616](https://github.com/flutter/flutter/pull/186616) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186616) 6 additions and 6 deletions in 1 file</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Assert TextStyle height is not NaN<br />
-  <sub>[#186617](https://github.com/flutter/flutter/pull/186617) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186617) 29 additions and 1 deletion in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify custom font weight metadata docs<br />
-  <sub>[#186618](https://github.com/flutter/flutter/pull/186618) opened on on May 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186618) 6 additions and 0 deletions in 1 file</sub><br />
-
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Move routes_transition_test to material<br />
   <sub>[#186620](https://github.com/flutter/flutter/pull/186620) opened on on May 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186620) 0 additions and 0 deletions in 1 file</sub><br />
 
@@ -284,17 +272,11 @@
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; [flutter_tools] Honor "optional": true on ARB placeholders (#177158)<br />
   <sub>[#186650](https://github.com/flutter/flutter/pull/186650) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186650) 59 additions and 2 deletions in 3 files</sub><br />
 
-* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; Drop stale TextStyle.package when fontFamily changes via copyWith/apply/merge (#108230)<br />
-  <sub>[#186651](https://github.com/flutter/flutter/pull/186651) opened on on May 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186651) 44 additions and 2 deletions in 2 files</sub><br />
-
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material button tests<br />
   <sub>[#186667](https://github.com/flutter/flutter/pull/186667) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186667) 6 additions and 5 deletions in 5 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material selection tests<br />
   <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186670) 5 additions and 5 deletions in 5 files</sub><br />
-
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from editable text cursor tests<br />
-  <sub>[#186671](https://github.com/flutter/flutter/pull/186671) opened on on May 18, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/186671) 167 additions and 147 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from selectable region context menu tests<br />
   <sub>[#186672](https://github.com/flutter/flutter/pull/186672) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186672) 7 additions and 7 deletions in 2 files</sub><br />
@@ -328,9 +310,6 @@
 
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets<br />
   <sub>[#186788](https://github.com/flutter/flutter/pull/186788) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186788) 52 additions and 5 deletions in 3 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify build side effects in docs<br />
-  <sub>[#186803](https://github.com/flutter/flutter/pull/186803) opened on on May 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186803) 12 additions and 6 deletions in 2 files</sub><br />
 
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; Fetch native assets darwin minimum versions<br />
   <sub>[#186807](https://github.com/flutter/flutter/pull/186807) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186807) 139 additions and 4 deletions in 4 files</sub><br />
@@ -431,9 +410,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document primary scroll view keyboard fallback<br />
   <sub>[#186891](https://github.com/flutter/flutter/pull/186891) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186891) 6 additions and 2 deletions in 2 files</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document TextPainter placeholder dimensions<br />
-  <sub>[#186893](https://github.com/flutter/flutter/pull/186893) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186893) 26 additions and 7 deletions in 2 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify OverscrollNotification with bouncing physics<br />
   <sub>[#186894](https://github.com/flutter/flutter/pull/186894) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186894) 29 additions and 8 deletions in 1 file</sub><br />
 
@@ -448,4 +424,7 @@
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering tests<br />
   <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186904) 3 additions and 6 deletions in 4 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update SwiftPM deployment version to match app during "flutter build ipa"<br />
+  <sub>[#186912](https://github.com/flutter/flutter/pull/186912) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186912) 130 additions and 3 deletions in 2 files</sub><br />
 
