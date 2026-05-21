@@ -399,8 +399,11 @@
   <sub>[#186867](https://github.com/flutter/flutter/pull/186867) opened on on May 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186867) 72 additions and 18 deletions in 4 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
-  <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186868) 62 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Remove avoid_type_to_string suppressions<br />
-  <sub>[#186869](https://github.com/flutter/flutter/pull/186869) opened on on May 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186869) 39 additions and 7 deletions in 6 files</sub><br />
+  <sub>[#186869](https://github.com/flutter/flutter/pull/186869) opened on on May 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186869) 64 additions and 13 deletions in 8 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Explain Navigator pointer cancellation<br />
+  <sub>[#186870](https://github.com/flutter/flutter/pull/186870) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186870) 16 additions and 16 deletions in 1 file</sub><br />
 
