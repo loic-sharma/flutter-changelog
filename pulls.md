@@ -270,10 +270,10 @@
   <sub>[#186643](https://github.com/flutter/flutter/pull/186643) opened on on May 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186643) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document CupertinoTabScaffold + CupertinoSliverNavigationBar interaction (#166487)<br />
-  <sub>[#186644](https://github.com/flutter/flutter/pull/186644) opened on on May 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186644) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#186644](https://github.com/flutter/flutter/pull/186644) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186644) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document CupertinoSlidingSegmentedControl translucent unselected segments (#164073)<br />
-  <sub>[#186645](https://github.com/flutter/flutter/pull/186645) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186645) 12 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#186645](https://github.com/flutter/flutter/pull/186645) opened on on May 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186645) 12 additions and 2 deletions in 1 file</sub><br />
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Override fullscreenDialog on CupertinoSheetRoute with sheet-specific note (#175198)<br />
   <sub>[#186646](https://github.com/flutter/flutter/pull/186646) opened on on May 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186646) 21 additions and 0 deletions in 2 files</sub><br />
@@ -318,10 +318,10 @@
   <sub>[#186767](https://github.com/flutter/flutter/pull/186767) opened on on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186767) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material rendering tests to material<br />
-  <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186776) 88 additions and 118 deletions in 4 files</sub><br />
+  <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186776) 88 additions and 118 deletions in 4 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material color tests to material<br />
-  <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
+  <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Scope widget inspector overlay to the selected widget's modal route<br />
   <sub>[#186784](https://github.com/flutter/flutter/pull/186784) opened on on May 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186784) 320 additions and 2 deletions in 2 files</sub><br />
@@ -339,7 +339,7 @@
   <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186813) 25 additions and 21 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix cutoff text in WebParagraph<br />
-  <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186819) 154 additions and 80 deletions in 4 files</sub><br />
+  <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186819) 172 additions and 92 deletions in 5 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use swift demangle to verify internal Swift symbols<br />
   <sub>[#186835](https://github.com/flutter/flutter/pull/186835) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186835) 122 additions and 57 deletions in 1 file</sub><br />
