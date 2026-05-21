@@ -386,3 +386,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify HitTestBehavior docs<br />
   <sub>[#186859](https://github.com/flutter/flutter/pull/186859) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186859) 27 additions and 9 deletions in 2 files</sub><br />
 
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify lazy scroll extent docs<br />
+  <sub>[#186864](https://github.com/flutter/flutter/pull/186864) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186864) 11 additions and 0 deletions in 2 files</sub><br />
+
