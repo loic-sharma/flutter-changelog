@@ -96,7 +96,7 @@
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
-  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tools] Add doctor validator warning for multiple adb installations<br />
   <sub>[#186031](https://github.com/flutter/flutter/pull/186031) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186031) 131 additions and 0 deletions in 3 files</sub><br />
@@ -308,9 +308,6 @@
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Scope widget inspector overlay to the selected widget's modal route<br />
   <sub>[#186784](https://github.com/flutter/flutter/pull/186784) opened on on May 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186784) 320 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets<br />
-  <sub>[#186788](https://github.com/flutter/flutter/pull/186788) opened on on May 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186788) 52 additions and 5 deletions in 3 files</sub><br />
-
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; Fetch native assets darwin minimum versions<br />
   <sub>[#186807](https://github.com/flutter/flutter/pull/186807) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186807) 139 additions and 4 deletions in 4 files</sub><br />
 
@@ -424,6 +421,9 @@
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering tests<br />
   <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186904) 3 additions and 6 deletions in 4 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; opts the linux embedder into sdf rendering<br />
+  <sub>[#186909](https://github.com/flutter/flutter/pull/186909) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186909) 49 additions and 22 deletions in 7 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update SwiftPM deployment version to match app during "flutter build ipa"<br />
   <sub>[#186912](https://github.com/flutter/flutter/pull/186912) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186912) 130 additions and 3 deletions in 2 files</sub><br />
