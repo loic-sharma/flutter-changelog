@@ -78,7 +78,7 @@
   <sub>[#185959](https://github.com/flutter/flutter/pull/185959) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185959) 31 additions and 0 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from outlined_button_test.dart<br />
-  <sub>[#185964](https://github.com/flutter/flutter/pull/185964) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185964) 32 additions and 45 deletions in 1 file</sub><br />
+  <sub>[#185964](https://github.com/flutter/flutter/pull/185964) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185964) 53 additions and 64 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from filled_button_test.dart<br />
   <sub>[#185965](https://github.com/flutter/flutter/pull/185965) opened on on May 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185965) 34 additions and 47 deletions in 1 file</sub><br />
@@ -87,10 +87,10 @@
   <sub>[#185972](https://github.com/flutter/flutter/pull/185972) opened on on May 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/185972) 4 additions and 6 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from autocomplete_test.dart<br />
-  <sub>[#185973](https://github.com/flutter/flutter/pull/185973) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185973) 2 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#185973](https://github.com/flutter/flutter/pull/185973) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185973) 29 additions and 29 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from animated_icons_test.dart<br />
-  <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185974) 3 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185974) 1 addition and 6 deletions in 1 file</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Painting decorations directly on CanvasKit<br />
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
@@ -309,7 +309,7 @@
   <sub>[#186674](https://github.com/flutter/flutter/pull/186674) opened on on May 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186674) 67 additions and 41 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move drawer route tests to Material<br />
-  <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186675) 27 additions and 26 deletions in 2 files</sub><br />
+  <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186675) 25 additions and 28 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
@@ -324,7 +324,10 @@
   <sub>[#186767](https://github.com/flutter/flutter/pull/186767) opened on on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186767) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material rendering tests to material<br />
-  <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186776) 0 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186776) 88 additions and 118 deletions in 4 files</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material color tests to material<br />
+  <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Scope widget inspector overlay to the selected widget's modal route<br />
   <sub>[#186784](https://github.com/flutter/flutter/pull/186784) opened on on May 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186784) 320 additions and 2 deletions in 2 files</sub><br />
@@ -387,5 +390,17 @@
   <sub>[#186859](https://github.com/flutter/flutter/pull/186859) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186859) 27 additions and 9 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify lazy scroll extent docs<br />
-  <sub>[#186864](https://github.com/flutter/flutter/pull/186864) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186864) 11 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186864](https://github.com/flutter/flutter/pull/186864) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186864) 12 additions and 0 deletions in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify async builder side effects<br />
+  <sub>[#186865](https://github.com/flutter/flutter/pull/186865) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186865) 13 additions and 0 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify opacity hit testing and semantics<br />
+  <sub>[#186867](https://github.com/flutter/flutter/pull/186867) opened on on May 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186867) 72 additions and 18 deletions in 4 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
+  <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186868) 62 additions and 0 deletions in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Remove avoid_type_to_string suppressions<br />
+  <sub>[#186869](https://github.com/flutter/flutter/pull/186869) opened on on May 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186869) 39 additions and 7 deletions in 6 files</sub><br />
 
