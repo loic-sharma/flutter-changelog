@@ -171,7 +171,7 @@
   <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Remove Cupertino semantics tester cross-imports<br />
-  <sub>[#186503](https://github.com/flutter/flutter/pull/186503) opened on on May 14, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/186503) 1412 additions and 17 deletions in 17 files</sub><br />
+  <sub>[#186503](https://github.com/flutter/flutter/pull/186503) opened on on May 14, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186503) 1412 additions and 17 deletions in 17 files</sub><br />
 
 * **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples/indexed_stack: dispose TextEditingController<br />
   <sub>[#186512](https://github.com/flutter/flutter/pull/186512) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186512) 5 additions and 0 deletions in 1 file</sub><br />
@@ -195,7 +195,7 @@
   <sub>[#186524](https://github.com/flutter/flutter/pull/186524) opened on on May 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186524) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Apply ScrollbarTheme to iOS Scrollbar<br />
-  <sub>[#186529](https://github.com/flutter/flutter/pull/186529) opened on on May 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186529) 175 additions and 102 deletions in 4 files</sub><br />
+  <sub>[#186529](https://github.com/flutter/flutter/pull/186529) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186529) 175 additions and 102 deletions in 4 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Scope NavigationBar sample ScaffoldMessenger<br />
   <sub>[#186533](https://github.com/flutter/flutter/pull/186533) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186533) 62 additions and 19 deletions in 2 files</sub><br />
@@ -210,7 +210,7 @@
   <sub>[#186553](https://github.com/flutter/flutter/pull/186553) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186553) 38 additions and 0 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Restore Material PageRouteBuilder barrier goldens<br />
-  <sub>[#186566](https://github.com/flutter/flutter/pull/186566) opened on on May 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186566) 105 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#186566](https://github.com/flutter/flutter/pull/186566) opened on on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186566) 105 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jules Blok](https://github.com/CrossVR)** &mdash; os.dart: Switch the codepage to UTF-8 when calling where.exe<br />
   <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
@@ -346,4 +346,10 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use swift demangle to verify internal Swift symbols<br />
   <sub>[#186835](https://github.com/flutter/flutter/pull/186835) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186835) 122 additions and 57 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Avoid detached platform view placeholder callbacks<br />
+  <sub>[#186840](https://github.com/flutter/flutter/pull/186840) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186840) 84 additions and 0 deletions in 3 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Respect disallowed stretch on fling end<br />
+  <sub>[#186841](https://github.com/flutter/flutter/pull/186841) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186841) 51 additions and 1 deletion in 2 files</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-31 commits.
+33 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing<br />
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) merged on May 20, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/flutter/pull/185534) over 3 weeks, 1101 additions and 218 deletions in 13 files</sub><br />
@@ -27,6 +27,10 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
   <sub><details><summary>1 image...</summary><img width="726" height="204" alt="Screenshot 2026-05-16 at 21 07 03" src="https://github.com/user-attachments/assets/2827496d-8c81-4980-9376-90fa6b6a46fc" /></details></sub>
 
+* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material imports from non-Material tests in flutter package<br />
+  <sub>[#185271](https://github.com/flutter/flutter/pull/185271) merged on May 21, 2026 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/185271) over 1 month, 4 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Detached traversal child should update its traversal parent<br />
   <sub>[#186118](https://github.com/flutter/flutter/pull/186118) merged on May 20, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186118) over 2 weeks, 124 additions and 57 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -38,6 +42,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Upgrade Flutter Test Apps to AGP 9<br />
   <sub>[#186200](https://github.com/flutter/flutter/pull/186200) merged on May 18, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/186200) over 1 week, 10550 additions and 9666 deletions in 166 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix owner-mismatch crash for OverlayPortal inside a deferred-mount parent (e.g. Table)<br />
+  <sub>[#185793](https://github.com/flutter/flutter/pull/185793) merged on May 21, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/185793) over 3 weeks, 60 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Improve zoom behavior and add zoom slider<br />
   <sub>[#186422](https://github.com/flutter/flutter/pull/186422) merged on May 19, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/186422) over 6 days, 654 additions and 108 deletions in 9 files</sub><br />
