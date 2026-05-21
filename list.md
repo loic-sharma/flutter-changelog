@@ -14,6 +14,10 @@
   <sub>[#186541](https://github.com/flutter/flutter/pull/186541) merged on May 19, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186541) over 5 days, 139 additions and 75 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Navaron Bracke](https://github.com/navaronbracke)</sub>
 
+* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material imports from non-Material tests in flutter package
+  <sub>[#185271](https://github.com/flutter/flutter/pull/185271) merged on May 21, 2026 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/185271) over 1 month, 4 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code
   <sub>[#184994](https://github.com/flutter/flutter/pull/184994) merged on May 19, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/184994) over 1 month, 83 additions and 1947 deletions in 25 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Parker Lougheed](https://github.com/parlough), [hellohuanlin](https://github.com/hellohuanlin)</sub>
@@ -26,10 +30,6 @@
   <sub>[#186629](https://github.com/flutter/flutter/pull/186629) merged on May 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186629) over 2 days, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
   <sub><details><summary>1 image...</summary><img width="726" height="204" alt="Screenshot 2026-05-16 at 21 07 03" src="https://github.com/user-attachments/assets/2827496d-8c81-4980-9376-90fa6b6a46fc" /></details></sub>
-
-* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material imports from non-Material tests in flutter package
-  <sub>[#185271](https://github.com/flutter/flutter/pull/185271) merged on May 21, 2026 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/185271) over 1 month, 4 additions and 6 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Detached traversal child should update its traversal parent
   <sub>[#186118](https://github.com/flutter/flutter/pull/186118) merged on May 20, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186118) over 2 weeks, 124 additions and 57 deletions in 2 files</sub>

@@ -377,3 +377,12 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix layers rendering semantics startup<br />
   <sub>[#186855](https://github.com/flutter/flutter/pull/186855) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186855) 36 additions and 3 deletions in 2 files</sub><br />
 
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix AnimatedList.separated tail reinsertion<br />
+  <sub>[#186857](https://github.com/flutter/flutter/pull/186857) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186857) 109 additions and 3 deletions in 2 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document Android Emulator raw key repeat behavior<br />
+  <sub>[#186858](https://github.com/flutter/flutter/pull/186858) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186858) 9 additions and 0 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify HitTestBehavior docs<br />
+  <sub>[#186859](https://github.com/flutter/flutter/pull/186859) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186859) 27 additions and 9 deletions in 2 files</sub><br />
+
