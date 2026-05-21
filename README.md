@@ -754,11 +754,16 @@
 
 ### May 16, 2026 to May 22, 2026
 
-17 commits.
+18 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add SwiftPM Add to App Docs<br />
   <sub>[#13318](https://github.com/flutter/website/pull/13318) merged on May 18, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/website/pull/13318) over 2 weeks, 1109 additions and 233 deletions in 15 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Amos](https://github.com/AmosHuKe)** &mdash; docs: fix the diff code block<br />
+  <sub>[#13417](https://github.com/flutter/website/pull/13417) merged on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13417) over 11 hours, 6 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="920" height="347" alt="1" src="https://github.com/user-attachments/assets/c4b7d2d5-367c-4b7a-bdbf-a5302587dc02" /><img width="917" height="371" alt="2" src="https://github.com/user-attachments/assets/81301bbf-2bc3-44f3-a5f7-8c00db78d313" /></details></sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Tighten miscellaneous dependency constraints<br />
   <sub>[#13410](https://github.com/flutter/website/pull/13410) merged on May 20, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/13410) over 3 hours, 347 additions and 163 deletions in 84 files</sub><br />
