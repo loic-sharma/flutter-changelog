@@ -315,7 +315,7 @@
   <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186813) 25 additions and 21 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix cutoff text in WebParagraph<br />
-  <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186819) 172 additions and 92 deletions in 5 files</sub><br />
+  <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186819) 172 additions and 92 deletions in 5 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Use swift demangle to verify internal Swift symbols<br />
   <sub>[#186835](https://github.com/flutter/flutter/pull/186835) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186835) 122 additions and 57 deletions in 1 file</sub><br />
@@ -430,4 +430,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level<br />
   <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Build script updates for syncing engine sources and building artifacts on linux-arm64<br />
+  <sub>[#186917](https://github.com/flutter/flutter/pull/186917) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186917) 4 additions and 8 deletions in 3 files</sub><br />
 
