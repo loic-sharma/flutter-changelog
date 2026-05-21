@@ -96,7 +96,7 @@
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
-  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tools] Add doctor validator warning for multiple adb installations<br />
   <sub>[#186031](https://github.com/flutter/flutter/pull/186031) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186031) 131 additions and 0 deletions in 3 files</sub><br />
@@ -162,7 +162,7 @@
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
-  <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
 
 * **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples/indexed_stack: dispose TextEditingController<br />
   <sub>[#186512](https://github.com/flutter/flutter/pull/186512) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186512) 5 additions and 0 deletions in 1 file</sub><br />
@@ -427,4 +427,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update SwiftPM deployment version to match app during "flutter build ipa"<br />
   <sub>[#186912](https://github.com/flutter/flutter/pull/186912) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186912) 130 additions and 3 deletions in 2 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level<br />
+  <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
 
