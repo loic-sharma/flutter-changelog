@@ -29,6 +29,9 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
   <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/182788) 164 additions and 50 deletions in 11 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `Key` → `Object` in internal framework logic<br />
+  <sub>[#183693](https://github.com/flutter/flutter/pull/183693) opened on on March 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183693) 59 additions and 66 deletions in 16 files</sub><br />
+
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
@@ -408,7 +411,7 @@
   <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186904) 3 additions and 6 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; opts the linux embedder into sdf rendering<br />
-  <sub>[#186909](https://github.com/flutter/flutter/pull/186909) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186909) 49 additions and 22 deletions in 7 files</sub><br />
+  <sub>[#186909](https://github.com/flutter/flutter/pull/186909) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186909) 49 additions and 22 deletions in 7 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update SwiftPM deployment version to match app during "flutter build ipa"<br />
   <sub>[#186912](https://github.com/flutter/flutter/pull/186912) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186912) 130 additions and 3 deletions in 2 files</sub><br />
