@@ -270,7 +270,7 @@
   <sub>[#186650](https://github.com/flutter/flutter/pull/186650) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186650) 59 additions and 2 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material selection tests<br />
-  <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186670) 5 additions and 5 deletions in 5 files</sub><br />
+  <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/186670) 182 additions and 188 deletions in 5 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from selectable region context menu tests<br />
   <sub>[#186672](https://github.com/flutter/flutter/pull/186672) opened on on May 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186672) 7 additions and 7 deletions in 2 files</sub><br />
@@ -433,4 +433,7 @@
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from painting tests<br />
   <sub>[#186937](https://github.com/flutter/flutter/pull/186937) opened on on May 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186937) 53 additions and 60 deletions in 3 files</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove material imports from rendering tests<br />
+  <sub>[#186938](https://github.com/flutter/flutter/pull/186938) opened on on May 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186938) 47 additions and 26 deletions in 4 files</sub><br />
 
