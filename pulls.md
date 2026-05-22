@@ -407,8 +407,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Do not share pointer counter between tests<br />
   <sub>[#186898](https://github.com/flutter/flutter/pull/186898) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186898) 2 additions and 9 deletions in 2 files</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering tests<br />
-  <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186904) 3 additions and 6 deletions in 4 files</sub><br />
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering pipeline, proxy, and object tests<br />
+  <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186904) 6 additions and 7 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; opts the linux embedder into sdf rendering<br />
   <sub>[#186909](https://github.com/flutter/flutter/pull/186909) opened on on May 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186909) 50 additions and 22 deletions in 7 files</sub><br />
@@ -427,4 +427,7 @@
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify AppLifecycleListener resume callback docs<br />
   <sub>[#186932](https://github.com/flutter/flutter/pull/186932) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186932) 13 additions and 3 deletions in 1 file</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix SwiftPM identity for path dependency plugins<br />
+  <sub>[#186934](https://github.com/flutter/flutter/pull/186934) opened on on May 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186934) 69 additions and 11 deletions in 2 files</sub><br />
 
