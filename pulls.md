@@ -447,7 +447,7 @@
   <sub>[#186974](https://github.com/flutter/flutter/pull/186974) opened on on May 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186974) 9 additions and 0 deletions in 3 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] Optimize skwasm text layout and path decoding to eliminate dynamic boxing churn under Wasm<br />
-  <sub>[#186978](https://github.com/flutter/flutter/pull/186978) opened on on May 22, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/186978) 27 additions and 18 deletions in 3 files</sub><br />
+  <sub>[#186978](https://github.com/flutter/flutter/pull/186978) opened on on May 22, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/186978) 27 additions and 18 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update batch release doc to reflect latest workflow<br />
   <sub>[#186979](https://github.com/flutter/flutter/pull/186979) opened on on May 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186979) 5 additions and 6 deletions in 1 file</sub><br />
