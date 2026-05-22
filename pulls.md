@@ -300,7 +300,7 @@
   <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186813) 25 additions and 21 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix cutoff text in WebParagraph<br />
-  <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/186819) 199 additions and 124 deletions in 5 files</sub><br />
+  <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/186819) 199 additions and 124 deletions in 5 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Avoid detached platform view placeholder callbacks<br />
   <sub>[#186840](https://github.com/flutter/flutter/pull/186840) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186840) 84 additions and 0 deletions in 3 files</sub><br />
@@ -435,16 +435,16 @@
   <sub>[#186951](https://github.com/flutter/flutter/pull/186951) opened on on May 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186951) 78 additions and 71 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Handle DTD connection failures gracefully in widget-preview<br />
-  <sub>[#186952](https://github.com/flutter/flutter/pull/186952) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186952) 60 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#186952](https://github.com/flutter/flutter/pull/186952) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186952) 64 additions and 8 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
-  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186953) 1038 additions and 69 deletions in 4 files</sub><br />
+  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186953) 1083 additions and 69 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool Robustness] Implement global file-system exception mapping and retry policy in ErrorHandlingFileSystem<br />
-  <sub>[#186961](https://github.com/flutter/flutter/pull/186961) opened on on May 22, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/186961) 816 additions and 123 deletions in 2 files</sub><br />
+  <sub>[#186961](https://github.com/flutter/flutter/pull/186961) opened on on May 22, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/186961) 934 additions and 161 deletions in 7 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts<br />
-  <sub>[#186964](https://github.com/flutter/flutter/pull/186964) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186964) 191 additions and 99 deletions in 4 files</sub><br />
+  <sub>[#186964](https://github.com/flutter/flutter/pull/186964) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186964) 86 additions and 2 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update FlutterGeneratedPluginSwiftPackage deployment target during Xcode build<br />
   <sub>[#186967](https://github.com/flutter/flutter/pull/186967) opened on on May 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186967) 597 additions and 17 deletions in 10 files</sub><br />
