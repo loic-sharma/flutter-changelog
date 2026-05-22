@@ -4,7 +4,7 @@
 
 ### May 16, 2026 to May 22, 2026
 
-39 commits.
+40 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing
   <sub>[#185534](https://github.com/flutter/flutter/pull/185534) merged on May 20, 2026 &mdash; **Large:** [67 comments](https://github.com/flutter/flutter/pull/185534) over 3 weeks, 1101 additions and 218 deletions in 13 files</sub>
@@ -55,13 +55,17 @@
   <sub>[#186422](https://github.com/flutter/flutter/pull/186422) merged on May 19, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/186422) over 6 days, 654 additions and 108 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Stop generating widget preview scaffold under $TMP
+  <sub>[#186476](https://github.com/flutter/flutter/pull/186476) merged on May 22, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/186476) over 1 week, 261 additions and 81 deletions in 20 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some issues in the integration between EmbedderExternalViewEmbedder and Impeller
+  <sub>[#184905](https://github.com/flutter/flutter/pull/184905) merged on May 21, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/184905) over 1 month, 220 additions and 104 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matej Knopp](https://github.com/knopp)</sub>
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; fix(web): Fixes CSS override detection when the browser has a default font size
   <sub>[#186474](https://github.com/flutter/flutter/pull/186474) merged on May 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186474) over 6 days, 62 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
-
-* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix AnimatedList.separated assert when removing last item mid-removal…
-  <sub>[#186389](https://github.com/flutter/flutter/pull/186389) merged on May 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186389) over 1 week, 83 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds linux impeller hello world integration test
   <sub>[#186715](https://github.com/flutter/flutter/pull/186715) merged on May 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186715) over 22 hours, 94 additions and 0 deletions in 3 files</sub>
@@ -75,9 +79,9 @@
   <sub>[#185226](https://github.com/flutter/flutter/pull/185226) merged on May 18, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185226) over 1 month, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [John "codefu" McDole](https://github.com/jtmcdole), [b-luk](https://github.com/b-luk)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some issues in the integration between EmbedderExternalViewEmbedder and Impeller
-  <sub>[#184905](https://github.com/flutter/flutter/pull/184905) merged on May 21, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/184905) over 1 month, 220 additions and 104 deletions in 7 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matej Knopp](https://github.com/knopp)</sub>
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix AnimatedList.separated assert when removing last item mid-removal…
+  <sub>[#186389](https://github.com/flutter/flutter/pull/186389) merged on May 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186389) over 1 week, 83 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move prefetchSwiftPackages to be per platform
   <sub>[#186468](https://github.com/flutter/flutter/pull/186468) merged on May 21, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186468) over 1 week, 658 additions and 542 deletions in 7 files</sub>
