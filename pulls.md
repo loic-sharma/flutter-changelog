@@ -284,9 +284,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools, devicelab] Add safety filesystem guard to tests<br />
-  <sub>[#186748](https://github.com/flutter/flutter/pull/186748) opened on on May 19, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186748) 1452 additions and 10 deletions in 9 files</sub><br />
-
 * **[Kercy](https://github.com/KercyDing)** &mdash; [Impeller] Fix hardcoded Vulkan validation state in C API<br />
   <sub>[#186767](https://github.com/flutter/flutter/pull/186767) opened on on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186767) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -403,9 +400,6 @@
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document key event simulation platforms<br />
   <sub>[#186895](https://github.com/flutter/flutter/pull/186895) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186895) 19 additions and 42 deletions in 2 files</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix typo in StretchingOverscrollIndicator docs<br />
-  <sub>[#186897](https://github.com/flutter/flutter/pull/186897) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186897) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Do not share pointer counter between tests<br />
   <sub>[#186898](https://github.com/flutter/flutter/pull/186898) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186898) 2 additions and 9 deletions in 2 files</sub><br />
