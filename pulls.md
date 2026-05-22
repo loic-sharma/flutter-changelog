@@ -5,9 +5,6 @@
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
   <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium<br />
-  <sub>[#178133](https://github.com/flutter/flutter/pull/178133) opened on on November 6, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/178133) 61 additions and 62 deletions in 8 files</sub><br />
-
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use local lld explicitly in custom toolchain<br />
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
@@ -407,9 +404,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; opts the linux embedder into sdf rendering<br />
   <sub>[#186909](https://github.com/flutter/flutter/pull/186909) opened on on May 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186909) 50 additions and 22 deletions in 7 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update SwiftPM deployment version to match app during "flutter build ipa"<br />
-  <sub>[#186912](https://github.com/flutter/flutter/pull/186912) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186912) 130 additions and 3 deletions in 2 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level<br />
   <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
 
@@ -454,4 +448,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update FlutterGeneratedPluginSwiftPackage deployment target during Xcode build<br />
   <sub>[#186967](https://github.com/flutter/flutter/pull/186967) opened on on May 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186967) 597 additions and 17 deletions in 10 files</sub><br />
+
+* **[Simon Binder](https://github.com/simolus3)** &mdash; Import `dart:_js_interop_wasm` in addition to `dart:_wasm` to convert between `JSAny` and `WasmExternRef?`<br />
+  <sub>[#186974](https://github.com/flutter/flutter/pull/186974) opened on on May 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186974) 9 additions and 0 deletions in 3 files</sub><br />
 
