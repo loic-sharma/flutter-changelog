@@ -411,7 +411,7 @@
   <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186904) 3 additions and 6 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; opts the linux embedder into sdf rendering<br />
-  <sub>[#186909](https://github.com/flutter/flutter/pull/186909) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186909) 49 additions and 22 deletions in 7 files</sub><br />
+  <sub>[#186909](https://github.com/flutter/flutter/pull/186909) opened on on May 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186909) 50 additions and 22 deletions in 7 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update SwiftPM deployment version to match app during "flutter build ipa"<br />
   <sub>[#186912](https://github.com/flutter/flutter/pull/186912) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186912) 130 additions and 3 deletions in 2 files</sub><br />
