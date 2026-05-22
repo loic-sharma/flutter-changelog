@@ -440,6 +440,6 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Document moveStep direction on WidgetController.dragUntilVisible<br />
   <sub>[#186943](https://github.com/flutter/flutter/pull/186943) opened on on May 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186943) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Use Transform for stretch overscroll under Impeller to fix text distortion<br />
-  <sub>[#186945](https://github.com/flutter/flutter/pull/186945) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186945) 113 additions and 44 deletions in 3 files</sub><br />
+* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix stretch overscroll text distortion under Impeller (#167795)<br />
+  <sub>[#186945](https://github.com/flutter/flutter/pull/186945) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186945) 164 additions and 67 deletions in 3 files</sub><br />
 
