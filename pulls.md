@@ -417,7 +417,7 @@
   <sub>[#186917](https://github.com/flutter/flutter/pull/186917) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186917) 4 additions and 8 deletions in 3 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Make `InheritedTheme` "ubiquitous"<br />
-  <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186923) 144 additions and 50 deletions in 4 files</sub><br />
+  <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186923) 144 additions and 50 deletions in 4 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify AppLifecycleListener resume callback docs<br />
   <sub>[#186932](https://github.com/flutter/flutter/pull/186932) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186932) 13 additions and 3 deletions in 1 file</sub><br />
@@ -445,7 +445,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
   <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186953) 272 additions and 3 deletions in 2 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool/iOS] Fix temp directory cleanup crashes and add robust file verification<br />
-  <sub>[#186956](https://github.com/flutter/flutter/pull/186956) opened on on May 22, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/186956) 606 additions and 7 deletions in 4 files</sub><br />
 
