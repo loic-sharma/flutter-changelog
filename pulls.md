@@ -401,9 +401,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering pipeline, proxy, and object tests<br />
   <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186904) 6 additions and 7 deletions in 4 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; opts the linux embedder into sdf rendering<br />
-  <sub>[#186909](https://github.com/flutter/flutter/pull/186909) opened on on May 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186909) 50 additions and 22 deletions in 7 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level<br />
   <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
 
@@ -450,7 +447,7 @@
   <sub>[#186974](https://github.com/flutter/flutter/pull/186974) opened on on May 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186974) 9 additions and 0 deletions in 3 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] Optimize skwasm text layout and path decoding to eliminate dynamic boxing churn under Wasm<br />
-  <sub>[#186978](https://github.com/flutter/flutter/pull/186978) opened on on May 22, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186978) 69 additions and 18 deletions in 3 files</sub><br />
+  <sub>[#186978](https://github.com/flutter/flutter/pull/186978) opened on on May 22, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/186978) 27 additions and 18 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update batch release doc to reflect latest workflow<br />
   <sub>[#186979](https://github.com/flutter/flutter/pull/186979) opened on on May 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186979) 5 additions and 6 deletions in 1 file</sub><br />
