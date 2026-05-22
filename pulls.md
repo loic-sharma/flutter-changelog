@@ -299,9 +299,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph locales test<br />
   <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186813) 25 additions and 21 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix cutoff text in WebParagraph<br />
-  <sub>[#186819](https://github.com/flutter/flutter/pull/186819) opened on on May 20, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/186819) 199 additions and 124 deletions in 5 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Avoid detached platform view placeholder callbacks<br />
   <sub>[#186840](https://github.com/flutter/flutter/pull/186840) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186840) 84 additions and 0 deletions in 3 files</sub><br />
 
