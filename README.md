@@ -109,7 +109,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [John "codefu" McDole](https://github.com/jtmcdole), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; opts the linux embedder into sdf rendering<br />
-  <sub>[#186909](https://github.com/flutter/flutter/pull/186909) merged on May 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186909) over 1 day, 50 additions and 22 deletions in 7 files</sub><br />
+  <sub>[#186909](https://github.com/flutter/flutter/pull/186909) merged on May 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186909) over 1 day, 50 additions and 22 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell), [Andy Wolff](https://github.com/andywolff)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Move prefetchSwiftPackages to be per platform<br />
