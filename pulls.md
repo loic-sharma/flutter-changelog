@@ -467,3 +467,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Split system font tests by library ownership<br />
   <sub>[#187003](https://github.com/flutter/flutter/pull/187003) opened on on May 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187003) 243 additions and 215 deletions in 4 files</sub><br />
 
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material scrollbar regression test to material<br />
+  <sub>[#187004](https://github.com/flutter/flutter/pull/187004) opened on on May 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187004) 46 additions and 46 deletions in 3 files</sub><br />
+
