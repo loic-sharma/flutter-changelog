@@ -395,6 +395,9 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Do not share pointer counter between tests<br />
   <sub>[#186898](https://github.com/flutter/flutter/pull/186898) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186898) 2 additions and 9 deletions in 2 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing (2nd try)<br />
+  <sub>[#186902](https://github.com/flutter/flutter/pull/186902) opened on on May 21, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/186902) 1075 additions and 188 deletions in 13 files</sub><br />
+
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering pipeline, proxy, and object tests<br />
   <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186904) 6 additions and 7 deletions in 4 files</sub><br />
 
@@ -442,9 +445,6 @@
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Import `dart:_js_interop_wasm` in addition to `dart:_wasm` to convert between `JSAny` and `WasmExternRef?`<br />
   <sub>[#186974](https://github.com/flutter/flutter/pull/186974) opened on on May 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186974) 9 additions and 0 deletions in 3 files</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] Optimize skwasm text layout and path decoding to eliminate dynamic boxing churn under Wasm<br />
-  <sub>[#186978](https://github.com/flutter/flutter/pull/186978) opened on on May 22, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/186978) 27 additions and 18 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update batch release doc to reflect latest workflow<br />
   <sub>[#186979](https://github.com/flutter/flutter/pull/186979) opened on on May 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186979) 5 additions and 6 deletions in 1 file</sub><br />
