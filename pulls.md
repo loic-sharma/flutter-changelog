@@ -420,7 +420,7 @@
   <sub>[#186937](https://github.com/flutter/flutter/pull/186937) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186937) 53 additions and 60 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove material imports from rendering tests<br />
-  <sub>[#186938](https://github.com/flutter/flutter/pull/186938) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186938) 38 additions and 20 deletions in 3 files</sub><br />
+  <sub>[#186938](https://github.com/flutter/flutter/pull/186938) opened on on May 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186938) 38 additions and 20 deletions in 3 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Document moveStep direction on WidgetController.dragUntilVisible<br />
   <sub>[#186943](https://github.com/flutter/flutter/pull/186943) opened on on May 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186943) 6 additions and 0 deletions in 1 file</sub><br />
@@ -450,5 +450,11 @@
   <sub>[#186979](https://github.com/flutter/flutter/pull/186979) opened on on May 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186979) 5 additions and 6 deletions in 1 file</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Disable default scrollbars for NestedScrollView bodies<br />
-  <sub>[#186993](https://github.com/flutter/flutter/pull/186993) opened on on May 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186993) 13 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#186993](https://github.com/flutter/flutter/pull/186993) opened on on May 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186993) 54 additions and 1 deletion in 2 files</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from view chrome style test<br />
+  <sub>[#186994](https://github.com/flutter/flutter/pull/186994) opened on on May 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186994) 64 additions and 63 deletions in 2 files</sub><br />
+
+* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [EditableText] refactor: Add double-tap word selection to EditableText via SerialTapGestureRecognizer<br />
+  <sub>[#186995](https://github.com/flutter/flutter/pull/186995) opened on on May 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186995) 136 additions and 9 deletions in 2 files</sub><br />
 
