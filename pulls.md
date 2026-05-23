@@ -470,3 +470,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material scrollbar regression test to material<br />
   <sub>[#187004](https://github.com/flutter/flutter/pull/187004) opened on on May 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187004) 46 additions and 46 deletions in 3 files</sub><br />
 
+* **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix stale _entries and pointer tracking in OneSequenceGestureRecognizer.rejectGesture<br />
+  <sub>[#187008](https://github.com/flutter/flutter/pull/187008) opened on on May 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187008) 108 additions and 5 deletions in 8 files</sub><br />
+
