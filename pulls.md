@@ -273,7 +273,7 @@
   <sub>[#186673](https://github.com/flutter/flutter/pull/186673) opened on on May 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186673) 130 additions and 62 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from navigator replacement tests<br />
-  <sub>[#186674](https://github.com/flutter/flutter/pull/186674) opened on on May 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186674) 67 additions and 41 deletions in 2 files</sub><br />
+  <sub>[#186674](https://github.com/flutter/flutter/pull/186674) opened on on May 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186674) 67 additions and 41 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move drawer route tests to Material<br />
   <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186675) 25 additions and 28 deletions in 2 files</sub><br />
@@ -399,7 +399,7 @@
   <sub>[#186902](https://github.com/flutter/flutter/pull/186902) opened on on May 21, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/186902) 1075 additions and 188 deletions in 13 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering pipeline, proxy, and object tests<br />
-  <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186904) 6 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186904) 5 additions and 7 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level<br />
   <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
@@ -420,7 +420,7 @@
   <sub>[#186937](https://github.com/flutter/flutter/pull/186937) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186937) 53 additions and 60 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove material imports from rendering tests<br />
-  <sub>[#186938](https://github.com/flutter/flutter/pull/186938) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186938) 47 additions and 26 deletions in 4 files</sub><br />
+  <sub>[#186938](https://github.com/flutter/flutter/pull/186938) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186938) 38 additions and 20 deletions in 3 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Document moveStep direction on WidgetController.dragUntilVisible<br />
   <sub>[#186943](https://github.com/flutter/flutter/pull/186943) opened on on May 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186943) 6 additions and 0 deletions in 1 file</sub><br />
@@ -429,7 +429,7 @@
   <sub>[#186945](https://github.com/flutter/flutter/pull/186945) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186945) 164 additions and 67 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering editable tests<br />
-  <sub>[#186951](https://github.com/flutter/flutter/pull/186951) opened on on May 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186951) 78 additions and 71 deletions in 3 files</sub><br />
+  <sub>[#186951](https://github.com/flutter/flutter/pull/186951) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186951) 78 additions and 71 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Handle DTD connection failures gracefully in widget-preview<br />
   <sub>[#186952](https://github.com/flutter/flutter/pull/186952) opened on on May 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186952) 64 additions and 8 deletions in 3 files</sub><br />
@@ -448,4 +448,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update batch release doc to reflect latest workflow<br />
   <sub>[#186979](https://github.com/flutter/flutter/pull/186979) opened on on May 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186979) 5 additions and 6 deletions in 1 file</sub><br />
+
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Disable default scrollbars for NestedScrollView bodies<br />
+  <sub>[#186993](https://github.com/flutter/flutter/pull/186993) opened on on May 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186993) 13 additions and 1 deletion in 2 files</sub><br />
 
