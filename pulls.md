@@ -461,3 +461,9 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from sliver tree rendering test<br />
   <sub>[#187000](https://github.com/flutter/flutter/pull/187000) opened on on May 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187000) 67 additions and 23 deletions in 2 files</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate VSyncClient and DisplayLinkManager to Swift<br />
+  <sub>[#187001](https://github.com/flutter/flutter/pull/187001) opened on on May 23, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187001) 317 additions and 380 deletions in 13 files</sub><br />
+
+* **[Abhay](https://github.com/abhaysaqi)** &mdash; Fix: guard against detached RenderObject in _PlatformViewPlaceholderBox<br />
+  <sub>[#187002](https://github.com/flutter/flutter/pull/187002) opened on on May 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187002) 44 additions and 1 deletion in 2 files</sub><br />
+
