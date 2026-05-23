@@ -399,7 +399,7 @@
   <sub>[#186902](https://github.com/flutter/flutter/pull/186902) opened on on May 21, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/186902) 1075 additions and 188 deletions in 13 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering pipeline, proxy, and object tests<br />
-  <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186904) 5 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186904) 5 additions and 7 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level<br />
   <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
@@ -429,7 +429,7 @@
   <sub>[#186945](https://github.com/flutter/flutter/pull/186945) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186945) 164 additions and 67 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering editable tests<br />
-  <sub>[#186951](https://github.com/flutter/flutter/pull/186951) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186951) 78 additions and 71 deletions in 3 files</sub><br />
+  <sub>[#186951](https://github.com/flutter/flutter/pull/186951) opened on on May 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186951) 78 additions and 71 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Handle DTD connection failures gracefully in widget-preview<br />
   <sub>[#186952](https://github.com/flutter/flutter/pull/186952) opened on on May 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186952) 64 additions and 8 deletions in 3 files</sub><br />
@@ -453,7 +453,7 @@
   <sub>[#186993](https://github.com/flutter/flutter/pull/186993) opened on on May 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186993) 54 additions and 1 deletion in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from view chrome style test<br />
-  <sub>[#186994](https://github.com/flutter/flutter/pull/186994) opened on on May 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186994) 64 additions and 63 deletions in 2 files</sub><br />
+  <sub>[#186994](https://github.com/flutter/flutter/pull/186994) opened on on May 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186994) 64 additions and 63 deletions in 2 files</sub><br />
 
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [EditableText] refactor: Add double-tap word selection to EditableText via SerialTapGestureRecognizer<br />
   <sub>[#186995](https://github.com/flutter/flutter/pull/186995) opened on on May 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186995) 136 additions and 9 deletions in 2 files</sub><br />
