@@ -132,7 +132,7 @@
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) opened on on May 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186216) 23 additions and 12 deletions in 1 file</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Allow building projects lacking Runner.xcworkspace<br />
-  <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186239) 77 additions and 74 deletions in 5 files</sub><br />
+  <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186239) 77 additions and 74 deletions in 5 files</sub><br />
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImage.fadeInOver constructor to skip placeholder fade-out<br />
   <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186246) 252 additions and 38 deletions in 2 files</sub><br />
@@ -495,7 +495,7 @@
   <sub>[#187031](https://github.com/flutter/flutter/pull/187031) opened on on May 24, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/187031) 1703 additions and 1829 deletions in 3 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Windows desktop builds<br />
-  <sub>[#187034](https://github.com/flutter/flutter/pull/187034) opened on on May 24, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187034) 330 additions and 15 deletions in 11 files</sub><br />
+  <sub>[#187034](https://github.com/flutter/flutter/pull/187034) opened on on May 24, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187034) 330 additions and 15 deletions in 11 files</sub><br />
 
 * **[Marco Bazzani](https://github.com/marcobazzani)** &mdash; [flutter_tools] macOS: fail fast when `open` cannot foreground the app<br />
   <sub>[#187037](https://github.com/flutter/flutter/pull/187037) opened on on May 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187037) 113 additions and 10 deletions in 3 files</sub><br />
