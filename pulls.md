@@ -474,19 +474,19 @@
   <sub>[#187008](https://github.com/flutter/flutter/pull/187008) opened on on May 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187008) 108 additions and 5 deletions in 8 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code in `FlutterPluginUtils.kt`<br />
-  <sub>[#187012](https://github.com/flutter/flutter/pull/187012) opened on on May 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187012) 0 additions and 13 deletions in 1 file</sub><br />
+  <sub>[#187012](https://github.com/flutter/flutter/pull/187012) opened on on May 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187012) 0 additions and 13 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move inherited card theme test to material<br />
-  <sub>[#187025](https://github.com/flutter/flutter/pull/187025) opened on on May 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187025) 96 additions and 100 deletions in 3 files</sub><br />
+  <sub>[#187025](https://github.com/flutter/flutter/pull/187025) opened on on May 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187025) 97 additions and 100 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move page transition tests to material<br />
-  <sub>[#187026](https://github.com/flutter/flutter/pull/187026) opened on on May 24, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/187026) 1016 additions and 1044 deletions in 5 files</sub><br />
+  <sub>[#187026](https://github.com/flutter/flutter/pull/187026) opened on on May 24, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/187026) 1021 additions and 1044 deletions in 5 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from scrollable selection test<br />
-  <sub>[#187027](https://github.com/flutter/flutter/pull/187027) opened on on May 24, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187027) 302 additions and 286 deletions in 2 files</sub><br />
+  <sub>[#187027](https://github.com/flutter/flutter/pull/187027) opened on on May 24, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187027) 298 additions and 286 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Cupertino route tests to cupertino<br />
-  <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187028) 250 additions and 264 deletions in 4 files</sub><br />
+  <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187028) 178 additions and 264 deletions in 4 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
   <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187029) 206 additions and 15 deletions in 10 files</sub><br />
