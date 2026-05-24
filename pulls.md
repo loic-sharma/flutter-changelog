@@ -314,9 +314,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Improve async dispose diagnostics<br />
   <sub>[#186847](https://github.com/flutter/flutter/pull/186847) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186847) 53 additions and 1 deletion in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix crash if FlView is destroyed during a draw.<br />
-  <sub>[#186848](https://github.com/flutter/flutter/pull/186848) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186848) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Make ImageProvider sample web-compatible<br />
   <sub>[#186851](https://github.com/flutter/flutter/pull/186851) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186851) 69 additions and 46 deletions in 3 files</sub><br />
 
@@ -489,7 +486,7 @@
   <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187028) 178 additions and 264 deletions in 4 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
-  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187029) 206 additions and 15 deletions in 10 files</sub><br />
+  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187029) 206 additions and 15 deletions in 10 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Split Form tests by widget ownership<br />
   <sub>[#187031](https://github.com/flutter/flutter/pull/187031) opened on on May 24, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/187031) 1703 additions and 1829 deletions in 3 files</sub><br />
