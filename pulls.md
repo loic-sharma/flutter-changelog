@@ -503,3 +503,6 @@
 * **[Kirtikumar Anandrao Ramchandani](https://github.com/KirtiRamchandani)** &mdash; Remove Material test multi-view utility cross-import<br />
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187039) 31 additions and 2 deletions in 1 file</sub><br />
 
+* **[Ali Mahmmoud](https://github.com/AliMahmoudDev)** &mdash; fix: resolve TestSemantics typo bugs<br />
+  <sub>[#187040](https://github.com/flutter/flutter/pull/187040) opened on on May 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187040) 6 additions and 8 deletions in 2 files</sub><br />
+
