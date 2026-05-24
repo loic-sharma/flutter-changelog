@@ -473,6 +473,9 @@
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix stale _entries and pointer tracking in OneSequenceGestureRecognizer.rejectGesture<br />
   <sub>[#187008](https://github.com/flutter/flutter/pull/187008) opened on on May 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187008) 108 additions and 5 deletions in 8 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code in `FlutterPluginUtils.kt`<br />
+  <sub>[#187012](https://github.com/flutter/flutter/pull/187012) opened on on May 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187012) 0 additions and 13 deletions in 1 file</sub><br />
+
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move inherited card theme test to material<br />
   <sub>[#187025](https://github.com/flutter/flutter/pull/187025) opened on on May 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187025) 96 additions and 100 deletions in 3 files</sub><br />
 
@@ -486,5 +489,5 @@
   <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187028) 250 additions and 264 deletions in 4 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
-  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187029) 203 additions and 15 deletions in 10 files</sub><br />
+  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187029) 206 additions and 15 deletions in 10 files</sub><br />
 
