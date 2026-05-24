@@ -497,3 +497,6 @@
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Windows desktop builds<br />
   <sub>[#187034](https://github.com/flutter/flutter/pull/187034) opened on on May 24, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/187034) 330 additions and 15 deletions in 11 files</sub><br />
 
+* **[Marco Bazzani](https://github.com/marcobazzani)** &mdash; [flutter_tools] macOS: fail fast when `open` cannot foreground the app<br />
+  <sub>[#187037](https://github.com/flutter/flutter/pull/187037) opened on on May 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187037) 77 additions and 8 deletions in 3 files</sub><br />
+
