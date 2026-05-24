@@ -14,6 +14,10 @@
   <sub>[#186006](https://github.com/flutter/flutter/pull/186006) merged on May 22, 2026 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/186006) over 2 weeks, 168 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
+* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material imports from non-Material tests in flutter package<br />
+  <sub>[#185271](https://github.com/flutter/flutter/pull/185271) merged on May 21, 2026 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/185271) over 1 month, 4 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Make EdgeDraggingAutoScroller respect ScrollPhysics<br />
   <sub>[#186541](https://github.com/flutter/flutter/pull/186541) merged on May 19, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186541) over 5 days, 139 additions and 75 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
@@ -26,10 +30,6 @@
   <sub>[#186819](https://github.com/flutter/flutter/pull/186819) merged on May 22, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/186819) over 2 days, 199 additions and 124 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub><br />
   <sub><details><summary>2 images...</summary><img width="200" height="86" alt="web_paragraph paint_overflows" src="https://github.com/user-attachments/assets/6ac913a1-f487-414d-8cda-2491f3ba82d6" /><img width="200" height="86" alt="web_paragraph paint_overflows" src="https://github.com/user-attachments/assets/2f3b7934-9f0b-48d0-aeea-1b259dd6f4a0" /></details></sub>
-
-* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Remove unnecessary Material imports from non-Material tests in flutter package<br />
-  <sub>[#185271](https://github.com/flutter/flutter/pull/185271) merged on May 21, 2026 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/185271) over 1 month, 4 additions and 6 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove legacy analytics code<br />
   <sub>[#184994](https://github.com/flutter/flutter/pull/184994) merged on May 19, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/184994) over 1 month, 83 additions and 1947 deletions in 25 files</sub><br />
