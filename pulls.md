@@ -35,9 +35,6 @@
 * **[xfce0](https://github.com/xfce0)** &mdash; Remove list_tile_tester and rendering_tester cross-imports from cupertino tests<br />
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/184588) 73 additions and 84 deletions in 3 files</sub><br />
 
-* **[RoomWithOutRoof](https://github.com/Jah-yee)** &mdash; Fix typos: 'occured' → 'occurred', 'aquire' → 'acquire'<br />
-  <sub>[#185243](https://github.com/flutter/flutter/pull/185243) opened on on April 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185243) 22 additions and 2 deletions in 7 files</sub><br />
-
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
