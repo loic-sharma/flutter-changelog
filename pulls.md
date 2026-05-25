@@ -503,3 +503,6 @@
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Print trace when skipping flavor-specific and platform-specific assets<br />
   <sub>[#187045](https://github.com/flutter/flutter/pull/187045) opened on on May 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187045) 25 additions and 4 deletions in 2 files</sub><br />
 
+* **[huahua8893](https://github.com/huahua8893)** &mdash; Fix Cupertino sheet covered top gap background<br />
+  <sub>[#187058](https://github.com/flutter/flutter/pull/187058) opened on on May 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187058) 89 additions and 9 deletions in 2 files</sub><br />
+
