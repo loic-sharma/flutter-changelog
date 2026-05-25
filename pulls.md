@@ -503,3 +503,6 @@
 * **[Ali Mahmmoud](https://github.com/AliMahmoudDev)** &mdash; fix: resolve TestSemantics typo bugs<br />
   <sub>[#187040](https://github.com/flutter/flutter/pull/187040) opened on on May 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187040) 6 additions and 8 deletions in 2 files</sub><br />
 
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Print trace when skipping flavor-specific and platform-specific assets<br />
+  <sub>[#187045](https://github.com/flutter/flutter/pull/187045) opened on on May 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187045) 17 additions and 4 deletions in 2 files</sub><br />
+
