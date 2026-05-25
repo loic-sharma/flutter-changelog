@@ -402,7 +402,7 @@
   <sub>[#186951](https://github.com/flutter/flutter/pull/186951) opened on on May 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186951) 78 additions and 71 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
-  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186953) 1083 additions and 69 deletions in 6 files</sub><br />
+  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186953) 1165 additions and 106 deletions in 6 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update FlutterGeneratedPluginSwiftPackage deployment target during Xcode build<br />
   <sub>[#186967](https://github.com/flutter/flutter/pull/186967) opened on on May 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186967) 597 additions and 17 deletions in 10 files</sub><br />
