@@ -90,7 +90,7 @@
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
-  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tools] Add doctor validator warning for multiple adb installations<br />
   <sub>[#186031](https://github.com/flutter/flutter/pull/186031) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186031) 131 additions and 0 deletions in 3 files</sub><br />
@@ -501,7 +501,7 @@
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187039) 31 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ali Mahmmoud](https://github.com/AliMahmoudDev)** &mdash; fix: resolve TestSemantics typo bugs<br />
-  <sub>[#187040](https://github.com/flutter/flutter/pull/187040) opened on on May 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187040) 6 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#187040](https://github.com/flutter/flutter/pull/187040) opened on on May 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187040) 8 additions and 10 deletions in 2 files</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Print trace when skipping flavor-specific and platform-specific assets<br />
   <sub>[#187045](https://github.com/flutter/flutter/pull/187045) opened on on May 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187045) 17 additions and 4 deletions in 2 files</sub><br />
