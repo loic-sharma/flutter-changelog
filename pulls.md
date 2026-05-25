@@ -504,5 +504,5 @@
   <sub>[#187040](https://github.com/flutter/flutter/pull/187040) opened on on May 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187040) 8 additions and 10 deletions in 2 files</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Print trace when skipping flavor-specific and platform-specific assets<br />
-  <sub>[#187045](https://github.com/flutter/flutter/pull/187045) opened on on May 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187045) 17 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#187045](https://github.com/flutter/flutter/pull/187045) opened on on May 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187045) 25 additions and 4 deletions in 2 files</sub><br />
 
