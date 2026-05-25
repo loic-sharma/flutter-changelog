@@ -183,7 +183,7 @@
   <sub>[#186566](https://github.com/flutter/flutter/pull/186566) opened on on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186566) 105 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jules Blok](https://github.com/CrossVR)** &mdash; os.dart: Switch the codepage to UTF-8 when calling where.exe<br />
-  <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug when changing accessibilityFocusBlockType doesn't update ch…<br />
   <sub>[#186596](https://github.com/flutter/flutter/pull/186596) opened on on May 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186596) 34 additions and 0 deletions in 2 files</sub><br />
@@ -244,9 +244,6 @@
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; Navigator: Surface an actionable error when build runs with empty history (#158182)<br />
   <sub>[#186649](https://github.com/flutter/flutter/pull/186649) opened on on May 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186649) 60 additions and 1 deletion in 2 files</sub><br />
-
-* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; [flutter_tools] Honor "optional": true on ARB placeholders (#177158)<br />
-  <sub>[#186650](https://github.com/flutter/flutter/pull/186650) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186650) 59 additions and 2 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material selection tests<br />
   <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/186670) 182 additions and 188 deletions in 5 files</sub><br />
@@ -329,9 +326,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
   <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Remove avoid_type_to_string suppressions<br />
-  <sub>[#186869](https://github.com/flutter/flutter/pull/186869) opened on on May 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186869) 64 additions and 13 deletions in 8 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Explain Navigator pointer cancellation<br />
   <sub>[#186870](https://github.com/flutter/flutter/pull/186870) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186870) 17 additions and 16 deletions in 1 file</sub><br />
 
@@ -343,9 +337,6 @@
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify contributor write access wording<br />
   <sub>[#186877](https://github.com/flutter/flutter/pull/186877) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186877) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify precache enabled platforms help<br />
-  <sub>[#186878](https://github.com/flutter/flutter/pull/186878) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186878) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify layout callback debug flag docs<br />
   <sub>[#186879](https://github.com/flutter/flutter/pull/186879) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186879) 12 additions and 2 deletions in 2 files</sub><br />
@@ -410,14 +401,8 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering editable tests<br />
   <sub>[#186951](https://github.com/flutter/flutter/pull/186951) opened on on May 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186951) 78 additions and 71 deletions in 3 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Handle DTD connection failures gracefully in widget-preview<br />
-  <sub>[#186952](https://github.com/flutter/flutter/pull/186952) opened on on May 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186952) 64 additions and 8 deletions in 3 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
   <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186953) 1083 additions and 69 deletions in 6 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts<br />
-  <sub>[#186964](https://github.com/flutter/flutter/pull/186964) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186964) 86 additions and 2 deletions in 4 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update FlutterGeneratedPluginSwiftPackage deployment target during Xcode build<br />
   <sub>[#186967](https://github.com/flutter/flutter/pull/186967) opened on on May 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186967) 597 additions and 17 deletions in 10 files</sub><br />
