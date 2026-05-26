@@ -4,7 +4,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-4 commits.
+5 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Retire Y-coord-scale plumbing by flipping GLES at the vertex stage
   <sub>[#186556](https://github.com/flutter/flutter/pull/186556) merged on May 26, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/186556) over 1 week, 386 additions and 226 deletions in 16 files</sub>
@@ -17,6 +17,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Fix version cache poisoning from git environment variables
   <sub>[#186595](https://github.com/flutter/flutter/pull/186595) merged on May 26, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186595) over 1 week, 566 additions and 270 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts
+  <sub>[#186964](https://github.com/flutter/flutter/pull/186964) merged on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186964) over 3 days, 86 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Handle DTD connection failures gracefully in widget-preview
   <sub>[#186952](https://github.com/flutter/flutter/pull/186952) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186952) over 3 days, 64 additions and 8 deletions in 3 files</sub>

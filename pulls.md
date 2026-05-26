@@ -372,7 +372,7 @@
   <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186904) 5 additions and 7 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level<br />
-  <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Build script updates for syncing engine sources and building artifacts on linux-arm64<br />
   <sub>[#186917](https://github.com/flutter/flutter/pull/186917) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186917) 4 additions and 8 deletions in 3 files</sub><br />
@@ -411,7 +411,7 @@
   <sub>[#186974](https://github.com/flutter/flutter/pull/186974) opened on on May 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186974) 9 additions and 0 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update batch release doc to reflect latest workflow<br />
-  <sub>[#186979](https://github.com/flutter/flutter/pull/186979) opened on on May 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186979) 5 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#186979](https://github.com/flutter/flutter/pull/186979) opened on on May 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186979) 5 additions and 6 deletions in 1 file</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Disable default scrollbars for NestedScrollView bodies<br />
   <sub>[#186993](https://github.com/flutter/flutter/pull/186993) opened on on May 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186993) 54 additions and 1 deletion in 2 files</sub><br />
@@ -475,4 +475,10 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow attaching specific texture mip levels and slices<br />
   <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/187066) 391 additions and 74 deletions in 20 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use resolved implementation plugins with SwiftPM<br />
+  <sub>[#187097](https://github.com/flutter/flutter/pull/187097) opened on on May 26, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187097) 297 additions and 44 deletions in 5 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Update Flutter DEPS to Dart fc3da898ea1664b8a8633f6ec03d2c2290bb3d01<br />
+  <sub>[#187105](https://github.com/flutter/flutter/pull/187105) opened on on May 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187105) 1 addition and 1 deletion in 1 file</sub><br />
 
