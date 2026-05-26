@@ -471,8 +471,11 @@
   <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/187066) 391 additions and 74 deletions in 20 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use resolved implementation plugins with SwiftPM<br />
-  <sub>[#187097](https://github.com/flutter/flutter/pull/187097) opened on on May 26, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187097) 297 additions and 44 deletions in 5 files</sub><br />
+  <sub>[#187097](https://github.com/flutter/flutter/pull/187097) opened on on May 26, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/187097) 436 additions and 54 deletions in 5 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Update Flutter DEPS to Dart fc3da898ea1664b8a8633f6ec03d2c2290bb3d01<br />
   <sub>[#187105](https://github.com/flutter/flutter/pull/187105) opened on on May 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187105) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts<br />
+  <sub>[#187118](https://github.com/flutter/flutter/pull/187118) opened on on May 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187118) 86 additions and 2 deletions in 4 files</sub><br />
 
