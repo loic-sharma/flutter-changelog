@@ -473,3 +473,6 @@
 * **[huahua8893](https://github.com/huahua8893)** &mdash; Fix Cupertino sheet covered top gap background<br />
   <sub>[#187058](https://github.com/flutter/flutter/pull/187058) opened on on May 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187058) 89 additions and 9 deletions in 2 files</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow attaching specific texture mip levels and slices<br />
+  <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/187066) 391 additions and 74 deletions in 20 files</sub><br />
+
