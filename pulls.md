@@ -140,9 +140,6 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
-  <sub>[#186501](https://github.com/flutter/flutter/pull/186501) opened on on May 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186501) 63 additions and 1 deletion in 2 files</sub><br />
-
 * **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples/indexed_stack: dispose TextEditingController<br />
   <sub>[#186512](https://github.com/flutter/flutter/pull/186512) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186512) 5 additions and 0 deletions in 1 file</sub><br />
 
@@ -478,4 +475,10 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts<br />
   <sub>[#187118](https://github.com/flutter/flutter/pull/187118) opened on on May 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187118) 86 additions and 2 deletions in 4 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool Robustness] Proactively validate path limits and UTF-8 support in ShaderCompiler<br />
+  <sub>[#187119](https://github.com/flutter/flutter/pull/187119) opened on on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187119) 162 additions and 5 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Engine] Fix silent buffer mismatch bug in FML Win32 CommandLineFromPlatform<br />
+  <sub>[#187120](https://github.com/flutter/flutter/pull/187120) opened on on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187120) 48 additions and 11 deletions in 3 files</sub><br />
 

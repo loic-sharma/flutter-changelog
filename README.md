@@ -4,7 +4,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-8 commits.
+10 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Retire Y-coord-scale plumbing by flipping GLES at the vertex stage<br />
   <sub>[#186556](https://github.com/flutter/flutter/pull/186556) merged on May 26, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/186556) over 1 week, 386 additions and 226 deletions in 16 files</sub><br />
@@ -14,6 +14,10 @@
   <sub>[#186957](https://github.com/flutter/flutter/pull/186957) merged on May 26, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186957) over 3 days, 409 additions and 364 deletions in 161 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery<br />
+  <sub>[#186501](https://github.com/flutter/flutter/pull/186501) merged on May 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186501) over 1 week, 63 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor artifacts.dart to use enhanced enums and reduce duplication<br />
   <sub>[#187063](https://github.com/flutter/flutter/pull/187063) merged on May 26, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/187063) over 21 hours, 759 additions and 1055 deletions in 38 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
@@ -21,6 +25,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Fix version cache poisoning from git environment variables<br />
   <sub>[#186595](https://github.com/flutter/flutter/pull/186595) merged on May 26, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186595) over 1 week, 566 additions and 270 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify precache enabled platforms help<br />
+  <sub>[#186878](https://github.com/flutter/flutter/pull/186878) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186878) over 5 days, 16 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Build script updates for syncing engine sources and building artifacts on linux-arm64<br />
   <sub>[#186917](https://github.com/flutter/flutter/pull/186917) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186917) over 4 days, 4 additions and 8 deletions in 3 files</sub><br />
