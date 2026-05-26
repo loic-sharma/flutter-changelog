@@ -396,7 +396,7 @@
   <sub>[#186951](https://github.com/flutter/flutter/pull/186951) opened on on May 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186951) 78 additions and 71 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
-  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/186953) 1165 additions and 106 deletions in 6 files</sub><br />
+  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/186953) 1202 additions and 107 deletions in 6 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update FlutterGeneratedPluginSwiftPackage deployment target during Xcode build<br />
   <sub>[#186967](https://github.com/flutter/flutter/pull/186967) opened on on May 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186967) 597 additions and 17 deletions in 10 files</sub><br />
@@ -479,6 +479,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool Robustness] Proactively validate path limits and UTF-8 support in ShaderCompiler<br />
   <sub>[#187119](https://github.com/flutter/flutter/pull/187119) opened on on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187119) 162 additions and 5 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Engine] Fix silent buffer mismatch bug in FML Win32 CommandLineFromPlatform<br />
-  <sub>[#187120](https://github.com/flutter/flutter/pull/187120) opened on on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187120) 48 additions and 11 deletions in 3 files</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a tag to the Linux platform properties in .ci.yaml that specifies x64 CPUs<br />
+  <sub>[#187124](https://github.com/flutter/flutter/pull/187124) opened on on May 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187124) 3 additions and 0 deletions in 2 files</sub><br />
 
