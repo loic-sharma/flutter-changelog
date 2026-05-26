@@ -476,3 +476,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor artifacts.dart to use enhanced enums and reduce duplication<br />
   <sub>[#187063](https://github.com/flutter/flutter/pull/187063) opened on on May 25, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187063) 233 additions and 404 deletions in 1 file</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add block-compressed texture format support (BC, ETC2, ASTC)<br />
+  <sub>[#187077](https://github.com/flutter/flutter/pull/187077) opened on on May 26, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/187077) 956 additions and 30 deletions in 25 files</sub><br />
+
