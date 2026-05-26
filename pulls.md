@@ -473,6 +473,3 @@
 * **[huahua8893](https://github.com/huahua8893)** &mdash; Fix Cupertino sheet covered top gap background<br />
   <sub>[#187058](https://github.com/flutter/flutter/pull/187058) opened on on May 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187058) 89 additions and 9 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor artifacts.dart to use enhanced enums and reduce duplication<br />
-  <sub>[#187063](https://github.com/flutter/flutter/pull/187063) opened on on May 25, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187063) 233 additions and 404 deletions in 1 file</sub><br />
-
