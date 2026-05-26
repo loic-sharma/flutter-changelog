@@ -426,7 +426,7 @@
   <sub>[#187000](https://github.com/flutter/flutter/pull/187000) opened on on May 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187000) 38 additions and 21 deletions in 2 files</sub><br />
 
 * **[Abhay](https://github.com/abhaysaqi)** &mdash; Fix: guard against detached RenderObject in _PlatformViewPlaceholderBox<br />
-  <sub>[#187002](https://github.com/flutter/flutter/pull/187002) opened on on May 23, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/187002) 47 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#187002](https://github.com/flutter/flutter/pull/187002) opened on on May 23, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/187002) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Split system font tests by library ownership<br />
   <sub>[#187003](https://github.com/flutter/flutter/pull/187003) opened on on May 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187003) 243 additions and 215 deletions in 4 files</sub><br />
