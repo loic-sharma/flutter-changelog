@@ -476,6 +476,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor artifacts.dart to use enhanced enums and reduce duplication<br />
   <sub>[#187063](https://github.com/flutter/flutter/pull/187063) opened on on May 25, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187063) 233 additions and 404 deletions in 1 file</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Inject per-backend defines into shader bundle compilation<br />
-  <sub>[#187081](https://github.com/flutter/flutter/pull/187081) opened on on May 26, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187081) 93 additions and 2 deletions in 3 files</sub><br />
-
