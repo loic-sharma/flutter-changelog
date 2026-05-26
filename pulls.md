@@ -108,16 +108,13 @@
   <sub>[#186184](https://github.com/flutter/flutter/pull/186184) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186184) 100 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Use super parameters in missed spots<br />
-  <sub>[#186197](https://github.com/flutter/flutter/pull/186197) opened on on May 7, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/186197) 327 additions and 388 deletions in 2 files</sub><br />
+  <sub>[#186197](https://github.com/flutter/flutter/pull/186197) opened on on May 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186197) 4 additions and 9 deletions in 2 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `dependOnInheritedWidgetOfExactType` documentation to explain why it is bad to use it in initState<br />
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) opened on on May 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186216) 23 additions and 12 deletions in 1 file</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Allow building projects lacking Runner.xcworkspace<br />
   <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186239) 75 additions and 74 deletions in 5 files</sub><br />
-
-* **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImage.fadeInOver constructor to skip placeholder fade-out<br />
-  <sub>[#186246](https://github.com/flutter/flutter/pull/186246) opened on on May 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186246) 252 additions and 38 deletions in 2 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent downgrading `project.pbxproj` when greater version number<br />
   <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186250) 159 additions and 20 deletions in 2 files</sub><br />
@@ -134,17 +131,11 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples/indexed_stack: dispose TextEditingController<br />
-  <sub>[#186512](https://github.com/flutter/flutter/pull/186512) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186512) 5 additions and 0 deletions in 1 file</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Preserve web drive target paths outside lib<br />
   <sub>[#186515](https://github.com/flutter/flutter/pull/186515) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186515) 103 additions and 10 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Honor animateTo timing in TabBarView<br />
   <sub>[#186516](https://github.com/flutter/flutter/pull/186516) opened on on May 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186516) 171 additions and 7 deletions in 4 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Simplify AbsorbPointer sample<br />
-  <sub>[#186517](https://github.com/flutter/flutter/pull/186517) opened on on May 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186517) 81 additions and 46 deletions in 3 files</sub><br />
 
 * **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
   <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
@@ -158,14 +149,8 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Apply ScrollbarTheme to iOS Scrollbar<br />
   <sub>[#186529](https://github.com/flutter/flutter/pull/186529) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186529) 175 additions and 102 deletions in 4 files</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Scope NavigationBar sample ScaffoldMessenger<br />
-  <sub>[#186533](https://github.com/flutter/flutter/pull/186533) opened on on May 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186533) 62 additions and 19 deletions in 2 files</sub><br />
-
 * **[Maxim Savin](https://github.com/soulman-is-good)** &mdash; Fix HostBuffer.emplace overflow at block boundary<br />
   <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186539) 49 additions and 1 deletion in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify route transition animations<br />
-  <sub>[#186552](https://github.com/flutter/flutter/pull/186552) opened on on May 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186552) 18 additions and 0 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Preserve SelectableRegion scope across context menu rebuilds<br />
   <sub>[#186553](https://github.com/flutter/flutter/pull/186553) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186553) 38 additions and 0 deletions in 2 files</sub><br />
@@ -179,17 +164,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug when changing accessibilityFocusBlockType doesn't update ch…<br />
   <sub>[#186596](https://github.com/flutter/flutter/pull/186596) opened on on May 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186596) 34 additions and 0 deletions in 2 files</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Allow target platform override teardown in widget tests<br />
-  <sub>[#186604](https://github.com/flutter/flutter/pull/186604) opened on on May 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186604) 54 additions and 5 deletions in 4 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify WidgetStatesController value snapshots<br />
-  <sub>[#186607](https://github.com/flutter/flutter/pull/186607) opened on on May 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186607) 12 additions and 1 deletion in 1 file</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve docs on MediaQuery: highContrast, invertColors and disableAnimations<br />
-  <sub>[#186614](https://github.com/flutter/flutter/pull/186614) opened on on May 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186614) 39 additions and 5 deletions in 1 file</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Remove Material import from view chrome style test<br />
-  <sub>[#186615](https://github.com/flutter/flutter/pull/186615) opened on on May 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186615) 53 additions and 63 deletions in 2 files</sub><br />
+  <sub>[#186615](https://github.com/flutter/flutter/pull/186615) opened on on May 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186615) 53 additions and 63 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify transparent Material InkWell docs<br />
   <sub>[#186616](https://github.com/flutter/flutter/pull/186616) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186616) 6 additions and 6 deletions in 1 file</sub><br />
@@ -263,50 +239,41 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph locales test<br />
   <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186813) 25 additions and 21 deletions in 1 file</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Avoid detached platform view placeholder callbacks<br />
-  <sub>[#186840](https://github.com/flutter/flutter/pull/186840) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186840) 84 additions and 0 deletions in 3 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Respect disallowed stretch on fling end<br />
-  <sub>[#186841](https://github.com/flutter/flutter/pull/186841) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186841) 51 additions and 1 deletion in 2 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify RichText selection docs<br />
   <sub>[#186844](https://github.com/flutter/flutter/pull/186844) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186844) 30 additions and 15 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Add Semantics custom control sample<br />
-  <sub>[#186846](https://github.com/flutter/flutter/pull/186846) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186846) 237 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#186846](https://github.com/flutter/flutter/pull/186846) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186846) 237 additions and 0 deletions in 4 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Improve async dispose diagnostics<br />
-  <sub>[#186847](https://github.com/flutter/flutter/pull/186847) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186847) 53 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#186847](https://github.com/flutter/flutter/pull/186847) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186847) 53 additions and 1 deletion in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Make ImageProvider sample web-compatible<br />
-  <sub>[#186851](https://github.com/flutter/flutter/pull/186851) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186851) 69 additions and 46 deletions in 3 files</sub><br />
+  <sub>[#186851](https://github.com/flutter/flutter/pull/186851) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186851) 69 additions and 46 deletions in 3 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify Flutter Driver semantics finder docs<br />
-  <sub>[#186852](https://github.com/flutter/flutter/pull/186852) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186852) 22 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#186852](https://github.com/flutter/flutter/pull/186852) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186852) 22 additions and 2 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document EdgeDraggingAutoScroller usage<br />
-  <sub>[#186854](https://github.com/flutter/flutter/pull/186854) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186854) 76 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#186854](https://github.com/flutter/flutter/pull/186854) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186854) 76 additions and 1 deletion in 1 file</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix layers rendering semantics startup<br />
   <sub>[#186855](https://github.com/flutter/flutter/pull/186855) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186855) 36 additions and 3 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix AnimatedList.separated tail reinsertion<br />
-  <sub>[#186857](https://github.com/flutter/flutter/pull/186857) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186857) 109 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#186857](https://github.com/flutter/flutter/pull/186857) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186857) 109 additions and 3 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document Android Emulator raw key repeat behavior<br />
-  <sub>[#186858](https://github.com/flutter/flutter/pull/186858) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186858) 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#186858](https://github.com/flutter/flutter/pull/186858) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186858) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify HitTestBehavior docs<br />
-  <sub>[#186859](https://github.com/flutter/flutter/pull/186859) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186859) 27 additions and 9 deletions in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify lazy scroll extent docs<br />
-  <sub>[#186864](https://github.com/flutter/flutter/pull/186864) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186864) 12 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186859](https://github.com/flutter/flutter/pull/186859) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186859) 27 additions and 9 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify async builder side effects<br />
-  <sub>[#186865](https://github.com/flutter/flutter/pull/186865) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186865) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#186865](https://github.com/flutter/flutter/pull/186865) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186865) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify opacity hit testing and semantics<br />
-  <sub>[#186867](https://github.com/flutter/flutter/pull/186867) opened on on May 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186867) 72 additions and 18 deletions in 4 files</sub><br />
+  <sub>[#186867](https://github.com/flutter/flutter/pull/186867) opened on on May 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186867) 72 additions and 18 deletions in 4 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
   <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
@@ -421,4 +388,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a tag to the Linux platform properties in .ci.yaml that specifies x64 CPUs<br />
   <sub>[#187124](https://github.com/flutter/flutter/pull/187124) opened on on May 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187124) 3 additions and 0 deletions in 2 files</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
+  <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187125) 342 additions and 20 deletions in 7 files</sub><br />
 

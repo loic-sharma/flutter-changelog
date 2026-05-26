@@ -4,11 +4,15 @@
 
 ### May 23, 2026 to May 29, 2026
 
-14 commits.
+16 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use resolved implementation plugins with SwiftPM
   <sub>[#187097](https://github.com/flutter/flutter/pull/187097) merged on May 26, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/187097) over 4 hours, 436 additions and 54 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Disable spell check for obscured text
+  <sub>[#186329](https://github.com/flutter/flutter/pull/186329) merged on May 26, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186329) over 2 weeks, 277 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools, devicelab] Add safety filesystem guard to tests
   <sub>[#186748](https://github.com/flutter/flutter/pull/186748) merged on May 26, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/186748) over 1 week, 1456 additions and 10 deletions in 9 files</sub>
@@ -37,6 +41,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Fix version cache poisoning from git environment variables
   <sub>[#186595](https://github.com/flutter/flutter/pull/186595) merged on May 26, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186595) over 1 week, 566 additions and 270 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part10
+  <sub>[#186201](https://github.com/flutter/flutter/pull/186201) merged on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186201) over 2 weeks, 136 additions and 0 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify precache enabled platforms help
   <sub>[#186878](https://github.com/flutter/flutter/pull/186878) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186878) over 5 days, 16 additions and 1 deletion in 2 files</sub>
@@ -527,11 +535,15 @@
 
 ### May 23, 2026 to May 29, 2026
 
-2 commits.
+3 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add a pinned-SDK web example app
   <sub>[#11761](https://github.com/flutter/packages/pull/11761) merged on May 26, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/11761) over 4 days, 343 additions and 205 deletions in 36 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Hán Trung Kiên](https://github.com/hantrungkien)** &mdash; [go_router] Allow users to specify onExit as optional
+  <sub>[#11150](https://github.com/flutter/packages/pull/11150) merged on May 26, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11150) over 2 months, 16 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add Android and iOS attribution ID
   <sub>[#11731](https://github.com/flutter/packages/pull/11731) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11731) over 1 week, 77 additions and 5 deletions in 13 files</sub>
