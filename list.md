@@ -4,15 +4,23 @@
 
 ### May 23, 2026 to May 29, 2026
 
-12 commits.
+14 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use resolved implementation plugins with SwiftPM
-  <sub>[#187097](https://github.com/flutter/flutter/pull/187097) merged on May 26, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/187097) over 4 hours, 436 additions and 54 deletions in 5 files</sub>
+  <sub>[#187097](https://github.com/flutter/flutter/pull/187097) merged on May 26, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/187097) over 4 hours, 436 additions and 54 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools, devicelab] Add safety filesystem guard to tests
+  <sub>[#186748](https://github.com/flutter/flutter/pull/186748) merged on May 26, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/186748) over 1 week, 1456 additions and 10 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Retire Y-coord-scale plumbing by flipping GLES at the vertex stage
   <sub>[#186556](https://github.com/flutter/flutter/pull/186556) merged on May 26, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/186556) over 1 week, 386 additions and 226 deletions in 16 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lao Stra15Shop](https://github.com/Phonexay15), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate VSyncClient and DisplayLinkManager to Swift
+  <sub>[#187001](https://github.com/flutter/flutter/pull/187001) merged on May 26, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/187001) over 3 days, 317 additions and 380 deletions in 13 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [pubspec] Bump Dart SDK constraint to ^3.13.0
   <sub>[#186957](https://github.com/flutter/flutter/pull/186957) merged on May 26, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186957) over 3 days, 409 additions and 364 deletions in 161 files</sub>

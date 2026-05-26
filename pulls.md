@@ -26,9 +26,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
   <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/182788) 164 additions and 50 deletions in 11 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `Key` → `Object` in internal framework logic<br />
-  <sub>[#183693](https://github.com/flutter/flutter/pull/183693) opened on on March 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/183693) 59 additions and 66 deletions in 16 files</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
@@ -314,42 +311,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
   <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Explain Navigator pointer cancellation<br />
-  <sub>[#186870](https://github.com/flutter/flutter/pull/186870) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186870) 17 additions and 16 deletions in 1 file</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify RenderBox globalToLocal unprojection<br />
-  <sub>[#186874](https://github.com/flutter/flutter/pull/186874) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186874) 71 additions and 20 deletions in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify RouterDelegate popRoute bubbling<br />
-  <sub>[#186875](https://github.com/flutter/flutter/pull/186875) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186875) 6 additions and 2 deletions in 1 file</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify contributor write access wording<br />
-  <sub>[#186877](https://github.com/flutter/flutter/pull/186877) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186877) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify layout callback debug flag docs<br />
-  <sub>[#186879](https://github.com/flutter/flutter/pull/186879) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186879) 12 additions and 2 deletions in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document follower overlay sizing constraints<br />
-  <sub>[#186880](https://github.com/flutter/flutter/pull/186880) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186880) 8 additions and 0 deletions in 1 file</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Improve ScrollController multiple position error<br />
-  <sub>[#186883](https://github.com/flutter/flutter/pull/186883) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186883) 27 additions and 3 deletions in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify Navigator.replace old route requirement<br />
-  <sub>[#186887](https://github.com/flutter/flutter/pull/186887) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186887) 51 additions and 2 deletions in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify PointerEvent buttons state<br />
-  <sub>[#186890](https://github.com/flutter/flutter/pull/186890) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186890) 5 additions and 0 deletions in 1 file</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document primary scroll view keyboard fallback<br />
-  <sub>[#186891](https://github.com/flutter/flutter/pull/186891) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186891) 6 additions and 2 deletions in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify OverscrollNotification with bouncing physics<br />
-  <sub>[#186894](https://github.com/flutter/flutter/pull/186894) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186894) 29 additions and 8 deletions in 1 file</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Document key event simulation platforms<br />
-  <sub>[#186895](https://github.com/flutter/flutter/pull/186895) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186895) 19 additions and 42 deletions in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Do not share pointer counter between tests<br />
   <sub>[#186898](https://github.com/flutter/flutter/pull/186898) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186898) 5 additions and 9 deletions in 2 files</sub><br />
 
@@ -365,9 +326,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Make `InheritedTheme` "ubiquitous"<br />
   <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186923) 144 additions and 50 deletions in 4 files</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify AppLifecycleListener resume callback docs<br />
-  <sub>[#186932](https://github.com/flutter/flutter/pull/186932) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186932) 13 additions and 3 deletions in 1 file</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix SwiftPM identity for path dependency plugins<br />
   <sub>[#186934](https://github.com/flutter/flutter/pull/186934) opened on on May 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186934) 69 additions and 11 deletions in 2 files</sub><br />
 
@@ -382,9 +340,6 @@
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix stretch overscroll text distortion under Impeller (#167795)<br />
   <sub>[#186945](https://github.com/flutter/flutter/pull/186945) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186945) 164 additions and 67 deletions in 3 files</sub><br />
-
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering editable tests<br />
-  <sub>[#186951](https://github.com/flutter/flutter/pull/186951) opened on on May 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186951) 78 additions and 71 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
   <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/186953) 1227 additions and 127 deletions in 6 files</sub><br />
