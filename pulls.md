@@ -192,16 +192,16 @@
   <sub>[#186646](https://github.com/flutter/flutter/pull/186646) opened on on May 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186646) 21 additions and 0 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material selection tests<br />
-  <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/186670) 182 additions and 188 deletions in 5 files</sub><br />
+  <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186670) 182 additions and 188 deletions in 5 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from implicit animation tests<br />
   <sub>[#186673](https://github.com/flutter/flutter/pull/186673) opened on on May 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186673) 130 additions and 62 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from navigator replacement tests<br />
-  <sub>[#186674](https://github.com/flutter/flutter/pull/186674) opened on on May 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186674) 67 additions and 41 deletions in 2 files</sub><br />
+  <sub>[#186674](https://github.com/flutter/flutter/pull/186674) opened on on May 18, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186674) 67 additions and 41 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move drawer route tests to Material<br />
-  <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186675) 25 additions and 28 deletions in 2 files</sub><br />
+  <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186675) 25 additions and 28 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
@@ -210,10 +210,10 @@
   <sub>[#186767](https://github.com/flutter/flutter/pull/186767) opened on on May 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186767) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material rendering tests to material<br />
-  <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186776) 88 additions and 118 deletions in 4 files</sub><br />
+  <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186776) 88 additions and 118 deletions in 4 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material color tests to material<br />
-  <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
+  <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
 
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; Fetch native assets darwin minimum versions<br />
   <sub>[#186807](https://github.com/flutter/flutter/pull/186807) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186807) 139 additions and 4 deletions in 4 files</sub><br />
@@ -267,7 +267,7 @@
   <sub>[#186902](https://github.com/flutter/flutter/pull/186902) opened on on May 21, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186902) 1142 additions and 266 deletions in 13 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering pipeline, proxy, and object tests<br />
-  <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186904) 5 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186904) 3 additions and 6 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level<br />
   <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
@@ -279,7 +279,7 @@
   <sub>[#186934](https://github.com/flutter/flutter/pull/186934) opened on on May 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186934) 69 additions and 11 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from painting tests<br />
-  <sub>[#186937](https://github.com/flutter/flutter/pull/186937) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186937) 53 additions and 60 deletions in 3 files</sub><br />
+  <sub>[#186937](https://github.com/flutter/flutter/pull/186937) opened on on May 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186937) 53 additions and 60 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove material imports from rendering tests<br />
   <sub>[#186938](https://github.com/flutter/flutter/pull/186938) opened on on May 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186938) 38 additions and 20 deletions in 3 files</sub><br />
@@ -291,7 +291,7 @@
   <sub>[#186945](https://github.com/flutter/flutter/pull/186945) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186945) 164 additions and 67 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
-  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/186953) 1239 additions and 127 deletions in 6 files</sub><br />
+  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/186953) 1248 additions and 127 deletions in 6 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update FlutterGeneratedPluginSwiftPackage deployment target during Xcode build<br />
   <sub>[#186967](https://github.com/flutter/flutter/pull/186967) opened on on May 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186967) 597 additions and 17 deletions in 10 files</sub><br />
@@ -309,7 +309,7 @@
   <sub>[#186995](https://github.com/flutter/flutter/pull/186995) opened on on May 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186995) 136 additions and 9 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from sliver tree rendering test<br />
-  <sub>[#187000](https://github.com/flutter/flutter/pull/187000) opened on on May 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187000) 38 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#187000](https://github.com/flutter/flutter/pull/187000) opened on on May 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/187000) 38 additions and 21 deletions in 2 files</sub><br />
 
 * **[Abhay](https://github.com/abhaysaqi)** &mdash; Fix: guard against detached RenderObject in _PlatformViewPlaceholderBox<br />
   <sub>[#187002](https://github.com/flutter/flutter/pull/187002) opened on on May 23, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/187002) 47 additions and 1 deletion in 2 files</sub><br />
