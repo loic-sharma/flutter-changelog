@@ -4,7 +4,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-31 commits.
+32 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use resolved implementation plugins with SwiftPM
   <sub>[#187097](https://github.com/flutter/flutter/pull/187097) merged on May 26, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/187097) over 4 hours, 436 additions and 54 deletions in 5 files</sub>
@@ -33,6 +33,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate VSyncClient and DisplayLinkManager to Swift
   <sub>[#187001](https://github.com/flutter/flutter/pull/187001) merged on May 26, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/187001) over 3 days, 317 additions and 380 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing (2nd try)
+  <sub>[#186902](https://github.com/flutter/flutter/pull/186902) merged on May 27, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/186902) over 6 days, 1144 additions and 268 deletions in 14 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Flutter GPU ShaderLibrary in-place reload for shader hot reload
   <sub>[#186793](https://github.com/flutter/flutter/pull/186793) merged on May 27, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/186793) over 6 days, 526 additions and 31 deletions in 12 files</sub>

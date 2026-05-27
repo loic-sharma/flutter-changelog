@@ -239,9 +239,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
   <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing (2nd try)<br />
-  <sub>[#186902](https://github.com/flutter/flutter/pull/186902) opened on on May 21, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/186902) 1144 additions and 268 deletions in 14 files</sub><br />
-
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering pipeline, proxy, and object tests<br />
   <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186904) 3 additions and 6 deletions in 4 files</sub><br />
 
@@ -309,7 +306,7 @@
   <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187028) 178 additions and 264 deletions in 4 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
-  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187029) 206 additions and 15 deletions in 10 files</sub><br />
+  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187029) 206 additions and 15 deletions in 10 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Split Form tests by widget ownership<br />
   <sub>[#187031](https://github.com/flutter/flutter/pull/187031) opened on on May 24, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/187031) 1703 additions and 1829 deletions in 3 files</sub><br />
@@ -323,14 +320,8 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow attaching specific texture mip levels and slices<br />
   <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/187066) 391 additions and 74 deletions in 20 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Update Flutter DEPS to Dart fc3da898ea1664b8a8633f6ec03d2c2290bb3d01<br />
-  <sub>[#187105](https://github.com/flutter/flutter/pull/187105) opened on on May 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187105) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts<br />
-  <sub>[#187118](https://github.com/flutter/flutter/pull/187118) opened on on May 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187118) 86 additions and 2 deletions in 4 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Linux glyph gamma correction<br />
-  <sub>[#187122](https://github.com/flutter/flutter/pull/187122) opened on on May 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187122) 57 additions and 29 deletions in 3 files</sub><br />
+  <sub>[#187122](https://github.com/flutter/flutter/pull/187122) opened on on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187122) 148 additions and 30 deletions in 6 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
@@ -357,8 +348,20 @@
   <sub>[#187184](https://github.com/flutter/flutter/pull/187184) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187184) 54 additions and 11 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Changes to WebParagraph configuration<br />
-  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187188) 108 additions and 89 deletions in 17 files</sub><br />
+  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187188) 108 additions and 89 deletions in 17 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Resolve issue  Catch am start failures with 'Error type' and prevent hang<br />
+  <sub>[#187196](https://github.com/flutter/flutter/pull/187196) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187196) 70 additions and 1 deletion in 2 files</sub><br />
+
+* **[Pierre](https://github.com/guidezpl)** &mdash; Add step to bootstrap Flutter tool in coverage workflow<br />
+  <sub>[#187199](https://github.com/flutter/flutter/pull/187199) opened on on May 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187199) 2 additions and 0 deletions in 1 file</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fail gracefully on Android AVD lock errors during startup<br />
+  <sub>[#187200](https://github.com/flutter/flutter/pull/187200) opened on on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187200) 175 additions and 16 deletions in 2 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Listen to log reader before VM Service and make delay configurable<br />
+  <sub>[#187202](https://github.com/flutter/flutter/pull/187202) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187202) 144 additions and 30 deletions in 5 files</sub><br />
 
