@@ -198,7 +198,7 @@
   <sub>[#186807](https://github.com/flutter/flutter/pull/186807) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186807) 139 additions and 4 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph locales test<br />
-  <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186813) 25 additions and 21 deletions in 1 file</sub><br />
+  <sub>[#186813](https://github.com/flutter/flutter/pull/186813) opened on on May 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186813) 25 additions and 21 deletions in 1 file</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify RichText selection docs<br />
   <sub>[#186844](https://github.com/flutter/flutter/pull/186844) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186844) 30 additions and 15 deletions in 2 files</sub><br />
@@ -320,9 +320,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow attaching specific texture mip levels and slices<br />
   <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/187066) 391 additions and 74 deletions in 20 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Linux glyph gamma correction<br />
-  <sub>[#187122](https://github.com/flutter/flutter/pull/187122) opened on on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187122) 148 additions and 30 deletions in 6 files</sub><br />
-
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
 
@@ -364,4 +361,7 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Listen to log reader before VM Service and make delay configurable<br />
   <sub>[#187202](https://github.com/flutter/flutter/pull/187202) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187202) 144 additions and 30 deletions in 5 files</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Disable analyzer<br />
+  <sub>[#187205](https://github.com/flutter/flutter/pull/187205) opened on on May 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187205) 10 additions and 8 deletions in 1 file</sub><br />
 
