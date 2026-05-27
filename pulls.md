@@ -176,9 +176,6 @@
 * **[Muhammet Enes Ilhan](https://github.com/xlash5)** &mdash; [about] Add excludePackages parameter to license display APIs<br />
   <sub>[#186632](https://github.com/flutter/flutter/pull/186632) opened on on May 16, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186632) 459 additions and 10 deletions in 5 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add explicit draw counts<br />
-  <sub>[#186639](https://github.com/flutter/flutter/pull/186639) opened on on May 17, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/186639) 166 additions and 106 deletions in 6 files</sub><br />
-
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document CupertinoTabScaffold + CupertinoSliverNavigationBar interaction (#166487)<br />
   <sub>[#186644](https://github.com/flutter/flutter/pull/186644) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186644) 45 additions and 0 deletions in 1 file</sub><br />
 
@@ -257,9 +254,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
   <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Do not share pointer counter between tests<br />
-  <sub>[#186898](https://github.com/flutter/flutter/pull/186898) opened on on May 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186898) 5 additions and 9 deletions in 2 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web, tool] Support recompiling shaders and unify asset processing (2nd try)<br />
   <sub>[#186902](https://github.com/flutter/flutter/pull/186902) opened on on May 21, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/186902) 1142 additions and 266 deletions in 13 files</sub><br />
 
@@ -309,7 +303,7 @@
   <sub>[#187000](https://github.com/flutter/flutter/pull/187000) opened on on May 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/187000) 38 additions and 21 deletions in 2 files</sub><br />
 
 * **[Abhay](https://github.com/abhaysaqi)** &mdash; Fix: guard against detached RenderObject in _PlatformViewPlaceholderBox<br />
-  <sub>[#187002](https://github.com/flutter/flutter/pull/187002) opened on on May 23, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/187002) 47 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#187002](https://github.com/flutter/flutter/pull/187002) opened on on May 23, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/187002) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Split system font tests by library ownership<br />
   <sub>[#187003](https://github.com/flutter/flutter/pull/187003) opened on on May 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187003) 243 additions and 215 deletions in 4 files</sub><br />
