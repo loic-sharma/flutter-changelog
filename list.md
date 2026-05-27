@@ -4,7 +4,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-21 commits.
+25 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use resolved implementation plugins with SwiftPM
   <sub>[#187097](https://github.com/flutter/flutter/pull/187097) merged on May 26, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/187097) over 4 hours, 436 additions and 54 deletions in 5 files</sub>
@@ -42,6 +42,10 @@
   <sub>[#187045](https://github.com/flutter/flutter/pull/187045) merged on May 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187045) over 1 day, 25 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Engine] Fix silent buffer mismatch bug in FML Win32 CommandLineFromPlatform
+  <sub>[#187120](https://github.com/flutter/flutter/pull/187120) merged on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187120) over 6 hours, 48 additions and 11 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery
   <sub>[#186501](https://github.com/flutter/flutter/pull/186501) merged on May 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186501) over 1 week, 63 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
@@ -53,6 +57,14 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Fix version cache poisoning from git environment variables
   <sub>[#186595](https://github.com/flutter/flutter/pull/186595) merged on May 26, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186595) over 1 week, 566 additions and 270 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material button tests
+  <sub>[#186667](https://github.com/flutter/flutter/pull/186667) merged on May 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186667) over 1 week, 86 additions and 93 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; examples: Remove unused parameters
+  <sub>[#185819](https://github.com/flutter/flutter/pull/185819) merged on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185819) over 3 weeks, 3 additions and 11 deletions in 1 file</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Keerti Parthasarathy](https://github.com/keertip)** &mdash; Update data driven fixes docs
   <sub>[#186217](https://github.com/flutter/flutter/pull/186217) merged on May 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186217) over 2 weeks, 31 additions and 4 deletions in 1 file</sub>
@@ -77,6 +89,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Build script updates for syncing engine sources and building artifacts on linux-arm64
   <sub>[#186917](https://github.com/flutter/flutter/pull/186917) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186917) over 4 days, 4 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Dmitry Grand](https://github.com/ievdokdm), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Filter out `a: text input` from `team-framework` PR triage 
+  <sub>[#187129](https://github.com/flutter/flutter/pull/187129) merged on May 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187129) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update batch release doc to reflect latest workflow
   <sub>[#186979](https://github.com/flutter/flutter/pull/186979) merged on May 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186979) over 3 days, 5 additions and 6 deletions in 1 file</sub>
@@ -643,9 +659,18 @@
 
 ## flutter/website
 
+### May 23, 2026 to May 29, 2026
+
+1 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a few videos from I/O. Not done yet.
+  <sub>[#13429](https://github.com/flutter/website/pull/13429) merged on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13429) over 1 hour, 17 additions and 5 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Amanda Fitch](https://github.com/antfitch)</sub>
+
 ### May 16, 2026 to May 22, 2026
 
-18 commits.
+<details>
+<summary>18 commits...</summary>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add SwiftPM Add to App Docs
   <sub>[#13318](https://github.com/flutter/website/pull/13318) merged on May 18, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/website/pull/13318) over 2 weeks, 1109 additions and 233 deletions in 15 files</sub>
@@ -719,6 +744,8 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: document agentic hot reload
   <sub>[#13400](https://github.com/flutter/website/pull/13400) merged on May 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13400) over 2 hours, 14 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch)</sub>
+
+</details>
 
 ### May 9, 2026 to May 15, 2026
 
