@@ -4,7 +4,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-29 commits.
+30 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use resolved implementation plugins with SwiftPM
   <sub>[#187097](https://github.com/flutter/flutter/pull/187097) merged on May 26, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/187097) over 4 hours, 436 additions and 54 deletions in 5 files</sub>
@@ -39,12 +39,16 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [pubspec] Bump Dart SDK constraint to ^3.13.0
-  <sub>[#186957](https://github.com/flutter/flutter/pull/186957) merged on May 26, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186957) over 3 days, 409 additions and 364 deletions in 161 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub>[#186957](https://github.com/flutter/flutter/pull/186957) merged on May 26, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186957) over 3 days, 409 additions and 364 deletions in 161 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Print trace when skipping flavor-specific and platform-specific assets
   <sub>[#187045](https://github.com/flutter/flutter/pull/187045) merged on May 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187045) over 1 day, 25 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Stop prefetching Swift packages in pub get
+  <sub>[#187113](https://github.com/flutter/flutter/pull/187113) merged on May 27, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/187113) over 22 hours, 25 additions and 484 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update CI with newer android sdk package
   <sub>[#187143](https://github.com/flutter/flutter/pull/187143) merged on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187143) over 12 hours, 112 additions and 112 deletions in 4 files</sub>
