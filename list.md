@@ -4,7 +4,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-20 commits.
+21 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use resolved implementation plugins with SwiftPM
   <sub>[#187097](https://github.com/flutter/flutter/pull/187097) merged on May 26, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/187097) over 4 hours, 436 additions and 54 deletions in 5 files</sub>
@@ -69,6 +69,10 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify precache enabled platforms help
   <sub>[#186878](https://github.com/flutter/flutter/pull/186878) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186878) over 5 days, 16 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove another `String.valueOf`
+  <sub>[#186628](https://github.com/flutter/flutter/pull/186628) merged on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186628) over 1 week, 3 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Build script updates for syncing engine sources and building artifacts on linux-arm64
   <sub>[#186917](https://github.com/flutter/flutter/pull/186917) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186917) over 4 days, 4 additions and 8 deletions in 3 files</sub>
@@ -551,7 +555,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-3 commits.
+4 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add a pinned-SDK web example app
   <sub>[#11761](https://github.com/flutter/packages/pull/11761) merged on May 26, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/11761) over 4 days, 343 additions and 205 deletions in 36 files</sub>
@@ -560,6 +564,10 @@
 * **[Hán Trung Kiên](https://github.com/hantrungkien)** &mdash; [go_router] Allow users to specify onExit as optional
   <sub>[#11150](https://github.com/flutter/packages/pull/11150) merged on May 26, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11150) over 2 months, 16 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Add config options needed by core-packages
+  <sub>[#11784](https://github.com/flutter/packages/pull/11784) merged on May 27, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/11784) over 10 hours, 225 additions and 47 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add Android and iOS attribution ID
   <sub>[#11731](https://github.com/flutter/packages/pull/11731) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11731) over 1 week, 77 additions and 5 deletions in 13 files</sub>
