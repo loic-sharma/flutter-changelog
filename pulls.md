@@ -15,7 +15,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [51 comments](https://github.com/flutter/flutter/pull/180591) 2591 additions and 539 deletions in 19 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [51 comments](https://github.com/flutter/flutter/pull/180591) 3836 additions and 1908 deletions in 19 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -203,9 +203,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify RichText selection docs<br />
   <sub>[#186844](https://github.com/flutter/flutter/pull/186844) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186844) 30 additions and 15 deletions in 2 files</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Add Semantics custom control sample<br />
-  <sub>[#186846](https://github.com/flutter/flutter/pull/186846) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186846) 237 additions and 0 deletions in 4 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Improve async dispose diagnostics<br />
   <sub>[#186847](https://github.com/flutter/flutter/pull/186847) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186847) 53 additions and 1 deletion in 2 files</sub><br />
 
@@ -362,6 +359,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Listen to log reader before VM Service and make delay configurable<br />
   <sub>[#187202](https://github.com/flutter/flutter/pull/187202) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187202) 144 additions and 30 deletions in 5 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Disable analyzer<br />
-  <sub>[#187205](https://github.com/flutter/flutter/pull/187205) opened on on May 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187205) 10 additions and 8 deletions in 1 file</sub><br />
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Reset system UI visibility flags when setting edge-to-edge mode<br />
+  <sub>[#187207](https://github.com/flutter/flutter/pull/187207) opened on on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187207) 32 additions and 0 deletions in 2 files</sub><br />
 
