@@ -282,7 +282,7 @@
   <sub>[#186945](https://github.com/flutter/flutter/pull/186945) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186945) 164 additions and 67 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
-  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/186953) 1248 additions and 127 deletions in 6 files</sub><br />
+  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/186953) 1248 additions and 127 deletions in 6 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Update FlutterGeneratedPluginSwiftPackage deployment target during Xcode build<br />
   <sub>[#186967](https://github.com/flutter/flutter/pull/186967) opened on on May 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/186967) 597 additions and 17 deletions in 10 files</sub><br />
@@ -355,9 +355,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts<br />
   <sub>[#187118](https://github.com/flutter/flutter/pull/187118) opened on on May 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187118) 86 additions and 2 deletions in 4 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool Robustness] Proactively validate path limits and UTF-8 support in ShaderCompiler<br />
-  <sub>[#187119](https://github.com/flutter/flutter/pull/187119) opened on on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187119) 162 additions and 5 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a tag to the Linux platform properties in .ci.yaml that specifies x64 CPUs<br />
   <sub>[#187124](https://github.com/flutter/flutter/pull/187124) opened on on May 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187124) 3 additions and 0 deletions in 2 files</sub><br />

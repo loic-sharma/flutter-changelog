@@ -579,11 +579,15 @@
 
 ### May 23, 2026 to May 29, 2026
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add a pinned-SDK web example app<br />
   <sub>[#11761](https://github.com/flutter/packages/pull/11761) merged on May 26, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/11761) over 4 days, 343 additions and 205 deletions in 36 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Remove duplicated privacy manifest entries<br />
+  <sub>[#11791](https://github.com/flutter/packages/pull/11791) merged on May 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11791) over 19 hours, 10 additions and 226 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Hán Trung Kiên](https://github.com/hantrungkien)** &mdash; [go_router] Allow users to specify onExit as optional<br />
   <sub>[#11150](https://github.com/flutter/packages/pull/11150) merged on May 26, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11150) over 2 months, 16 additions and 4 deletions in 2 files</sub><br />
