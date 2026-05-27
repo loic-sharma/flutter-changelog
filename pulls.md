@@ -368,3 +368,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Curl CIPD package in .ci.yaml to version 8.20.0<br />
   <sub>[#187133](https://github.com/flutter/flutter/pull/187133) opened on on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187133) 8 additions and 8 deletions in 1 file</sub><br />
 
+* **[Nishan Giri](https://github.com/Nishan123)** &mdash; feat(flutter_tools): polish skills command implementation<br />
+  <sub>[#187163](https://github.com/flutter/flutter/pull/187163) opened on on May 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187163) 286 additions and 1 deletion in 4 files</sub><br />
+
