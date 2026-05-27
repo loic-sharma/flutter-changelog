@@ -149,9 +149,6 @@
 * **[Jules Blok](https://github.com/CrossVR)** &mdash; os.dart: Switch the codepage to UTF-8 when calling where.exe<br />
   <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug when changing accessibilityFocusBlockType doesn't update ch…<br />
-  <sub>[#186596](https://github.com/flutter/flutter/pull/186596) opened on on May 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186596) 34 additions and 0 deletions in 2 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Remove Material import from view chrome style test<br />
   <sub>[#186615](https://github.com/flutter/flutter/pull/186615) opened on on May 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186615) 53 additions and 63 deletions in 2 files</sub><br />
 

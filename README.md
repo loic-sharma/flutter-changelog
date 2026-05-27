@@ -4,7 +4,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-32 commits.
+33 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use resolved implementation plugins with SwiftPM<br />
   <sub>[#187097](https://github.com/flutter/flutter/pull/187097) merged on May 26, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/187097) over 4 hours, 436 additions and 54 deletions in 5 files</sub><br />
@@ -113,6 +113,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Build script updates for syncing engine sources and building artifacts on linux-arm64<br />
   <sub>[#186917](https://github.com/flutter/flutter/pull/186917) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186917) over 4 days, 4 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Dmitry Grand](https://github.com/ievdokdm), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug when changing accessibilityFocusBlockType doesn't update ch…<br />
+  <sub>[#186596](https://github.com/flutter/flutter/pull/186596) merged on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186596) over 1 week, 34 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix crash if FlView is destroyed during a draw.<br />
   <sub>[#186848](https://github.com/flutter/flutter/pull/186848) merged on May 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186848) over 6 days, 2 additions and 2 deletions in 1 file</sub><br />
