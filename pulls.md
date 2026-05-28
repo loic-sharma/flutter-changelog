@@ -299,9 +299,6 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
 
-* **[Nishan Giri](https://github.com/Nishan123)** &mdash; feat(flutter_tools): polish skills command implementation<br />
-  <sub>[#187163](https://github.com/flutter/flutter/pull/187163) opened on on May 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187163) 286 additions and 1 deletion in 4 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix widget_preview unawaited async write race condition<br />
   <sub>[#187177](https://github.com/flutter/flutter/pull/187177) opened on on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187177) 18 additions and 13 deletions in 2 files</sub><br />
 
@@ -346,4 +343,13 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
+
+* **[EduardF1](https://github.com/EduardF1)** &mdash; Adopt null-aware elements in NavigationRail<br />
+  <sub>[#187275](https://github.com/flutter/flutter/pull/187275) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187275) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Android] Reset system UI visibility flags when setting edge-to-edge mode<br />
+  <sub>[#187276](https://github.com/flutter/flutter/pull/187276) opened on on May 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187276) 32 additions and 0 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Android] Reset system UI visibility flags when setting edge-to-edge mode<br />
+  <sub>[#187277](https://github.com/flutter/flutter/pull/187277) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187277) 32 additions and 0 deletions in 2 files</sub><br />
 
