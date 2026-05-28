@@ -327,7 +327,7 @@
   <sub>[#187167](https://github.com/flutter/flutter/pull/187167) opened on on May 27, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187167) 518 additions and 94 deletions in 10 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix widget_preview unawaited async write race condition<br />
-  <sub>[#187177](https://github.com/flutter/flutter/pull/187177) opened on on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187177) 8 additions and 8 deletions in 1 file</sub><br />
+  <sub>[#187177](https://github.com/flutter/flutter/pull/187177) opened on on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187177) 18 additions and 13 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Forcefully kill hung subprocesses 5 seconds after timeout<br />
   <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187178) 48 additions and 0 deletions in 2 files</sub><br />
