@@ -770,7 +770,19 @@
 
 ### May 23, 2026 to May 29, 2026
 
-3 commits.
+6 commits.
+
+* **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; docs: update service worker section in Web FAQ
+  <sub>[#13335](https://github.com/flutter/website/pull/13335) merged on May 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13335) over 4 weeks, 10 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[yim](https://github.com/yiiim)** &mdash; Scroll metrics notification align docs
+  <sub>[#13420](https://github.com/flutter/website/pull/13420) merged on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13420) over 6 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Marcus Twichel](https://github.com/mtwichel)** &mdash; feat: Add redirect for introduce-component-library design doc
+  <sub>[#13432](https://github.com/flutter/website/pull/13432) merged on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13432) over 21 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; docs: clarify nested loop usage in layout tutorial
   <sub>[#13427](https://github.com/flutter/website/pull/13427) merged on May 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13427) over 3 days, 3 additions and 1 deletion in 1 file</sub>

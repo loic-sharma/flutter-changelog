@@ -53,9 +53,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: add null pointer check for window on update tooltip and popup position<br />
   <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/185807) 114 additions and 2 deletions in 3 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Skip SwiftPM plugin schemes when doing flutter clean<br />
-  <sub>[#185853](https://github.com/flutter/flutter/pull/185853) opened on on April 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185853) 19 additions and 0 deletions in 2 files</sub><br />
-
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from outlined_button_test.dart<br />
   <sub>[#185964](https://github.com/flutter/flutter/pull/185964) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185964) 53 additions and 64 deletions in 1 file</sub><br />
 
@@ -143,9 +140,6 @@
 * **[Maxim Savin](https://github.com/soulman-is-good)** &mdash; Fix HostBuffer.emplace overflow at block boundary<br />
   <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186539) 49 additions and 1 deletion in 2 files</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Preserve SelectableRegion scope across context menu rebuilds<br />
-  <sub>[#186553](https://github.com/flutter/flutter/pull/186553) opened on on May 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186553) 38 additions and 0 deletions in 2 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Restore Material PageRouteBuilder barrier goldens<br />
   <sub>[#186566](https://github.com/flutter/flutter/pull/186566) opened on on May 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186566) 105 additions and 0 deletions in 1 file</sub><br />
 
@@ -196,9 +190,6 @@
 
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; Fetch native assets darwin minimum versions<br />
   <sub>[#186807](https://github.com/flutter/flutter/pull/186807) opened on on May 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186807) 139 additions and 4 deletions in 4 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify RichText selection docs<br />
-  <sub>[#186844](https://github.com/flutter/flutter/pull/186844) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186844) 30 additions and 15 deletions in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Improve async dispose diagnostics<br />
   <sub>[#186847](https://github.com/flutter/flutter/pull/186847) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186847) 53 additions and 1 deletion in 2 files</sub><br />
@@ -268,9 +259,6 @@
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from view chrome style test<br />
   <sub>[#186994](https://github.com/flutter/flutter/pull/186994) opened on on May 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186994) 64 additions and 63 deletions in 2 files</sub><br />
-
-* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [EditableText] refactor: Add double-tap word selection to EditableText via SerialTapGestureRecognizer<br />
-  <sub>[#186995](https://github.com/flutter/flutter/pull/186995) opened on on May 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186995) 136 additions and 9 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from sliver tree rendering test<br />
   <sub>[#187000](https://github.com/flutter/flutter/pull/187000) opened on on May 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/187000) 38 additions and 21 deletions in 2 files</sub><br />
