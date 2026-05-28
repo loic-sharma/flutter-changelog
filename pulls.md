@@ -312,7 +312,7 @@
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187039) 31 additions and 2 deletions in 1 file</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow attaching specific texture mip levels and slices<br />
-  <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/187066) 393 additions and 74 deletions in 20 files</sub><br />
+  <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187066) 463 additions and 111 deletions in 21 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
@@ -358,7 +358,4 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Reset system UI visibility flags when setting edge-to-edge mode<br />
   <sub>[#187207](https://github.com/flutter/flutter/pull/187207) opened on on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187207) 32 additions and 0 deletions in 2 files</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove the y_coord_scale Y-flip plumbing<br />
-  <sub>[#187224](https://github.com/flutter/flutter/pull/187224) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187224) 34 additions and 201 deletions in 35 files</sub><br />
 
