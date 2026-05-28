@@ -87,7 +87,7 @@
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/186108) 116 additions and 8 deletions in 5 files</sub><br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/186108) 116 additions and 8 deletions in 5 files</sub><br />
 
 * **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) 2 additions and 2 deletions in 2 files</sub><br />
@@ -302,14 +302,8 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Curl CIPD package in .ci.yaml to version 8.20.0<br />
-  <sub>[#187133](https://github.com/flutter/flutter/pull/187133) opened on on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187133) 8 additions and 8 deletions in 1 file</sub><br />
-
 * **[Nishan Giri](https://github.com/Nishan123)** &mdash; feat(flutter_tools): polish skills command implementation<br />
   <sub>[#187163](https://github.com/flutter/flutter/pull/187163) opened on on May 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187163) 286 additions and 1 deletion in 4 files</sub><br />
-
-* **[smocer](https://github.com/smocer)** &mdash; [iOS] Rebind accessibility bridge after view controller changes<br />
-  <sub>[#187167](https://github.com/flutter/flutter/pull/187167) opened on on May 27, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187167) 518 additions and 94 deletions in 10 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix widget_preview unawaited async write race condition<br />
   <sub>[#187177](https://github.com/flutter/flutter/pull/187177) opened on on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187177) 18 additions and 13 deletions in 2 files</sub><br />
@@ -340,9 +334,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Listen to log reader before VM Service and make delay configurable<br />
   <sub>[#187202](https://github.com/flutter/flutter/pull/187202) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187202) 144 additions and 30 deletions in 5 files</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Shares opengles golden context<br />
-  <sub>[#187243](https://github.com/flutter/flutter/pull/187243) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187243) 87 additions and 50 deletions in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix RangeError in PredictiveBackEvent.fromMap<br />
   <sub>[#187244](https://github.com/flutter/flutter/pull/187244) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187244) 93 additions and 14 deletions in 3 files</sub><br />
