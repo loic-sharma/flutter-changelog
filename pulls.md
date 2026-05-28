@@ -258,7 +258,7 @@
   <sub>[#186945](https://github.com/flutter/flutter/pull/186945) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186945) 164 additions and 67 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
-  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/186953) 1248 additions and 127 deletions in 6 files</sub><br />
+  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/186953) 1250 additions and 127 deletions in 6 files</sub><br />
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Import `dart:_js_interop_wasm` in addition to `dart:_wasm` to convert between `JSAny` and `WasmExternRef?`<br />
   <sub>[#186974](https://github.com/flutter/flutter/pull/186974) opened on on May 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186974) 9 additions and 0 deletions in 3 files</sub><br />
@@ -315,7 +315,7 @@
   <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187066) 461 additions and 111 deletions in 21 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Autofill all AutofillGroup fields in semantics mode<br />
-  <sub>[#187108](https://github.com/flutter/flutter/pull/187108) opened on on May 26, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/187108) 461 additions and 16 deletions in 3 files</sub><br />
+  <sub>[#187108](https://github.com/flutter/flutter/pull/187108) opened on on May 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187108) 461 additions and 16 deletions in 3 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
@@ -370,9 +370,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Handle 'no permissions' adb device state<br />
   <sub>[#187248](https://github.com/flutter/flutter/pull/187248) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187248) 86 additions and 1 deletion in 2 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to c416acfeb8126e097f758c664aaa3da929e27da0<br />
-  <sub>[#187249](https://github.com/flutter/flutter/pull/187249) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187249) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Support activity-alias in Android launcher activity detection<br />
   <sub>[#187251](https://github.com/flutter/flutter/pull/187251) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187251) 159 additions and 3 deletions in 2 files</sub><br />
