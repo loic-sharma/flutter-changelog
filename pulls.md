@@ -26,6 +26,9 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
   <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/182788) 164 additions and 50 deletions in 11 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Roll Chrome to 145 (engine + framework)<br />
+  <sub>[#182861](https://github.com/flutter/flutter/pull/182861) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182861) 78 additions and 107 deletions in 8 files</sub><br />
+
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
@@ -87,7 +90,7 @@
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/186108) 62 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/186108) 116 additions and 8 deletions in 5 files</sub><br />
 
 * **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) 2 additions and 2 deletions in 2 files</sub><br />
@@ -309,7 +312,10 @@
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187039) 31 additions and 2 deletions in 1 file</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow attaching specific texture mip levels and slices<br />
-  <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187066) 463 additions and 111 deletions in 21 files</sub><br />
+  <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187066) 461 additions and 111 deletions in 21 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Autofill all AutofillGroup fields in semantics mode<br />
+  <sub>[#187108](https://github.com/flutter/flutter/pull/187108) opened on on May 26, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/187108) 461 additions and 16 deletions in 3 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
@@ -327,16 +333,16 @@
   <sub>[#187177](https://github.com/flutter/flutter/pull/187177) opened on on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187177) 18 additions and 13 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Forcefully kill hung subprocesses 5 seconds after timeout<br />
-  <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187178) 48 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187178) 48 additions and 0 deletions in 2 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Drawing decorations directly on the target Canvas<br />
-  <sub>[#187181](https://github.com/flutter/flutter/pull/187181) opened on on May 27, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187181) 204 additions and 163 deletions in 4 files</sub><br />
+  <sub>[#187181](https://github.com/flutter/flutter/pull/187181) opened on on May 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187181) 198 additions and 98 deletions in 5 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Optimize SHA hash calculation of generated APK<br />
   <sub>[#187184](https://github.com/flutter/flutter/pull/187184) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187184) 54 additions and 11 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Changes to WebParagraph configuration<br />
-  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187188) 115 additions and 96 deletions in 18 files</sub><br />
+  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187188) 113 additions and 98 deletions in 18 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
@@ -361,4 +367,19 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix RangeError in PredictiveBackEvent.fromMap<br />
   <sub>[#187244](https://github.com/flutter/flutter/pull/187244) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187244) 93 additions and 14 deletions in 3 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Handle 'no permissions' adb device state<br />
+  <sub>[#187248](https://github.com/flutter/flutter/pull/187248) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187248) 86 additions and 1 deletion in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to c416acfeb8126e097f758c664aaa3da929e27da0<br />
+  <sub>[#187249](https://github.com/flutter/flutter/pull/187249) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187249) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Support activity-alias in Android launcher activity detection<br />
+  <sub>[#187251](https://github.com/flutter/flutter/pull/187251) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187251) 159 additions and 3 deletions in 2 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Isolate compiled dill caches by TargetModel<br />
+  <sub>[#187253](https://github.com/flutter/flutter/pull/187253) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187253) 222 additions and 29 deletions in 8 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
+  <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
