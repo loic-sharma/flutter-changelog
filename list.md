@@ -4,7 +4,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-50 commits.
+51 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Linux glyph gamma correction
   <sub>[#187122](https://github.com/flutter/flutter/pull/187122) merged on May 28, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187122) over 1 day, 136 additions and 30 deletions in 5 files</sub>
@@ -67,17 +67,17 @@
   <sub>[#186864](https://github.com/flutter/flutter/pull/186864) merged on May 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186864) over 1 week, 12 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
-* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Print trace when skipping flavor-specific and platform-specific assets
-  <sub>[#187045](https://github.com/flutter/flutter/pull/187045) merged on May 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187045) over 1 day, 25 additions and 4 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Reset system UI visibility flags when setting edge-to-edge mode
   <sub>[#187207](https://github.com/flutter/flutter/pull/187207) merged on May 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187207) over 20 hours, 32 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add explicit draw counts
-  <sub>[#186639](https://github.com/flutter/flutter/pull/186639) merged on May 27, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/186639) over 1 week, 166 additions and 106 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [Jochum van der Ploeg](https://github.com/wolfenrain)</sub>
+* **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Print trace when skipping flavor-specific and platform-specific assets
+  <sub>[#187045](https://github.com/flutter/flutter/pull/187045) merged on May 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187045) over 1 day, 25 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update CI with newer android sdk package
+  <sub>[#187143](https://github.com/flutter/flutter/pull/187143) merged on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187143) over 12 hours, 112 additions and 112 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Engine] Fix silent buffer mismatch bug in FML Win32 CommandLineFromPlatform
   <sub>[#187120](https://github.com/flutter/flutter/pull/187120) merged on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187120) over 6 hours, 48 additions and 11 deletions in 3 files</sub>
@@ -86,10 +86,6 @@
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document MediaQueryData.alwaysUse24HourFormat on macOS, Windows, Linux, web (#160664)
   <sub>[#186642](https://github.com/flutter/flutter/pull/186642) merged on May 28, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186642) over 1 week, 15 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Update CI with newer android sdk package
-  <sub>[#187143](https://github.com/flutter/flutter/pull/187143) merged on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187143) over 12 hours, 112 additions and 112 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Handle simctl process exceptions during discovery
   <sub>[#186501](https://github.com/flutter/flutter/pull/186501) merged on May 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186501) over 1 week, 63 additions and 1 deletion in 2 files</sub>
@@ -103,6 +99,10 @@
   <sub>[#187113](https://github.com/flutter/flutter/pull/187113) merged on May 27, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/187113) over 22 hours, 25 additions and 484 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add explicit draw counts
+  <sub>[#186639](https://github.com/flutter/flutter/pull/186639) merged on May 27, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/186639) over 1 week, 166 additions and 106 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [Jochum van der Ploeg](https://github.com/wolfenrain)</sub>
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Fix version cache poisoning from git environment variables
   <sub>[#186595](https://github.com/flutter/flutter/pull/186595) merged on May 26, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186595) over 1 week, 566 additions and 270 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -114,6 +114,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Eliminate strong retain cycle from VSyncClient
   <sub>[#187164](https://github.com/flutter/flutter/pull/187164) merged on May 28, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/187164) over 1 day, 103 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alberto Constantino ](https://github.com/albertoblue87-netizen), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Use super parameters in missed spots
+  <sub>[#186197](https://github.com/flutter/flutter/pull/186197) merged on May 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186197) over 3 weeks, 4 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Inject per-backend defines into shader bundle compilation
   <sub>[#187081](https://github.com/flutter/flutter/pull/187081) merged on May 27, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/187081) over 1 day, 94 additions and 2 deletions in 3 files</sub>
@@ -127,37 +131,33 @@
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) merged on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185819) over 3 weeks, 3 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Remove use of deprecated copy_trees.
+  <sub>[#187091](https://github.com/flutter/flutter/pull/187091) merged on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187091) over 6 hours, 19 additions and 34 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[Keerti Parthasarathy](https://github.com/keertip)** &mdash; Update data driven fixes docs
   <sub>[#186217](https://github.com/flutter/flutter/pull/186217) merged on May 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186217) over 2 weeks, 31 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Brian Wilkerson](https://github.com/bwilkerson)</sub>
-
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part10
-  <sub>[#186201](https://github.com/flutter/flutter/pull/186201) merged on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186201) over 2 weeks, 136 additions and 0 deletions in 9 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify precache enabled platforms help
   <sub>[#186878](https://github.com/flutter/flutter/pull/186878) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186878) over 5 days, 16 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Remove use of deprecated copy_trees.
-  <sub>[#187091](https://github.com/flutter/flutter/pull/187091) merged on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187091) over 6 hours, 19 additions and 34 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a tag to the Linux platform properties in .ci.yaml that specifies x64 CPUs
-  <sub>[#187124](https://github.com/flutter/flutter/pull/187124) merged on May 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187124) over 20 hours, 3 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part10
+  <sub>[#186201](https://github.com/flutter/flutter/pull/186201) merged on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186201) over 2 weeks, 136 additions and 0 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove another `String.valueOf`
   <sub>[#186628](https://github.com/flutter/flutter/pull/186628) merged on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186628) over 1 week, 3 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Build script updates for syncing engine sources and building artifacts on linux-arm64
-  <sub>[#186917](https://github.com/flutter/flutter/pull/186917) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186917) over 4 days, 4 additions and 8 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Dmitry Grand](https://github.com/ievdokdm), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Shares opengles golden context
   <sub>[#187243](https://github.com/flutter/flutter/pull/187243) merged on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187243) over 3 hours, 87 additions and 50 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Build script updates for syncing engine sources and building artifacts on linux-arm64
+  <sub>[#186917](https://github.com/flutter/flutter/pull/186917) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186917) over 4 days, 4 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Dmitry Grand](https://github.com/ievdokdm), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Curl CIPD package in .ci.yaml to version 8.20.0
   <sub>[#187133](https://github.com/flutter/flutter/pull/187133) merged on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187133) over 1 day, 8 additions and 8 deletions in 1 file</sub>
@@ -166,6 +166,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Disable analyzer
   <sub>[#187205](https://github.com/flutter/flutter/pull/187205) merged on May 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187205) over 1 hour, 10 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a tag to the Linux platform properties in .ci.yaml that specifies x64 CPUs
+  <sub>[#187124](https://github.com/flutter/flutter/pull/187124) merged on May 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187124) over 20 hours, 3 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Filter out `a: text input` from `team-framework` PR triage 
   <sub>[#187129](https://github.com/flutter/flutter/pull/187129) merged on May 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187129) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -672,11 +676,15 @@
 
 ### May 23, 2026 to May 29, 2026
 
-9 commits.
+10 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [in_app_purchase_android] Update Play Billing library to 8.0.0
   <sub>[#10816](https://github.com/flutter/packages/pull/10816) merged on May 27, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10816) over 4 months, 396 additions and 225 deletions in 21 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[jeffkwoh](https://github.com/jeffkwoh)** &mdash; [vector_graphics_compiler]: Fix Stack Overflow and CPU/Memory DoS on SVGs with circular references or exponential expansions
+  <sub>[#11740](https://github.com/flutter/packages/pull/11740) merged on May 28, 2026 &mdash; **Medium:** [42 comments](https://github.com/flutter/packages/pull/11740) over 1 week, 450 additions and 41 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add a pinned-SDK web example app
   <sub>[#11761](https://github.com/flutter/packages/pull/11761) merged on May 26, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/11761) over 4 days, 343 additions and 205 deletions in 36 files</sub>
