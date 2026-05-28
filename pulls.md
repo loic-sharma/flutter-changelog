@@ -359,11 +359,8 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Listen to log reader before VM Service and make delay configurable<br />
   <sub>[#187202](https://github.com/flutter/flutter/pull/187202) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187202) 144 additions and 30 deletions in 5 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Reset system UI visibility flags when setting edge-to-edge mode<br />
-  <sub>[#187207](https://github.com/flutter/flutter/pull/187207) opened on on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187207) 32 additions and 0 deletions in 2 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Shares opengles golden context<br />
-  <sub>[#187243](https://github.com/flutter/flutter/pull/187243) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187243) 87 additions and 50 deletions in 4 files</sub><br />
+  <sub>[#187243](https://github.com/flutter/flutter/pull/187243) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187243) 87 additions and 50 deletions in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix RangeError in PredictiveBackEvent.fromMap<br />
   <sub>[#187244](https://github.com/flutter/flutter/pull/187244) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187244) 93 additions and 14 deletions in 3 files</sub><br />
