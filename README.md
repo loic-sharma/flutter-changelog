@@ -4,7 +4,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-37 commits.
+38 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use resolved implementation plugins with SwiftPM<br />
   <sub>[#187097](https://github.com/flutter/flutter/pull/187097) merged on May 26, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/187097) over 4 hours, 436 additions and 54 deletions in 5 files</sub><br />
@@ -149,6 +149,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Handle DTD connection failures gracefully in widget-preview<br />
   <sub>[#186952](https://github.com/flutter/flutter/pull/186952) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186952) over 3 days, 64 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[pubspec] Bump Dart SDK constraint to ^3.13.0 (#186957)"<br />
+  <sub>[#187209](https://github.com/flutter/flutter/pull/187209) merged on May 28, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/187209) over 3 hours, 364 additions and 409 deletions in 161 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add explicit draw counts (reland)<br />
   <sub>[#187192](https://github.com/flutter/flutter/pull/187192) merged on May 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187192) over 3 hours, 167 additions and 108 deletions in 7 files</sub><br />
