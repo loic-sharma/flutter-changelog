@@ -182,6 +182,9 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material color tests to material<br />
   <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
 
+* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Improve stylus support on linux<br />
+  <sub>[#186831](https://github.com/flutter/flutter/pull/186831) opened on on May 20, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/186831) 355 additions and 85 deletions in 8 files</sub><br />
+
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Improve async dispose diagnostics<br />
   <sub>[#186847](https://github.com/flutter/flutter/pull/186847) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186847) 53 additions and 1 deletion in 2 files</sub><br />
 
@@ -323,14 +326,11 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Listen to log reader before VM Service and make delay configurable<br />
   <sub>[#187202](https://github.com/flutter/flutter/pull/187202) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187202) 144 additions and 30 deletions in 5 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix RangeError in PredictiveBackEvent.fromMap<br />
-  <sub>[#187244](https://github.com/flutter/flutter/pull/187244) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187244) 93 additions and 14 deletions in 3 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Handle 'no permissions' adb device state<br />
-  <sub>[#187248](https://github.com/flutter/flutter/pull/187248) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187248) 86 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#187248](https://github.com/flutter/flutter/pull/187248) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187248) 88 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Support activity-alias in Android launcher activity detection<br />
-  <sub>[#187251](https://github.com/flutter/flutter/pull/187251) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187251) 159 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#187251](https://github.com/flutter/flutter/pull/187251) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187251) 158 additions and 3 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Isolate compiled dill caches by TargetModel<br />
   <sub>[#187253](https://github.com/flutter/flutter/pull/187253) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187253) 222 additions and 29 deletions in 8 files</sub><br />
