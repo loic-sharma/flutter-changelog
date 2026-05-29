@@ -50,9 +50,6 @@
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
-* **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; [Impeller]Use the IO context for OpenGL program setup<br />
-  <sub>[#185723](https://github.com/flutter/flutter/pull/185723) opened on on April 29, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/185723) 750 additions and 72 deletions in 22 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: add null pointer check for window on update tooltip and popup position<br />
   <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/185807) 114 additions and 2 deletions in 3 files</sub><br />
 
@@ -228,7 +225,7 @@
   <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186923) 144 additions and 50 deletions in 4 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix SwiftPM identity for path dependency plugins<br />
-  <sub>[#186934](https://github.com/flutter/flutter/pull/186934) opened on on May 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186934) 69 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#186934](https://github.com/flutter/flutter/pull/186934) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186934) 102 additions and 11 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from painting tests<br />
   <sub>[#186937](https://github.com/flutter/flutter/pull/186937) opened on on May 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186937) 53 additions and 60 deletions in 3 files</sub><br />
@@ -358,4 +355,7 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [Material Cross Imports] Clean up Material Divider usages<br />
   <sub>[#187300](https://github.com/flutter/flutter/pull/187300) opened on on May 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187300) 97 additions and 28 deletions in 11 files</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Keep macOS Flutter xcconfigs on Runner target<br />
+  <sub>[#187304](https://github.com/flutter/flutter/pull/187304) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187304) 53 additions and 6 deletions in 4 files</sub><br />
 
