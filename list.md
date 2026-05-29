@@ -48,7 +48,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Retire Y-coord-scale plumbing by flipping GLES at the vertex stage
-  <sub>[#186556](https://github.com/flutter/flutter/pull/186556) merged on May 26, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/186556) over 1 week, 386 additions and 226 deletions in 16 files</sub>
+  <sub>[#186556](https://github.com/flutter/flutter/pull/186556) merged on May 26, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/186556) over 1 week, 386 additions and 226 deletions in 16 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lao Stra15Shop](https://github.com/Phonexay15), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [pubspec] Bump Dart SDK constraint to ^3.13.0
@@ -704,7 +704,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-11 commits.
+12 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [in_app_purchase_android] Update Play Billing library to 8.0.0
   <sub>[#10816](https://github.com/flutter/packages/pull/10816) merged on May 27, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10816) over 4 months, 396 additions and 225 deletions in 21 files</sub>
@@ -737,6 +737,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Add config options needed by core-packages
   <sub>[#11784](https://github.com/flutter/packages/pull/11784) merged on May 27, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/11784) over 10 hours, 225 additions and 47 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [vector_graphics_compiler] Support `xml` 7
+  <sub>[#11804](https://github.com/flutter/packages/pull/11804) merged on May 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/11804) over 21 minutes, 6 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Add LICENSE file
   <sub>[#11796](https://github.com/flutter/packages/pull/11796) merged on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11796) over 1 hour, 25 additions and 0 deletions in 1 file</sub>
@@ -822,14 +826,14 @@
 
 ### May 23, 2026 to May 29, 2026
 
-9 commits.
+10 commits.
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; docs: update service worker section in Web FAQ
-  <sub>[#13335](https://github.com/flutter/website/pull/13335) merged on May 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13335) over 4 weeks, 10 additions and 13 deletions in 1 file</sub>
+  <sub>[#13335](https://github.com/flutter/website/pull/13335) merged on May 28, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13335) over 4 weeks, 10 additions and 13 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Change the banner content to promote Q2 survey
-  <sub>[#13441](https://github.com/flutter/website/pull/13441) merged on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13441) over 26 minutes, 2 additions and 3 deletions in 1 file</sub>
+  <sub>[#13441](https://github.com/flutter/website/pull/13441) merged on May 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13441) over 26 minutes, 2 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[yim](https://github.com/yiiim)** &mdash; Scroll metrics notification align docs
@@ -859,6 +863,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a few videos from I/O. Not done yet.
   <sub>[#13429](https://github.com/flutter/website/pull/13429) merged on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13429) over 1 hour, 17 additions and 5 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Amanda Fitch](https://github.com/antfitch)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Change the banner content to promote Q2 survey"
+  <sub>[#13442](https://github.com/flutter/website/pull/13442) merged on May 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13442) over 21 minutes, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 ### May 16, 2026 to May 22, 2026
 
