@@ -182,9 +182,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material color tests to material<br />
   <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
 
-* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Improve stylus support on linux<br />
-  <sub>[#186831](https://github.com/flutter/flutter/pull/186831) opened on on May 20, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/186831) 355 additions and 85 deletions in 8 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Improve async dispose diagnostics<br />
   <sub>[#186847](https://github.com/flutter/flutter/pull/186847) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186847) 53 additions and 1 deletion in 2 files</sub><br />
 
@@ -291,10 +288,7 @@
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187039) 31 additions and 2 deletions in 1 file</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow attaching specific texture mip levels and slices<br />
-  <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187066) 461 additions and 111 deletions in 21 files</sub><br />
-
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Autofill all AutofillGroup fields in semantics mode<br />
-  <sub>[#187108](https://github.com/flutter/flutter/pull/187108) opened on on May 26, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/187108) 523 additions and 16 deletions in 3 files</sub><br />
+  <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/187066) 461 additions and 111 deletions in 21 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
@@ -315,13 +309,13 @@
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Resolve issue  Catch am start failures with 'Error type' and prevent hang<br />
-  <sub>[#187196](https://github.com/flutter/flutter/pull/187196) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187196) 70 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#187196](https://github.com/flutter/flutter/pull/187196) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187196) 144 additions and 1 deletion in 2 files</sub><br />
 
-* **[Pierre](https://github.com/guidezpl)** &mdash; Add step to bootstrap Flutter tool in coverage workflow<br />
+* **[pierre](https://github.com/guidezpl)** &mdash; Add step to bootstrap Flutter tool in coverage workflow<br />
   <sub>[#187199](https://github.com/flutter/flutter/pull/187199) opened on on May 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187199) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fail gracefully on Android AVD lock errors during startup<br />
-  <sub>[#187200](https://github.com/flutter/flutter/pull/187200) opened on on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187200) 175 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#187200](https://github.com/flutter/flutter/pull/187200) opened on on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187200) 176 additions and 16 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Listen to log reader before VM Service and make delay configurable<br />
   <sub>[#187202](https://github.com/flutter/flutter/pull/187202) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187202) 144 additions and 30 deletions in 5 files</sub><br />
@@ -349,9 +343,6 @@
 
 * **[Ivan Ugryumov](https://github.com/Servall4)** &mdash; [Impeller][Windows] fix black screen on OpenGL fallback<br />
   <sub>[#187288](https://github.com/flutter/flutter/pull/187288) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187288) 36 additions and 22 deletions in 2 files</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Defer GLES command submission until context is current<br />
-  <sub>[#187293](https://github.com/flutter/flutter/pull/187293) opened on on May 29, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/187293) 305 additions and 7 deletions in 4 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Explain asynchronous causes in the setState() called after dispose() error<br />
   <sub>[#187294](https://github.com/flutter/flutter/pull/187294) opened on on May 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187294) 37 additions and 2 deletions in 2 files</sub><br />
