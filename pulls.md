@@ -332,6 +332,9 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
+* **[David Bebawy](https://github.com/dbebawy)** &mdash; [Android] Add integration test for SystemUiMode transitions<br />
+  <sub>[#187269](https://github.com/flutter/flutter/pull/187269) opened on on May 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187269) 233 additions and 0 deletions in 4 files</sub><br />
+
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Android] Reset system UI visibility flags when setting edge-to-edge mode<br />
   <sub>[#187276](https://github.com/flutter/flutter/pull/187276) opened on on May 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187276) 32 additions and 0 deletions in 2 files</sub><br />
 
@@ -361,4 +364,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Tool] Handle DTD connection failures gracefully in widget-preview<br />
   <sub>[#187324](https://github.com/flutter/flutter/pull/187324) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187324) 64 additions and 8 deletions in 3 files</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): Unify ui.Path code for CanvasKit and Skwasm<br />
+  <sub>[#187331](https://github.com/flutter/flutter/pull/187331) opened on on May 29, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/187331) 1273 additions and 941 deletions in 18 files</sub><br />
 
