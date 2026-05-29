@@ -291,7 +291,7 @@
   <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187066) 461 additions and 111 deletions in 21 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Autofill all AutofillGroup fields in semantics mode<br />
-  <sub>[#187108](https://github.com/flutter/flutter/pull/187108) opened on on May 26, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187108) 467 additions and 16 deletions in 3 files</sub><br />
+  <sub>[#187108](https://github.com/flutter/flutter/pull/187108) opened on on May 26, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/187108) 523 additions and 16 deletions in 3 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
@@ -367,4 +367,10 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools, devicelab] Fix filesystem safety guard for symlinked temp directories<br />
   <sub>[#187320](https://github.com/flutter/flutter/pull/187320) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187320) 69 additions and 2 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Tool] Handle DTD connection failures gracefully in widget-preview<br />
+  <sub>[#187323](https://github.com/flutter/flutter/pull/187323) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187323) 64 additions and 8 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Tool] Handle DTD connection failures gracefully in widget-preview<br />
+  <sub>[#187324](https://github.com/flutter/flutter/pull/187324) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187324) 64 additions and 8 deletions in 3 files</sub><br />
 

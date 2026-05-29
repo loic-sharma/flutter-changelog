@@ -131,6 +131,10 @@
   <sub>[#186595](https://github.com/flutter/flutter/pull/186595) merged on May 26, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186595) over 1 week, 566 additions and 270 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Handle DTD connection failures gracefully in widget-preview
+  <sub>[#186952](https://github.com/flutter/flutter/pull/186952) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186952) over 3 days, 64 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Ensure that the TextureGLES destructor cleans up all objects that it holds including the sync fence
   <sub>[#187216](https://github.com/flutter/flutter/pull/187216) merged on May 29, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/187216) over 1 day, 95 additions and 35 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -163,10 +167,6 @@
   <sub>[#185819](https://github.com/flutter/flutter/pull/185819) merged on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185819) over 3 weeks, 3 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Keerti Parthasarathy](https://github.com/keertip)** &mdash; Update data driven fixes docs
-  <sub>[#186217](https://github.com/flutter/flutter/pull/186217) merged on May 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186217) over 2 weeks, 31 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Brian Wilkerson](https://github.com/bwilkerson)</sub>
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Inject per-backend defines into shader bundle compilation
   <sub>[#187081](https://github.com/flutter/flutter/pull/187081) merged on May 27, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/187081) over 1 day, 94 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -175,13 +175,13 @@
   <sub>[#187091](https://github.com/flutter/flutter/pull/187091) merged on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187091) over 6 hours, 19 additions and 34 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Keerti Parthasarathy](https://github.com/keertip)** &mdash; Update data driven fixes docs
+  <sub>[#186217](https://github.com/flutter/flutter/pull/186217) merged on May 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186217) over 2 weeks, 31 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Brian Wilkerson](https://github.com/bwilkerson)</sub>
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part10
   <sub>[#186201](https://github.com/flutter/flutter/pull/186201) merged on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186201) over 2 weeks, 136 additions and 0 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Disable analyzer
-  <sub>[#187205](https://github.com/flutter/flutter/pull/187205) merged on May 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187205) over 1 hour, 10 additions and 8 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a tag to the Linux platform properties in .ci.yaml that specifies x64 CPUs
   <sub>[#187124](https://github.com/flutter/flutter/pull/187124) merged on May 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187124) over 20 hours, 3 additions and 0 deletions in 2 files</sub>
@@ -202,6 +202,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Curl CIPD package in .ci.yaml to version 8.20.0
   <sub>[#187133](https://github.com/flutter/flutter/pull/187133) merged on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187133) over 1 day, 8 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Disable analyzer
+  <sub>[#187205](https://github.com/flutter/flutter/pull/187205) merged on May 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187205) over 1 hour, 10 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from sliver tree rendering test
   <sub>[#187000](https://github.com/flutter/flutter/pull/187000) merged on May 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/187000) over 5 days, 38 additions and 21 deletions in 2 files</sub>
@@ -234,10 +238,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts
   <sub>[#186964](https://github.com/flutter/flutter/pull/186964) merged on May 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186964) over 3 days, 86 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Handle DTD connection failures gracefully in widget-preview
-  <sub>[#186952](https://github.com/flutter/flutter/pull/186952) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186952) over 3 days, 64 additions and 8 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[pubspec] Bump Dart SDK constraint to ^3.13.0 (#186957)"
   <sub>[#187209](https://github.com/flutter/flutter/pull/187209) merged on May 28, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/187209) over 3 hours, 364 additions and 409 deletions in 161 files</sub>
