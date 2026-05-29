@@ -80,7 +80,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add/remove overlay child RenderObject from the tree in `attach`/`detach`
-  <sub>[#186564](https://github.com/flutter/flutter/pull/186564) merged on May 29, 2026 &mdash; **Medium:** [44 comments](https://github.com/flutter/flutter/pull/186564) over 1 week, 234 additions and 86 deletions in 3 files</sub>
+  <sub>[#186564](https://github.com/flutter/flutter/pull/186564) merged on May 29, 2026 &mdash; **Medium:** [45 comments](https://github.com/flutter/flutter/pull/186564) over 1 week, 234 additions and 86 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify lazy scroll extent docs
@@ -704,7 +704,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-10 commits.
+11 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [in_app_purchase_android] Update Play Billing library to 8.0.0
   <sub>[#10816](https://github.com/flutter/packages/pull/10816) merged on May 27, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10816) over 4 months, 396 additions and 225 deletions in 21 files</sub>
@@ -725,6 +725,10 @@
 * **[Hán Trung Kiên](https://github.com/hantrungkien)** &mdash; [go_router] Allow users to specify onExit as optional
   <sub>[#11150](https://github.com/flutter/packages/pull/11150) merged on May 26, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11150) over 2 months, 16 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Migrated `video_player_android` to Built-in Kotlin
+  <sub>[#11798](https://github.com/flutter/packages/pull/11798) merged on May 29, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/11798) over 1 day, 21 additions and 17 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Make more commands work without Flutter
   <sub>[#11797](https://github.com/flutter/packages/pull/11797) merged on May 28, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/11797) over 22 hours, 185 additions and 82 deletions in 12 files</sub>
@@ -818,11 +822,15 @@
 
 ### May 23, 2026 to May 29, 2026
 
-8 commits.
+9 commits.
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; docs: update service worker section in Web FAQ
   <sub>[#13335](https://github.com/flutter/website/pull/13335) merged on May 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13335) over 4 weeks, 10 additions and 13 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Change the banner content to promote Q2 survey
+  <sub>[#13441](https://github.com/flutter/website/pull/13441) merged on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13441) over 26 minutes, 2 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[yim](https://github.com/yiiim)** &mdash; Scroll metrics notification align docs
   <sub>[#13420](https://github.com/flutter/website/pull/13420) merged on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13420) over 6 days, 1 addition and 0 deletions in 1 file</sub>
