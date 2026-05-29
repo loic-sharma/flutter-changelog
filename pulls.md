@@ -251,9 +251,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from view chrome style test<br />
   <sub>[#186994](https://github.com/flutter/flutter/pull/186994) opened on on May 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186994) 64 additions and 63 deletions in 2 files</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from sliver tree rendering test<br />
-  <sub>[#187000](https://github.com/flutter/flutter/pull/187000) opened on on May 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/187000) 38 additions and 21 deletions in 2 files</sub><br />
-
 * **[Abhay](https://github.com/abhaysaqi)** &mdash; Fix: guard against detached RenderObject in _PlatformViewPlaceholderBox<br />
   <sub>[#187002](https://github.com/flutter/flutter/pull/187002) opened on on May 23, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/187002) 47 additions and 1 deletion in 2 files</sub><br />
 
