@@ -350,3 +350,6 @@
 * **[Ivan Ugryumov](https://github.com/Servall4)** &mdash; [Impeller][Windows] fix black screen on OpenGL fallback<br />
   <sub>[#187288](https://github.com/flutter/flutter/pull/187288) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187288) 36 additions and 22 deletions in 2 files</sub><br />
 
+* **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Explain asynchronous causes in the setState() called after dispose() error<br />
+  <sub>[#187294](https://github.com/flutter/flutter/pull/187294) opened on on May 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187294) 37 additions and 2 deletions in 2 files</sub><br />
+

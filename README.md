@@ -48,7 +48,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Retire Y-coord-scale plumbing by flipping GLES at the vertex stage<br />
-  <sub>[#186556](https://github.com/flutter/flutter/pull/186556) merged on May 26, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/186556) over 1 week, 386 additions and 226 deletions in 16 files</sub><br />
+  <sub>[#186556](https://github.com/flutter/flutter/pull/186556) merged on May 26, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/186556) over 1 week, 386 additions and 226 deletions in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lao Stra15Shop](https://github.com/Phonexay15), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [pubspec] Bump Dart SDK constraint to ^3.13.0<br />
