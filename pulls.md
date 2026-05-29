@@ -365,3 +365,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts<br />
   <sub>[#187308](https://github.com/flutter/flutter/pull/187308) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187308) 86 additions and 2 deletions in 4 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools, devicelab] Fix filesystem safety guard for symlinked temp directories<br />
+  <sub>[#187320](https://github.com/flutter/flutter/pull/187320) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187320) 69 additions and 2 deletions in 3 files</sub><br />
+
