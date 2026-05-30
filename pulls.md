@@ -368,3 +368,6 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; [macOS] Add `FlutterPluginRegistrar.valuePublished(byPlugin:)` just like iOS<br />
   <sub>[#187348](https://github.com/flutter/flutter/pull/187348) opened on on May 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187348) 39 additions and 0 deletions in 4 files</sub><br />
 
+* **[Minh Vu](https://github.com/fallintoplace)** &mdash; Fix RenderSliverPadding setter assertion<br />
+  <sub>[#187353](https://github.com/flutter/flutter/pull/187353) opened on on May 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187353) 7 additions and 1 deletion in 2 files</sub><br />
+
