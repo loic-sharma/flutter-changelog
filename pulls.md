@@ -365,3 +365,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Tool] Handle DTD connection failures gracefully in widget-preview<br />
   <sub>[#187324](https://github.com/flutter/flutter/pull/187324) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187324) 64 additions and 8 deletions in 3 files</sub><br />
 
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add macOS registrar published value lookup<br />
+  <sub>[#187348](https://github.com/flutter/flutter/pull/187348) opened on on May 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187348) 39 additions and 0 deletions in 4 files</sub><br />
+
