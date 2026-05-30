@@ -371,3 +371,6 @@
 * **[Minh Vu](https://github.com/fallintoplace)** &mdash; Fix RenderSliverPadding setter assertion<br />
   <sub>[#187353](https://github.com/flutter/flutter/pull/187353) opened on on May 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187353) 7 additions and 1 deletion in 2 files</sub><br />
 
+* **[Luke](https://github.com/Lukes-Lair)** &mdash; Update Flutter documentation links in flutter_console.bat<br />
+  <sub>[#187354](https://github.com/flutter/flutter/pull/187354) opened on on May 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187354) 2 additions and 2 deletions in 1 file</sub><br />
+
