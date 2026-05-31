@@ -854,7 +854,7 @@
 
 ### May 23, 2026 to May 29, 2026
 
-11 commits.
+12 commits.
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; docs: update service worker section in Web FAQ
   <sub>[#13335](https://github.com/flutter/website/pull/13335) merged on May 28, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13335) over 4 weeks, 10 additions and 13 deletions in 1 file</sub>
@@ -867,6 +867,10 @@
 * **[yim](https://github.com/yiiim)** &mdash; Scroll metrics notification align docs
   <sub>[#13420](https://github.com/flutter/website/pull/13420) merged on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13420) over 6 days, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; add OverflowBar to Multi-Child Layout widgets
+  <sub>[#13440](https://github.com/flutter/website/pull/13440) merged on May 31, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13440) over 2 days, 9 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tirth](https://github.com/piedcipher), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding videos to the index page.
   <sub>[#13444](https://github.com/flutter/website/pull/13444) merged on May 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13444) over 27 minutes, 36 additions and 8 deletions in 2 files</sub>
