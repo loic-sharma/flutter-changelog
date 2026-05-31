@@ -384,5 +384,5 @@
   <sub>[#187358](https://github.com/flutter/flutter/pull/187358) opened on on May 31, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187358) 905 additions and 5 deletions in 10 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add instanced draw support<br />
-  <sub>[#187359](https://github.com/flutter/flutter/pull/187359) opened on on May 31, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187359) 274 additions and 64 deletions in 11 files</sub><br />
+  <sub>[#187359](https://github.com/flutter/flutter/pull/187359) opened on on May 31, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/187359) 274 additions and 64 deletions in 11 files</sub><br />
 
