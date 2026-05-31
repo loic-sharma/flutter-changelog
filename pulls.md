@@ -285,7 +285,7 @@
   <sub>[#187037](https://github.com/flutter/flutter/pull/187037) opened on on May 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187037) 113 additions and 10 deletions in 3 files</sub><br />
 
 * **[Kirtikumar Anandrao Ramchandani](https://github.com/KirtiRamchandani)** &mdash; Remove Material test multi-view utility cross-import<br />
-  <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187039) 31 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow attaching specific texture mip levels and slices<br />
   <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/187066) 461 additions and 111 deletions in 21 files</sub><br />
@@ -373,4 +373,7 @@
 
 * **[Luke](https://github.com/Lukes-Lair)** &mdash; Update Flutter documentation links in flutter_console.bat<br />
   <sub>[#187354](https://github.com/flutter/flutter/pull/187354) opened on on May 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187354) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Srayansh Avadhesh Gupta](https://github.com/SRAYANSH-GUPTA)** &mdash; fix: expose skipTraversal in FocusableActionDetector<br />
+  <sub>[#187356](https://github.com/flutter/flutter/pull/187356) opened on on May 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187356) 42 additions and 0 deletions in 3 files</sub><br />
 
