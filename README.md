@@ -2,9 +2,26 @@
 
 ## flutter/flutter
 
+### May 30, 2026 to June 5, 2026
+
+3 commits.
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `dependOnInheritedWidgetOfExactType` documentation to explain why it is bad to use it in initState<br />
+  <sub>[#186216](https://github.com/flutter/flutter/pull/186216) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186216) over 3 weeks, 23 additions and 12 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Move dart-lang/ai to a top level third party dependency in en…<br />
+  <sub>[#187370](https://github.com/flutter/flutter/pull/187370) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187370) over 2 hours, 6 additions and 38 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Thomas](https://github.com/athomas)</sub><br />
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Remove use of deprecated API related to removal of the VM isolate.<br />
+  <sub>[#187013](https://github.com/flutter/flutter/pull/187013) merged on June 1, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187013) over 1 week, 119 additions and 198 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 ### May 23, 2026 to May 29, 2026
 
-65 commits.
+<details>
+<summary>65 commits...</summary>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] Optimize skwasm text layout and path decoding to eliminate dynamic boxing churn under Wasm<br />
   <sub>[#186978](https://github.com/flutter/flutter/pull/186978) merged on May 29, 2026 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/186978) over 6 days, 71 additions and 18 deletions in 3 files</sub><br />
@@ -266,6 +283,8 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add explicit draw counts (reland)<br />
   <sub>[#187192](https://github.com/flutter/flutter/pull/187192) merged on May 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187192) over 3 hours, 167 additions and 108 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub><br />
+
+</details>
 
 ### May 16, 2026 to May 22, 2026
 
