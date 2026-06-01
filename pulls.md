@@ -378,8 +378,14 @@
   <sub>[#187356](https://github.com/flutter/flutter/pull/187356) opened on on May 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187356) 42 additions and 0 deletions in 3 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add surface API for framework presentation<br />
-  <sub>[#187358](https://github.com/flutter/flutter/pull/187358) opened on on May 31, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187358) 905 additions and 5 deletions in 10 files</sub><br />
+  <sub>[#187358](https://github.com/flutter/flutter/pull/187358) opened on on May 31, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187358) 909 additions and 5 deletions in 10 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
+
+* **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix DropdownButton crash on orientation change while menu is open<br />
+  <sub>[#187366](https://github.com/flutter/flutter/pull/187366) opened on on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187366) 69 additions and 1 deletion in 2 files</sub><br />
+
+* **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix ShapeDecoration.lerp crash when interpolating between gradient and color<br />
+  <sub>[#187368](https://github.com/flutter/flutter/pull/187368) opened on on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187368) 56 additions and 2 deletions in 2 files</sub><br />
 
