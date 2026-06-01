@@ -380,3 +380,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add surface API for framework presentation<br />
   <sub>[#187358](https://github.com/flutter/flutter/pull/187358) opened on on May 31, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187358) 905 additions and 5 deletions in 10 files</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
+  <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
+
