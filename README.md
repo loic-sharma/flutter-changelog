@@ -60,7 +60,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Move dart-lang/ai to a top level third party dependency in engine (#187268)"<br />
-  <sub>[#187378](https://github.com/flutter/flutter/pull/187378) merged on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187378) over 4 hours, 38 additions and 10 deletions in 4 files</sub><br />
+  <sub>[#187378](https://github.com/flutter/flutter/pull/187378) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187378) over 4 hours, 38 additions and 10 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53)</sub><br />
 
 ### May 23, 2026 to May 29, 2026
