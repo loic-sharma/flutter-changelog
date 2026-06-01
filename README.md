@@ -4,12 +4,16 @@
 
 ### May 30, 2026 to June 5, 2026
 
-11 commits.
+14 commits.
 
 * **[CHOIgoung](https://github.com/CHOIgoung)** &mdash; Fix Windows Korean IME caret position during composition<br />
   <sub>[#186353](https://github.com/flutter/flutter/pull/186353) merged on June 1, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/186353) over 3 weeks, 93 additions and 12 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
   <sub><details><summary>2 images...</summary>![Before fix: Windows Korean IME caret appears before the active composing syllable](https://raw.githubusercontent.com/CHOIgoung/flutter/pr-assets-ime-caret-20260512-010049/windows-korean-ime-caret-before-fix.gif)![After fix: Windows Korean IME caret stays at the composition end](https://raw.githubusercontent.com/CHOIgoung/flutter/pr-assets-ime-caret-20260512-010049/windows-korean-ime-caret-position.gif)</details></sub>
+
+* **[David Martos](https://github.com/davidmartos96)** &mdash; Eager failure when building and no XCode build settings<br />
+  <sub>[#184726](https://github.com/flutter/flutter/pull/184726) merged on June 1, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184726) over 1 month, 72 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `dependOnInheritedWidgetOfExactType` documentation to explain why it is bad to use it in initState<br />
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186216) over 3 weeks, 23 additions and 12 deletions in 1 file</sub><br />
@@ -18,6 +22,10 @@
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Stack.clipBehavior = Clip.none does not extend hit testing (#160787)<br />
   <sub>[#186643](https://github.com/flutter/flutter/pull/186643) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186643) over 2 weeks, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+
+* **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; [flutter_tools] Fix `flutter drive --chrome-binary` being ignored on web<br />
+  <sub>[#185481](https://github.com/flutter/flutter/pull/185481) merged on June 1, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/185481) over 1 month, 223 additions and 24 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; iOS: update provisioning profile for 2026-2027 cert<br />
   <sub>[#187280](https://github.com/flutter/flutter/pull/187280) merged on June 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187280) over 3 days, 7 additions and 7 deletions in 1 file</sub><br />
@@ -30,6 +38,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix widget_preview unawaited async write race condition<br />
   <sub>[#187177](https://github.com/flutter/flutter/pull/187177) merged on June 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187177) over 4 days, 18 additions and 13 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code in `FlutterPluginUtils.kt`<br />
+  <sub>[#187012](https://github.com/flutter/flutter/pull/187012) merged on June 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187012) over 1 week, 0 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Move dart-lang/ai to a top level third party dependency in en…<br />
   <sub>[#187370](https://github.com/flutter/flutter/pull/187370) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187370) over 2 hours, 6 additions and 38 deletions in 3 files</sub><br />

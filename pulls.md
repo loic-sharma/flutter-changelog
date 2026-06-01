@@ -84,7 +84,7 @@
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/186108) 116 additions and 8 deletions in 5 files</sub><br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186108) 116 additions and 8 deletions in 5 files</sub><br />
 
 * **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) 2 additions and 2 deletions in 2 files</sub><br />
@@ -327,7 +327,7 @@
   <sub>[#187277](https://github.com/flutter/flutter/pull/187277) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187277) 32 additions and 0 deletions in 2 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Make shape border lerp symmetric<br />
-  <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187282) 156 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187282) 156 additions and 16 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
   <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/187289) 1340 additions and 636 deletions in 9 files</sub><br />
@@ -355,9 +355,6 @@
 
 * **[Minh Vu](https://github.com/fallintoplace)** &mdash; Fix RenderSliverPadding setter assertion<br />
   <sub>[#187353](https://github.com/flutter/flutter/pull/187353) opened on on May 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187353) 7 additions and 1 deletion in 2 files</sub><br />
-
-* **[Luke](https://github.com/Lukes-Lair)** &mdash; Update Flutter documentation links in flutter_console.bat<br />
-  <sub>[#187354](https://github.com/flutter/flutter/pull/187354) opened on on May 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187354) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Srayansh Avadhesh Gupta](https://github.com/SRAYANSH-GUPTA)** &mdash; fix: expose skipTraversal in FocusableActionDetector<br />
   <sub>[#187356](https://github.com/flutter/flutter/pull/187356) opened on on May 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187356) 42 additions and 0 deletions in 3 files</sub><br />
