@@ -157,7 +157,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Fix version cache poisoning from git environment variables
-  <sub>[#186595](https://github.com/flutter/flutter/pull/186595) merged on May 26, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/186595) over 1 week, 566 additions and 270 deletions in 5 files</sub>
+  <sub>[#186595](https://github.com/flutter/flutter/pull/186595) merged on May 26, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/186595) over 1 week, 566 additions and 270 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Handle DTD connection failures gracefully in widget-preview
@@ -650,9 +650,26 @@
 
 ## flutter/website
 
+### May 30, 2026 to June 5, 2026
+
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deploy image to use Dart 3.12.1
+  <sub>[#13448](https://github.com/flutter/website/pull/13448) merged on June 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13448) over 1 day, 62 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Use non-prerelease 3.12 SDK constraint
+  <sub>[#13449](https://github.com/flutter/website/pull/13449) merged on June 1, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/website/pull/13449) over 1 day, 160 additions and 158 deletions in 153 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove Rosetta note from iOS setup page
+  <sub>[#13450](https://github.com/flutter/website/pull/13450) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13450) over 1 day, 0 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### May 23, 2026 to May 29, 2026
 
-12 commits.
+<details>
+<summary>12 commits...</summary>
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; docs: update service worker section in Web FAQ
   <sub>[#13335](https://github.com/flutter/website/pull/13335) merged on May 28, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13335) over 4 weeks, 10 additions and 13 deletions in 1 file</sub>
@@ -701,6 +718,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Change the banner content to promote Q2 survey"
   <sub>[#13442](https://github.com/flutter/website/pull/13442) merged on May 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13442) over 21 minutes, 3 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub>
+
+</details>
 
 ### May 16, 2026 to May 22, 2026
 

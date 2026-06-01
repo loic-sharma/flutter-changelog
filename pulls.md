@@ -3,19 +3,19 @@
 ## flutter/flutter
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
-  <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
+  <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
 * **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use local lld explicitly in custom toolchain<br />
   <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [51 comments](https://github.com/flutter/flutter/pull/180591) 3860 additions and 1939 deletions in 20 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [52 comments](https://github.com/flutter/flutter/pull/180591) 3860 additions and 1939 deletions in 20 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -72,7 +72,7 @@
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
-  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
   <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186075) 95 additions and 2 deletions in 2 files</sub><br />
@@ -294,7 +294,7 @@
   <sub>[#187184](https://github.com/flutter/flutter/pull/187184) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187184) 54 additions and 11 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Changes to WebParagraph configuration<br />
-  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187188) 114 additions and 98 deletions in 18 files</sub><br />
+  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187188) 114 additions and 98 deletions in 18 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
@@ -332,9 +332,6 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Make shape border lerp symmetric<br />
   <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187282) 156 additions and 16 deletions in 2 files</sub><br />
 
-* **[Ivan Ugryumov](https://github.com/Servall4)** &mdash; [Impeller][Windows] fix black screen on OpenGL fallback<br />
-  <sub>[#187288](https://github.com/flutter/flutter/pull/187288) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187288) 36 additions and 22 deletions in 2 files</sub><br />
-
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Explain asynchronous causes in the setState() called after dispose() error<br />
   <sub>[#187294](https://github.com/flutter/flutter/pull/187294) opened on on May 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187294) 37 additions and 2 deletions in 2 files</sub><br />
 
@@ -368,12 +365,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
 
-* **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix DropdownButton crash on orientation change while menu is open<br />
-  <sub>[#187366](https://github.com/flutter/flutter/pull/187366) opened on on June 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187366) 69 additions and 1 deletion in 2 files</sub><br />
-
 * **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix ShapeDecoration.lerp crash when interpolating between gradient and color<br />
   <sub>[#187368](https://github.com/flutter/flutter/pull/187368) opened on on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187368) 56 additions and 2 deletions in 2 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
-  <sub>[#187380](https://github.com/flutter/flutter/pull/187380) opened on on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187380) 11 additions and 0 deletions in 1 file</sub><br />
 
