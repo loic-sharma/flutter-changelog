@@ -26,9 +26,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
   <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/182788) 187 additions and 50 deletions in 11 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Roll Chrome to 145 (engine + framework)<br />
-  <sub>[#182861](https://github.com/flutter/flutter/pull/182861) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182861) 78 additions and 107 deletions in 8 files</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
@@ -367,4 +364,7 @@
 
 * **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix ShapeDecoration.lerp crash when interpolating between gradient and color<br />
   <sub>[#187368](https://github.com/flutter/flutter/pull/187368) opened on on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187368) 56 additions and 2 deletions in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add new file patterns for team-web labeler<br />
+  <sub>[#187397](https://github.com/flutter/flutter/pull/187397) opened on on June 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187397) 4 additions and 0 deletions in 1 file</sub><br />
 

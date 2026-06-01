@@ -4,7 +4,7 @@
 
 ### May 30, 2026 to June 5, 2026
 
-6 commits.
+9 commits.
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `dependOnInheritedWidgetOfExactType` documentation to explain why it is bad to use it in initState
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186216) over 3 weeks, 23 additions and 12 deletions in 1 file</sub>
@@ -26,9 +26,21 @@
   <sub>[#187370](https://github.com/flutter/flutter/pull/187370) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187370) over 2 hours, 6 additions and 38 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Thomas](https://github.com/athomas)</sub>
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable
+  <sub>[#187380](https://github.com/flutter/flutter/pull/187380) merged on June 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187380) over 3 hours, 11 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add vector_math to Framework triage
+  <sub>[#187389](https://github.com/flutter/flutter/pull/187389) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187389) over 2 hours, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Remove use of deprecated API related to removal of the VM isolate.
   <sub>[#187013](https://github.com/flutter/flutter/pull/187013) merged on June 1, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187013) over 1 week, 119 additions and 198 deletions in 21 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Move dart-lang/ai to a top level third party dependency in engine (#187268)"
+  <sub>[#187378](https://github.com/flutter/flutter/pull/187378) merged on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187378) over 4 hours, 38 additions and 10 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53)</sub>
 
 ### May 23, 2026 to May 29, 2026
 
@@ -157,7 +169,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Fix version cache poisoning from git environment variables
-  <sub>[#186595](https://github.com/flutter/flutter/pull/186595) merged on May 26, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/186595) over 1 week, 566 additions and 270 deletions in 5 files</sub>
+  <sub>[#186595](https://github.com/flutter/flutter/pull/186595) merged on May 26, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186595) over 1 week, 566 additions and 270 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Handle DTD connection failures gracefully in widget-preview
@@ -169,7 +181,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brandon DeRosier](https://github.com/bdero), [John "codefu" McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Ensure that the TextureGLES destructor cleans up all objects that it holds including the sync fence
-  <sub>[#187216](https://github.com/flutter/flutter/pull/187216) merged on May 29, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/187216) over 1 day, 95 additions and 35 deletions in 5 files</sub>
+  <sub>[#187216](https://github.com/flutter/flutter/pull/187216) merged on May 29, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/187216) over 1 day, 95 additions and 35 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve SizedBox's docs
@@ -546,7 +558,11 @@
 
 ### May 30, 2026 to June 5, 2026
 
-1 commits.
+2 commits.
+
+* **[August](https://github.com/Gustl22)** &mdash; [file_selector_web] feat: Support XFile.mimeType
+  <sub>[#11703](https://github.com/flutter/packages/pull/11703) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11703) over 2 weeks, 33 additions and 7 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 559ffa3f75e7 to 924134a44c18 (4 revisions)
   <sub>[#11817](https://github.com/flutter/packages/pull/11817) merged on June 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11817) over 43 minutes, 1 addition and 1 deletion in 1 file</sub>
