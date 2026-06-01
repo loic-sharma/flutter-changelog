@@ -216,7 +216,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Move dart-lang/ai to a top level third party dependency in engine
-  <sub>[#187268](https://github.com/flutter/flutter/pull/187268) merged on May 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187268) over 1 day, 38 additions and 6 deletions in 3 files</sub>
+  <sub>[#187268](https://github.com/flutter/flutter/pull/187268) merged on May 30, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187268) over 1 day, 38 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Aprelev](https://github.com/aam)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix crash if FlView is destroyed during a draw.
