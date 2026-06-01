@@ -4,11 +4,23 @@
 
 ### May 30, 2026 to June 5, 2026
 
-3 commits.
+6 commits.
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `dependOnInheritedWidgetOfExactType` documentation to explain why it is bad to use it in initState<br />
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186216) over 3 weeks, 23 additions and 12 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Stack.clipBehavior = Clip.none does not extend hit testing (#160787)<br />
+  <sub>[#186643](https://github.com/flutter/flutter/pull/186643) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186643) over 2 weeks, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
+
+* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; [flutter_tools] Reject archive entries that escape into a sibling directory by name prefix (#185794)<br />
+  <sub>[#186647](https://github.com/flutter/flutter/pull/186647) merged on June 1, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186647) over 2 weeks, 48 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix widget_preview unawaited async write race condition<br />
+  <sub>[#187177](https://github.com/flutter/flutter/pull/187177) merged on June 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187177) over 4 days, 18 additions and 13 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Move dart-lang/ai to a top level third party dependency in en…<br />
   <sub>[#187370](https://github.com/flutter/flutter/pull/187370) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187370) over 2 hours, 6 additions and 38 deletions in 3 files</sub><br />
@@ -532,9 +544,18 @@
 
 ## flutter/packages
 
+### May 30, 2026 to June 5, 2026
+
+1 commits.
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 559ffa3f75e7 to 924134a44c18 (4 revisions)<br />
+  <sub>[#11817](https://github.com/flutter/packages/pull/11817) merged on June 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11817) over 43 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 ### May 23, 2026 to May 29, 2026
 
-12 commits.
+<details>
+<summary>12 commits...</summary>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [in_app_purchase_android] Update Play Billing library to 8.0.0<br />
   <sub>[#10816](https://github.com/flutter/packages/pull/10816) merged on May 27, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/10816) over 4 months, 396 additions and 225 deletions in 21 files</sub><br />
@@ -583,6 +604,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Add Android and iOS attribution ID<br />
   <sub>[#11731](https://github.com/flutter/packages/pull/11731) merged on May 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11731) over 1 week, 77 additions and 5 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+</details>
 
 ### May 16, 2026 to May 22, 2026
 

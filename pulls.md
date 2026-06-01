@@ -15,7 +15,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [51 comments](https://github.com/flutter/flutter/pull/180591) 3856 additions and 1938 deletions in 19 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [51 comments](https://github.com/flutter/flutter/pull/180591) 3860 additions and 1939 deletions in 20 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -24,7 +24,7 @@
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
-  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/182788) 164 additions and 50 deletions in 11 files</sub><br />
+  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/182788) 187 additions and 50 deletions in 11 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Roll Chrome to 145 (engine + framework)<br />
   <sub>[#182861](https://github.com/flutter/flutter/pull/182861) opened on on February 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/182861) 78 additions and 107 deletions in 8 files</sub><br />
@@ -95,17 +95,11 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Allow selecting multi-digit device options<br />
-  <sub>[#186184](https://github.com/flutter/flutter/pull/186184) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186184) 100 additions and 0 deletions in 2 files</sub><br />
-
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Allow building projects lacking Runner.xcworkspace<br />
   <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186239) 75 additions and 74 deletions in 5 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent downgrading `project.pbxproj` when greater version number<br />
   <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186250) 159 additions and 20 deletions in 2 files</sub><br />
-
-* **[Shivanshu](https://github.com/shivanshu877)** &mdash; tool: build both Wasm and JS targets for `flutter run --wasm`<br />
-  <sub>[#186253](https://github.com/flutter/flutter/pull/186253) opened on on May 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186253) 87 additions and 11 deletions in 2 files</sub><br />
 
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; engine: explain why each candidate build was skipped in Flutter web loader<br />
   <sub>[#186254](https://github.com/flutter/flutter/pull/186254) opened on on May 8, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186254) 47 additions and 11 deletions in 1 file</sub><br />
@@ -329,9 +323,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
-* **[David Bebawy](https://github.com/dbebawy)** &mdash; [Android] Add integration test for SystemUiMode transitions<br />
-  <sub>[#187269](https://github.com/flutter/flutter/pull/187269) opened on on May 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187269) 229 additions and 0 deletions in 4 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Android] Reset system UI visibility flags when setting edge-to-edge mode<br />
   <sub>[#187276](https://github.com/flutter/flutter/pull/187276) opened on on May 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187276) 32 additions and 0 deletions in 2 files</sub><br />
 
@@ -375,11 +366,14 @@
   <sub>[#187356](https://github.com/flutter/flutter/pull/187356) opened on on May 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187356) 42 additions and 0 deletions in 3 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
-  <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
 
 * **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix DropdownButton crash on orientation change while menu is open<br />
   <sub>[#187366](https://github.com/flutter/flutter/pull/187366) opened on on June 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187366) 69 additions and 1 deletion in 2 files</sub><br />
 
 * **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix ShapeDecoration.lerp crash when interpolating between gradient and color<br />
   <sub>[#187368](https://github.com/flutter/flutter/pull/187368) opened on on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187368) 56 additions and 2 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
+  <sub>[#187380](https://github.com/flutter/flutter/pull/187380) opened on on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187380) 11 additions and 0 deletions in 1 file</sub><br />
 
