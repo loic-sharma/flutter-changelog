@@ -4,7 +4,7 @@
 
 ### May 30, 2026 to June 5, 2026
 
-25 commits.
+27 commits.
 
 * **[CHOIgoung](https://github.com/CHOIgoung)** &mdash; Fix Windows Korean IME caret position during composition<br />
   <sub>[#186353](https://github.com/flutter/flutter/pull/186353) merged on June 1, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/186353) over 3 weeks, 93 additions and 12 deletions in 2 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow attaching specific texture mip levels and slices<br />
   <sub>[#187066](https://github.com/flutter/flutter/pull/187066) merged on June 2, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/187066) over 1 week, 461 additions and 111 deletions in 21 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub><br />
+
+* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clean up avoid_type_to_string suppressions<br />
+  <sub>[#186869](https://github.com/flutter/flutter/pull/186869) merged on June 2, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186869) over 1 week, 54 additions and 10 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Eager failure when building and no XCode build settings<br />
   <sub>[#184726](https://github.com/flutter/flutter/pull/184726) merged on June 1, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184726) over 1 month, 72 additions and 0 deletions in 2 files</sub><br />
@@ -82,6 +86,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Move dart-lang/ai to a top level third party dependency in en…<br />
   <sub>[#187370](https://github.com/flutter/flutter/pull/187370) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187370) over 2 hours, 6 additions and 38 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Thomas](https://github.com/athomas)</sub><br />
+
+* **[Luke](https://github.com/Lukes-Lair)** &mdash; Update Flutter documentation links in flutter_console.bat<br />
+  <sub>[#187354](https://github.com/flutter/flutter/pull/187354) merged on June 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187354) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "[Impeller] Allow attaching specific texture mip levels and slices"<br />
   <sub>[#187445](https://github.com/flutter/flutter/pull/187445) merged on June 2, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187445) over 4 hours, 111 additions and 461 deletions in 21 files</sub><br />
@@ -623,7 +631,7 @@
 
 ### May 30, 2026 to June 5, 2026
 
-5 commits.
+6 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Migrate plugins to support AGP 9<br />
   <sub>[#11802](https://github.com/flutter/packages/pull/11802) merged on June 2, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11802) over 4 days, 835 additions and 304 deletions in 103 files</sub><br />
@@ -640,6 +648,10 @@
 * **[Ellet](https://github.com/EchoEllet)** &mdash; [platform] Update README link to the new repo<br />
   <sub>[#11811](https://github.com/flutter/packages/pull/11811) merged on June 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11811) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-go_router-17.3.0 to main<br />
+  <sub>[#11824](https://github.com/flutter/packages/pull/11824) merged on June 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11824) over 39 minutes, 6 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 559ffa3f75e7 to 924134a44c18 (4 revisions)<br />
   <sub>[#11817](https://github.com/flutter/packages/pull/11817) merged on June 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11817) over 43 minutes, 1 addition and 1 deletion in 1 file</sub><br />
