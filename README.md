@@ -619,7 +619,11 @@
 
 ### May 30, 2026 to June 5, 2026
 
-2 commits.
+3 commits.
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Migrate plugins to support AGP 9<br />
+  <sub>[#11802](https://github.com/flutter/packages/pull/11802) merged on June 2, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11802) over 4 days, 835 additions and 304 deletions in 103 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; [file_selector_web] feat: Support XFile.mimeType<br />
   <sub>[#11703](https://github.com/flutter/packages/pull/11703) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11703) over 2 weeks, 33 additions and 7 deletions in 5 files</sub><br />
