@@ -318,7 +318,7 @@
   <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187282) 156 additions and 16 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
-  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/187289) 765 additions and 184 deletions in 9 files</sub><br />
+  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/187289) 767 additions and 22 deletions in 6 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Explain asynchronous causes in the setState() called after dispose() error<br />
   <sub>[#187294](https://github.com/flutter/flutter/pull/187294) opened on on May 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187294) 37 additions and 2 deletions in 2 files</sub><br />
@@ -371,15 +371,15 @@
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [flutter_tools] Format empty app template with latest dart format<br />
   <sub>[#187443](https://github.com/flutter/flutter/pull/187443) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187443) 1 addition and 5 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "[Impeller] Allow attaching specific texture mip levels and slices"<br />
-  <sub>[#187445](https://github.com/flutter/flutter/pull/187445) opened on on June 2, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187445) 111 additions and 461 deletions in 21 files</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix positioning of text shadow masks<br />
   <sub>[#187460](https://github.com/flutter/flutter/pull/187460) opened on on June 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187460) 29 additions and 8 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Refactor Git dependency injection and remove globals.git<br />
-  <sub>[#187464](https://github.com/flutter/flutter/pull/187464) opened on on June 2, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/187464) 466 additions and 344 deletions in 11 files</sub><br />
+  <sub>[#187464](https://github.com/flutter/flutter/pull/187464) opened on on June 2, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187464) 466 additions and 344 deletions in 11 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `embedded_android_views_integration_test.dart`<br />
   <sub>[#187465](https://github.com/flutter/flutter/pull/187465) opened on on June 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187465) 0 additions and 20 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor Xcode usages to constructor dependency injection<br />
+  <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187469) 698 additions and 333 deletions in 56 files</sub><br />
 

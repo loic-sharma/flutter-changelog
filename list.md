@@ -4,7 +4,7 @@
 
 ### May 30, 2026 to June 5, 2026
 
-24 commits.
+25 commits.
 
 * **[CHOIgoung](https://github.com/CHOIgoung)** &mdash; Fix Windows Korean IME caret position during composition
   <sub>[#186353](https://github.com/flutter/flutter/pull/186353) merged on June 1, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/186353) over 3 weeks, 93 additions and 12 deletions in 2 files</sub>
@@ -82,6 +82,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Move dart-lang/ai to a top level third party dependency in en…
   <sub>[#187370](https://github.com/flutter/flutter/pull/187370) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187370) over 2 hours, 6 additions and 38 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Thomas](https://github.com/athomas)</sub>
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "[Impeller] Allow attaching specific texture mip levels and slices"
+  <sub>[#187445](https://github.com/flutter/flutter/pull/187445) merged on June 2, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187445) over 4 hours, 111 additions and 461 deletions in 21 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Always sync slider input attrs regardless of gesture mode
   <sub>[#187217](https://github.com/flutter/flutter/pull/187217) merged on June 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187217) over 5 days, 53 additions and 3 deletions in 2 files</sub>
