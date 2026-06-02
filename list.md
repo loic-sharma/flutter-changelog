@@ -4,10 +4,10 @@
 
 ### May 30, 2026 to June 5, 2026
 
-14 commits.
+16 commits.
 
 * **[CHOIgoung](https://github.com/CHOIgoung)** &mdash; Fix Windows Korean IME caret position during composition
-  <sub>[#186353](https://github.com/flutter/flutter/pull/186353) merged on June 1, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/186353) over 3 weeks, 93 additions and 12 deletions in 2 files</sub>
+  <sub>[#186353](https://github.com/flutter/flutter/pull/186353) merged on June 1, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186353) over 3 weeks, 93 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
   <sub><details><summary>2 images...</summary>![Before fix: Windows Korean IME caret appears before the active composing syllable](https://raw.githubusercontent.com/CHOIgoung/flutter/pr-assets-ime-caret-20260512-010049/windows-korean-ime-caret-before-fix.gif)![After fix: Windows Korean IME caret stays at the composition end](https://raw.githubusercontent.com/CHOIgoung/flutter/pr-assets-ime-caret-20260512-010049/windows-korean-ime-caret-position.gif)</details></sub>
 
@@ -26,6 +26,10 @@
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; [flutter_tools] Fix `flutter drive --chrome-binary` being ignored on web
   <sub>[#185481](https://github.com/flutter/flutter/pull/185481) merged on June 1, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/185481) over 1 month, 223 additions and 24 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [flutter_driver] Don't throw when stderr is unavailable on web
+  <sub>[#187190](https://github.com/flutter/flutter/pull/187190) merged on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187190) over 5 days, 5 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; iOS: update provisioning profile for 2026-2027 cert
   <sub>[#187280](https://github.com/flutter/flutter/pull/187280) merged on June 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187280) over 3 days, 7 additions and 7 deletions in 1 file</sub>
@@ -46,6 +50,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Move dart-lang/ai to a top level third party dependency in en…
   <sub>[#187370](https://github.com/flutter/flutter/pull/187370) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187370) over 2 hours, 6 additions and 38 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Thomas](https://github.com/athomas)</sub>
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Always sync slider input attrs regardless of gesture mode
+  <sub>[#187217](https://github.com/flutter/flutter/pull/187217) merged on June 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187217) over 5 days, 53 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable
   <sub>[#187380](https://github.com/flutter/flutter/pull/187380) merged on June 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187380) over 3 hours, 11 additions and 0 deletions in 1 file</sub>
