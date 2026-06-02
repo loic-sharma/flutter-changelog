@@ -371,3 +371,6 @@
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; Fix SingleChildScrollView to automatically consume MediaQuery padding<br />
   <sub>[#187415](https://github.com/flutter/flutter/pull/187415) opened on on June 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187415) 125 additions and 2 deletions in 2 files</sub><br />
 
+* **[Knox Labs](https://github.com/theherrovn-sys)** &mdash; Fix 3 typos in TestSemantics semantics_tester.dart<br />
+  <sub>[#187432](https://github.com/flutter/flutter/pull/187432) opened on on June 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187432) 8 additions and 8 deletions in 2 files</sub><br />
+

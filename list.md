@@ -7,7 +7,7 @@
 24 commits.
 
 * **[CHOIgoung](https://github.com/CHOIgoung)** &mdash; Fix Windows Korean IME caret position during composition
-  <sub>[#186353](https://github.com/flutter/flutter/pull/186353) merged on June 1, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186353) over 3 weeks, 93 additions and 12 deletions in 2 files</sub>
+  <sub>[#186353](https://github.com/flutter/flutter/pull/186353) merged on June 1, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/186353) over 3 weeks, 93 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
   <sub><details><summary>2 images...</summary>![Before fix: Windows Korean IME caret appears before the active composing syllable](https://raw.githubusercontent.com/CHOIgoung/flutter/pr-assets-ime-caret-20260512-010049/windows-korean-ime-caret-before-fix.gif)![After fix: Windows Korean IME caret stays at the composition end](https://raw.githubusercontent.com/CHOIgoung/flutter/pr-assets-ime-caret-20260512-010049/windows-korean-ime-caret-position.gif)</details></sub>
 
