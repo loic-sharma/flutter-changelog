@@ -270,10 +270,7 @@
   <sub>[#187037](https://github.com/flutter/flutter/pull/187037) opened on on May 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187037) 113 additions and 10 deletions in 3 files</sub><br />
 
 * **[Kirtikumar Anandrao Ramchandani](https://github.com/KirtiRamchandani)** &mdash; Remove Material test multi-view utility cross-import<br />
-  <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow attaching specific texture mip levels and slices<br />
-  <sub>[#187066](https://github.com/flutter/flutter/pull/187066) opened on on May 25, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/187066) 461 additions and 111 deletions in 21 files</sub><br />
+  <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
@@ -333,7 +330,7 @@
   <sub>[#187294](https://github.com/flutter/flutter/pull/187294) opened on on May 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187294) 37 additions and 2 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [Material Cross Imports] Clean up Material Divider usages<br />
-  <sub>[#187300](https://github.com/flutter/flutter/pull/187300) opened on on May 29, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/187300) 97 additions and 28 deletions in 11 files</sub><br />
+  <sub>[#187300](https://github.com/flutter/flutter/pull/187300) opened on on May 29, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/187300) 128 additions and 31 deletions in 12 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Keep macOS Flutter xcconfigs on Runner target<br />
   <sub>[#187304](https://github.com/flutter/flutter/pull/187304) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187304) 53 additions and 6 deletions in 4 files</sub><br />

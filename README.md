@@ -4,7 +4,7 @@
 
 ### May 30, 2026 to June 5, 2026
 
-22 commits.
+24 commits.
 
 * **[CHOIgoung](https://github.com/CHOIgoung)** &mdash; Fix Windows Korean IME caret position during composition<br />
   <sub>[#186353](https://github.com/flutter/flutter/pull/186353) merged on June 1, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186353) over 3 weeks, 93 additions and 12 deletions in 2 files</sub><br />
@@ -15,6 +15,10 @@
   <sub>[#187293](https://github.com/flutter/flutter/pull/187293) merged on June 2, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187293) over 3 days, 311 additions and 7 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow attaching specific texture mip levels and slices<br />
+  <sub>[#187066](https://github.com/flutter/flutter/pull/187066) merged on June 2, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/187066) over 1 week, 461 additions and 111 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub><br />
+
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Eager failure when building and no XCode build settings<br />
   <sub>[#184726](https://github.com/flutter/flutter/pull/184726) merged on June 1, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184726) over 1 month, 72 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
@@ -22,6 +26,10 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `dependOnInheritedWidgetOfExactType` documentation to explain why it is bad to use it in initState<br />
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186216) over 3 weeks, 23 additions and 12 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add block-compressed texture format support (BC, ETC2, ASTC LDR)<br />
+  <sub>[#187281](https://github.com/flutter/flutter/pull/187281) merged on June 2, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/187281) over 4 days, 609 additions and 35 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Read FLTEnableWideGamut from Dart bundle<br />
   <sub>[#186509](https://github.com/flutter/flutter/pull/186509) merged on June 1, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186509) over 2 weeks, 53 additions and 1 deletion in 3 files</sub><br />
