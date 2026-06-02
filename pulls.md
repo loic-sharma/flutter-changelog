@@ -15,7 +15,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [52 comments](https://github.com/flutter/flutter/pull/180591) 3872 additions and 1939 deletions in 20 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [52 comments](https://github.com/flutter/flutter/pull/180591) 3875 additions and 1939 deletions in 20 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -318,7 +318,7 @@
   <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187282) 156 additions and 16 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
-  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187289) 765 additions and 184 deletions in 9 files</sub><br />
+  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/187289) 765 additions and 184 deletions in 9 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Explain asynchronous causes in the setState() called after dispose() error<br />
   <sub>[#187294](https://github.com/flutter/flutter/pull/187294) opened on on May 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187294) 37 additions and 2 deletions in 2 files</sub><br />
@@ -376,4 +376,10 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix positioning of text shadow masks<br />
   <sub>[#187460](https://github.com/flutter/flutter/pull/187460) opened on on June 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187460) 29 additions and 8 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Refactor Git dependency injection and remove globals.git<br />
+  <sub>[#187464](https://github.com/flutter/flutter/pull/187464) opened on on June 2, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/187464) 466 additions and 344 deletions in 11 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `embedded_android_views_integration_test.dart`<br />
+  <sub>[#187465](https://github.com/flutter/flutter/pull/187465) opened on on June 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187465) 0 additions and 20 deletions in 3 files</sub><br />
 
