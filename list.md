@@ -619,7 +619,7 @@
 
 ### May 30, 2026 to June 5, 2026
 
-4 commits.
+5 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Migrate plugins to support AGP 9
   <sub>[#11802](https://github.com/flutter/packages/pull/11802) merged on June 2, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11802) over 4 days, 835 additions and 304 deletions in 103 files</sub>
@@ -632,6 +632,10 @@
 * **[August](https://github.com/Gustl22)** &mdash; [file_selector_web] feat: Support XFile.mimeType
   <sub>[#11703](https://github.com/flutter/packages/pull/11703) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11703) over 2 weeks, 33 additions and 7 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Ellet](https://github.com/EchoEllet)** &mdash; [platform] Update README link to the new repo
+  <sub>[#11811](https://github.com/flutter/packages/pull/11811) merged on June 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11811) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 559ffa3f75e7 to 924134a44c18 (4 revisions)
   <sub>[#11817](https://github.com/flutter/packages/pull/11817) merged on June 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11817) over 43 minutes, 1 addition and 1 deletion in 1 file</sub>

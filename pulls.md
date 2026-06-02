@@ -365,12 +365,6 @@
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; Fix SingleChildScrollView to automatically consume MediaQuery padding<br />
   <sub>[#187415](https://github.com/flutter/flutter/pull/187415) opened on on June 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187415) 125 additions and 2 deletions in 2 files</sub><br />
 
-* **[Knox Labs](https://github.com/theherrovn-sys)** &mdash; Fix 3 typos in TestSemantics semantics_tester.dart<br />
-  <sub>[#187432](https://github.com/flutter/flutter/pull/187432) opened on on June 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187432) 8 additions and 8 deletions in 2 files</sub><br />
-
-* **[Maruf](https://github.com/Mezanur007)** &mdash; Fix TestSemantics typo checks<br />
-  <sub>[#187433](https://github.com/flutter/flutter/pull/187433) opened on on June 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187433) 87 additions and 8 deletions in 3 files</sub><br />
-
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Restrict release web asset server to the build output and source files<br />
   <sub>[#187437](https://github.com/flutter/flutter/pull/187437) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187437) 94 additions and 7 deletions in 2 files</sub><br />
 
@@ -378,5 +372,8 @@
   <sub>[#187443](https://github.com/flutter/flutter/pull/187443) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187443) 1 addition and 5 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "[Impeller] Allow attaching specific texture mip levels and slices"<br />
-  <sub>[#187445](https://github.com/flutter/flutter/pull/187445) opened on on June 2, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187445) 111 additions and 461 deletions in 21 files</sub><br />
+  <sub>[#187445](https://github.com/flutter/flutter/pull/187445) opened on on June 2, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187445) 111 additions and 461 deletions in 21 files</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix positioning of text shadow masks<br />
+  <sub>[#187460](https://github.com/flutter/flutter/pull/187460) opened on on June 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187460) 29 additions and 8 deletions in 3 files</sub><br />
 
