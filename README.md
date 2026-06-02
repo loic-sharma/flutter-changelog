@@ -4,12 +4,16 @@
 
 ### May 30, 2026 to June 5, 2026
 
-21 commits.
+22 commits.
 
 * **[CHOIgoung](https://github.com/CHOIgoung)** &mdash; Fix Windows Korean IME caret position during composition<br />
   <sub>[#186353](https://github.com/flutter/flutter/pull/186353) merged on June 1, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/186353) over 3 weeks, 93 additions and 12 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Renzo Olivares](https://github.com/Renzo-Olivares), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
   <sub><details><summary>2 images...</summary>![Before fix: Windows Korean IME caret appears before the active composing syllable](https://raw.githubusercontent.com/CHOIgoung/flutter/pr-assets-ime-caret-20260512-010049/windows-korean-ime-caret-before-fix.gif)![After fix: Windows Korean IME caret stays at the composition end](https://raw.githubusercontent.com/CHOIgoung/flutter/pr-assets-ime-caret-20260512-010049/windows-korean-ime-caret-position.gif)</details></sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix GLES command submission status before context is current<br />
+  <sub>[#187293](https://github.com/flutter/flutter/pull/187293) merged on June 2, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187293) over 3 days, 311 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[David Martos](https://github.com/davidmartos96)** &mdash; Eager failure when building and no XCode build settings<br />
   <sub>[#184726](https://github.com/flutter/flutter/pull/184726) merged on June 1, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184726) over 1 month, 72 additions and 0 deletions in 2 files</sub><br />
@@ -717,7 +721,11 @@
 
 ### May 30, 2026 to June 5, 2026
 
-3 commits.
+4 commits.
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Add breaking change page for DropdownButton enabled property<br />
+  <sub>[#13430](https://github.com/flutter/website/pull/13430) merged on June 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/website/pull/13430) over 5 days, 153 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deploy image to use Dart 3.12.1<br />
   <sub>[#13448](https://github.com/flutter/website/pull/13448) merged on June 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13448) over 1 day, 62 additions and 1 deletion in 2 files</sub><br />
