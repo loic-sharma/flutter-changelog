@@ -374,3 +374,6 @@
 * **[Knox Labs](https://github.com/theherrovn-sys)** &mdash; Fix 3 typos in TestSemantics semantics_tester.dart<br />
   <sub>[#187432](https://github.com/flutter/flutter/pull/187432) opened on on June 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187432) 8 additions and 8 deletions in 2 files</sub><br />
 
+* **[Maruf](https://github.com/Mezanur007)** &mdash; Fix TestSemantics typo checks<br />
+  <sub>[#187433](https://github.com/flutter/flutter/pull/187433) opened on on June 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187433) 87 additions and 8 deletions in 3 files</sub><br />
+
