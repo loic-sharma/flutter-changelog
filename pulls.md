@@ -377,3 +377,6 @@
 * **[Maruf](https://github.com/Mezanur007)** &mdash; Fix TestSemantics typo checks<br />
   <sub>[#187433](https://github.com/flutter/flutter/pull/187433) opened on on June 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187433) 87 additions and 8 deletions in 3 files</sub><br />
 
+* **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Restrict release web asset server to the build output and source files<br />
+  <sub>[#187437](https://github.com/flutter/flutter/pull/187437) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187437) 94 additions and 7 deletions in 2 files</sub><br />
+
