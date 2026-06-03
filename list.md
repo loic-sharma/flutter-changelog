@@ -43,9 +43,17 @@
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186216) over 3 weeks, 23 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Stack.clipBehavior = Clip.none does not extend hit testing (#160787)
-  <sub>[#186643](https://github.com/flutter/flutter/pull/186643) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186643) over 2 weeks, 4 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix positioning of text shadow masks
+  <sub>[#187460](https://github.com/flutter/flutter/pull/187460) merged on June 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187460) over 5 hours, 29 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tools] Remove obsolete AndroidX console warning during Gradle builds
+  <sub>[#186077](https://github.com/flutter/flutter/pull/186077) merged on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186077) over 3 weeks, 2 additions and 25 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add block-compressed texture format support (BC, ETC2, ASTC LDR)
+  <sub>[#187281](https://github.com/flutter/flutter/pull/187281) merged on June 2, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/187281) over 4 days, 609 additions and 35 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; Improve error message for type mismatch in Navigator.pop and maybePop.
   <sub>[#186571](https://github.com/flutter/flutter/pull/186571) merged on June 2, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/186571) over 2 weeks, 157 additions and 1 deletion in 2 files</sub>
@@ -55,25 +63,17 @@
   <sub>[#186509](https://github.com/flutter/flutter/pull/186509) merged on June 1, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186509) over 2 weeks, 53 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add block-compressed texture format support (BC, ETC2, ASTC LDR)
-  <sub>[#187281](https://github.com/flutter/flutter/pull/187281) merged on June 2, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/187281) over 4 days, 609 additions and 35 deletions in 9 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [flutter_tools] Remove obsolete AndroidX console warning during Gradle builds
-  <sub>[#186077](https://github.com/flutter/flutter/pull/186077) merged on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186077) over 3 weeks, 2 additions and 25 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
-
 * **[Phil Quitslund](https://github.com/pq)** &mdash; [flutter tool] propagate analytics env to sub-tools
   <sub>[#186780](https://github.com/flutter/flutter/pull/186780) merged on June 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/186780) over 1 week, 181 additions and 50 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Stack.clipBehavior = Clip.none does not extend hit testing (#160787)
+  <sub>[#186643](https://github.com/flutter/flutter/pull/186643) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186643) over 2 weeks, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Allow selecting multi-digit device options
   <sub>[#186184](https://github.com/flutter/flutter/pull/186184) merged on June 2, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186184) over 3 weeks, 113 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix positioning of text shadow masks
-  <sub>[#187460](https://github.com/flutter/flutter/pull/187460) merged on June 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187460) over 5 hours, 29 additions and 8 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds macro for fragment shaders to support flutter <= 3.44
   <sub>[#187316](https://github.com/flutter/flutter/pull/187316) merged on June 2, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/187316) over 4 days, 59 additions and 0 deletions in 4 files</sub>
@@ -687,10 +687,18 @@
 
 ### May 30, 2026 to June 5, 2026
 
-6 commits.
+8 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Migrate plugins to support AGP 9
   <sub>[#11802](https://github.com/flutter/packages/pull/11802) merged on June 2, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11802) over 4 days, 835 additions and 304 deletions in 103 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Updated analysis_options line width from flutter/flutter
+  <sub>[#11692](https://github.com/flutter/packages/pull/11692) merged on June 3, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/11692) over 3 weeks, 53888 additions and 119594 deletions in 1652 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [in_app_purchase] Bump `in_app_purchase_android` version from `0.4.x` to `0.5.0`
+  <sub>[#11828](https://github.com/flutter/packages/pull/11828) merged on June 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11828) over 52 minutes, 7 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Clarify documentation gaps,  update examples, add warning to ensure `completePurchase` is being called
@@ -813,7 +821,7 @@
 
 ### May 30, 2026 to June 5, 2026
 
-4 commits.
+6 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add breaking change page for DropdownButton enabled property
   <sub>[#13430](https://github.com/flutter/website/pull/13430) merged on June 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/website/pull/13430) over 5 days, 153 additions and 0 deletions in 2 files</sub>
@@ -830,6 +838,14 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove Rosetta note from iOS setup page
   <sub>[#13450](https://github.com/flutter/website/pull/13450) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13450) over 1 day, 0 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add release notes for DevTools 2.59.0
+  <sub>[#13455](https://github.com/flutter/website/pull/13455) merged on June 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13455) over 22 hours, 30 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add header migration guide
+  <sub>[#13457](https://github.com/flutter/website/pull/13457) merged on June 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13457) over 21 hours, 123 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### May 23, 2026 to May 29, 2026
 

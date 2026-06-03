@@ -81,7 +81,7 @@
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/186108) 116 additions and 8 deletions in 5 files</sub><br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186108) 116 additions and 8 deletions in 5 files</sub><br />
 
 * **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) 2 additions and 2 deletions in 2 files</sub><br />
@@ -185,9 +185,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
   <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from rendering pipeline, proxy, and object tests<br />
-  <sub>[#186904](https://github.com/flutter/flutter/pull/186904) opened on on May 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186904) 3 additions and 6 deletions in 4 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level<br />
   <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
 
@@ -246,7 +243,7 @@
   <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187178) 48 additions and 0 deletions in 2 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Drawing decorations directly on the target Canvas<br />
-  <sub>[#187181](https://github.com/flutter/flutter/pull/187181) opened on on May 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187181) 198 additions and 98 deletions in 5 files</sub><br />
+  <sub>[#187181](https://github.com/flutter/flutter/pull/187181) opened on on May 27, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187181) 217 additions and 102 deletions in 6 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Optimize SHA hash calculation of generated APK<br />
   <sub>[#187184](https://github.com/flutter/flutter/pull/187184) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187184) 54 additions and 11 deletions in 2 files</sub><br />
@@ -318,7 +315,7 @@
   <sub>[#187411](https://github.com/flutter/flutter/pull/187411) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187411) 7 additions and 7 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]iOS: update provisioning profile for 2026-2027 cert<br />
-  <sub>[#187412](https://github.com/flutter/flutter/pull/187412) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187412) 7 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#187412](https://github.com/flutter/flutter/pull/187412) opened on on June 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187412) 7 additions and 7 deletions in 1 file</sub><br />
 
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; Fix SingleChildScrollView to automatically consume MediaQuery padding<br />
   <sub>[#187415](https://github.com/flutter/flutter/pull/187415) opened on on June 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187415) 125 additions and 2 deletions in 2 files</sub><br />
@@ -344,9 +341,6 @@
 * **[Maruf](https://github.com/Mezanur007)** &mdash; Move page transitions builder tests to material<br />
   <sub>[#187489](https://github.com/flutter/flutter/pull/187489) opened on on June 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187489) 0 additions and 1 deletion in 2 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [Linux analyze] fix prefer_initializing_formals warning in swift package manager test<br />
-  <sub>[#187490](https://github.com/flutter/flutter/pull/187490) opened on on June 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187490) 2 additions and 3 deletions in 1 file</sub><br />
-
 * **[huahua8893](https://github.com/huahua8893)** &mdash; Don't trigger predictive back transition on a route covered by a drag…<br />
   <sub>[#187494](https://github.com/flutter/flutter/pull/187494) opened on on June 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187494) 76 additions and 9 deletions in 2 files</sub><br />
 
@@ -355,4 +349,13 @@
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements in the painting layer with Dart 3 patterns<br />
   <sub>[#187509](https://github.com/flutter/flutter/pull/187509) opened on on June 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187509) 48 additions and 81 deletions in 4 files</sub><br />
+
+* **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix stale _entries and pointer tracking in OneSequenceGestureRecognizer.rejectGesture<br />
+  <sub>[#187515](https://github.com/flutter/flutter/pull/187515) opened on on June 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187515) 64 additions and 5 deletions in 7 files</sub><br />
+
+* **[Rusino](https://github.com/Rusino)** &mdash; Fixing alignment issue<br />
+  <sub>[#187518](https://github.com/flutter/flutter/pull/187518) opened on on June 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187518) 20 additions and 5 deletions in 1 file</sub><br />
+
+* **[Rusino](https://github.com/Rusino)** &mdash; Implement font fallback<br />
+  <sub>[#187520](https://github.com/flutter/flutter/pull/187520) opened on on June 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187520) 55 additions and 10 deletions in 2 files</sub><br />
 
