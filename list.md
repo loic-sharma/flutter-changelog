@@ -4,7 +4,7 @@
 
 ### May 30, 2026 to June 5, 2026
 
-40 commits.
+41 commits.
 
 * **[CHOIgoung](https://github.com/CHOIgoung)** &mdash; Fix Windows Korean IME caret position during composition
   <sub>[#186353](https://github.com/flutter/flutter/pull/186353) merged on June 1, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/186353) over 3 weeks, 93 additions and 12 deletions in 2 files</sub>
@@ -43,9 +43,9 @@
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186216) over 3 weeks, 23 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Phil Quitslund](https://github.com/pq)** &mdash; [flutter tool] propagate analytics env to sub-tools
-  <sub>[#186780](https://github.com/flutter/flutter/pull/186780) merged on June 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/186780) over 1 week, 181 additions and 50 deletions in 4 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Stack.clipBehavior = Clip.none does not extend hit testing (#160787)
+  <sub>[#186643](https://github.com/flutter/flutter/pull/186643) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186643) over 2 weeks, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
 * **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; Improve error message for type mismatch in Navigator.pop and maybePop.
   <sub>[#186571](https://github.com/flutter/flutter/pull/186571) merged on June 2, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/186571) over 2 weeks, 157 additions and 1 deletion in 2 files</sub>
@@ -63,9 +63,9 @@
   <sub>[#186077](https://github.com/flutter/flutter/pull/186077) merged on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186077) over 3 weeks, 2 additions and 25 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Stack.clipBehavior = Clip.none does not extend hit testing (#160787)
-  <sub>[#186643](https://github.com/flutter/flutter/pull/186643) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186643) over 2 weeks, 4 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+* **[Phil Quitslund](https://github.com/pq)** &mdash; [flutter tool] propagate analytics env to sub-tools
+  <sub>[#186780](https://github.com/flutter/flutter/pull/186780) merged on June 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/186780) over 1 week, 181 additions and 50 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Allow selecting multi-digit device options
   <sub>[#186184](https://github.com/flutter/flutter/pull/186184) merged on June 2, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186184) over 3 weeks, 113 additions and 0 deletions in 5 files</sub>
@@ -111,13 +111,13 @@
   <sub>[#186631](https://github.com/flutter/flutter/pull/186631) merged on June 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186631) over 2 weeks, 5 additions and 10 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Add Javadoc documentation to TextInputChannel
-  <sub>[#186018](https://github.com/flutter/flutter/pull/186018) merged on June 1, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186018) over 4 weeks, 25 additions and 5 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
-
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update gni file list name hsw -> ml3
   <sub>[#184892](https://github.com/flutter/flutter/pull/184892) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184892) over 1 month, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Add Javadoc documentation to TextInputChannel
+  <sub>[#186018](https://github.com/flutter/flutter/pull/186018) merged on June 1, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186018) over 4 weeks, 25 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Use glVertexAttribDivisor on GLES3 and glVertexAttribDivisorEXT on GLES2 with the extension
   <sub>[#187313](https://github.com/flutter/flutter/pull/187313) merged on June 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187313) over 3 days, 95 additions and 59 deletions in 9 files</sub>
@@ -134,6 +134,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Move dart-lang/ai to a top level third party dependency in en…
   <sub>[#187370](https://github.com/flutter/flutter/pull/187370) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187370) over 2 hours, 6 additions and 38 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Thomas](https://github.com/athomas)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add new file patterns for team-web labeler
+  <sub>[#187397](https://github.com/flutter/flutter/pull/187397) merged on June 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187397) over 1 day, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zhongliugo](https://github.com/flutter-zl)</sub>
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from painting tests
   <sub>[#186937](https://github.com/flutter/flutter/pull/186937) merged on June 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186937) over 1 week, 53 additions and 60 deletions in 3 files</sub>
@@ -258,7 +262,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Print trace when skipping flavor-specific and platform-specific assets
-  <sub>[#187045](https://github.com/flutter/flutter/pull/187045) merged on May 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187045) over 1 day, 25 additions and 4 deletions in 2 files</sub>
+  <sub>[#187045](https://github.com/flutter/flutter/pull/187045) merged on May 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187045) over 1 day, 25 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Reset system UI visibility flags when setting edge-to-edge mode
@@ -369,7 +373,7 @@
   <sub>[#187243](https://github.com/flutter/flutter/pull/187243) merged on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187243) over 3 hours, 87 additions and 50 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Disable analyzer
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Disable analyzer formatting check
   <sub>[#187205](https://github.com/flutter/flutter/pull/187205) merged on May 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187205) over 1 hour, 10 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 

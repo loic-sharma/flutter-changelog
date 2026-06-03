@@ -110,9 +110,6 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Validate dart define file newlines<br />
   <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 73 additions and 0 deletions in 2 files</sub><br />
 
-* **[Abdul Taufeeq](https://github.com/trippusultan)** &mdash; examples: fix IndexedStack dispose memory leak<br />
-  <sub>[#186524](https://github.com/flutter/flutter/pull/186524) opened on on May 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186524) 6 additions and 0 deletions in 1 file</sub><br />
-
 * **[Maxim Savin](https://github.com/soulman-is-good)** &mdash; Fix HostBuffer.emplace overflow at block boundary<br />
   <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186539) 49 additions and 1 deletion in 2 files</sub><br />
 
@@ -317,9 +314,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add new file patterns for team-web labeler<br />
-  <sub>[#187397](https://github.com/flutter/flutter/pull/187397) opened on on June 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187397) 4 additions and 0 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]iOS: update provisioning profile for 2026-2027 cert<br />
   <sub>[#187411](https://github.com/flutter/flutter/pull/187411) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187411) 7 additions and 7 deletions in 1 file</sub><br />
 
@@ -358,4 +352,7 @@
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
+
+* **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements in the painting layer with Dart 3 patterns<br />
+  <sub>[#187509](https://github.com/flutter/flutter/pull/187509) opened on on June 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187509) 48 additions and 81 deletions in 4 files</sub><br />
 
