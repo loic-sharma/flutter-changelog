@@ -219,7 +219,7 @@
   <sub>[#187004](https://github.com/flutter/flutter/pull/187004) opened on on May 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187004) 46 additions and 46 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move inherited card theme test to material<br />
-  <sub>[#187025](https://github.com/flutter/flutter/pull/187025) opened on on May 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187025) 97 additions and 100 deletions in 3 files</sub><br />
+  <sub>[#187025](https://github.com/flutter/flutter/pull/187025) opened on on May 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187025) 22 additions and 72 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move page transition tests to material<br />
   <sub>[#187026](https://github.com/flutter/flutter/pull/187026) opened on on May 24, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/187026) 1021 additions and 1044 deletions in 5 files</sub><br />
@@ -234,7 +234,7 @@
   <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187029) 206 additions and 15 deletions in 10 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Split Form tests by widget ownership<br />
-  <sub>[#187031](https://github.com/flutter/flutter/pull/187031) opened on on May 24, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/187031) 1703 additions and 1829 deletions in 3 files</sub><br />
+  <sub>[#187031](https://github.com/flutter/flutter/pull/187031) opened on on May 24, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/187031) 1700 additions and 1828 deletions in 3 files</sub><br />
 
 * **[Marco Bazzani](https://github.com/marcobazzani)** &mdash; [flutter_tools] macOS: fail fast when `open` cannot foreground the app<br />
   <sub>[#187037](https://github.com/flutter/flutter/pull/187037) opened on on May 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187037) 113 additions and 10 deletions in 3 files</sub><br />
@@ -345,5 +345,11 @@
   <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187469) 698 additions and 333 deletions in 56 files</sub><br />
 
 * **[XananasX](https://github.com/XananasX7)** &mdash; security: fix token exposure, expression injection, and excess permissions in engine-cp.yml<br />
-  <sub>[#187479](https://github.com/flutter/flutter/pull/187479) opened on on June 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187479) 19 additions and 12 deletions in 1 file</sub><br />
+  <sub>[#187479](https://github.com/flutter/flutter/pull/187479) opened on on June 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187479) 22 additions and 13 deletions in 1 file</sub><br />
+
+* **[Maruf](https://github.com/Mezanur007)** &mdash; Move page transitions builder tests to material<br />
+  <sub>[#187489](https://github.com/flutter/flutter/pull/187489) opened on on June 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187489) 0 additions and 1 deletion in 2 files</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [Linux analyze] fix prefer_initializing_formals warning in swift package manager test<br />
+  <sub>[#187490](https://github.com/flutter/flutter/pull/187490) opened on on June 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187490) 2 additions and 3 deletions in 1 file</sub><br />
 
