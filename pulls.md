@@ -353,3 +353,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [Linux analyze] fix prefer_initializing_formals warning in swift package manager test<br />
   <sub>[#187490](https://github.com/flutter/flutter/pull/187490) opened on on June 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187490) 2 additions and 3 deletions in 1 file</sub><br />
 
+* **[huahua8893](https://github.com/huahua8893)** &mdash; Don't trigger predictive back transition on a route covered by a drag…<br />
+  <sub>[#187494](https://github.com/flutter/flutter/pull/187494) opened on on June 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187494) 76 additions and 9 deletions in 2 files</sub><br />
+
