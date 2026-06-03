@@ -200,14 +200,8 @@
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix SwiftPM identity for path dependency plugins<br />
   <sub>[#186934](https://github.com/flutter/flutter/pull/186934) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186934) 102 additions and 11 deletions in 2 files</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material imports from painting tests<br />
-  <sub>[#186937](https://github.com/flutter/flutter/pull/186937) opened on on May 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186937) 53 additions and 60 deletions in 3 files</sub><br />
-
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove material imports from rendering tests<br />
   <sub>[#186938](https://github.com/flutter/flutter/pull/186938) opened on on May 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186938) 38 additions and 20 deletions in 3 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
-  <sub>[#186953](https://github.com/flutter/flutter/pull/186953) opened on on May 22, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/186953) 1250 additions and 127 deletions in 6 files</sub><br />
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Import `dart:_js_interop_wasm` in addition to `dart:_wasm` to convert between `JSAny` and `WasmExternRef?`<br />
   <sub>[#186974](https://github.com/flutter/flutter/pull/186974) opened on on May 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186974) 9 additions and 0 deletions in 3 files</sub><br />
