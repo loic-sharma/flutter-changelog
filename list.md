@@ -4,7 +4,7 @@
 
 ### May 30, 2026 to June 5, 2026
 
-48 commits.
+50 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Add support for stylus buttons
   <sub>[#183369](https://github.com/flutter/flutter/pull/183369) merged on June 3, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/183369) over 2 months, 568 additions and 78 deletions in 13 files</sub>
@@ -100,6 +100,10 @@
   <sub>[#185481](https://github.com/flutter/flutter/pull/185481) merged on June 1, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/185481) over 1 month, 223 additions and 24 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; fix: resolve issue #177379 by using lazy buildDirectory.dir() API in build.gradle template
+  <sub>[#187127](https://github.com/flutter/flutter/pull/187127) merged on June 3, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/187127) over 1 week, 70 additions and 6 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; docs: update Impeller advanced blend docs for framebuffer fetch
   <sub>[#185457](https://github.com/flutter/flutter/pull/185457) merged on June 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185457) over 1 month, 21 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [b-luk](https://github.com/b-luk)</sub>
@@ -128,9 +132,13 @@
   <sub>[#186631](https://github.com/flutter/flutter/pull/186631) merged on June 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186631) over 2 weeks, 5 additions and 10 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99), [jesswrd](https://github.com/jesswrd)</sub>
 
-* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update gni file list name hsw -> ml3
-  <sub>[#184892](https://github.com/flutter/flutter/pull/184892) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184892) over 1 month, 3 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a skill for flake analysis
+  <sub>[#187530](https://github.com/flutter/flutter/pull/187530) merged on June 3, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187530) over 2 hours, 70 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Add Javadoc documentation to TextInputChannel
+  <sub>[#186018](https://github.com/flutter/flutter/pull/186018) merged on June 1, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186018) over 4 weeks, 25 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Prevent Cubic transform from looping on out-of-range input
   <sub>[#185875](https://github.com/flutter/flutter/pull/185875) merged on June 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185875) over 1 month, 19 additions and 0 deletions in 2 files</sub>
@@ -140,13 +148,9 @@
   <sub>[#185041](https://github.com/flutter/flutter/pull/185041) merged on June 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185041) over 1 month, 13 additions and 11 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Add Javadoc documentation to TextInputChannel
-  <sub>[#186018](https://github.com/flutter/flutter/pull/186018) merged on June 1, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186018) over 4 weeks, 25 additions and 5 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code in `FlutterPluginUtils.kt`
-  <sub>[#187012](https://github.com/flutter/flutter/pull/187012) merged on June 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187012) over 1 week, 0 additions and 13 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Update gni file list name hsw -> ml3
+  <sub>[#184892](https://github.com/flutter/flutter/pull/184892) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184892) over 1 month, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Use glVertexAttribDivisor on GLES3 and glVertexAttribDivisorEXT on GLES2 with the extension
   <sub>[#187313](https://github.com/flutter/flutter/pull/187313) merged on June 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187313) over 3 days, 95 additions and 59 deletions in 9 files</sub>
@@ -155,6 +159,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [SwiftPM] Fix prefer_initializing_formals lint
   <sub>[#187502](https://github.com/flutter/flutter/pull/187502) merged on June 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187502) over 58 minutes, 1 addition and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unused code in `FlutterPluginUtils.kt`
+  <sub>[#187012](https://github.com/flutter/flutter/pull/187012) merged on June 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187012) over 1 week, 0 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Move dart-lang/ai to a top level third party dependency in en…
   <sub>[#187370](https://github.com/flutter/flutter/pull/187370) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187370) over 2 hours, 6 additions and 38 deletions in 3 files</sub>
