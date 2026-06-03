@@ -350,3 +350,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor Xcode usages to constructor dependency injection<br />
   <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187469) 698 additions and 333 deletions in 56 files</sub><br />
 
+* **[XananasX](https://github.com/XananasX7)** &mdash; security: fix token exposure, expression injection, and excess permissions in engine-cp.yml<br />
+  <sub>[#187479](https://github.com/flutter/flutter/pull/187479) opened on on June 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187479) 19 additions and 12 deletions in 1 file</sub><br />
+

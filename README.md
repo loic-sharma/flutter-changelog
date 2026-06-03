@@ -4,7 +4,7 @@
 
 ### May 30, 2026 to June 5, 2026
 
-27 commits.
+30 commits.
 
 * **[CHOIgoung](https://github.com/CHOIgoung)** &mdash; Fix Windows Korean IME caret position during composition<br />
   <sub>[#186353](https://github.com/flutter/flutter/pull/186353) merged on June 1, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/186353) over 3 weeks, 93 additions and 12 deletions in 2 files</sub><br />
@@ -19,6 +19,10 @@
   <sub>[#187066](https://github.com/flutter/flutter/pull/187066) merged on June 2, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/187066) over 1 week, 461 additions and 111 deletions in 21 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Refactor hostPlatform to use Abi.current()<br />
+  <sub>[#185369](https://github.com/flutter/flutter/pull/185369) merged on June 2, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/185369) over 1 month, 271 additions and 218 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clean up avoid_type_to_string suppressions<br />
   <sub>[#186869](https://github.com/flutter/flutter/pull/186869) merged on June 2, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186869) over 1 week, 54 additions and 10 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -30,6 +34,10 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `dependOnInheritedWidgetOfExactType` documentation to explain why it is bad to use it in initState<br />
   <sub>[#186216](https://github.com/flutter/flutter/pull/186216) merged on June 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186216) over 3 weeks, 23 additions and 12 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; Improve error message for type mismatch in Navigator.pop and maybePop.<br />
+  <sub>[#186571](https://github.com/flutter/flutter/pull/186571) merged on June 2, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/186571) over 2 weeks, 157 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add block-compressed texture format support (BC, ETC2, ASTC LDR)<br />
   <sub>[#187281](https://github.com/flutter/flutter/pull/187281) merged on June 2, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/187281) over 4 days, 609 additions and 35 deletions in 9 files</sub><br />
@@ -50,6 +58,10 @@
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; [flutter_tools] Fix `flutter drive --chrome-binary` being ignored on web<br />
   <sub>[#185481](https://github.com/flutter/flutter/pull/185481) merged on June 1, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/185481) over 1 month, 223 additions and 24 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from material_button_test.dart<br />
+  <sub>[#184807](https://github.com/flutter/flutter/pull/184807) merged on June 2, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/184807) over 1 month, 32 additions and 50 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [flutter_driver] Don't throw when stderr is unavailable on web<br />
   <sub>[#187190](https://github.com/flutter/flutter/pull/187190) merged on June 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187190) over 5 days, 5 additions and 0 deletions in 1 file</sub><br />
