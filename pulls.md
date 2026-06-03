@@ -21,7 +21,7 @@
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
 * **[Dmitry Grand](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
-  <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
   <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/182788) 187 additions and 50 deletions in 11 files</sub><br />
@@ -249,7 +249,7 @@
   <sub>[#187184](https://github.com/flutter/flutter/pull/187184) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187184) 54 additions and 11 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Changes to WebParagraph configuration<br />
-  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187188) 114 additions and 98 deletions in 18 files</sub><br />
+  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187188) 114 additions and 98 deletions in 18 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
@@ -314,9 +314,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]iOS: update provisioning profile for 2026-2027 cert<br />
   <sub>[#187411](https://github.com/flutter/flutter/pull/187411) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187411) 7 additions and 7 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]iOS: update provisioning profile for 2026-2027 cert<br />
-  <sub>[#187412](https://github.com/flutter/flutter/pull/187412) opened on on June 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187412) 7 additions and 7 deletions in 1 file</sub><br />
-
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; Fix SingleChildScrollView to automatically consume MediaQuery padding<br />
   <sub>[#187415](https://github.com/flutter/flutter/pull/187415) opened on on June 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187415) 125 additions and 2 deletions in 2 files</sub><br />
 
@@ -341,20 +338,11 @@
 * **[Maruf](https://github.com/Mezanur007)** &mdash; Move page transitions builder tests to material<br />
   <sub>[#187489](https://github.com/flutter/flutter/pull/187489) opened on on June 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187489) 0 additions and 1 deletion in 2 files</sub><br />
 
-* **[huahua8893](https://github.com/huahua8893)** &mdash; Don't trigger predictive back transition on a route covered by a drag…<br />
-  <sub>[#187494](https://github.com/flutter/flutter/pull/187494) opened on on June 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187494) 76 additions and 9 deletions in 2 files</sub><br />
-
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
 
-* **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements in the painting layer with Dart 3 patterns<br />
-  <sub>[#187509](https://github.com/flutter/flutter/pull/187509) opened on on June 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187509) 48 additions and 81 deletions in 4 files</sub><br />
-
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix stale _entries and pointer tracking in OneSequenceGestureRecognizer.rejectGesture<br />
   <sub>[#187515](https://github.com/flutter/flutter/pull/187515) opened on on June 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187515) 64 additions and 5 deletions in 7 files</sub><br />
-
-* **[Rusino](https://github.com/Rusino)** &mdash; Fixing alignment issue<br />
-  <sub>[#187518](https://github.com/flutter/flutter/pull/187518) opened on on June 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187518) 20 additions and 5 deletions in 1 file</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Implement font fallback<br />
   <sub>[#187520](https://github.com/flutter/flutter/pull/187520) opened on on June 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187520) 55 additions and 10 deletions in 2 files</sub><br />
