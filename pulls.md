@@ -225,10 +225,10 @@
   <sub>[#187026](https://github.com/flutter/flutter/pull/187026) opened on on May 24, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/187026) 1021 additions and 1044 deletions in 5 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from scrollable selection test<br />
-  <sub>[#187027](https://github.com/flutter/flutter/pull/187027) opened on on May 24, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/187027) 298 additions and 286 deletions in 2 files</sub><br />
+  <sub>[#187027](https://github.com/flutter/flutter/pull/187027) opened on on May 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187027) 308 additions and 287 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Cupertino route tests to cupertino<br />
-  <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/187028) 178 additions and 264 deletions in 4 files</sub><br />
+  <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187028) 256 additions and 228 deletions in 4 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
   <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187029) 206 additions and 15 deletions in 10 files</sub><br />
@@ -355,4 +355,7 @@
 
 * **[huahua8893](https://github.com/huahua8893)** &mdash; Don't trigger predictive back transition on a route covered by a drag…<br />
   <sub>[#187494](https://github.com/flutter/flutter/pull/187494) opened on on June 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187494) 76 additions and 9 deletions in 2 files</sub><br />
+
+* **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
+  <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
 
