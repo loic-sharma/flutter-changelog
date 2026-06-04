@@ -353,3 +353,9 @@
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [InkWell] fix: Prevent disabled buttons from passing taps to parent GestureDetectors<br />
   <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187551) 59 additions and 20 deletions in 2 files</sub><br />
 
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to Dart 3.13 beta2<br />
+  <sub>[#187555](https://github.com/flutter/flutter/pull/187555) opened on on June 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187555) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Mohanad Abdallah](https://github.com/MohanadAbdallah-mv)** &mdash; Remove redundant disabledBorder check in InputDecorationThemeData<br />
+  <sub>[#187556](https://github.com/flutter/flutter/pull/187556) opened on on June 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187556) 0 additions and 1 deletion in 1 file</sub><br />
+
