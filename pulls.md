@@ -305,9 +305,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Refactor Git dependency injection and remove globals.git<br />
   <sub>[#187464](https://github.com/flutter/flutter/pull/187464) opened on on June 2, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187464) 437 additions and 312 deletions in 11 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `embedded_android_views_integration_test.dart`<br />
-  <sub>[#187465](https://github.com/flutter/flutter/pull/187465) opened on on June 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187465) 0 additions and 20 deletions in 3 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor Xcode usages to constructor dependency injection<br />
   <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187469) 698 additions and 333 deletions in 56 files</sub><br />
 
