@@ -7,7 +7,7 @@
 59 commits.
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Add support for stylus buttons
-  <sub>[#183369](https://github.com/flutter/flutter/pull/183369) merged on June 3, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/flutter/pull/183369) over 2 months, 568 additions and 78 deletions in 13 files</sub>
+  <sub>[#183369](https://github.com/flutter/flutter/pull/183369) merged on June 3, 2026 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/183369) over 2 months, 568 additions and 78 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
   <sub><details><summary>1 image...</summary><img width="1902" height="1071" alt="grafik" src="https://github.com/user-attachments/assets/1761336f-8db5-4da2-91b5-2c17bc92d698" /></details></sub>
 
@@ -761,7 +761,7 @@
 
 ### May 30, 2026 to June 5, 2026
 
-11 commits.
+13 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Migrate plugins to support AGP 9
   <sub>[#11802](https://github.com/flutter/packages/pull/11802) merged on June 2, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11802) over 4 days, 835 additions and 304 deletions in 103 files</sub>
@@ -774,6 +774,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [in_app_purchase] Bump `in_app_purchase_android` version from `0.4.x` to `0.5.0`
   <sub>[#11828](https://github.com/flutter/packages/pull/11828) merged on June 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11828) over 52 minutes, 7 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Sync analysis_options.yaml with flutter/flutter
+  <sub>[#11823](https://github.com/flutter/packages/pull/11823) merged on June 4, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/11823) over 1 day, 610 additions and 606 deletions in 73 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Clarify documentation gaps,  update examples, add warning to ensure `completePurchase` is being called
   <sub>[#11601](https://github.com/flutter/packages/pull/11601) merged on June 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11601) over 1 month, 98 additions and 7 deletions in 11 files</sub>
@@ -790,6 +794,10 @@
 * **[August](https://github.com/Gustl22)** &mdash; [file_selector_web] feat: Support XFile.mimeType
   <sub>[#11703](https://github.com/flutter/packages/pull/11703) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11703) over 2 weeks, 33 additions and 7 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Use `flutter` for pub commands when examples use Flutter
+  <sub>[#11830](https://github.com/flutter/packages/pull/11830) merged on June 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11830) over 1 day, 94 additions and 9 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Renames the override post-release label for batch release
   <sub>[#11835](https://github.com/flutter/packages/pull/11835) merged on June 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11835) over 21 hours, 15 additions and 10 deletions in 4 files</sub>
