@@ -191,9 +191,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Make `InheritedTheme` "ubiquitous"<br />
   <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186923) 144 additions and 50 deletions in 4 files</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix SwiftPM identity for path dependency plugins<br />
-  <sub>[#186934](https://github.com/flutter/flutter/pull/186934) opened on on May 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186934) 102 additions and 11 deletions in 2 files</sub><br />
-
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove material imports from rendering tests<br />
   <sub>[#186938](https://github.com/flutter/flutter/pull/186938) opened on on May 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186938) 38 additions and 20 deletions in 3 files</sub><br />
 
@@ -230,9 +227,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Split Form tests by widget ownership<br />
   <sub>[#187031](https://github.com/flutter/flutter/pull/187031) opened on on May 24, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/187031) 1700 additions and 1828 deletions in 3 files</sub><br />
 
-* **[Marco Bazzani](https://github.com/marcobazzani)** &mdash; [flutter_tools] macOS: fail fast when `open` cannot foreground the app<br />
-  <sub>[#187037](https://github.com/flutter/flutter/pull/187037) opened on on May 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187037) 113 additions and 10 deletions in 3 files</sub><br />
-
 * **[Kirtikumar Anandrao Ramchandani](https://github.com/KirtiRamchandani)** &mdash; Remove Material test multi-view utility cross-import<br />
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
 
@@ -249,7 +243,7 @@
   <sub>[#187184](https://github.com/flutter/flutter/pull/187184) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187184) 54 additions and 11 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Changes to WebParagraph configuration<br />
-  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187188) 118 additions and 96 deletions in 18 files</sub><br />
+  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187188) 118 additions and 96 deletions in 18 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
@@ -286,12 +280,6 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
   <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/187289) 767 additions and 22 deletions in 6 files</sub><br />
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [Material Cross Imports] Clean up Material Divider usages<br />
-  <sub>[#187300](https://github.com/flutter/flutter/pull/187300) opened on on May 29, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/187300) 128 additions and 31 deletions in 12 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Keep macOS Flutter xcconfigs on Runner target<br />
-  <sub>[#187304](https://github.com/flutter/flutter/pull/187304) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187304) 53 additions and 6 deletions in 4 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts<br />
   <sub>[#187308](https://github.com/flutter/flutter/pull/187308) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187308) 86 additions and 2 deletions in 4 files</sub><br />
@@ -360,7 +348,7 @@
   <sub>[#187572](https://github.com/flutter/flutter/pull/187572) opened on on June 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187572) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add updating-android-sdk agent skill for rolling Android SDK in CIPD<br />
-  <sub>[#187576](https://github.com/flutter/flutter/pull/187576) opened on on June 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187576) 126 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187576](https://github.com/flutter/flutter/pull/187576) opened on on June 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187576) 126 additions and 0 deletions in 2 files</sub><br />
 
 * **[Eden Amiga](https://github.com/edenpro2)** &mdash; Change BorderRadius.circular to const constructor<br />
   <sub>[#187578](https://github.com/flutter/flutter/pull/187578) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187578) 2 additions and 7 deletions in 1 file</sub><br />
