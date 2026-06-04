@@ -345,7 +345,7 @@
   <sub>[#187542](https://github.com/flutter/flutter/pull/187542) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187542) 7 additions and 3 deletions in 1 file</sub><br />
 
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [InkWell] fix: Prevent disabled buttons from passing taps to parent GestureDetectors<br />
-  <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187551) 59 additions and 20 deletions in 2 files</sub><br />
+  <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187551) 59 additions and 20 deletions in 2 files</sub><br />
 
 * **[Mohanad Abdallah](https://github.com/MohanadAbdallah-mv)** &mdash; Remove redundant disabledBorder check in InputDecorationThemeData<br />
   <sub>[#187556](https://github.com/flutter/flutter/pull/187556) opened on on June 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187556) 0 additions and 1 deletion in 1 file</sub><br />
@@ -357,10 +357,10 @@
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187568) 80 additions and 3 deletions in 3 files</sub><br />
 
 * **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: typo fix in Navigator<br />
-  <sub>[#187572](https://github.com/flutter/flutter/pull/187572) opened on on June 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187572) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#187572](https://github.com/flutter/flutter/pull/187572) opened on on June 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187572) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add updating-android-sdk agent skill for rolling Android SDK in CIPD<br />
-  <sub>[#187576](https://github.com/flutter/flutter/pull/187576) opened on on June 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187576) 128 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187576](https://github.com/flutter/flutter/pull/187576) opened on on June 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187576) 126 additions and 0 deletions in 2 files</sub><br />
 
 * **[Eden Amiga](https://github.com/edenpro2)** &mdash; Change BorderRadius.circular to const constructor<br />
   <sub>[#187578](https://github.com/flutter/flutter/pull/187578) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187578) 2 additions and 7 deletions in 1 file</sub><br />
