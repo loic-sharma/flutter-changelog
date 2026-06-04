@@ -36,7 +36,7 @@
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]skip non-tappable web view workaround on ios 26.4<br />
-  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
 
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; Remove test utils cross-import from elevated_button_test<br />
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
@@ -279,7 +279,7 @@
   <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187282) 177 additions and 16 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
-  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/187289) 767 additions and 22 deletions in 6 files</sub><br />
+  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts<br />
   <sub>[#187308](https://github.com/flutter/flutter/pull/187308) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187308) 86 additions and 2 deletions in 4 files</sub><br />
@@ -289,9 +289,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Tool] Handle DTD connection failures gracefully in widget-preview<br />
   <sub>[#187324](https://github.com/flutter/flutter/pull/187324) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187324) 64 additions and 8 deletions in 3 files</sub><br />
-
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; [macOS] Add `FlutterPluginRegistrar.valuePublished(byPlugin:)` just like iOS<br />
-  <sub>[#187348](https://github.com/flutter/flutter/pull/187348) opened on on May 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187348) 39 additions and 0 deletions in 4 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
@@ -309,7 +306,7 @@
   <sub>[#187464](https://github.com/flutter/flutter/pull/187464) opened on on June 2, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187464) 437 additions and 312 deletions in 11 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `embedded_android_views_integration_test.dart`<br />
-  <sub>[#187465](https://github.com/flutter/flutter/pull/187465) opened on on June 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187465) 0 additions and 20 deletions in 3 files</sub><br />
+  <sub>[#187465](https://github.com/flutter/flutter/pull/187465) opened on on June 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187465) 0 additions and 20 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor Xcode usages to constructor dependency injection<br />
   <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187469) 698 additions and 333 deletions in 56 files</sub><br />
@@ -347,12 +344,12 @@
 * **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: typo fix in Navigator<br />
   <sub>[#187572](https://github.com/flutter/flutter/pull/187572) opened on on June 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187572) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add updating-android-sdk agent skill for rolling Android SDK in CIPD<br />
-  <sub>[#187576](https://github.com/flutter/flutter/pull/187576) opened on on June 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187576) 126 additions and 0 deletions in 2 files</sub><br />
-
 * **[Eden Amiga](https://github.com/edenpro2)** &mdash; Change BorderRadius.circular to const constructor<br />
   <sub>[#187578](https://github.com/flutter/flutter/pull/187578) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187578) 2 additions and 7 deletions in 1 file</sub><br />
 
 * **[rlueders](https://github.com/rlueders)** &mdash; [Impeller] Retry uncompressed when fixed-rate compression is exhausted<br />
   <sub>[#187586](https://github.com/flutter/flutter/pull/187586) opened on on June 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187586) 180 additions and 24 deletions in 4 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add bare, reidbaker, and android agents<br />
+  <sub>[#187588](https://github.com/flutter/flutter/pull/187588) opened on on June 4, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187588) 700 additions and 2 deletions in 20 files</sub><br />
 
