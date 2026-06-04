@@ -311,8 +311,8 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
 
-* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; Fix SingleChildScrollView to automatically consume MediaQuery padding<br />
-  <sub>[#187415](https://github.com/flutter/flutter/pull/187415) opened on on June 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187415) 125 additions and 2 deletions in 2 files</sub><br />
+* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [SingleChildScrollView] fix: SingleChildScrollView to automatically consume MediaQuery padding<br />
+  <sub>[#187415](https://github.com/flutter/flutter/pull/187415) opened on on June 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187415) 97 additions and 2 deletions in 2 files</sub><br />
 
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Restrict release web asset server to the build output and source files<br />
   <sub>[#187437](https://github.com/flutter/flutter/pull/187437) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187437) 94 additions and 7 deletions in 2 files</sub><br />
@@ -349,4 +349,7 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `MediaQueryData` docs for devicePixelRatio overriding<br />
   <sub>[#187542](https://github.com/flutter/flutter/pull/187542) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187542) 7 additions and 3 deletions in 1 file</sub><br />
+
+* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [InkWell] fix: Prevent disabled buttons from passing taps to parent GestureDetectors<br />
+  <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187551) 59 additions and 20 deletions in 2 files</sub><br />
 
