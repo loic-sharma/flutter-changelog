@@ -90,7 +90,7 @@
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Allow building projects lacking Runner.xcworkspace<br />
-  <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186239) 75 additions and 74 deletions in 5 files</sub><br />
+  <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186239) 75 additions and 74 deletions in 5 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent downgrading `project.pbxproj` when greater version number<br />
   <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186250) 159 additions and 20 deletions in 2 files</sub><br />
@@ -114,7 +114,7 @@
   <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186539) 49 additions and 1 deletion in 2 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Restore Material PageRouteBuilder barrier goldens<br />
-  <sub>[#186566](https://github.com/flutter/flutter/pull/186566) opened on on May 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186566) 108 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#186566](https://github.com/flutter/flutter/pull/186566) opened on on May 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186566) 108 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jules Blok](https://github.com/CrossVR)** &mdash; os.dart: Switch the codepage to UTF-8 when calling where.exe<br />
   <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
@@ -186,7 +186,7 @@
   <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level<br />
-  <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186916) 13 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Make `InheritedTheme` "ubiquitous"<br />
   <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186923) 144 additions and 50 deletions in 4 files</sub><br />
@@ -243,7 +243,7 @@
   <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187178) 48 additions and 0 deletions in 2 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Drawing decorations directly on the target Canvas<br />
-  <sub>[#187181](https://github.com/flutter/flutter/pull/187181) opened on on May 27, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187181) 217 additions and 102 deletions in 6 files</sub><br />
+  <sub>[#187181](https://github.com/flutter/flutter/pull/187181) opened on on May 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187181) 157 additions and 99 deletions in 4 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Optimize SHA hash calculation of generated APK<br />
   <sub>[#187184](https://github.com/flutter/flutter/pull/187184) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187184) 54 additions and 11 deletions in 2 files</sub><br />
@@ -356,14 +356,11 @@
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics<br />
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187568) 80 additions and 3 deletions in 3 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add android 37 platform and build tools to script for android cipd bundle creation<br />
-  <sub>[#187571](https://github.com/flutter/flutter/pull/187571) opened on on June 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187571) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: typo fix in Navigator<br />
   <sub>[#187572](https://github.com/flutter/flutter/pull/187572) opened on on June 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187572) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add updating-android-sdk agent skill for rolling Android SDK in CIPD<br />
-  <sub>[#187576](https://github.com/flutter/flutter/pull/187576) opened on on June 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187576) 128 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187576](https://github.com/flutter/flutter/pull/187576) opened on on June 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187576) 128 additions and 0 deletions in 2 files</sub><br />
 
 * **[Eden Amiga](https://github.com/edenpro2)** &mdash; Change BorderRadius.circular to const constructor<br />
   <sub>[#187578](https://github.com/flutter/flutter/pull/187578) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187578) 2 additions and 7 deletions in 1 file</sub><br />
