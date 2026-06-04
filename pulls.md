@@ -351,5 +351,5 @@
   <sub>[#187586](https://github.com/flutter/flutter/pull/187586) opened on on June 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187586) 180 additions and 24 deletions in 4 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add bare, reidbaker, and android agents<br />
-  <sub>[#187588](https://github.com/flutter/flutter/pull/187588) opened on on June 4, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187588) 700 additions and 2 deletions in 20 files</sub><br />
+  <sub>[#187588](https://github.com/flutter/flutter/pull/187588) opened on on June 4, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187588) 715 additions and 2 deletions in 21 files</sub><br />
 
