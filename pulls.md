@@ -15,7 +15,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [52 comments](https://github.com/flutter/flutter/pull/180591) 3875 additions and 1939 deletions in 20 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [52 comments](https://github.com/flutter/flutter/pull/180591) 4257 additions and 1939 deletions in 20 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -279,7 +279,7 @@
   <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187282) 177 additions and 16 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
-  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/187289) 767 additions and 22 deletions in 6 files</sub><br />
+  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/187289) 767 additions and 22 deletions in 6 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts<br />
   <sub>[#187308](https://github.com/flutter/flutter/pull/187308) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187308) 86 additions and 2 deletions in 4 files</sub><br />
@@ -352,4 +352,7 @@
 
 * **[Eden Amiga](https://github.com/edenpro2)** &mdash; Change BorderRadius.circular to const constructor<br />
   <sub>[#187578](https://github.com/flutter/flutter/pull/187578) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187578) 2 additions and 7 deletions in 1 file</sub><br />
+
+* **[rlueders](https://github.com/rlueders)** &mdash; [Impeller] Retry uncompressed when fixed-rate compression is exhausted<br />
+  <sub>[#187586](https://github.com/flutter/flutter/pull/187586) opened on on June 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187586) 180 additions and 24 deletions in 4 files</sub><br />
 
