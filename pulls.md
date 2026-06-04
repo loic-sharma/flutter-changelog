@@ -285,7 +285,7 @@
   <sub>[#187277](https://github.com/flutter/flutter/pull/187277) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187277) 32 additions and 0 deletions in 2 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Make shape border lerp symmetric<br />
-  <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187282) 156 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187282) 177 additions and 16 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
   <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/187289) 767 additions and 22 deletions in 6 files</sub><br />
@@ -346,4 +346,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Log stdout in adb.dart<br />
   <sub>[#187531](https://github.com/flutter/flutter/pull/187531) opened on on June 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187531) 21 additions and 9 deletions in 2 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `MediaQueryData` docs for devicePixelRatio overriding<br />
+  <sub>[#187542](https://github.com/flutter/flutter/pull/187542) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187542) 7 additions and 3 deletions in 1 file</sub><br />
 

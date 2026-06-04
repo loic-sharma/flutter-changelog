@@ -239,7 +239,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Meylis](https://github.com/realmeylisdev)** &mdash; Fix AccessibilityBridge startup crash on vendor-modified Android<br />
-  <sub>[#184630](https://github.com/flutter/flutter/pull/184630) merged on May 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/184630) over 1 month, 20 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#184630](https://github.com/flutter/flutter/pull/184630) merged on May 26, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/184630) over 1 month, 20 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[walley892](https://github.com/walley892)** &mdash; Handle complex RSE rendering in the uber SDF pipeline<br />
