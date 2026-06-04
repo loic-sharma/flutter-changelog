@@ -126,7 +126,7 @@
   <sub>[#186620](https://github.com/flutter/flutter/pull/186620) opened on on May 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186620) 0 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document CupertinoTabScaffold + CupertinoSliverNavigationBar interaction (#166487)<br />
-  <sub>[#186644](https://github.com/flutter/flutter/pull/186644) opened on on May 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186644) 45 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#186644](https://github.com/flutter/flutter/pull/186644) opened on on May 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186644) 45 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document CupertinoSlidingSegmentedControl translucent unselected segments (#164073)<br />
   <sub>[#186645](https://github.com/flutter/flutter/pull/186645) opened on on May 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186645) 16 additions and 2 deletions in 1 file</sub><br />
@@ -213,13 +213,13 @@
   <sub>[#187025](https://github.com/flutter/flutter/pull/187025) opened on on May 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187025) 22 additions and 72 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move page transition tests to material<br />
-  <sub>[#187026](https://github.com/flutter/flutter/pull/187026) opened on on May 24, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/187026) 1021 additions and 1044 deletions in 5 files</sub><br />
+  <sub>[#187026](https://github.com/flutter/flutter/pull/187026) opened on on May 24, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/187026) 571 additions and 407 deletions in 5 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from scrollable selection test<br />
-  <sub>[#187027](https://github.com/flutter/flutter/pull/187027) opened on on May 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187027) 308 additions and 287 deletions in 3 files</sub><br />
+  <sub>[#187027](https://github.com/flutter/flutter/pull/187027) opened on on May 24, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187027) 308 additions and 287 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Cupertino route tests to cupertino<br />
-  <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187028) 256 additions and 228 deletions in 4 files</sub><br />
+  <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/187028) 320 additions and 302 deletions in 4 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
   <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187029) 206 additions and 15 deletions in 10 files</sub><br />
