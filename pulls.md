@@ -354,8 +354,11 @@
   <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187551) 59 additions and 20 deletions in 2 files</sub><br />
 
 * **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to Dart 3.13 beta2<br />
-  <sub>[#187555](https://github.com/flutter/flutter/pull/187555) opened on on June 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187555) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#187555](https://github.com/flutter/flutter/pull/187555) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187555) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mohanad Abdallah](https://github.com/MohanadAbdallah-mv)** &mdash; Remove redundant disabledBorder check in InputDecorationThemeData<br />
   <sub>[#187556](https://github.com/flutter/flutter/pull/187556) opened on on June 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187556) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no shuffle from flutter_driver extension_test.dart<br />
+  <sub>[#187559](https://github.com/flutter/flutter/pull/187559) opened on on June 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187559) 0 additions and 7 deletions in 1 file</sub><br />
 
