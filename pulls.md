@@ -347,3 +347,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add bare, reidbaker, and android agents<br />
   <sub>[#187588](https://github.com/flutter/flutter/pull/187588) opened on on June 4, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187588) 715 additions and 2 deletions in 21 files</sub><br />
 
+* **[David Bebawy](https://github.com/dbebawy)** &mdash; Reland: Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
+  <sub>[#187591](https://github.com/flutter/flutter/pull/187591) opened on on June 5, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187591) 412 additions and 7 deletions in 8 files</sub><br />
+
