@@ -330,7 +330,7 @@
   <sub>[#187556](https://github.com/flutter/flutter/pull/187556) opened on on June 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187556) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no shuffle from flutter_driver extension_test.dart<br />
-  <sub>[#187559](https://github.com/flutter/flutter/pull/187559) opened on on June 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187559) 0 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#187559](https://github.com/flutter/flutter/pull/187559) opened on on June 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187559) 19 additions and 10 deletions in 1 file</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics<br />
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187568) 80 additions and 3 deletions in 3 files</sub><br />
