@@ -350,3 +350,6 @@
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Reland: Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
   <sub>[#187591](https://github.com/flutter/flutter/pull/187591) opened on on June 5, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/187591) 412 additions and 7 deletions in 8 files</sub><br />
 
+* **[chtga](https://github.com/tamirenkhbayar3-cmd)** &mdash; Restrict web dev server to loopback by default<br />
+  <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
+
