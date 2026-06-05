@@ -353,3 +353,6 @@
 * **[chtga](https://github.com/tamirenkhbayar3-cmd)** &mdash; Restrict web dev server to loopback by default<br />
   <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
 
+* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; feat: Allow recognizer inside editable<br />
+  <sub>[#187599](https://github.com/flutter/flutter/pull/187599) opened on on June 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187599) 1 addition and 1 deletion in 1 file</sub><br />
+
