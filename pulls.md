@@ -356,3 +356,9 @@
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; feat: Allow recognizer inside editable<br />
   <sub>[#187599](https://github.com/flutter/flutter/pull/187599) opened on on June 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187599) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Playground tests will always run one frame<br />
+  <sub>[#187603](https://github.com/flutter/flutter/pull/187603) opened on on June 5, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/187603) 316 additions and 309 deletions in 22 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Implement Windows platform view plugin lifecycle<br />
+  <sub>[#187604](https://github.com/flutter/flutter/pull/187604) opened on on June 5, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187604) 290 additions and 23 deletions in 9 files</sub><br />
+

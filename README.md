@@ -21,7 +21,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Wait for the Vulkan device to become idle before destroying Vulkan objects in the AHBSwapchainImplVK destructor<br />
-  <sub>[#187477](https://github.com/flutter/flutter/pull/187477) merged on June 4, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/187477) over 1 day, 47 additions and 2 deletions in 5 files</sub><br />
+  <sub>[#187477](https://github.com/flutter/flutter/pull/187477) merged on June 4, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/187477) over 1 day, 47 additions and 2 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Fix unintentionally joined path contours<br />
