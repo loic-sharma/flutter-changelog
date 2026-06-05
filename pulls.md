@@ -236,9 +236,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Forcefully kill hung subprocesses 5 seconds after timeout<br />
   <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187178) 48 additions and 0 deletions in 2 files</sub><br />
 
-* **[Rusino](https://github.com/Rusino)** &mdash; Drawing decorations directly on the target Canvas<br />
-  <sub>[#187181](https://github.com/flutter/flutter/pull/187181) opened on on May 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187181) 157 additions and 99 deletions in 4 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Optimize SHA hash calculation of generated APK<br />
   <sub>[#187184](https://github.com/flutter/flutter/pull/187184) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187184) 54 additions and 11 deletions in 2 files</sub><br />
 
@@ -363,7 +360,7 @@
   <sub>[#187608](https://github.com/flutter/flutter/pull/187608) opened on on June 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187608) 57 additions and 14 deletions in 5 files</sub><br />
 
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
-  <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
+  <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
 
 * **[pierre](https://github.com/guidezpl)** &mdash; Always run coverage upload step, even if a single test fails<br />
   <sub>[#187614](https://github.com/flutter/flutter/pull/187614) opened on on June 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187614) 1 addition and 0 deletions in 1 file</sub><br />
