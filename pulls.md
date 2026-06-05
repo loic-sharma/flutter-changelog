@@ -354,5 +354,5 @@
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Document the formats.dart enums<br />
-  <sub>[#187628](https://github.com/flutter/flutter/pull/187628) opened on on June 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187628) 279 additions and 14 deletions in 1 file</sub><br />
+  <sub>[#187628](https://github.com/flutter/flutter/pull/187628) opened on on June 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187628) 279 additions and 14 deletions in 1 file</sub><br />
 
