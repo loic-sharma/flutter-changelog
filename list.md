@@ -951,7 +951,11 @@
 
 ### May 30, 2026 to June 5, 2026
 
-6 commits.
+7 commits.
+
+* **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; docs: remove outdated iOS C interop page and fix references
+  <sub>[#13337](https://github.com/flutter/website/pull/13337) merged on June 5, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/website/pull/13337) over 1 month, 1 addition and 267 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add breaking change page for DropdownButton enabled property
   <sub>[#13430](https://github.com/flutter/website/pull/13430) merged on June 2, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/website/pull/13430) over 5 days, 153 additions and 0 deletions in 2 files</sub>

@@ -363,7 +363,7 @@
   <sub>[#187608](https://github.com/flutter/flutter/pull/187608) opened on on June 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187608) 57 additions and 14 deletions in 5 files</sub><br />
 
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
-  <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
+  <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
 
 * **[pierre](https://github.com/guidezpl)** &mdash; Always run coverage upload step, even if a single test fails<br />
   <sub>[#187614](https://github.com/flutter/flutter/pull/187614) opened on on June 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187614) 1 addition and 0 deletions in 1 file</sub><br />
