@@ -24,7 +24,7 @@
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
-  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/182788) 187 additions and 50 deletions in 11 files</sub><br />
+  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/182788) 188 additions and 50 deletions in 11 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
@@ -69,7 +69,7 @@
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
-  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
   <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186075) 95 additions and 2 deletions in 2 files</sub><br />
@@ -345,10 +345,7 @@
   <sub>[#187586](https://github.com/flutter/flutter/pull/187586) opened on on June 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187586) 180 additions and 24 deletions in 4 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add bare, reidbaker, and android agents<br />
-  <sub>[#187588](https://github.com/flutter/flutter/pull/187588) opened on on June 4, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187588) 715 additions and 2 deletions in 21 files</sub><br />
-
-* **[David Bebawy](https://github.com/dbebawy)** &mdash; Reland: Ship gen_snapshot for linux-arm64 hosts targeting Android<br />
-  <sub>[#187591](https://github.com/flutter/flutter/pull/187591) opened on on June 5, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187591) 415 additions and 11 deletions in 8 files</sub><br />
+  <sub>[#187588](https://github.com/flutter/flutter/pull/187588) opened on on June 4, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/187588) 715 additions and 2 deletions in 21 files</sub><br />
 
 * **[chtga](https://github.com/tamirenkhbayar3-cmd)** &mdash; Restrict web dev server to loopback by default<br />
   <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
@@ -363,5 +360,5 @@
   <sub>[#187604](https://github.com/flutter/flutter/pull/187604) opened on on June 5, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187604) 290 additions and 23 deletions in 9 files</sub><br />
 
 * **[Lin Zhenming](https://github.com/lzm-build)** &mdash; Add iOS prebuilt impeller_sdk<br />
-  <sub>[#187608](https://github.com/flutter/flutter/pull/187608) opened on on June 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187608) 55 additions and 14 deletions in 5 files</sub><br />
+  <sub>[#187608](https://github.com/flutter/flutter/pull/187608) opened on on June 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187608) 57 additions and 14 deletions in 5 files</sub><br />
 
