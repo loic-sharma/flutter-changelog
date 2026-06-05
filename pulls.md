@@ -221,9 +221,6 @@
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
   <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187029) 206 additions and 15 deletions in 10 files</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Split Form tests by widget ownership<br />
-  <sub>[#187031](https://github.com/flutter/flutter/pull/187031) opened on on May 24, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/187031) 1700 additions and 1828 deletions in 3 files</sub><br />
-
 * **[Kirtikumar Anandrao Ramchandani](https://github.com/KirtiRamchandani)** &mdash; Remove Material test multi-view utility cross-import<br />
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
 
@@ -356,6 +353,6 @@
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [linux]: fixes crash when resizing windows<br />
-  <sub>[#187626](https://github.com/flutter/flutter/pull/187626) opened on on June 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187626) 86 additions and 4 deletions in 5 files</sub><br />
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Document the formats.dart enums<br />
+  <sub>[#187628](https://github.com/flutter/flutter/pull/187628) opened on on June 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187628) 279 additions and 14 deletions in 1 file</sub><br />
 
