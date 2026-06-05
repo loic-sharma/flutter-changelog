@@ -951,7 +951,11 @@
 
 ### May 30, 2026 to June 5, 2026
 
-7 commits.
+8 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [Do not merge] Merge marketing site into `sites/www`<br />
+  <sub>[#13373](https://github.com/flutter/website/pull/13373) merged on June 5, 2026 &mdash; **Extra large:** [22 comments](https://github.com/flutter/website/pull/13373) over 4 weeks, 33282 additions and 18 deletions in 964 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Amanda Fitch](https://github.com/antfitch), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Harsh Yadav](https://github.com/harshyadavDeveloper)** &mdash; docs: remove outdated iOS C interop page and fix references<br />
   <sub>[#13337](https://github.com/flutter/website/pull/13337) merged on June 5, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/website/pull/13337) over 1 month, 1 addition and 267 deletions in 7 files</sub><br />
