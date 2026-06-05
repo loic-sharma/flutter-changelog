@@ -215,9 +215,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move page transition tests to material<br />
   <sub>[#187026](https://github.com/flutter/flutter/pull/187026) opened on on May 24, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/187026) 571 additions and 407 deletions in 5 files</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from scrollable selection test<br />
-  <sub>[#187027](https://github.com/flutter/flutter/pull/187027) opened on on May 24, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187027) 308 additions and 287 deletions in 3 files</sub><br />
-
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Cupertino route tests to cupertino<br />
   <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/187028) 320 additions and 302 deletions in 4 files</sub><br />
 
@@ -276,7 +273,7 @@
   <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187282) 177 additions and 16 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
-  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
+  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Tool Robustness] Gracefully handle asynchronous subprocess crashes and connection timeouts<br />
   <sub>[#187308](https://github.com/flutter/flutter/pull/187308) opened on on May 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187308) 86 additions and 2 deletions in 4 files</sub><br />
@@ -358,4 +355,7 @@
 
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [linux]: fixes crash when resizing windows<br />
+  <sub>[#187626](https://github.com/flutter/flutter/pull/187626) opened on on June 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187626) 86 additions and 4 deletions in 5 files</sub><br />
 
