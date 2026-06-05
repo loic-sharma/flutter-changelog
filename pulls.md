@@ -15,7 +15,7 @@
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Wire command line shell arguments to the embedding through the manifest instead of an `Intent`<br />
-  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [52 comments](https://github.com/flutter/flutter/pull/180591) 4257 additions and 1939 deletions in 20 files</sub><br />
+  <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [53 comments](https://github.com/flutter/flutter/pull/180591) 4257 additions and 1939 deletions in 20 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -349,9 +349,6 @@
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; feat: Allow recognizer inside editable<br />
   <sub>[#187599](https://github.com/flutter/flutter/pull/187599) opened on on June 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187599) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Playground tests will always run one frame<br />
-  <sub>[#187603](https://github.com/flutter/flutter/pull/187603) opened on on June 5, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/187603) 316 additions and 309 deletions in 22 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Implement Windows platform view plugin lifecycle<br />
   <sub>[#187604](https://github.com/flutter/flutter/pull/187604) opened on on June 5, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187604) 290 additions and 23 deletions in 9 files</sub><br />
