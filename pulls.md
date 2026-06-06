@@ -341,3 +341,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Document the formats.dart enums<br />
   <sub>[#187628](https://github.com/flutter/flutter/pull/187628) opened on on June 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187628) 279 additions and 14 deletions in 1 file</sub><br />
 
+* **[SoaringHeart](https://github.com/shang1219178163)** &mdash; feat: Add a placeholder attribute to DecorationImage and display it w…<br />
+  <sub>[#187635](https://github.com/flutter/flutter/pull/187635) opened on on June 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187635) 50 additions and 8 deletions in 1 file</sub><br />
+
