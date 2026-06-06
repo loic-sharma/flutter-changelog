@@ -188,8 +188,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level<br />
   <sub>[#186916](https://github.com/flutter/flutter/pull/186916) opened on on May 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186916) 12 additions and 0 deletions in 2 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Make `InheritedTheme` "ubiquitous"<br />
-  <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186923) 144 additions and 50 deletions in 4 files</sub><br />
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `InheritedElement.ubiquitous` constructor<br />
+  <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186923) 124 additions and 49 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove material imports from rendering tests<br />
   <sub>[#186938](https://github.com/flutter/flutter/pull/186938) opened on on May 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186938) 38 additions and 20 deletions in 3 files</sub><br />
