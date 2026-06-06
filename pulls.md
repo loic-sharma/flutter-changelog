@@ -219,7 +219,7 @@
   <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/187028) 320 additions and 302 deletions in 4 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
-  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187029) 206 additions and 15 deletions in 10 files</sub><br />
+  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187029) 884 additions and 18 deletions in 28 files</sub><br />
 
 * **[Kirtikumar Anandrao Ramchandani](https://github.com/KirtiRamchandani)** &mdash; Remove Material test multi-view utility cross-import<br />
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
