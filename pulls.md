@@ -350,6 +350,3 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [flutter_tools] Fix `flutter create` crash with SDK packages in bin/cache/pkg<br />
   <sub>[#187653](https://github.com/flutter/flutter/pull/187653) opened on on June 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187653) 116 additions and 6 deletions in 2 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [flutter_tools] Hot reload Flutter GPU shader bundles<br />
-  <sub>[#187654](https://github.com/flutter/flutter/pull/187654) opened on on June 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187654) 94 additions and 1 deletion in 4 files</sub><br />
-
