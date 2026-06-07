@@ -350,3 +350,6 @@
 * **[Raees Nawaj Shaikh](https://github.com/RaeesShaikh4)** &mdash; issue fixed -> TabController animateTo() unexpected behaivour<br />
   <sub>[#187657](https://github.com/flutter/flutter/pull/187657) opened on on June 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187657) 81 additions and 3 deletions in 3 files</sub><br />
 
+* **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Enforce that package-declared asset paths stay within the package<br />
+  <sub>[#187661](https://github.com/flutter/flutter/pull/187661) opened on on June 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187661) 57 additions and 3 deletions in 2 files</sub><br />
+
