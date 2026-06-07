@@ -347,3 +347,6 @@
 * **[Raees Nawaj Shaikh](https://github.com/RaeesShaikh4)** &mdash; fixed issue -> Synchronize keyboard and bottom sheet opening animations<br />
   <sub>[#187646](https://github.com/flutter/flutter/pull/187646) opened on on June 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187646) 18 additions and 0 deletions in 1 file</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [flutter_tools] Fix `flutter create` crash with SDK packages in bin/cache/pkg<br />
+  <sub>[#187653](https://github.com/flutter/flutter/pull/187653) opened on on June 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187653) 116 additions and 6 deletions in 2 files</sub><br />
+
