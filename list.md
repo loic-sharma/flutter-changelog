@@ -709,6 +709,10 @@
   <sub>[#186684](https://github.com/flutter/flutter/pull/186684) merged on May 20, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/186684) over 1 day, 494 additions and 622 deletions in 15 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub>
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "Ship gen_snapshot for linux-arm64 hosts targeting Android"
+  <sub>[#186693](https://github.com/flutter/flutter/pull/186693) merged on May 19, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/186693) over 1 day, 42 additions and 519 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove image codecs from canvaskit_chromium
   <sub>[#178133](https://github.com/flutter/flutter/pull/178133) merged on May 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/178133) over 6 months, 61 additions and 62 deletions in 8 files</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
@@ -720,10 +724,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS] Migrate VSyncClient to a pure Obj-C implementation (#186166)
   <sub>[#186935](https://github.com/flutter/flutter/pull/186935) merged on May 23, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186935) over 15 hours, 96 additions and 31 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "Ship gen_snapshot for linux-arm64 hosts targeting Android"
-  <sub>[#186693](https://github.com/flutter/flutter/pull/186693) merged on May 19, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/186693) over 1 day, 42 additions and 519 deletions in 7 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS][gn] Use arm64 clang in copy_info_plist.py on arm64 Macs
   <sub>[#186661](https://github.com/flutter/flutter/pull/186661) merged on May 19, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186661) over 16 hours, 5 additions and 3 deletions in 1 file</sub>
