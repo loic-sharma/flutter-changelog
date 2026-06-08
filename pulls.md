@@ -344,12 +344,12 @@
 * **[Raees Nawaj Shaikh](https://github.com/RaeesShaikh4)** &mdash; fixed issue -> Synchronize keyboard and bottom sheet opening animations<br />
   <sub>[#187646](https://github.com/flutter/flutter/pull/187646) opened on on June 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187646) 18 additions and 0 deletions in 1 file</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [flutter_tools] Fix `flutter create` crash with SDK packages in bin/cache/pkg<br />
-  <sub>[#187653](https://github.com/flutter/flutter/pull/187653) opened on on June 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187653) 116 additions and 6 deletions in 2 files</sub><br />
-
 * **[Raees Nawaj Shaikh](https://github.com/RaeesShaikh4)** &mdash; issue fixed -> TabController animateTo() unexpected behaivour<br />
   <sub>[#187657](https://github.com/flutter/flutter/pull/187657) opened on on June 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187657) 81 additions and 3 deletions in 3 files</sub><br />
 
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Enforce that package-declared asset paths stay within the package<br />
   <sub>[#187661](https://github.com/flutter/flutter/pull/187661) opened on on June 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187661) 57 additions and 3 deletions in 2 files</sub><br />
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Rename Dart_LoadELF2 back to Dart_LoadELF.<br />
+  <sub>[#187677](https://github.com/flutter/flutter/pull/187677) opened on on June 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187677) 15 additions and 15 deletions in 2 files</sub><br />
 

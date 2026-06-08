@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 6, 2026 to June 12, 2026
+
+1 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [flutter_tools] Fix `flutter create` crash with SDK packages in bin/cache/pkg<br />
+  <sub>[#187653](https://github.com/flutter/flutter/pull/187653) merged on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187653) over 1 day, 116 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Sigurd Meldgaard](https://github.com/sigurdm)</sub><br />
+
 ### May 30, 2026 to June 5, 2026
 
-77 commits.
+<details>
+<summary>77 commits...</summary>
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Add support for stylus buttons<br />
   <sub>[#183369](https://github.com/flutter/flutter/pull/183369) merged on June 3, 2026 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/183369) over 2 months, 568 additions and 78 deletions in 13 files</sub><br />
@@ -317,6 +326,8 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Move dart-lang/ai to a top level third party dependency in engine (#187268)"<br />
   <sub>[#187378](https://github.com/flutter/flutter/pull/187378) merged on June 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187378) over 4 hours, 38 additions and 10 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53)</sub><br />
+
+</details>
 
 ### May 23, 2026 to May 29, 2026
 
@@ -718,7 +729,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-3 commits.
+6 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the SPM guide for iOS and macOS<br />
   <sub>[#13459](https://github.com/flutter/website/pull/13459) merged on June 8, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/website/pull/13459) over 4 days, 242 additions and 360 deletions in 20 files</sub><br />
@@ -726,6 +737,18 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Combine and simplify legacy ffi plugin pages<br />
   <sub>[#13469](https://github.com/flutter/website/pull/13469) merged on June 8, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/website/pull/13469) over 2 days, 449 additions and 507 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Update banner for 2026 Q2 survey<br />
+  <sub>[#13475](https://github.com/flutter/website/pull/13475) merged on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13475) over 10 minutes, 2 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update banner content to promote the 26Q2 survey<br />
+  <sub>[#13453](https://github.com/flutter/website/pull/13453) merged on June 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13453) over 1 week, 2 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Sakurai Kenji](https://github.com/sakuraineed)** &mdash; Fix indentation for onSubmitGuess callback<br />
+  <sub>[#13474](https://github.com/flutter/website/pull/13474) merged on June 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13474) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add experimental AI Evaluations topic page<br />
