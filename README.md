@@ -729,7 +729,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-6 commits.
+7 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the SPM guide for iOS and macOS<br />
   <sub>[#13459](https://github.com/flutter/website/pull/13459) merged on June 8, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/website/pull/13459) over 4 days, 242 additions and 360 deletions in 20 files</sub><br />
@@ -738,6 +738,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Combine and simplify legacy ffi plugin pages<br />
   <sub>[#13469](https://github.com/flutter/website/pull/13469) merged on June 8, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/website/pull/13469) over 2 days, 449 additions and 507 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update demo entries in demos.yaml<br />
+  <sub>[#13476](https://github.com/flutter/website/pull/13476) merged on June 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13476) over 56 minutes, 4 additions and 24 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Update banner for 2026 Q2 survey<br />
   <sub>[#13475](https://github.com/flutter/website/pull/13475) merged on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13475) over 10 minutes, 2 additions and 3 deletions in 1 file</sub><br />
