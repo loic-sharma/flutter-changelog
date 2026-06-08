@@ -4,7 +4,15 @@
 
 ### June 6, 2026 to June 12, 2026
 
-2 commits.
+4 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add bare, reidbaker, and android agents
+  <sub>[#187588](https://github.com/flutter/flutter/pull/187588) merged on June 8, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187588) over 3 days, 715 additions and 2 deletions in 21 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Rename Dart_LoadELF2 back to Dart_LoadELF.
+  <sub>[#187677](https://github.com/flutter/flutter/pull/187677) merged on June 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187677) over 5 hours, 15 additions and 15 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Document the formats.dart enums
   <sub>[#187628](https://github.com/flutter/flutter/pull/187628) merged on June 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187628) over 2 days, 279 additions and 14 deletions in 1 file</sub>

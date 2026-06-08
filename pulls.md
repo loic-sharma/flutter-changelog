@@ -342,8 +342,11 @@
   <sub>[#187689](https://github.com/flutter/flutter/pull/187689) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187689) 130 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Share OpenGL context between playground unittests<br />
-  <sub>[#187690](https://github.com/flutter/flutter/pull/187690) opened on on June 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187690) 105 additions and 8 deletions in 9 files</sub><br />
+  <sub>[#187690](https://github.com/flutter/flutter/pull/187690) opened on on June 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187690) 110 additions and 8 deletions in 11 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Flip from deprecated strict analysis modes to lint rules<br />
   <sub>[#187692](https://github.com/flutter/flutter/pull/187692) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187692) 1 addition and 4 deletions in 1 file</sub><br />
+
+* **[Himanshu Anand](https://github.com/unknownhad)** &mdash; Fix integer overflow in APNG parser and add bounds checks to StandardCodecSerializer<br />
+  <sub>[#187701](https://github.com/flutter/flutter/pull/187701) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187701) 143 additions and 1 deletion in 6 files</sub><br />
 
