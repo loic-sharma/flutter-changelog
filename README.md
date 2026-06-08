@@ -716,9 +716,26 @@
 
 ## flutter/website
 
+### June 6, 2026 to June 12, 2026
+
+3 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the SPM guide for iOS and macOS<br />
+  <sub>[#13459](https://github.com/flutter/website/pull/13459) merged on June 8, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/website/pull/13459) over 4 days, 242 additions and 360 deletions in 20 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Combine and simplify legacy ffi plugin pages<br />
+  <sub>[#13469](https://github.com/flutter/website/pull/13469) merged on June 8, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/website/pull/13469) over 2 days, 449 additions and 507 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add experimental AI Evaluations topic page<br />
+  <sub>[#13471](https://github.com/flutter/website/pull/13471) merged on June 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13471) over 1 day, 32 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 ### May 30, 2026 to June 5, 2026
 
-8 commits.
+<details>
+<summary>8 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Merge marketing site into `sites/www`<br />
   <sub>[#13373](https://github.com/flutter/website/pull/13373) merged on June 5, 2026 &mdash; **Extra large:** [22 comments](https://github.com/flutter/website/pull/13373) over 4 weeks, 33282 additions and 18 deletions in 964 files</sub><br />
@@ -751,6 +768,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add header migration guide<br />
   <sub>[#13457](https://github.com/flutter/website/pull/13457) merged on June 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13457) over 21 hours, 123 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### May 23, 2026 to May 29, 2026
 
