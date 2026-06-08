@@ -4,7 +4,11 @@
 
 ### June 6, 2026 to June 12, 2026
 
-1 commits.
+2 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Document the formats.dart enums<br />
+  <sub>[#187628](https://github.com/flutter/flutter/pull/187628) merged on June 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187628) over 2 days, 279 additions and 14 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jochum van der Ploeg](https://github.com/wolfenrain)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [flutter_tools] Fix `flutter create` crash with SDK packages in bin/cache/pkg<br />
   <sub>[#187653](https://github.com/flutter/flutter/pull/187653) merged on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187653) over 1 day, 116 additions and 6 deletions in 2 files</sub><br />
@@ -729,7 +733,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-7 commits.
+8 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the SPM guide for iOS and macOS<br />
   <sub>[#13459](https://github.com/flutter/website/pull/13459) merged on June 8, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/website/pull/13459) over 4 days, 242 additions and 360 deletions in 20 files</sub><br />
@@ -750,6 +754,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update banner content to promote the 26Q2 survey<br />
   <sub>[#13453](https://github.com/flutter/website/pull/13453) merged on June 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13453) over 1 week, 2 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; feat: add Flutter 3.44 news entry and associated featured image<br />
+  <sub>[#13477](https://github.com/flutter/website/pull/13477) merged on June 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13477) over 2 minutes, 4 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Sakurai Kenji](https://github.com/sakuraineed)** &mdash; Fix indentation for onSubmitGuess callback<br />
   <sub>[#13474](https://github.com/flutter/website/pull/13474) merged on June 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13474) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />

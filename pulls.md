@@ -24,7 +24,7 @@
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
-  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/182788) 313 additions and 196 deletions in 11 files</sub><br />
+  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/182788) 168 additions and 51 deletions in 11 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
@@ -326,9 +326,6 @@
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Document the formats.dart enums<br />
-  <sub>[#187628](https://github.com/flutter/flutter/pull/187628) opened on on June 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187628) 279 additions and 14 deletions in 1 file</sub><br />
-
 * **[SoaringHeart](https://github.com/shang1219178163)** &mdash; feat: Add a placeholder attribute to DecorationImage and display it w…<br />
   <sub>[#187635](https://github.com/flutter/flutter/pull/187635) opened on on June 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187635) 50 additions and 8 deletions in 1 file</sub><br />
 
@@ -345,11 +342,11 @@
   <sub>[#187661](https://github.com/flutter/flutter/pull/187661) opened on on June 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187661) 57 additions and 3 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Android] [a11y] make text field floating label a separated semantics node in android<br />
-  <sub>[#187689](https://github.com/flutter/flutter/pull/187689) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187689) 128 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187689](https://github.com/flutter/flutter/pull/187689) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187689) 126 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Share OpenGL context between playground unittests<br />
-  <sub>[#187690](https://github.com/flutter/flutter/pull/187690) opened on on June 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187690) 108 additions and 7 deletions in 9 files</sub><br />
+  <sub>[#187690](https://github.com/flutter/flutter/pull/187690) opened on on June 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187690) 105 additions and 8 deletions in 9 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Flip from deprecated strict analysis modes to lint rules<br />
-  <sub>[#187692](https://github.com/flutter/flutter/pull/187692) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187692) 2 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#187692](https://github.com/flutter/flutter/pull/187692) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187692) 1 addition and 4 deletions in 1 file</sub><br />
 
