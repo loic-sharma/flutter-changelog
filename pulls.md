@@ -287,9 +287,6 @@
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix stale _entries and pointer tracking in OneSequenceGestureRecognizer.rejectGesture<br />
   <sub>[#187515](https://github.com/flutter/flutter/pull/187515) opened on on June 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187515) 64 additions and 5 deletions in 7 files</sub><br />
 
-* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 12<br />
-  <sub>[#187529](https://github.com/flutter/flutter/pull/187529) opened on on June 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187529) 113 additions and 0 deletions in 7 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `MediaQueryData` docs for devicePixelRatio overriding<br />
   <sub>[#187542](https://github.com/flutter/flutter/pull/187542) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187542) 7 additions and 3 deletions in 1 file</sub><br />
 
@@ -330,7 +327,7 @@
   <sub>[#187643](https://github.com/flutter/flutter/pull/187643) opened on on June 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187643) 91 additions and 2 deletions in 2 files</sub><br />
 
 * **[Raees Nawaj Shaikh](https://github.com/RaeesShaikh4)** &mdash; fixed issue -> Synchronize keyboard and bottom sheet opening animations<br />
-  <sub>[#187646](https://github.com/flutter/flutter/pull/187646) opened on on June 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187646) 18 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#187646](https://github.com/flutter/flutter/pull/187646) opened on on June 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187646) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Raees Nawaj Shaikh](https://github.com/RaeesShaikh4)** &mdash; issue fixed -> TabController animateTo() unexpected behaivour<br />
   <sub>[#187657](https://github.com/flutter/flutter/pull/187657) opened on on June 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187657) 81 additions and 3 deletions in 3 files</sub><br />
