@@ -618,9 +618,18 @@
 
 ## flutter/packages
 
+### June 6, 2026 to June 12, 2026
+
+1 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [Decoupling] Repo-wide changes
+  <sub>[#11874](https://github.com/flutter/packages/pull/11874) merged on June 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11874) over 1 hour, 6 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
 ### May 30, 2026 to June 5, 2026
 
-13 commits.
+<details>
+<summary>13 commits...</summary>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Migrate plugins to support AGP 9
   <sub>[#11802](https://github.com/flutter/packages/pull/11802) merged on June 2, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11802) over 4 days, 835 additions and 304 deletions in 103 files</sub>
@@ -673,6 +682,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 559ffa3f75e7 to 924134a44c18 (4 revisions)
   <sub>[#11817](https://github.com/flutter/packages/pull/11817) merged on June 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11817) over 43 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### May 23, 2026 to May 29, 2026
 
