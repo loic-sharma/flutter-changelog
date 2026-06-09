@@ -632,11 +632,19 @@
 
 ### June 6, 2026 to June 12, 2026
 
-1 commits.
+3 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [Decoupling] Repo-wide changes<br />
   <sub>[#11874](https://github.com/flutter/packages/pull/11874) merged on June 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11874) over 1 hour, 6 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Check for any Flutter SDK dependency<br />
+  <sub>[#11875](https://github.com/flutter/packages/pull/11875) merged on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11875) over 15 hours, 20 additions and 9 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins), [Jacob MacDonald](https://github.com/jakemac53)</sub><br />
+
+* **[Hari07](https://github.com/Hari-07)** &mdash; [google_maps_flutter_ios_sdk9] Fix title in google maps sdk9 readme<br />
+  <sub>[#11826](https://github.com/flutter/packages/pull/11826) merged on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11826) over 6 days, 6 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### May 30, 2026 to June 5, 2026
 
