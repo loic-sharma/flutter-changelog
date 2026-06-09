@@ -191,9 +191,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from view chrome style test<br />
   <sub>[#186994](https://github.com/flutter/flutter/pull/186994) opened on on May 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186994) 64 additions and 63 deletions in 2 files</sub><br />
 
-* **[Abhay](https://github.com/abhaysaqi)** &mdash; Fix: guard against detached RenderObject in _PlatformViewPlaceholderBox<br />
-  <sub>[#187002](https://github.com/flutter/flutter/pull/187002) opened on on May 23, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/187002) 47 additions and 1 deletion in 2 files</sub><br />
-
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Split system font tests by library ownership<br />
   <sub>[#187003](https://github.com/flutter/flutter/pull/187003) opened on on May 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187003) 243 additions and 215 deletions in 4 files</sub><br />
 
@@ -260,9 +257,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
 
-* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [SingleChildScrollView] fix: SingleChildScrollView to automatically consume MediaQuery padding<br />
-  <sub>[#187415](https://github.com/flutter/flutter/pull/187415) opened on on June 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187415) 97 additions and 2 deletions in 2 files</sub><br />
-
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Restrict release web asset server to the build output and source files<br />
   <sub>[#187437](https://github.com/flutter/flutter/pull/187437) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187437) 94 additions and 7 deletions in 2 files</sub><br />
 
@@ -278,23 +272,8 @@
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
 
-* **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix stale _entries and pointer tracking in OneSequenceGestureRecognizer.rejectGesture<br />
-  <sub>[#187515](https://github.com/flutter/flutter/pull/187515) opened on on June 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187515) 64 additions and 5 deletions in 7 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `MediaQueryData` docs for devicePixelRatio overriding<br />
-  <sub>[#187542](https://github.com/flutter/flutter/pull/187542) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187542) 7 additions and 3 deletions in 1 file</sub><br />
-
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [InkWell] fix: Prevent disabled buttons from passing taps to parent GestureDetectors<br />
   <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187551) 37 additions and 0 deletions in 2 files</sub><br />
-
-* **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics<br />
-  <sub>[#187568](https://github.com/flutter/flutter/pull/187568) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187568) 80 additions and 3 deletions in 3 files</sub><br />
-
-* **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: typo fix in Navigator<br />
-  <sub>[#187572](https://github.com/flutter/flutter/pull/187572) opened on on June 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187572) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Eden Amiga](https://github.com/edenpro2)** &mdash; Change BorderRadius.circular to const constructor<br />
-  <sub>[#187578](https://github.com/flutter/flutter/pull/187578) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187578) 2 additions and 7 deletions in 1 file</sub><br />
 
 * **[chtga](https://github.com/tamirenkhbayar3-cmd)** &mdash; Restrict web dev server to loopback by default<br />
   <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
@@ -312,7 +291,7 @@
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
 
 * **[SoaringHeart](https://github.com/shang1219178163)** &mdash; feat: Add a placeholder attribute to DecorationImage and display it w…<br />
-  <sub>[#187635](https://github.com/flutter/flutter/pull/187635) opened on on June 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187635) 50 additions and 8 deletions in 1 file</sub><br />
+  <sub>[#187635](https://github.com/flutter/flutter/pull/187635) opened on on June 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187635) 50 additions and 8 deletions in 1 file</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Start iOS Simulator log reader before launch<br />
   <sub>[#187643](https://github.com/flutter/flutter/pull/187643) opened on on June 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187643) 91 additions and 2 deletions in 2 files</sub><br />
@@ -331,9 +310,6 @@
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Share OpenGL context between playground unittests<br />
   <sub>[#187690](https://github.com/flutter/flutter/pull/187690) opened on on June 8, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/187690) 87 additions and 9 deletions in 12 files</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Flip from deprecated strict analysis modes to lint rules<br />
-  <sub>[#187692](https://github.com/flutter/flutter/pull/187692) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187692) 1 addition and 4 deletions in 1 file</sub><br />
 
 * **[Himanshu Anand](https://github.com/unknownhad)** &mdash; Fix integer overflow in APNG parser and add bounds checks to StandardCodecSerializer<br />
   <sub>[#187701](https://github.com/flutter/flutter/pull/187701) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187701) 143 additions and 1 deletion in 6 files</sub><br />
@@ -355,7 +331,4 @@
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; [flutter_tools] fix: don't rebuild unit_test_assets when nothing changed<br />
   <sub>[#187751](https://github.com/flutter/flutter/pull/187751) opened on on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187751) 73 additions and 3 deletions in 3 files</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Test to verify AnnounceSemanticsEvent deprecation warning on API 36<br />
-  <sub>[#187754](https://github.com/flutter/flutter/pull/187754) opened on on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187754) 38 additions and 0 deletions in 1 file</sub><br />
 

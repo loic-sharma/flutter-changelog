@@ -4,7 +4,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-14 commits.
+15 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow attaching specific texture mip levels and slices for rendering
   <sub>[#187685](https://github.com/flutter/flutter/pull/187685) merged on June 9, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/187685) over 23 hours, 293 additions and 25 deletions in 16 files</sub>
@@ -21,6 +21,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add bare, reidbaker, and android agents
   <sub>[#187588](https://github.com/flutter/flutter/pull/187588) merged on June 8, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187588) over 3 days, 715 additions and 2 deletions in 21 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Remove unused DeviceHolderVK reference from CommandBufferVK
+  <sub>[#187705](https://github.com/flutter/flutter/pull/187705) merged on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187705) over 21 hours, 0 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates dia_dll.py to support vs2026
   <sub>[#187714](https://github.com/flutter/flutter/pull/187714) merged on June 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187714) over 17 hours, 1 addition and 0 deletions in 1 file</sub>
