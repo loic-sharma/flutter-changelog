@@ -69,7 +69,7 @@
   <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
-  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
   <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186075) 95 additions and 2 deletions in 2 files</sub><br />
@@ -364,4 +364,7 @@
 
 * **[DEV RAJA](https://github.com/bundeladevraja123-raja)** &mdash; Fix typo in TESTOWNERS comment<br />
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use workspace resolution for the meta package in dev/integration_tests/record_use_test_package<br />
+  <sub>[#187733](https://github.com/flutter/flutter/pull/187733) opened on on June 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187733) 2 additions and 2 deletions in 1 file</sub><br />
 
