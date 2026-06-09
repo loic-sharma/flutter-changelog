@@ -4,10 +4,14 @@
 
 ### June 6, 2026 to June 12, 2026
 
-5 commits.
+6 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add bare, reidbaker, and android agents<br />
   <sub>[#187588](https://github.com/flutter/flutter/pull/187588) merged on June 8, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187588) over 3 days, 715 additions and 2 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use workspace resolution for the meta package in dev/integration_tests/record_use_test_package<br />
+  <sub>[#187733](https://github.com/flutter/flutter/pull/187733) merged on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187733) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add docs on bumping Dart<br />
@@ -632,7 +636,11 @@
 
 ### June 6, 2026 to June 12, 2026
 
-3 commits.
+4 commits.
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Migrate Remaining Plugin Example Apps to Built-in Kotlin<br />
+  <sub>[#11806](https://github.com/flutter/packages/pull/11806) merged on June 9, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/11806) over 1 week, 834 additions and 261 deletions in 114 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [Decoupling] Repo-wide changes<br />
   <sub>[#11874](https://github.com/flutter/packages/pull/11874) merged on June 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11874) over 1 hour, 6 additions and 0 deletions in 2 files</sub><br />
