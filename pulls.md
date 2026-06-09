@@ -359,3 +359,6 @@
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix selection handles triggering Android system back gesture near screen edges<br />
   <sub>[#187723](https://github.com/flutter/flutter/pull/187723) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187723) 109 additions and 0 deletions in 2 files</sub><br />
 
+* **[Pascal Welsch](https://github.com/passsy)** &mdash; Compare isModifiedAfter against the given time<br />
+  <sub>[#187727](https://github.com/flutter/flutter/pull/187727) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187727) 24 additions and 4 deletions in 2 files</sub><br />
+
