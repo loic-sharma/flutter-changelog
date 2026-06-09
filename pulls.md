@@ -252,7 +252,7 @@
   <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187282) 177 additions and 16 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
-  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
+  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [46 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
