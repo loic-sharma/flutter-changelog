@@ -756,7 +756,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-9 commits.
+10 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the SPM guide for iOS and macOS
   <sub>[#13459](https://github.com/flutter/website/pull/13459) merged on June 8, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/website/pull/13459) over 4 days, 242 additions and 360 deletions in 20 files</sub>
@@ -764,6 +764,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Combine and simplify legacy ffi plugin pages
   <sub>[#13469](https://github.com/flutter/website/pull/13469) merged on June 8, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/website/pull/13469) over 2 days, 449 additions and 507 deletions in 14 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Reorganize AI documentation for Antigravity
+  <sub>[#13470](https://github.com/flutter/website/pull/13470) merged on June 8, 2026 &mdash; **Medium:** [38 comments](https://github.com/flutter/website/pull/13470) over 2 days, 115 additions and 280 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update demo entries in demos.yaml
