@@ -287,9 +287,6 @@
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix stale _entries and pointer tracking in OneSequenceGestureRecognizer.rejectGesture<br />
   <sub>[#187515](https://github.com/flutter/flutter/pull/187515) opened on on June 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187515) 64 additions and 5 deletions in 7 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Support enabled built in kotlin<br />
-  <sub>[#187534](https://github.com/flutter/flutter/pull/187534) opened on on June 3, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187534) 719 additions and 596 deletions in 3 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `MediaQueryData` docs for devicePixelRatio overriding<br />
   <sub>[#187542](https://github.com/flutter/flutter/pull/187542) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187542) 7 additions and 3 deletions in 1 file</sub><br />
 
@@ -339,7 +336,7 @@
   <sub>[#187689](https://github.com/flutter/flutter/pull/187689) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187689) 130 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Share OpenGL context between playground unittests<br />
-  <sub>[#187690](https://github.com/flutter/flutter/pull/187690) opened on on June 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187690) 111 additions and 9 deletions in 12 files</sub><br />
+  <sub>[#187690](https://github.com/flutter/flutter/pull/187690) opened on on June 8, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/187690) 87 additions and 9 deletions in 12 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Flip from deprecated strict analysis modes to lint rules<br />
   <sub>[#187692](https://github.com/flutter/flutter/pull/187692) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187692) 1 addition and 4 deletions in 1 file</sub><br />
