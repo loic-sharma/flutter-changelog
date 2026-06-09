@@ -24,7 +24,7 @@
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
-  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/182788) 168 additions and 51 deletions in 11 files</sub><br />
+  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/182788) 179 additions and 55 deletions in 11 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
@@ -133,9 +133,6 @@
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material selection tests<br />
   <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186670) 182 additions and 188 deletions in 5 files</sub><br />
-
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from implicit animation tests<br />
-  <sub>[#186673](https://github.com/flutter/flutter/pull/186673) opened on on May 18, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186673) 130 additions and 62 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move drawer route tests to Material<br />
   <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186675) 25 additions and 28 deletions in 2 files</sub><br />
@@ -261,7 +258,7 @@
   <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187282) 177 additions and 16 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
-  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
+  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [44 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
@@ -344,12 +341,6 @@
 * **[Himanshu Anand](https://github.com/unknownhad)** &mdash; Fix integer overflow in APNG parser and add bounds checks to StandardCodecSerializer<br />
   <sub>[#187701](https://github.com/flutter/flutter/pull/187701) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187701) 143 additions and 1 deletion in 6 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates dia_dll.py to support vs2026<br />
-  <sub>[#187714](https://github.com/flutter/flutter/pull/187714) opened on on June 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187714) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Make ShaderLibrary.fromAsset asynchronous<br />
-  <sub>[#187716](https://github.com/flutter/flutter/pull/187716) opened on on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187716) 100 additions and 48 deletions in 5 files</sub><br />
-
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [MenuAnchor] fix: MenuAnchor submenu topStart alignment overlapping parent menu<br />
   <sub>[#187719](https://github.com/flutter/flutter/pull/187719) opened on on June 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187719) 153 additions and 4 deletions in 2 files</sub><br />
 
@@ -360,11 +351,11 @@
   <sub>[#187723](https://github.com/flutter/flutter/pull/187723) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187723) 109 additions and 0 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow sampling textures with manually-uploaded mip levels<br />
-  <sub>[#187729](https://github.com/flutter/flutter/pull/187729) opened on on June 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187729) 139 additions and 18 deletions in 3 files</sub><br />
+  <sub>[#187729](https://github.com/flutter/flutter/pull/187729) opened on on June 9, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/187729) 141 additions and 18 deletions in 3 files</sub><br />
 
 * **[DEV RAJA](https://github.com/bundeladevraja123-raja)** &mdash; Fix typo in TESTOWNERS comment<br />
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add android-agent agent.json and update reidbaker-agent skills<br />
-  <sub>[#187746](https://github.com/flutter/flutter/pull/187746) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187746) 17 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#187746](https://github.com/flutter/flutter/pull/187746) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187746) 17 additions and 10 deletions in 2 files</sub><br />
 

@@ -4,15 +4,23 @@
 
 ### June 6, 2026 to June 12, 2026
 
-9 commits.
+11 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow attaching specific texture mip levels and slices for rendering
   <sub>[#187685](https://github.com/flutter/flutter/pull/187685) merged on June 9, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/187685) over 23 hours, 293 additions and 25 deletions in 16 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from implicit animation tests
+  <sub>[#186673](https://github.com/flutter/flutter/pull/186673) merged on June 9, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186673) over 3 weeks, 130 additions and 62 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kishan Rathore](https://github.com/rkishan516), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add bare, reidbaker, and android agents
   <sub>[#187588](https://github.com/flutter/flutter/pull/187588) merged on June 8, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187588) over 3 days, 715 additions and 2 deletions in 21 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates dia_dll.py to support vs2026
+  <sub>[#187714](https://github.com/flutter/flutter/pull/187714) merged on June 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187714) over 17 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage links
   <sub>[#187709](https://github.com/flutter/flutter/pull/187709) merged on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187709) over 18 hours, 3 additions and 3 deletions in 1 file</sub>
