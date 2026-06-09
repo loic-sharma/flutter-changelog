@@ -81,7 +81,7 @@
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/186108) 120 additions and 10 deletions in 7 files</sub><br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/186108) 120 additions and 10 deletions in 7 files</sub><br />
 
 * **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) 2 additions and 2 deletions in 2 files</sub><br />
@@ -348,19 +348,13 @@
   <sub>[#187723](https://github.com/flutter/flutter/pull/187723) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187723) 109 additions and 0 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow sampling textures with manually-uploaded mip levels<br />
-  <sub>[#187729](https://github.com/flutter/flutter/pull/187729) opened on on June 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187729) 141 additions and 18 deletions in 3 files</sub><br />
+  <sub>[#187729](https://github.com/flutter/flutter/pull/187729) opened on on June 9, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/187729) 141 additions and 18 deletions in 3 files</sub><br />
 
 * **[DEV RAJA](https://github.com/bundeladevraja123-raja)** &mdash; Fix typo in TESTOWNERS comment<br />
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add android-agent agent.json and update reidbaker-agent skills<br />
-  <sub>[#187746](https://github.com/flutter/flutter/pull/187746) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187746) 17 additions and 10 deletions in 2 files</sub><br />
-
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; [flutter_tools] fix: don't rebuild unit_test_assets when nothing changed<br />
   <sub>[#187751](https://github.com/flutter/flutter/pull/187751) opened on on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187751) 73 additions and 3 deletions in 3 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add note about magnifier issue when using transparent HCPP pv<br />
-  <sub>[#187753](https://github.com/flutter/flutter/pull/187753) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187753) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Test to verify AnnounceSemanticsEvent deprecation warning on API 36<br />
   <sub>[#187754](https://github.com/flutter/flutter/pull/187754) opened on on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187754) 38 additions and 0 deletions in 1 file</sub><br />

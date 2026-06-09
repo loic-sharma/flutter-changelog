@@ -4,7 +4,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-13 commits.
+14 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow attaching specific texture mip levels and slices for rendering
   <sub>[#187685](https://github.com/flutter/flutter/pull/187685) merged on June 9, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/187685) over 23 hours, 293 additions and 25 deletions in 16 files</sub>
@@ -37,6 +37,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add docs on bumping Dart
   <sub>[#187540](https://github.com/flutter/flutter/pull/187540) merged on June 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187540) over 4 days, 92 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add android-agent agent.json and update reidbaker-agent skills
+  <sub>[#187746](https://github.com/flutter/flutter/pull/187746) merged on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187746) over 29 minutes, 17 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove the texture coordinate system Y-flip workaround
   <sub>[#187686](https://github.com/flutter/flutter/pull/187686) merged on June 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187686) over 1 day, 1 addition and 138 deletions in 18 files</sub>
