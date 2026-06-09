@@ -306,7 +306,7 @@
   <sub>[#187578](https://github.com/flutter/flutter/pull/187578) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187578) 2 additions and 7 deletions in 1 file</sub><br />
 
 * **[chtga](https://github.com/tamirenkhbayar3-cmd)** &mdash; Restrict web dev server to loopback by default<br />
-  <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
+  <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; feat: Allow recognizer inside editable<br />
   <sub>[#187599](https://github.com/flutter/flutter/pull/187599) opened on on June 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187599) 1 addition and 1 deletion in 1 file</sub><br />
@@ -351,7 +351,7 @@
   <sub>[#187714](https://github.com/flutter/flutter/pull/187714) opened on on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187714) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Make ShaderLibrary.fromAsset asynchronous<br />
-  <sub>[#187716](https://github.com/flutter/flutter/pull/187716) opened on on June 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187716) 100 additions and 48 deletions in 5 files</sub><br />
+  <sub>[#187716](https://github.com/flutter/flutter/pull/187716) opened on on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187716) 100 additions and 48 deletions in 5 files</sub><br />
 
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [MenuAnchor] fix: MenuAnchor submenu topStart alignment overlapping parent menu<br />
   <sub>[#187719](https://github.com/flutter/flutter/pull/187719) opened on on June 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187719) 153 additions and 4 deletions in 2 files</sub><br />
