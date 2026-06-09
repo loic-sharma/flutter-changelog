@@ -294,7 +294,7 @@
   <sub>[#187542](https://github.com/flutter/flutter/pull/187542) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187542) 7 additions and 3 deletions in 1 file</sub><br />
 
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [InkWell] fix: Prevent disabled buttons from passing taps to parent GestureDetectors<br />
-  <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187551) 59 additions and 20 deletions in 2 files</sub><br />
+  <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187551) 37 additions and 0 deletions in 2 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics<br />
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) opened on on June 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187568) 80 additions and 3 deletions in 3 files</sub><br />
@@ -349,4 +349,13 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates dia_dll.py to support vs2026<br />
   <sub>[#187714](https://github.com/flutter/flutter/pull/187714) opened on on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187714) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Make ShaderLibrary.fromAsset asynchronous<br />
+  <sub>[#187716](https://github.com/flutter/flutter/pull/187716) opened on on June 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187716) 100 additions and 48 deletions in 5 files</sub><br />
+
+* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [MenuAnchor] fix: MenuAnchor submenu topStart alignment overlapping parent menu<br />
+  <sub>[#187719](https://github.com/flutter/flutter/pull/187719) opened on on June 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187719) 153 additions and 4 deletions in 2 files</sub><br />
+
+* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; fix: Submenu vertical flip misalignment with anchor item<br />
+  <sub>[#187720](https://github.com/flutter/flutter/pull/187720) opened on on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187720) 86 additions and 7 deletions in 2 files</sub><br />
 
