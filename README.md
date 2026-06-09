@@ -756,7 +756,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-10 commits.
+12 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the SPM guide for iOS and macOS<br />
   <sub>[#13459](https://github.com/flutter/website/pull/13459) merged on June 8, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/website/pull/13459) over 4 days, 242 additions and 360 deletions in 20 files</sub><br />
@@ -781,6 +781,14 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update banner content to promote the 26Q2 survey<br />
   <sub>[#13453](https://github.com/flutter/website/pull/13453) merged on June 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13453) over 1 week, 2 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs(ai): apply formatting and styling review fixes for Antigravity<br />
+  <sub>[#13480](https://github.com/flutter/website/pull/13480) merged on June 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13480) over 1 hour, 70 additions and 20 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; feat: update Toyota case study with new media assets, revised content, and PNG branding<br />
+  <sub>[#13479](https://github.com/flutter/website/pull/13479) merged on June 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13479) over 1 hour, 57 additions and 19 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; feat: add Karaca company case study and update company data list<br />
   <sub>[#13478](https://github.com/flutter/website/pull/13478) merged on June 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13478) over 18 minutes, 90 additions and 0 deletions in 7 files</sub><br />
