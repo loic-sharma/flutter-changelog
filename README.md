@@ -676,7 +676,11 @@
 
 ### June 6, 2026 to June 12, 2026
 
-5 commits.
+7 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] updates toString and isNullish methods<br />
+  <sub>[#11625](https://github.com/flutter/packages/pull/11625) merged on June 10, 2026 &mdash; **Extra large:** [42 comments](https://github.com/flutter/packages/pull/11625) over 1 month, 6316 additions and 1060 deletions in 86 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Migrate Remaining Plugin Example Apps to Built-in Kotlin<br />
   <sub>[#11806](https://github.com/flutter/packages/pull/11806) merged on June 9, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/11806) over 1 week, 834 additions and 261 deletions in 114 files</sub><br />
@@ -684,6 +688,10 @@
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Remove moved packages<br />
   <sub>[#11850](https://github.com/flutter/packages/pull/11850) merged on June 10, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/11850) over 4 days, 0 additions and 10672 deletions in 155 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Switch to Kotlin Pigeon<br />
+  <sub>[#11661](https://github.com/flutter/packages/pull/11661) merged on June 10, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/11661) over 1 month, 829 additions and 864 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [Decoupling] Repo-wide changes<br />
