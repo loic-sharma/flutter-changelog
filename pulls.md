@@ -21,7 +21,7 @@
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
 * **[Dmitry Grand (dmgr)](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
-  <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181051) 4 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181051) 7 additions and 1 deletion in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version<br />
   <sub>[#182788](https://github.com/flutter/flutter/pull/182788) opened on on February 23, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/182788) 179 additions and 55 deletions in 11 files</sub><br />
@@ -309,7 +309,7 @@
   <sub>[#187723](https://github.com/flutter/flutter/pull/187723) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187723) 109 additions and 0 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow sampling textures with manually-uploaded mip levels<br />
-  <sub>[#187729](https://github.com/flutter/flutter/pull/187729) opened on on June 9, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/187729) 326 additions and 18 deletions in 14 files</sub><br />
+  <sub>[#187729](https://github.com/flutter/flutter/pull/187729) opened on on June 9, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/187729) 326 additions and 18 deletions in 14 files</sub><br />
 
 * **[DEV RAJA](https://github.com/bundeladevraja123-raja)** &mdash; Fix typo in TESTOWNERS comment<br />
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
@@ -331,4 +331,7 @@
 
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Forward showDragHandle from showCupertinoSheet to CupertinoSheetRoute<br />
   <sub>[#187803](https://github.com/flutter/flutter/pull/187803) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187803) 59 additions and 0 deletions in 2 files</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `engine.version` for 3.44.2 stable release<br />
+  <sub>[#187805](https://github.com/flutter/flutter/pull/187805) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187805) 1 addition and 1 deletion in 1 file</sub><br />
 
