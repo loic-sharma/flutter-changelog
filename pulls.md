@@ -65,9 +65,6 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from animated_icons_test.dart<br />
   <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185974) 1 addition and 6 deletions in 1 file</sub><br />
 
-* **[Rusino](https://github.com/Rusino)** &mdash; Painting decorations directly on CanvasKit<br />
-  <sub>[#186013](https://github.com/flutter/flutter/pull/186013) opened on on May 4, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/186013) 163 additions and 246 deletions in 4 files</sub><br />
-
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [ios] Fix safe area padding not updating when SystemUiMode changes on iOS 26<br />
   <sub>[#186028](https://github.com/flutter/flutter/pull/186028) opened on on May 4, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/186028) 262 additions and 1 deletion in 4 files</sub><br />
 
@@ -330,5 +327,8 @@
   <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
 
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Repaint NavigationIndicator's host Material when its animation ticks<br />
-  <sub>[#187802](https://github.com/flutter/flutter/pull/187802) opened on on June 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187802) 61 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187802](https://github.com/flutter/flutter/pull/187802) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187802) 61 additions and 0 deletions in 2 files</sub><br />
+
+* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Forward showDragHandle from showCupertinoSheet to CupertinoSheetRoute<br />
+  <sub>[#187803](https://github.com/flutter/flutter/pull/187803) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187803) 59 additions and 0 deletions in 2 files</sub><br />
 
