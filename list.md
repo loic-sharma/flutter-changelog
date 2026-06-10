@@ -676,11 +676,15 @@
 
 ### June 6, 2026 to June 12, 2026
 
-4 commits.
+5 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Migrate Remaining Plugin Example Apps to Built-in Kotlin
   <sub>[#11806](https://github.com/flutter/packages/pull/11806) merged on June 9, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/11806) over 1 week, 834 additions and 261 deletions in 114 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Remove moved packages
+  <sub>[#11850](https://github.com/flutter/packages/pull/11850) merged on June 10, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/11850) over 4 days, 0 additions and 10672 deletions in 155 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [Decoupling] Repo-wide changes
   <sub>[#11874](https://github.com/flutter/packages/pull/11874) merged on June 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11874) over 1 hour, 6 additions and 0 deletions in 2 files</sub>
