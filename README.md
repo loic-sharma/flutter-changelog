@@ -824,7 +824,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-13 commits.
+16 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the SPM guide for iOS and macOS<br />
   <sub>[#13459](https://github.com/flutter/website/pull/13459) merged on June 8, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/website/pull/13459) over 4 days, 242 additions and 360 deletions in 20 files</sub><br />
@@ -836,6 +836,14 @@
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Reorganize AI documentation for Antigravity<br />
   <sub>[#13470](https://github.com/flutter/website/pull/13470) merged on June 8, 2026 &mdash; **Medium:** [38 comments](https://github.com/flutter/website/pull/13470) over 2 days, 115 additions and 280 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update banner to use structured data rather than raw HTML<br />
+  <sub>[#13487](https://github.com/flutter/website/pull/13487) merged on June 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13487) over 6 hours, 135 additions and 24 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update and clarify command package suggestion<br />
+  <sub>[#13489](https://github.com/flutter/website/pull/13489) merged on June 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13489) over 4 hours, 6 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve search page styling with dark mode enabled<br />
@@ -853,6 +861,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update banner content to promote the 26Q2 survey<br />
   <sub>[#13453](https://github.com/flutter/website/pull/13453) merged on June 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13453) over 1 week, 2 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; chore: update home screen architectural diagram image<br />
+  <sub>[#13481](https://github.com/flutter/website/pull/13481) merged on June 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13481) over 1 day, 0 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs(ai): apply formatting and styling review fixes for Antigravity<br />
   <sub>[#13480](https://github.com/flutter/website/pull/13480) merged on June 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13480) over 1 hour, 70 additions and 20 deletions in 2 files</sub><br />

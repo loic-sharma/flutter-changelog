@@ -308,12 +308,6 @@
 * **[Himanshu Anand](https://github.com/unknownhad)** &mdash; Fix integer overflow in APNG parser and add bounds checks to StandardCodecSerializer<br />
   <sub>[#187701](https://github.com/flutter/flutter/pull/187701) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187701) 143 additions and 1 deletion in 6 files</sub><br />
 
-* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [MenuAnchor] fix: MenuAnchor submenu topStart alignment overlapping parent menu<br />
-  <sub>[#187719](https://github.com/flutter/flutter/pull/187719) opened on on June 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187719) 153 additions and 4 deletions in 2 files</sub><br />
-
-* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; fix: Submenu vertical flip misalignment with anchor item<br />
-  <sub>[#187720](https://github.com/flutter/flutter/pull/187720) opened on on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187720) 93 additions and 7 deletions in 2 files</sub><br />
-
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix selection handles triggering Android system back gesture near screen edges<br />
   <sub>[#187723](https://github.com/flutter/flutter/pull/187723) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187723) 109 additions and 0 deletions in 2 files</sub><br />
 
@@ -329,15 +323,12 @@
 * **[Hari07](https://github.com/Hari-07)** &mdash; Add validation for required fields during xcodebuild<br />
   <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187772) 160 additions and 2 deletions in 5 files</sub><br />
 
-* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; [material] Fix DropdownMenuFormField leadingIcon not rendered (regression since 3.38)<br />
-  <sub>[#187776](https://github.com/flutter/flutter/pull/187776) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187776) 79 additions and 0 deletions in 3 files</sub><br />
-
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove dynamic module loading code in flutter web engine<br />
   <sub>[#187777](https://github.com/flutter/flutter/pull/187777) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187777) 1 addition and 11 deletions in 1 file</sub><br />
 
 * **[Tobias Marschall](https://github.com/saibotma)** &mdash; Fix Android IME visibility after app resume<br />
   <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
 
-* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; fix: SearchAnchor.bar respects SearchBarThemeData.padding<br />
-  <sub>[#187779](https://github.com/flutter/flutter/pull/187779) opened on on June 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187779) 66 additions and 2 deletions in 2 files</sub><br />
+* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Repaint NavigationIndicator's host Material when its animation ticks<br />
+  <sub>[#187802](https://github.com/flutter/flutter/pull/187802) opened on on June 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187802) 61 additions and 0 deletions in 2 files</sub><br />
 
