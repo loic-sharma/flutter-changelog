@@ -335,3 +335,12 @@
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; [material] Fix DropdownMenuFormField leadingIcon not rendered (regression since 3.38)<br />
   <sub>[#187776](https://github.com/flutter/flutter/pull/187776) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187776) 79 additions and 0 deletions in 3 files</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove dynamic module loading code in flutter web engine<br />
+  <sub>[#187777](https://github.com/flutter/flutter/pull/187777) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187777) 1 addition and 11 deletions in 1 file</sub><br />
+
+* **[Tobias Marschall](https://github.com/saibotma)** &mdash; Fix Android IME visibility after app resume<br />
+  <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
+
+* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; fix: SearchAnchor.bar respects SearchBarThemeData.padding<br />
+  <sub>[#187779](https://github.com/flutter/flutter/pull/187779) opened on on June 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187779) 66 additions and 2 deletions in 2 files</sub><br />
+
