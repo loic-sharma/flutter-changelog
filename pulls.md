@@ -315,7 +315,7 @@
   <sub>[#187719](https://github.com/flutter/flutter/pull/187719) opened on on June 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187719) 153 additions and 4 deletions in 2 files</sub><br />
 
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; fix: Submenu vertical flip misalignment with anchor item<br />
-  <sub>[#187720](https://github.com/flutter/flutter/pull/187720) opened on on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187720) 86 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#187720](https://github.com/flutter/flutter/pull/187720) opened on on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187720) 93 additions and 7 deletions in 2 files</sub><br />
 
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix selection handles triggering Android system back gesture near screen edges<br />
   <sub>[#187723](https://github.com/flutter/flutter/pull/187723) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187723) 109 additions and 0 deletions in 2 files</sub><br />
