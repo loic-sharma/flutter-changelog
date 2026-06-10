@@ -245,9 +245,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Make shape border lerp symmetric<br />
-  <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/187282) 177 additions and 16 deletions in 2 files</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
   <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [46 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
 
@@ -297,7 +294,7 @@
   <sub>[#187646](https://github.com/flutter/flutter/pull/187646) opened on on June 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187646) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Raees Nawaj Shaikh](https://github.com/RaeesShaikh4)** &mdash; issue fixed -> TabController animateTo() unexpected behaivour<br />
-  <sub>[#187657](https://github.com/flutter/flutter/pull/187657) opened on on June 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187657) 81 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#187657](https://github.com/flutter/flutter/pull/187657) opened on on June 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187657) 81 additions and 3 deletions in 3 files</sub><br />
 
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Enforce that package-declared asset paths stay within the package<br />
   <sub>[#187661](https://github.com/flutter/flutter/pull/187661) opened on on June 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187661) 57 additions and 3 deletions in 2 files</sub><br />
