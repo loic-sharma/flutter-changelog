@@ -246,7 +246,7 @@
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Make shape border lerp symmetric<br />
-  <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187282) 177 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#187282](https://github.com/flutter/flutter/pull/187282) opened on on May 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/187282) 177 additions and 16 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
   <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [46 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
@@ -328,4 +328,7 @@
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; [flutter_tools] fix: don't rebuild unit_test_assets when nothing changed<br />
   <sub>[#187751](https://github.com/flutter/flutter/pull/187751) opened on on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187751) 73 additions and 3 deletions in 3 files</sub><br />
+
+* **[Hari07](https://github.com/Hari-07)** &mdash; Add validation for required fields during xcodebuild<br />
+  <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187772) 140 additions and 0 deletions in 2 files</sub><br />
 
