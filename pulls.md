@@ -330,5 +330,8 @@
   <sub>[#187751](https://github.com/flutter/flutter/pull/187751) opened on on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187751) 73 additions and 3 deletions in 3 files</sub><br />
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Add validation for required fields during xcodebuild<br />
-  <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187772) 140 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187772) 150 additions and 1 deletion in 3 files</sub><br />
+
+* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; [material] Fix DropdownMenuFormField leadingIcon not rendered (regression since 3.38)<br />
+  <sub>[#187776](https://github.com/flutter/flutter/pull/187776) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187776) 79 additions and 0 deletions in 3 files</sub><br />
 
