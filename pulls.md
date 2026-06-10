@@ -188,9 +188,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove material imports from rendering tests<br />
   <sub>[#186938](https://github.com/flutter/flutter/pull/186938) opened on on May 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186938) 38 additions and 20 deletions in 3 files</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from view chrome style test<br />
-  <sub>[#186994](https://github.com/flutter/flutter/pull/186994) opened on on May 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186994) 64 additions and 63 deletions in 2 files</sub><br />
-
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Split system font tests by library ownership<br />
   <sub>[#187003](https://github.com/flutter/flutter/pull/187003) opened on on May 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187003) 243 additions and 215 deletions in 4 files</sub><br />
 

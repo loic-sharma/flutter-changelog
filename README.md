@@ -4,7 +4,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-15 commits.
+16 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow attaching specific texture mip levels and slices for rendering<br />
   <sub>[#187685](https://github.com/flutter/flutter/pull/187685) merged on June 9, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/187685) over 23 hours, 293 additions and 25 deletions in 16 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add bare, reidbaker, and android agents<br />
   <sub>[#187588](https://github.com/flutter/flutter/pull/187588) merged on June 8, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187588) over 3 days, 715 additions and 2 deletions in 21 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from view chrome style test<br />
+  <sub>[#186994](https://github.com/flutter/flutter/pull/186994) merged on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186994) over 2 weeks, 64 additions and 63 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Remove unused DeviceHolderVK reference from CommandBufferVK<br />
   <sub>[#187705](https://github.com/flutter/flutter/pull/187705) merged on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187705) over 21 hours, 0 additions and 6 deletions in 3 files</sub><br />
