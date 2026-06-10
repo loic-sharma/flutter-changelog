@@ -676,7 +676,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-7 commits.
+8 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] updates toString and isNullish methods
   <sub>[#11625](https://github.com/flutter/packages/pull/11625) merged on June 10, 2026 &mdash; **Extra large:** [42 comments](https://github.com/flutter/packages/pull/11625) over 1 month, 6316 additions and 1060 deletions in 86 files</sub>
@@ -705,6 +705,10 @@
 * **[Hari07](https://github.com/Hari-07)** &mdash; [google_maps_flutter_ios_sdk9] Fix title in google maps sdk9 readme
   <sub>[#11826](https://github.com/flutter/packages/pull/11826) merged on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11826) over 6 days, 6 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Allow mustache_template deps
+  <sub>[#11882](https://github.com/flutter/packages/pull/11882) merged on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11882) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 ### May 30, 2026 to June 5, 2026
 
