@@ -365,3 +365,12 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] Allow selecting multi-digit device options<br />
   <sub>[#187868](https://github.com/flutter/flutter/pull/187868) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187868) 113 additions and 0 deletions in 5 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds gamma correction to windows text.<br />
+  <sub>[#187871](https://github.com/flutter/flutter/pull/187871) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187871) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [CP beta] Reland "Move dart-lang/ai to a top level third party dependency in en…<br />
+  <sub>[#187872](https://github.com/flutter/flutter/pull/187872) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187872) 39 additions and 7 deletions in 3 files</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): Unify Image on Skwasm and CanvasKit<br />
+  <sub>[#187873](https://github.com/flutter/flutter/pull/187873) opened on on June 11, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/187873) 1166 additions and 724 deletions in 26 files</sub><br />
+
