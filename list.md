@@ -4,7 +4,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-18 commits.
+19 commits.
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve docs on MediaQuery: highContrast, invertColors and disableAnimations
   <sub>[#186614](https://github.com/flutter/flutter/pull/186614) merged on June 10, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186614) over 3 weeks, 51 additions and 5 deletions in 1 file</sub>
@@ -53,6 +53,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add docs on bumping Dart
   <sub>[#187540](https://github.com/flutter/flutter/pull/187540) merged on June 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187540) over 4 days, 92 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Tanya Bouman](https://github.com/tanyabouman)** &mdash; Api docs: typo fix in Navigator
+  <sub>[#187572](https://github.com/flutter/flutter/pull/187572) merged on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187572) over 6 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add android-agent agent.json and update reidbaker-agent skills
   <sub>[#187746](https://github.com/flutter/flutter/pull/187746) merged on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187746) over 29 minutes, 17 additions and 10 deletions in 2 files</sub>
