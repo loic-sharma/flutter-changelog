@@ -296,9 +296,6 @@
 * **[Himanshu Anand](https://github.com/unknownhad)** &mdash; Fix integer overflow in APNG parser and add bounds checks to StandardCodecSerializer<br />
   <sub>[#187701](https://github.com/flutter/flutter/pull/187701) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187701) 143 additions and 1 deletion in 6 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow sampling textures with manually-uploaded mip levels<br />
-  <sub>[#187729](https://github.com/flutter/flutter/pull/187729) opened on on June 9, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/187729) 326 additions and 18 deletions in 14 files</sub><br />
-
 * **[DEV RAJA](https://github.com/bundeladevraja123-raja)** &mdash; Fix typo in TESTOWNERS comment<br />
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -359,9 +356,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [CP beta] Reland "Move dart-lang/ai to a top level third party dependency in en…<br />
   <sub>[#187872](https://github.com/flutter/flutter/pull/187872) opened on on June 11, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/187872) 186 additions and 254 deletions in 30 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): Unify Image on Skwasm and CanvasKit<br />
-  <sub>[#187873](https://github.com/flutter/flutter/pull/187873) opened on on June 11, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/187873) 1044 additions and 738 deletions in 26 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Adding 30-second timeouts to adb stopApp and uninstallApp<br />
   <sub>[#187876](https://github.com/flutter/flutter/pull/187876) opened on on June 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187876) 139 additions and 5 deletions in 2 files</sub><br />
 
@@ -377,9 +371,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Remove listener from isScrollingNotifier on dispose.<br />
   <sub>[#187881](https://github.com/flutter/flutter/pull/187881) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187881) 74 additions and 0 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds external texture devicelab test for windows impeller<br />
-  <sub>[#187886](https://github.com/flutter/flutter/pull/187886) opened on on June 11, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/187886) 1322 additions and 0 deletions in 18 files</sub><br />
-
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Avoid unnecessary work in `BoxDecoration` and `RenderPhysicalModel`<br />
-  <sub>[#187891](https://github.com/flutter/flutter/pull/187891) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187891) 32 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#187891](https://github.com/flutter/flutter/pull/187891) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187891) 33 additions and 3 deletions in 4 files</sub><br />
 

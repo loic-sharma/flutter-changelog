@@ -4,7 +4,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-28 commits.
+31 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Sized to content for regular and dialog windows on win32<br />
   <sub>[#186829](https://github.com/flutter/flutter/pull/186829) merged on June 11, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/186829) over 3 weeks, 819 additions and 186 deletions in 20 files</sub><br />
@@ -18,6 +18,14 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve docs on MediaQuery: highContrast, invertColors and disableAnimations<br />
   <sub>[#186614](https://github.com/flutter/flutter/pull/186614) merged on June 10, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186614) over 3 weeks, 51 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Rewrite `-d web-server` hot reload/restart tests<br />
+  <sub>[#187453](https://github.com/flutter/flutter/pull/187453) merged on June 11, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/187453) over 1 week, 401 additions and 429 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow sampling textures with manually-uploaded mip levels<br />
+  <sub>[#187729](https://github.com/flutter/flutter/pull/187729) merged on June 11, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/187729) over 2 days, 326 additions and 18 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Reland "Add support for stylus buttons"<br />
   <sub>[#187629](https://github.com/flutter/flutter/pull/187629) merged on June 10, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/187629) over 4 days, 577 additions and 81 deletions in 13 files</sub><br />
@@ -86,6 +94,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add docs on bumping Dart<br />
   <sub>[#187540](https://github.com/flutter/flutter/pull/187540) merged on June 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187540) over 4 days, 92 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
+  <sub>[#187884](https://github.com/flutter/flutter/pull/187884) merged on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187884) over 41 minutes, 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add core-packages to ecosystem triage<br />
   <sub>[#187796](https://github.com/flutter/flutter/pull/187796) merged on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187796) over 18 hours, 2 additions and 1 deletion in 1 file</sub><br />
