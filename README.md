@@ -836,7 +836,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-17 commits.
+18 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the SPM guide for iOS and macOS<br />
   <sub>[#13459](https://github.com/flutter/website/pull/13459) merged on June 8, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/website/pull/13459) over 4 days, 242 additions and 360 deletions in 20 files</sub><br />
@@ -877,6 +877,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update banner content to promote the 26Q2 survey<br />
   <sub>[#13453](https://github.com/flutter/website/pull/13453) merged on June 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13453) over 1 week, 2 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; Added 3 new consultants<br />
+  <sub>[#13492](https://github.com/flutter/website/pull/13492) merged on June 11, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13492) over 5 hours, 32 additions and 0 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub><br />
 
 * **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; chore: update home screen architectural diagram image<br />
   <sub>[#13481](https://github.com/flutter/website/pull/13481) merged on June 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13481) over 1 day, 0 additions and 0 deletions in 1 file</sub><br />
