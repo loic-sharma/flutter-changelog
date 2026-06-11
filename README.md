@@ -4,7 +4,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-16 commits.
+17 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow attaching specific texture mip levels and slices for rendering<br />
   <sub>[#187685](https://github.com/flutter/flutter/pull/187685) merged on June 9, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/187685) over 23 hours, 293 additions and 25 deletions in 16 files</sub><br />
@@ -13,6 +13,10 @@
 * **[rlueders](https://github.com/rlueders)** &mdash; [Impeller] Retry uncompressed when fixed-rate compression is exhausted<br />
   <sub>[#187586](https://github.com/flutter/flutter/pull/187586) merged on June 9, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/187586) over 4 days, 179 additions and 25 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Test to verify AnnounceSemanticsEvent deprecation warning on API 36<br />
+  <sub>[#187754](https://github.com/flutter/flutter/pull/187754) merged on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187754) over 22 hours, 35 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from implicit animation tests<br />
   <sub>[#186673](https://github.com/flutter/flutter/pull/186673) merged on June 9, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186673) over 3 weeks, 130 additions and 62 deletions in 3 files</sub><br />
