@@ -36,7 +36,7 @@
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]skip non-tappable web view workaround on ios 26.4<br />
-  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
 
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; Remove test utils cross-import from elevated_button_test<br />
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
@@ -90,7 +90,7 @@
   <sub>[#186239](https://github.com/flutter/flutter/pull/186239) opened on on May 8, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186239) 328 additions and 92 deletions in 9 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent downgrading `project.pbxproj` when greater version number<br />
-  <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186250) 159 additions and 20 deletions in 2 files</sub><br />
+  <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186250) 159 additions and 20 deletions in 2 files</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
@@ -240,7 +240,7 @@
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
-  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [46 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
+  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
@@ -276,7 +276,7 @@
   <sub>[#187635](https://github.com/flutter/flutter/pull/187635) opened on on June 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187635) 50 additions and 8 deletions in 1 file</sub><br />
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Start iOS Simulator log reader before launch<br />
-  <sub>[#187643](https://github.com/flutter/flutter/pull/187643) opened on on June 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187643) 91 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#187643](https://github.com/flutter/flutter/pull/187643) opened on on June 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187643) 91 additions and 2 deletions in 2 files</sub><br />
 
 * **[Raees Nawaj Shaikh](https://github.com/RaeesShaikh4)** &mdash; fixed issue -> Synchronize keyboard and bottom sheet opening animations<br />
   <sub>[#187646](https://github.com/flutter/flutter/pull/187646) opened on on June 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187646) 18 additions and 0 deletions in 1 file</sub><br />
@@ -321,7 +321,7 @@
   <sub>[#187810](https://github.com/flutter/flutter/pull/187810) opened on on June 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187810) 124 additions and 2 deletions in 24 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Exclude fuchsia-sdk/sdk/.build-id from the builder cache archive<br />
-  <sub>[#187826](https://github.com/flutter/flutter/pull/187826) opened on on June 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187826) 9 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#187826](https://github.com/flutter/flutter/pull/187826) opened on on June 11, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187826) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix TabBarView ignoring explicit duration passed to animateTo<br />
   <sub>[#187849](https://github.com/flutter/flutter/pull/187849) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187849) 78 additions and 5 deletions in 3 files</sub><br />
@@ -360,7 +360,7 @@
   <sub>[#187872](https://github.com/flutter/flutter/pull/187872) opened on on June 11, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/187872) 186 additions and 254 deletions in 30 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): Unify Image on Skwasm and CanvasKit<br />
-  <sub>[#187873](https://github.com/flutter/flutter/pull/187873) opened on on June 11, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/187873) 1097 additions and 737 deletions in 26 files</sub><br />
+  <sub>[#187873](https://github.com/flutter/flutter/pull/187873) opened on on June 11, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/187873) 1044 additions and 738 deletions in 26 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Adding 30-second timeouts to adb stopApp and uninstallApp<br />
   <sub>[#187876](https://github.com/flutter/flutter/pull/187876) opened on on June 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187876) 139 additions and 5 deletions in 2 files</sub><br />
@@ -378,8 +378,8 @@
   <sub>[#187881](https://github.com/flutter/flutter/pull/187881) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187881) 74 additions and 0 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds external texture devicelab test for windows impeller<br />
-  <sub>[#187886](https://github.com/flutter/flutter/pull/187886) opened on on June 11, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/187886) 1290 additions and 0 deletions in 18 files</sub><br />
+  <sub>[#187886](https://github.com/flutter/flutter/pull/187886) opened on on June 11, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/187886) 1322 additions and 0 deletions in 18 files</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: linux_analyze in a workflow<br />
-  <sub>[#187889](https://github.com/flutter/flutter/pull/187889) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187889) 87 additions and 0 deletions in 1 file</sub><br />
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Avoid unnecessary work in `BoxDecoration` and `RenderPhysicalModel`<br />
+  <sub>[#187891](https://github.com/flutter/flutter/pull/187891) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187891) 32 additions and 3 deletions in 4 files</sub><br />
 
