@@ -4,11 +4,15 @@
 
 ### June 6, 2026 to June 12, 2026
 
-19 commits.
+20 commits.
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve docs on MediaQuery: highContrast, invertColors and disableAnimations<br />
   <sub>[#186614](https://github.com/flutter/flutter/pull/186614) merged on June 10, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186614) over 3 weeks, 51 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Reland "Add support for stylus buttons"<br />
+  <sub>[#187629](https://github.com/flutter/flutter/pull/187629) merged on June 10, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/187629) over 4 days, 577 additions and 81 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow attaching specific texture mip levels and slices for rendering<br />
   <sub>[#187685](https://github.com/flutter/flutter/pull/187685) merged on June 9, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/187685) over 23 hours, 293 additions and 25 deletions in 16 files</sub><br />
