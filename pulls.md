@@ -338,3 +338,9 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Exclude fuchsia-sdk/sdk/.build-id from the builder cache archive<br />
   <sub>[#187826](https://github.com/flutter/flutter/pull/187826) opened on on June 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187826) 9 additions and 0 deletions in 1 file</sub><br />
 
+* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix TabBarView ignoring explicit duration passed to animateTo<br />
+  <sub>[#187849](https://github.com/flutter/flutter/pull/187849) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187849) 78 additions and 5 deletions in 3 files</sub><br />
+
+* **[Luca Tagliabue](https://github.com/lukluca)** &mdash; Use null-aware elements in dev/devicelab/lib/integration_tests.dart<br />
+  <sub>[#187851](https://github.com/flutter/flutter/pull/187851) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187851) 3 additions and 3 deletions in 1 file</sub><br />
+
