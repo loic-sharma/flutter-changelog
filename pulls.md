@@ -72,7 +72,7 @@
   <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186075) 95 additions and 2 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [integration_test] Update README to support modern Kotlin-based setups by default<br />
-  <sub>[#186080](https://github.com/flutter/flutter/pull/186080) opened on on May 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186080) 24 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#186080](https://github.com/flutter/flutter/pull/186080) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186080) 24 additions and 3 deletions in 1 file</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: Harden CI scripts and driver against command injection<br />
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
@@ -225,7 +225,7 @@
   <sub>[#187196](https://github.com/flutter/flutter/pull/187196) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187196) 144 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fail gracefully on Android AVD lock errors during startup<br />
-  <sub>[#187200](https://github.com/flutter/flutter/pull/187200) opened on on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187200) 176 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#187200](https://github.com/flutter/flutter/pull/187200) opened on on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187200) 176 additions and 16 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Listen to log reader before VM Service and make delay configurable<br />
   <sub>[#187202](https://github.com/flutter/flutter/pull/187202) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187202) 144 additions and 30 deletions in 5 files</sub><br />
@@ -366,10 +366,10 @@
   <sub>[#187871](https://github.com/flutter/flutter/pull/187871) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187871) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [CP beta] Reland "Move dart-lang/ai to a top level third party dependency in en…<br />
-  <sub>[#187872](https://github.com/flutter/flutter/pull/187872) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187872) 39 additions and 7 deletions in 3 files</sub><br />
+  <sub>[#187872](https://github.com/flutter/flutter/pull/187872) opened on on June 11, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/187872) 167 additions and 220 deletions in 25 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): Unify Image on Skwasm and CanvasKit<br />
-  <sub>[#187873](https://github.com/flutter/flutter/pull/187873) opened on on June 11, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/187873) 1125 additions and 734 deletions in 26 files</sub><br />
+  <sub>[#187873](https://github.com/flutter/flutter/pull/187873) opened on on June 11, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/187873) 1135 additions and 737 deletions in 26 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Adding 30-second timeouts to adb stopApp and uninstallApp<br />
   <sub>[#187876](https://github.com/flutter/flutter/pull/187876) opened on on June 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187876) 139 additions and 5 deletions in 2 files</sub><br />
@@ -381,8 +381,11 @@
   <sub>[#187878](https://github.com/flutter/flutter/pull/187878) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187878) 54 additions and 0 deletions in 4 files</sub><br />
 
 * **[Anthony Hurtado](https://github.com/jortles)** &mdash; Add recursion depth limit to StandardCodecSerializer::ReadValue<br />
-  <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Remove listener from isScrollingNotifier on dispose.<br />
   <sub>[#187881](https://github.com/flutter/flutter/pull/187881) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187881) 74 additions and 0 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
+  <sub>[#187884](https://github.com/flutter/flutter/pull/187884) opened on on June 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187884) 6 additions and 0 deletions in 1 file</sub><br />
 
