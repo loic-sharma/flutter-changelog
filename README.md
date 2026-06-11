@@ -4,11 +4,16 @@
 
 ### June 6, 2026 to June 12, 2026
 
-26 commits.
+27 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Sized to content for regular and dialog windows on win32<br />
   <sub>[#186829](https://github.com/flutter/flutter/pull/186829) merged on June 11, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/186829) over 3 weeks, 819 additions and 186 deletions in 20 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Make shape border lerp symmetric<br />
+  <sub>[#187282](https://github.com/flutter/flutter/pull/187282) merged on June 11, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/187282) over 1 week, 130 additions and 16 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Hari07](https://github.com/Hari-07)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="1536" height="1024" alt="ChatGPT Image May 29, 2026, 01_48_49 AM" src="https://github.com/user-attachments/assets/1a48077b-6687-47de-820a-3171b8bde84b" /><img width="1568" height="656" alt="image" src="https://github.com/user-attachments/assets/83c0b20f-25c8-49af-b1e7-c57ac5ab4ec4" /></details></sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve docs on MediaQuery: highContrast, invertColors and disableAnimations<br />
   <sub>[#186614](https://github.com/flutter/flutter/pull/186614) merged on June 10, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186614) over 3 weeks, 51 additions and 5 deletions in 1 file</sub><br />
@@ -520,7 +525,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[Alex Medinsh](https://github.com/alex-medinsh)** &mdash; Print trace when skipping flavor-specific and platform-specific assets<br />
-  <sub>[#187045](https://github.com/flutter/flutter/pull/187045) merged on May 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187045) over 1 day, 25 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#187045](https://github.com/flutter/flutter/pull/187045) merged on May 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/187045) over 1 day, 25 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Reset system UI visibility flags when setting edge-to-edge mode<br />

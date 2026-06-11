@@ -341,3 +341,27 @@
 * **[Luca Tagliabue](https://github.com/lukluca)** &mdash; Use null-aware elements in dev/devicelab/lib/integration_tests.dart<br />
   <sub>[#187852](https://github.com/flutter/flutter/pull/187852) opened on on June 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187852) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Print trace when skipping flavor-specific and platform-specific assets<br />
+  <sub>[#187857](https://github.com/flutter/flutter/pull/187857) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187857) 25 additions and 4 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] Print trace when skipping flavor-specific and platform-specific assets<br />
+  <sub>[#187859](https://github.com/flutter/flutter/pull/187859) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187859) 25 additions and 4 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove use of deprecated copy_trees.<br />
+  <sub>[#187862](https://github.com/flutter/flutter/pull/187862) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187862) 19 additions and 34 deletions in 5 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove use of deprecated API related to removal of the VM isolate.<br />
+  <sub>[#187863](https://github.com/flutter/flutter/pull/187863) opened on on June 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187863) 119 additions and 198 deletions in 21 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
+  <sub>[#187864](https://github.com/flutter/flutter/pull/187864) opened on on June 11, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187864) 1250 additions and 127 deletions in 6 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
+  <sub>[#187866](https://github.com/flutter/flutter/pull/187866) opened on on June 11, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/187866) 1250 additions and 127 deletions in 6 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Allow selecting multi-digit device options<br />
+  <sub>[#187867](https://github.com/flutter/flutter/pull/187867) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187867) 113 additions and 0 deletions in 5 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] Allow selecting multi-digit device options<br />
+  <sub>[#187868](https://github.com/flutter/flutter/pull/187868) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187868) 113 additions and 0 deletions in 5 files</sub><br />
+
