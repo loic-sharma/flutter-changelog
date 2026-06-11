@@ -4,7 +4,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-21 commits.
+23 commits.
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve docs on MediaQuery: highContrast, invertColors and disableAnimations
   <sub>[#186614](https://github.com/flutter/flutter/pull/186614) merged on June 10, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186614) over 3 weeks, 51 additions and 5 deletions in 1 file</sub>
@@ -17,6 +17,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow attaching specific texture mip levels and slices for rendering
   <sub>[#187685](https://github.com/flutter/flutter/pull/187685) merged on June 9, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/187685) over 23 hours, 293 additions and 25 deletions in 16 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Document moveStep direction on WidgetController.dragUntilVisible
+  <sub>[#186943](https://github.com/flutter/flutter/pull/186943) merged on June 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186943) over 2 weeks, 7 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
 * **[rlueders](https://github.com/rlueders)** &mdash; [Impeller] Retry uncompressed when fixed-rate compression is exhausted
   <sub>[#187586](https://github.com/flutter/flutter/pull/187586) merged on June 9, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/187586) over 4 days, 179 additions and 25 deletions in 4 files</sub>
@@ -37,6 +41,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add bare, reidbaker, and android agents
   <sub>[#187588](https://github.com/flutter/flutter/pull/187588) merged on June 8, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187588) over 3 days, 715 additions and 2 deletions in 21 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 11
+  <sub>[#186822](https://github.com/flutter/flutter/pull/186822) merged on June 11, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186822) over 3 weeks, 204 additions and 71 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Remove Material import from view chrome style test
   <sub>[#186994](https://github.com/flutter/flutter/pull/186994) merged on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186994) over 2 weeks, 64 additions and 63 deletions in 2 files</sub>
