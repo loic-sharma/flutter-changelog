@@ -59,6 +59,10 @@
   <sub>[#186844](https://github.com/flutter/flutter/pull/186844) merged on June 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186844) over 3 weeks, 30 additions and 15 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level
+  <sub>[#186916](https://github.com/flutter/flutter/pull/186916) merged on June 11, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186916) over 2 weeks, 14 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
 * **[Shivam Gupta](https://github.com/ishivamg)** &mdash; Fix ShapeDecoration.lerp crash when interpolating between gradient and color
   <sub>[#187368](https://github.com/flutter/flutter/pull/187368) merged on June 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187368) over 1 week, 196 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
@@ -78,10 +82,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix version cache git fallback performance regression
   <sub>[#187400](https://github.com/flutter/flutter/pull/187400) merged on June 11, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/187400) over 1 week, 151 additions and 23 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; iOS a11y sets header trait based on heading level
-  <sub>[#186916](https://github.com/flutter/flutter/pull/186916) merged on June 11, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186916) over 2 weeks, 14 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 11
   <sub>[#186822](https://github.com/flutter/flutter/pull/186822) merged on June 11, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186822) over 3 weeks, 204 additions and 71 deletions in 6 files</sub>
