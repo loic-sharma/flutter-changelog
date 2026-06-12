@@ -311,6 +311,9 @@
 * **[Tobias Marschall](https://github.com/saibotma)** &mdash; Fix Android IME visibility after app resume<br />
   <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Migrate swift xctests to Swift testing tests<br />
+  <sub>[#187801](https://github.com/flutter/flutter/pull/187801) opened on on June 10, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187801) 124 additions and 130 deletions in 4 files</sub><br />
+
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Repaint NavigationIndicator's host Material when its animation ticks<br />
   <sub>[#187802](https://github.com/flutter/flutter/pull/187802) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187802) 61 additions and 0 deletions in 2 files</sub><br />
 
@@ -371,6 +374,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Remove listener from isScrollingNotifier on dispose.<br />
   <sub>[#187881](https://github.com/flutter/flutter/pull/187881) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187881) 74 additions and 0 deletions in 2 files</sub><br />
 
-* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Avoid unnecessary work in `BoxDecoration` and `RenderPhysicalModel`<br />
-  <sub>[#187891](https://github.com/flutter/flutter/pull/187891) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187891) 33 additions and 3 deletions in 4 files</sub><br />
+* **[MarkZ](https://github.com/Markzipan)** &mdash; [flutter_tools] Fix hot restart for WASM web builds<br />
+  <sub>[#187898](https://github.com/flutter/flutter/pull/187898) opened on on June 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187898) 2 additions and 2 deletions in 2 files</sub><br />
 
