@@ -287,9 +287,6 @@
 * **[Hari07](https://github.com/Hari-07)** &mdash; Add validation for required fields during xcodebuild<br />
   <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187772) 160 additions and 2 deletions in 5 files</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove dynamic module loading code in flutter web engine<br />
-  <sub>[#187777](https://github.com/flutter/flutter/pull/187777) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187777) 1 addition and 11 deletions in 1 file</sub><br />
-
 * **[Tobias Marschall](https://github.com/saibotma)** &mdash; Fix Android IME visibility after app resume<br />
   <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
 
