@@ -4,7 +4,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-32 commits.
+34 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Sized to content for regular and dialog windows on win32<br />
   <sub>[#186829](https://github.com/flutter/flutter/pull/186829) merged on June 11, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/186829) over 3 weeks, 819 additions and 186 deletions in 20 files</sub><br />
@@ -18,6 +18,14 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve docs on MediaQuery: highContrast, invertColors and disableAnimations<br />
   <sub>[#186614](https://github.com/flutter/flutter/pull/186614) merged on June 10, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186614) over 3 weeks, 51 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
+  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) merged on June 11, 2026 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/187289) over 1 week, 693 additions and 22 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub><br />
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Expand coverage of android_hardware_smoke_test. Add image, text, blend mode, and blur tests.<br />
+  <sub>[#187600](https://github.com/flutter/flutter/pull/187600) merged on June 12, 2026 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/187600) over 6 days, 654 additions and 111 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; Rewrite `-d web-server` hot reload/restart tests<br />
   <sub>[#187453](https://github.com/flutter/flutter/pull/187453) merged on June 11, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/187453) over 1 week, 401 additions and 429 deletions in 16 files</sub><br />
@@ -83,9 +91,9 @@
   <sub>[#187705](https://github.com/flutter/flutter/pull/187705) merged on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187705) over 21 hours, 0 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates dia_dll.py to support vs2026<br />
-  <sub>[#187714](https://github.com/flutter/flutter/pull/187714) merged on June 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187714) over 17 hours, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add docs on bumping Dart<br />
+  <sub>[#187540](https://github.com/flutter/flutter/pull/187540) merged on June 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187540) over 4 days, 92 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage links<br />
   <sub>[#187709](https://github.com/flutter/flutter/pull/187709) merged on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187709) over 18 hours, 3 additions and 3 deletions in 1 file</sub><br />
@@ -95,9 +103,9 @@
   <sub>[#187733](https://github.com/flutter/flutter/pull/187733) merged on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187733) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add docs on bumping Dart<br />
-  <sub>[#187540](https://github.com/flutter/flutter/pull/187540) merged on June 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187540) over 4 days, 92 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates dia_dll.py to support vs2026<br />
+  <sub>[#187714](https://github.com/flutter/flutter/pull/187714) merged on June 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187714) over 17 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#187884](https://github.com/flutter/flutter/pull/187884) merged on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187884) over 41 minutes, 6 additions and 0 deletions in 1 file</sub><br />

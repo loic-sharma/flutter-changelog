@@ -239,9 +239,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations<br />
-  <sub>[#187289](https://github.com/flutter/flutter/pull/187289) opened on on May 29, 2026 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/187289) 693 additions and 22 deletions in 6 files</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
 
@@ -357,7 +354,7 @@
   <sub>[#187871](https://github.com/flutter/flutter/pull/187871) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187871) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [CP beta] Reland "Move dart-lang/ai to a top level third party dependency in en…<br />
-  <sub>[#187872](https://github.com/flutter/flutter/pull/187872) opened on on June 11, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/187872) 187 additions and 633 deletions in 31 files</sub><br />
+  <sub>[#187872](https://github.com/flutter/flutter/pull/187872) opened on on June 11, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/187872) 728 additions and 1285 deletions in 43 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Adding 30-second timeouts to adb stopApp and uninstallApp<br />
   <sub>[#187876](https://github.com/flutter/flutter/pull/187876) opened on on June 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187876) 139 additions and 5 deletions in 2 files</sub><br />
