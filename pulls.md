@@ -234,7 +234,7 @@
   <sub>[#187443](https://github.com/flutter/flutter/pull/187443) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187443) 1 addition and 5 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor Xcode usages to constructor dependency injection<br />
-  <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187469) 678 additions and 332 deletions in 56 files</sub><br />
+  <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187469) 667 additions and 293 deletions in 58 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
@@ -357,7 +357,7 @@
   <sub>[#187920](https://github.com/flutter/flutter/pull/187920) opened on on June 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187920) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; Expose the app's build name and number as compile-time constants<br />
-  <sub>[#187935](https://github.com/flutter/flutter/pull/187935) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187935) 206 additions and 1 deletion in 6 files</sub><br />
+  <sub>[#187935](https://github.com/flutter/flutter/pull/187935) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187935) 237 additions and 2 deletions in 6 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Only allow dependabot to autoupdate GitHub-owned actions<br />
   <sub>[#187936](https://github.com/flutter/flutter/pull/187936) opened on on June 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187936) 5 additions and 2 deletions in 1 file</sub><br />
@@ -375,5 +375,8 @@
   <sub>[#187947](https://github.com/flutter/flutter/pull/187947) opened on on June 12, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/187947) 315 additions and 134 deletions in 7 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Clear cached directional focus history on a non-directional focus request <br />
-  <sub>[#187957](https://github.com/flutter/flutter/pull/187957) opened on on June 12, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/187957) 328 additions and 197 deletions in 3 files</sub><br />
+  <sub>[#187957](https://github.com/flutter/flutter/pull/187957) opened on on June 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187957) 328 additions and 197 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.45-candidate.0] Sync engine.version to c03457b04e38b2612ec94298fbd9c58e0d03b680<br />
+  <sub>[#187959](https://github.com/flutter/flutter/pull/187959) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187959) 1 addition and 1 deletion in 1 file</sub><br />
 
