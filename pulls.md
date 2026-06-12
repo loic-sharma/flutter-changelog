@@ -68,9 +68,6 @@
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
   <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186075) 95 additions and 2 deletions in 2 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [integration_test] Update README to support modern Kotlin-based setups by default<br />
-  <sub>[#186080](https://github.com/flutter/flutter/pull/186080) opened on on May 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186080) 24 additions and 3 deletions in 1 file</sub><br />
-
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: Harden CI scripts and driver against command injection<br />
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
@@ -332,9 +329,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds gamma correction to windows text.<br />
   <sub>[#187871](https://github.com/flutter/flutter/pull/187871) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187871) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Switches Windows to OpenGLESSDF<br />
-  <sub>[#187877](https://github.com/flutter/flutter/pull/187877) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187877) 153 additions and 0 deletions in 5 files</sub><br />
-
 * **[Anthony Hurtado](https://github.com/jortles)** &mdash; Add FlatBuffers Verifier checks to Impeller asset loading<br />
   <sub>[#187878](https://github.com/flutter/flutter/pull/187878) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187878) 54 additions and 0 deletions in 4 files</sub><br />
 
@@ -374,9 +368,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload<br />
   <sub>[#187947](https://github.com/flutter/flutter/pull/187947) opened on on June 12, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/187947) 315 additions and 134 deletions in 7 files</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; Clear cached directional focus history on a non-directional focus request <br />
-  <sub>[#187957](https://github.com/flutter/flutter/pull/187957) opened on on June 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187957) 328 additions and 197 deletions in 3 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.45-candidate.0] Sync engine.version to c03457b04e38b2612ec94298fbd9c58e0d03b680<br />
   <sub>[#187959](https://github.com/flutter/flutter/pull/187959) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187959) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `ShapeBorder` hit test fast paths<br />
+  <sub>[#187962](https://github.com/flutter/flutter/pull/187962) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187962) 228 additions and 1 deletion in 7 files</sub><br />
 
