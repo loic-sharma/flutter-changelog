@@ -335,9 +335,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds gamma correction to windows text.<br />
   <sub>[#187871](https://github.com/flutter/flutter/pull/187871) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187871) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [CP beta] Updates DEPS + cherry-picks required changes for 3.45.0-0.2.pre release<br />
-  <sub>[#187872](https://github.com/flutter/flutter/pull/187872) opened on on June 11, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/187872) 727 additions and 1287 deletions in 44 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Adding 30-second timeouts to adb stopApp and uninstallApp<br />
   <sub>[#187876](https://github.com/flutter/flutter/pull/187876) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187876) 139 additions and 5 deletions in 2 files</sub><br />
 
@@ -367,4 +364,19 @@
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; Fix $git typo in shared.bat (Windows cache invalidation broken since 3.29)<br />
   <sub>[#187920](https://github.com/flutter/flutter/pull/187920) opened on on June 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187920) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Ortes](https://github.com/Ortes)** &mdash; Expose the app's build name and number as compile-time constants<br />
+  <sub>[#187935](https://github.com/flutter/flutter/pull/187935) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187935) 206 additions and 1 deletion in 6 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Only allow dependabot to autoupdate GitHub-owned actions<br />
+  <sub>[#187936](https://github.com/flutter/flutter/pull/187936) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187936) 4 additions and 2 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flakiness in widget_preview_detection_test<br />
+  <sub>[#187938](https://github.com/flutter/flutter/pull/187938) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187938) 59 additions and 43 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
+  <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/187940) 367 additions and 1 deletion in 9 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix widget-preview crash by waiting for analysis server<br />
+  <sub>[#187941](https://github.com/flutter/flutter/pull/187941) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187941) 52 additions and 8 deletions in 3 files</sub><br />
 
