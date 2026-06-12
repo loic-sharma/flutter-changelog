@@ -769,7 +769,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-12 commits.
+13 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] updates toString and isNullish methods
   <sub>[#11625](https://github.com/flutter/packages/pull/11625) merged on June 10, 2026 &mdash; **Extra large:** [42 comments](https://github.com/flutter/packages/pull/11625) over 1 month, 6316 additions and 1060 deletions in 86 files</sub>
@@ -818,6 +818,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Allow mustache_template deps
   <sub>[#11882](https://github.com/flutter/packages/pull/11882) merged on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11882) over 6 hours, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 924134a44c18 to c9a6c484230f (8 revisions)
+  <sub>[#11893](https://github.com/flutter/packages/pull/11893) merged on June 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11893) over 43 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### May 30, 2026 to June 5, 2026
 
