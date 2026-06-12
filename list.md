@@ -4,7 +4,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-34 commits.
+36 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Sized to content for regular and dialog windows on win32
   <sub>[#186829](https://github.com/flutter/flutter/pull/186829) merged on June 11, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/186829) over 3 weeks, 819 additions and 186 deletions in 20 files</sub>
@@ -46,6 +46,10 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Document moveStep direction on WidgetController.dragUntilVisible
   <sub>[#186943](https://github.com/flutter/flutter/pull/186943) merged on June 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186943) over 2 weeks, 7 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Custom KGP task and migration to AGP api for geting kgp version
+  <sub>[#182788](https://github.com/flutter/flutter/pull/182788) merged on June 12, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/182788) over 3 months, 179 additions and 55 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[rlueders](https://github.com/rlueders)** &mdash; [Impeller] Retry uncompressed when fixed-rate compression is exhausted
   <sub>[#187586](https://github.com/flutter/flutter/pull/187586) merged on June 9, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/187586) over 4 days, 179 additions and 25 deletions in 4 files</sub>
@@ -91,21 +95,21 @@
   <sub>[#187705](https://github.com/flutter/flutter/pull/187705) merged on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187705) over 21 hours, 0 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add docs on bumping Dart
-  <sub>[#187540](https://github.com/flutter/flutter/pull/187540) merged on June 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187540) over 4 days, 92 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates dia_dll.py to support vs2026
+  <sub>[#187714](https://github.com/flutter/flutter/pull/187714) merged on June 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187714) over 17 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage links
   <sub>[#187709](https://github.com/flutter/flutter/pull/187709) merged on June 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187709) over 18 hours, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Add docs on bumping Dart
+  <sub>[#187540](https://github.com/flutter/flutter/pull/187540) merged on June 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187540) over 4 days, 92 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Use workspace resolution for the meta package in dev/integration_tests/record_use_test_package
   <sub>[#187733](https://github.com/flutter/flutter/pull/187733) merged on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187733) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates dia_dll.py to support vs2026
-  <sub>[#187714](https://github.com/flutter/flutter/pull/187714) merged on June 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187714) over 17 hours, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable
   <sub>[#187884](https://github.com/flutter/flutter/pull/187884) merged on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187884) over 41 minutes, 6 additions and 0 deletions in 1 file</sub>
@@ -134,6 +138,10 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Rename Dart_LoadELF2 back to Dart_LoadELF.
   <sub>[#187677](https://github.com/flutter/flutter/pull/187677) merged on June 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187677) over 5 hours, 15 additions and 15 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Expose ASTC HDR texture formats
+  <sub>[#187715](https://github.com/flutter/flutter/pull/187715) merged on June 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187715) over 2 days, 52 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Document the formats.dart enums
   <sub>[#187628](https://github.com/flutter/flutter/pull/187628) merged on June 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187628) over 2 days, 279 additions and 14 deletions in 1 file</sub>
