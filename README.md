@@ -769,7 +769,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-9 commits.
+10 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] updates toString and isNullish methods<br />
   <sub>[#11625](https://github.com/flutter/packages/pull/11625) merged on June 10, 2026 &mdash; **Extra large:** [42 comments](https://github.com/flutter/packages/pull/11625) over 1 month, 6316 additions and 1060 deletions in 86 files</sub><br />
@@ -790,6 +790,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Switch to Kotlin Pigeon<br />
   <sub>[#11661](https://github.com/flutter/packages/pull/11661) merged on June 10, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/11661) over 1 month, 829 additions and 864 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[mackings](https://github.com/mackings)** &mdash; [camera] Fix web facingMode capability handling<br />
+  <sub>[#11728](https://github.com/flutter/packages/pull/11728) merged on June 12, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/11728) over 3 weeks, 66 additions and 15 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [Decoupling] Repo-wide changes<br />
   <sub>[#11874](https://github.com/flutter/packages/pull/11874) merged on June 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11874) over 1 hour, 6 additions and 0 deletions in 2 files</sub><br />
