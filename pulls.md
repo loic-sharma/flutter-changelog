@@ -366,7 +366,7 @@
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Remove listener from isScrollingNotifier on dispose.<br />
-  <sub>[#187881](https://github.com/flutter/flutter/pull/187881) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187881) 74 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187881](https://github.com/flutter/flutter/pull/187881) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187881) 74 additions and 0 deletions in 2 files</sub><br />
 
 * **[MarkZ](https://github.com/Markzipan)** &mdash; [flutter_tools] Fix hot restart for WASM web builds<br />
   <sub>[#187898](https://github.com/flutter/flutter/pull/187898) opened on on June 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187898) 2 additions and 2 deletions in 2 files</sub><br />
