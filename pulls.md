@@ -234,7 +234,7 @@
   <sub>[#187443](https://github.com/flutter/flutter/pull/187443) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187443) 1 addition and 5 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor Xcode usages to constructor dependency injection<br />
-  <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187469) 698 additions and 333 deletions in 56 files</sub><br />
+  <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187469) 678 additions and 332 deletions in 56 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
@@ -363,13 +363,10 @@
   <sub>[#187936](https://github.com/flutter/flutter/pull/187936) opened on on June 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187936) 5 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flakiness in widget_preview_detection_test<br />
-  <sub>[#187938](https://github.com/flutter/flutter/pull/187938) opened on on June 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187938) 86 additions and 44 deletions in 2 files</sub><br />
+  <sub>[#187938](https://github.com/flutter/flutter/pull/187938) opened on on June 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187938) 86 additions and 44 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/187940) 367 additions and 1 deletion in 9 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix widget-preview crash by waiting for analysis server<br />
-  <sub>[#187941](https://github.com/flutter/flutter/pull/187941) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187941) 54 additions and 14 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Watch transitive #include headers for FragmentProgram hot reload<br />
   <sub>[#187945](https://github.com/flutter/flutter/pull/187945) opened on on June 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187945) 593 additions and 287 deletions in 13 files</sub><br />
@@ -377,6 +374,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload<br />
   <sub>[#187947](https://github.com/flutter/flutter/pull/187947) opened on on June 12, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/187947) 315 additions and 134 deletions in 7 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [gen_l10n] Exclude inherited keys from untranslated-messages-file<br />
-  <sub>[#187950](https://github.com/flutter/flutter/pull/187950) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187950) 36 additions and 5 deletions in 2 files</sub><br />
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Clear cached directional focus history on a non-directional focus request <br />
+  <sub>[#187957](https://github.com/flutter/flutter/pull/187957) opened on on June 12, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/187957) 328 additions and 197 deletions in 3 files</sub><br />
 
