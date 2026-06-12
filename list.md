@@ -917,7 +917,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-18 commits.
+20 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the SPM guide for iOS and macOS
   <sub>[#13459](https://github.com/flutter/website/pull/13459) merged on June 8, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/website/pull/13459) over 4 days, 242 additions and 360 deletions in 20 files</sub>
@@ -958,6 +958,14 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update banner content to promote the 26Q2 survey
   <sub>[#13453](https://github.com/flutter/website/pull/13453) merged on June 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13453) over 1 week, 2 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; chore: update Karaca showcase case study card and logo assets
+  <sub>[#13494](https://github.com/flutter/website/pull/13494) merged on June 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13494) over 1 hour, 0 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; docs: update Genkit Dart quickstart links to overview page and simplify image component syntax
+  <sub>[#13482](https://github.com/flutter/website/pull/13482) merged on June 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13482) over 3 days, 7 additions and 14 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; Added 3 new consultants
   <sub>[#13492](https://github.com/flutter/website/pull/13492) merged on June 11, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13492) over 5 hours, 32 additions and 0 deletions in 4 files</sub>

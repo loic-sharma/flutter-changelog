@@ -371,3 +371,6 @@
 * **[MarkZ](https://github.com/Markzipan)** &mdash; [flutter_tools] Fix hot restart for WASM web builds<br />
   <sub>[#187898](https://github.com/flutter/flutter/pull/187898) opened on on June 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187898) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Yashas H Majmudar](https://github.com/yashas-hm)** &mdash; [flutter_tools] Use DeviceHub.app for iOS simulator path on Xcode 27+<br />
+  <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187910) 97 additions and 2 deletions in 2 files</sub><br />
+
