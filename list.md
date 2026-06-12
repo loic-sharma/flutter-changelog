@@ -769,7 +769,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-10 commits.
+12 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] updates toString and isNullish methods
   <sub>[#11625](https://github.com/flutter/packages/pull/11625) merged on June 10, 2026 &mdash; **Extra large:** [42 comments](https://github.com/flutter/packages/pull/11625) over 1 month, 6316 additions and 1060 deletions in 86 files</sub>
@@ -779,6 +779,10 @@
   <sub>[#11806](https://github.com/flutter/packages/pull/11806) merged on June 9, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/11806) over 1 week, 834 additions and 261 deletions in 114 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
+* **[FingerArt](https://github.com/fingerart)** &mdash; [in_app_purchase_android] Add showInAppMessages support (#107412)
+  <sub>[#11214](https://github.com/flutter/packages/pull/11214) merged on June 12, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/packages/pull/11214) over 3 months, 664 additions and 143 deletions in 17 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [Gray Mackall](https://github.com/gmackall)</sub>
+
 * **[Hannes](https://github.com/HannesGitH)** &mdash; [pigeon] make swift enum CaseIterable
   <sub>[#11702](https://github.com/flutter/packages/pull/11702) merged on June 11, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/11702) over 4 weeks, 28 additions and 10 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
@@ -786,6 +790,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Remove moved packages
   <sub>[#11850](https://github.com/flutter/packages/pull/11850) merged on June 10, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/11850) over 4 days, 0 additions and 10672 deletions in 155 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Khaled](https://github.com/khaled-0)** &mdash; [webview_flutter] Implement getCookies 
+  <sub>[#10833](https://github.com/flutter/packages/pull/10833) merged on June 12, 2026 &mdash; **Small:** [58 comments](https://github.com/flutter/packages/pull/10833) over 4 months, 91 additions and 16 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Maurice Parrish](https://github.com/bparrishMines), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Switch to Kotlin Pigeon
   <sub>[#11661](https://github.com/flutter/packages/pull/11661) merged on June 10, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/11661) over 1 month, 829 additions and 864 deletions in 10 files</sub>
