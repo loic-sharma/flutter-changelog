@@ -275,9 +275,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Share OpenGL context between playground unittests<br />
   <sub>[#187690](https://github.com/flutter/flutter/pull/187690) opened on on June 8, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/187690) 87 additions and 9 deletions in 12 files</sub><br />
 
-* **[Himanshu Anand](https://github.com/unknownhad)** &mdash; Fix integer overflow in APNG parser and add bounds checks to StandardCodecSerializer<br />
-  <sub>[#187701](https://github.com/flutter/flutter/pull/187701) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187701) 143 additions and 1 deletion in 6 files</sub><br />
-
 * **[DEV RAJA](https://github.com/bundeladevraja123-raja)** &mdash; Fix typo in TESTOWNERS comment<br />
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -335,9 +332,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds gamma correction to windows text.<br />
   <sub>[#187871](https://github.com/flutter/flutter/pull/187871) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187871) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Adding 30-second timeouts to adb stopApp and uninstallApp<br />
-  <sub>[#187876](https://github.com/flutter/flutter/pull/187876) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187876) 139 additions and 5 deletions in 2 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Switches Windows to OpenGLESSDF<br />
   <sub>[#187877](https://github.com/flutter/flutter/pull/187877) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187877) 153 additions and 0 deletions in 5 files</sub><br />
 
@@ -369,22 +363,19 @@
   <sub>[#187936](https://github.com/flutter/flutter/pull/187936) opened on on June 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187936) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flakiness in widget_preview_detection_test<br />
-  <sub>[#187938](https://github.com/flutter/flutter/pull/187938) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187938) 59 additions and 43 deletions in 2 files</sub><br />
+  <sub>[#187938](https://github.com/flutter/flutter/pull/187938) opened on on June 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187938) 59 additions and 43 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/187940) 367 additions and 1 deletion in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix widget-preview crash by waiting for analysis server<br />
-  <sub>[#187941](https://github.com/flutter/flutter/pull/187941) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187941) 52 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#187941](https://github.com/flutter/flutter/pull/187941) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187941) 54 additions and 14 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Watch transitive #include headers for FragmentProgram hot reload<br />
   <sub>[#187945](https://github.com/flutter/flutter/pull/187945) opened on on June 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187945) 593 additions and 287 deletions in 13 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload<br />
-  <sub>[#187947](https://github.com/flutter/flutter/pull/187947) opened on on June 12, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/187947) 489 additions and 141 deletions in 7 files</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the APNG decoder, validate the chunk data length before calling GetChunkSize to avoid potential overflow in the chunk size calculation<br />
-  <sub>[#187949](https://github.com/flutter/flutter/pull/187949) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187949) 73 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#187947](https://github.com/flutter/flutter/pull/187947) opened on on June 12, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/187947) 511 additions and 150 deletions in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [gen_l10n] Exclude inherited keys from untranslated-messages-file<br />
   <sub>[#187950](https://github.com/flutter/flutter/pull/187950) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187950) 36 additions and 5 deletions in 2 files</sub><br />
