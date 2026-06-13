@@ -1009,7 +1009,7 @@
 
 ### June 6, 2026 to June 12, 2026
 
-20 commits.
+21 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the SPM guide for iOS and macOS
   <sub>[#13459](https://github.com/flutter/website/pull/13459) merged on June 8, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/website/pull/13459) over 4 days, 242 additions and 360 deletions in 20 files</sub>
@@ -1026,6 +1026,10 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Reorganize AI documentation for Antigravity
   <sub>[#13470](https://github.com/flutter/website/pull/13470) merged on June 8, 2026 &mdash; **Medium:** [38 comments](https://github.com/flutter/website/pull/13470) over 2 days, 115 additions and 280 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; feat: filter calendar events to exclude past dates in events page
+  <sub>[#13495](https://github.com/flutter/website/pull/13495) merged on June 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13495) over 1 day, 19 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update banner to use structured data rather than raw HTML
   <sub>[#13487](https://github.com/flutter/website/pull/13487) merged on June 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13487) over 6 hours, 135 additions and 24 deletions in 5 files</sub>
