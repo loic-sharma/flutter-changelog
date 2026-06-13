@@ -371,3 +371,6 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `ShapeBorder` hit test fast paths<br />
   <sub>[#187962](https://github.com/flutter/flutter/pull/187962) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187962) 224 additions and 1 deletion in 7 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Update the list of binaries in the code signing verification test to include new Dart snapshots<br />
+  <sub>[#187969](https://github.com/flutter/flutter/pull/187969) opened on on June 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187969) 18 additions and 1 deletion in 1 file</sub><br />
+
