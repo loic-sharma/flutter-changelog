@@ -317,7 +317,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ivan Ugryumov](https://github.com/Servall4)** &mdash; [Impeller][Windows] fix black screen on OpenGL fallback<br />
-  <sub>[#187288](https://github.com/flutter/flutter/pull/187288) merged on June 4, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/187288) over 5 days, 127 additions and 24 deletions in 3 files</sub><br />
+  <sub>[#187288](https://github.com/flutter/flutter/pull/187288) merged on June 4, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/187288) over 5 days, 127 additions and 24 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `embedded_android_views_integration_test.dart`<br />
