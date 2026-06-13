@@ -835,6 +835,10 @@
 
 14 commits.
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Decoupling recopy<br />
+  <sub>[#11888](https://github.com/flutter/packages/pull/11888) merged on June 12, 2026 &mdash; **Extra large:** [85 comments](https://github.com/flutter/packages/pull/11888) over 1 day, 676832 additions and 13 deletions in 1187 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] updates toString and isNullish methods<br />
   <sub>[#11625](https://github.com/flutter/packages/pull/11625) merged on June 10, 2026 &mdash; **Extra large:** [42 comments](https://github.com/flutter/packages/pull/11625) over 1 month, 6316 additions and 1060 deletions in 86 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
@@ -842,10 +846,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Migrate Remaining Plugin Example Apps to Built-in Kotlin<br />
   <sub>[#11806](https://github.com/flutter/packages/pull/11806) merged on June 9, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/11806) over 1 week, 834 additions and 261 deletions in 114 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Decoupling recopy<br />
-  <sub>[#11888](https://github.com/flutter/packages/pull/11888) merged on June 12, 2026 &mdash; **Extra large:** [85 comments](https://github.com/flutter/packages/pull/11888) over 1 day, 676832 additions and 13 deletions in 1187 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[FingerArt](https://github.com/fingerart)** &mdash; [in_app_purchase_android] Add showInAppMessages support (#107412)<br />
   <sub>[#11214](https://github.com/flutter/packages/pull/11214) merged on June 12, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/packages/pull/11214) over 3 months, 664 additions and 143 deletions in 17 files</sub><br />
