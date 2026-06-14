@@ -92,14 +92,8 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Preserve web drive target paths outside lib<br />
-  <sub>[#186515](https://github.com/flutter/flutter/pull/186515) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186515) 103 additions and 10 deletions in 2 files</sub><br />
-
 * **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
   <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Validate dart define file newlines<br />
-  <sub>[#186523](https://github.com/flutter/flutter/pull/186523) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186523) 73 additions and 0 deletions in 2 files</sub><br />
 
 * **[Maxim Savin](https://github.com/soulman-is-good)** &mdash; Fix HostBuffer.emplace overflow at block boundary<br />
   <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186539) 49 additions and 1 deletion in 2 files</sub><br />
@@ -109,9 +103,6 @@
 
 * **[Jules Blok](https://github.com/CrossVR)** &mdash; os.dart: Switch the codepage to UTF-8 when calling where.exe<br />
   <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Remove Material import from view chrome style test<br />
-  <sub>[#186615](https://github.com/flutter/flutter/pull/186615) opened on on May 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186615) 53 additions and 63 deletions in 2 files</sub><br />
 
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Move routes_transition_test to material<br />
   <sub>[#186620](https://github.com/flutter/flutter/pull/186620) opened on on May 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186620) 0 additions and 0 deletions in 1 file</sub><br />
@@ -136,12 +127,6 @@
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material color tests to material<br />
   <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify HitTestBehavior docs<br />
-  <sub>[#186859](https://github.com/flutter/flutter/pull/186859) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186859) 27 additions and 9 deletions in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify opacity hit testing and semantics<br />
-  <sub>[#186867](https://github.com/flutter/flutter/pull/186867) opened on on May 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186867) 72 additions and 18 deletions in 4 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
   <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
@@ -321,7 +306,7 @@
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Remove listener from isScrollingNotifier on dispose.<br />
-  <sub>[#187881](https://github.com/flutter/flutter/pull/187881) opened on on June 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187881) 39 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187881](https://github.com/flutter/flutter/pull/187881) opened on on June 11, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187881) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Yashas H Majmudar](https://github.com/yashas-hm)** &mdash; [flutter_tools] Use DeviceHub.app for iOS simulator path on Xcode 27+<br />
   <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187910) 97 additions and 2 deletions in 2 files</sub><br />
