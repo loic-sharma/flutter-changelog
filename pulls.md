@@ -137,18 +137,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material color tests to material<br />
   <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
 
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Improve async dispose diagnostics<br />
-  <sub>[#186847](https://github.com/flutter/flutter/pull/186847) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186847) 53 additions and 1 deletion in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Make ImageProvider sample web-compatible<br />
-  <sub>[#186851](https://github.com/flutter/flutter/pull/186851) opened on on May 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186851) 69 additions and 46 deletions in 3 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix layers rendering semantics startup<br />
-  <sub>[#186855](https://github.com/flutter/flutter/pull/186855) opened on on May 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/186855) 36 additions and 3 deletions in 2 files</sub><br />
-
-* **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix AnimatedList.separated tail reinsertion<br />
-  <sub>[#186857](https://github.com/flutter/flutter/pull/186857) opened on on May 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186857) 109 additions and 3 deletions in 2 files</sub><br />
-
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Clarify HitTestBehavior docs<br />
   <sub>[#186859](https://github.com/flutter/flutter/pull/186859) opened on on May 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186859) 27 additions and 9 deletions in 2 files</sub><br />
 
