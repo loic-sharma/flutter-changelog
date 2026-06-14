@@ -375,5 +375,8 @@
   <sub>[#187969](https://github.com/flutter/flutter/pull/187969) opened on on June 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187969) 18 additions and 1 deletion in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add barrierBuilder support to showDialog and showGeneralDialog<br />
-  <sub>[#187992](https://github.com/flutter/flutter/pull/187992) opened on on June 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187992) 194 additions and 85 deletions in 4 files</sub><br />
+  <sub>[#187992](https://github.com/flutter/flutter/pull/187992) opened on on June 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187992) 183 additions and 72 deletions in 4 files</sub><br />
+
+* **[Erzhan](https://github.com/kekland)** &mdash; Fix `PointerPanZoomUpdateEvent.localPan` calculation when the transformation has a translation component<br />
+  <sub>[#187993](https://github.com/flutter/flutter/pull/187993) opened on on June 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187993) 58 additions and 3 deletions in 2 files</sub><br />
 
