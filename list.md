@@ -19,6 +19,10 @@
   <sub>[#186614](https://github.com/flutter/flutter/pull/186614) merged on June 10, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186614) over 3 weeks, 51 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub>
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fixing corrupted window size OnEmptyFrameGenerated due to transpsed width/height
+  <sub>[#187954](https://github.com/flutter/flutter/pull/187954) merged on June 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187954) over 1 day, 3 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add surface API for framework presentation
   <sub>[#187358](https://github.com/flutter/flutter/pull/187358) merged on June 12, 2026 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/187358) over 1 week, 1182 additions and 6 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -26,10 +30,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add blit operations
   <sub>[#187289](https://github.com/flutter/flutter/pull/187289) merged on June 11, 2026 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/187289) over 1 week, 693 additions and 22 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fixing corrupted window size OnEmptyFrameGenerated due to transpsed width/height
-  <sub>[#187954](https://github.com/flutter/flutter/pull/187954) merged on June 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187954) over 1 day, 3 additions and 3 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Allow attaching specific texture mip levels and slices for rendering
   <sub>[#187685](https://github.com/flutter/flutter/pull/187685) merged on June 9, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/187685) over 23 hours, 293 additions and 25 deletions in 16 files</sub>
