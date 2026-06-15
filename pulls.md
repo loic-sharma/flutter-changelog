@@ -45,7 +45,7 @@
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: update on_message_ to nullptr after window destroy so that dart gets destroy message <br />
-  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/185807) 114 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/185807) 146 additions and 2 deletions in 3 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from outlined_button_test.dart<br />
   <sub>[#185964](https://github.com/flutter/flutter/pull/185964) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185964) 53 additions and 64 deletions in 1 file</sub><br />
@@ -349,4 +349,7 @@
 
 * **[Erzhan](https://github.com/kekland)** &mdash; Fix `PointerPanZoomUpdateEvent.localPan` calculation when the transformation has a translation component<br />
   <sub>[#187993](https://github.com/flutter/flutter/pull/187993) opened on on June 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187993) 58 additions and 3 deletions in 2 files</sub><br />
+
+* **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
+  <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188005) 135 additions and 2 deletions in 2 files</sub><br />
 
