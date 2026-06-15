@@ -359,3 +359,9 @@
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix discrete Slider snapping to wrong value when tapping lower-half tick marks<br />
   <sub>[#188012](https://github.com/flutter/flutter/pull/188012) opened on on June 15, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188012) 349 additions and 8 deletions in 3 files</sub><br />
 
+* **[Jon Ihlas](https://github.com/9AZX)** &mdash; [Windows] Keep regular windows in place when another is activated<br />
+  <sub>[#188016](https://github.com/flutter/flutter/pull/188016) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188016) 137 additions and 14 deletions in 7 files</sub><br />
+
+* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix `TooltipThemeData`: `copyWith` drops `exitDuration`, `lerp` drops timing/behavior properties<br />
+  <sub>[#188017](https://github.com/flutter/flutter/pull/188017) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188017) 70 additions and 0 deletions in 2 files</sub><br />
+
