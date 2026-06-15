@@ -164,17 +164,11 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Forcefully kill hung subprocesses 5 seconds after timeout<br />
   <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187178) 48 additions and 0 deletions in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Changes to WebParagraph configuration<br />
-  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187188) 165 additions and 97 deletions in 19 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Resolve issue  Catch am start failures with 'Error type' and prevent hang<br />
   <sub>[#187196](https://github.com/flutter/flutter/pull/187196) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187196) 144 additions and 1 deletion in 2 files</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fail gracefully on Android AVD lock errors during startup<br />
-  <sub>[#187200](https://github.com/flutter/flutter/pull/187200) opened on on May 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187200) 176 additions and 16 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Listen to log reader before VM Service and make delay configurable<br />
   <sub>[#187202](https://github.com/flutter/flutter/pull/187202) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187202) 144 additions and 30 deletions in 5 files</sub><br />
@@ -190,9 +184,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
-  <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187365) 121 additions and 0 deletions in 7 files</sub><br />
 
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Restrict release web asset server to the build output and source files<br />
   <sub>[#187437](https://github.com/flutter/flutter/pull/187437) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187437) 94 additions and 7 deletions in 2 files</sub><br />
@@ -258,13 +249,13 @@
   <sub>[#187802](https://github.com/flutter/flutter/pull/187802) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187802) 61 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Download Fuchsia deps in fewer builds.<br />
-  <sub>[#187810](https://github.com/flutter/flutter/pull/187810) opened on on June 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187810) 124 additions and 2 deletions in 24 files</sub><br />
+  <sub>[#187810](https://github.com/flutter/flutter/pull/187810) opened on on June 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187810) 130 additions and 2 deletions in 25 files</sub><br />
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix TabBarView ignoring explicit duration passed to animateTo<br />
   <sub>[#187849](https://github.com/flutter/flutter/pull/187849) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187849) 78 additions and 5 deletions in 3 files</sub><br />
 
 * **[Luca Tagliabue](https://github.com/lukluca)** &mdash; Use null-aware elements in dev/devicelab/lib/integration_tests.dart<br />
-  <sub>[#187852](https://github.com/flutter/flutter/pull/187852) opened on on June 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/187852) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#187852](https://github.com/flutter/flutter/pull/187852) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187852) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Print trace when skipping flavor-specific and platform-specific assets<br />
   <sub>[#187857](https://github.com/flutter/flutter/pull/187857) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187857) 25 additions and 4 deletions in 2 files</sub><br />

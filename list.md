@@ -4,11 +4,23 @@
 
 ### June 13, 2026 to June 19, 2026
 
-5 commits.
+8 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. 
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: linux_analyze in a workflow
+  <sub>[#187889](https://github.com/flutter/flutter/pull/187889) merged on June 15, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/187889) over 3 days, 172 additions and 3 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Changes to WebParagraph configuration
+  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) merged on June 15, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187188) over 2 weeks, 165 additions and 97 deletions in 19 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fail gracefully on Android AVD lock errors during startup
+  <sub>[#187200](https://github.com/flutter/flutter/pull/187200) merged on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187200) over 2 weeks, 176 additions and 16 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flakiness in widget_preview_detection_test
   <sub>[#187938](https://github.com/flutter/flutter/pull/187938) merged on June 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187938) over 2 days, 86 additions and 44 deletions in 2 files</sub>
@@ -738,9 +750,18 @@
 
 ## flutter/website
 
+### June 13, 2026 to June 19, 2026
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Set up shared package for components and utilities
+  <sub>[#13486](https://github.com/flutter/website/pull/13486) merged on June 15, 2026 &mdash; **Extra large:** [68 comments](https://github.com/flutter/website/pull/13486) over 5 days, 1246 additions and 1077 deletions in 150 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### June 6, 2026 to June 12, 2026
 
-22 commits.
+<details>
+<summary>22 commits...</summary>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Updating the SPM guide for iOS and macOS
   <sub>[#13459](https://github.com/flutter/website/pull/13459) merged on June 8, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/website/pull/13459) over 4 days, 242 additions and 360 deletions in 20 files</sub>
@@ -829,6 +850,8 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add experimental AI Evaluations topic page
   <sub>[#13471](https://github.com/flutter/website/pull/13471) merged on June 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13471) over 1 day, 32 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### May 30, 2026 to June 5, 2026
 
