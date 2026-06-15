@@ -4,11 +4,15 @@
 
 ### June 13, 2026 to June 19, 2026
 
-8 commits.
+9 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. 
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Add a platform view test to android_hardware_smoke_test
+  <sub>[#187913](https://github.com/flutter/flutter/pull/187913) merged on June 15, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/187913) over 3 days, 683 additions and 85 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: linux_analyze in a workflow
   <sub>[#187889](https://github.com/flutter/flutter/pull/187889) merged on June 15, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/187889) over 3 days, 172 additions and 3 deletions in 5 files</sub>
@@ -632,8 +636,8 @@
 <summary>14 commits...</summary>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Decoupling recopy
-  <sub>[#11888](https://github.com/flutter/packages/pull/11888) merged on June 12, 2026 &mdash; **Extra large:** [85 comments](https://github.com/flutter/packages/pull/11888) over 1 day, 676832 additions and 13 deletions in 1187 files</sub>
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+  <sub>[#11888](https://github.com/flutter/packages/pull/11888) merged on June 12, 2026 &mdash; **Extra large:** [86 comments](https://github.com/flutter/packages/pull/11888) over 1 day, 676832 additions and 13 deletions in 1187 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] updates toString and isNullish methods
   <sub>[#11625](https://github.com/flutter/packages/pull/11625) merged on June 10, 2026 &mdash; **Extra large:** [42 comments](https://github.com/flutter/packages/pull/11625) over 1 month, 6316 additions and 1060 deletions in 86 files</sub>

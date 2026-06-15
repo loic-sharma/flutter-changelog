@@ -33,7 +33,7 @@
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]skip non-tappable web view workaround on ios 26.4<br />
-  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) opened on on April 22, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/185424) 16 additions and 6 deletions in 2 files</sub><br />
 
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; Remove test utils cross-import from elevated_button_test<br />
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
@@ -248,14 +248,11 @@
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Repaint NavigationIndicator's host Material when its animation ticks<br />
   <sub>[#187802](https://github.com/flutter/flutter/pull/187802) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187802) 61 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Download Fuchsia deps in fewer builds.<br />
-  <sub>[#187810](https://github.com/flutter/flutter/pull/187810) opened on on June 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187810) 130 additions and 2 deletions in 25 files</sub><br />
-
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix TabBarView ignoring explicit duration passed to animateTo<br />
   <sub>[#187849](https://github.com/flutter/flutter/pull/187849) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187849) 78 additions and 5 deletions in 3 files</sub><br />
 
 * **[Luca Tagliabue](https://github.com/lukluca)** &mdash; Use null-aware elements in dev/devicelab/lib/integration_tests.dart<br />
-  <sub>[#187852](https://github.com/flutter/flutter/pull/187852) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187852) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#187852](https://github.com/flutter/flutter/pull/187852) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187852) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Print trace when skipping flavor-specific and platform-specific assets<br />
   <sub>[#187857](https://github.com/flutter/flutter/pull/187857) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187857) 25 additions and 4 deletions in 2 files</sub><br />
@@ -340,4 +337,7 @@
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixed couple of bugs<br />
   <sub>[#188032](https://github.com/flutter/flutter/pull/188032) opened on on June 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188032) 71 additions and 39 deletions in 4 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; `hello_world_windows_impeller` bringup->false<br />
+  <sub>[#188047](https://github.com/flutter/flutter/pull/188047) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188047) 0 additions and 1 deletion in 1 file</sub><br />
 
