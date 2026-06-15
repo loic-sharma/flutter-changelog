@@ -350,6 +350,3 @@
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixed couple of bugs<br />
   <sub>[#188032](https://github.com/flutter/flutter/pull/188032) opened on on June 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188032) 71 additions and 39 deletions in 4 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix a potential buffer overflow in the animated PNG decoder when parsing malformed fdAT chunks<br />
-  <sub>[#188036](https://github.com/flutter/flutter/pull/188036) opened on on June 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188036) 158 additions and 6 deletions in 4 files</sub><br />
-
