@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 13, 2026 to June 19, 2026
+
+1 commits.
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. 
+  <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
+
 ### June 6, 2026 to June 12, 2026
 
-59 commits.
+<details>
+<summary>59 commits...</summary>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Sized to content for regular and dialog windows on win32
   <sub>[#186829](https://github.com/flutter/flutter/pull/186829) merged on June 11, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/186829) over 3 weeks, 819 additions and 186 deletions in 20 files</sub>
@@ -242,6 +251,8 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [flutter_tools] Fix `flutter create` crash with SDK packages in bin/cache/pkg
   <sub>[#187653](https://github.com/flutter/flutter/pull/187653) merged on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187653) over 1 day, 116 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Sigurd Meldgaard](https://github.com/sigurdm)</sub>
+
+</details>
 
 ### May 30, 2026 to June 5, 2026
 
