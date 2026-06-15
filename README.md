@@ -756,11 +756,15 @@
 
 ### June 13, 2026 to June 19, 2026
 
-1 commits.
+2 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Set up shared package for components and utilities<br />
   <sub>[#13486](https://github.com/flutter/website/pull/13486) merged on June 15, 2026 &mdash; **Extra large:** [68 comments](https://github.com/flutter/website/pull/13486) over 5 days, 1246 additions and 1077 deletions in 150 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; updated consultants logo image<br />
+  <sub>[#13504](https://github.com/flutter/website/pull/13504) merged on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13504) over 42 minutes, 1 addition and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub><br />
 
 ### June 6, 2026 to June 12, 2026
 
