@@ -246,7 +246,7 @@
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; [flutter_tools] fix: don't rebuild unit_test_assets when nothing changed<br />
-  <sub>[#187751](https://github.com/flutter/flutter/pull/187751) opened on on June 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187751) 73 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#187751](https://github.com/flutter/flutter/pull/187751) opened on on June 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187751) 52 additions and 2 deletions in 3 files</sub><br />
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Add validation for required fields during xcodebuild<br />
   <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187772) 160 additions and 2 deletions in 5 files</sub><br />
@@ -352,4 +352,10 @@
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
   <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188005) 189 additions and 2 deletions in 2 files</sub><br />
+
+* **[Thomas Steiner](https://github.com/tomayac)** &mdash; refactor(web): use singular crossOriginStorage.requestFileHandle()<br />
+  <sub>[#188010](https://github.com/flutter/flutter/pull/188010) opened on on June 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188010) 73 additions and 4 deletions in 1 file</sub><br />
+
+* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix discrete Slider snapping to wrong value when tapping lower-half tick marks<br />
+  <sub>[#188012](https://github.com/flutter/flutter/pull/188012) opened on on June 15, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188012) 349 additions and 8 deletions in 3 files</sub><br />
 
