@@ -165,7 +165,7 @@
   <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187178) 48 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Changes to WebParagraph configuration<br />
-  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187188) 165 additions and 97 deletions in 19 files</sub><br />
+  <sub>[#187188](https://github.com/flutter/flutter/pull/187188) opened on on May 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187188) 165 additions and 97 deletions in 19 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
@@ -199,9 +199,6 @@
 
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [flutter_tools] Format empty app template with latest dart format<br />
   <sub>[#187443](https://github.com/flutter/flutter/pull/187443) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187443) 1 addition and 5 deletions in 1 file</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor Xcode usages to constructor dependency injection<br />
-  <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187469) 879 additions and 366 deletions in 66 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
@@ -248,23 +245,20 @@
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; [flutter_tools] fix: don't rebuild unit_test_assets when nothing changed<br />
   <sub>[#187751](https://github.com/flutter/flutter/pull/187751) opened on on June 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187751) 52 additions and 2 deletions in 3 files</sub><br />
 
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Remove many absolute paths from build commands.<br />
+  <sub>[#187765](https://github.com/flutter/flutter/pull/187765) opened on on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187765) 130 additions and 127 deletions in 22 files</sub><br />
+
 * **[Hari07](https://github.com/Hari-07)** &mdash; Add validation for required fields during xcodebuild<br />
   <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187772) 160 additions and 2 deletions in 5 files</sub><br />
 
 * **[Tobias Marschall](https://github.com/saibotma)** &mdash; Fix Android IME visibility after app resume<br />
   <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Migrate swift xctests to Swift testing tests<br />
-  <sub>[#187801](https://github.com/flutter/flutter/pull/187801) opened on on June 10, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187801) 124 additions and 130 deletions in 4 files</sub><br />
-
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Repaint NavigationIndicator's host Material when its animation ticks<br />
   <sub>[#187802](https://github.com/flutter/flutter/pull/187802) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187802) 61 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Download Fuchsia deps in fewer builds.<br />
   <sub>[#187810](https://github.com/flutter/flutter/pull/187810) opened on on June 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187810) 124 additions and 2 deletions in 24 files</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Exclude fuchsia-sdk/sdk/.build-id from the builder cache archive<br />
-  <sub>[#187826](https://github.com/flutter/flutter/pull/187826) opened on on June 11, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187826) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix TabBarView ignoring explicit duration passed to animateTo<br />
   <sub>[#187849](https://github.com/flutter/flutter/pull/187849) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187849) 78 additions and 5 deletions in 3 files</sub><br />
@@ -288,7 +282,7 @@
   <sub>[#187864](https://github.com/flutter/flutter/pull/187864) opened on on June 11, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187864) 1250 additions and 127 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
-  <sub>[#187866](https://github.com/flutter/flutter/pull/187866) opened on on June 11, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/187866) 1250 additions and 127 deletions in 6 files</sub><br />
+  <sub>[#187866](https://github.com/flutter/flutter/pull/187866) opened on on June 11, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187866) 1250 additions and 127 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Allow selecting multi-digit device options<br />
   <sub>[#187867](https://github.com/flutter/flutter/pull/187867) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187867) 113 additions and 0 deletions in 5 files</sub><br />
@@ -351,7 +345,7 @@
   <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188005) 189 additions and 2 deletions in 2 files</sub><br />
 
 * **[Thomas Steiner](https://github.com/tomayac)** &mdash; refactor(web): use singular crossOriginStorage.requestFileHandle()<br />
-  <sub>[#188010](https://github.com/flutter/flutter/pull/188010) opened on on June 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188010) 73 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#188010](https://github.com/flutter/flutter/pull/188010) opened on on June 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188010) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix discrete Slider snapping to wrong value when tapping lower-half tick marks<br />
   <sub>[#188012](https://github.com/flutter/flutter/pull/188012) opened on on June 15, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188012) 349 additions and 8 deletions in 3 files</sub><br />
@@ -361,4 +355,13 @@
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix `TooltipThemeData`: `copyWith` drops `exitDuration`, `lerp` drops timing/behavior properties<br />
   <sub>[#188017](https://github.com/flutter/flutter/pull/188017) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188017) 70 additions and 0 deletions in 2 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Dart roll from f6c31f4c3a63 to d977019be46c<br />
+  <sub>[#188023](https://github.com/flutter/flutter/pull/188023) opened on on June 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188023) 4 additions and 8 deletions in 2 files</sub><br />
+
+* **[Manan Bansal](https://github.com/manan-tech)** &mdash; Detect text contrast violations when the semantics label differs from the rendered text<br />
+  <sub>[#188024](https://github.com/flutter/flutter/pull/188024) opened on on June 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188024) 159 additions and 30 deletions in 2 files</sub><br />
+
+* **[Rusino](https://github.com/Rusino)** &mdash; Fixed couple of bugs<br />
+  <sub>[#188032](https://github.com/flutter/flutter/pull/188032) opened on on June 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188032) 71 additions and 39 deletions in 4 files</sub><br />
 
