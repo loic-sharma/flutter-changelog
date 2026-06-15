@@ -351,5 +351,5 @@
   <sub>[#187993](https://github.com/flutter/flutter/pull/187993) opened on on June 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187993) 58 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
-  <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188005) 135 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188005) 189 additions and 2 deletions in 2 files</sub><br />
 

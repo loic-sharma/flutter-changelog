@@ -4,11 +4,15 @@
 
 ### June 13, 2026 to June 19, 2026
 
-1 commits.
+2 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. <br />
-  <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub><br />
+  <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios] Filter UIScene events to those relating to Flutter VC scene<br />
+  <sub>[#187987](https://github.com/flutter/flutter/pull/187987) merged on June 15, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/187987) over 22 hours, 105 additions and 0 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 ### June 6, 2026 to June 12, 2026
 
