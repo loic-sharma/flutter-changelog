@@ -201,7 +201,7 @@
   <sub>[#187443](https://github.com/flutter/flutter/pull/187443) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187443) 1 addition and 5 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Refactor Xcode usages to constructor dependency injection<br />
-  <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187469) 667 additions and 293 deletions in 58 files</sub><br />
+  <sub>[#187469](https://github.com/flutter/flutter/pull/187469) opened on on June 2, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187469) 879 additions and 366 deletions in 66 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
@@ -335,9 +335,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload<br />
   <sub>[#187947](https://github.com/flutter/flutter/pull/187947) opened on on June 12, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/187947) 315 additions and 134 deletions in 7 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.45-candidate.0] Sync engine.version to c03457b04e38b2612ec94298fbd9c58e0d03b680<br />
-  <sub>[#187959](https://github.com/flutter/flutter/pull/187959) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187959) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `ShapeBorder` hit test fast paths<br />
   <sub>[#187962](https://github.com/flutter/flutter/pull/187962) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187962) 224 additions and 1 deletion in 7 files</sub><br />
 
@@ -360,7 +357,7 @@
   <sub>[#188012](https://github.com/flutter/flutter/pull/188012) opened on on June 15, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188012) 349 additions and 8 deletions in 3 files</sub><br />
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; [Windows] Keep regular windows in place when another is activated<br />
-  <sub>[#188016](https://github.com/flutter/flutter/pull/188016) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188016) 137 additions and 14 deletions in 7 files</sub><br />
+  <sub>[#188016](https://github.com/flutter/flutter/pull/188016) opened on on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188016) 137 additions and 14 deletions in 7 files</sub><br />
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix `TooltipThemeData`: `copyWith` drops `exitDuration`, `lerp` drops timing/behavior properties<br />
   <sub>[#188017](https://github.com/flutter/flutter/pull/188017) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188017) 70 additions and 0 deletions in 2 files</sub><br />

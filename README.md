@@ -4,7 +4,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-2 commits.
+3 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. <br />
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios] Filter UIScene events to those relating to Flutter VC scene<br />
   <sub>[#187987](https://github.com/flutter/flutter/pull/187987) merged on June 15, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/187987) over 22 hours, 105 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the APNG decoder, validate the chunk data length before calling GetChunkSize to avoid potential overflow in the chunk size calculation<br />
+  <sub>[#187949](https://github.com/flutter/flutter/pull/187949) merged on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187949) over 2 days, 77 additions and 12 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 ### June 6, 2026 to June 12, 2026
 
@@ -594,9 +598,18 @@
 
 ## flutter/packages
 
+### June 13, 2026 to June 19, 2026
+
+1 commits.
+
+* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [path_provider] Document null vs UnsupportedError return semantics<br />
+  <sub>[#11793](https://github.com/flutter/packages/pull/11793) merged on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11793) over 2 weeks, 23 additions and 6 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
 ### June 6, 2026 to June 12, 2026
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Decoupling recopy<br />
   <sub>[#11888](https://github.com/flutter/packages/pull/11888) merged on June 12, 2026 &mdash; **Extra large:** [85 comments](https://github.com/flutter/packages/pull/11888) over 1 day, 676832 additions and 13 deletions in 1187 files</sub><br />
@@ -653,6 +666,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 924134a44c18 to c9a6c484230f (8 revisions)<br />
   <sub>[#11893](https://github.com/flutter/packages/pull/11893) merged on June 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11893) over 43 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### May 30, 2026 to June 5, 2026
 
