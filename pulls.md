@@ -267,7 +267,7 @@
   <sub>[#187920](https://github.com/flutter/flutter/pull/187920) opened on on June 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187920) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Only allow dependabot to autoupdate GitHub-owned actions<br />
-  <sub>[#187936](https://github.com/flutter/flutter/pull/187936) opened on on June 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187936) 5 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#187936](https://github.com/flutter/flutter/pull/187936) opened on on June 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187936) 5 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/187940) 367 additions and 1 deletion in 9 files</sub><br />
@@ -299,9 +299,6 @@
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix `TooltipThemeData`: `copyWith` drops `exitDuration`, `lerp` drops timing/behavior properties<br />
   <sub>[#188017](https://github.com/flutter/flutter/pull/188017) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188017) 70 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Dart roll from f6c31f4c3a63 to d977019be46c<br />
-  <sub>[#188023](https://github.com/flutter/flutter/pull/188023) opened on on June 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188023) 4 additions and 8 deletions in 2 files</sub><br />
-
 * **[Manan Bansal](https://github.com/manan-tech)** &mdash; Detect text contrast violations when the semantics label differs from the rendered text<br />
   <sub>[#188024](https://github.com/flutter/flutter/pull/188024) opened on on June 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188024) 159 additions and 30 deletions in 2 files</sub><br />
 
@@ -316,4 +313,7 @@
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Use a mock EGL manager in windows unittests to avoid flaky rendering calls<br />
   <sub>[#188078](https://github.com/flutter/flutter/pull/188078) opened on on June 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188078) 40 additions and 0 deletions in 1 file</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade `avd_cipd_version` for linux android emu stable<br />
+  <sub>[#188082](https://github.com/flutter/flutter/pull/188082) opened on on June 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188082) 1 addition and 1 deletion in 1 file</sub><br />
 
