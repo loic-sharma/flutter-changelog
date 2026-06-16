@@ -275,9 +275,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] Allow selecting multi-digit device options<br />
   <sub>[#187868](https://github.com/flutter/flutter/pull/187868) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187868) 113 additions and 0 deletions in 5 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds gamma correction to windows text.<br />
-  <sub>[#187871](https://github.com/flutter/flutter/pull/187871) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187871) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Anthony Hurtado](https://github.com/jortles)** &mdash; Add recursion depth limit to StandardCodecSerializer::ReadValue<br />
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 

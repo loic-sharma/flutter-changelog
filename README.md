@@ -4,7 +4,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-9 commits.
+10 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. <br />
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fail gracefully on Android AVD lock errors during startup<br />
   <sub>[#187200](https://github.com/flutter/flutter/pull/187200) merged on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187200) over 2 weeks, 176 additions and 16 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds gamma correction to windows text.<br />
+  <sub>[#187871](https://github.com/flutter/flutter/pull/187871) merged on June 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187871) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flakiness in widget_preview_detection_test<br />
   <sub>[#187938](https://github.com/flutter/flutter/pull/187938) merged on June 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187938) over 2 days, 86 additions and 44 deletions in 2 files</sub><br />
