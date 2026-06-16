@@ -72,7 +72,7 @@
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/186108) 121 additions and 10 deletions in 8 files</sub><br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/186108) 121 additions and 10 deletions in 8 files</sub><br />
 
 * **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) 2 additions and 2 deletions in 2 files</sub><br />
@@ -159,7 +159,7 @@
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
-  <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
+  <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Forcefully kill hung subprocesses 5 seconds after timeout<br />
   <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187178) 48 additions and 0 deletions in 2 files</sub><br />
@@ -340,4 +340,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; `hello_world_windows_impeller` bringup->false<br />
   <sub>[#188047](https://github.com/flutter/flutter/pull/188047) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188047) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove canvaskit_cipd_instance from DEPS<br />
+  <sub>[#188073](https://github.com/flutter/flutter/pull/188073) opened on on June 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188073) 0 additions and 4 deletions in 1 file</sub><br />
 
