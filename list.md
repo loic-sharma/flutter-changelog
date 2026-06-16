@@ -768,10 +768,22 @@
 
 ### June 13, 2026 to June 19, 2026
 
-2 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Set up shared package for components and utilities
   <sub>[#13486](https://github.com/flutter/website/pull/13486) merged on June 15, 2026 &mdash; **Extra large:** [68 comments](https://github.com/flutter/website/pull/13486) over 5 days, 1246 additions and 1077 deletions in 150 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Start use of some utilities from site_shared
+  <sub>[#13509](https://github.com/flutter/website/pull/13509) merged on June 16, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/website/pull/13509) over 2 hours, 91 additions and 382 deletions in 25 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Use ID of operating sysems instead of name in selectors
+  <sub>[#13506](https://github.com/flutter/website/pull/13506) merged on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13506) over 6 hours, 12 additions and 12 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Support event date ranges
+  <sub>[#13508](https://github.com/flutter/website/pull/13508) merged on June 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13508) over 3 hours, 143 additions and 47 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; updated consultants logo image
