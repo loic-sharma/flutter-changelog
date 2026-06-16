@@ -266,9 +266,6 @@
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; Fix $git typo in shared.bat (Windows cache invalidation broken since 3.29)<br />
   <sub>[#187920](https://github.com/flutter/flutter/pull/187920) opened on on June 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187920) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Only allow dependabot to autoupdate GitHub-owned actions<br />
-  <sub>[#187936](https://github.com/flutter/flutter/pull/187936) opened on on June 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187936) 5 additions and 2 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/187940) 367 additions and 1 deletion in 9 files</sub><br />
 
@@ -315,5 +312,5 @@
   <sub>[#188078](https://github.com/flutter/flutter/pull/188078) opened on on June 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188078) 40 additions and 0 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade `avd_cipd_version` for linux android emu stable<br />
-  <sub>[#188082](https://github.com/flutter/flutter/pull/188082) opened on on June 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188082) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#188082](https://github.com/flutter/flutter/pull/188082) opened on on June 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188082) 1 addition and 1 deletion in 1 file</sub><br />
 
