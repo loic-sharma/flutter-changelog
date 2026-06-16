@@ -41,6 +41,9 @@
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix multi-view sizing race condition (Lock approach)<br />
+  <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185622) 108 additions and 0 deletions in 2 files</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: update on_message_ to nullptr after window destroy so that dart gets destroy message <br />
   <sub>[#185807](https://github.com/flutter/flutter/pull/185807) opened on on April 30, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/185807) 146 additions and 2 deletions in 3 files</sub><br />
 
@@ -169,6 +172,9 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Listen to log reader before VM Service and make delay configurable<br />
   <sub>[#187202](https://github.com/flutter/flutter/pull/187202) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187202) 144 additions and 30 deletions in 5 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip prefetch SwiftPM dependencies if the project hasn't been migrated to SwiftPM yet<br />
+  <sub>[#187206](https://github.com/flutter/flutter/pull/187206) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187206) 72 additions and 0 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Handle 'no permissions' adb device state<br />
   <sub>[#187248](https://github.com/flutter/flutter/pull/187248) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187248) 84 additions and 1 deletion in 2 files</sub><br />

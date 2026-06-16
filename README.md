@@ -4,7 +4,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-12 commits.
+16 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. <br />
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub><br />
@@ -14,6 +14,10 @@
   <sub>[#187913](https://github.com/flutter/flutter/pull/187913) merged on June 15, 2026 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/187913) over 3 days, 683 additions and 85 deletions in 12 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): Unify Image on Skwasm and CanvasKit<br />
+  <sub>[#187873](https://github.com/flutter/flutter/pull/187873) merged on June 16, 2026 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/187873) over 5 days, 1063 additions and 738 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: linux_analyze in a workflow<br />
   <sub>[#187889](https://github.com/flutter/flutter/pull/187889) merged on June 15, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/187889) over 3 days, 172 additions and 3 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
@@ -21,6 +25,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Changes to WebParagraph configuration<br />
   <sub>[#187188](https://github.com/flutter/flutter/pull/187188) merged on June 15, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187188) over 2 weeks, 165 additions and 97 deletions in 19 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Rusino](https://github.com/Rusino)** &mdash; Implement font fallback<br />
+  <sub>[#187520](https://github.com/flutter/flutter/pull/187520) merged on June 16, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/187520) over 1 week, 385 additions and 185 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]skip non-tappable web view workaround on ios 26.4<br />
   <sub>[#185424](https://github.com/flutter/flutter/pull/185424) merged on June 16, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/185424) over 1 month, 16 additions and 6 deletions in 2 files</sub><br />
@@ -33,6 +41,10 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fail gracefully on Android AVD lock errors during startup<br />
   <sub>[#187200](https://github.com/flutter/flutter/pull/187200) merged on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187200) over 2 weeks, 176 additions and 16 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds arm64 variant of impeller devicelab tests for windows.<br />
+  <sub>[#188053](https://github.com/flutter/flutter/pull/188053) merged on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188053) over 17 hours, 14 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds gamma correction to windows text.<br />
   <sub>[#187871](https://github.com/flutter/flutter/pull/187871) merged on June 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187871) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -53,6 +65,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the APNG decoder, validate the chunk data length before calling GetChunkSize to avoid potential overflow in the chunk size calculation<br />
   <sub>[#187949](https://github.com/flutter/flutter/pull/187949) merged on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187949) over 2 days, 77 additions and 12 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Anthony Hurtado](https://github.com/jortles)** &mdash; Add FlatBuffers Verifier checks to Impeller asset loading<br />
+  <sub>[#187878](https://github.com/flutter/flutter/pull/187878) merged on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187878) over 4 days, 54 additions and 0 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 ### June 6, 2026 to June 12, 2026
 
