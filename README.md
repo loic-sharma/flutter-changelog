@@ -4,7 +4,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-16 commits.
+17 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. <br />
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub><br />
@@ -69,6 +69,10 @@
 * **[Anthony Hurtado](https://github.com/jortles)** &mdash; Add FlatBuffers Verifier checks to Impeller asset loading<br />
   <sub>[#187878](https://github.com/flutter/flutter/pull/187878) merged on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187878) over 4 days, 54 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland [a11y] Map some framework semantics roles to android classes. <br />
+  <sub>[#188037](https://github.com/flutter/flutter/pull/188037) merged on June 16, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188037) over 1 day, 763 additions and 462 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 ### June 6, 2026 to June 12, 2026
 

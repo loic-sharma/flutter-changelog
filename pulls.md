@@ -170,9 +170,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Resolve issue  Catch am start failures with 'Error type' and prevent hang<br />
   <sub>[#187196](https://github.com/flutter/flutter/pull/187196) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187196) 144 additions and 1 deletion in 2 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Listen to log reader before VM Service and make delay configurable<br />
-  <sub>[#187202](https://github.com/flutter/flutter/pull/187202) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187202) 144 additions and 30 deletions in 5 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip prefetch SwiftPM dependencies if the project hasn't been migrated to SwiftPM yet<br />
   <sub>[#187206](https://github.com/flutter/flutter/pull/187206) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187206) 72 additions and 0 deletions in 2 files</sub><br />
 
@@ -181,9 +178,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Support activity-alias in Android launcher activity detection<br />
   <sub>[#187251](https://github.com/flutter/flutter/pull/187251) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187251) 158 additions and 3 deletions in 2 files</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Isolate compiled dill caches by TargetModel<br />
-  <sub>[#187253](https://github.com/flutter/flutter/pull/187253) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187253) 222 additions and 29 deletions in 8 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
@@ -236,9 +230,6 @@
 * **[DEV RAJA](https://github.com/bundeladevraja123-raja)** &mdash; Fix typo in TESTOWNERS comment<br />
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; [flutter_tools] fix: don't rebuild unit_test_assets when nothing changed<br />
-  <sub>[#187751](https://github.com/flutter/flutter/pull/187751) opened on on June 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187751) 52 additions and 2 deletions in 3 files</sub><br />
-
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Remove many absolute paths from build commands.<br />
   <sub>[#187765](https://github.com/flutter/flutter/pull/187765) opened on on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187765) 130 additions and 127 deletions in 22 files</sub><br />
 
@@ -285,16 +276,13 @@
   <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187910) 97 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; Format Flutter templates to match latest dart format style<br />
-  <sub>[#187918](https://github.com/flutter/flutter/pull/187918) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187918) 1 addition and 7 deletions in 3 files</sub><br />
+  <sub>[#187918](https://github.com/flutter/flutter/pull/187918) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187918) 1 addition and 7 deletions in 3 files</sub><br />
 
 * **[M S karthik](https://github.com/KarthikManikuttan)** &mdash; Handle deferred page-based pops in Navigator.popUntil<br />
   <sub>[#187919](https://github.com/flutter/flutter/pull/187919) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187919) 149 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; Fix $git typo in shared.bat (Windows cache invalidation broken since 3.29)<br />
   <sub>[#187920](https://github.com/flutter/flutter/pull/187920) opened on on June 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187920) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ortes](https://github.com/Ortes)** &mdash; Expose the app's build name and number as compile-time constants<br />
-  <sub>[#187935](https://github.com/flutter/flutter/pull/187935) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187935) 237 additions and 2 deletions in 6 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Only allow dependabot to autoupdate GitHub-owned actions<br />
   <sub>[#187936](https://github.com/flutter/flutter/pull/187936) opened on on June 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187936) 5 additions and 2 deletions in 1 file</sub><br />
@@ -330,7 +318,7 @@
   <sub>[#188017](https://github.com/flutter/flutter/pull/188017) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188017) 70 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Dart roll from f6c31f4c3a63 to d977019be46c<br />
-  <sub>[#188023](https://github.com/flutter/flutter/pull/188023) opened on on June 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188023) 4 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#188023](https://github.com/flutter/flutter/pull/188023) opened on on June 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188023) 4 additions and 8 deletions in 2 files</sub><br />
 
 * **[Manan Bansal](https://github.com/manan-tech)** &mdash; Detect text contrast violations when the semantics label differs from the rendered text<br />
   <sub>[#188024](https://github.com/flutter/flutter/pull/188024) opened on on June 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188024) 159 additions and 30 deletions in 2 files</sub><br />
