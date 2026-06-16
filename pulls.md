@@ -86,9 +86,6 @@
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Prevent downgrading `project.pbxproj` when greater version number<br />
   <sub>[#186250](https://github.com/flutter/flutter/pull/186250) opened on on May 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186250) 159 additions and 20 deletions in 2 files</sub><br />
 
-* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
-  <sub>[#186304](https://github.com/flutter/flutter/pull/186304) opened on on May 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186304) 44 additions and 1 deletion in 2 files</sub><br />
-
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -182,12 +179,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
-* **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Restrict release web asset server to the build output and source files<br />
-  <sub>[#187437](https://github.com/flutter/flutter/pull/187437) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187437) 94 additions and 7 deletions in 2 files</sub><br />
-
-* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [flutter_tools] Format empty app template with latest dart format<br />
-  <sub>[#187443](https://github.com/flutter/flutter/pull/187443) opened on on June 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187443) 1 addition and 5 deletions in 1 file</sub><br />
-
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
 
@@ -195,7 +186,7 @@
   <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187551) 37 additions and 0 deletions in 2 files</sub><br />
 
 * **[chtga](https://github.com/tamirenkhbayar3-cmd)** &mdash; Restrict web dev server to loopback by default<br />
-  <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
+  <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Implement Windows platform view plugin lifecycle<br />
   <sub>[#187604](https://github.com/flutter/flutter/pull/187604) opened on on June 5, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187604) 290 additions and 23 deletions in 9 files</sub><br />
@@ -218,9 +209,6 @@
 * **[Raees Nawaj Shaikh](https://github.com/RaeesShaikh4)** &mdash; issue fixed -> TabController animateTo() unexpected behaivour<br />
   <sub>[#187657](https://github.com/flutter/flutter/pull/187657) opened on on June 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187657) 81 additions and 3 deletions in 3 files</sub><br />
 
-* **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Enforce that package-declared asset paths stay within the package<br />
-  <sub>[#187661](https://github.com/flutter/flutter/pull/187661) opened on on June 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187661) 57 additions and 3 deletions in 2 files</sub><br />
-
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Android] [a11y] make text field floating label a separated semantics node in android<br />
   <sub>[#187689](https://github.com/flutter/flutter/pull/187689) opened on on June 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187689) 130 additions and 0 deletions in 2 files</sub><br />
 
@@ -229,9 +217,6 @@
 
 * **[DEV RAJA](https://github.com/bundeladevraja123-raja)** &mdash; Fix typo in TESTOWNERS comment<br />
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Remove many absolute paths from build commands.<br />
-  <sub>[#187765](https://github.com/flutter/flutter/pull/187765) opened on on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187765) 130 additions and 127 deletions in 22 files</sub><br />
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Add validation for required fields during xcodebuild<br />
   <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187772) 160 additions and 2 deletions in 5 files</sub><br />
@@ -244,9 +229,6 @@
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix TabBarView ignoring explicit duration passed to animateTo<br />
   <sub>[#187849](https://github.com/flutter/flutter/pull/187849) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187849) 78 additions and 5 deletions in 3 files</sub><br />
-
-* **[Luca Tagliabue](https://github.com/lukluca)** &mdash; Use null-aware elements in dev/devicelab/lib/integration_tests.dart<br />
-  <sub>[#187852](https://github.com/flutter/flutter/pull/187852) opened on on June 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187852) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Print trace when skipping flavor-specific and platform-specific assets<br />
   <sub>[#187857](https://github.com/flutter/flutter/pull/187857) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187857) 25 additions and 4 deletions in 2 files</sub><br />
@@ -331,4 +313,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove canvaskit_cipd_instance from DEPS<br />
   <sub>[#188073](https://github.com/flutter/flutter/pull/188073) opened on on June 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188073) 0 additions and 4 deletions in 1 file</sub><br />
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Use a mock EGL manager in windows unittests to avoid flaky rendering calls<br />
+  <sub>[#188078](https://github.com/flutter/flutter/pull/188078) opened on on June 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188078) 40 additions and 0 deletions in 1 file</sub><br />
 
