@@ -4,7 +4,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-10 commits.
+12 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. 
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub>
@@ -21,6 +21,14 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Changes to WebParagraph configuration
   <sub>[#187188](https://github.com/flutter/flutter/pull/187188) merged on June 15, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187188) over 2 weeks, 165 additions and 97 deletions in 19 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pv]skip non-tappable web view workaround on ios 26.4
+  <sub>[#185424](https://github.com/flutter/flutter/pull/185424) merged on June 16, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/185424) over 1 month, 16 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] RenderParagraph needs paint after a DPR change
+  <sub>[#186968](https://github.com/flutter/flutter/pull/186968) merged on June 16, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/186968) over 3 weeks, 168 additions and 12 deletions in 6 files</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fail gracefully on Android AVD lock errors during startup
   <sub>[#187200](https://github.com/flutter/flutter/pull/187200) merged on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187200) over 2 weeks, 176 additions and 16 deletions in 2 files</sub>
