@@ -4,7 +4,11 @@
 
 ### June 13, 2026 to June 19, 2026
 
-29 commits.
+30 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): Unify Image on Skwasm and CanvasKit<br />
+  <sub>[#187873](https://github.com/flutter/flutter/pull/187873) merged on June 16, 2026 &mdash; **Extra large:** [41 comments](https://github.com/flutter/flutter/pull/187873) over 5 days, 1063 additions and 738 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. <br />
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub><br />
@@ -21,10 +25,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Move queue submission into a callback that is invoked by FenceWaiterVK::AddFence only if it can accept the fence<br />
   <sub>[#187761](https://github.com/flutter/flutter/pull/187761) merged on June 16, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/187761) over 6 days, 183 additions and 42 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): Unify Image on Skwasm and CanvasKit<br />
-  <sub>[#187873](https://github.com/flutter/flutter/pull/187873) merged on June 16, 2026 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/187873) over 5 days, 1063 additions and 738 deletions in 26 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; feat: linux_analyze in a workflow<br />
   <sub>[#187889](https://github.com/flutter/flutter/pull/187889) merged on June 15, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/187889) over 3 days, 172 additions and 3 deletions in 5 files</sub><br />
@@ -89,6 +89,10 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fall back to source AndroidManifest.xml if AAPT fails or returns garbage<br />
   <sub>[#187197](https://github.com/flutter/flutter/pull/187197) merged on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187197) over 2 weeks, 168 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add note about magnifier issue when using transparent HCPP pv<br />
+  <sub>[#187753](https://github.com/flutter/flutter/pull/187753) merged on June 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187753) over 1 week, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove canvaskit_cipd_instance from DEPS<br />
   <sub>[#188073](https://github.com/flutter/flutter/pull/188073) merged on June 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188073) over 21 hours, 0 additions and 4 deletions in 1 file</sub><br />
@@ -704,7 +708,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-2 commits.
+3 commits.
 
 * **[HiroyukiTamura](https://github.com/HiroyukiTamura)** &mdash; [vector_graphics_compiler] Use Abi.current() for engine-artifact lookup on Linux ARM64<br />
   <sub>[#11781](https://github.com/flutter/packages/pull/11781) merged on June 17, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/11781) over 3 weeks, 147 additions and 29 deletions in 6 files</sub><br />
@@ -713,6 +717,10 @@
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [path_provider] Document null vs UnsupportedError return semantics<br />
   <sub>[#11793](https://github.com/flutter/packages/pull/11793) merged on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11793) over 2 weeks, 23 additions and 6 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [video_player_web] Remove stale package:web tweaks<br />
+  <sub>[#11820](https://github.com/flutter/packages/pull/11820) merged on June 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11820) over 2 weeks, 3 additions and 12 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 ### June 6, 2026 to June 12, 2026
 
@@ -840,7 +848,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-7 commits.
+8 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Set up shared package for components and utilities<br />
   <sub>[#13486](https://github.com/flutter/website/pull/13486) merged on June 15, 2026 &mdash; **Extra large:** [68 comments](https://github.com/flutter/website/pull/13486) over 5 days, 1246 additions and 1077 deletions in 150 files</sub><br />
@@ -849,6 +857,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Start use of some utilities from site_shared<br />
   <sub>[#13509](https://github.com/flutter/website/pull/13509) merged on June 16, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/website/pull/13509) over 2 hours, 91 additions and 382 deletions in 25 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add `/blog` redirects<br />
+  <sub>[#13513](https://github.com/flutter/website/pull/13513) merged on June 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13513) over 3 hours, 4 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Use ID of operating sysems instead of name in selectors<br />
   <sub>[#13506](https://github.com/flutter/website/pull/13506) merged on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13506) over 6 hours, 12 additions and 12 deletions in 1 file</sub><br />

@@ -221,9 +221,6 @@
 * **[Tobias Marschall](https://github.com/saibotma)** &mdash; Fix Android IME visibility after app resume<br />
   <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
 
-* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Repaint NavigationIndicator's host Material when its animation ticks<br />
-  <sub>[#187802](https://github.com/flutter/flutter/pull/187802) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187802) 61 additions and 0 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] Print trace when skipping flavor-specific and platform-specific assets<br />
   <sub>[#187859](https://github.com/flutter/flutter/pull/187859) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187859) 25 additions and 4 deletions in 2 files</sub><br />
 
@@ -269,20 +266,11 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `ShapeBorder` hit test fast paths<br />
   <sub>[#187962](https://github.com/flutter/flutter/pull/187962) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187962) 224 additions and 1 deletion in 7 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Add barrierBuilder support to showDialog and showGeneralDialog<br />
-  <sub>[#187992](https://github.com/flutter/flutter/pull/187992) opened on on June 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187992) 183 additions and 72 deletions in 4 files</sub><br />
-
 * **[Erzhan](https://github.com/kekland)** &mdash; Fix `PointerPanZoomUpdateEvent.localPan` calculation when the transformation has a translation component<br />
   <sub>[#187993](https://github.com/flutter/flutter/pull/187993) opened on on June 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187993) 58 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
   <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
-
-* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix discrete Slider snapping to wrong value when tapping lower-half tick marks<br />
-  <sub>[#188012](https://github.com/flutter/flutter/pull/188012) opened on on June 15, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188012) 349 additions and 8 deletions in 3 files</sub><br />
-
-* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix `TooltipThemeData`: `copyWith` drops `exitDuration`, `lerp` drops timing/behavior properties<br />
-  <sub>[#188017](https://github.com/flutter/flutter/pull/188017) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188017) 70 additions and 0 deletions in 2 files</sub><br />
 
 * **[Manan Bansal](https://github.com/manan-tech)** &mdash; Detect text contrast violations when the semantics label differs from the rendered text<br />
   <sub>[#188024](https://github.com/flutter/flutter/pull/188024) opened on on June 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188024) 159 additions and 30 deletions in 2 files</sub><br />
