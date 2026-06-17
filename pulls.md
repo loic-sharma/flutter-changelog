@@ -296,6 +296,3 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove canvaskit_cipd_instance from DEPS<br />
   <sub>[#188073](https://github.com/flutter/flutter/pull/188073) opened on on June 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188073) 0 additions and 4 deletions in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade `avd_cipd_version` for linux android emu stable<br />
-  <sub>[#188082](https://github.com/flutter/flutter/pull/188082) opened on on June 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188082) 2 additions and 2 deletions in 1 file</sub><br />
-
