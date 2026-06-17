@@ -30,7 +30,7 @@
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/184588) 236 additions and 255 deletions in 4 files</sub><br />
 
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
-  <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
+  <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; Remove test utils cross-import from elevated_button_test<br />
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
@@ -303,5 +303,5 @@
   <sub>[#188078](https://github.com/flutter/flutter/pull/188078) opened on on June 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188078) 40 additions and 0 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade `avd_cipd_version` for linux android emu stable<br />
-  <sub>[#188082](https://github.com/flutter/flutter/pull/188082) opened on on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188082) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#188082](https://github.com/flutter/flutter/pull/188082) opened on on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188082) 2 additions and 2 deletions in 1 file</sub><br />
 
