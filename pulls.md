@@ -269,6 +269,9 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; `hello_world_windows_impeller` bringup->false<br />
   <sub>[#188047](https://github.com/flutter/flutter/pull/188047) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188047) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Share a single ContextGLES among all PlaygroundImplGLES<br />
+  <sub>[#188080](https://github.com/flutter/flutter/pull/188080) opened on on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188080) 120 additions and 24 deletions in 8 files</sub><br />
+
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.46-candidate.0] Sync engine.version to e9088cd423b0ac81ca25e65b52b56bb2dfeab81a<br />
   <sub>[#188131](https://github.com/flutter/flutter/pull/188131) opened on on June 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188131) 1 addition and 0 deletions in 1 file</sub><br />
 
