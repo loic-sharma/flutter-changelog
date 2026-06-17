@@ -30,7 +30,7 @@
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/184588) 236 additions and 255 deletions in 4 files</sub><br />
 
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
-  <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
+  <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; Remove test utils cross-import from elevated_button_test<br />
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
@@ -147,7 +147,7 @@
   <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/187028) 320 additions and 302 deletions in 4 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
-  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/187029) 884 additions and 18 deletions in 28 files</sub><br />
+  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/187029) 884 additions and 18 deletions in 28 files</sub><br />
 
 * **[Kirtikumar Anandrao Ramchandani](https://github.com/KirtiRamchandani)** &mdash; Remove Material test multi-view utility cross-import<br />
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
@@ -279,7 +279,7 @@
   <sub>[#187993](https://github.com/flutter/flutter/pull/187993) opened on on June 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187993) 58 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
-  <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188005) 189 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188005) 189 additions and 2 deletions in 2 files</sub><br />
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix discrete Slider snapping to wrong value when tapping lower-half tick marks<br />
   <sub>[#188012](https://github.com/flutter/flutter/pull/188012) opened on on June 15, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188012) 349 additions and 8 deletions in 3 files</sub><br />

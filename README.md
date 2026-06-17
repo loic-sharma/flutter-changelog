@@ -4,7 +4,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-22 commits.
+24 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. <br />
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub><br />
@@ -62,6 +62,10 @@
   <sub>[#186250](https://github.com/flutter/flutter/pull/186250) merged on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186250) over 1 month, 159 additions and 20 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Add a platform view test to android_hardware_smoke_test<br />
+  <sub>[#188069](https://github.com/flutter/flutter/pull/188069) merged on June 17, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/188069) over 10 hours, 673 additions and 101 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flakiness in widget_preview_detection_test<br />
   <sub>[#187938](https://github.com/flutter/flutter/pull/187938) merged on June 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187938) over 2 days, 86 additions and 44 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
@@ -73,6 +77,10 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fall back to source AndroidManifest.xml if AAPT fails or returns garbage<br />
   <sub>[#187197](https://github.com/flutter/flutter/pull/187197) merged on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187197) over 2 weeks, 168 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Dart roll from f6c31f4c3a63 to 824b4b48b6d4<br />
+  <sub>[#188023](https://github.com/flutter/flutter/pull/188023) merged on June 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188023) over 1 day, 4 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Aprelev](https://github.com/aam), [John "codefu" McDole](https://github.com/jtmcdole), [Nate Biggs](https://github.com/biggs0125)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Only allow dependabot to autoupdate GitHub-owned actions<br />
   <sub>[#187936](https://github.com/flutter/flutter/pull/187936) merged on June 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187936) over 4 days, 5 additions and 2 deletions in 1 file</sub><br />
