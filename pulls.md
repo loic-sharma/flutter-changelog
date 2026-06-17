@@ -269,9 +269,6 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `ShapeBorder` hit test fast paths<br />
   <sub>[#187962](https://github.com/flutter/flutter/pull/187962) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187962) 224 additions and 1 deletion in 7 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Update the list of binaries in the code signing verification test to include new Dart snapshots<br />
-  <sub>[#187969](https://github.com/flutter/flutter/pull/187969) opened on on June 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187969) 18 additions and 1 deletion in 1 file</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add barrierBuilder support to showDialog and showGeneralDialog<br />
   <sub>[#187992](https://github.com/flutter/flutter/pull/187992) opened on on June 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187992) 183 additions and 72 deletions in 4 files</sub><br />
 
@@ -303,5 +300,5 @@
   <sub>[#188078](https://github.com/flutter/flutter/pull/188078) opened on on June 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188078) 40 additions and 0 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade `avd_cipd_version` for linux android emu stable<br />
-  <sub>[#188082](https://github.com/flutter/flutter/pull/188082) opened on on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188082) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#188082](https://github.com/flutter/flutter/pull/188082) opened on on June 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188082) 2 additions and 2 deletions in 1 file</sub><br />
 
