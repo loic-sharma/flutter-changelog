@@ -183,7 +183,7 @@
   <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187551) 37 additions and 0 deletions in 2 files</sub><br />
 
 * **[chtga](https://github.com/tamirenkhbayar3-cmd)** &mdash; Restrict web dev server to loopback by default<br />
-  <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
+  <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Implement Windows platform view plugin lifecycle<br />
   <sub>[#187604](https://github.com/flutter/flutter/pull/187604) opened on on June 5, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187604) 290 additions and 23 deletions in 9 files</sub><br />
@@ -224,9 +224,6 @@
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Repaint NavigationIndicator's host Material when its animation ticks<br />
   <sub>[#187802](https://github.com/flutter/flutter/pull/187802) opened on on June 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187802) 61 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Print trace when skipping flavor-specific and platform-specific assets<br />
-  <sub>[#187857](https://github.com/flutter/flutter/pull/187857) opened on on June 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187857) 25 additions and 4 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] Print trace when skipping flavor-specific and platform-specific assets<br />
   <sub>[#187859](https://github.com/flutter/flutter/pull/187859) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187859) 25 additions and 4 deletions in 2 files</sub><br />
 
@@ -237,7 +234,7 @@
   <sub>[#187863](https://github.com/flutter/flutter/pull/187863) opened on on June 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187863) 119 additions and 198 deletions in 21 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
-  <sub>[#187864](https://github.com/flutter/flutter/pull/187864) opened on on June 11, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/187864) 1250 additions and 127 deletions in 6 files</sub><br />
+  <sub>[#187864](https://github.com/flutter/flutter/pull/187864) opened on on June 11, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187864) 1250 additions and 127 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Allow selecting multi-digit device options<br />
   <sub>[#187867](https://github.com/flutter/flutter/pull/187867) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187867) 113 additions and 0 deletions in 5 files</sub><br />
@@ -306,5 +303,5 @@
   <sub>[#188078](https://github.com/flutter/flutter/pull/188078) opened on on June 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188078) 40 additions and 0 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade `avd_cipd_version` for linux android emu stable<br />
-  <sub>[#188082](https://github.com/flutter/flutter/pull/188082) opened on on June 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188082) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#188082](https://github.com/flutter/flutter/pull/188082) opened on on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188082) 1 addition and 1 deletion in 1 file</sub><br />
 
