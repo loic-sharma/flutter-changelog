@@ -4,7 +4,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-21 commits.
+22 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. 
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub>
@@ -45,6 +45,10 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fail gracefully on Android AVD lock errors during startup
   <sub>[#187200](https://github.com/flutter/flutter/pull/187200) merged on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187200) over 2 weeks, 176 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub>
+
+* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [flutter_tools] Format empty app template with latest dart format
+  <sub>[#187443](https://github.com/flutter/flutter/pull/187443) merged on June 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187443) over 2 weeks, 1 addition and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds arm64 variant of impeller devicelab tests for windows.
   <sub>[#188053](https://github.com/flutter/flutter/pull/188053) merged on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188053) over 17 hours, 14 additions and 0 deletions in 1 file</sub>
