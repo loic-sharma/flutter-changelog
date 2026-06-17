@@ -161,9 +161,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Resolve issue  Catch am start failures with 'Error type' and prevent hang<br />
   <sub>[#187196](https://github.com/flutter/flutter/pull/187196) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187196) 144 additions and 1 deletion in 2 files</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip prefetch SwiftPM dependencies if the project hasn't been migrated to SwiftPM yet<br />
-  <sub>[#187206](https://github.com/flutter/flutter/pull/187206) opened on on May 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187206) 58 additions and 0 deletions in 2 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Handle 'no permissions' adb device state<br />
   <sub>[#187248](https://github.com/flutter/flutter/pull/187248) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187248) 84 additions and 1 deletion in 2 files</sub><br />
 
@@ -223,9 +220,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove use of deprecated API related to removal of the VM isolate.<br />
   <sub>[#187863](https://github.com/flutter/flutter/pull/187863) opened on on June 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187863) 119 additions and 198 deletions in 21 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
-  <sub>[#187864](https://github.com/flutter/flutter/pull/187864) opened on on June 11, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/187864) 1249 additions and 127 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Allow selecting multi-digit device options<br />
   <sub>[#187867](https://github.com/flutter/flutter/pull/187867) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187867) 113 additions and 0 deletions in 5 files</sub><br />

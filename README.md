@@ -4,7 +4,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-31 commits.
+33 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds external texture devicelab test for windows impeller<br />
   <sub>[#187886](https://github.com/flutter/flutter/pull/187886) merged on June 17, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/187886) over 5 days, 1322 additions and 0 deletions in 18 files</sub><br />
@@ -74,6 +74,10 @@
   <sub>[#186250](https://github.com/flutter/flutter/pull/186250) merged on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186250) over 1 month, 159 additions and 20 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Bump dwds to 27.1.2<br />
+  <sub>[#187951](https://github.com/flutter/flutter/pull/187951) merged on June 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187951) over 5 days, 43 additions and 57 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
+
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Add a platform view test to android_hardware_smoke_test<br />
   <sub>[#188069](https://github.com/flutter/flutter/pull/188069) merged on June 17, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/188069) over 10 hours, 673 additions and 101 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -85,6 +89,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios] Filter UIScene events to those relating to Flutter VC scene<br />
   <sub>[#187987](https://github.com/flutter/flutter/pull/187987) merged on June 15, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/187987) over 22 hours, 105 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip prefetch SwiftPM dependencies if the project hasn't been migrated to SwiftPM yet<br />
+  <sub>[#187206](https://github.com/flutter/flutter/pull/187206) merged on June 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187206) over 2 weeks, 58 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) merged on June 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186304) over 1 month, 41 additions and 1 deletion in 2 files</sub><br />
