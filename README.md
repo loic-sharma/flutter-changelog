@@ -4,7 +4,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-26 commits.
+29 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Map some framework semantics roles to android classes. <br />
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Add a platform view test to android_hardware_smoke_test<br />
   <sub>[#187913](https://github.com/flutter/flutter/pull/187913) merged on June 15, 2026 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/187913) over 3 days, 683 additions and 85 deletions in 12 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [linux]: fixes crash when resizing windows<br />
+  <sub>[#187626](https://github.com/flutter/flutter/pull/187626) merged on June 17, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/187626) over 1 week, 92 additions and 4 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Move queue submission into a callback that is invoked by FenceWaiterVK::AddFence only if it can accept the fence<br />
   <sub>[#187761](https://github.com/flutter/flutter/pull/187761) merged on June 16, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/187761) over 6 days, 183 additions and 42 deletions in 8 files</sub><br />
@@ -86,6 +90,10 @@
   <sub>[#187197](https://github.com/flutter/flutter/pull/187197) merged on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187197) over 2 weeks, 168 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove canvaskit_cipd_instance from DEPS<br />
+  <sub>[#188073](https://github.com/flutter/flutter/pull/188073) merged on June 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188073) over 21 hours, 0 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Dart roll from f6c31f4c3a63 to 824b4b48b6d4<br />
   <sub>[#188023](https://github.com/flutter/flutter/pull/188023) merged on June 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188023) over 1 day, 4 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Aprelev](https://github.com/aam), [John "codefu" McDole](https://github.com/jtmcdole), [Nate Biggs](https://github.com/biggs0125)</sub><br />
@@ -101,6 +109,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the APNG decoder, validate the chunk data length before calling GetChunkSize to avoid potential overflow in the chunk size calculation<br />
   <sub>[#187949](https://github.com/flutter/flutter/pull/187949) merged on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187949) over 2 days, 77 additions and 12 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Enforce that package-declared asset paths stay within the package<br />
+  <sub>[#187661](https://github.com/flutter/flutter/pull/187661) merged on June 17, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187661) over 1 week, 58 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Anthony Hurtado](https://github.com/jortles)** &mdash; Add FlatBuffers Verifier checks to Impeller asset loading<br />
   <sub>[#187878](https://github.com/flutter/flutter/pull/187878) merged on June 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187878) over 4 days, 54 additions and 0 deletions in 4 files</sub><br />
@@ -692,7 +704,11 @@
 
 ### June 13, 2026 to June 19, 2026
 
-1 commits.
+2 commits.
+
+* **[HiroyukiTamura](https://github.com/HiroyukiTamura)** &mdash; [vector_graphics_compiler] Use Abi.current() for engine-artifact lookup on Linux ARM64<br />
+  <sub>[#11781](https://github.com/flutter/packages/pull/11781) merged on June 17, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/11781) over 3 weeks, 147 additions and 29 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [path_provider] Document null vs UnsupportedError return semantics<br />
   <sub>[#11793](https://github.com/flutter/packages/pull/11793) merged on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11793) over 2 weeks, 23 additions and 6 deletions in 6 files</sub><br />

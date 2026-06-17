@@ -234,7 +234,7 @@
   <sub>[#187863](https://github.com/flutter/flutter/pull/187863) opened on on June 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187863) 119 additions and 198 deletions in 21 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [SwiftPM] Fix concurrent directory/file/symlink creation crashes<br />
-  <sub>[#187864](https://github.com/flutter/flutter/pull/187864) opened on on June 11, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/187864) 1250 additions and 127 deletions in 6 files</sub><br />
+  <sub>[#187864](https://github.com/flutter/flutter/pull/187864) opened on on June 11, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/187864) 1249 additions and 127 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Allow selecting multi-digit device options<br />
   <sub>[#187867](https://github.com/flutter/flutter/pull/187867) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187867) 113 additions and 0 deletions in 5 files</sub><br />
@@ -292,7 +292,4 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; `hello_world_windows_impeller` bringup->false<br />
   <sub>[#188047](https://github.com/flutter/flutter/pull/188047) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188047) 0 additions and 1 deletion in 1 file</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove canvaskit_cipd_instance from DEPS<br />
-  <sub>[#188073](https://github.com/flutter/flutter/pull/188073) opened on on June 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188073) 0 additions and 4 deletions in 1 file</sub><br />
 
