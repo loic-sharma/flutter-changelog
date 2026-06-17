@@ -213,19 +213,19 @@
   <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] Print trace when skipping flavor-specific and platform-specific assets<br />
-  <sub>[#187859](https://github.com/flutter/flutter/pull/187859) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187859) 25 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#187859](https://github.com/flutter/flutter/pull/187859) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187859) 25 additions and 4 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove use of deprecated copy_trees.<br />
-  <sub>[#187862](https://github.com/flutter/flutter/pull/187862) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187862) 19 additions and 34 deletions in 5 files</sub><br />
+  <sub>[#187862](https://github.com/flutter/flutter/pull/187862) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187862) 19 additions and 34 deletions in 5 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove use of deprecated API related to removal of the VM isolate.<br />
-  <sub>[#187863](https://github.com/flutter/flutter/pull/187863) opened on on June 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187863) 119 additions and 198 deletions in 21 files</sub><br />
+  <sub>[#187863](https://github.com/flutter/flutter/pull/187863) opened on on June 11, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/187863) 119 additions and 198 deletions in 21 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Allow selecting multi-digit device options<br />
   <sub>[#187867](https://github.com/flutter/flutter/pull/187867) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187867) 113 additions and 0 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] Allow selecting multi-digit device options<br />
-  <sub>[#187868](https://github.com/flutter/flutter/pull/187868) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187868) 113 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#187868](https://github.com/flutter/flutter/pull/187868) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187868) 113 additions and 0 deletions in 5 files</sub><br />
 
 * **[Anthony Hurtado](https://github.com/jortles)** &mdash; Add recursion depth limit to StandardCodecSerializer::ReadValue<br />
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
@@ -268,4 +268,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; `hello_world_windows_impeller` bringup->false<br />
   <sub>[#188047](https://github.com/flutter/flutter/pull/188047) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188047) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.46-candidate.0] Sync engine.version to e9088cd423b0ac81ca25e65b52b56bb2dfeab81a<br />
+  <sub>[#188131](https://github.com/flutter/flutter/pull/188131) opened on on June 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188131) 1 addition and 0 deletions in 1 file</sub><br />
 
