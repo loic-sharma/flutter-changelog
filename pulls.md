@@ -270,10 +270,10 @@
   <sub>[#188080](https://github.com/flutter/flutter/pull/188080) opened on on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188080) 168 additions and 24 deletions in 9 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix byte/character offset confusion in FlAccessibleTextField<br />
-  <sub>[#188138](https://github.com/flutter/flutter/pull/188138) opened on on June 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188138) 68 additions and 15 deletions in 2 files</sub><br />
+  <sub>[#188138](https://github.com/flutter/flutter/pull/188138) opened on on June 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188138) 68 additions and 15 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fixture tests in remaining unit tests<br />
-  <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/188142) 773 additions and 1113 deletions in 29 files</sub><br />
+  <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/188142) 773 additions and 1113 deletions in 29 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix incorrect GL datatypes for uniform locations<br />
   <sub>[#188143](https://github.com/flutter/flutter/pull/188143) opened on on June 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188143) 2 additions and 2 deletions in 1 file</sub><br />
