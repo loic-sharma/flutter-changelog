@@ -281,6 +281,12 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix README images + breaking change links<br />
   <sub>[#188183](https://github.com/flutter/flutter/pull/188183) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188183) 5 additions and 5 deletions in 2 files</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Bump flutter version from 13.0 to 15.0<br />
+  <sub>[#188187](https://github.com/flutter/flutter/pull/188187) opened on on June 18, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/188187) 258 additions and 228 deletions in 97 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrates flutter windows test to impeller<br />
+  <sub>[#188188](https://github.com/flutter/flutter/pull/188188) opened on on June 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188188) 59 additions and 6 deletions in 6 files</sub><br />
+
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix bounds checking in FlAccessibleTextField<br />
   <sub>[#188191](https://github.com/flutter/flutter/pull/188191) opened on on June 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188191) 149 additions and 4 deletions in 2 files</sub><br />
 
