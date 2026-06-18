@@ -4,7 +4,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-42 commits.
+44 commits.
 
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) merged on June 17, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/182047) over 4 months, 9 additions and 5 deletions in 2 files</sub>
@@ -115,33 +115,33 @@
   <sub>[#187987](https://github.com/flutter/flutter/pull/187987) merged on June 15, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/187987) over 22 hours, 105 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled
-  <sub>[#186304](https://github.com/flutter/flutter/pull/186304) merged on June 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186304) over 1 month, 41 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix bounds checking in FlAccessibleTextField
   <sub>[#188137](https://github.com/flutter/flutter/pull/188137) merged on June 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188137) over 3 hours, 149 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fall back to source AndroidManifest.xml if AAPT fails or returns garbage
-  <sub>[#187197](https://github.com/flutter/flutter/pull/187197) merged on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187197) over 2 weeks, 168 additions and 3 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip prefetch SwiftPM dependencies if the project hasn't been migrated to SwiftPM yet
   <sub>[#187206](https://github.com/flutter/flutter/pull/187206) merged on June 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187206) over 2 weeks, 58 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove canvaskit_cipd_instance from DEPS
-  <sub>[#188073](https://github.com/flutter/flutter/pull/188073) merged on June 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188073) over 21 hours, 0 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fall back to source AndroidManifest.xml if AAPT fails or returns garbage
+  <sub>[#187197](https://github.com/flutter/flutter/pull/187197) merged on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187197) over 2 weeks, 168 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Dart roll from f6c31f4c3a63 to 824b4b48b6d4
-  <sub>[#188023](https://github.com/flutter/flutter/pull/188023) merged on June 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188023) over 1 day, 4 additions and 8 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Aprelev](https://github.com/aam), [John "codefu" McDole](https://github.com/jtmcdole), [Nate Biggs](https://github.com/biggs0125)</sub>
+* **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled
+  <sub>[#186304](https://github.com/flutter/flutter/pull/186304) merged on June 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186304) over 1 month, 41 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Only allow dependabot to autoupdate GitHub-owned actions
   <sub>[#187936](https://github.com/flutter/flutter/pull/187936) merged on June 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187936) over 4 days, 5 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds tests for disabling macos impeller
+  <sub>[#188132](https://github.com/flutter/flutter/pull/188132) merged on June 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188132) over 2 hours, 175 additions and 47 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add note about magnifier issue when using transparent HCPP pv
+  <sub>[#187753](https://github.com/flutter/flutter/pull/187753) merged on June 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187753) over 1 week, 2 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Exclude fuchsia-sdk/sdk/.build-id from the builder cache archive
   <sub>[#187826](https://github.com/flutter/flutter/pull/187826) merged on June 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187826) over 4 days, 9 additions and 0 deletions in 1 file</sub>
@@ -151,13 +151,21 @@
   <sub>[#187949](https://github.com/flutter/flutter/pull/187949) merged on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187949) over 2 days, 77 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds tests for disabling macos impeller
-  <sub>[#188132](https://github.com/flutter/flutter/pull/188132) merged on June 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188132) over 2 hours, 175 additions and 47 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove canvaskit_cipd_instance from DEPS
+  <sub>[#188073](https://github.com/flutter/flutter/pull/188073) merged on June 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188073) over 21 hours, 0 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add note about magnifier issue when using transparent HCPP pv
-  <sub>[#187753](https://github.com/flutter/flutter/pull/187753) merged on June 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187753) over 1 week, 2 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Dart roll from f6c31f4c3a63 to 824b4b48b6d4
+  <sub>[#188023](https://github.com/flutter/flutter/pull/188023) merged on June 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188023) over 1 day, 4 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Aprelev](https://github.com/aam), [John "codefu" McDole](https://github.com/jtmcdole), [Nate Biggs](https://github.com/biggs0125)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix vertical offset in composite_layer
+  <sub>[#188145](https://github.com/flutter/flutter/pull/188145) merged on June 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188145) over 12 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix incorrect GL datatypes for uniform locations
+  <sub>[#188143](https://github.com/flutter/flutter/pull/188143) merged on June 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188143) over 13 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add entitlements.txt entries for new dart sdk binaries
   <sub>[#188133](https://github.com/flutter/flutter/pull/188133) merged on June 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188133) over 7 hours, 28 additions and 2 deletions in 3 files</sub>
@@ -897,7 +905,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-11 commits.
+12 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Set up shared package for components and utilities
   <sub>[#13486](https://github.com/flutter/website/pull/13486) merged on June 15, 2026 &mdash; **Extra large:** [68 comments](https://github.com/flutter/website/pull/13486) over 5 days, 1246 additions and 1077 deletions in 150 files</sub>
@@ -906,6 +914,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Start use of some utilities from site_shared
   <sub>[#13509](https://github.com/flutter/website/pull/13509) merged on June 16, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/website/pull/13509) over 2 hours, 91 additions and 382 deletions in 25 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Standardize and consolidate font setup
+  <sub>[#13519](https://github.com/flutter/website/pull/13519) merged on June 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13519) over 2 hours, 91 additions and 101 deletions in 26 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Standardize to styles_hash_builder from site_shared
   <sub>[#13515](https://github.com/flutter/website/pull/13515) merged on June 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13515) over 14 hours, 9 additions and 120 deletions in 8 files</sub>

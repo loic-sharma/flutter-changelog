@@ -275,14 +275,8 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fixture tests in remaining unit tests<br />
   <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/188142) 773 additions and 1113 deletions in 29 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix incorrect GL datatypes for uniform locations<br />
-  <sub>[#188143](https://github.com/flutter/flutter/pull/188143) opened on on June 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188143) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move compositor shader into its own GObject<br />
-  <sub>[#188144](https://github.com/flutter/flutter/pull/188144) opened on on June 18, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/188144) 305 additions and 156 deletions in 4 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix vertical offset in composite_layer<br />
-  <sub>[#188145](https://github.com/flutter/flutter/pull/188145) opened on on June 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188145) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#188144](https://github.com/flutter/flutter/pull/188144) opened on on June 18, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/188144) 305 additions and 156 deletions in 4 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Navigator.pushNamed<T>()` type checking<br />
   <sub>[#188148](https://github.com/flutter/flutter/pull/188148) opened on on June 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188148) 41 additions and 22 deletions in 2 files</sub><br />
