@@ -174,7 +174,7 @@
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
 
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [InkWell] fix: Prevent disabled buttons from passing taps to parent GestureDetectors<br />
-  <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187551) 37 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187551) 37 additions and 0 deletions in 2 files</sub><br />
 
 * **[chtga](https://github.com/tamirenkhbayar3-cmd)** &mdash; Restrict web dev server to loopback by default<br />
   <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
@@ -270,7 +270,7 @@
   <sub>[#188047](https://github.com/flutter/flutter/pull/188047) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188047) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Share a single ContextGLES among all PlaygroundImplGLES<br />
-  <sub>[#188080](https://github.com/flutter/flutter/pull/188080) opened on on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188080) 164 additions and 24 deletions in 8 files</sub><br />
+  <sub>[#188080](https://github.com/flutter/flutter/pull/188080) opened on on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188080) 168 additions and 24 deletions in 9 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.46-candidate.0] Sync engine.version to e9088cd423b0ac81ca25e65b52b56bb2dfeab81a<br />
   <sub>[#188131](https://github.com/flutter/flutter/pull/188131) opened on on June 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188131) 1 addition and 0 deletions in 1 file</sub><br />
