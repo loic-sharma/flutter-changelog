@@ -4,7 +4,12 @@
 
 ### June 13, 2026 to June 19, 2026
 
-38 commits.
+39 commits.
+
+* **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
+  <sub>[#182047](https://github.com/flutter/flutter/pull/182047) merged on June 17, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/182047) over 4 months, 9 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [zhongliugo](https://github.com/flutter-zl)</sub><br />
+  <sub><details><summary>6 images...</summary><img width="452" height="243" alt="image" src="https://github.com/user-attachments/assets/b8211bea-14e9-4d2e-90ed-f9caa5b60161" /><img width="453" height="228" alt="image" src="https://github.com/user-attachments/assets/f02a830e-025e-480d-a493-8c31acc25369" /><img width="799" height="22" alt="image" src="https://github.com/user-attachments/assets/72b50651-4b23-403c-b252-12dec5079ad4" /><img width="688" height="20" alt="image" src="https://github.com/user-attachments/assets/a1853c96-cc5d-4497-92d0-1a7bcd67fde4" /><img width="703" height="271" alt="image" src="https://github.com/user-attachments/assets/c170afd9-8e93-495e-8eb0-2adfae5b23b6" /><img width="698" height="158" alt="image" src="https://github.com/user-attachments/assets/4982a174-ad81-4bad-a157-082fbde2c3cb" /></details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds external texture devicelab test for windows impeller<br />
   <sub>[#187886](https://github.com/flutter/flutter/pull/187886) merged on June 17, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/187886) over 5 days, 1322 additions and 0 deletions in 18 files</sub><br />
@@ -50,13 +55,13 @@
   <sub>[#185424](https://github.com/flutter/flutter/pull/185424) merged on June 16, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/185424) over 1 month, 16 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Isolate compiled dill caches by TargetModel<br />
-  <sub>[#187253](https://github.com/flutter/flutter/pull/187253) merged on June 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187253) over 2 weeks, 251 additions and 49 deletions in 11 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Import `dart:_js_interop_wasm` in addition to `dart:_wasm` to convert between `JSAny` and `WasmExternRef?`<br />
   <sub>[#186974](https://github.com/flutter/flutter/pull/186974) merged on June 17, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186974) over 3 weeks, 9 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Isolate compiled dill caches by TargetModel<br />
+  <sub>[#187253](https://github.com/flutter/flutter/pull/187253) merged on June 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187253) over 2 weeks, 251 additions and 49 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] RenderParagraph needs paint after a DPR change<br />
   <sub>[#186968](https://github.com/flutter/flutter/pull/186968) merged on June 16, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/186968) over 3 weeks, 168 additions and 12 deletions in 6 files</sub><br />
@@ -106,20 +111,20 @@
   <sub>[#187987](https://github.com/flutter/flutter/pull/187987) merged on June 15, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/187987) over 22 hours, 105 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fall back to source AndroidManifest.xml if AAPT fails or returns garbage<br />
-  <sub>[#187197](https://github.com/flutter/flutter/pull/187197) merged on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187197) over 2 weeks, 168 additions and 3 deletions in 2 files</sub><br />
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Remove support for unused manifest flags<br />
+  <sub>[#186021](https://github.com/flutter/flutter/pull/186021) merged on June 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186021) over 1 month, 4 additions and 208 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip prefetch SwiftPM dependencies if the project hasn't been migrated to SwiftPM yet<br />
-  <sub>[#187206](https://github.com/flutter/flutter/pull/187206) merged on June 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187206) over 2 weeks, 58 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
 * **[Felipe Peter](https://github.com/Mr-Pepe)** &mdash; Skip platform-specific plugin registration if no platforms enabled<br />
   <sub>[#186304](https://github.com/flutter/flutter/pull/186304) merged on June 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186304) over 1 month, 41 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Remove support for unused manifest flags<br />
-  <sub>[#186021](https://github.com/flutter/flutter/pull/186021) merged on June 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186021) over 1 month, 4 additions and 208 deletions in 3 files</sub><br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip prefetch SwiftPM dependencies if the project hasn't been migrated to SwiftPM yet<br />
+  <sub>[#187206](https://github.com/flutter/flutter/pull/187206) merged on June 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187206) over 2 weeks, 58 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fall back to source AndroidManifest.xml if AAPT fails or returns garbage<br />
+  <sub>[#187197](https://github.com/flutter/flutter/pull/187197) merged on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187197) over 2 weeks, 168 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Dart roll from f6c31f4c3a63 to 824b4b48b6d4<br />
