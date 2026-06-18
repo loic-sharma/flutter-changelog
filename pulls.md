@@ -30,7 +30,7 @@
   <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/184588) 236 additions and 255 deletions in 4 files</sub><br />
 
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
-  <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
+  <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; Remove test utils cross-import from elevated_button_test<br />
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
@@ -289,4 +289,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix vertical offset in composite_layer<br />
   <sub>[#188145](https://github.com/flutter/flutter/pull/188145) opened on on June 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188145) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Navigator.pushNamed<T>()` type checking<br />
+  <sub>[#188148](https://github.com/flutter/flutter/pull/188148) opened on on June 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188148) 41 additions and 22 deletions in 2 files</sub><br />
 
