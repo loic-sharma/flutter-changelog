@@ -218,9 +218,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove use of deprecated copy_trees.<br />
   <sub>[#187862](https://github.com/flutter/flutter/pull/187862) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187862) 19 additions and 34 deletions in 5 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove use of deprecated API related to removal of the VM isolate.<br />
-  <sub>[#187863](https://github.com/flutter/flutter/pull/187863) opened on on June 11, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/187863) 119 additions and 198 deletions in 21 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Allow selecting multi-digit device options<br />
   <sub>[#187867](https://github.com/flutter/flutter/pull/187867) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187867) 113 additions and 0 deletions in 5 files</sub><br />
 
