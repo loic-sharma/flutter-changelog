@@ -234,7 +234,7 @@
   <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187910) 97 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; Format Flutter templates to match latest dart format style<br />
-  <sub>[#187918](https://github.com/flutter/flutter/pull/187918) opened on on June 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187918) 1 addition and 7 deletions in 3 files</sub><br />
+  <sub>[#187918](https://github.com/flutter/flutter/pull/187918) opened on on June 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187918) 0 additions and 2 deletions in 2 files</sub><br />
 
 * **[M S karthik](https://github.com/KarthikManikuttan)** &mdash; Handle deferred page-based pops in Navigator.popUntil<br />
   <sub>[#187919](https://github.com/flutter/flutter/pull/187919) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187919) 149 additions and 2 deletions in 2 files</sub><br />
