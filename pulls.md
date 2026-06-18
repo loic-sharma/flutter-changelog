@@ -291,5 +291,8 @@
   <sub>[#188148](https://github.com/flutter/flutter/pull/188148) opened on on June 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188148) 41 additions and 22 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Introduce `DefaultAnimationStyle` widget<br />
-  <sub>[#188150](https://github.com/flutter/flutter/pull/188150) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188150) 179 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#188150](https://github.com/flutter/flutter/pull/188150) opened on on June 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188150) 179 additions and 0 deletions in 3 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP-Stable] Add entitlements.txt entries for new dart sdk binaries (#188133)<br />
+  <sub>[#188156](https://github.com/flutter/flutter/pull/188156) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188156) 28 additions and 2 deletions in 3 files</sub><br />
 
