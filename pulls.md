@@ -296,3 +296,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP-Stable] Add entitlements.txt entries for new dart sdk binaries (#188133)<br />
   <sub>[#188156](https://github.com/flutter/flutter/pull/188156) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188156) 28 additions and 2 deletions in 3 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`<br />
+  <sub>[#188163](https://github.com/flutter/flutter/pull/188163) opened on on June 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188163) 9 additions and 0 deletions in 3 files</sub><br />
+
