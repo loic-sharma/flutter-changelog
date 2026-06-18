@@ -905,7 +905,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-13 commits.
+14 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Set up shared package for components and utilities<br />
   <sub>[#13486](https://github.com/flutter/website/pull/13486) merged on June 15, 2026 &mdash; **Extra large:** [68 comments](https://github.com/flutter/website/pull/13486) over 5 days, 1246 additions and 1077 deletions in 150 files</sub><br />
@@ -938,6 +938,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Support event date ranges<br />
   <sub>[#13508](https://github.com/flutter/website/pull/13508) merged on June 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13508) over 3 hours, 143 additions and 47 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Danyal Ahmed](https://github.com/danyalahmed1995)** &mdash; Clarify Android ABI filtering guidance<br />
+  <sub>[#13514](https://github.com/flutter/website/pull/13514) merged on June 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13514) over 22 hours, 20 additions and 14 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Amos](https://github.com/AmosHuKe)** &mdash; docs: fix the link to the Dot Shorthands guide<br />
   <sub>[#13517](https://github.com/flutter/website/pull/13517) merged on June 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13517) over 8 hours, 1 addition and 1 deletion in 1 file</sub><br />

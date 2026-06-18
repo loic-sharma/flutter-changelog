@@ -290,3 +290,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to a4ce257c68517c1410f4b48ac9852ab5642a3f8d<br />
   <sub>[#188178](https://github.com/flutter/flutter/pull/188178) opened on on June 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188178) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update CHANGELOG.md for Flutter 3.44.3<br />
+  <sub>[#188180](https://github.com/flutter/flutter/pull/188180) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188180) 6 additions and 0 deletions in 1 file</sub><br />
+
