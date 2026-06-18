@@ -382,7 +382,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Remove EnableTransparentWindowBackground because it did nothing important and because Windows 10 does not support DWMWA_SYSTEMBACKDROP_TYPE<br />
-  <sub>[#187848](https://github.com/flutter/flutter/pull/187848) merged on June 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187848) over 18 hours, 0 additions and 30 deletions in 1 file</sub><br />
+  <sub>[#187848](https://github.com/flutter/flutter/pull/187848) merged on June 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187848) over 18 hours, 0 additions and 30 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Expose ASTC HDR texture formats<br />

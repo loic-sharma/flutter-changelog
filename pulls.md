@@ -207,7 +207,7 @@
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Add validation for required fields during xcodebuild<br />
-  <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187772) 160 additions and 2 deletions in 5 files</sub><br />
+  <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187772) 160 additions and 2 deletions in 5 files</sub><br />
 
 * **[Tobias Marschall](https://github.com/saibotma)** &mdash; Fix Android IME visibility after app resume<br />
   <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
@@ -240,7 +240,7 @@
   <sub>[#187920](https://github.com/flutter/flutter/pull/187920) opened on on June 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187920) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
-  <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/187940) 367 additions and 1 deletion in 9 files</sub><br />
+  <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187940) 367 additions and 1 deletion in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Watch transitive #include headers for FragmentProgram hot reload<br />
   <sub>[#187945](https://github.com/flutter/flutter/pull/187945) opened on on June 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187945) 593 additions and 287 deletions in 13 files</sub><br />
