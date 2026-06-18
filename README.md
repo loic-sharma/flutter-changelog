@@ -7,7 +7,7 @@
 44 commits.
 
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
-  <sub>[#182047](https://github.com/flutter/flutter/pull/182047) merged on June 17, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/182047) over 4 months, 9 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#182047](https://github.com/flutter/flutter/pull/182047) merged on June 17, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/182047) over 4 months, 9 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [zhongliugo](https://github.com/flutter-zl)</sub><br />
   <sub><details><summary>6 images...</summary><img width="452" height="243" alt="image" src="https://github.com/user-attachments/assets/b8211bea-14e9-4d2e-90ed-f9caa5b60161" /><img width="453" height="228" alt="image" src="https://github.com/user-attachments/assets/f02a830e-025e-480d-a493-8c31acc25369" /><img width="799" height="22" alt="image" src="https://github.com/user-attachments/assets/72b50651-4b23-403c-b252-12dec5079ad4" /><img width="688" height="20" alt="image" src="https://github.com/user-attachments/assets/a1853c96-cc5d-4497-92d0-1a7bcd67fde4" /><img width="703" height="271" alt="image" src="https://github.com/user-attachments/assets/c170afd9-8e93-495e-8eb0-2adfae5b23b6" /><img width="698" height="158" alt="image" src="https://github.com/user-attachments/assets/4982a174-ad81-4bad-a157-082fbde2c3cb" /></details></sub>
 
