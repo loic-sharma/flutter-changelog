@@ -267,7 +267,7 @@
   <sub>[#188047](https://github.com/flutter/flutter/pull/188047) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188047) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Share a single ContextGLES among all PlaygroundImplGLES<br />
-  <sub>[#188080](https://github.com/flutter/flutter/pull/188080) opened on on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188080) 168 additions and 24 deletions in 9 files</sub><br />
+  <sub>[#188080](https://github.com/flutter/flutter/pull/188080) opened on on June 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188080) 176 additions and 24 deletions in 9 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix byte/character offset confusion in FlAccessibleTextField<br />
   <sub>[#188138](https://github.com/flutter/flutter/pull/188138) opened on on June 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188138) 68 additions and 15 deletions in 2 files</sub><br />
@@ -284,9 +284,9 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Introduce `DefaultAnimationStyle` widget<br />
   <sub>[#188150](https://github.com/flutter/flutter/pull/188150) opened on on June 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188150) 179 additions and 0 deletions in 3 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP-Stable] Add entitlements.txt entries for new dart sdk binaries (#188133)<br />
-  <sub>[#188156](https://github.com/flutter/flutter/pull/188156) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188156) 28 additions and 2 deletions in 3 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`<br />
   <sub>[#188163](https://github.com/flutter/flutter/pull/188163) opened on on June 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188163) 9 additions and 0 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to a4ce257c68517c1410f4b48ac9852ab5642a3f8d<br />
+  <sub>[#188178](https://github.com/flutter/flutter/pull/188178) opened on on June 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188178) 1 addition and 1 deletion in 1 file</sub><br />
 

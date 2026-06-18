@@ -905,7 +905,7 @@
 
 ### June 13, 2026 to June 19, 2026
 
-12 commits.
+13 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Set up shared package for components and utilities
   <sub>[#13486](https://github.com/flutter/website/pull/13486) merged on June 15, 2026 &mdash; **Extra large:** [68 comments](https://github.com/flutter/website/pull/13486) over 5 days, 1246 additions and 1077 deletions in 150 files</sub>
@@ -914,6 +914,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Start use of some utilities from site_shared
   <sub>[#13509](https://github.com/flutter/website/pull/13509) merged on June 16, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/website/pull/13509) over 2 hours, 91 additions and 382 deletions in 25 files</sub>
   <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [docs] Consolidate to flex versions of Google Sans fonts
+  <sub>[#13518](https://github.com/flutter/website/pull/13518) merged on June 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13518) over 4 hours, 15 additions and 14 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Standardize and consolidate font setup
   <sub>[#13519](https://github.com/flutter/website/pull/13519) merged on June 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13519) over 2 hours, 91 additions and 101 deletions in 26 files</sub>
