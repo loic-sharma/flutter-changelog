@@ -287,6 +287,15 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrates flutter windows test to impeller<br />
   <sub>[#188188](https://github.com/flutter/flutter/pull/188188) opened on on June 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188188) 59 additions and 6 deletions in 6 files</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Drop availability checks for ios 14 and 15 in the embedder<br />
+  <sub>[#188189](https://github.com/flutter/flutter/pull/188189) opened on on June 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188189) 25 additions and 44 deletions in 7 files</sub><br />
+
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix bounds checking in FlAccessibleTextField<br />
   <sub>[#188191](https://github.com/flutter/flutter/pull/188191) opened on on June 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188191) 149 additions and 4 deletions in 2 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use g_signal_connect_object in the Linux embedder<br />
+  <sub>[#188241](https://github.com/flutter/flutter/pull/188241) opened on on June 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188241) 35 additions and 73 deletions in 5 files</sub><br />
+
+* **[djswndl](https://github.com/aiden30015)** &mdash; Add ThousandsSeparatorTextInputFormatter<br />
+  <sub>[#188243](https://github.com/flutter/flutter/pull/188243) opened on on June 19, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188243) 311 additions and 0 deletions in 2 files</sub><br />
 
