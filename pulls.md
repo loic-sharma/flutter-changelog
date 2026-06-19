@@ -147,7 +147,7 @@
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Forcefully kill hung subprocesses 5 seconds after timeout<br />
-  <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187178) 48 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187178) 45 additions and 0 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
@@ -165,7 +165,7 @@
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
-  <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/187365) 186 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/187365) 186 additions and 0 deletions in 7 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
@@ -304,4 +304,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.46-candidate.0] Sync engine.version to ca13a7eb9727f9182ac0d41604d39307ea9a64c7<br />
   <sub>[#188260](https://github.com/flutter/flutter/pull/188260) opened on on June 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188260) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add FlutterEngine::GetPluginRegistrar<br />
+  <sub>[#188268](https://github.com/flutter/flutter/pull/188268) opened on on June 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188268) 44 additions and 37 deletions in 6 files</sub><br />
 
