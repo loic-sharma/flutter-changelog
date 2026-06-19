@@ -311,3 +311,9 @@
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; Verify shader bundle FlatBuffer before access in flutter_gpu ShaderLibrary<br />
   <sub>[#188252](https://github.com/flutter/flutter/pull/188252) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188252) 10 additions and 0 deletions in 1 file</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web/skwasm] Remove name-based export of function<br />
+  <sub>[#188256](https://github.com/flutter/flutter/pull/188256) opened on on June 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188256) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Munawer Ali](https://github.com/Munawer-Ali)** &mdash; Add padding property to Checkbox<br />
+  <sub>[#188258](https://github.com/flutter/flutter/pull/188258) opened on on June 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188258) 123 additions and 6 deletions in 2 files</sub><br />
+
