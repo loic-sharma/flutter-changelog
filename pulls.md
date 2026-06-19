@@ -285,7 +285,7 @@
   <sub>[#188179](https://github.com/flutter/flutter/pull/188179) opened on on June 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188179) 130 additions and 7 deletions in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix README images + breaking change links<br />
-  <sub>[#188183](https://github.com/flutter/flutter/pull/188183) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188183) 5 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#188183](https://github.com/flutter/flutter/pull/188183) opened on on June 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188183) 5 additions and 5 deletions in 2 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Bump flutter version from 13.0 to 15.0<br />
   <sub>[#188187](https://github.com/flutter/flutter/pull/188187) opened on on June 18, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/188187) 258 additions and 228 deletions in 97 files</sub><br />
