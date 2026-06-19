@@ -1108,7 +1108,7 @@
 
 * **[Yukiteru Attano](https://github.com/YukiAttano)** &mdash; add OverflowBar to Multi-Child Layout widgets<br />
   <sub>[#13440](https://github.com/flutter/website/pull/13440) merged on May 31, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13440) over 2 days, 9 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tirth](https://github.com/piedcipher), [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [piedcipher](https://github.com/piedcipher), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 </details>
 
