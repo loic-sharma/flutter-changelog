@@ -305,6 +305,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.46-candidate.0] Sync engine.version to ca13a7eb9727f9182ac0d41604d39307ea9a64c7<br />
   <sub>[#188260](https://github.com/flutter/flutter/pull/188260) opened on on June 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188260) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add FlutterEngine::GetPluginRegistrar<br />
-  <sub>[#188268](https://github.com/flutter/flutter/pull/188268) opened on on June 19, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188268) 58 additions and 37 deletions in 6 files</sub><br />
-
