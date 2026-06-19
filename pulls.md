@@ -222,7 +222,7 @@
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Yashas H Majmudar](https://github.com/yashas-hm)** &mdash; [flutter_tools] Use DeviceHub.app for iOS simulator path on Xcode 27+<br />
-  <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187910) 97 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187910) 65 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; Format Flutter templates to match latest dart format style<br />
   <sub>[#187918](https://github.com/flutter/flutter/pull/187918) opened on on June 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187918) 0 additions and 2 deletions in 2 files</sub><br />
@@ -304,4 +304,7 @@
 
 * **[djswndl](https://github.com/aiden30015)** &mdash; Add ThousandsSeparatorTextInputFormatter<br />
   <sub>[#188243](https://github.com/flutter/flutter/pull/188243) opened on on June 19, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188243) 311 additions and 0 deletions in 2 files</sub><br />
+
+* **[Himank Sharma](https://github.com/himanksharma8434-coder)** &mdash; feat: add new API documentation examples for scroll notifications, UI…<br />
+  <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
 
