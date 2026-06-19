@@ -278,6 +278,9 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`<br />
   <sub>[#188163](https://github.com/flutter/flutter/pull/188163) opened on on June 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188163) 9 additions and 0 deletions in 3 files</sub><br />
 
+* **[Juan Campuzano](https://github.com/juan-campuzano)** &mdash; fix: identity mismatch for path dependency plugins<br />
+  <sub>[#188179](https://github.com/flutter/flutter/pull/188179) opened on on June 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188179) 130 additions and 7 deletions in 2 files</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix README images + breaking change links<br />
   <sub>[#188183](https://github.com/flutter/flutter/pull/188183) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188183) 5 additions and 5 deletions in 2 files</sub><br />
 
