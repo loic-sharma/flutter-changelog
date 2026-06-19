@@ -165,7 +165,7 @@
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
-  <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/187365) 180 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#187365](https://github.com/flutter/flutter/pull/187365) opened on on June 1, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/187365) 186 additions and 0 deletions in 7 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
@@ -209,26 +209,14 @@
 * **[Tobias Marschall](https://github.com/saibotma)** &mdash; Fix Android IME visibility after app resume<br />
   <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] Print trace when skipping flavor-specific and platform-specific assets<br />
-  <sub>[#187859](https://github.com/flutter/flutter/pull/187859) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187859) 25 additions and 4 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove use of deprecated copy_trees.<br />
   <sub>[#187862](https://github.com/flutter/flutter/pull/187862) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187862) 19 additions and 34 deletions in 5 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] Allow selecting multi-digit device options<br />
-  <sub>[#187867](https://github.com/flutter/flutter/pull/187867) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187867) 113 additions and 0 deletions in 5 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] Allow selecting multi-digit device options<br />
-  <sub>[#187868](https://github.com/flutter/flutter/pull/187868) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187868) 113 additions and 0 deletions in 5 files</sub><br />
 
 * **[Anthony Hurtado](https://github.com/jortles)** &mdash; Add recursion depth limit to StandardCodecSerializer::ReadValue<br />
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Yashas H Majmudar](https://github.com/yashas-hm)** &mdash; [flutter_tools] Use DeviceHub.app for iOS simulator path on Xcode 27+<br />
   <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187910) 65 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; Format Flutter templates to match latest dart format style<br />
-  <sub>[#187918](https://github.com/flutter/flutter/pull/187918) opened on on June 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187918) 0 additions and 2 deletions in 2 files</sub><br />
 
 * **[M S karthik](https://github.com/KarthikManikuttan)** &mdash; Handle deferred page-based pops in Navigator.popUntil<br />
   <sub>[#187919](https://github.com/flutter/flutter/pull/187919) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187919) 149 additions and 2 deletions in 2 files</sub><br />
@@ -237,7 +225,7 @@
   <sub>[#187920](https://github.com/flutter/flutter/pull/187920) opened on on June 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187920) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
-  <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/187940) 367 additions and 1 deletion in 9 files</sub><br />
+  <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187940) 404 additions and 1 deletion in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload<br />
   <sub>[#187947](https://github.com/flutter/flutter/pull/187947) opened on on June 12, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/187947) 300 additions and 128 deletions in 9 files</sub><br />
