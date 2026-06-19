@@ -36,7 +36,7 @@
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Disconnect from parent window signal when view is destroyed<br />
-  <sub>[#185521](https://github.com/flutter/flutter/pull/185521) opened on on April 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185521) 11 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#185521](https://github.com/flutter/flutter/pull/185521) opened on on April 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185521) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
@@ -267,7 +267,7 @@
   <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/188142) 775 additions and 1601 deletions in 37 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move compositor shader into its own GObject<br />
-  <sub>[#188144](https://github.com/flutter/flutter/pull/188144) opened on on June 18, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/188144) 305 additions and 156 deletions in 4 files</sub><br />
+  <sub>[#188144](https://github.com/flutter/flutter/pull/188144) opened on on June 18, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188144) 305 additions and 156 deletions in 4 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Navigator.pushNamed<T>()` type checking<br />
   <sub>[#188148](https://github.com/flutter/flutter/pull/188148) opened on on June 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188148) 41 additions and 22 deletions in 2 files</sub><br />
