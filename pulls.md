@@ -308,3 +308,6 @@
 * **[Himank Sharma](https://github.com/himanksharma8434-coder)** &mdash; feat: add new API documentation examples for scroll notifications, UI…<br />
   <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
 
+* **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; Verify shader bundle FlatBuffer before access in flutter_gpu ShaderLibrary<br />
+  <sub>[#188252](https://github.com/flutter/flutter/pull/188252) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188252) 10 additions and 0 deletions in 1 file</sub><br />
+
