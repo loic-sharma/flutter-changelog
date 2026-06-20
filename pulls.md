@@ -302,6 +302,3 @@
 * **[Munawer Ali](https://github.com/Munawer-Ali)** &mdash; Add padding property to Checkbox<br />
   <sub>[#188258](https://github.com/flutter/flutter/pull/188258) opened on on June 19, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188258) 181 additions and 7 deletions in 3 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.46-candidate.0] Sync engine.version to ca13a7eb9727f9182ac0d41604d39307ea9a64c7<br />
-  <sub>[#188260](https://github.com/flutter/flutter/pull/188260) opened on on June 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188260) 1 addition and 0 deletions in 1 file</sub><br />
-
