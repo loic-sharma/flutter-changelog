@@ -249,7 +249,7 @@
   <sub>[#188047](https://github.com/flutter/flutter/pull/188047) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188047) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add anisotropic filtering support to samplers<br />
-  <sub>[#188056](https://github.com/flutter/flutter/pull/188056) opened on on June 16, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188056) 348 additions and 10 deletions in 28 files</sub><br />
+  <sub>[#188056](https://github.com/flutter/flutter/pull/188056) opened on on June 16, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/188056) 337 additions and 10 deletions in 28 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [tool] Fix libapp.so dropped from APK/app bundle<br />
   <sub>[#188119](https://github.com/flutter/flutter/pull/188119) opened on on June 17, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/188119) 541 additions and 59 deletions in 4 files</sub><br />
@@ -258,7 +258,7 @@
   <sub>[#188138](https://github.com/flutter/flutter/pull/188138) opened on on June 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188138) 79 additions and 20 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fixture tests in remaining unit tests<br />
-  <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/188142) 775 additions and 1601 deletions in 37 files</sub><br />
+  <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/188142) 786 additions and 1609 deletions in 37 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Navigator.pushNamed<T>()` type checking<br />
   <sub>[#188148](https://github.com/flutter/flutter/pull/188148) opened on on June 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188148) 41 additions and 22 deletions in 2 files</sub><br />
@@ -300,7 +300,7 @@
   <sub>[#188288](https://github.com/flutter/flutter/pull/188288) opened on on June 21, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/188288) 239 additions and 1 deletion in 4 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move Flutter rendering into a new FlViewRenderer widget<br />
-  <sub>[#188289](https://github.com/flutter/flutter/pull/188289) opened on on June 22, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/188289) 305 additions and 150 deletions in 5 files</sub><br />
+  <sub>[#188289](https://github.com/flutter/flutter/pull/188289) opened on on June 22, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/188289) 305 additions and 150 deletions in 5 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Close FlutterRenderer texture image SyncFence objects immediately after waiting on them<br />
   <sub>[#188313](https://github.com/flutter/flutter/pull/188313) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188313) 17 additions and 5 deletions in 2 files</sub><br />
@@ -312,8 +312,11 @@
   <sub>[#188341](https://github.com/flutter/flutter/pull/188341) opened on on June 22, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188341) 78 additions and 568 deletions in 13 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Apply autocapitalize to text editing elements<br />
-  <sub>[#188351](https://github.com/flutter/flutter/pull/188351) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188351) 41 additions and 27 deletions in 2 files</sub><br />
+  <sub>[#188351](https://github.com/flutter/flutter/pull/188351) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188351) 44 additions and 27 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Test `no_entitlement` config for dart snapshots on `flutter-3.45-candidate.0`<br />
   <sub>[#188352](https://github.com/flutter/flutter/pull/188352) opened on on June 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188352) 57 additions and 17 deletions in 3 files</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump minimum Dart SDK version constraint to 3.11.0-0 [testing skill]<br />
+  <sub>[#188357](https://github.com/flutter/flutter/pull/188357) opened on on June 22, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/188357) 156 additions and 156 deletions in 138 files</sub><br />
 
