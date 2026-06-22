@@ -4,7 +4,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-4 commits.
+6 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add agent skills for orchestrating cherry-picks to stable and beta channels
   <sub>[#187860](https://github.com/flutter/flutter/pull/187860) merged on June 22, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/187860) over 1 week, 520 additions and 0 deletions in 2 files</sub>
@@ -14,9 +14,17 @@
   <sub>[#188144](https://github.com/flutter/flutter/pull/188144) merged on June 22, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188144) over 4 days, 305 additions and 156 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Disconnect from parent window signal when view is destroyed
+  <sub>[#185521](https://github.com/flutter/flutter/pull/185521) merged on June 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185521) over 1 month, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
 * **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) merged on June 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) over 1 month, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use g_signal_connect_object in the Linux embedder
+  <sub>[#188241](https://github.com/flutter/flutter/pull/188241) merged on June 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188241) over 3 days, 35 additions and 73 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Remove many absolute paths from build commands.
   <sub>[#187765](https://github.com/flutter/flutter/pull/187765) merged on June 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187765) over 1 week, 130 additions and 127 deletions in 22 files</sub>
@@ -573,10 +581,14 @@
 
 ### June 20, 2026 to June 26, 2026
 
-1 commits.
+2 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Survey is closed, revert banner to previous content.
   <sub>[#13528](https://github.com/flutter/website/pull/13528) merged on June 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13528) over 38 minutes, 14 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; New design doc: Architecture of material_ui and cupertino_ui
+  <sub>[#13529](https://github.com/flutter/website/pull/13529) merged on June 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13529) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### June 13, 2026 to June 19, 2026

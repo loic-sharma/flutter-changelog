@@ -35,9 +35,6 @@
 * **[Muhammad Taimoor ](https://github.com/temoorx)** &mdash; Remove test utils cross-import from elevated_button_test<br />
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Disconnect from parent window signal when view is destroyed<br />
-  <sub>[#185521](https://github.com/flutter/flutter/pull/185521) opened on on April 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185521) 3 additions and 2 deletions in 1 file</sub><br />
-
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
@@ -254,6 +251,9 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add anisotropic filtering support to samplers<br />
   <sub>[#188056](https://github.com/flutter/flutter/pull/188056) opened on on June 16, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188056) 348 additions and 10 deletions in 28 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [tool] Fix libapp.so dropped from APK/app bundle<br />
+  <sub>[#188119](https://github.com/flutter/flutter/pull/188119) opened on on June 17, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/188119) 541 additions and 59 deletions in 4 files</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix byte/character offset confusion in FlAccessibleTextField<br />
   <sub>[#188138](https://github.com/flutter/flutter/pull/188138) opened on on June 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188138) 79 additions and 20 deletions in 2 files</sub><br />
 
@@ -283,9 +283,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix bounds checking in FlAccessibleTextField<br />
   <sub>[#188191](https://github.com/flutter/flutter/pull/188191) opened on on June 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188191) 149 additions and 4 deletions in 2 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use g_signal_connect_object in the Linux embedder<br />
-  <sub>[#188241](https://github.com/flutter/flutter/pull/188241) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188241) 35 additions and 73 deletions in 5 files</sub><br />
 
 * **[djswndl](https://github.com/aiden30015)** &mdash; Add ThousandsSeparatorTextInputFormatter<br />
   <sub>[#188243](https://github.com/flutter/flutter/pull/188243) opened on on June 19, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188243) 311 additions and 0 deletions in 2 files</sub><br />
@@ -322,4 +319,7 @@
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Apply autocapitalize to text editing elements<br />
   <sub>[#188351](https://github.com/flutter/flutter/pull/188351) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188351) 41 additions and 27 deletions in 2 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Test `no_entitlement` config for dart snapshots on `flutter-3.45-candidate.0`<br />
+  <sub>[#188352](https://github.com/flutter/flutter/pull/188352) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188352) 57 additions and 17 deletions in 3 files</sub><br />
 
