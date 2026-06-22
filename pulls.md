@@ -68,9 +68,6 @@
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
   <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/186108) 121 additions and 10 deletions in 8 files</sub><br />
 
-* **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
-  <sub>[#186141](https://github.com/flutter/flutter/pull/186141) opened on on May 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) 2 additions and 2 deletions in 2 files</sub><br />
-
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
 
@@ -78,7 +75,7 @@
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
-  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
 
 * **[Maxim Savin](https://github.com/soulman-is-good)** &mdash; Fix HostBuffer.emplace overflow at block boundary<br />
   <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186539) 49 additions and 1 deletion in 2 files</sub><br />
@@ -252,13 +249,13 @@
   <sub>[#188047](https://github.com/flutter/flutter/pull/188047) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188047) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add anisotropic filtering support to samplers<br />
-  <sub>[#188056](https://github.com/flutter/flutter/pull/188056) opened on on June 16, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/188056) 348 additions and 10 deletions in 28 files</sub><br />
+  <sub>[#188056](https://github.com/flutter/flutter/pull/188056) opened on on June 16, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188056) 348 additions and 10 deletions in 28 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix byte/character offset confusion in FlAccessibleTextField<br />
-  <sub>[#188138](https://github.com/flutter/flutter/pull/188138) opened on on June 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188138) 79 additions and 20 deletions in 2 files</sub><br />
+  <sub>[#188138](https://github.com/flutter/flutter/pull/188138) opened on on June 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188138) 79 additions and 20 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fixture tests in remaining unit tests<br />
-  <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/188142) 775 additions and 1601 deletions in 37 files</sub><br />
+  <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/188142) 775 additions and 1601 deletions in 37 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move compositor shader into its own GObject<br />
   <sub>[#188144](https://github.com/flutter/flutter/pull/188144) opened on on June 18, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188144) 305 additions and 156 deletions in 4 files</sub><br />
@@ -288,16 +285,13 @@
   <sub>[#188191](https://github.com/flutter/flutter/pull/188191) opened on on June 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188191) 149 additions and 4 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use g_signal_connect_object in the Linux embedder<br />
-  <sub>[#188241](https://github.com/flutter/flutter/pull/188241) opened on on June 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188241) 35 additions and 73 deletions in 5 files</sub><br />
+  <sub>[#188241](https://github.com/flutter/flutter/pull/188241) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188241) 35 additions and 73 deletions in 5 files</sub><br />
 
 * **[djswndl](https://github.com/aiden30015)** &mdash; Add ThousandsSeparatorTextInputFormatter<br />
   <sub>[#188243](https://github.com/flutter/flutter/pull/188243) opened on on June 19, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188243) 311 additions and 0 deletions in 2 files</sub><br />
 
 * **[Himank Sharma](https://github.com/himanksharma8434-coder)** &mdash; feat: add new API documentation examples for scroll notifications, UI…<br />
   <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
-
-* **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; Verify shader bundle FlatBuffer before access in flutter_gpu ShaderLibrary<br />
-  <sub>[#188252](https://github.com/flutter/flutter/pull/188252) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188252) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web/skwasm] Remove name-based export of function<br />
   <sub>[#188256](https://github.com/flutter/flutter/pull/188256) opened on on June 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188256) 0 additions and 1 deletion in 1 file</sub><br />
@@ -309,11 +303,17 @@
   <sub>[#188288](https://github.com/flutter/flutter/pull/188288) opened on on June 21, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/188288) 239 additions and 1 deletion in 4 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move Flutter rendering into a new FlViewRenderer widget<br />
-  <sub>[#188289](https://github.com/flutter/flutter/pull/188289) opened on on June 22, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/188289) 305 additions and 150 deletions in 5 files</sub><br />
+  <sub>[#188289](https://github.com/flutter/flutter/pull/188289) opened on on June 22, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/188289) 305 additions and 150 deletions in 5 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Close FlutterRenderer texture image SyncFence objects immediately after waiting on them<br />
   <sub>[#188313](https://github.com/flutter/flutter/pull/188313) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188313) 17 additions and 5 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#188331](https://github.com/flutter/flutter/pull/188331) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188331) 6 additions and 0 deletions in 1 file</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `StreamBuilder` sample for changing streams<br />
+  <sub>[#188335](https://github.com/flutter/flutter/pull/188335) opened on on June 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188335) 199 additions and 0 deletions in 3 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Avoid absolute positioning for base CanvasKit canvas<br />
+  <sub>[#188337](https://github.com/flutter/flutter/pull/188337) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188337) 61 additions and 6 deletions in 5 files</sub><br />
 

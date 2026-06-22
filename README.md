@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 20, 2026 to June 26, 2026
+
+1 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add agent skills for orchestrating cherry-picks to stable and beta channels<br />
+  <sub>[#187860](https://github.com/flutter/flutter/pull/187860) merged on June 22, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/187860) over 1 week, 520 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### June 13, 2026 to June 19, 2026
 
-46 commits.
+<details>
+<summary>46 commits...</summary>
 
 * **[Jonathan Lemanski](https://github.com/jlemanski1)** &mdash; Improve Flutter Web accessibility: update flt meta viewport tag to align with WCAG 2 guidelines<br />
   <sub>[#182047](https://github.com/flutter/flutter/pull/182047) merged on June 17, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/182047) over 4 months, 9 additions and 5 deletions in 2 files</sub><br />
@@ -148,7 +157,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds tests for disabling macos impeller<br />
-  <sub>[#188132](https://github.com/flutter/flutter/pull/188132) merged on June 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188132) over 2 hours, 175 additions and 47 deletions in 3 files</sub><br />
+  <sub>[#188132](https://github.com/flutter/flutter/pull/188132) merged on June 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188132) over 2 hours, 175 additions and 47 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Exclude fuchsia-sdk/sdk/.build-id from the builder cache archive<br />
@@ -190,6 +199,8 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Reland [a11y] Map some framework semantics roles to android classes. <br />
   <sub>[#188037](https://github.com/flutter/flutter/pull/188037) merged on June 16, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188037) over 1 day, 763 additions and 462 deletions in 12 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
+
+</details>
 
 ### June 6, 2026 to June 12, 2026
 
