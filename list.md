@@ -4,7 +4,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-2 commits.
+4 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add agent skills for orchestrating cherry-picks to stable and beta channels
   <sub>[#187860](https://github.com/flutter/flutter/pull/187860) merged on June 22, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/187860) over 1 week, 520 additions and 0 deletions in 2 files</sub>
@@ -13,6 +13,14 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move compositor shader into its own GObject
   <sub>[#188144](https://github.com/flutter/flutter/pull/188144) merged on June 22, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188144) over 4 days, 305 additions and 156 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)
+  <sub>[#186141](https://github.com/flutter/flutter/pull/186141) merged on June 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) over 1 month, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Remove many absolute paths from build commands.
+  <sub>[#187765](https://github.com/flutter/flutter/pull/187765) merged on June 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187765) over 1 week, 130 additions and 127 deletions in 22 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 ### June 13, 2026 to June 19, 2026
 
@@ -169,7 +177,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Dmitry Grand (dmgr)](https://github.com/ievdokdm)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In the APNG decoder, validate the chunk data length before calling GetChunkSize to avoid potential overflow in the chunk size calculation
-  <sub>[#187949](https://github.com/flutter/flutter/pull/187949) merged on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187949) over 2 days, 77 additions and 12 deletions in 2 files</sub>
+  <sub>[#187949](https://github.com/flutter/flutter/pull/187949) merged on June 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187949) over 2 days, 77 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add note about magnifier issue when using transparent HCPP pv
@@ -469,11 +477,15 @@
 
 ### June 20, 2026 to June 26, 2026
 
-1 commits.
+2 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [camera_android_camerax] Setup agent skills camerax
   <sub>[#11930](https://github.com/flutter/packages/pull/11930) merged on June 22, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11930) over 4 days, 1379 additions and 0 deletions in 34 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from c9a6c484230f to e1fd963c6f69 (6 revisions)
+  <sub>[#11958](https://github.com/flutter/packages/pull/11958) merged on June 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11958) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### June 13, 2026 to June 19, 2026
 

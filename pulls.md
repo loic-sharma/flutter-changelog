@@ -75,7 +75,7 @@
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
-  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
 
 * **[Maxim Savin](https://github.com/soulman-is-good)** &mdash; Fix HostBuffer.emplace overflow at block boundary<br />
   <sub>[#186539](https://github.com/flutter/flutter/pull/186539) opened on on May 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186539) 49 additions and 1 deletion in 2 files</sub><br />
@@ -314,9 +314,12 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `StreamBuilder` sample for changing streams<br />
   <sub>[#188335](https://github.com/flutter/flutter/pull/188335) opened on on June 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188335) 199 additions and 0 deletions in 3 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Avoid absolute positioning for base CanvasKit canvas<br />
-  <sub>[#188337](https://github.com/flutter/flutter/pull/188337) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188337) 63 additions and 6 deletions in 5 files</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [CP-beta] Revert "Add support for stylus buttons" (#187581)<br />
-  <sub>[#188341](https://github.com/flutter/flutter/pull/188341) opened on on June 22, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/188341) 78 additions and 568 deletions in 13 files</sub><br />
+  <sub>[#188341](https://github.com/flutter/flutter/pull/188341) opened on on June 22, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188341) 78 additions and 568 deletions in 13 files</sub><br />
+
+* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix onPointerDown parameters and fix tests to reflect rotation pressu…<br />
+  <sub>[#188343](https://github.com/flutter/flutter/pull/188343) opened on on June 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188343) 11 additions and 11 deletions in 2 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Apply autocapitalize to text editing elements<br />
+  <sub>[#188351](https://github.com/flutter/flutter/pull/188351) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188351) 41 additions and 27 deletions in 2 files</sub><br />
 
