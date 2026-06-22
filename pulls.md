@@ -36,7 +36,7 @@
   <sub>[#185485](https://github.com/flutter/flutter/pull/185485) opened on on April 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185485) 12 additions and 23 deletions in 1 file</sub><br />
 
 * **[Brendan](https://github.com/definitelyme)** &mdash; Decouple platform tooling regen from --no-pub<br />
-  <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
+  <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix multi-view sizing race condition (Lock approach)<br />
   <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185622) 108 additions and 0 deletions in 2 files</sub><br />
@@ -305,21 +305,15 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Close FlutterRenderer texture image SyncFence objects immediately after waiting on them<br />
   <sub>[#188313](https://github.com/flutter/flutter/pull/188313) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188313) 17 additions and 5 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
-  <sub>[#188331](https://github.com/flutter/flutter/pull/188331) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188331) 6 additions and 0 deletions in 1 file</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `StreamBuilder` sample for changing streams<br />
   <sub>[#188335](https://github.com/flutter/flutter/pull/188335) opened on on June 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188335) 199 additions and 0 deletions in 3 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [CP-beta] Revert "Add support for stylus buttons" (#187581)<br />
   <sub>[#188341](https://github.com/flutter/flutter/pull/188341) opened on on June 22, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188341) 78 additions and 568 deletions in 13 files</sub><br />
 
-* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix onPointerDown parameters and fix tests to reflect rotation pressu…<br />
-  <sub>[#188343](https://github.com/flutter/flutter/pull/188343) opened on on June 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188343) 11 additions and 11 deletions in 2 files</sub><br />
-
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Apply autocapitalize to text editing elements<br />
   <sub>[#188351](https://github.com/flutter/flutter/pull/188351) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188351) 41 additions and 27 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Test `no_entitlement` config for dart snapshots on `flutter-3.45-candidate.0`<br />
-  <sub>[#188352](https://github.com/flutter/flutter/pull/188352) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188352) 57 additions and 17 deletions in 3 files</sub><br />
+  <sub>[#188352](https://github.com/flutter/flutter/pull/188352) opened on on June 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188352) 57 additions and 17 deletions in 3 files</sub><br />
 
