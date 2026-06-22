@@ -173,6 +173,9 @@
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [InkWell] fix: Prevent disabled buttons from passing taps to parent GestureDetectors<br />
   <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187551) 37 additions and 0 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no shuffle from flutter_driver extension_test.dart and mock flutter.process channel<br />
+  <sub>[#187559](https://github.com/flutter/flutter/pull/187559) opened on on June 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187559) 78 additions and 16 deletions in 2 files</sub><br />
+
 * **[chtga](https://github.com/tamirenkhbayar3-cmd)** &mdash; Restrict web dev server to loopback by default<br />
   <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
 
