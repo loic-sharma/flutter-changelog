@@ -303,7 +303,7 @@
   <sub>[#188258](https://github.com/flutter/flutter/pull/188258) opened on on June 19, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188258) 181 additions and 7 deletions in 3 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add debugPaintFocusBoxes<br />
-  <sub>[#188288](https://github.com/flutter/flutter/pull/188288) opened on on June 21, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/188288) 239 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#188288](https://github.com/flutter/flutter/pull/188288) opened on on June 21, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/188288) 239 additions and 1 deletion in 4 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move Flutter rendering into a new FlViewRenderer widget<br />
   <sub>[#188289](https://github.com/flutter/flutter/pull/188289) opened on on June 22, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/188289) 305 additions and 150 deletions in 5 files</sub><br />
