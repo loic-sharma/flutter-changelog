@@ -252,7 +252,7 @@
   <sub>[#188056](https://github.com/flutter/flutter/pull/188056) opened on on June 16, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/188056) 348 additions and 10 deletions in 28 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix byte/character offset confusion in FlAccessibleTextField<br />
-  <sub>[#188138](https://github.com/flutter/flutter/pull/188138) opened on on June 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188138) 68 additions and 15 deletions in 2 files</sub><br />
+  <sub>[#188138](https://github.com/flutter/flutter/pull/188138) opened on on June 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188138) 79 additions and 20 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fixture tests in remaining unit tests<br />
   <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/188142) 775 additions and 1601 deletions in 37 files</sub><br />
@@ -304,4 +304,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add debugPaintFocusBoxes<br />
   <sub>[#188288](https://github.com/flutter/flutter/pull/188288) opened on on June 21, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/188288) 239 additions and 1 deletion in 4 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move Flutter rendering into a new FlViewRenderer widget<br />
+  <sub>[#188289](https://github.com/flutter/flutter/pull/188289) opened on on June 22, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/188289) 305 additions and 150 deletions in 5 files</sub><br />
 
