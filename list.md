@@ -4,11 +4,15 @@
 
 ### June 20, 2026 to June 26, 2026
 
-1 commits.
+2 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add agent skills for orchestrating cherry-picks to stable and beta channels
   <sub>[#187860](https://github.com/flutter/flutter/pull/187860) merged on June 22, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/187860) over 1 week, 520 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move compositor shader into its own GObject
+  <sub>[#188144](https://github.com/flutter/flutter/pull/188144) merged on June 22, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188144) over 4 days, 305 additions and 156 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 ### June 13, 2026 to June 19, 2026
 
@@ -463,9 +467,18 @@
 
 ## flutter/packages
 
+### June 20, 2026 to June 26, 2026
+
+1 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [camera_android_camerax] Setup agent skills camerax
+  <sub>[#11930](https://github.com/flutter/packages/pull/11930) merged on June 22, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11930) over 4 days, 1379 additions and 0 deletions in 34 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
 ### June 13, 2026 to June 19, 2026
 
-3 commits.
+<details>
+<summary>3 commits...</summary>
 
 * **[HiroyukiTamura](https://github.com/HiroyukiTamura)** &mdash; [vector_graphics_compiler] Use Abi.current() for engine-artifact lookup on Linux ARM64
   <sub>[#11781](https://github.com/flutter/packages/pull/11781) merged on June 17, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/11781) over 3 weeks, 147 additions and 29 deletions in 6 files</sub>
@@ -478,6 +491,8 @@
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [video_player_web] Remove stale package:web tweaks
   <sub>[#11820](https://github.com/flutter/packages/pull/11820) merged on June 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/11820) over 2 weeks, 3 additions and 12 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+</details>
 
 ### June 6, 2026 to June 12, 2026
 
