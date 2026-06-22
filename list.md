@@ -533,9 +533,18 @@
 
 ## flutter/website
 
+### June 20, 2026 to June 26, 2026
+
+1 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Survey is closed, revert banner to previous content.
+  <sub>[#13528](https://github.com/flutter/website/pull/13528) merged on June 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13528) over 38 minutes, 14 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### June 13, 2026 to June 19, 2026
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Set up shared package for components and utilities
   <sub>[#13486](https://github.com/flutter/website/pull/13486) merged on June 15, 2026 &mdash; **Extra large:** [68 comments](https://github.com/flutter/website/pull/13486) over 5 days, 1246 additions and 1077 deletions in 150 files</sub>
@@ -592,6 +601,8 @@
 * **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; updated consultants logo image
   <sub>[#13504](https://github.com/flutter/website/pull/13504) merged on June 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13504) over 42 minutes, 1 addition and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
+
+</details>
 
 ### June 6, 2026 to June 12, 2026
 

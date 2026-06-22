@@ -273,7 +273,7 @@
   <sub>[#188163](https://github.com/flutter/flutter/pull/188163) opened on on June 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188163) 9 additions and 0 deletions in 3 files</sub><br />
 
 * **[Juan Campuzano](https://github.com/juan-campuzano)** &mdash; fix: identity mismatch for path dependency plugins<br />
-  <sub>[#188179](https://github.com/flutter/flutter/pull/188179) opened on on June 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188179) 130 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#188179](https://github.com/flutter/flutter/pull/188179) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188179) 130 additions and 7 deletions in 2 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Bump flutter version from 13.0 to 15.0<br />
   <sub>[#188187](https://github.com/flutter/flutter/pull/188187) opened on on June 18, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/188187) 258 additions and 228 deletions in 97 files</sub><br />
@@ -310,4 +310,10 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move Flutter rendering into a new FlViewRenderer widget<br />
   <sub>[#188289](https://github.com/flutter/flutter/pull/188289) opened on on June 22, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/188289) 305 additions and 150 deletions in 5 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Close FlutterRenderer texture image SyncFence objects immediately after waiting on them<br />
+  <sub>[#188313](https://github.com/flutter/flutter/pull/188313) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188313) 17 additions and 5 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
+  <sub>[#188331](https://github.com/flutter/flutter/pull/188331) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188331) 6 additions and 0 deletions in 1 file</sub><br />
 
