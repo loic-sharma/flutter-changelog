@@ -300,7 +300,7 @@
   <sub>[#188313](https://github.com/flutter/flutter/pull/188313) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188313) 17 additions and 5 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `StreamBuilder` sample for changing streams<br />
-  <sub>[#188335](https://github.com/flutter/flutter/pull/188335) opened on on June 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188335) 199 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#188335](https://github.com/flutter/flutter/pull/188335) opened on on June 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188335) 199 additions and 0 deletions in 3 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [CP-beta] Revert "Add support for stylus buttons" (#187581)<br />
   <sub>[#188341](https://github.com/flutter/flutter/pull/188341) opened on on June 22, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188341) 78 additions and 568 deletions in 13 files</sub><br />
