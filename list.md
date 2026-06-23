@@ -497,10 +497,14 @@
 
 ### June 20, 2026 to June 26, 2026
 
-2 commits.
+3 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [camera_android_camerax] Setup agent skills camerax
   <sub>[#11930](https://github.com/flutter/packages/pull/11930) merged on June 22, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11930) over 4 days, 1379 additions and 0 deletions in 34 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; docs: Add agentic workflow playbook for camera_android_camerax
+  <sub>[#11959](https://github.com/flutter/packages/pull/11959) merged on June 23, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/11959) over 19 hours, 52 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from c9a6c484230f to e1fd963c6f69 (6 revisions)
