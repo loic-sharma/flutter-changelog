@@ -264,7 +264,7 @@
   <sub>[#188399](https://github.com/flutter/flutter/pull/188399) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188399) 3 additions and 30 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP-beta] No entitlements for snapshots (#188390)<br />
-  <sub>[#188442](https://github.com/flutter/flutter/pull/188442) opened on on June 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188442) 85 additions and 36 deletions in 3 files</sub><br />
+  <sub>[#188442](https://github.com/flutter/flutter/pull/188442) opened on on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188442) 85 additions and 36 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix null check operator crash in currentPackageConfig<br />
   <sub>[#188454](https://github.com/flutter/flutter/pull/188454) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188454) 118 additions and 2 deletions in 2 files</sub><br />
@@ -273,5 +273,5 @@
   <sub>[#188457](https://github.com/flutter/flutter/pull/188457) opened on on June 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188457) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to a10d8ac38de835021c8d2f920dbf50a920ccc030<br />
-  <sub>[#188460](https://github.com/flutter/flutter/pull/188460) opened on on June 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188460) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#188460](https://github.com/flutter/flutter/pull/188460) opened on on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188460) 1 addition and 1 deletion in 1 file</sub><br />
 
