@@ -4,7 +4,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-15 commits.
+17 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) merged on June 23, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187940) over 1 week, 404 additions and 1 deletion in 9 files</sub><br />
@@ -30,6 +30,10 @@
   <sub>[#188144](https://github.com/flutter/flutter/pull/188144) merged on June 22, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188144) over 4 days, 305 additions and 156 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "refactor(web): Unify Image on Skwasm and CanvasKit"<br />
+  <sub>[#188356](https://github.com/flutter/flutter/pull/188356) merged on June 23, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/188356) over 22 hours, 1157 additions and 765 deletions in 27 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Disconnect from parent window signal when view is destroyed<br />
   <sub>[#185521](https://github.com/flutter/flutter/pull/185521) merged on June 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185521) over 1 month, 3 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
@@ -41,6 +45,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs for PR limits<br />
   <sub>[#188388](https://github.com/flutter/flutter/pull/188388) merged on June 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188388) over 30 minutes, 15 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; clean up skills paths for reidbaker-agent<br />
+  <sub>[#188287](https://github.com/flutter/flutter/pull/188287) merged on June 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188287) over 1 day, 1 addition and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Bump flutter version from 13.0 to 15.0<br />
   <sub>[#188187](https://github.com/flutter/flutter/pull/188187) merged on June 23, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/188187) over 4 days, 258 additions and 228 deletions in 97 files</sub><br />

@@ -200,12 +200,6 @@
 * **[Tobias Marschall](https://github.com/saibotma)** &mdash; Fix Android IME visibility after app resume<br />
   <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
 
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; [flutter_tools] Parse wireless ADB serials that contain a space (mDNS conflict suffix)<br />
-  <sub>[#187845](https://github.com/flutter/flutter/pull/187845) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187845) 105 additions and 1 deletion in 2 files</sub><br />
-
-* **[Luca Tagliabue](https://github.com/lukluca)** &mdash; Use null-aware elements in dev/devicelab/lib/integration_tests.dart<br />
-  <sub>[#187852](https://github.com/flutter/flutter/pull/187852) opened on on June 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187852) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Remove use of deprecated copy_trees.<br />
   <sub>[#187862](https://github.com/flutter/flutter/pull/187862) opened on on June 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187862) 19 additions and 34 deletions in 5 files</sub><br />
 
@@ -254,9 +248,6 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Drop availability checks for ios 14 and 15 in the embedder<br />
   <sub>[#188189](https://github.com/flutter/flutter/pull/188189) opened on on June 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188189) 25 additions and 44 deletions in 7 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix bounds checking in FlAccessibleTextField<br />
-  <sub>[#188191](https://github.com/flutter/flutter/pull/188191) opened on on June 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188191) 149 additions and 4 deletions in 2 files</sub><br />
-
 * **[djswndl](https://github.com/aiden30015)** &mdash; Add ThousandsSeparatorTextInputFormatter<br />
   <sub>[#188243](https://github.com/flutter/flutter/pull/188243) opened on on June 19, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188243) 311 additions and 0 deletions in 2 files</sub><br />
 
@@ -280,9 +271,6 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add auto-play support to CarouselView<br />
   <sub>[#188345](https://github.com/flutter/flutter/pull/188345) opened on on June 22, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/188345) 373 additions and 10 deletions in 2 files</sub><br />
-
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Apply autocapitalize to text editing elements<br />
-  <sub>[#188351](https://github.com/flutter/flutter/pull/188351) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188351) 44 additions and 27 deletions in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump minimum Dart SDK version constraint to 3.11.0-0 [testing skill]<br />
   <sub>[#188357](https://github.com/flutter/flutter/pull/188357) opened on on June 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188357) 133 additions and 133 deletions in 132 files</sub><br />
