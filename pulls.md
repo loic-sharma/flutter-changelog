@@ -300,7 +300,7 @@
   <sub>[#188288](https://github.com/flutter/flutter/pull/188288) opened on on June 21, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/188288) 239 additions and 1 deletion in 4 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move Flutter rendering into a new FlViewRenderer widget<br />
-  <sub>[#188289](https://github.com/flutter/flutter/pull/188289) opened on on June 22, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/188289) 305 additions and 150 deletions in 5 files</sub><br />
+  <sub>[#188289](https://github.com/flutter/flutter/pull/188289) opened on on June 22, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188289) 322 additions and 150 deletions in 5 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Close FlutterRenderer texture image SyncFence objects immediately after waiting on them<br />
   <sub>[#188313](https://github.com/flutter/flutter/pull/188313) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188313) 17 additions and 5 deletions in 2 files</sub><br />

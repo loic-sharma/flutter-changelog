@@ -4,7 +4,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-6 commits.
+7 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add agent skills for orchestrating cherry-picks to stable and beta channels
   <sub>[#187860](https://github.com/flutter/flutter/pull/187860) merged on June 22, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/187860) over 1 week, 520 additions and 0 deletions in 2 files</sub>
@@ -21,6 +21,10 @@
 * **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) merged on June 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) over 1 month, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable
+  <sub>[#188331](https://github.com/flutter/flutter/pull/188331) merged on June 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188331) over 5 hours, 6 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use g_signal_connect_object in the Linux embedder
   <sub>[#188241](https://github.com/flutter/flutter/pull/188241) merged on June 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188241) over 3 days, 35 additions and 73 deletions in 5 files</sub>
