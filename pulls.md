@@ -233,9 +233,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; `hello_world_windows_impeller` bringup->false<br />
   <sub>[#188047](https://github.com/flutter/flutter/pull/188047) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188047) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add anisotropic filtering support to samplers<br />
-  <sub>[#188056](https://github.com/flutter/flutter/pull/188056) opened on on June 16, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188056) 337 additions and 10 deletions in 28 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [tool] Fix libapp.so dropped from APK/app bundle<br />
   <sub>[#188119](https://github.com/flutter/flutter/pull/188119) opened on on June 17, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/188119) 541 additions and 59 deletions in 4 files</sub><br />
 
@@ -297,7 +294,7 @@
   <sub>[#188351](https://github.com/flutter/flutter/pull/188351) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188351) 44 additions and 27 deletions in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump minimum Dart SDK version constraint to 3.11.0-0 [testing skill]<br />
-  <sub>[#188357](https://github.com/flutter/flutter/pull/188357) opened on on June 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188357) 139 additions and 139 deletions in 137 files</sub><br />
+  <sub>[#188357](https://github.com/flutter/flutter/pull/188357) opened on on June 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188357) 133 additions and 133 deletions in 132 files</sub><br />
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
   <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
@@ -313,4 +310,7 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; build(deps): remove discontinued pedantic and device_info packages<br />
   <sub>[#188399](https://github.com/flutter/flutter/pull/188399) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188399) 3 additions and 30 deletions in 3 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP-beta] No entitlements for snapshots (#188390)<br />
+  <sub>[#188442](https://github.com/flutter/flutter/pull/188442) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188442) 85 additions and 36 deletions in 3 files</sub><br />
 
