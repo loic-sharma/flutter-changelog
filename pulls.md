@@ -140,9 +140,6 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
   <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Forcefully kill hung subprocesses 5 seconds after timeout<br />
-  <sub>[#187178](https://github.com/flutter/flutter/pull/187178) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187178) 45 additions and 0 deletions in 2 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
 
@@ -219,7 +216,7 @@
   <sub>[#187919](https://github.com/flutter/flutter/pull/187919) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187919) 149 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
-  <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/187940) 404 additions and 1 deletion in 9 files</sub><br />
+  <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187940) 404 additions and 1 deletion in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload<br />
   <sub>[#187947](https://github.com/flutter/flutter/pull/187947) opened on on June 12, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/187947) 300 additions and 128 deletions in 9 files</sub><br />
@@ -234,7 +231,7 @@
   <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
 
 * **[Manan Bansal](https://github.com/manan-tech)** &mdash; Detect text contrast violations when the semantics label differs from the rendered text<br />
-  <sub>[#188024](https://github.com/flutter/flutter/pull/188024) opened on on June 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188024) 159 additions and 30 deletions in 2 files</sub><br />
+  <sub>[#188024](https://github.com/flutter/flutter/pull/188024) opened on on June 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188024) 159 additions and 30 deletions in 2 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixed couple of bugs<br />
   <sub>[#188032](https://github.com/flutter/flutter/pull/188032) opened on on June 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188032) 71 additions and 39 deletions in 4 files</sub><br />
@@ -303,7 +300,7 @@
   <sub>[#188341](https://github.com/flutter/flutter/pull/188341) opened on on June 22, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188341) 78 additions and 568 deletions in 13 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add auto-play support to CarouselView<br />
-  <sub>[#188345](https://github.com/flutter/flutter/pull/188345) opened on on June 22, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/188345) 375 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#188345](https://github.com/flutter/flutter/pull/188345) opened on on June 22, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/188345) 373 additions and 10 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Apply autocapitalize to text editing elements<br />
   <sub>[#188351](https://github.com/flutter/flutter/pull/188351) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188351) 44 additions and 27 deletions in 2 files</sub><br />

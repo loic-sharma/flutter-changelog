@@ -4,7 +4,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-10 commits.
+11 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) merged on June 23, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/187365) over 3 weeks, 244 additions and 0 deletions in 7 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) merged on June 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) over 1 month, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs for PR limits<br />
+  <sub>[#188388](https://github.com/flutter/flutter/pull/188388) merged on June 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188388) over 30 minutes, 15 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix byte/character offset confusion in FlAccessibleTextField<br />
   <sub>[#188138](https://github.com/flutter/flutter/pull/188138) merged on June 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188138) over 5 days, 79 additions and 20 deletions in 2 files</sub><br />
