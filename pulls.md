@@ -314,9 +314,6 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Apply autocapitalize to text editing elements<br />
   <sub>[#188351](https://github.com/flutter/flutter/pull/188351) opened on on June 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188351) 44 additions and 27 deletions in 2 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Test `no_entitlement` config for dart snapshots on `flutter-3.45-candidate.0`<br />
-  <sub>[#188352](https://github.com/flutter/flutter/pull/188352) opened on on June 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188352) 57 additions and 17 deletions in 3 files</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump minimum Dart SDK version constraint to 3.11.0-0 [testing skill]<br />
   <sub>[#188357](https://github.com/flutter/flutter/pull/188357) opened on on June 22, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/188357) 156 additions and 156 deletions in 138 files</sub><br />
 
