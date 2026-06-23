@@ -314,3 +314,9 @@
 * **[kapil971390](https://github.com/kapil971390)** &mdash; [Windows] Guard PostPlatformThreadTask against null engine handle<br />
   <sub>[#188368](https://github.com/flutter/flutter/pull/188368) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188368) 53 additions and 0 deletions in 2 files</sub><br />
 
+* **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
+  <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Ensure Warnings Do Not Log When AGP Is Below 9<br />
+  <sub>[#188373](https://github.com/flutter/flutter/pull/188373) opened on on June 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188373) 194 additions and 2 deletions in 3 files</sub><br />
+
