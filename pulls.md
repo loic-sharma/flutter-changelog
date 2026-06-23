@@ -317,3 +317,9 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [CP-stable] Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
   <sub>[#188374](https://github.com/flutter/flutter/pull/188374) opened on on June 23, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188374) 320 additions and 320 deletions in 69 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix SliverGeometry maxPaintExtent assertion in CarouselView.weighted<br />
+  <sub>[#188381](https://github.com/flutter/flutter/pull/188381) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188381) 34 additions and 0 deletions in 2 files</sub><br />
+
+* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [flutter_tools] Format plugin example template to match dart format<br />
+  <sub>[#188382](https://github.com/flutter/flutter/pull/188382) opened on on June 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188382) 2 additions and 1 deletion in 1 file</sub><br />
+
