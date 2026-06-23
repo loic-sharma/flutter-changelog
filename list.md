@@ -4,11 +4,15 @@
 
 ### June 20, 2026 to June 26, 2026
 
-13 commits.
+15 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) merged on June 23, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187940) over 1 week, 404 additions and 1 deletion in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [tool] Fix libapp.so dropped from APK/app bundle
+  <sub>[#188119](https://github.com/flutter/flutter/pull/188119) merged on June 23, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/188119) over 6 days, 541 additions and 59 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) merged on June 23, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/187365) over 3 weeks, 244 additions and 0 deletions in 7 files</sub>
@@ -37,6 +41,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs for PR limits
   <sub>[#188388](https://github.com/flutter/flutter/pull/188388) merged on June 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188388) over 30 minutes, 15 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Bump flutter version from 13.0 to 15.0
+  <sub>[#188187](https://github.com/flutter/flutter/pull/188187) merged on June 23, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/188187) over 4 days, 258 additions and 228 deletions in 97 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; No entitlements for snapshots
   <sub>[#188390](https://github.com/flutter/flutter/pull/188390) merged on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188390) over 2 hours, 85 additions and 36 deletions in 3 files</sub>

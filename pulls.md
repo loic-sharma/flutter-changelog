@@ -233,9 +233,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; `hello_world_windows_impeller` bringup->false<br />
   <sub>[#188047](https://github.com/flutter/flutter/pull/188047) opened on on June 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188047) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [tool] Fix libapp.so dropped from APK/app bundle<br />
-  <sub>[#188119](https://github.com/flutter/flutter/pull/188119) opened on on June 17, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/188119) 541 additions and 59 deletions in 4 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fixture tests in remaining unit tests<br />
   <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/188142) 786 additions and 1609 deletions in 37 files</sub><br />
 
@@ -250,9 +247,6 @@
 
 * **[Juan Campuzano](https://github.com/juan-campuzano)** &mdash; fix: identity mismatch for path dependency plugins<br />
   <sub>[#188179](https://github.com/flutter/flutter/pull/188179) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188179) 130 additions and 7 deletions in 2 files</sub><br />
-
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Bump flutter version from 13.0 to 15.0<br />
-  <sub>[#188187](https://github.com/flutter/flutter/pull/188187) opened on on June 18, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/188187) 258 additions and 228 deletions in 97 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrates flutter windows test to impeller<br />
   <sub>[#188188](https://github.com/flutter/flutter/pull/188188) opened on on June 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188188) 59 additions and 6 deletions in 6 files</sub><br />
@@ -284,9 +278,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Close FlutterRenderer texture image SyncFence objects immediately after waiting on them<br />
   <sub>[#188313](https://github.com/flutter/flutter/pull/188313) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188313) 17 additions and 5 deletions in 2 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [CP-beta] Revert "Add support for stylus buttons" (#187581)<br />
-  <sub>[#188341](https://github.com/flutter/flutter/pull/188341) opened on on June 22, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188341) 78 additions and 568 deletions in 13 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add auto-play support to CarouselView<br />
   <sub>[#188345](https://github.com/flutter/flutter/pull/188345) opened on on June 22, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/188345) 373 additions and 10 deletions in 2 files</sub><br />
 
@@ -299,9 +290,6 @@
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
   <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [CP-stable] Run all flutter/flutter macOS tests using Xcode 26 and iOS 26 simulator<br />
-  <sub>[#188374](https://github.com/flutter/flutter/pull/188374) opened on on June 23, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188374) 320 additions and 320 deletions in 69 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix SliverGeometry maxPaintExtent assertion in CarouselView.weighted<br />
   <sub>[#188381](https://github.com/flutter/flutter/pull/188381) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188381) 34 additions and 0 deletions in 2 files</sub><br />
 
@@ -312,5 +300,5 @@
   <sub>[#188399](https://github.com/flutter/flutter/pull/188399) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188399) 3 additions and 30 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP-beta] No entitlements for snapshots (#188390)<br />
-  <sub>[#188442](https://github.com/flutter/flutter/pull/188442) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188442) 85 additions and 36 deletions in 3 files</sub><br />
+  <sub>[#188442](https://github.com/flutter/flutter/pull/188442) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188442) 85 additions and 36 deletions in 3 files</sub><br />
 
