@@ -213,16 +213,13 @@
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Yashas H Majmudar](https://github.com/yashas-hm)** &mdash; [flutter_tools] Use DeviceHub.app for iOS simulator path on Xcode 27+<br />
-  <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187910) 65 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187910) 65 additions and 2 deletions in 2 files</sub><br />
 
 * **[M S karthik](https://github.com/KarthikManikuttan)** &mdash; Handle deferred page-based pops in Navigator.popUntil<br />
   <sub>[#187919](https://github.com/flutter/flutter/pull/187919) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187919) 149 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; Fix $git typo in shared.bat (Windows cache invalidation broken since 3.29)<br />
-  <sub>[#187920](https://github.com/flutter/flutter/pull/187920) opened on on June 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187920) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
-  <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/187940) 404 additions and 1 deletion in 9 files</sub><br />
+  <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/187940) 404 additions and 1 deletion in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload<br />
   <sub>[#187947](https://github.com/flutter/flutter/pull/187947) opened on on June 12, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/187947) 300 additions and 128 deletions in 9 files</sub><br />
@@ -267,13 +264,13 @@
   <sub>[#188179](https://github.com/flutter/flutter/pull/188179) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188179) 130 additions and 7 deletions in 2 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Bump flutter version from 13.0 to 15.0<br />
-  <sub>[#188187](https://github.com/flutter/flutter/pull/188187) opened on on June 18, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/188187) 258 additions and 228 deletions in 97 files</sub><br />
+  <sub>[#188187](https://github.com/flutter/flutter/pull/188187) opened on on June 18, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/188187) 258 additions and 228 deletions in 97 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrates flutter windows test to impeller<br />
   <sub>[#188188](https://github.com/flutter/flutter/pull/188188) opened on on June 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188188) 59 additions and 6 deletions in 6 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Drop availability checks for ios 14 and 15 in the embedder<br />
-  <sub>[#188189](https://github.com/flutter/flutter/pull/188189) opened on on June 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188189) 25 additions and 44 deletions in 7 files</sub><br />
+  <sub>[#188189](https://github.com/flutter/flutter/pull/188189) opened on on June 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188189) 25 additions and 44 deletions in 7 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix bounds checking in FlAccessibleTextField<br />
   <sub>[#188191](https://github.com/flutter/flutter/pull/188191) opened on on June 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188191) 149 additions and 4 deletions in 2 files</sub><br />
@@ -325,7 +322,4 @@
 
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [flutter_tools] Format plugin example template to match dart format<br />
   <sub>[#188382](https://github.com/flutter/flutter/pull/188382) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188382) 34 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs for PR limits<br />
-  <sub>[#188388](https://github.com/flutter/flutter/pull/188388) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188388) 15 additions and 0 deletions in 3 files</sub><br />
 
