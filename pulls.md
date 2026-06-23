@@ -254,9 +254,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [tool] Fix libapp.so dropped from APK/app bundle<br />
   <sub>[#188119](https://github.com/flutter/flutter/pull/188119) opened on on June 17, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/188119) 541 additions and 59 deletions in 4 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix byte/character offset confusion in FlAccessibleTextField<br />
-  <sub>[#188138](https://github.com/flutter/flutter/pull/188138) opened on on June 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188138) 79 additions and 20 deletions in 2 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fixture tests in remaining unit tests<br />
   <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/188142) 786 additions and 1609 deletions in 37 files</sub><br />
 
