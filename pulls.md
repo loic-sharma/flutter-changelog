@@ -210,16 +210,10 @@
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Yashas H Majmudar](https://github.com/yashas-hm)** &mdash; [flutter_tools] Use DeviceHub.app for iOS simulator path on Xcode 27+<br />
-  <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187910) 65 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187910) 79 additions and 2 deletions in 2 files</sub><br />
 
 * **[M S karthik](https://github.com/KarthikManikuttan)** &mdash; Handle deferred page-based pops in Navigator.popUntil<br />
   <sub>[#187919](https://github.com/flutter/flutter/pull/187919) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187919) 149 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
-  <sub>[#187940](https://github.com/flutter/flutter/pull/187940) opened on on June 12, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187940) 404 additions and 1 deletion in 9 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload<br />
-  <sub>[#187947](https://github.com/flutter/flutter/pull/187947) opened on on June 12, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/187947) 300 additions and 128 deletions in 9 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `ShapeBorder` hit test fast paths<br />
   <sub>[#187962](https://github.com/flutter/flutter/pull/187962) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187962) 224 additions and 1 deletion in 7 files</sub><br />
@@ -229,9 +223,6 @@
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
   <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
-
-* **[Manan Bansal](https://github.com/manan-tech)** &mdash; Detect text contrast violations when the semantics label differs from the rendered text<br />
-  <sub>[#188024](https://github.com/flutter/flutter/pull/188024) opened on on June 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188024) 159 additions and 30 deletions in 2 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixed couple of bugs<br />
   <sub>[#188032](https://github.com/flutter/flutter/pull/188032) opened on on June 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188032) 71 additions and 39 deletions in 4 files</sub><br />
