@@ -311,3 +311,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump minimum Dart SDK version constraint to 3.11.0-0 [testing skill]<br />
   <sub>[#188357](https://github.com/flutter/flutter/pull/188357) opened on on June 22, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/188357) 156 additions and 156 deletions in 138 files</sub><br />
 
+* **[kapil971390](https://github.com/kapil971390)** &mdash; [Windows] Guard PostPlatformThreadTask against null engine handle<br />
+  <sub>[#188368](https://github.com/flutter/flutter/pull/188368) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188368) 53 additions and 0 deletions in 2 files</sub><br />
+
