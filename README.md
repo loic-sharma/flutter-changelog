@@ -529,7 +529,11 @@
 
 ### June 20, 2026 to June 26, 2026
 
-3 commits.
+5 commits.
+
+* **[Enric Llopis Fabra](https://github.com/qiqetes)** &mdash; [go_router] fix onExit ignored for GoRoute nested inside ShellRoute<br />
+  <sub>[#11853](https://github.com/flutter/packages/pull/11853) merged on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11853) over 2 weeks, 89 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [camera_android_camerax] Setup agent skills camerax<br />
   <sub>[#11930](https://github.com/flutter/packages/pull/11930) merged on June 22, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11930) over 4 days, 1379 additions and 0 deletions in 34 files</sub><br />
@@ -538,6 +542,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; docs: Add agentic workflow playbook for camera_android_camerax<br />
   <sub>[#11959](https://github.com/flutter/packages/pull/11959) merged on June 23, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/11959) over 19 hours, 52 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [Decoupling] Port PR (#186667) from flutter/flutter to material_ui and cupertino_ui<br />
+  <sub>[#11964](https://github.com/flutter/packages/pull/11964) merged on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11964) over 1 hour, 11 additions and 25 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from c9a6c484230f to e1fd963c6f69 (6 revisions)<br />
   <sub>[#11958](https://github.com/flutter/packages/pull/11958) merged on June 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11958) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />

@@ -56,9 +56,6 @@
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from animated_icons_test.dart<br />
   <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185974) 1 addition and 6 deletions in 1 file</sub><br />
 
-* **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
-  <sub>[#186075](https://github.com/flutter/flutter/pull/186075) opened on on May 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/186075) 95 additions and 2 deletions in 2 files</sub><br />
-
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: Harden CI scripts and driver against command injection<br />
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
@@ -227,9 +224,6 @@
 * **[Juan Campuzano](https://github.com/juan-campuzano)** &mdash; fix: identity mismatch for path dependency plugins<br />
   <sub>[#188179](https://github.com/flutter/flutter/pull/188179) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188179) 130 additions and 7 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrates flutter windows test to impeller<br />
-  <sub>[#188188](https://github.com/flutter/flutter/pull/188188) opened on on June 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188188) 59 additions and 6 deletions in 6 files</sub><br />
-
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Drop availability checks for ios 14 and 15 in the embedder<br />
   <sub>[#188189](https://github.com/flutter/flutter/pull/188189) opened on on June 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188189) 25 additions and 44 deletions in 7 files</sub><br />
 
@@ -270,7 +264,7 @@
   <sub>[#188399](https://github.com/flutter/flutter/pull/188399) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188399) 3 additions and 30 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP-beta] No entitlements for snapshots (#188390)<br />
-  <sub>[#188442](https://github.com/flutter/flutter/pull/188442) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188442) 85 additions and 36 deletions in 3 files</sub><br />
+  <sub>[#188442](https://github.com/flutter/flutter/pull/188442) opened on on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188442) 85 additions and 36 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix null check operator crash in currentPackageConfig<br />
   <sub>[#188454](https://github.com/flutter/flutter/pull/188454) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188454) 118 additions and 2 deletions in 2 files</sub><br />
