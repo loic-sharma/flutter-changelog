@@ -227,17 +227,8 @@
 * **[Himank Sharma](https://github.com/himanksharma8434-coder)** &mdash; feat: add new API documentation examples for scroll notifications, UI…<br />
   <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
 
-* **[Munawer Ali](https://github.com/Munawer-Ali)** &mdash; Add padding property to Checkbox<br />
-  <sub>[#188258](https://github.com/flutter/flutter/pull/188258) opened on on June 19, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188258) 181 additions and 7 deletions in 3 files</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Add auto-play support to CarouselView<br />
-  <sub>[#188345](https://github.com/flutter/flutter/pull/188345) opened on on June 22, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/188345) 373 additions and 10 deletions in 2 files</sub><br />
-
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
   <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix SliverGeometry maxPaintExtent assertion in CarouselView.weighted<br />
-  <sub>[#188381](https://github.com/flutter/flutter/pull/188381) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188381) 34 additions and 0 deletions in 2 files</sub><br />
 
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [flutter_tools] Format plugin example template to match dart format<br />
   <sub>[#188382](https://github.com/flutter/flutter/pull/188382) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188382) 34 additions and 1 deletion in 2 files</sub><br />
@@ -251,9 +242,6 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Preserve text field focus across tab switches<br />
   <sub>[#188462](https://github.com/flutter/flutter/pull/188462) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188462) 128 additions and 0 deletions in 2 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix date localization missing ZERODIGIT in Arabic(ar)<br />
-  <sub>[#188473](https://github.com/flutter/flutter/pull/188473) opened on on June 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188473) 34 additions and 1 deletion in 4 files</sub><br />
-
 * **[Alexander Dahlberg](https://github.com/Swiftaxe)** &mdash; Move drawer tests from widgets to material<br />
   <sub>[#188486](https://github.com/flutter/flutter/pull/188486) opened on on June 24, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/188486) 372 additions and 385 deletions in 2 files</sub><br />
 
@@ -263,6 +251,6 @@
 * **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; Add Impeller+OpenGLES startup benchmark for mokey<br />
   <sub>[#188495](https://github.com/flutter/flutter/pull/188495) opened on on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188495) 33 additions and 1 deletion in 3 files</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Implement UberSDF lines to replace LineContents-based AA lines<br />
-  <sub>[#188514](https://github.com/flutter/flutter/pull/188514) opened on on June 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188514) 169 additions and 18 deletions in 6 files</sub><br />
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][tool] Fix libapp.so dropped from APK/app bundle<br />
+  <sub>[#188515](https://github.com/flutter/flutter/pull/188515) opened on on June 24, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188515) 541 additions and 59 deletions in 4 files</sub><br />
 
