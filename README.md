@@ -4,7 +4,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-32 commits.
+33 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) merged on June 23, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187940) over 1 week, 404 additions and 1 deletion in 9 files</sub><br />
@@ -90,6 +90,10 @@
 * **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)<br />
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) merged on June 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) over 1 month, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Reorder CanvasKit JS files in BUILD.gn to match Skia<br />
+  <sub>[#188511](https://github.com/flutter/flutter/pull/188511) merged on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188511) over 5 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; `hello_world_windows_impeller` bringup->false<br />
   <sub>[#188047](https://github.com/flutter/flutter/pull/188047) merged on June 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188047) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />
@@ -706,11 +710,15 @@
 
 ### June 20, 2026 to June 26, 2026
 
-2 commits.
+3 commits.
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Survey is closed, revert banner to previous content.<br />
   <sub>[#13528](https://github.com/flutter/website/pull/13528) merged on June 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13528) over 38 minutes, 14 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; fix: update showcase company data<br />
+  <sub>[#13535](https://github.com/flutter/website/pull/13535) merged on June 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13535) over 1 hour, 2 additions and 6 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; New design doc: Architecture of material_ui and cupertino_ui<br />
   <sub>[#13529](https://github.com/flutter/website/pull/13529) merged on June 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13529) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
