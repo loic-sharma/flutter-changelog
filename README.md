@@ -4,7 +4,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-24 commits.
+26 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default<br />
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) merged on June 23, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187940) over 1 week, 404 additions and 1 deletion in 9 files</sub><br />
@@ -14,9 +14,18 @@
   <sub>[#188119](https://github.com/flutter/flutter/pull/188119) merged on June 23, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/188119) over 6 days, 541 additions and 59 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turn linux impeller on by default<br />
+  <sub>[#187573](https://github.com/flutter/flutter/pull/187573) merged on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187573) over 2 weeks, 110 additions and 18 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread<br />
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) merged on June 23, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/187365) over 3 weeks, 244 additions and 0 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix onPointerDown parameters and fix tests to reflect rotation pressu…<br />
+  <sub>[#188343](https://github.com/flutter/flutter/pull/188343) merged on June 24, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188343) over 1 day, 11 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="1855" height="289" alt="grafik" src="https://github.com/user-attachments/assets/8a5b5b11-99f2-41be-b320-e18ef2fb6974" /></details></sub>
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [Android] Add integration test for SystemUiMode transitions<br />
   <sub>[#187269](https://github.com/flutter/flutter/pull/187269) merged on June 24, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/187269) over 3 weeks, 230 additions and 0 deletions in 4 files</sub><br />

@@ -254,6 +254,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][tool] Fix libapp.so dropped from APK/app bundle<br />
   <sub>[#188515](https://github.com/flutter/flutter/pull/188515) opened on on June 24, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188515) 541 additions and 59 deletions in 4 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][Impeller] Wait for the Vulkan device to become idle before destroying Vulkan objects in the AHBSwapchainImplVK destructor<br />
-  <sub>[#188519](https://github.com/flutter/flutter/pull/188519) opened on on June 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188519) 47 additions and 2 deletions in 5 files</sub><br />
-
