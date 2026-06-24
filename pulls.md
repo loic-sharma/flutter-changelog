@@ -254,17 +254,11 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix null check operator crash in currentPackageConfig<br />
   <sub>[#188454](https://github.com/flutter/flutter/pull/188454) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188454) 118 additions and 2 deletions in 2 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [CP-stable] Upgrade iOS version<br />
-  <sub>[#188457](https://github.com/flutter/flutter/pull/188457) opened on on June 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188457) 4 additions and 4 deletions in 1 file</sub><br />
-
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Preserve text field focus across tab switches<br />
   <sub>[#188462](https://github.com/flutter/flutter/pull/188462) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188462) 128 additions and 0 deletions in 2 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix date localization missing ZERODIGIT in Arabic(ar)<br />
   <sub>[#188473](https://github.com/flutter/flutter/pull/188473) opened on on June 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188473) 34 additions and 1 deletion in 4 files</sub><br />
-
-* **[Rich Young](https://github.com/richyo-codes)** &mdash; fix(engine/windows): keep tooltip position rect alive - fix use after free<br />
-  <sub>[#188476](https://github.com/flutter/flutter/pull/188476) opened on on June 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188476) 12 additions and 7 deletions in 1 file</sub><br />
 
 * **[Alexander Dahlberg](https://github.com/Swiftaxe)** &mdash; Move drawer tests from widgets to material<br />
   <sub>[#188486](https://github.com/flutter/flutter/pull/188486) opened on on June 24, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/188486) 372 additions and 385 deletions in 2 files</sub><br />
