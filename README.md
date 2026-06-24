@@ -549,11 +549,15 @@
 
 ### June 20, 2026 to June 26, 2026
 
-6 commits.
+7 commits.
 
 * **[Enric Llopis Fabra](https://github.com/qiqetes)** &mdash; [go_router] fix onExit ignored for GoRoute nested inside ShellRoute<br />
   <sub>[#11853](https://github.com/flutter/packages/pull/11853) merged on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11853) over 2 weeks, 89 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Stellan Sun](https://github.com/moepanda)** &mdash; [video_player_android] Fix rendering freeze after full-screen transit…<br />
+  <sub>[#11416](https://github.com/flutter/packages/pull/11416) merged on June 24, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/11416) over 2 months, 152 additions and 31 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [camera_android_camerax] Setup agent skills camerax<br />
   <sub>[#11930](https://github.com/flutter/packages/pull/11930) merged on June 22, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11930) over 4 days, 1379 additions and 0 deletions in 34 files</sub><br />
