@@ -48,7 +48,7 @@
   <sub>[#185965](https://github.com/flutter/flutter/pull/185965) opened on on May 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/185965) 34 additions and 47 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from range_slider_test.dart<br />
-  <sub>[#185972](https://github.com/flutter/flutter/pull/185972) opened on on May 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185972) 4 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#185972](https://github.com/flutter/flutter/pull/185972) opened on on May 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185972) 4 additions and 6 deletions in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from autocomplete_test.dart<br />
   <sub>[#185973](https://github.com/flutter/flutter/pull/185973) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185973) 29 additions and 29 deletions in 1 file</sub><br />
@@ -69,7 +69,7 @@
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
-  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
 
 * **[Jules Blok](https://github.com/CrossVR)** &mdash; os.dart: Switch the codepage to UTF-8 when calling where.exe<br />
   <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
@@ -84,19 +84,16 @@
   <sub>[#186645](https://github.com/flutter/flutter/pull/186645) opened on on May 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186645) 16 additions and 2 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Use local semantics tester in Material selection tests<br />
-  <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/186670) 182 additions and 188 deletions in 5 files</sub><br />
-
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move drawer route tests to Material<br />
-  <sub>[#186675](https://github.com/flutter/flutter/pull/186675) opened on on May 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186675) 25 additions and 28 deletions in 2 files</sub><br />
+  <sub>[#186670](https://github.com/flutter/flutter/pull/186670) opened on on May 18, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/186670) 182 additions and 188 deletions in 5 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material rendering tests to material<br />
-  <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186776) 88 additions and 118 deletions in 4 files</sub><br />
+  <sub>[#186776](https://github.com/flutter/flutter/pull/186776) opened on on May 20, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186776) 88 additions and 118 deletions in 4 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material color tests to material<br />
-  <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
+  <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
   <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
@@ -120,7 +117,7 @@
   <sub>[#187026](https://github.com/flutter/flutter/pull/187026) opened on on May 24, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/187026) 571 additions and 407 deletions in 5 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Cupertino route tests to cupertino<br />
-  <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/187028) 320 additions and 302 deletions in 4 files</sub><br />
+  <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187028) 320 additions and 302 deletions in 4 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
   <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/187029) 884 additions and 18 deletions in 28 files</sub><br />
@@ -237,7 +234,7 @@
   <sub>[#188462](https://github.com/flutter/flutter/pull/188462) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188462) 128 additions and 0 deletions in 2 files</sub><br />
 
 * **[Alexander Dahlberg](https://github.com/Swiftaxe)** &mdash; Move drawer tests from widgets to material<br />
-  <sub>[#188486](https://github.com/flutter/flutter/pull/188486) opened on on June 24, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/188486) 372 additions and 385 deletions in 2 files</sub><br />
+  <sub>[#188486](https://github.com/flutter/flutter/pull/188486) opened on on June 24, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/188486) 372 additions and 385 deletions in 2 files</sub><br />
 
 * **[huangyouhua1](https://github.com/huangyouhua1)** &mdash; Add tests for flutter_view and platform_view examples<br />
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />

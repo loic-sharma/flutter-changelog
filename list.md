@@ -4,7 +4,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-31 commits.
+32 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) merged on June 23, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187940) over 1 week, 404 additions and 1 deletion in 9 files</sub>
@@ -74,6 +74,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs for PR limits
   <sub>[#188388](https://github.com/flutter/flutter/pull/188388) merged on June 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188388) over 30 minutes, 15 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Restrict release web asset server to the build output and source files
+  <sub>[#187437](https://github.com/flutter/flutter/pull/187437) merged on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187437) over 3 weeks, 94 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Call onCloseRequested on closed menus
   <sub>[#186376](https://github.com/flutter/flutter/pull/186376) merged on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186376) over 1 month, 10 additions and 14 deletions in 2 files</sub>
