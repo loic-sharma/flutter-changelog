@@ -242,9 +242,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move Flutter rendering into a new FlViewRenderer widget<br />
   <sub>[#188289](https://github.com/flutter/flutter/pull/188289) opened on on June 22, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188289) 322 additions and 150 deletions in 5 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Close FlutterRenderer texture image SyncFence objects immediately after waiting on them<br />
-  <sub>[#188313](https://github.com/flutter/flutter/pull/188313) opened on on June 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188313) 17 additions and 5 deletions in 2 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add auto-play support to CarouselView<br />
   <sub>[#188345](https://github.com/flutter/flutter/pull/188345) opened on on June 22, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/188345) 373 additions and 10 deletions in 2 files</sub><br />
 
@@ -269,9 +266,9 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [CP-stable] Upgrade iOS version<br />
   <sub>[#188457](https://github.com/flutter/flutter/pull/188457) opened on on June 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188457) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to a10d8ac38de835021c8d2f920dbf50a920ccc030<br />
-  <sub>[#188460](https://github.com/flutter/flutter/pull/188460) opened on on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188460) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Preserve text field focus across tab switches<br />
   <sub>[#188462](https://github.com/flutter/flutter/pull/188462) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188462) 128 additions and 0 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.46-candidate.0] Sync engine.version to 300972dbc0d1446c761c6856717cc5a00dfec2d0<br />
+  <sub>[#188467](https://github.com/flutter/flutter/pull/188467) opened on on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188467) 1 addition and 1 deletion in 1 file</sub><br />
 

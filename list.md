@@ -4,7 +4,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-18 commits.
+19 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) merged on June 23, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187940) over 1 week, 404 additions and 1 deletion in 9 files</sub>
@@ -33,6 +33,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move compositor shader into its own GObject
   <sub>[#188144](https://github.com/flutter/flutter/pull/188144) merged on June 22, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188144) over 4 days, 305 additions and 156 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Android] Close FlutterRenderer texture image SyncFence objects immediately after waiting on them
+  <sub>[#188313](https://github.com/flutter/flutter/pull/188313) merged on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188313) over 1 day, 17 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "refactor(web): Unify Image on Skwasm and CanvasKit"
   <sub>[#188356](https://github.com/flutter/flutter/pull/188356) merged on June 23, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/188356) over 22 hours, 1157 additions and 765 deletions in 27 files</sub>
