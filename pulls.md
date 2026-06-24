@@ -275,3 +275,6 @@
 * **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; Add Impeller+OpenGLES startup benchmark for mokey<br />
   <sub>[#188495](https://github.com/flutter/flutter/pull/188495) opened on on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188495) 33 additions and 1 deletion in 3 files</sub><br />
 
+* **[Rusino](https://github.com/Rusino)** &mdash; Get pos<br />
+  <sub>[#188503](https://github.com/flutter/flutter/pull/188503) opened on on June 24, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/188503) 276 additions and 161 deletions in 6 files</sub><br />
+
