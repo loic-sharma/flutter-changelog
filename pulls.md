@@ -272,3 +272,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.46-candidate.0] Sync engine.version to 300972dbc0d1446c761c6856717cc5a00dfec2d0<br />
   <sub>[#188467](https://github.com/flutter/flutter/pull/188467) opened on on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188467) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix date localization missing ZERODIGIT in Arabic(ar)<br />
+  <sub>[#188473](https://github.com/flutter/flutter/pull/188473) opened on on June 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188473) 34 additions and 1 deletion in 4 files</sub><br />
+
