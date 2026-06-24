@@ -275,3 +275,6 @@
 * **[huangyouhua1](https://github.com/huangyouhua1)** &mdash; Add tests for flutter_view and platform_view examples<br />
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
+* **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; Add Impeller+OpenGLES startup benchmark for mokey<br />
+  <sub>[#188495](https://github.com/flutter/flutter/pull/188495) opened on on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188495) 33 additions and 1 deletion in 3 files</sub><br />
+
