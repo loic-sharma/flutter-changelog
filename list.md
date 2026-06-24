@@ -4,7 +4,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-21 commits.
+22 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) merged on June 23, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187940) over 1 week, 404 additions and 1 deletion in 9 files</sub>
@@ -26,6 +26,10 @@
   <sub>[#187860](https://github.com/flutter/flutter/pull/187860) merged on June 22, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/187860) over 1 week, 520 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes navigator may not report correct canhandlepop when propagate in…
+  <sub>[#186705](https://github.com/flutter/flutter/pull/186705) merged on June 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186705) over 1 month, 143 additions and 104 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Move Flutter rendering into a new FlViewRenderer widget
   <sub>[#188289](https://github.com/flutter/flutter/pull/188289) merged on June 24, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188289) over 2 days, 322 additions and 150 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
@@ -46,6 +50,10 @@
   <sub>[#188356](https://github.com/flutter/flutter/pull/188356) merged on June 23, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/188356) over 22 hours, 1157 additions and 765 deletions in 27 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs for PR limits
+  <sub>[#188388](https://github.com/flutter/flutter/pull/188388) merged on June 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188388) over 30 minutes, 15 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Call onCloseRequested on closed menus
   <sub>[#186376](https://github.com/flutter/flutter/pull/186376) merged on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186376) over 1 month, 10 additions and 14 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
@@ -57,10 +65,6 @@
 * **[Haider](https://github.com/haiderqadir)** &mdash; Fix spelling mistake in documentation (wether → whether)
   <sub>[#186141](https://github.com/flutter/flutter/pull/186141) merged on June 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/186141) over 1 month, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update docs for PR limits
-  <sub>[#188388](https://github.com/flutter/flutter/pull/188388) merged on June 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188388) over 30 minutes, 15 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [John "codefu" McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; clean up skills paths for reidbaker-agent
   <sub>[#188287](https://github.com/flutter/flutter/pull/188287) merged on June 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188287) over 1 day, 1 addition and 2 deletions in 1 file</sub>
