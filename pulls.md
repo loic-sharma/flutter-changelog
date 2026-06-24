@@ -230,9 +230,6 @@
 * **[Himank Sharma](https://github.com/himanksharma8434-coder)** &mdash; feat: add new API documentation examples for scroll notifications, UI…<br />
   <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web/skwasm] Remove name-based export of function<br />
-  <sub>[#188256](https://github.com/flutter/flutter/pull/188256) opened on on June 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188256) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Munawer Ali](https://github.com/Munawer-Ali)** &mdash; Add padding property to Checkbox<br />
   <sub>[#188258](https://github.com/flutter/flutter/pull/188258) opened on on June 19, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188258) 181 additions and 7 deletions in 3 files</sub><br />
 
