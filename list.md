@@ -4,7 +4,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-17 commits.
+18 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate analysis_options.yaml to exclude build and platform directories by default
   <sub>[#187940](https://github.com/flutter/flutter/pull/187940) merged on June 23, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/187940) over 1 week, 404 additions and 1 deletion in 9 files</sub>
@@ -17,6 +17,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add public API to post task to platform thread
   <sub>[#187365](https://github.com/flutter/flutter/pull/187365) merged on June 23, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/187365) over 3 weeks, 244 additions and 0 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Add other types of platform view tests to android_hardware_smoke_test
+  <sub>[#188244](https://github.com/flutter/flutter/pull/188244) merged on June 23, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/188244) over 4 days, 525 additions and 214 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add agent skills for orchestrating cherry-picks to stable and beta channels
   <sub>[#187860](https://github.com/flutter/flutter/pull/187860) merged on June 22, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/187860) over 1 week, 520 additions and 0 deletions in 2 files</sub>
