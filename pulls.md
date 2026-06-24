@@ -216,7 +216,7 @@
   <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/188142) 786 additions and 1609 deletions in 37 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Introduce `DefaultAnimationStyle` widget<br />
-  <sub>[#188150](https://github.com/flutter/flutter/pull/188150) opened on on June 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188150) 179 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#188150](https://github.com/flutter/flutter/pull/188150) opened on on June 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188150) 179 additions and 0 deletions in 3 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`<br />
   <sub>[#188163](https://github.com/flutter/flutter/pull/188163) opened on on June 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188163) 9 additions and 0 deletions in 3 files</sub><br />
