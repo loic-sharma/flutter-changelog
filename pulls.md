@@ -248,3 +248,12 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Add tests for FlTaskRunner<br />
   <sub>[#188547](https://github.com/flutter/flutter/pull/188547) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188547) 196 additions and 0 deletions in 2 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix GLib-GIO-CRITICAL warnings in keyboard manager test<br />
+  <sub>[#188548](https://github.com/flutter/flutter/pull/188548) opened on on June 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188548) 13 additions and 0 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [linux] Re-enable RegistrarRegisterTextureInMultipleThreads test<br />
+  <sub>[#188549](https://github.com/flutter/flutter/pull/188549) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188549) 14 additions and 19 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add tests for FlMouseCursorHandler<br />
+  <sub>[#188554](https://github.com/flutter/flutter/pull/188554) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188554) 175 additions and 3 deletions in 4 files</sub><br />
+
