@@ -622,7 +622,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-12 commits.
+13 commits.
 
 * **[Enric Llopis Fabra](https://github.com/qiqetes)** &mdash; [go_router] fix onExit ignored for GoRoute nested inside ShellRoute<br />
   <sub>[#11853](https://github.com/flutter/packages/pull/11853) merged on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11853) over 2 weeks, 89 additions and 2 deletions in 3 files</sub><br />
@@ -651,6 +651,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [Decoupling] Port PR (#186667) from flutter/flutter to material_ui and cupertino_ui<br />
   <sub>[#11964](https://github.com/flutter/packages/pull/11964) merged on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11964) over 1 hour, 11 additions and 25 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix iOS &/&& logic<br />
+  <sub>[#11994](https://github.com/flutter/packages/pull/11994) merged on June 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11994) over 37 minutes, 23 additions and 11 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove widgets import in `slider_test.dart`<br />
   <sub>[#11977](https://github.com/flutter/packages/pull/11977) merged on June 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11977) over 15 hours, 2 additions and 5 deletions in 1 file</sub><br />
