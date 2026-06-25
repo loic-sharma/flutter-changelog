@@ -99,7 +99,7 @@
   <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187028) 320 additions and 302 deletions in 4 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
-  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/187029) 884 additions and 18 deletions in 28 files</sub><br />
+  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/187029) 849 additions and 14 deletions in 27 files</sub><br />
 
 * **[Kirtikumar Anandrao Ramchandani](https://github.com/KirtiRamchandani)** &mdash; Remove Material test multi-view utility cross-import<br />
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
@@ -213,7 +213,7 @@
   <sub>[#188515](https://github.com/flutter/flutter/pull/188515) opened on on June 24, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188515) 541 additions and 59 deletions in 4 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Increase macOS minimum supported version from 10.15 to 12 to support Xcode 27 <br />
-  <sub>[#188520](https://github.com/flutter/flutter/pull/188520) opened on on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188520) 71 additions and 87 deletions in 19 files</sub><br />
+  <sub>[#188520](https://github.com/flutter/flutter/pull/188520) opened on on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188520) 72 additions and 67 deletions in 19 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to 0582f446e54a<br />
   <sub>[#188524](https://github.com/flutter/flutter/pull/188524) opened on on June 24, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/188524) 2765 additions and 1270 deletions in 7 files</sub><br />
