@@ -51,7 +51,7 @@
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
@@ -114,7 +114,7 @@
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
-  <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
+  <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
@@ -224,11 +224,14 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][tool] Fix libapp.so dropped from APK/app bundle<br />
   <sub>[#188515](https://github.com/flutter/flutter/pull/188515) opened on on June 24, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188515) 541 additions and 59 deletions in 4 files</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Increase macOS minimum supported version from 10.15 to 12 to support Xcode 27 <br />
+  <sub>[#188520](https://github.com/flutter/flutter/pull/188520) opened on on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188520) 71 additions and 87 deletions in 19 files</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to 0582f446e54a<br />
   <sub>[#188524](https://github.com/flutter/flutter/pull/188524) opened on on June 24, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/188524) 2765 additions and 1270 deletions in 7 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [windows]: adjusts uniform buffers to hit hlsl optimization<br />
-  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188538) 196 additions and 89 deletions in 12 files</sub><br />
+  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/188538) 212 additions and 89 deletions in 12 files</sub><br />
 
 * **[laishere](https://github.com/laishere)** &mdash; Add debug check for platform view filter layer conflict<br />
   <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
@@ -250,4 +253,13 @@
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; Add test for reparenting shown portal during LayoutBuilder layout<br />
   <sub>[#188558](https://github.com/flutter/flutter/pull/188558) opened on on June 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188558) 147 additions and 0 deletions in 1 file</sub><br />
+
+* **[Gautam Kumar](https://github.com/GautamKumarOffical)** &mdash; Reduce boilerplate in FlutterPlatformViewsTest.mm<br />
+  <sub>[#188570](https://github.com/flutter/flutter/pull/188570) opened on on June 25, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/188570) 223 additions and 1465 deletions in 1 file</sub><br />
+
+* **[David Bebawy](https://github.com/dbebawy)** &mdash; Remove vestigial `download_jdk` gclient var<br />
+  <sub>[#188571](https://github.com/flutter/flutter/pull/188571) opened on on June 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188571) 7 additions and 118 deletions in 23 files</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Remove `semantics_tester` import from `material/tooltip_theme_test`<br />
+  <sub>[#188572](https://github.com/flutter/flutter/pull/188572) opened on on June 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188572) 1 addition and 1 deletion in 1 file</sub><br />
 
