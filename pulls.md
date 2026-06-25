@@ -38,12 +38,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix multi-view sizing race condition (Lock approach)<br />
   <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185622) 114 additions and 0 deletions in 2 files</sub><br />
 
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from autocomplete_test.dart<br />
-  <sub>[#185973](https://github.com/flutter/flutter/pull/185973) opened on on May 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185973) 29 additions and 29 deletions in 1 file</sub><br />
-
-* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Remove semantics_tester import from animated_icons_test.dart<br />
-  <sub>[#185974](https://github.com/flutter/flutter/pull/185974) opened on on May 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/185974) 1 addition and 6 deletions in 1 file</sub><br />
-
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: Harden CI scripts and driver against command injection<br />
   <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
@@ -246,7 +240,7 @@
   <sub>[#188554](https://github.com/flutter/flutter/pull/188554) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188554) 175 additions and 3 deletions in 4 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Tool: Provide guided migration logs when iOS app crashes due to missi…<br />
-  <sub>[#188556](https://github.com/flutter/flutter/pull/188556) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188556) 161 additions and 78 deletions in 4 files</sub><br />
+  <sub>[#188556](https://github.com/flutter/flutter/pull/188556) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188556) 161 additions and 76 deletions in 4 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; Add test for reparenting shown portal during LayoutBuilder layout<br />
   <sub>[#188558](https://github.com/flutter/flutter/pull/188558) opened on on June 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188558) 147 additions and 0 deletions in 1 file</sub><br />

@@ -622,7 +622,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-13 commits.
+15 commits.
 
 * **[Enric Llopis Fabra](https://github.com/qiqetes)** &mdash; [go_router] fix onExit ignored for GoRoute nested inside ShellRoute
   <sub>[#11853](https://github.com/flutter/packages/pull/11853) merged on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11853) over 2 weeks, 89 additions and 2 deletions in 3 files</sub>
@@ -651,6 +651,14 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [Decoupling] Port PR (#186667) from flutter/flutter to material_ui and cupertino_ui
   <sub>[#11964](https://github.com/flutter/packages/pull/11964) merged on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11964) over 1 hour, 11 additions and 25 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove widgets import in `menu_anchor_test.dart`
+  <sub>[#11995](https://github.com/flutter/packages/pull/11995) merged on June 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/11995) over 1 hour, 2 additions and 11 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove widgets import in `scaffold_test.dart`
+  <sub>[#11973](https://github.com/flutter/packages/pull/11973) merged on June 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11973) over 20 hours, 5 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix iOS &/&& logic
   <sub>[#11994](https://github.com/flutter/packages/pull/11994) merged on June 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/11994) over 37 minutes, 23 additions and 11 deletions in 10 files</sub>
