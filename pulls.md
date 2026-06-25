@@ -191,9 +191,6 @@
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixed couple of bugs<br />
   <sub>[#188032](https://github.com/flutter/flutter/pull/188032) opened on on June 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188032) 71 additions and 39 deletions in 4 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fixture tests in remaining unit tests<br />
-  <sub>[#188142](https://github.com/flutter/flutter/pull/188142) opened on on June 18, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/188142) 797 additions and 1631 deletions in 37 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Introduce `DefaultAnimationStyle` widget<br />
   <sub>[#188150](https://github.com/flutter/flutter/pull/188150) opened on on June 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188150) 179 additions and 0 deletions in 3 files</sub><br />
 
@@ -238,4 +235,13 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to 0582f446e54a<br />
   <sub>[#188524](https://github.com/flutter/flutter/pull/188524) opened on on June 24, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/188524) 2765 additions and 1270 deletions in 7 files</sub><br />
+
+* **[laishere](https://github.com/laishere)** &mdash; Add debug check for platform view filter layer conflict<br />
+  <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Support Enabling Built-in Kotlin<br />
+  <sub>[#188543](https://github.com/flutter/flutter/pull/188543) opened on on June 25, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/188543) 1031 additions and 522 deletions in 3 files</sub><br />
+
+* **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
+  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188544) 184 additions and 46 deletions in 18 files</sub><br />
 
