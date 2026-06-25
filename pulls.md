@@ -237,7 +237,7 @@
   <sub>[#188515](https://github.com/flutter/flutter/pull/188515) opened on on June 24, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188515) 541 additions and 59 deletions in 4 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to 0582f446e54a<br />
-  <sub>[#188524](https://github.com/flutter/flutter/pull/188524) opened on on June 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188524) 92 additions and 27 deletions in 3 files</sub><br />
+  <sub>[#188524](https://github.com/flutter/flutter/pull/188524) opened on on June 24, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/188524) 2765 additions and 1270 deletions in 7 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#188536](https://github.com/flutter/flutter/pull/188536) opened on on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188536) 3 additions and 0 deletions in 1 file</sub><br />
