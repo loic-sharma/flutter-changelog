@@ -105,7 +105,7 @@
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Don't attach LLDB debugger for profile mode on iOS<br />
-  <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
+  <sub>[#187125](https://github.com/flutter/flutter/pull/187125) opened on on May 26, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/187125) 331 additions and 20 deletions in 7 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
@@ -228,7 +228,7 @@
   <sub>[#188548](https://github.com/flutter/flutter/pull/188548) opened on on June 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188548) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add tests for FlMouseCursorHandler<br />
-  <sub>[#188554](https://github.com/flutter/flutter/pull/188554) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188554) 175 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#188554](https://github.com/flutter/flutter/pull/188554) opened on on June 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188554) 171 additions and 3 deletions in 4 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Tool: Provide guided migration logs when iOS app crashes due to missi…<br />
   <sub>[#188556](https://github.com/flutter/flutter/pull/188556) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188556) 161 additions and 76 deletions in 4 files</sub><br />
