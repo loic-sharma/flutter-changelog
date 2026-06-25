@@ -209,9 +209,6 @@
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [flutter_tools] Format plugin example template to match dart format<br />
   <sub>[#188382](https://github.com/flutter/flutter/pull/188382) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188382) 34 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; build(deps): remove discontinued pedantic and device_info packages<br />
-  <sub>[#188399](https://github.com/flutter/flutter/pull/188399) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188399) 3 additions and 30 deletions in 3 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix null check operator crash in currentPackageConfig<br />
   <sub>[#188454](https://github.com/flutter/flutter/pull/188454) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188454) 118 additions and 2 deletions in 2 files</sub><br />
 
@@ -223,9 +220,6 @@
 
 * **[huangyouhua1](https://github.com/huangyouhua1)** &mdash; Add tests for flutter_view and platform_view examples<br />
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
-
-* **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; Add Impeller+OpenGLES startup benchmark for mokey<br />
-  <sub>[#188495](https://github.com/flutter/flutter/pull/188495) opened on on June 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188495) 33 additions and 1 deletion in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][tool] Fix libapp.so dropped from APK/app bundle<br />
   <sub>[#188515](https://github.com/flutter/flutter/pull/188515) opened on on June 24, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188515) 541 additions and 59 deletions in 4 files</sub><br />
@@ -242,14 +236,8 @@
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
   <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188544) 184 additions and 46 deletions in 18 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Add tests for FlTaskRunner<br />
-  <sub>[#188547](https://github.com/flutter/flutter/pull/188547) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188547) 196 additions and 0 deletions in 2 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix GLib-GIO-CRITICAL warnings in keyboard manager test<br />
   <sub>[#188548](https://github.com/flutter/flutter/pull/188548) opened on on June 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188548) 13 additions and 0 deletions in 1 file</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [linux] Re-enable RegistrarRegisterTextureInMultipleThreads test<br />
-  <sub>[#188549](https://github.com/flutter/flutter/pull/188549) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188549) 14 additions and 19 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add tests for FlMouseCursorHandler<br />
   <sub>[#188554](https://github.com/flutter/flutter/pull/188554) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188554) 175 additions and 3 deletions in 4 files</sub><br />
