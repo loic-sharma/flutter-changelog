@@ -662,7 +662,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-19 commits.
+20 commits.
 
 * **[Enric Llopis Fabra](https://github.com/qiqetes)** &mdash; [go_router] fix onExit ignored for GoRoute nested inside ShellRoute<br />
   <sub>[#11853](https://github.com/flutter/packages/pull/11853) merged on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11853) over 2 weeks, 89 additions and 2 deletions in 3 files</sub><br />
@@ -683,6 +683,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; docs: Add agentic workflow playbook for camera_android_camerax<br />
   <sub>[#11959](https://github.com/flutter/packages/pull/11959) merged on June 23, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/11959) over 19 hours, 52 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Enable `bottom_navigation_bar_test`<br />
+  <sub>[#12005](https://github.com/flutter/packages/pull/12005) merged on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12005) over 2 hours, 105 additions and 49 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [CI] Fix labeler for cupertino_ui PRs<br />
   <sub>[#11988](https://github.com/flutter/packages/pull/11988) merged on June 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11988) over 48 minutes, 1 addition and 1 deletion in 1 file</sub><br />
