@@ -245,3 +245,6 @@
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
   <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188544) 184 additions and 46 deletions in 18 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Add tests for FlTaskRunner<br />
+  <sub>[#188547](https://github.com/flutter/flutter/pull/188547) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188547) 196 additions and 0 deletions in 2 files</sub><br />
+
