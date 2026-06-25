@@ -249,11 +249,14 @@
   <sub>[#188570](https://github.com/flutter/flutter/pull/188570) opened on on June 25, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/188570) 223 additions and 1465 deletions in 1 file</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Remove vestigial `download_jdk` gclient var<br />
-  <sub>[#188571](https://github.com/flutter/flutter/pull/188571) opened on on June 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188571) 7 additions and 118 deletions in 23 files</sub><br />
+  <sub>[#188571](https://github.com/flutter/flutter/pull/188571) opened on on June 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188571) 7 additions and 118 deletions in 23 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Remove `semantics_tester` import from `material/tooltip_theme_test`<br />
   <sub>[#188572](https://github.com/flutter/flutter/pull/188572) opened on on June 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188572) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
-  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/188573) 1569 additions and 1655 deletions in 30 files</sub><br />
+  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/188573) 1588 additions and 1656 deletions in 30 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Detach LLDB and print stack trace on process stop<br />
+  <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/188576) 235 additions and 158 deletions in 4 files</sub><br />
 
