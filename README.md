@@ -726,11 +726,23 @@
 
 ### June 20, 2026 to June 26, 2026
 
-3 commits.
+6 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Reformat with latest formatter updates and fixes<br />
+  <sub>[#13533](https://github.com/flutter/website/pull/13533) merged on June 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13533) over 21 hours, 41 additions and 288 deletions in 235 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update sidenav entries to use consistent casing<br />
+  <sub>[#13534](https://github.com/flutter/website/pull/13534) merged on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13534) over 19 hours, 7 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Survey is closed, revert banner to previous content.<br />
   <sub>[#13528](https://github.com/flutter/website/pull/13528) merged on June 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13528) over 38 minutes, 14 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; feat: add showcase for KQED<br />
+  <sub>[#13536](https://github.com/flutter/website/pull/13536) merged on June 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13536) over 11 hours, 94 additions and 11 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; fix: update showcase company data<br />
   <sub>[#13535](https://github.com/flutter/website/pull/13535) merged on June 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13535) over 1 hour, 2 additions and 6 deletions in 6 files</sub><br />
