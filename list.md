@@ -674,7 +674,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-22 commits.
+23 commits.
 
 * **[Enric Llopis Fabra](https://github.com/qiqetes)** &mdash; [go_router] fix onExit ignored for GoRoute nested inside ShellRoute
   <sub>[#11853](https://github.com/flutter/packages/pull/11853) merged on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11853) over 2 weeks, 89 additions and 2 deletions in 3 files</sub>
@@ -715,6 +715,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [Decoupling] Port PR (#186667) from flutter/flutter to material_ui and cupertino_ui
   <sub>[#11964](https://github.com/flutter/packages/pull/11964) merged on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11964) over 1 hour, 11 additions and 25 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Check in auto-upgrade to analysis options
+  <sub>[#11969](https://github.com/flutter/packages/pull/11969) merged on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11969) over 1 day, 75 additions and 0 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `widgets/` import in `flexible_space_bar_test.dart`, `app_bar_sliver_test.dart` and partial fix in `chip_test.dart`
   <sub>[#12004](https://github.com/flutter/packages/pull/12004) merged on June 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12004) over 2 hours, 26 additions and 27 deletions in 3 files</sub>
@@ -850,7 +854,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-6 commits.
+8 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Reformat with latest formatter updates and fixes
   <sub>[#13533](https://github.com/flutter/website/pull/13533) merged on June 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13533) over 21 hours, 41 additions and 288 deletions in 235 files</sub>
@@ -863,6 +867,14 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Survey is closed, revert banner to previous content.
   <sub>[#13528](https://github.com/flutter/website/pull/13528) merged on June 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13528) over 38 minutes, 14 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[derdilla](https://github.com/derdilla)** &mdash; Document version codes during ABI splitting
+  <sub>[#13531](https://github.com/flutter/website/pull/13531) merged on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13531) over 2 days, 7 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Volodymyr Buberenko](https://github.com/vbuberen)** &mdash; Improve docs related to Swift Package Manager migration for plugin authors
+  <sub>[#13538](https://github.com/flutter/website/pull/13538) merged on June 26, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13538) over 5 hours, 43 additions and 20 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; feat: add showcase for KQED
   <sub>[#13536](https://github.com/flutter/website/pull/13536) merged on June 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13536) over 11 hours, 94 additions and 11 deletions in 13 files</sub>
