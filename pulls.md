@@ -236,11 +236,11 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Detach LLDB and print stack trace on process stop<br />
   <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/188576) 235 additions and 158 deletions in 4 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Load a ShaderLibrary from shader bundle bytes<br />
-  <sub>[#188596](https://github.com/flutter/flutter/pull/188596) opened on on June 25, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188596) 170 additions and 0 deletions in 5 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a macosArm64Only feature flag<br />
   <sub>[#188598](https://github.com/flutter/flutter/pull/188598) opened on on June 25, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188598) 117 additions and 6 deletions in 7 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add Texture.fromImage to wrap a ui.Image texture<br />
+  <sub>[#188605](https://github.com/flutter/flutter/pull/188605) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188605) 239 additions and 0 deletions in 5 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool<br />
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 1 addition and 0 deletions in 1 file</sub><br />
@@ -253,4 +253,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use `revert` label instead of `revert_wf`<br />
   <sub>[#188639](https://github.com/flutter/flutter/pull/188639) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188639) 5 additions and 5 deletions in 1 file</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix(ci): download correct engine artifacts for tree-analyze on engine PR<br />
+  <sub>[#188650](https://github.com/flutter/flutter/pull/188650) opened on on June 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188650) 5 additions and 2 deletions in 2 files</sub><br />
 
