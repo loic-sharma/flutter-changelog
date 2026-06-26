@@ -221,9 +221,6 @@
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
   <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188544) 184 additions and 46 deletions in 18 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add tests for FlMouseCursorHandler<br />
-  <sub>[#188554](https://github.com/flutter/flutter/pull/188554) opened on on June 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188554) 171 additions and 3 deletions in 4 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Tool: Provide guided migration logs when iOS app crashes due to missi…<br />
   <sub>[#188556](https://github.com/flutter/flutter/pull/188556) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188556) 161 additions and 76 deletions in 4 files</sub><br />
 
