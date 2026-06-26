@@ -674,11 +674,15 @@
 
 ### June 20, 2026 to June 26, 2026
 
-20 commits.
+22 commits.
 
 * **[Enric Llopis Fabra](https://github.com/qiqetes)** &mdash; [go_router] fix onExit ignored for GoRoute nested inside ShellRoute
   <sub>[#11853](https://github.com/flutter/packages/pull/11853) merged on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11853) over 2 weeks, 89 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player_avfoundation] Add video track selection support
+  <sub>[#11476](https://github.com/flutter/packages/pull/11476) merged on June 26, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/11476) over 2 months, 1339 additions and 81 deletions in 13 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Stellan Sun](https://github.com/moepanda)** &mdash; [video_player_android] Fix rendering freeze after full-screen transit…
   <sub>[#11416](https://github.com/flutter/packages/pull/11416) merged on June 24, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/11416) over 2 months, 152 additions and 31 deletions in 4 files</sub>
@@ -687,6 +691,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [camera_android_camerax] Setup agent skills camerax
   <sub>[#11930](https://github.com/flutter/packages/pull/11930) merged on June 22, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11930) over 4 days, 1379 additions and 0 deletions in 34 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[shrabanti722](https://github.com/shrabanti722)** &mdash; [video_player_platform_interface] Add preventsDisplaySleepDuringVideoPlayback option
+  <sub>[#11546](https://github.com/flutter/packages/pull/11546) merged on June 26, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/11546) over 2 months, 27 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[gfongT5](https://github.com/gfongT5)** &mdash; [path_provider_linux] use soname for libgio
   <sub>[#11748](https://github.com/flutter/packages/pull/11748) merged on June 24, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/11748) over 1 month, 73 additions and 6 deletions in 5 files</sub>
