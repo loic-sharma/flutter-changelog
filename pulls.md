@@ -245,3 +245,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Compute dispatch takes 3D workgroup counts and honors the shader local_size<br />
   <sub>[#188601](https://github.com/flutter/flutter/pull/188601) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188601) 172 additions and 70 deletions in 13 files</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool<br />
+  <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 1 addition and 0 deletions in 1 file</sub><br />
+
