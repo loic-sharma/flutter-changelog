@@ -239,3 +239,12 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Detach LLDB and print stack trace on process stop<br />
   <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/188576) 235 additions and 158 deletions in 4 files</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Load a ShaderLibrary from shader bundle bytes<br />
+  <sub>[#188596](https://github.com/flutter/flutter/pull/188596) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188596) 170 additions and 0 deletions in 5 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Compute dispatch takes 3D workgroup counts and honors the shader local_size<br />
+  <sub>[#188601](https://github.com/flutter/flutter/pull/188601) opened on on June 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188601) 160 additions and 70 deletions in 13 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.46-candidate.0] Sync engine.version to a24b1ea55dedf3ce992cae0fbc1012b22b373290<br />
+  <sub>[#188604](https://github.com/flutter/flutter/pull/188604) opened on on June 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188604) 1 addition and 1 deletion in 1 file</sub><br />
+
