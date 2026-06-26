@@ -192,7 +192,7 @@
   <sub>[#188454](https://github.com/flutter/flutter/pull/188454) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188454) 118 additions and 2 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Preserve text field focus across tab switches<br />
-  <sub>[#188462](https://github.com/flutter/flutter/pull/188462) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188462) 128 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#188462](https://github.com/flutter/flutter/pull/188462) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188462) 136 additions and 1 deletion in 2 files</sub><br />
 
 * **[Alexander Dahlberg](https://github.com/Swiftaxe)** &mdash; Move drawer tests from widgets to material<br />
   <sub>[#188486](https://github.com/flutter/flutter/pull/188486) opened on on June 24, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/188486) 372 additions and 385 deletions in 2 files</sub><br />
@@ -234,7 +234,7 @@
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Detach LLDB and print stack trace on process stop<br />
-  <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/188576) 235 additions and 158 deletions in 4 files</sub><br />
+  <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/188576) 192 additions and 153 deletions in 4 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a macosArm64Only feature flag<br />
   <sub>[#188598](https://github.com/flutter/flutter/pull/188598) opened on on June 25, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188598) 117 additions and 6 deletions in 7 files</sub><br />
@@ -246,7 +246,7 @@
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Xcode 27 lipo verification failure for Darwin frameworks<br />
-  <sub>[#188625](https://github.com/flutter/flutter/pull/188625) opened on on June 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188625) 24 additions and 26 deletions in 3 files</sub><br />
+  <sub>[#188625](https://github.com/flutter/flutter/pull/188625) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188625) 24 additions and 26 deletions in 3 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [iOS][test] Fix VSyncClient display link deallocation test on iOS 27<br />
   <sub>[#188627](https://github.com/flutter/flutter/pull/188627) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188627) 8 additions and 32 deletions in 1 file</sub><br />
@@ -254,6 +254,9 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use `revert` label instead of `revert_wf`<br />
   <sub>[#188639](https://github.com/flutter/flutter/pull/188639) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188639) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix(ci): download correct engine artifacts for tree-analyze on engine PR<br />
-  <sub>[#188650](https://github.com/flutter/flutter/pull/188650) opened on on June 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188650) 5 additions and 2 deletions in 2 files</sub><br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Refactor SwiftPM symlink path logic<br />
+  <sub>[#188647](https://github.com/flutter/flutter/pull/188647) opened on on June 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188647) 222 additions and 78 deletions in 4 files</sub><br />
+
+* **[Julien Bolly](https://github.com/Julienraptor01)** &mdash; Update AndroidX check to use regex<br />
+  <sub>[#188651](https://github.com/flutter/flutter/pull/188651) opened on on June 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188651) 1 addition and 1 deletion in 1 file</sub><br />
 
