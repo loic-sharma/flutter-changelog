@@ -678,7 +678,7 @@
 
 ### June 20, 2026 to June 26, 2026
 
-23 commits.
+25 commits.
 
 * **[Enric Llopis Fabra](https://github.com/qiqetes)** &mdash; [go_router] fix onExit ignored for GoRoute nested inside ShellRoute
   <sub>[#11853](https://github.com/flutter/packages/pull/11853) merged on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11853) over 2 weeks, 89 additions and 2 deletions in 3 files</sub>
@@ -700,6 +700,10 @@
   <sub>[#11546](https://github.com/flutter/packages/pull/11546) merged on June 26, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/11546) over 2 months, 27 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove widgets import in `bottom_sheet_test.dart`
+  <sub>[#12001](https://github.com/flutter/packages/pull/12001) merged on June 26, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/12001) over 22 hours, 331 additions and 249 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[gfongT5](https://github.com/gfongT5)** &mdash; [path_provider_linux] use soname for libgio
   <sub>[#11748](https://github.com/flutter/packages/pull/11748) merged on June 24, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/11748) over 1 month, 73 additions and 6 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Robert Ancell](https://github.com/robert-ancell)</sub>
@@ -719,6 +723,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [Decoupling] Port PR (#186667) from flutter/flutter to material_ui and cupertino_ui
   <sub>[#11964](https://github.com/flutter/packages/pull/11964) merged on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11964) over 1 hour, 11 additions and 25 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove widgets import in `dialog_test.dart`, `dropdown_menu_test.dart` and `sliver_app_bar_test.dart`
+  <sub>[#12002](https://github.com/flutter/packages/pull/12002) merged on June 26, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/12002) over 22 hours, 177 additions and 146 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Check in auto-upgrade to analysis options
   <sub>[#11969](https://github.com/flutter/packages/pull/11969) merged on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11969) over 1 day, 75 additions and 0 deletions in 9 files</sub>
