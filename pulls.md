@@ -245,3 +245,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool<br />
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Xcode 27 lipo verification failure for Darwin frameworks<br />
+  <sub>[#188625](https://github.com/flutter/flutter/pull/188625) opened on on June 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188625) 22 additions and 24 deletions in 3 files</sub><br />
+
