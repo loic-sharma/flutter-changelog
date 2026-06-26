@@ -50,9 +50,6 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[via-guy](https://github.com/via-guy)** &mdash; [web] Release render canvas bitmap resources<br />
-  <sub>[#186519](https://github.com/flutter/flutter/pull/186519) opened on on May 14, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/186519) 82 additions and 1 deletion in 7 files</sub><br />
-
 * **[Jules Blok](https://github.com/CrossVR)** &mdash; os.dart: Switch the codepage to UTF-8 when calling where.exe<br />
   <sub>[#186580](https://github.com/flutter/flutter/pull/186580) opened on on May 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186580) 2 additions and 1 deletion in 1 file</sub><br />
 
