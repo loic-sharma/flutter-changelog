@@ -246,5 +246,11 @@
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Xcode 27 lipo verification failure for Darwin frameworks<br />
-  <sub>[#188625](https://github.com/flutter/flutter/pull/188625) opened on on June 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188625) 22 additions and 24 deletions in 3 files</sub><br />
+  <sub>[#188625](https://github.com/flutter/flutter/pull/188625) opened on on June 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188625) 22 additions and 24 deletions in 3 files</sub><br />
+
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix TreeSliver first node clipping during expand/collapse animation<br />
+  <sub>[#188626](https://github.com/flutter/flutter/pull/188626) opened on on June 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188626) 112 additions and 2 deletions in 2 files</sub><br />
+
+* **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [iOS][test] Fix VSyncClient display link deallocation test on iOS 27<br />
+  <sub>[#188627](https://github.com/flutter/flutter/pull/188627) opened on on June 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188627) 9 additions and 32 deletions in 1 file</sub><br />
 
