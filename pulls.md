@@ -240,7 +240,7 @@
   <sub>[#188596](https://github.com/flutter/flutter/pull/188596) opened on on June 25, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188596) 170 additions and 0 deletions in 5 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a macosArm64Only feature flag<br />
-  <sub>[#188598](https://github.com/flutter/flutter/pull/188598) opened on on June 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188598) 117 additions and 6 deletions in 7 files</sub><br />
+  <sub>[#188598](https://github.com/flutter/flutter/pull/188598) opened on on June 25, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188598) 117 additions and 6 deletions in 7 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool<br />
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 1 addition and 0 deletions in 1 file</sub><br />
