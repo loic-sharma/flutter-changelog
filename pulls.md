@@ -245,9 +245,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool<br />
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Xcode 27 lipo verification failure for Darwin frameworks<br />
-  <sub>[#188625](https://github.com/flutter/flutter/pull/188625) opened on on June 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188625) 24 additions and 26 deletions in 3 files</sub><br />
-
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [iOS][test] Fix VSyncClient display link deallocation test on iOS 27<br />
   <sub>[#188627](https://github.com/flutter/flutter/pull/188627) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188627) 8 additions and 32 deletions in 1 file</sub><br />
 
@@ -259,4 +256,7 @@
 
 * **[Julien Bolly](https://github.com/Julienraptor01)** &mdash; Update AndroidX check to use regex<br />
   <sub>[#188651](https://github.com/flutter/flutter/pull/188651) opened on on June 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188651) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moves test ownership validation to flutter/flutter<br />
+  <sub>[#188655](https://github.com/flutter/flutter/pull/188655) opened on on June 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188655) 226 additions and 16 deletions in 3 files</sub><br />
 
