@@ -222,7 +222,7 @@
   <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188544) 184 additions and 46 deletions in 18 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Tool: Provide guided migration logs when iOS app crashes due to missi…<br />
-  <sub>[#188556](https://github.com/flutter/flutter/pull/188556) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188556) 161 additions and 76 deletions in 4 files</sub><br />
+  <sub>[#188556](https://github.com/flutter/flutter/pull/188556) opened on on June 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188556) 155 additions and 61 deletions in 4 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; Add test for reparenting shown portal during LayoutBuilder layout<br />
   <sub>[#188558](https://github.com/flutter/flutter/pull/188558) opened on on June 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188558) 147 additions and 0 deletions in 1 file</sub><br />
@@ -242,9 +242,9 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Load a ShaderLibrary from shader bundle bytes<br />
   <sub>[#188596](https://github.com/flutter/flutter/pull/188596) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188596) 170 additions and 0 deletions in 5 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Compute dispatch takes 3D workgroup counts and honors the shader local_size<br />
-  <sub>[#188601](https://github.com/flutter/flutter/pull/188601) opened on on June 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188601) 160 additions and 70 deletions in 13 files</sub><br />
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a macosArm64Only feature flag<br />
+  <sub>[#188598](https://github.com/flutter/flutter/pull/188598) opened on on June 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188598) 117 additions and 6 deletions in 7 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.46-candidate.0] Sync engine.version to a24b1ea55dedf3ce992cae0fbc1012b22b373290<br />
-  <sub>[#188604](https://github.com/flutter/flutter/pull/188604) opened on on June 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188604) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Compute dispatch takes 3D workgroup counts and honors the shader local_size<br />
+  <sub>[#188601](https://github.com/flutter/flutter/pull/188601) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188601) 172 additions and 70 deletions in 13 files</sub><br />
 
