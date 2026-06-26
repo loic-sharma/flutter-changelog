@@ -219,7 +219,7 @@
   <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188544) 184 additions and 46 deletions in 18 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Tool: Provide guided migration logs when iOS app crashes due to missi…<br />
-  <sub>[#188556](https://github.com/flutter/flutter/pull/188556) opened on on June 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188556) 155 additions and 61 deletions in 4 files</sub><br />
+  <sub>[#188556](https://github.com/flutter/flutter/pull/188556) opened on on June 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188556) 151 additions and 61 deletions in 3 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; Add test for reparenting shown portal during LayoutBuilder layout<br />
   <sub>[#188558](https://github.com/flutter/flutter/pull/188558) opened on on June 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188558) 147 additions and 0 deletions in 1 file</sub><br />
@@ -234,7 +234,7 @@
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Detach LLDB and print stack trace on process stop<br />
-  <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/188576) 235 additions and 158 deletions in 4 files</sub><br />
+  <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/188576) 235 additions and 158 deletions in 4 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Load a ShaderLibrary from shader bundle bytes<br />
   <sub>[#188596](https://github.com/flutter/flutter/pull/188596) opened on on June 25, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188596) 170 additions and 0 deletions in 5 files</sub><br />
@@ -246,7 +246,7 @@
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Xcode 27 lipo verification failure for Darwin frameworks<br />
-  <sub>[#188625](https://github.com/flutter/flutter/pull/188625) opened on on June 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188625) 22 additions and 24 deletions in 3 files</sub><br />
+  <sub>[#188625](https://github.com/flutter/flutter/pull/188625) opened on on June 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188625) 24 additions and 26 deletions in 3 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [iOS][test] Fix VSyncClient display link deallocation test on iOS 27<br />
   <sub>[#188627](https://github.com/flutter/flutter/pull/188627) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188627) 8 additions and 32 deletions in 1 file</sub><br />
