@@ -254,3 +254,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moves test ownership validation to flutter/flutter<br />
   <sub>[#188655](https://github.com/flutter/flutter/pull/188655) opened on on June 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188655) 226 additions and 16 deletions in 3 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
+  <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
+
