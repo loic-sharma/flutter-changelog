@@ -34,7 +34,7 @@ Future<void> _writeChangelog(String? token) async {
   );
 
   String owner = 'flutter';
-  for (final repository in ['flutter', 'packages', 'website']) {
+  for (final repository in ['flutter', 'packages', 'website', 'core-packages']) {
     var done = false;
     String? after;
     final seen = <int>{};
@@ -196,6 +196,7 @@ bool _ignore(Commit commit) {
   if (rollers.contains(pr.authorLogin)) {
     if (pr.title.startsWith('Manual roll Flutter Engine from')) return true;
     if (pr.title.startsWith('Manual roll Flutter from')) return true;
+    if (pr.title.startsWith('Manual roll Flutter (stable) from')) return true;
     if (pr.title.startsWith('Manual roll Packages from')) return true;
     if (pr.title.startsWith('Manual roll Plugins from')) return true;
     if (pr.title.startsWith('Roll Dart SDK from ')) return true;
