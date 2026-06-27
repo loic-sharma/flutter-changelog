@@ -266,3 +266,6 @@
 * **[Syed Muhammad Mobasil](https://github.com/Mobasil-Git)** &mdash; Fix text_field_test failures on web<br />
   <sub>[#188676](https://github.com/flutter/flutter/pull/188676) opened on on June 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188676) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Decouple Cupertino's dartDoc imports of Material<br />
+  <sub>[#188683](https://github.com/flutter/flutter/pull/188683) opened on on June 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188683) 163 additions and 107 deletions in 20 files</sub><br />
+
