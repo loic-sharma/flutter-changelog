@@ -72,7 +72,7 @@
   <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
-  <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `InheritedElement.ubiquitous` constructor<br />
   <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186923) 124 additions and 49 deletions in 3 files</sub><br />
