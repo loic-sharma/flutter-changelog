@@ -270,5 +270,5 @@
   <sub>[#188683](https://github.com/flutter/flutter/pull/188683) opened on on June 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188683) 163 additions and 107 deletions in 20 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add a flat VertexAttributeFormat for vertex inputs<br />
-  <sub>[#188684](https://github.com/flutter/flutter/pull/188684) opened on on June 27, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/188684) 446 additions and 323 deletions in 8 files</sub><br />
+  <sub>[#188684](https://github.com/flutter/flutter/pull/188684) opened on on June 27, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/188684) 447 additions and 323 deletions in 8 files</sub><br />
 
