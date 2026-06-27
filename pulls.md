@@ -257,3 +257,9 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
 
+* **[Majid Ali](https://github.com/MajidAli2006)** &mdash; Update AppLocalizations iOS localization docs to match current Xcode UI<br />
+  <sub>[#188675](https://github.com/flutter/flutter/pull/188675) opened on on June 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188675) 45 additions and 42 deletions in 3 files</sub><br />
+
+* **[Syed Muhammad Mobasil](https://github.com/Mobasil-Git)** &mdash; Fix text_field_test failures on web<br />
+  <sub>[#188676](https://github.com/flutter/flutter/pull/188676) opened on on June 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188676) 2 additions and 2 deletions in 2 files</sub><br />
+
