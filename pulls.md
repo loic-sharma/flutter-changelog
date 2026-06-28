@@ -153,7 +153,7 @@
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Hari07](https://github.com/Hari-07)** &mdash; Add validation for required fields during xcodebuild<br />
-  <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187772) 160 additions and 2 deletions in 5 files</sub><br />
+  <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187772) 176 additions and 23 deletions in 5 files</sub><br />
 
 * **[Tobias Marschall](https://github.com/saibotma)** &mdash; Fix Android IME visibility after app resume<br />
   <sub>[#187778](https://github.com/flutter/flutter/pull/187778) opened on on June 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187778) 295 additions and 0 deletions in 5 files</sub><br />
