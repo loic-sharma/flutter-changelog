@@ -278,3 +278,9 @@
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Warn when SwiftPM is disabled<br />
   <sub>[#188695](https://github.com/flutter/flutter/pull/188695) opened on on June 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188695) 68 additions and 4 deletions in 7 files</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CompositedTransformFollower sample<br />
+  <sub>[#188698](https://github.com/flutter/flutter/pull/188698) opened on on June 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188698) 142 additions and 0 deletions in 3 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [linux] Use GWeakRef in mock signal handler test helper<br />
+  <sub>[#188700](https://github.com/flutter/flutter/pull/188700) opened on on June 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188700) 7 additions and 7 deletions in 2 files</sub><br />
+
