@@ -1130,3 +1130,25 @@
 
 </details>
 
+## flutter/core-packages
+
+### June 6, 2026 to June 12, 2026
+
+4 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [flutter_hook_config] Add the flutter_hook_config package<br />
+  <sub>[#19](https://github.com/flutter/core-packages/pull/19) merged on June 9, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/core-packages/pull/19) over 18 hours, 435 additions and 0 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Import from flutter/packages<br />
+  <sub>[#18](https://github.com/flutter/core-packages/pull/18) merged on June 9, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/core-packages/pull/18) over 3 days, 10676 additions and 0 deletions in 157 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Publish imported packages<br />
+  <sub>[#20](https://github.com/flutter/core-packages/pull/20) merged on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/core-packages/pull/20) over 6 hours, 12 additions and 8 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Add GCAfGH configuration<br />
+  <sub>[#8](https://github.com/flutter/core-packages/pull/8) merged on June 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/core-packages/pull/8) over 1 week, 44 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
