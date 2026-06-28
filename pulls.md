@@ -273,5 +273,5 @@
   <sub>[#188684](https://github.com/flutter/flutter/pull/188684) opened on on June 27, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/188684) 447 additions and 323 deletions in 8 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add TapRegion samples<br />
-  <sub>[#188685](https://github.com/flutter/flutter/pull/188685) opened on on June 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188685) 257 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#188685](https://github.com/flutter/flutter/pull/188685) opened on on June 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188685) 257 additions and 0 deletions in 5 files</sub><br />
 
