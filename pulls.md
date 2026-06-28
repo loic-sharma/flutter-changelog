@@ -284,3 +284,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [linux] Use GWeakRef in mock signal handler test helper<br />
   <sub>[#188700](https://github.com/flutter/flutter/pull/188700) opened on on June 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188700) 7 additions and 7 deletions in 2 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Free compositor in view renderer finalize to avoid use-after-free<br />
+  <sub>[#188702](https://github.com/flutter/flutter/pull/188702) opened on on June 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188702) 14 additions and 1 deletion in 1 file</sub><br />
+
