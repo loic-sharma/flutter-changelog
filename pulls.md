@@ -287,6 +287,6 @@
 * **[Shariar Hossain](https://github.com/shariaralphabyte)** &mdash; [flutter_tools] Tell user how to skip the device prompt with -d<br />
   <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Honor the enable argument in RenderPass.setDepthWriteEnable<br />
-  <sub>[#188715](https://github.com/flutter/flutter/pull/188715) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188715) 32 additions and 1 deletion in 3 files</sub><br />
+* **[kfatehi](https://github.com/kfatehi)** &mdash; Do not report a caret inside a surrogate pair to the platform IME<br />
+  <sub>[#188719](https://github.com/flutter/flutter/pull/188719) opened on on June 29, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/188719) 199 additions and 4 deletions in 2 files</sub><br />
 
