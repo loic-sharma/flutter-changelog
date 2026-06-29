@@ -287,3 +287,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Free compositor in view renderer finalize to avoid use-after-free<br />
   <sub>[#188702](https://github.com/flutter/flutter/pull/188702) opened on on June 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188702) 14 additions and 1 deletion in 1 file</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused fields<br />
+  <sub>[#188705](https://github.com/flutter/flutter/pull/188705) opened on on June 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188705) 0 additions and 9 deletions in 1 file</sub><br />
+
