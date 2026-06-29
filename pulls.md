@@ -89,9 +89,6 @@
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
   <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/187029) 810 additions and 14 deletions in 24 files</sub><br />
 
-* **[Kirtikumar Anandrao Ramchandani](https://github.com/KirtiRamchandani)** &mdash; Remove Material test multi-view utility cross-import<br />
-  <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
 
@@ -186,7 +183,7 @@
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [windows]: adjusts uniform buffers to hit hlsl optimization<br />
-  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/188538) 251 additions and 128 deletions in 13 files</sub><br />
+  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/188538) 251 additions and 128 deletions in 13 files</sub><br />
 
 * **[laishere](https://github.com/laishere)** &mdash; Add debug check for platform view filter layer conflict<br />
   <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
