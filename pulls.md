@@ -192,7 +192,7 @@
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [windows]: adjusts uniform buffers to hit hlsl optimization<br />
-  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/188538) 251 additions and 128 deletions in 13 files</sub><br />
+  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/188538) 251 additions and 128 deletions in 13 files</sub><br />
 
 * **[laishere](https://github.com/laishere)** &mdash; Add debug check for platform view filter layer conflict<br />
   <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
@@ -214,9 +214,6 @@
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool<br />
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 2 additions and 0 deletions in 2 files</sub><br />
-
-* **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [iOS][test] Fix VSyncClient display link deallocation test on iOS 27<br />
-  <sub>[#188627](https://github.com/flutter/flutter/pull/188627) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188627) 8 additions and 32 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Refactor SwiftPM symlink path logic<br />
   <sub>[#188647](https://github.com/flutter/flutter/pull/188647) opened on on June 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188647) 222 additions and 78 deletions in 4 files</sub><br />
@@ -255,5 +252,8 @@
   <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188738) 140 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix potential overflow when allocating buffers at the next power of two size<br />
-  <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188742) 54 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188742) 54 additions and 3 deletions in 4 files</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: extract wait-for-engine-build logic into a reusable composite action<br />
+  <sub>[#188748](https://github.com/flutter/flutter/pull/188748) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188748) 69 additions and 43 deletions in 2 files</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### June 27, 2026 to July 3, 2026
 
-20 commits.
+21 commits.
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Windows desktop builds<br />
   <sub>[#187034](https://github.com/flutter/flutter/pull/187034) merged on June 29, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/187034) over 1 month, 1566 additions and 11 deletions in 32 files</sub><br />
@@ -41,6 +41,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moves test ownership validation to flutter/flutter<br />
   <sub>[#188655](https://github.com/flutter/flutter/pull/188655) merged on June 29, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188655) over 2 days, 226 additions and 15 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[xiaowei guan](https://github.com/xiaowei-guan)** &mdash; Add Impeller+OpenGLES startup benchmark for mokey<br />
+  <sub>[#188495](https://github.com/flutter/flutter/pull/188495) merged on June 29, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188495) over 5 days, 35 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: Enable pixel exact local file comparator to read goldens from flutter asset URI<br />
   <sub>[#188587](https://github.com/flutter/flutter/pull/188587) merged on June 29, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/188587) over 3 days, 256 additions and 91 deletions in 4 files</sub><br />
@@ -926,4 +930,12 @@
 </details>
 
 ## flutter/core-packages
+
+### June 27, 2026 to July 3, 2026
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Pass correct flags to `validate`<br />
+  <sub>[#27](https://github.com/flutter/core-packages/pull/27) merged on June 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/core-packages/pull/27) over 5 days, 12 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
