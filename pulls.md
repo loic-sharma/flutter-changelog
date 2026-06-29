@@ -93,7 +93,7 @@
   <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187028) 320 additions and 302 deletions in 4 files</sub><br />
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
-  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/187029) 849 additions and 14 deletions in 27 files</sub><br />
+  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/187029) 810 additions and 14 deletions in 24 files</sub><br />
 
 * **[Kirtikumar Anandrao Ramchandani](https://github.com/KirtiRamchandani)** &mdash; Remove Material test multi-view utility cross-import<br />
   <sub>[#187039](https://github.com/flutter/flutter/pull/187039) opened on on May 24, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187039) 32 additions and 2 deletions in 1 file</sub><br />
@@ -155,9 +155,6 @@
 * **[Anthony Hurtado](https://github.com/jortles)** &mdash; Add recursion depth limit to StandardCodecSerializer::ReadValue<br />
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
-* **[Yashas H Majmudar](https://github.com/yashas-hm)** &mdash; [flutter_tools] Use DeviceHub.app for iOS simulator path on Xcode 27+<br />
-  <sub>[#187910](https://github.com/flutter/flutter/pull/187910) opened on on June 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187910) 79 additions and 2 deletions in 2 files</sub><br />
-
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
   <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
 
@@ -198,7 +195,7 @@
   <sub>[#188520](https://github.com/flutter/flutter/pull/188520) opened on on June 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188520) 140 additions and 135 deletions in 48 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [windows]: adjusts uniform buffers to hit hlsl optimization<br />
-  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/188538) 251 additions and 128 deletions in 13 files</sub><br />
+  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188538) 251 additions and 128 deletions in 13 files</sub><br />
 
 * **[laishere](https://github.com/laishere)** &mdash; Add debug check for platform view filter layer conflict<br />
   <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
@@ -217,9 +214,6 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Detach LLDB and print stack trace on process stop<br />
   <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/188576) 192 additions and 153 deletions in 4 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a macosArm64Only feature flag<br />
-  <sub>[#188598](https://github.com/flutter/flutter/pull/188598) opened on on June 25, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188598) 235 additions and 6 deletions in 8 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool<br />
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 2 additions and 0 deletions in 2 files</sub><br />
@@ -262,4 +256,10 @@
 
 * **[kfatehi](https://github.com/kfatehi)** &mdash; Do not report a caret inside a surrogate pair to the platform IME<br />
   <sub>[#188719](https://github.com/flutter/flutter/pull/188719) opened on on June 29, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/188719) 200 additions and 4 deletions in 2 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Preserve text field focus across tab switches<br />
+  <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188738) 140 additions and 1 deletion in 2 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix potential overflow when allocating buffers at the next power of two size<br />
+  <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188742) 54 additions and 3 deletions in 4 files</sub><br />
 

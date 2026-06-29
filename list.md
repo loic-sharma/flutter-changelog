@@ -4,11 +4,19 @@
 
 ### June 27, 2026 to July 3, 2026
 
-15 commits.
+18 commits.
+
+* **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Windows desktop builds
+  <sub>[#187034](https://github.com/flutter/flutter/pull/187034) merged on June 29, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/187034) over 1 month, 1566 additions and 11 deletions in 32 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing few related editing issues with LTR/RTL text
   <sub>[#188503](https://github.com/flutter/flutter/pull/188503) merged on June 29, 2026 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/188503) over 4 days, 694 additions and 169 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Yashas H Majmudar](https://github.com/yashas-hm)** &mdash; [flutter_tools] Use DeviceHub.app for iOS simulator path on Xcode 27+
+  <sub>[#187910](https://github.com/flutter/flutter/pull/187910) merged on June 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187910) over 2 weeks, 79 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload
   <sub>[#187947](https://github.com/flutter/flutter/pull/187947) merged on June 29, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187947) over 2 weeks, 300 additions and 128 deletions in 9 files</sub>
@@ -25,6 +33,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Tolerate malformed UTF-8 in process streaming decoders
   <sub>[#188453](https://github.com/flutter/flutter/pull/188453) merged on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188453) over 5 days, 41 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: Enable pixel exact local file comparator to read goldens from flutter asset URI
+  <sub>[#188587](https://github.com/flutter/flutter/pull/188587) merged on June 29, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/188587) over 3 days, 256 additions and 91 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [VPAT] Update a11y assessment app FAB example to announce value change when it's updated.
   <sub>[#188466](https://github.com/flutter/flutter/pull/188466) merged on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188466) over 5 days, 18 additions and 1 deletion in 2 files</sub>
