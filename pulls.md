@@ -212,9 +212,6 @@
 * **[laishere](https://github.com/laishere)** &mdash; Add debug check for platform view filter layer conflict<br />
   <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Support Enabling Built-in Kotlin<br />
-  <sub>[#188543](https://github.com/flutter/flutter/pull/188543) opened on on June 25, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/188543) 836 additions and 397 deletions in 2 files</sub><br />
-
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
   <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188544) 184 additions and 46 deletions in 18 files</sub><br />
 
@@ -292,7 +289,4 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Honor the enable argument in RenderPass.setDepthWriteEnable<br />
   <sub>[#188715](https://github.com/flutter/flutter/pull/188715) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188715) 32 additions and 1 deletion in 3 files</sub><br />
-
-* **[kfatehi](https://github.com/kfatehi)** &mdash; Do not report a caret inside a surrogate pair to the platform IME<br />
-  <sub>[#188719](https://github.com/flutter/flutter/pull/188719) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188719) 155 additions and 4 deletions in 2 files</sub><br />
 
