@@ -72,7 +72,7 @@
   <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186777) 22 additions and 22 deletions in 3 files</sub><br />
 
 * **[Vincent Ong](https://github.com/mvincentong)** &mdash; Fix live test pointer cancellation source<br />
-  <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186868) 82 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#186868](https://github.com/flutter/flutter/pull/186868) opened on on May 21, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/186868) 73 additions and 0 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `InheritedElement.ubiquitous` constructor<br />
   <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186923) 124 additions and 49 deletions in 3 files</sub><br />
@@ -185,9 +185,6 @@
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
   <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
 
-* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [flutter_tools] Format plugin example template to match dart format<br />
-  <sub>[#188382](https://github.com/flutter/flutter/pull/188382) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188382) 34 additions and 1 deletion in 2 files</sub><br />
-
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix non primary buttons not being captured on windows<br />
   <sub>[#188394](https://github.com/flutter/flutter/pull/188394) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188394) 84 additions and 11 deletions in 2 files</sub><br />
 
@@ -249,7 +246,7 @@
   <sub>[#188651](https://github.com/flutter/flutter/pull/188651) opened on on June 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188651) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moves test ownership validation to flutter/flutter<br />
-  <sub>[#188655](https://github.com/flutter/flutter/pull/188655) opened on on June 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188655) 226 additions and 16 deletions in 3 files</sub><br />
+  <sub>[#188655](https://github.com/flutter/flutter/pull/188655) opened on on June 26, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188655) 226 additions and 15 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
@@ -272,14 +269,8 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CompositedTransformFollower sample<br />
   <sub>[#188698](https://github.com/flutter/flutter/pull/188698) opened on on June 28, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188698) 142 additions and 0 deletions in 3 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [linux] Use GWeakRef in mock signal handler test helper<br />
-  <sub>[#188700](https://github.com/flutter/flutter/pull/188700) opened on on June 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188700) 7 additions and 7 deletions in 2 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Free compositor in view renderer finalize to avoid use-after-free<br />
-  <sub>[#188702](https://github.com/flutter/flutter/pull/188702) opened on on June 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188702) 14 additions and 1 deletion in 1 file</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused fields<br />
-  <sub>[#188705](https://github.com/flutter/flutter/pull/188705) opened on on June 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188705) 0 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#188705](https://github.com/flutter/flutter/pull/188705) opened on on June 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188705) 0 additions and 9 deletions in 1 file</sub><br />
 
 * **[Shariar Hossain](https://github.com/shariaralphabyte)** &mdash; [flutter_tools] Tell user how to skip the device prompt with -d<br />
   <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
