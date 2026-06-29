@@ -228,13 +228,10 @@
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Detach LLDB and print stack trace on process stop<br />
-  <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/188576) 192 additions and 153 deletions in 4 files</sub><br />
+  <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/188576) 192 additions and 153 deletions in 4 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a macosArm64Only feature flag<br />
   <sub>[#188598](https://github.com/flutter/flutter/pull/188598) opened on on June 25, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188598) 107 additions and 3 deletions in 7 files</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add Texture.fromImage to wrap a ui.Image texture<br />
-  <sub>[#188605](https://github.com/flutter/flutter/pull/188605) opened on on June 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188605) 238 additions and 0 deletions in 5 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool<br />
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 2 additions and 0 deletions in 2 files</sub><br />
