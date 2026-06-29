@@ -4,15 +4,27 @@
 
 ### June 27, 2026 to July 3, 2026
 
-9 commits.
+12 commits.
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing few related editing issues with LTR/RTL text<br />
   <sub>[#188503](https://github.com/flutter/flutter/pull/188503) merged on June 29, 2026 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/188503) over 4 days, 694 additions and 169 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Use new ddc modules in test<br />
+  <sub>[#188240](https://github.com/flutter/flutter/pull/188240) merged on June 29, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/188240) over 1 week, 172 additions and 68 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nate Biggs](https://github.com/biggs0125), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Tolerate malformed UTF-8 in process streaming decoders<br />
+  <sub>[#188453](https://github.com/flutter/flutter/pull/188453) merged on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188453) over 5 days, 41 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [VPAT] Update a11y assessment app FAB example to announce value change when it's updated.<br />
   <sub>[#188466](https://github.com/flutter/flutter/pull/188466) merged on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188466) over 5 days, 18 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused fields<br />
+  <sub>[#188705](https://github.com/flutter/flutter/pull/188705) merged on June 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188705) over 11 hours, 0 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Clear text input handler widget on view dispose<br />
   <sub>[#188701](https://github.com/flutter/flutter/pull/188701) merged on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188701) over 16 hours, 75 additions and 2 deletions in 4 files</sub><br />
@@ -521,7 +533,11 @@
 
 ### June 27, 2026 to July 3, 2026
 
-14 commits.
+15 commits.
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Enable `text_field_test`<br />
+  <sub>[#12022](https://github.com/flutter/packages/pull/12022) merged on June 29, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/packages/pull/12022) over 3 days, 328 additions and 121 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `radio_test.dart` to `SemanticsHandle`<br />
   <sub>[#11981](https://github.com/flutter/packages/pull/11981) merged on June 29, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11981) over 4 days, 22 additions and 29 deletions in 1 file</sub><br />

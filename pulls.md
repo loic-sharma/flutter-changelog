@@ -237,7 +237,7 @@
   <sub>[#188627](https://github.com/flutter/flutter/pull/188627) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188627) 8 additions and 32 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use `revert` label instead of `revert_wf`<br />
-  <sub>[#188639](https://github.com/flutter/flutter/pull/188639) opened on on June 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188639) 5 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#188639](https://github.com/flutter/flutter/pull/188639) opened on on June 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188639) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Refactor SwiftPM symlink path logic<br />
   <sub>[#188647](https://github.com/flutter/flutter/pull/188647) opened on on June 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188647) 222 additions and 78 deletions in 4 files</sub><br />
@@ -268,9 +268,6 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CompositedTransformFollower sample<br />
   <sub>[#188698](https://github.com/flutter/flutter/pull/188698) opened on on June 28, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188698) 142 additions and 0 deletions in 3 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused fields<br />
-  <sub>[#188705](https://github.com/flutter/flutter/pull/188705) opened on on June 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188705) 0 additions and 9 deletions in 1 file</sub><br />
 
 * **[Shariar Hossain](https://github.com/shariaralphabyte)** &mdash; [flutter_tools] Tell user how to skip the device prompt with -d<br />
   <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
