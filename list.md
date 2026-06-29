@@ -19,7 +19,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload
-  <sub>[#187947](https://github.com/flutter/flutter/pull/187947) merged on June 29, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/187947) over 2 weeks, 300 additions and 128 deletions in 9 files</sub>
+  <sub>[#187947](https://github.com/flutter/flutter/pull/187947) merged on June 29, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/187947) over 2 weeks, 300 additions and 128 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Use new ddc modules in test
@@ -364,6 +364,10 @@
   <sub>[#185217](https://github.com/flutter/flutter/pull/185217) merged on June 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/185217) over 1 month, 791 additions and 457 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [linux]: fixes crash when resizing windows
+  <sub>[#187626](https://github.com/flutter/flutter/pull/187626) merged on June 17, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/187626) over 1 week, 92 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; refactor(web): Unify Image on Skwasm and CanvasKit
   <sub>[#187873](https://github.com/flutter/flutter/pull/187873) merged on June 16, 2026 &mdash; **Extra large:** [41 comments](https://github.com/flutter/flutter/pull/187873) over 5 days, 1063 additions and 738 deletions in 26 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
@@ -379,10 +383,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds windows project switch for enabling impeller
   <sub>[#188044](https://github.com/flutter/flutter/pull/188044) merged on June 17, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188044) over 2 days, 300 additions and 31 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [linux]: fixes crash when resizing windows
-  <sub>[#187626](https://github.com/flutter/flutter/pull/187626) merged on June 17, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/187626) over 1 week, 92 additions and 4 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Simon Binder](https://github.com/simolus3)** &mdash; Import `dart:_js_interop_wasm` in addition to `dart:_wasm` to convert between `JSAny` and `WasmExternRef?`
   <sub>[#186974](https://github.com/flutter/flutter/pull/186974) merged on June 17, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186974) over 3 weeks, 9 additions and 0 deletions in 3 files</sub>
