@@ -2,9 +2,6 @@
 
 ## flutter/flutter
 
-* **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
-  <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
-
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
@@ -246,10 +243,7 @@
   <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188738) 141 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix potential overflow when allocating buffers at the next power of two size<br />
-  <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/188742) 93 additions and 13 deletions in 9 files</sub><br />
-
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: extract wait-for-engine-build logic into a reusable composite action<br />
-  <sub>[#188748](https://github.com/flutter/flutter/pull/188748) opened on on June 29, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188748) 76 additions and 43 deletions in 2 files</sub><br />
+  <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/188742) 94 additions and 14 deletions in 9 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "[flutter_tools] Track asset transformer dependencies for hot reload"<br />
   <sub>[#188751](https://github.com/flutter/flutter/pull/188751) opened on on June 29, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/188751) 123 additions and 294 deletions in 9 files</sub><br />
