@@ -4,7 +4,7 @@
 
 ### June 27, 2026 to July 3, 2026
 
-18 commits.
+20 commits.
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Windows desktop builds<br />
   <sub>[#187034](https://github.com/flutter/flutter/pull/187034) merged on June 29, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/187034) over 1 month, 1566 additions and 11 deletions in 32 files</sub><br />
@@ -26,6 +26,10 @@
   <sub>[#188240](https://github.com/flutter/flutter/pull/188240) merged on June 29, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/188240) over 1 week, 172 additions and 68 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nate Biggs](https://github.com/biggs0125), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Increase macOS minimum supported version from 10.15 to 12 to support Xcode 27 <br />
+  <sub>[#188520](https://github.com/flutter/flutter/pull/188520) merged on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188520) over 4 days, 140 additions and 135 deletions in 48 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Properly await Dart Development Service shutdown with timeout<br />
   <sub>[#188387](https://github.com/flutter/flutter/pull/188387) merged on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188387) over 6 days, 156 additions and 42 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
@@ -33,6 +37,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Tolerate malformed UTF-8 in process streaming decoders<br />
   <sub>[#188453](https://github.com/flutter/flutter/pull/188453) merged on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188453) over 5 days, 41 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moves test ownership validation to flutter/flutter<br />
+  <sub>[#188655](https://github.com/flutter/flutter/pull/188655) merged on June 29, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188655) over 2 days, 226 additions and 15 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: Enable pixel exact local file comparator to read goldens from flutter asset URI<br />
   <sub>[#188587](https://github.com/flutter/flutter/pull/188587) merged on June 29, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/188587) over 3 days, 256 additions and 91 deletions in 4 files</sub><br />
@@ -557,7 +565,7 @@
 
 ### June 27, 2026 to July 3, 2026
 
-16 commits.
+18 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Enable `text_field_test`<br />
   <sub>[#12022](https://github.com/flutter/packages/pull/12022) merged on June 29, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/packages/pull/12022) over 3 days, 328 additions and 121 deletions in 2 files</sub><br />
@@ -593,6 +601,14 @@
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Enable `date_range_picker_test`<br />
   <sub>[#12010](https://github.com/flutter/packages/pull/12010) merged on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12010) over 3 days, 45 additions and 35 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `widgets` imports from `card_test.dart`, `checkbox_list_tile_test.dart`<br />
+  <sub>[#12054](https://github.com/flutter/packages/pull/12054) merged on June 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12054) over 36 minutes, 5 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `widgets/clipboard_utils.dart`, `widgets/text_selection_toolbar_utils.dart` imports from `adaptive_text_selection_toolbar_test.dart`<br />
+  <sub>[#12053](https://github.com/flutter/packages/pull/12053) merged on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12053) over 53 minutes, 42 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `widgets/clipboard_utils.dart` imports from `date_picker_test.dart`, `input_date_picker_form_field_test.dart`, `search_test.dart`, `selectable_text_test.dart`, `text_form_field_test.dart`, `text_selection_test.dart`<br />

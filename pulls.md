@@ -191,17 +191,14 @@
 * **[huangyouhua1](https://github.com/huangyouhua1)** &mdash; Add tests for flutter_view and platform_view examples<br />
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Increase macOS minimum supported version from 10.15 to 12 to support Xcode 27 <br />
-  <sub>[#188520](https://github.com/flutter/flutter/pull/188520) opened on on June 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188520) 140 additions and 135 deletions in 48 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [windows]: adjusts uniform buffers to hit hlsl optimization<br />
-  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/188538) 251 additions and 128 deletions in 13 files</sub><br />
+  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/188538) 251 additions and 128 deletions in 13 files</sub><br />
 
 * **[laishere](https://github.com/laishere)** &mdash; Add debug check for platform view filter layer conflict<br />
   <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
-  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188544) 184 additions and 46 deletions in 18 files</sub><br />
+  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188544) 184 additions and 46 deletions in 18 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; Add test for reparenting shown portal during LayoutBuilder layout<br />
   <sub>[#188558](https://github.com/flutter/flutter/pull/188558) opened on on June 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188558) 147 additions and 0 deletions in 1 file</sub><br />
@@ -226,9 +223,6 @@
 
 * **[Julien Bolly](https://github.com/Julienraptor01)** &mdash; Update AndroidX check to use regex<br />
   <sub>[#188651](https://github.com/flutter/flutter/pull/188651) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188651) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moves test ownership validation to flutter/flutter<br />
-  <sub>[#188655](https://github.com/flutter/flutter/pull/188655) opened on on June 26, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188655) 226 additions and 15 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
@@ -261,5 +255,5 @@
   <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188738) 140 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix potential overflow when allocating buffers at the next power of two size<br />
-  <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188742) 54 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188742) 54 additions and 3 deletions in 4 files</sub><br />
 
