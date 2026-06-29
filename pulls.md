@@ -290,3 +290,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused fields<br />
   <sub>[#188705](https://github.com/flutter/flutter/pull/188705) opened on on June 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188705) 0 additions and 9 deletions in 1 file</sub><br />
 
+* **[Shariar Hossain](https://github.com/shariaralphabyte)** &mdash; [flutter_tools] Tell user how to skip the device prompt with -d<br />
+  <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
+
