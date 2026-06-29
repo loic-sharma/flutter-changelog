@@ -4,7 +4,11 @@
 
 ### June 27, 2026 to July 3, 2026
 
-5 commits.
+6 commits.
+
+* **[Rusino](https://github.com/Rusino)** &mdash; Fixing few related editing issues with LTR/RTL text
+  <sub>[#188503](https://github.com/flutter/flutter/pull/188503) merged on June 29, 2026 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/188503) over 4 days, 694 additions and 169 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [VPAT] Update a11y assessment app FAB example to announce value change when it's updated.
   <sub>[#188466](https://github.com/flutter/flutter/pull/188466) merged on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188466) over 5 days, 18 additions and 1 deletion in 2 files</sub>
