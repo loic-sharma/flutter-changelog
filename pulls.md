@@ -198,7 +198,7 @@
   <sub>[#188520](https://github.com/flutter/flutter/pull/188520) opened on on June 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188520) 140 additions and 135 deletions in 48 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [windows]: adjusts uniform buffers to hit hlsl optimization<br />
-  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/188538) 212 additions and 89 deletions in 12 files</sub><br />
+  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/188538) 251 additions and 128 deletions in 13 files</sub><br />
 
 * **[laishere](https://github.com/laishere)** &mdash; Add debug check for platform view filter layer conflict<br />
   <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
@@ -219,7 +219,7 @@
   <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/188576) 192 additions and 153 deletions in 4 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a macosArm64Only feature flag<br />
-  <sub>[#188598](https://github.com/flutter/flutter/pull/188598) opened on on June 25, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188598) 177 additions and 3 deletions in 8 files</sub><br />
+  <sub>[#188598](https://github.com/flutter/flutter/pull/188598) opened on on June 25, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188598) 235 additions and 6 deletions in 8 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool<br />
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 2 additions and 0 deletions in 2 files</sub><br />
@@ -234,7 +234,7 @@
   <sub>[#188651](https://github.com/flutter/flutter/pull/188651) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188651) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moves test ownership validation to flutter/flutter<br />
-  <sub>[#188655](https://github.com/flutter/flutter/pull/188655) opened on on June 26, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188655) 226 additions and 15 deletions in 2 files</sub><br />
+  <sub>[#188655](https://github.com/flutter/flutter/pull/188655) opened on on June 26, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188655) 226 additions and 15 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
