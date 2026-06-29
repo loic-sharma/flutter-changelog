@@ -213,7 +213,7 @@
   <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Support Enabling Built-in Kotlin<br />
-  <sub>[#188543](https://github.com/flutter/flutter/pull/188543) opened on on June 25, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/188543) 1031 additions and 522 deletions in 3 files</sub><br />
+  <sub>[#188543](https://github.com/flutter/flutter/pull/188543) opened on on June 25, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/188543) 836 additions and 397 deletions in 2 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
   <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188544) 184 additions and 46 deletions in 18 files</sub><br />
@@ -240,7 +240,7 @@
   <sub>[#188605](https://github.com/flutter/flutter/pull/188605) opened on on June 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188605) 238 additions and 0 deletions in 5 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool<br />
-  <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#188620](https://github.com/flutter/flutter/pull/188620) opened on on June 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188620) 2 additions and 0 deletions in 2 files</sub><br />
 
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [iOS][test] Fix VSyncClient display link deallocation test on iOS 27<br />
   <sub>[#188627](https://github.com/flutter/flutter/pull/188627) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188627) 8 additions and 32 deletions in 1 file</sub><br />
@@ -269,9 +269,6 @@
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Decouple Cupertino's dartDoc imports of Material<br />
   <sub>[#188683](https://github.com/flutter/flutter/pull/188683) opened on on June 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188683) 163 additions and 107 deletions in 20 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add a flat VertexAttributeFormat for vertex inputs<br />
-  <sub>[#188684](https://github.com/flutter/flutter/pull/188684) opened on on June 27, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/188684) 447 additions and 323 deletions in 8 files</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add TapRegion samples<br />
   <sub>[#188685](https://github.com/flutter/flutter/pull/188685) opened on on June 28, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/188685) 257 additions and 0 deletions in 5 files</sub><br />
 
@@ -279,7 +276,7 @@
   <sub>[#188695](https://github.com/flutter/flutter/pull/188695) opened on on June 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188695) 68 additions and 4 deletions in 7 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CompositedTransformFollower sample<br />
-  <sub>[#188698](https://github.com/flutter/flutter/pull/188698) opened on on June 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188698) 142 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#188698](https://github.com/flutter/flutter/pull/188698) opened on on June 28, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188698) 142 additions and 0 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [linux] Use GWeakRef in mock signal handler test helper<br />
   <sub>[#188700](https://github.com/flutter/flutter/pull/188700) opened on on June 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188700) 7 additions and 7 deletions in 2 files</sub><br />
@@ -292,4 +289,10 @@
 
 * **[Shariar Hossain](https://github.com/shariaralphabyte)** &mdash; [flutter_tools] Tell user how to skip the device prompt with -d<br />
   <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Honor the enable argument in RenderPass.setDepthWriteEnable<br />
+  <sub>[#188715](https://github.com/flutter/flutter/pull/188715) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188715) 32 additions and 1 deletion in 3 files</sub><br />
+
+* **[kfatehi](https://github.com/kfatehi)** &mdash; Do not report a caret inside a surrogate pair to the platform IME<br />
+  <sub>[#188719](https://github.com/flutter/flutter/pull/188719) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188719) 155 additions and 4 deletions in 2 files</sub><br />
 
