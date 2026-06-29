@@ -3,10 +3,7 @@
 ## flutter/flutter
 
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add FragmentProgram.fromBytes to c++ and web engines. <br />
-  <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
-
-* **[Andrew Marshall](https://github.com/planetmarshall)** &mdash; use local lld explicitly in custom toolchain<br />
-  <sub>[#178685](https://github.com/flutter/flutter/pull/178685) opened on on November 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/178685) 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#175479](https://github.com/flutter/flutter/pull/175479) opened on on September 17, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/175479) 173 additions and 13 deletions in 9 files</sub><br />
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
@@ -18,7 +15,7 @@
   <sub>[#180591](https://github.com/flutter/flutter/pull/180591) opened on on January 6, 2026 &mdash; **Extra large:** [53 comments](https://github.com/flutter/flutter/pull/180591) 4224 additions and 1925 deletions in 20 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
-  <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
+  <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
 * **[Dmitry Grand (dmgr)](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
   <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181051) 7 additions and 1 deletion in 3 files</sub><br />
@@ -192,7 +189,7 @@
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [windows]: adjusts uniform buffers to hit hlsl optimization<br />
-  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/188538) 251 additions and 128 deletions in 13 files</sub><br />
+  <sub>[#188538](https://github.com/flutter/flutter/pull/188538) opened on on June 24, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/188538) 251 additions and 128 deletions in 13 files</sub><br />
 
 * **[laishere](https://github.com/laishere)** &mdash; Add debug check for platform view filter layer conflict<br />
   <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
@@ -224,9 +221,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
 
-* **[Majid Ali](https://github.com/MajidAli2006)** &mdash; Update AppLocalizations iOS localization docs to match current Xcode UI<br />
-  <sub>[#188675](https://github.com/flutter/flutter/pull/188675) opened on on June 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188675) 45 additions and 42 deletions in 3 files</sub><br />
-
 * **[Syed Muhammad Mobasil](https://github.com/Mobasil-Git)** &mdash; Fix text_field_test failures on web<br />
   <sub>[#188676](https://github.com/flutter/flutter/pull/188676) opened on on June 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188676) 2 additions and 2 deletions in 2 files</sub><br />
 
@@ -252,11 +246,14 @@
   <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188738) 141 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix potential overflow when allocating buffers at the next power of two size<br />
-  <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/188742) 93 additions and 13 deletions in 9 files</sub><br />
+  <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/188742) 93 additions and 13 deletions in 9 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: extract wait-for-engine-build logic into a reusable composite action<br />
   <sub>[#188748](https://github.com/flutter/flutter/pull/188748) opened on on June 29, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188748) 76 additions and 43 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert "[flutter_tools] Track asset transformer dependencies for hot reload"<br />
-  <sub>[#188751](https://github.com/flutter/flutter/pull/188751) opened on on June 29, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188751) 123 additions and 294 deletions in 9 files</sub><br />
+  <sub>[#188751](https://github.com/flutter/flutter/pull/188751) opened on on June 29, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/188751) 123 additions and 294 deletions in 9 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix FlCompositorOpenGL.pixels comment<br />
+  <sub>[#188754](https://github.com/flutter/flutter/pull/188754) opened on on June 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188754) 1 addition and 1 deletion in 1 file</sub><br />
 
