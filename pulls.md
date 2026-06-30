@@ -33,7 +33,7 @@
   <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185622) 114 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: Harden CI scripts and driver against command injection<br />
-  <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
+  <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
   <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
@@ -152,9 +152,6 @@
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixed couple of bugs<br />
   <sub>[#188032](https://github.com/flutter/flutter/pull/188032) opened on on June 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188032) 71 additions and 39 deletions in 4 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Introduce `DefaultAnimationStyle` widget<br />
-  <sub>[#188150](https://github.com/flutter/flutter/pull/188150) opened on on June 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188150) 179 additions and 0 deletions in 3 files</sub><br />
-
 * **[Juan Campuzano](https://github.com/juan-campuzano)** &mdash; fix: identity mismatch for path dependency plugins<br />
   <sub>[#188179](https://github.com/flutter/flutter/pull/188179) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188179) 130 additions and 7 deletions in 2 files</sub><br />
 
@@ -179,14 +176,8 @@
 * **[huangyouhua1](https://github.com/huangyouhua1)** &mdash; Add tests for flutter_view and platform_view examples<br />
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
-* **[laishere](https://github.com/laishere)** &mdash; Add debug check for platform view filter layer conflict<br />
-  <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
-
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
   <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/188544) 235 additions and 93 deletions in 18 files</sub><br />
-
-* **[ahyang](https://github.com/ahyangnb)** &mdash; Add test for reparenting shown portal during LayoutBuilder layout<br />
-  <sub>[#188558](https://github.com/flutter/flutter/pull/188558) opened on on June 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188558) 147 additions and 0 deletions in 1 file</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Remove `semantics_tester` import from `material/tooltip_theme_test`<br />
   <sub>[#188572](https://github.com/flutter/flutter/pull/188572) opened on on June 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188572) 1 addition and 1 deletion in 1 file</sub><br />
@@ -224,9 +215,6 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Preserve text field focus across tab switches<br />
   <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188738) 142 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix potential overflow when allocating buffers at the next power of two size<br />
-  <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/188742) 94 additions and 14 deletions in 9 files</sub><br />
-
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Migrate time picker tests cases relying on localization from material_ui to flutter_localization<br />
   <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
 
@@ -250,4 +238,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload (Reland #187947)<br />
   <sub>[#188808](https://github.com/flutter/flutter/pull/188808) opened on on June 30, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188808) 294 additions and 123 deletions in 9 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to 83675ed27633283e7fc296c8bca22e841224c096<br />
+  <sub>[#188817](https://github.com/flutter/flutter/pull/188817) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188817) 1 addition and 1 deletion in 1 file</sub><br />
 
