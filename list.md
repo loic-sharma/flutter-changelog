@@ -4,7 +4,7 @@
 
 ### June 27, 2026 to July 3, 2026
 
-29 commits.
+31 commits.
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Windows desktop builds
   <sub>[#187034](https://github.com/flutter/flutter/pull/187034) merged on June 29, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/187034) over 1 month, 1566 additions and 11 deletions in 32 files</sub>
@@ -41,6 +41,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Increase macOS minimum supported version from 10.15 to 12 to support Xcode 27 
   <sub>[#188520](https://github.com/flutter/flutter/pull/188520) merged on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188520) over 4 days, 140 additions and 135 deletions in 48 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix crash in flutter create when pubspec.yaml is empty
+  <sub>[#188385](https://github.com/flutter/flutter/pull/188385) merged on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188385) over 1 week, 46 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add a flat VertexAttributeFormat for vertex inputs
   <sub>[#188684](https://github.com/flutter/flutter/pull/188684) merged on June 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188684) over 2 days, 447 additions and 323 deletions in 8 files</sub>
@@ -81,6 +85,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [VPAT] Update a11y assessment app FAB example to announce value change when it's updated.
   <sub>[#188466](https://github.com/flutter/flutter/pull/188466) merged on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188466) over 5 days, 18 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix FlCompositorOpenGL.pixels comment
+  <sub>[#188754](https://github.com/flutter/flutter/pull/188754) merged on June 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188754) over 18 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use `revert` label instead of `revert_wf`
   <sub>[#188639](https://github.com/flutter/flutter/pull/188639) merged on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188639) over 2 days, 5 additions and 5 deletions in 1 file</sub>
@@ -601,7 +609,7 @@
 
 ### June 27, 2026 to July 3, 2026
 
-20 commits.
+22 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player_android] Add video track selection support
   <sub>[#11475](https://github.com/flutter/packages/pull/11475) merged on June 30, 2026 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/11475) over 2 months, 1833 additions and 34 deletions in 15 files</sub>
@@ -611,9 +619,17 @@
   <sub>[#12022](https://github.com/flutter/packages/pull/12022) merged on June 29, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/packages/pull/12022) over 3 days, 328 additions and 121 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Expose quantity in Transactions
+  <sub>[#11879](https://github.com/flutter/packages/pull/11879) merged on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11879) over 2 weeks, 50 additions and 21 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `radio_test.dart` to `SemanticsHandle`
   <sub>[#11981](https://github.com/flutter/packages/pull/11981) merged on June 29, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11981) over 4 days, 22 additions and 29 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Enable `checkbox_list_tile_test`
+  <sub>[#12007](https://github.com/flutter/packages/pull/12007) merged on June 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12007) over 4 days, 2 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Port PR (#184807) from flutter/flutter to material_ui
   <sub>[#11972](https://github.com/flutter/packages/pull/11972) merged on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11972) over 4 days, 32 additions and 50 deletions in 1 file</sub>

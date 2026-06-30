@@ -209,6 +209,9 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix TextSelectionOverlay crash when layout is degenerate<br />
+  <sub>[#188672](https://github.com/flutter/flutter/pull/188672) opened on on June 27, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188672) 201 additions and 67 deletions in 3 files</sub><br />
+
 * **[Syed Muhammad Mobasil](https://github.com/Mobasil-Git)** &mdash; Fix text_field_test failures on web<br />
   <sub>[#188676](https://github.com/flutter/flutter/pull/188676) opened on on June 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188676) 2 additions and 2 deletions in 2 files</sub><br />
 
@@ -231,13 +234,10 @@
   <sub>[#188719](https://github.com/flutter/flutter/pull/188719) opened on on June 29, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/188719) 200 additions and 4 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Preserve text field focus across tab switches<br />
-  <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188738) 141 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188738) 142 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix potential overflow when allocating buffers at the next power of two size<br />
   <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/188742) 94 additions and 14 deletions in 9 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix FlCompositorOpenGL.pixels comment<br />
-  <sub>[#188754](https://github.com/flutter/flutter/pull/188754) opened on on June 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188754) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Print a warning in `flutter doctor` when running on Intel Macs<br />
   <sub>[#188760](https://github.com/flutter/flutter/pull/188760) opened on on June 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188760) 55 additions and 4 deletions in 2 files</sub><br />
@@ -250,4 +250,10 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add 2D texture array support (kTexture2DArray)<br />
   <sub>[#188778](https://github.com/flutter/flutter/pull/188778) opened on on June 30, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188778) 279 additions and 22 deletions in 19 files</sub><br />
+
+* **[Rusino](https://github.com/Rusino)** &mdash; Fixing multiline GetBoxesForRange<br />
+  <sub>[#188803](https://github.com/flutter/flutter/pull/188803) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188803) 30 additions and 3 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ci] Increase test timeout for Mac_x64 build_tests shards<br />
+  <sub>[#188804](https://github.com/flutter/flutter/pull/188804) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188804) 5 additions and 0 deletions in 1 file</sub><br />
 
