@@ -254,3 +254,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Flutter Template Versions<br />
   <sub>[#188762](https://github.com/flutter/flutter/pull/188762) opened on on June 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188762) 8 additions and 8 deletions in 3 files</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [CP-stable] [Impeller] Fix positioning of text shadow masks<br />
+  <sub>[#188766](https://github.com/flutter/flutter/pull/188766) opened on on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188766) 29 additions and 8 deletions in 3 files</sub><br />
+
