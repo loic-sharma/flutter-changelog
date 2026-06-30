@@ -252,5 +252,5 @@
   <sub>[#188772](https://github.com/flutter/flutter/pull/188772) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188772) 22 additions and 7 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add 2D texture array support (kTexture2DArray)<br />
-  <sub>[#188778](https://github.com/flutter/flutter/pull/188778) opened on on June 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188778) 272 additions and 22 deletions in 19 files</sub><br />
+  <sub>[#188778](https://github.com/flutter/flutter/pull/188778) opened on on June 30, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188778) 279 additions and 22 deletions in 19 files</sub><br />
 
