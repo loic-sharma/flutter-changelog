@@ -209,9 +209,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix TextSelectionOverlay crash when layout is degenerate<br />
-  <sub>[#188672](https://github.com/flutter/flutter/pull/188672) opened on on June 27, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/188672) 292 additions and 63 deletions in 4 files</sub><br />
-
 * **[Syed Muhammad Mobasil](https://github.com/Mobasil-Git)** &mdash; Fix text_field_test failures on web<br />
   <sub>[#188676](https://github.com/flutter/flutter/pull/188676) opened on on June 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188676) 2 additions and 2 deletions in 2 files</sub><br />
 
@@ -243,17 +240,20 @@
   <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Flutter Template Versions<br />
-  <sub>[#188762](https://github.com/flutter/flutter/pull/188762) opened on on June 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188762) 8 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#188762](https://github.com/flutter/flutter/pull/188762) opened on on June 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188762) 29 additions and 16 deletions in 4 files</sub><br />
 
 * **[ellie-ya](https://github.com/ellie-ka-nam)** &mdash; [macOS] Resume app lifecycle on becomeActive to avoid frozen UI after occlusion<br />
   <sub>[#188772](https://github.com/flutter/flutter/pull/188772) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188772) 22 additions and 7 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add 2D texture array support (kTexture2DArray)<br />
-  <sub>[#188778](https://github.com/flutter/flutter/pull/188778) opened on on June 30, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188778) 279 additions and 22 deletions in 19 files</sub><br />
+  <sub>[#188778](https://github.com/flutter/flutter/pull/188778) opened on on June 30, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188778) 285 additions and 22 deletions in 19 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing multiline GetBoxesForRange<br />
   <sub>[#188803](https://github.com/flutter/flutter/pull/188803) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188803) 30 additions and 3 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ci] Increase test timeout for Mac_x64 build_tests shards<br />
   <sub>[#188804](https://github.com/flutter/flutter/pull/188804) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188804) 5 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload (Reland #187947)<br />
+  <sub>[#188808](https://github.com/flutter/flutter/pull/188808) opened on on June 30, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/188808) 294 additions and 123 deletions in 9 files</sub><br />
 
