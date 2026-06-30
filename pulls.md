@@ -137,9 +137,6 @@
 * **[DEV RAJA](https://github.com/bundeladevraja123-raja)** &mdash; Fix typo in TESTOWNERS comment<br />
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Hari07](https://github.com/Hari-07)** &mdash; Add validation for required fields during xcodebuild<br />
-  <sub>[#187772](https://github.com/flutter/flutter/pull/187772) opened on on June 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/187772) 176 additions and 23 deletions in 5 files</sub><br />
-
 * **[Anthony Hurtado](https://github.com/jortles)** &mdash; Add recursion depth limit to StandardCodecSerializer::ReadValue<br />
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
@@ -154,9 +151,6 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Introduce `DefaultAnimationStyle` widget<br />
   <sub>[#188150](https://github.com/flutter/flutter/pull/188150) opened on on June 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188150) 179 additions and 0 deletions in 3 files</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`<br />
-  <sub>[#188163](https://github.com/flutter/flutter/pull/188163) opened on on June 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188163) 9 additions and 0 deletions in 3 files</sub><br />
 
 * **[Juan Campuzano](https://github.com/juan-campuzano)** &mdash; fix: identity mismatch for path dependency plugins<br />
   <sub>[#188179](https://github.com/flutter/flutter/pull/188179) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188179) 130 additions and 7 deletions in 2 files</sub><br />
@@ -217,9 +211,6 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add TapRegion samples<br />
   <sub>[#188685](https://github.com/flutter/flutter/pull/188685) opened on on June 28, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/188685) 257 additions and 0 deletions in 5 files</sub><br />
-
-* **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Warn when SwiftPM is disabled<br />
-  <sub>[#188695](https://github.com/flutter/flutter/pull/188695) opened on on June 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188695) 68 additions and 4 deletions in 7 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CompositedTransformFollower sample<br />
   <sub>[#188698](https://github.com/flutter/flutter/pull/188698) opened on on June 28, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188698) 142 additions and 0 deletions in 3 files</sub><br />
