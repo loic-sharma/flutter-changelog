@@ -183,7 +183,7 @@
   <sub>[#188542](https://github.com/flutter/flutter/pull/188542) opened on on June 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188542) 77 additions and 1 deletion in 3 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
-  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/188544) 185 additions and 48 deletions in 18 files</sub><br />
+  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/188544) 235 additions and 93 deletions in 18 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; Add test for reparenting shown portal during LayoutBuilder layout<br />
   <sub>[#188558](https://github.com/flutter/flutter/pull/188558) opened on on June 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188558) 147 additions and 0 deletions in 1 file</sub><br />
@@ -244,9 +244,6 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Flutter Template Versions<br />
   <sub>[#188762](https://github.com/flutter/flutter/pull/188762) opened on on June 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188762) 8 additions and 8 deletions in 3 files</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [CP-stable] [Impeller] Fix positioning of text shadow masks<br />
-  <sub>[#188766](https://github.com/flutter/flutter/pull/188766) opened on on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188766) 29 additions and 8 deletions in 3 files</sub><br />
 
 * **[ellie-ya](https://github.com/ellie-ka-nam)** &mdash; [macOS] Resume app lifecycle on becomeActive to avoid frozen UI after occlusion<br />
   <sub>[#188772](https://github.com/flutter/flutter/pull/188772) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188772) 22 additions and 7 deletions in 2 files</sub><br />
