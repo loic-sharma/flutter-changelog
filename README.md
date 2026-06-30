@@ -573,7 +573,11 @@
 
 ### June 27, 2026 to July 3, 2026
 
-19 commits.
+20 commits.
+
+* **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player_android] Add video track selection support<br />
+  <sub>[#11475](https://github.com/flutter/packages/pull/11475) merged on June 30, 2026 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/11475) over 2 months, 1833 additions and 34 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Enable `text_field_test`<br />
   <sub>[#12022](https://github.com/flutter/packages/pull/12022) merged on June 29, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/packages/pull/12022) over 3 days, 328 additions and 121 deletions in 2 files</sub><br />
