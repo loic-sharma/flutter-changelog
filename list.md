@@ -609,7 +609,7 @@
 
 ### June 27, 2026 to July 3, 2026
 
-26 commits.
+28 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player_android] Add video track selection support
   <sub>[#11475](https://github.com/flutter/packages/pull/11475) merged on June 30, 2026 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/11475) over 2 months, 1833 additions and 34 deletions in 15 files</sub>
@@ -627,9 +627,17 @@
   <sub>[#11879](https://github.com/flutter/packages/pull/11879) merged on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11879) over 2 weeks, 50 additions and 21 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
+* **[Yashas H Majmudar](https://github.com/yashas-hm)** &mdash; [image_picker] Handle limit: 1 in pickMultiImage and pickMultipleMedia gracefully
+  <sub>[#11825](https://github.com/flutter/packages/pull/11825) merged on June 30, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/11825) over 3 weeks, 125 additions and 8 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `image_data.dart` imports from `circle_avatar_test.dart`, `color_scheme_test.dart`
   <sub>[#12059](https://github.com/flutter/packages/pull/12059) merged on June 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/12059) over 21 hours, 614 additions and 12 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [cupertino_ui] Migrate checkbox_test.dart to SemanticsHandle
+  <sub>[#12065](https://github.com/flutter/packages/pull/12065) merged on June 30, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/12065) over 19 hours, 26 additions and 39 deletions in 1 file</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [cupertino_ui] Remove widgets import from menu_anchor_test.dart
   <sub>[#12068](https://github.com/flutter/packages/pull/12068) merged on June 30, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12068) over 17 hours, 65 additions and 176 deletions in 1 file</sub>

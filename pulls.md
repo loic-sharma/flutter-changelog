@@ -144,7 +144,7 @@
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add android 17 to embedding<br />
-  <sub>[#187965](https://github.com/flutter/flutter/pull/187965) opened on on June 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187965) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#187965](https://github.com/flutter/flutter/pull/187965) opened on on June 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187965) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
   <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
@@ -195,7 +195,7 @@
   <sub>[#188572](https://github.com/flutter/flutter/pull/188572) opened on on June 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188572) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
-  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
+  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Detach LLDB and print stack trace on process stop<br />
   <sub>[#188576](https://github.com/flutter/flutter/pull/188576) opened on on June 25, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/188576) 192 additions and 153 deletions in 4 files</sub><br />
@@ -254,6 +254,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ci] Increase test timeout for Mac_x64 build_tests shards<br />
   <sub>[#188804](https://github.com/flutter/flutter/pull/188804) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188804) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
+  <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload (Reland #187947)<br />
-  <sub>[#188808](https://github.com/flutter/flutter/pull/188808) opened on on June 30, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/188808) 294 additions and 123 deletions in 9 files</sub><br />
+  <sub>[#188808](https://github.com/flutter/flutter/pull/188808) opened on on June 30, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188808) 294 additions and 123 deletions in 9 files</sub><br />
 
