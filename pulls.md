@@ -248,3 +248,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [CP-stable] [Impeller] Fix positioning of text shadow masks<br />
   <sub>[#188766](https://github.com/flutter/flutter/pull/188766) opened on on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188766) 29 additions and 8 deletions in 3 files</sub><br />
 
+* **[ellie-ya](https://github.com/ellie-ka-nam)** &mdash; [macOS] Resume app lifecycle on becomeActive to avoid frozen UI after occlusion<br />
+  <sub>[#188772](https://github.com/flutter/flutter/pull/188772) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188772) 22 additions and 7 deletions in 2 files</sub><br />
+

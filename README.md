@@ -4,7 +4,7 @@
 
 ### June 27, 2026 to July 3, 2026
 
-27 commits.
+28 commits.
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Windows desktop builds<br />
   <sub>[#187034](https://github.com/flutter/flutter/pull/187034) merged on June 29, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/187034) over 1 month, 1566 additions and 11 deletions in 32 files</sub><br />
@@ -41,6 +41,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Increase macOS minimum supported version from 10.15 to 12 to support Xcode 27 <br />
   <sub>[#188520](https://github.com/flutter/flutter/pull/188520) merged on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188520) over 4 days, 140 additions and 135 deletions in 48 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add a flat VertexAttributeFormat for vertex inputs<br />
+  <sub>[#188684](https://github.com/flutter/flutter/pull/188684) merged on June 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188684) over 2 days, 447 additions and 323 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Provide guided migration logs when iOS app crashes on simulator<br />
   <sub>[#188736](https://github.com/flutter/flutter/pull/188736) merged on June 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188736) over 3 hours, 105 additions and 10 deletions in 3 files</sub><br />
