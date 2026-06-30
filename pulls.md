@@ -237,7 +237,7 @@
   <sub>[#188742](https://github.com/flutter/flutter/pull/188742) opened on on June 29, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/188742) 94 additions and 14 deletions in 9 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix FlCompositorOpenGL.pixels comment<br />
-  <sub>[#188754](https://github.com/flutter/flutter/pull/188754) opened on on June 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188754) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#188754](https://github.com/flutter/flutter/pull/188754) opened on on June 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188754) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Print a warning in `flutter doctor` when running on Intel Macs<br />
   <sub>[#188760](https://github.com/flutter/flutter/pull/188760) opened on on June 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188760) 55 additions and 4 deletions in 2 files</sub><br />
