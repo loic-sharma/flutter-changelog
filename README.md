@@ -569,7 +569,7 @@
 
 ### June 27, 2026 to July 3, 2026
 
-18 commits.
+19 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Enable `text_field_test`<br />
   <sub>[#12022](https://github.com/flutter/packages/pull/12022) merged on June 29, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/packages/pull/12022) over 3 days, 328 additions and 121 deletions in 2 files</sub><br />
@@ -606,6 +606,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Enable `date_range_picker_test`<br />
   <sub>[#12010](https://github.com/flutter/packages/pull/12010) merged on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12010) over 3 days, 45 additions and 35 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `widgets` import from `material_test.dart`<br />
+  <sub>[#12056](https://github.com/flutter/packages/pull/12056) merged on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12056) over 3 hours, 25 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `widgets` imports from `card_test.dart`, `checkbox_list_tile_test.dart`<br />
   <sub>[#12054](https://github.com/flutter/packages/pull/12054) merged on June 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12054) over 36 minutes, 5 additions and 10 deletions in 2 files</sub><br />
@@ -799,9 +803,18 @@
 
 ## flutter/website
 
+### June 27, 2026 to July 3, 2026
+
+1 commits.
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; feat: Showcase for Zoho tables<br />
+  <sub>[#13547](https://github.com/flutter/website/pull/13547) merged on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13547) over 51 minutes, 106 additions and 0 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 ### June 20, 2026 to June 26, 2026
 
-12 commits.
+<details>
+<summary>12 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Reformat with latest formatter updates and fixes<br />
   <sub>[#13533](https://github.com/flutter/website/pull/13533) merged on June 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13533) over 21 hours, 41 additions and 288 deletions in 235 files</sub><br />
@@ -850,6 +863,8 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; New design doc: Architecture of material_ui and cupertino_ui<br />
   <sub>[#13529](https://github.com/flutter/website/pull/13529) merged on June 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13529) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### June 13, 2026 to June 19, 2026
 

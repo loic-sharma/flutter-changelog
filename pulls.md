@@ -252,5 +252,5 @@
   <sub>[#188760](https://github.com/flutter/flutter/pull/188760) opened on on June 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188760) 55 additions and 4 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Flutter Template Versions<br />
-  <sub>[#188762](https://github.com/flutter/flutter/pull/188762) opened on on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188762) 8 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#188762](https://github.com/flutter/flutter/pull/188762) opened on on June 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188762) 8 additions and 8 deletions in 3 files</sub><br />
 
