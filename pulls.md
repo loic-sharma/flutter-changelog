@@ -236,3 +236,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split FlViewRenderer into OpenGL and software backends<br />
   <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188824) 897 additions and 629 deletions in 16 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Print warnings on Intel Macs / targeting Intel Macs<br />
+  <sub>[#188835](https://github.com/flutter/flutter/pull/188835) opened on on July 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188835) 136 additions and 3 deletions in 4 files</sub><br />
+

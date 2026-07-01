@@ -111,9 +111,9 @@
   <sub>[#188495](https://github.com/flutter/flutter/pull/188495) merged on June 29, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188495) over 5 days, 35 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool
-  <sub>[#188620](https://github.com/flutter/flutter/pull/188620) merged on June 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188620) over 4 days, 2 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add Texture.fromImage to wrap a ui.Image texture
+  <sub>[#188605](https://github.com/flutter/flutter/pull/188605) merged on June 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188605) over 3 days, 238 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jochum van der Ploeg](https://github.com/wolfenrain)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [VPAT] Update a11y assessment app FAB example to announce value change when it's updated.
   <sub>[#188466](https://github.com/flutter/flutter/pull/188466) merged on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188466) over 5 days, 18 additions and 1 deletion in 2 files</sub>
@@ -126,6 +126,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In AndroidImageGenerator, check that the destination pixel buffer has sufficient capacity for the decoded data
   <sub>[#188752](https://github.com/flutter/flutter/pull/188752) merged on June 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188752) over 18 hours, 64 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool
+  <sub>[#188620](https://github.com/flutter/flutter/pull/188620) merged on June 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188620) over 4 days, 2 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix FlCompositorOpenGL.pixels comment
   <sub>[#188754](https://github.com/flutter/flutter/pull/188754) merged on June 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188754) over 18 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -146,10 +150,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [linux] Use GWeakRef in mock signal handler test helper
   <sub>[#188700](https://github.com/flutter/flutter/pull/188700) merged on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188700) over 16 hours, 7 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add Texture.fromImage to wrap a ui.Image texture
-  <sub>[#188605](https://github.com/flutter/flutter/pull/188605) merged on June 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188605) over 3 days, 238 additions and 0 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jochum van der Ploeg](https://github.com/wolfenrain)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Honor the enable argument in RenderPass.setDepthWriteEnable
   <sub>[#188715](https://github.com/flutter/flutter/pull/188715) merged on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188715) over 4 hours, 32 additions and 1 deletion in 3 files</sub>
