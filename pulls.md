@@ -198,7 +198,7 @@
   <sub>[#188683](https://github.com/flutter/flutter/pull/188683) opened on on June 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188683) 163 additions and 107 deletions in 20 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CompositedTransformFollower sample<br />
-  <sub>[#188698](https://github.com/flutter/flutter/pull/188698) opened on on June 28, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/188698) 143 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#188698](https://github.com/flutter/flutter/pull/188698) opened on on June 28, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/188698) 143 additions and 0 deletions in 3 files</sub><br />
 
 * **[Shariar Hossain](https://github.com/shariaralphabyte)** &mdash; [flutter_tools] Tell user how to skip the device prompt with -d<br />
   <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
