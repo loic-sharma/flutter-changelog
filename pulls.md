@@ -224,3 +224,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split FlViewRenderer into OpenGL and software backends<br />
   <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188824) 897 additions and 629 deletions in 16 files</sub><br />
 
+* **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries with hard line break at the end<br />
+  <sub>[#188868](https://github.com/flutter/flutter/pull/188868) opened on on July 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188868) 65 additions and 25 deletions in 4 files</sub><br />
+

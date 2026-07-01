@@ -4,7 +4,7 @@
 
 ### June 27, 2026 to July 3, 2026
 
-50 commits.
+51 commits.
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Windows desktop builds<br />
   <sub>[#187034](https://github.com/flutter/flutter/pull/187034) merged on June 29, 2026 &mdash; **Extra large:** [29 comments](https://github.com/flutter/flutter/pull/187034) over 1 month, 1566 additions and 11 deletions in 32 files</sub><br />
@@ -26,6 +26,11 @@
 * **[Yashas H Majmudar](https://github.com/yashas-hm)** &mdash; [flutter_tools] Use DeviceHub.app for iOS simulator path on Xcode 27+<br />
   <sub>[#187910](https://github.com/flutter/flutter/pull/187910) merged on June 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187910) over 2 weeks, 79 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
+
+* **[Luca Tagliabue](https://github.com/lukluca)** &mdash; Use null-aware elements in dev/devicelab/lib/integration_tests.dart<br />
+  <sub>[#187852](https://github.com/flutter/flutter/pull/187852) merged on July 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187852) over 2 weeks, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+  <sub><details><summary>1 image...</summary>![talabat.com contributions](https://img.shields.io/badge/talabat.com-contributions-FF5A00?style=flat&logo=flutter&logoColor=white)](https://www.talabat.com) [![Talabat Flutter PRs](https://img.shields.io/badge/Talabat_Flutter_PRs-10%20merged-97ca00?style=flat&logo=flutter&logoColor=white)](https://github.com/search?q=org%3Aflutter+talabat&type=pullrequests)</details></sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [framework] Keep scrollable semantics role stable<br />
   <sub>[#187963](https://github.com/flutter/flutter/pull/187963) merged on June 30, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/187963) over 2 weeks, 74 additions and 2 deletions in 2 files</sub><br />
@@ -52,21 +57,21 @@
   <sub>[#187196](https://github.com/flutter/flutter/pull/187196) merged on July 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187196) over 1 month, 144 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Detach LLDB and print stack trace on process stop<br />
-  <sub>[#188576](https://github.com/flutter/flutter/pull/188576) merged on June 30, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/188576) over 4 days, 192 additions and 153 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload<br />
   <sub>[#187947](https://github.com/flutter/flutter/pull/187947) merged on June 29, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/187947) over 2 weeks, 300 additions and 128 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Handle 'no permissions' adb device state<br />
-  <sub>[#187248](https://github.com/flutter/flutter/pull/187248) merged on June 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187248) over 1 month, 84 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Detach LLDB and print stack trace on process stop<br />
+  <sub>[#188576](https://github.com/flutter/flutter/pull/188576) merged on June 30, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/188576) over 4 days, 192 additions and 153 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Use new ddc modules in test<br />
   <sub>[#188240](https://github.com/flutter/flutter/pull/188240) merged on June 29, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/188240) over 1 week, 172 additions and 68 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nate Biggs](https://github.com/biggs0125), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Handle 'no permissions' adb device state<br />
+  <sub>[#187248](https://github.com/flutter/flutter/pull/187248) merged on June 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187248) over 1 month, 84 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [windows]: adjusts uniform buffers to hit hlsl optimization<br />
   <sub>[#188538](https://github.com/flutter/flutter/pull/188538) merged on June 29, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/188538) over 4 days, 251 additions and 128 deletions in 13 files</sub><br />
@@ -136,6 +141,10 @@
   <sub>[#188495](https://github.com/flutter/flutter/pull/188495) merged on June 29, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188495) over 5 days, 35 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [VPAT] Update a11y assessment app FAB example to announce value change when it's updated.<br />
+  <sub>[#188466](https://github.com/flutter/flutter/pull/188466) merged on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188466) over 5 days, 18 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add import of `dart:_js_interop_wasm` in sdk rewriter tool<br />
   <sub>[#188620](https://github.com/flutter/flutter/pull/188620) merged on June 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188620) over 4 days, 2 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
@@ -148,9 +157,9 @@
   <sub>[#188369](https://github.com/flutter/flutter/pull/188369) merged on June 29, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188369) over 6 days, 64 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [VPAT] Update a11y assessment app FAB example to announce value change when it's updated.<br />
-  <sub>[#188466](https://github.com/flutter/flutter/pull/188466) merged on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188466) over 5 days, 18 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role check to isSemantics and matchesSemantics<br />
+  <sub>[#188825](https://github.com/flutter/flutter/pull/188825) merged on July 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188825) over 11 hours, 65 additions and 22 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Roll Dart SDK from e1bdb9ce3327 to 26d723eb89af (3 revisions)<br />
   <sub>[#188795](https://github.com/flutter/flutter/pull/188795) merged on July 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188795) over 21 hours, 59 additions and 20 deletions in 5 files</sub><br />
@@ -187,10 +196,6 @@
 * **[Moritz](https://github.com/mosuem)** &mdash; Remove some refs to package:intl<br />
   <sub>[#188504](https://github.com/flutter/flutter/pull/188504) merged on June 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188504) over 4 days, 32 additions and 29 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role check to isSemantics and matchesSemantics<br />
-  <sub>[#188825](https://github.com/flutter/flutter/pull/188825) merged on July 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188825) over 11 hours, 65 additions and 22 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [linux] Use GWeakRef for engine and parent in FlAccessibleNode<br />
   <sub>[#188699](https://github.com/flutter/flutter/pull/188699) merged on June 29, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188699) over 2 hours, 56 additions and 26 deletions in 2 files</sub><br />
@@ -687,7 +692,7 @@
 
 ### June 27, 2026 to July 3, 2026
 
-38 commits.
+42 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player_android] Add video track selection support<br />
   <sub>[#11475](https://github.com/flutter/packages/pull/11475) merged on June 30, 2026 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/11475) over 2 months, 1833 additions and 34 deletions in 15 files</sub><br />
@@ -705,6 +710,10 @@
   <sub>[#11662](https://github.com/flutter/packages/pull/11662) merged on June 30, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11662) over 1 month, 19 additions and 2 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Adds pre-push readiness skill<br />
+  <sub>[#11935](https://github.com/flutter/packages/pull/11935) merged on July 1, 2026 &mdash; **Small:** [51 comments](https://github.com/flutter/packages/pull/11935) over 1 week, 194 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Expose quantity in Transactions<br />
   <sub>[#11879](https://github.com/flutter/packages/pull/11879) merged on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11879) over 2 weeks, 50 additions and 21 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
@@ -717,29 +726,37 @@
   <sub>[#12059](https://github.com/flutter/packages/pull/12059) merged on June 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/12059) over 21 hours, 614 additions and 12 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Re-enable action_sheet_test.dart<br />
+  <sub>[#12055](https://github.com/flutter/packages/pull/12055) merged on July 1, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/12055) over 1 day, 42 additions and 72 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui] Port flutter/flutter #184808 "Remove semantics_tester import from card_test.dart"<br />
   <sub>[#11965](https://github.com/flutter/packages/pull/11965) merged on July 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/11965) over 1 week, 20 additions and 47 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `nav_bar_test.dart` to `SemanticsHandle`<br />
-  <sub>[#11980](https://github.com/flutter/packages/pull/11980) merged on July 1, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/11980) over 6 days, 176 additions and 176 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `segmented_control_test.dart` to `SemanticsHandle`<br />
-  <sub>[#11982](https://github.com/flutter/packages/pull/11982) merged on July 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/11982) over 6 days, 59 additions and 81 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [cupertino_ui] Migrate checkbox_test.dart to SemanticsHandle<br />
   <sub>[#12065](https://github.com/flutter/packages/pull/12065) merged on June 30, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/12065) over 19 hours, 26 additions and 39 deletions in 1 file</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `radio_test.dart` to `SemanticsHandle`<br />
-  <sub>[#11981](https://github.com/flutter/packages/pull/11981) merged on June 29, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11981) over 4 days, 22 additions and 29 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `segmented_control_test.dart` to `SemanticsHandle`<br />
+  <sub>[#11982](https://github.com/flutter/packages/pull/11982) merged on July 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/11982) over 6 days, 59 additions and 81 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `nav_bar_test.dart` to `SemanticsHandle`<br />
+  <sub>[#11980](https://github.com/flutter/packages/pull/11980) merged on July 1, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/packages/pull/11980) over 6 days, 176 additions and 176 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [cupertino_ui] Remove widgets import from menu_anchor_test.dart<br />
   <sub>[#12068](https://github.com/flutter/packages/pull/12068) merged on June 30, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12068) over 17 hours, 65 additions and 176 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `bottom_tab_bar_test.dart` to `SemanticsHandle`<br />
+  <sub>[#12012](https://github.com/flutter/packages/pull/12012) merged on July 1, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/12012) over 5 days, 88 additions and 200 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `radio_test.dart` to `SemanticsHandle`<br />
+  <sub>[#11981](https://github.com/flutter/packages/pull/11981) merged on June 29, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11981) over 4 days, 22 additions and 29 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Enable `time_picker_test`<br />
   <sub>[#12061](https://github.com/flutter/packages/pull/12061) merged on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12061) over 23 hours, 42 additions and 200 deletions in 1 file</sub><br />
@@ -777,25 +794,17 @@
   <sub>[#12010](https://github.com/flutter/packages/pull/12010) merged on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12010) over 3 days, 45 additions and 35 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [repo] Add comment style guideline to AGENTS.md<br />
+  <sub>[#12077](https://github.com/flutter/packages/pull/12077) merged on July 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12077) over 20 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Re-enable `tab_scaffold_test.dart`<br />
   <sub>[#12064](https://github.com/flutter/packages/pull/12064) merged on July 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12064) over 1 day, 122 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `sliding_segmented_control_test.dart` to `SemanticsHandle`<br />
-  <sub>[#11979](https://github.com/flutter/packages/pull/11979) merged on July 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11979) over 6 days, 58 additions and 80 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Simplify Android user ID extraction<br />
   <sub>[#12025](https://github.com/flutter/packages/pull/12025) merged on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12025) over 2 days, 119 additions and 174 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `widgets` import from `material_test.dart`<br />
-  <sub>[#12056](https://github.com/flutter/packages/pull/12056) merged on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12056) over 3 hours, 25 additions and 6 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `widgets` imports from `card_test.dart`, `checkbox_list_tile_test.dart`<br />
-  <sub>[#12054](https://github.com/flutter/packages/pull/12054) merged on June 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12054) over 36 minutes, 5 additions and 10 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `widgets/clipboard_utils.dart`, `widgets/text_selection_toolbar_utils.dart` imports from `adaptive_text_selection_toolbar_test.dart`<br />
   <sub>[#12053](https://github.com/flutter/packages/pull/12053) merged on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12053) over 53 minutes, 42 additions and 6 deletions in 2 files</sub><br />
@@ -817,9 +826,9 @@
   <sub>[#12023](https://github.com/flutter/packages/pull/12023) merged on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12023) over 3 days, 58 additions and 9 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove widgets import in `data_table_test.dart`, `switch_test.dart` and `tooltip_theme_test.dart`<br />
-  <sub>[#12031](https://github.com/flutter/packages/pull/12031) merged on June 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12031) over 2 days, 7 additions and 15 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `sliding_segmented_control_test.dart` to `SemanticsHandle`<br />
+  <sub>[#11979](https://github.com/flutter/packages/pull/11979) merged on July 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/11979) over 6 days, 58 additions and 80 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [cupertino_ui] Migrate `route_test.dart` to `SemanticsHandle`<br />
   <sub>[#11993](https://github.com/flutter/packages/pull/11993) merged on July 1, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/11993) over 5 days, 271 additions and 225 deletions in 1 file</sub><br />
@@ -833,6 +842,10 @@
   <sub>[#11960](https://github.com/flutter/packages/pull/11960) merged on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11960) over 1 week, 12 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove widgets import in `data_table_test.dart`, `switch_test.dart` and `tooltip_theme_test.dart`<br />
+  <sub>[#12031](https://github.com/flutter/packages/pull/12031) merged on June 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12031) over 2 days, 7 additions and 15 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [cupertino_ui] Remove `image_data.dart` import from `scaffold_test.dart`<br />
   <sub>[#12060](https://github.com/flutter/packages/pull/12060) merged on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12060) over 21 hours, 9 additions and 34 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -840,6 +853,14 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [material_ui] Port flutter/flutter #186670 "Use local semantics tester in Material selection tests"<br />
   <sub>[#11983](https://github.com/flutter/packages/pull/11983) merged on June 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/11983) over 4 days, 8 additions and 20 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `widgets` import from `material_test.dart`<br />
+  <sub>[#12056](https://github.com/flutter/packages/pull/12056) merged on June 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12056) over 3 hours, 25 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Remove `widgets` imports from `card_test.dart`, `checkbox_list_tile_test.dart`<br />
+  <sub>[#12054](https://github.com/flutter/packages/pull/12054) merged on June 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12054) over 36 minutes, 5 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 ### June 20, 2026 to June 26, 2026
 
