@@ -234,8 +234,5 @@
   <sub>[#188817](https://github.com/flutter/flutter/pull/188817) opened on on June 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188817) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split FlViewRenderer into OpenGL and software backends<br />
-  <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188824) 883 additions and 629 deletions in 16 files</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Stricten isSemantics and matchesSemantics children mismatch check<br />
-  <sub>[#188827](https://github.com/flutter/flutter/pull/188827) opened on on July 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188827) 173 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188824) 897 additions and 629 deletions in 16 files</sub><br />
 
