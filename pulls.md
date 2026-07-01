@@ -197,9 +197,6 @@
 * **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Decouple Cupertino's dartDoc imports of Material<br />
   <sub>[#188683](https://github.com/flutter/flutter/pull/188683) opened on on June 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188683) 163 additions and 107 deletions in 20 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add TapRegion samples<br />
-  <sub>[#188685](https://github.com/flutter/flutter/pull/188685) opened on on June 28, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/188685) 257 additions and 0 deletions in 5 files</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CompositedTransformFollower sample<br />
   <sub>[#188698](https://github.com/flutter/flutter/pull/188698) opened on on June 28, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/188698) 143 additions and 0 deletions in 3 files</sub><br />
 
@@ -233,12 +230,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Track asset transformer dependencies for hot reload (Reland #187947)<br />
-  <sub>[#188808](https://github.com/flutter/flutter/pull/188808) opened on on June 30, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188808) 294 additions and 123 deletions in 9 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to 83675ed27633283e7fc296c8bca22e841224c096<br />
   <sub>[#188817](https://github.com/flutter/flutter/pull/188817) opened on on June 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188817) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[b-luk](https://github.com/b-luk)** &mdash; UberSDF rect handling for thin (line-like) rectangles<br />
-  <sub>[#188821](https://github.com/flutter/flutter/pull/188821) opened on on July 1, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/188821) 272 additions and 53 deletions in 2 files</sub><br />
 
