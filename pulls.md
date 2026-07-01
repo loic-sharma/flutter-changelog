@@ -89,9 +89,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Resolve issue  Catch am start failures with 'Error type' and prevent hang<br />
-  <sub>[#187196](https://github.com/flutter/flutter/pull/187196) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187196) 144 additions and 1 deletion in 2 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Support activity-alias in Android launcher activity detection<br />
   <sub>[#187251](https://github.com/flutter/flutter/pull/187251) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187251) 158 additions and 3 deletions in 2 files</sub><br />
 
