@@ -152,9 +152,6 @@
 * **[Himank Sharma](https://github.com/himanksharma8434-coder)** &mdash; feat: add new API documentation examples for scroll notifications, UI…<br />
   <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Apply autocapitalize to text editing elements<br />
-  <sub>[#188351](https://github.com/flutter/flutter/pull/188351) opened on on June 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188351) 44 additions and 27 deletions in 2 files</sub><br />
-
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
   <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
 
@@ -218,9 +215,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add 2D texture array support (kTexture2DArray)<br />
   <sub>[#188778](https://github.com/flutter/flutter/pull/188778) opened on on June 30, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188778) 285 additions and 22 deletions in 19 files</sub><br />
 
-* **[Rusino](https://github.com/Rusino)** &mdash; Fixing multiline GetBoxesForRange<br />
-  <sub>[#188803](https://github.com/flutter/flutter/pull/188803) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188803) 30 additions and 3 deletions in 3 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ci] Increase test timeout for Mac_x64 build_tests shards<br />
   <sub>[#188804](https://github.com/flutter/flutter/pull/188804) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188804) 5 additions and 0 deletions in 1 file</sub><br />
 
@@ -234,5 +228,5 @@
   <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188824) 897 additions and 629 deletions in 16 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Print warnings on Intel Macs / targeting Intel Macs<br />
-  <sub>[#188835](https://github.com/flutter/flutter/pull/188835) opened on on July 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188835) 136 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#188835](https://github.com/flutter/flutter/pull/188835) opened on on July 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188835) 135 additions and 3 deletions in 4 files</sub><br />
 
