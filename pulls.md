@@ -95,6 +95,9 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Fix grouped autofill on iOS Chrome<br />
+  <sub>[#187459](https://github.com/flutter/flutter/pull/187459) opened on on June 2, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187459) 171 additions and 2 deletions in 2 files</sub><br />
+
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
 
@@ -166,9 +169,6 @@
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
   <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/188544) 235 additions and 93 deletions in 18 files</sub><br />
-
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; Remove `semantics_tester` import from `material/tooltip_theme_test`<br />
-  <sub>[#188572](https://github.com/flutter/flutter/pull/188572) opened on on June 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188572) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
