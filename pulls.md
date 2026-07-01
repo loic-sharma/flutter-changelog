@@ -32,9 +32,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix multi-view sizing race condition (Lock approach)<br />
   <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185622) 114 additions and 0 deletions in 2 files</sub><br />
 
-* **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: Harden CI scripts and driver against command injection<br />
-  <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/186101) 88 additions and 10 deletions in 6 files</sub><br />
-
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
   <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
 
@@ -144,7 +141,7 @@
   <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Avoid absolute positioning for base CanvasKit canvas<br />
-  <sub>[#188337](https://github.com/flutter/flutter/pull/188337) opened on on June 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188337) 73 additions and 6 deletions in 5 files</sub><br />
+  <sub>[#188337](https://github.com/flutter/flutter/pull/188337) opened on on June 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188337) 73 additions and 6 deletions in 5 files</sub><br />
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
   <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
@@ -162,7 +159,7 @@
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
-  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/188544) 235 additions and 93 deletions in 18 files</sub><br />
+  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/188544) 235 additions and 93 deletions in 18 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
