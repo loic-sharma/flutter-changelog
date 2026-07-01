@@ -33,7 +33,7 @@
   <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185622) 114 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: Harden CI scripts and driver against command injection<br />
-  <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/186101) 208 additions and 18 deletions in 9 files</sub><br />
+  <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/186101) 88 additions and 10 deletions in 6 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
   <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
@@ -101,9 +101,6 @@
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
 
-* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; [InkWell] fix: Prevent disabled buttons from passing taps to parent GestureDetectors<br />
-  <sub>[#187551](https://github.com/flutter/flutter/pull/187551) opened on on June 4, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187551) 37 additions and 0 deletions in 2 files</sub><br />
-
 * **[chtga](https://github.com/tamirenkhbayar3-cmd)** &mdash; Restrict web dev server to loopback by default<br />
   <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
 
@@ -118,9 +115,6 @@
 
 * **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Start iOS Simulator log reader before launch<br />
   <sub>[#187643](https://github.com/flutter/flutter/pull/187643) opened on on June 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187643) 91 additions and 2 deletions in 2 files</sub><br />
-
-* **[Raees Nawaj Shaikh](https://github.com/RaeesShaikh4)** &mdash; fixed issue -> Synchronize keyboard and bottom sheet opening animations<br />
-  <sub>[#187646](https://github.com/flutter/flutter/pull/187646) opened on on June 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187646) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Android] [a11y] make text field floating label a separated semantics node in android<br />
   <sub>[#187689](https://github.com/flutter/flutter/pull/187689) opened on on June 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187689) 130 additions and 0 deletions in 2 files</sub><br />
@@ -195,7 +189,7 @@
   <sub>[#188719](https://github.com/flutter/flutter/pull/188719) opened on on June 29, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/188719) 200 additions and 4 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Preserve text field focus across tab switches<br />
-  <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188738) 142 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188738) 142 additions and 1 deletion in 2 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Migrate time picker tests cases relying on localization from material_ui to flutter_localization<br />
   <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
