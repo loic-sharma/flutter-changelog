@@ -33,7 +33,7 @@
   <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185622) 114 additions and 0 deletions in 2 files</sub><br />
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; SECURITY: Harden CI scripts and driver against command injection<br />
-  <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/186101) 88 additions and 10 deletions in 6 files</sub><br />
+  <sub>[#186101](https://github.com/flutter/flutter/pull/186101) opened on on May 5, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/186101) 88 additions and 10 deletions in 6 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
   <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
@@ -96,7 +96,7 @@
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Fix grouped autofill on iOS Chrome<br />
-  <sub>[#187459](https://github.com/flutter/flutter/pull/187459) opened on on June 2, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187459) 171 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#187459](https://github.com/flutter/flutter/pull/187459) opened on on June 2, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187459) 171 additions and 2 deletions in 2 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
@@ -143,6 +143,9 @@
 * **[Himank Sharma](https://github.com/himanksharma8434-coder)** &mdash; feat: add new API documentation examples for scroll notifications, UI…<br />
   <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
 
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Avoid absolute positioning for base CanvasKit canvas<br />
+  <sub>[#188337](https://github.com/flutter/flutter/pull/188337) opened on on June 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188337) 73 additions and 6 deletions in 5 files</sub><br />
+
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
   <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
 
@@ -172,12 +175,6 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
-
-* **[Syed Muhammad Mobasil](https://github.com/Mobasil-Git)** &mdash; Fix text_field_test failures on web<br />
-  <sub>[#188676](https://github.com/flutter/flutter/pull/188676) opened on on June 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188676) 2 additions and 2 deletions in 2 files</sub><br />
-
-* **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Decouple Cupertino's dartDoc imports of Material<br />
-  <sub>[#188683](https://github.com/flutter/flutter/pull/188683) opened on on June 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188683) 163 additions and 107 deletions in 20 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CompositedTransformFollower sample<br />
   <sub>[#188698](https://github.com/flutter/flutter/pull/188698) opened on on June 28, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/188698) 143 additions and 0 deletions in 3 files</sub><br />
