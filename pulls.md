@@ -86,9 +86,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Cupertino route tests to cupertino<br />
   <sub>[#187028](https://github.com/flutter/flutter/pull/187028) opened on on May 24, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/187028) 320 additions and 302 deletions in 4 files</sub><br />
 
-* **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
-  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) opened on on May 24, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/187029) 810 additions and 14 deletions in 24 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
 
@@ -241,4 +238,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to 83675ed27633283e7fc296c8bca22e841224c096<br />
   <sub>[#188817](https://github.com/flutter/flutter/pull/188817) opened on on June 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188817) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; UberSDF rect handling for thin (line-like) rectangles<br />
+  <sub>[#188821](https://github.com/flutter/flutter/pull/188821) opened on on July 1, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/188821) 272 additions and 53 deletions in 2 files</sub><br />
 
