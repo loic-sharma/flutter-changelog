@@ -221,3 +221,6 @@
 * **[andrey](https://github.com/19AK68)** &mdash; Forward showDragHandle from showCupertinoSheet to CupertinoSheetRoute<br />
   <sub>[#188914](https://github.com/flutter/flutter/pull/188914) opened on on July 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188914) 93 additions and 0 deletions in 2 files</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add OverlayPortal.overlayChildLayoutBuilder sample<br />
+  <sub>[#188930](https://github.com/flutter/flutter/pull/188930) opened on on July 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188930) 146 additions and 0 deletions in 3 files</sub><br />
+
