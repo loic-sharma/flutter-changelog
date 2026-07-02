@@ -216,5 +216,8 @@
   <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing await on `instantiateImageCodecFromBuffer`<br />
-  <sub>[#188910](https://github.com/flutter/flutter/pull/188910) opened on on July 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188910) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#188910](https://github.com/flutter/flutter/pull/188910) opened on on July 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188910) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[andrey](https://github.com/19AK68)** &mdash; Forward showDragHandle from showCupertinoSheet to CupertinoSheetRoute<br />
+  <sub>[#188914](https://github.com/flutter/flutter/pull/188914) opened on on July 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188914) 93 additions and 0 deletions in 2 files</sub><br />
 
