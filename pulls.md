@@ -212,7 +212,7 @@
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Allow valid UTF-8 replacement characters in flutter_tools decoding<br />
   <sub>[#188901](https://github.com/flutter/flutter/pull/188901) opened on on July 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188901) 34 additions and 9 deletions in 3 files</sub><br />
 
-* **[AnasQasem](https://github.com/AnasQasem)** &mdash; [Impeller] Render COLR/CPAL color text as vector paths on iOS<br />
+* **[AnasQasem](https://github.com/AnasQasem)** &mdash; [Impeller] Render COLR/CPAL color text as vector paths<br />
   <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing await on `instantiateImageCodecFromBuffer`<br />
