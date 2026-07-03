@@ -218,3 +218,9 @@
 * **[andrey](https://github.com/19AK68)** &mdash; Forward showDragHandle from showCupertinoSheet to CupertinoSheetRoute<br />
   <sub>[#188914](https://github.com/flutter/flutter/pull/188914) opened on on July 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188914) 93 additions and 0 deletions in 2 files</sub><br />
 
+* **[Mark Turner](https://github.com/markst)** &mdash; Pass -project to xcodebuild when multiple .xcodeproj exist<br />
+  <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188934) 97 additions and 11 deletions in 4 files</sub><br />
+
+* **[RabahDj ](https://github.com/drhassimac-afk)** &mdash; Add new dependencies to pubspec.yaml<br />
+  <sub>[#188935](https://github.com/flutter/flutter/pull/188935) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188935) 11 additions and 0 deletions in 1 file</sub><br />
+
