@@ -230,3 +230,6 @@
 * **[pierre](https://github.com/guidezpl)** &mdash; Skip locked issues in no-response check<br />
   <sub>[#188950](https://github.com/flutter/flutter/pull/188950) opened on on July 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188950) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [Impeller] Guard optional FlatBuffer fields on the runtime shader load path<br />
+  <sub>[#188955](https://github.com/flutter/flutter/pull/188955) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188955) 64 additions and 1 deletion in 3 files</sub><br />
+
