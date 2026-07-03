@@ -224,3 +224,9 @@
 * **[Shikhar Soni](https://github.com/shikharish)** &mdash; Register native assets dlopen_v2<br />
   <sub>[#188947](https://github.com/flutter/flutter/pull/188947) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188947) 112 additions and 7 deletions in 2 files</sub><br />
 
+* **[pierre](https://github.com/guidezpl)** &mdash; Use secrets.GITHUB_TOKEN for lock-threads action input<br />
+  <sub>[#188948](https://github.com/flutter/flutter/pull/188948) opened on on July 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188948) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[pierre](https://github.com/guidezpl)** &mdash; Skip locked issues in no-response check<br />
+  <sub>[#188950](https://github.com/flutter/flutter/pull/188950) opened on on July 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188950) 5 additions and 0 deletions in 1 file</sub><br />
+
