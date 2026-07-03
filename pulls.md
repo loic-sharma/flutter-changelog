@@ -221,3 +221,6 @@
 * **[RabahDj ](https://github.com/drhassimac-afk)** &mdash; Add new dependencies to pubspec.yaml<br />
   <sub>[#188935](https://github.com/flutter/flutter/pull/188935) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188935) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[Shikhar Soni](https://github.com/shikharish)** &mdash; Register native assets dlopen_v2<br />
+  <sub>[#188947](https://github.com/flutter/flutter/pull/188947) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188947) 112 additions and 7 deletions in 2 files</sub><br />
+
