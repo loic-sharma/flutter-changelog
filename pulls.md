@@ -170,9 +170,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add CompositedTransformFollower sample<br />
-  <sub>[#188698](https://github.com/flutter/flutter/pull/188698) opened on on June 28, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/188698) 143 additions and 0 deletions in 3 files</sub><br />
-
 * **[Shariar Hossain](https://github.com/shariaralphabyte)** &mdash; [flutter_tools] Tell user how to skip the device prompt with -d<br />
   <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
 
@@ -189,7 +186,7 @@
   <sub>[#188762](https://github.com/flutter/flutter/pull/188762) opened on on June 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188762) 29 additions and 16 deletions in 4 files</sub><br />
 
 * **[ellie-ya](https://github.com/ellie-ka-nam)** &mdash; [macOS] Resume app lifecycle on becomeActive to avoid frozen UI after occlusion<br />
-  <sub>[#188772](https://github.com/flutter/flutter/pull/188772) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188772) 22 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#188772](https://github.com/flutter/flutter/pull/188772) opened on on June 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188772) 22 additions and 7 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
@@ -220,7 +217,4 @@
 
 * **[andrey](https://github.com/19AK68)** &mdash; Forward showDragHandle from showCupertinoSheet to CupertinoSheetRoute<br />
   <sub>[#188914](https://github.com/flutter/flutter/pull/188914) opened on on July 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188914) 93 additions and 0 deletions in 2 files</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add OverlayPortal.overlayChildLayoutBuilder sample<br />
-  <sub>[#188930](https://github.com/flutter/flutter/pull/188930) opened on on July 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188930) 147 additions and 0 deletions in 3 files</sub><br />
 
