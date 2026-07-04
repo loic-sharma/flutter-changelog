@@ -236,3 +236,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Recycle HostBuffer arena entries only after GPU completion<br />
   <sub>[#188965](https://github.com/flutter/flutter/pull/188965) opened on on July 4, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/188965) 340 additions and 19 deletions in 18 files</sub><br />
 
+* **[Zanehisako](https://github.com/Zanehisako)** &mdash; Fix TabBar indicatorWeight assertion with themed indicator<br />
+  <sub>[#188967](https://github.com/flutter/flutter/pull/188967) opened on on July 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188967) 82 additions and 5 deletions in 2 files</sub><br />
+
