@@ -233,3 +233,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix non-independant tests in binding_test.dart<br />
   <sub>[#188963](https://github.com/flutter/flutter/pull/188963) opened on on July 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188963) 15 additions and 27 deletions in 1 file</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Recycle HostBuffer arena entries only after GPU completion<br />
+  <sub>[#188965](https://github.com/flutter/flutter/pull/188965) opened on on July 4, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/188965) 340 additions and 19 deletions in 18 files</sub><br />
+
