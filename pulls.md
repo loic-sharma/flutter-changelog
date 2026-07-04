@@ -185,9 +185,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Flutter Template Versions<br />
   <sub>[#188762](https://github.com/flutter/flutter/pull/188762) opened on on June 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188762) 29 additions and 16 deletions in 4 files</sub><br />
 
-* **[ellie-ya](https://github.com/ellie-ka-nam)** &mdash; [macOS] Resume app lifecycle on becomeActive to avoid frozen UI after occlusion<br />
-  <sub>[#188772](https://github.com/flutter/flutter/pull/188772) opened on on June 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188772) 22 additions and 7 deletions in 2 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
 
@@ -232,4 +229,7 @@
 
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [Impeller] Guard optional FlatBuffer fields on the runtime shader load path<br />
   <sub>[#188955](https://github.com/flutter/flutter/pull/188955) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188955) 64 additions and 1 deletion in 3 files</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix non-independant tests in binding_test.dart<br />
+  <sub>[#188963](https://github.com/flutter/flutter/pull/188963) opened on on July 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188963) 15 additions and 27 deletions in 1 file</sub><br />
 
