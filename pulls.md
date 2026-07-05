@@ -129,7 +129,7 @@
   <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixed couple of bugs<br />
-  <sub>[#188032](https://github.com/flutter/flutter/pull/188032) opened on on June 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188032) 71 additions and 39 deletions in 4 files</sub><br />
+  <sub>[#188032](https://github.com/flutter/flutter/pull/188032) opened on on June 15, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188032) 71 additions and 39 deletions in 4 files</sub><br />
 
 * **[Juan Campuzano](https://github.com/juan-campuzano)** &mdash; fix: identity mismatch for path dependency plugins<br />
   <sub>[#188179](https://github.com/flutter/flutter/pull/188179) opened on on June 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188179) 130 additions and 7 deletions in 2 files</sub><br />
