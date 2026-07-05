@@ -240,5 +240,8 @@
   <sub>[#188967](https://github.com/flutter/flutter/pull/188967) opened on on July 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188967) 82 additions and 5 deletions in 2 files</sub><br />
 
 * **[DigvijaySingh](https://github.com/Aurelius51)** &mdash; [flutter_tools] Don't crash on non-UTF-8 plugin pubspec.yaml<br />
-  <sub>[#188976](https://github.com/flutter/flutter/pull/188976) opened on on July 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188976) 27 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#188976](https://github.com/flutter/flutter/pull/188976) opened on on July 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188976) 27 additions and 0 deletions in 2 files</sub><br />
+
+* **[DigvijaySingh](https://github.com/Aurelius51)** &mdash; Fix lower DragTarget not being recognized in overlapping targets<br />
+  <sub>[#188979](https://github.com/flutter/flutter/pull/188979) opened on on July 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188979) 176 additions and 1 deletion in 2 files</sub><br />
 
