@@ -237,7 +237,7 @@
   <sub>[#188965](https://github.com/flutter/flutter/pull/188965) opened on on July 4, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/188965) 340 additions and 19 deletions in 18 files</sub><br />
 
 * **[Zanehisako](https://github.com/Zanehisako)** &mdash; Fix TabBar indicatorWeight assertion with themed indicator<br />
-  <sub>[#188967](https://github.com/flutter/flutter/pull/188967) opened on on July 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188967) 82 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#188967](https://github.com/flutter/flutter/pull/188967) opened on on July 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188967) 91 additions and 5 deletions in 2 files</sub><br />
 
 * **[DigvijaySingh](https://github.com/Aurelius51)** &mdash; [flutter_tools] Don't crash on non-UTF-8 plugin pubspec.yaml<br />
   <sub>[#188976](https://github.com/flutter/flutter/pull/188976) opened on on July 5, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188976) 34 additions and 0 deletions in 2 files</sub><br />
