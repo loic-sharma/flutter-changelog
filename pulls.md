@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
   <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
@@ -107,6 +107,9 @@
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Collect analytics on AI agent usage<br />
+  <sub>[#187630](https://github.com/flutter/flutter/pull/187630) opened on on June 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187630) 56 additions and 2 deletions in 3 files</sub><br />
+
 * **[SoaringHeart](https://github.com/shang1219178163)** &mdash; feat: Add a placeholder attribute to DecorationImage and display it w…<br />
   <sub>[#187635](https://github.com/flutter/flutter/pull/187635) opened on on June 6, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187635) 59 additions and 8 deletions in 1 file</sub><br />
 
@@ -156,7 +159,7 @@
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
-  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/188544) 234 additions and 93 deletions in 18 files</sub><br />
+  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/188544) 234 additions and 93 deletions in 18 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
@@ -187,9 +190,6 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to 83675ed27633283e7fc296c8bca22e841224c096<br />
-  <sub>[#188817](https://github.com/flutter/flutter/pull/188817) opened on on June 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188817) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split FlViewRenderer into OpenGL and software backends<br />
   <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/188824) 901 additions and 626 deletions in 16 files</sub><br />
@@ -233,9 +233,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix non-independant tests in binding_test.dart<br />
   <sub>[#188963](https://github.com/flutter/flutter/pull/188963) opened on on July 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188963) 15 additions and 27 deletions in 1 file</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Recycle HostBuffer arena entries only after GPU completion<br />
-  <sub>[#188965](https://github.com/flutter/flutter/pull/188965) opened on on July 4, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/188965) 340 additions and 19 deletions in 18 files</sub><br />
-
 * **[Zanehisako](https://github.com/Zanehisako)** &mdash; Fix TabBar indicatorWeight assertion with themed indicator<br />
   <sub>[#188967](https://github.com/flutter/flutter/pull/188967) opened on on July 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188967) 91 additions and 5 deletions in 2 files</sub><br />
 
@@ -247,4 +244,10 @@
 
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix drop-through skipping a DragTarget stacked under a refusing one (#187543)<br />
+  <sub>[#189016](https://github.com/flutter/flutter/pull/189016) opened on on July 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189016) 90 additions and 1 deletion in 2 files</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: udpate wait-for-engine-build composite action to cocoon<br />
+  <sub>[#189020](https://github.com/flutter/flutter/pull/189020) opened on on July 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189020) 6 additions and 11 deletions in 2 files</sub><br />
 
