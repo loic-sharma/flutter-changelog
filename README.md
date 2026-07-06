@@ -4,7 +4,7 @@
 
 ### July 4, 2026 to July 10, 2026
 
-8 commits.
+9 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Gracefully handle WDAC/AppLocker blocks for impellerc<br />
   <sub>[#188452](https://github.com/flutter/flutter/pull/188452) merged on July 6, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/188452) over 1 week, 369 additions and 46 deletions in 4 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools, engine] Add --disable-service-origin-check option to disable VM service origin checks<br />
   <sub>[#188745](https://github.com/flutter/flutter/pull/188745) merged on July 6, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188745) over 6 days, 225 additions and 38 deletions in 16 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Flutter Template Versions<br />
+  <sub>[#188762](https://github.com/flutter/flutter/pull/188762) merged on July 6, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188762) over 6 days, 29 additions and 16 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Throw DaemonException if app fails to start early<br />
   <sub>[#188921](https://github.com/flutter/flutter/pull/188921) merged on July 6, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/188921) over 4 days, 190 additions and 156 deletions in 2 files</sub><br />

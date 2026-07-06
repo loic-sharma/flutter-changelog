@@ -179,9 +179,6 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Migrate time picker tests cases relying on localization from material_ui to flutter_localization<br />
   <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Flutter Template Versions<br />
-  <sub>[#188762](https://github.com/flutter/flutter/pull/188762) opened on on June 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188762) 29 additions and 16 deletions in 4 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
 
@@ -210,7 +207,7 @@
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188934) 97 additions and 11 deletions in 4 files</sub><br />
 
 * **[RabahDj ](https://github.com/drhassimac-afk)** &mdash; Add new dependencies to pubspec.yaml<br />
-  <sub>[#188935](https://github.com/flutter/flutter/pull/188935) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188935) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#188935](https://github.com/flutter/flutter/pull/188935) opened on on July 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188935) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Shikhar Soni](https://github.com/shikharish)** &mdash; Register native assets dlopen_v2<br />
   <sub>[#188947](https://github.com/flutter/flutter/pull/188947) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188947) 112 additions and 7 deletions in 2 files</sub><br />
@@ -242,6 +239,9 @@
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix drop-through skipping a DragTarget stacked under a refusing one (#187543)<br />
   <sub>[#189016](https://github.com/flutter/flutter/pull/189016) opened on on July 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189016) 90 additions and 1 deletion in 2 files</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: udpate wait-for-engine-build composite action to cocoon<br />
-  <sub>[#189020](https://github.com/flutter/flutter/pull/189020) opened on on July 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189020) 6 additions and 11 deletions in 2 files</sub><br />
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bump Flutter Test Apps to Newer Template Version<br />
+  <sub>[#189024](https://github.com/flutter/flutter/pull/189024) opened on on July 6, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/189024) 7301 additions and 7054 deletions in 136 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
+  <sub>[#189025](https://github.com/flutter/flutter/pull/189025) opened on on July 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189025) 7 additions and 1 deletion in 1 file</sub><br />
 
