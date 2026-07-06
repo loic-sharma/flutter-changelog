@@ -4,11 +4,15 @@
 
 ### July 4, 2026 to July 10, 2026
 
-1 commits.
+2 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add debugPaintFocusBoxes<br />
   <sub>[#188288](https://github.com/flutter/flutter/pull/188288) merged on July 6, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/188288) over 2 weeks, 243 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+* **[Rusino](https://github.com/Rusino)** &mdash; Fixing multiline GetBoxesForRange<br />
+  <sub>[#188803](https://github.com/flutter/flutter/pull/188803) merged on July 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188803) over 5 days, 30 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 ### June 27, 2026 to July 3, 2026
 
@@ -526,9 +530,18 @@
 
 ## flutter/packages
 
+### July 4, 2026 to July 10, 2026
+
+1 commits.
+
+* **[sailendrabathi](https://github.com/sailendrabathi)** &mdash; [video_player_platform_interface] Improve seek performance on Android<br />
+  <sub>[#11932](https://github.com/flutter/packages/pull/11932) merged on July 6, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/11932) over 2 weeks, 32 additions and 3 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
 ### June 27, 2026 to July 3, 2026
 
-52 commits.
+<details>
+<summary>52 commits...</summary>
 
 * **[mackings](https://github.com/mackings)** &mdash; [two_dimensional_scrollables] Fix TreeView horizontal hit testing<br />
   <sub>[#11859](https://github.com/flutter/packages/pull/11859) merged on July 1, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11859) over 3 weeks, 115 additions and 5 deletions in 4 files</sub><br />
@@ -737,6 +750,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Simplify Android user ID extraction<br />
   <sub>[#12025](https://github.com/flutter/packages/pull/12025) merged on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12025) over 2 days, 119 additions and 174 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+</details>
 
 ### June 20, 2026 to June 26, 2026
 

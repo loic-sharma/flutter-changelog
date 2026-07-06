@@ -146,8 +146,8 @@
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix non primary buttons not being captured on windows<br />
   <sub>[#188394](https://github.com/flutter/flutter/pull/188394) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188394) 84 additions and 11 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix null check operator crash in currentPackageConfig<br />
-  <sub>[#188454](https://github.com/flutter/flutter/pull/188454) opened on on June 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188454) 118 additions and 2 deletions in 2 files</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
+  <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
 
 * **[Alexander Dahlberg](https://github.com/Swiftaxe)** &mdash; Move drawer tests from widgets to material<br />
   <sub>[#188486](https://github.com/flutter/flutter/pull/188486) opened on on June 24, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/188486) 372 additions and 385 deletions in 2 files</sub><br />
@@ -222,10 +222,10 @@
   <sub>[#188947](https://github.com/flutter/flutter/pull/188947) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188947) 112 additions and 7 deletions in 2 files</sub><br />
 
 * **[pierre](https://github.com/guidezpl)** &mdash; Use secrets.GITHUB_TOKEN for lock-threads action input<br />
-  <sub>[#188948](https://github.com/flutter/flutter/pull/188948) opened on on July 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188948) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#188948](https://github.com/flutter/flutter/pull/188948) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188948) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[pierre](https://github.com/guidezpl)** &mdash; Skip locked issues in no-response check<br />
-  <sub>[#188950](https://github.com/flutter/flutter/pull/188950) opened on on July 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188950) 5 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#188950](https://github.com/flutter/flutter/pull/188950) opened on on July 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188950) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [Impeller] Guard optional FlatBuffer fields on the runtime shader load path<br />
   <sub>[#188955](https://github.com/flutter/flutter/pull/188955) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188955) 64 additions and 1 deletion in 3 files</sub><br />
