@@ -245,3 +245,6 @@
 * **[DigvijaySingh](https://github.com/Aurelius51)** &mdash; Fix lower DragTarget not being recognized in overlapping targets<br />
   <sub>[#188979](https://github.com/flutter/flutter/pull/188979) opened on on July 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188979) 176 additions and 1 deletion in 2 files</sub><br />
 
+* **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
+  <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
+
