@@ -180,7 +180,7 @@
   <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
-  <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
+  <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split FlViewRenderer into OpenGL and software backends<br />
   <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/188824) 901 additions and 626 deletions in 16 files</sub><br />
@@ -215,9 +215,6 @@
 * **[pierre](https://github.com/guidezpl)** &mdash; Use secrets.GITHUB_TOKEN for lock-threads action input<br />
   <sub>[#188948](https://github.com/flutter/flutter/pull/188948) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188948) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[pierre](https://github.com/guidezpl)** &mdash; Skip locked issues in no-response check<br />
-  <sub>[#188950](https://github.com/flutter/flutter/pull/188950) opened on on July 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/188950) 5 additions and 0 deletions in 1 file</sub><br />
-
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [Impeller] Guard optional FlatBuffer fields on the runtime shader load path<br />
   <sub>[#188955](https://github.com/flutter/flutter/pull/188955) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188955) 64 additions and 1 deletion in 3 files</sub><br />
 
@@ -242,6 +239,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bump Flutter Test Apps to Newer Template Version<br />
   <sub>[#189024](https://github.com/flutter/flutter/pull/189024) opened on on July 6, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/189024) 7301 additions and 7054 deletions in 136 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
-  <sub>[#189025](https://github.com/flutter/flutter/pull/189025) opened on on July 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189025) 7 additions and 1 deletion in 1 file</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump goldctl<br />
+  <sub>[#189030](https://github.com/flutter/flutter/pull/189030) opened on on July 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189030) 85 additions and 85 deletions in 1 file</sub><br />
 
