@@ -107,9 +107,6 @@
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Collect analytics on AI agent usage<br />
-  <sub>[#187630](https://github.com/flutter/flutter/pull/187630) opened on on June 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187630) 56 additions and 2 deletions in 3 files</sub><br />
-
 * **[SoaringHeart](https://github.com/shang1219178163)** &mdash; feat: Add a placeholder attribute to DecorationImage and display it w…<br />
   <sub>[#187635](https://github.com/flutter/flutter/pull/187635) opened on on June 6, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187635) 59 additions and 8 deletions in 1 file</sub><br />
 
@@ -145,9 +142,6 @@
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
   <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
-
-* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix non primary buttons not being captured on windows<br />
-  <sub>[#188394](https://github.com/flutter/flutter/pull/188394) opened on on June 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188394) 84 additions and 11 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
   <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
@@ -186,7 +180,7 @@
   <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Flutter Template Versions<br />
-  <sub>[#188762](https://github.com/flutter/flutter/pull/188762) opened on on June 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188762) 29 additions and 16 deletions in 4 files</sub><br />
+  <sub>[#188762](https://github.com/flutter/flutter/pull/188762) opened on on June 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188762) 29 additions and 16 deletions in 4 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
@@ -195,7 +189,7 @@
   <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/188824) 901 additions and 626 deletions in 16 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries with hard line break at the end<br />
-  <sub>[#188868](https://github.com/flutter/flutter/pull/188868) opened on on July 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188868) 131 additions and 57 deletions in 5 files</sub><br />
+  <sub>[#188868](https://github.com/flutter/flutter/pull/188868) opened on on July 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188868) 103 additions and 57 deletions in 4 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices<br />
   <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188890) 47550 additions and 41702 deletions in 7 files</sub><br />
@@ -249,5 +243,5 @@
   <sub>[#189016](https://github.com/flutter/flutter/pull/189016) opened on on July 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189016) 90 additions and 1 deletion in 2 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: udpate wait-for-engine-build composite action to cocoon<br />
-  <sub>[#189020](https://github.com/flutter/flutter/pull/189020) opened on on July 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189020) 6 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#189020](https://github.com/flutter/flutter/pull/189020) opened on on July 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189020) 6 additions and 11 deletions in 2 files</sub><br />
 
