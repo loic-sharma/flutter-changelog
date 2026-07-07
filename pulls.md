@@ -186,7 +186,7 @@
   <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/188824) 901 additions and 626 deletions in 16 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries with hard line break at the end<br />
-  <sub>[#188868](https://github.com/flutter/flutter/pull/188868) opened on on July 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188868) 103 additions and 57 deletions in 4 files</sub><br />
+  <sub>[#188868](https://github.com/flutter/flutter/pull/188868) opened on on July 1, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/188868) 138 additions and 57 deletions in 4 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices<br />
   <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188890) 47550 additions and 41702 deletions in 7 files</sub><br />
@@ -233,12 +233,12 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bump Flutter Test Apps to Newer Template Version<br />
   <sub>[#189024](https://github.com/flutter/flutter/pull/189024) opened on on July 6, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/189024) 7301 additions and 7054 deletions in 136 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump goldctl<br />
-  <sub>[#189030](https://github.com/flutter/flutter/pull/189030) opened on on July 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189030) 85 additions and 85 deletions in 1 file</sub><br />
-
 * **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2<br />
   <sub>[#189053](https://github.com/flutter/flutter/pull/189053) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Arzan Nebiu](https://github.com/xeinebiu)** &mdash; Add ignoreZeroSizeChildrenForSpacing to Flex, Row, Column and Wrap<br />
   <sub>[#189058](https://github.com/flutter/flutter/pull/189058) opened on on July 7, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/189058) 693 additions and 22 deletions in 6 files</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump customer testing version for new registrants<br />
+  <sub>[#189070](https://github.com/flutter/flutter/pull/189070) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189070) 1 addition and 1 deletion in 1 file</sub><br />
 
