@@ -209,12 +209,6 @@
 * **[RabahDj ](https://github.com/drhassimac-afk)** &mdash; Add new dependencies to pubspec.yaml<br />
   <sub>[#188935](https://github.com/flutter/flutter/pull/188935) opened on on July 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188935) 11 additions and 0 deletions in 1 file</sub><br />
 
-* **[Shikhar Soni](https://github.com/shikharish)** &mdash; Register native assets dlopen_v2<br />
-  <sub>[#188947](https://github.com/flutter/flutter/pull/188947) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188947) 112 additions and 7 deletions in 2 files</sub><br />
-
-* **[pierre](https://github.com/guidezpl)** &mdash; Use secrets.GITHUB_TOKEN for lock-threads action input<br />
-  <sub>[#188948](https://github.com/flutter/flutter/pull/188948) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188948) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [Impeller] Guard optional FlatBuffer fields on the runtime shader load path<br />
   <sub>[#188955](https://github.com/flutter/flutter/pull/188955) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188955) 64 additions and 1 deletion in 3 files</sub><br />
 
@@ -241,4 +235,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump goldctl<br />
   <sub>[#189030](https://github.com/flutter/flutter/pull/189030) opened on on July 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189030) 85 additions and 85 deletions in 1 file</sub><br />
+
+* **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2<br />
+  <sub>[#189053](https://github.com/flutter/flutter/pull/189053) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) 1 addition and 1 deletion in 1 file</sub><br />
 
