@@ -33,7 +33,7 @@
   <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185622) 114 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
@@ -141,7 +141,7 @@
   <sub>[#188337](https://github.com/flutter/flutter/pull/188337) opened on on June 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188337) 73 additions and 6 deletions in 5 files</sub><br />
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
-  <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
   <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
@@ -240,8 +240,8 @@
   <sub>[#189075](https://github.com/flutter/flutter/pull/189075) opened on on July 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189075) 79 additions and 22 deletions in 3 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
-  <sub>[#189080](https://github.com/flutter/flutter/pull/189080) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189080) 29 additions and 26 deletions in 4 files</sub><br />
+  <sub>[#189080](https://github.com/flutter/flutter/pull/189080) opened on on July 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189080) 34 additions and 34 deletions in 6 files</sub><br />
 
-* **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: Migrate to AGP 9<br />
-  <sub>[#189082](https://github.com/flutter/flutter/pull/189082) opened on on July 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189082) 7 additions and 6 deletions in 1 file</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix native assets crash on Linux custom devices<br />
+  <sub>[#189088](https://github.com/flutter/flutter/pull/189088) opened on on July 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189088) 289 additions and 22 deletions in 4 files</sub><br />
 

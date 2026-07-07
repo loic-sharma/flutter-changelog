@@ -4,7 +4,11 @@
 
 ### July 4, 2026 to July 10, 2026
 
-26 commits.
+28 commits.
+
+* **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds<br />
+  <sub>[#187029](https://github.com/flutter/flutter/pull/187029) merged on July 7, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/187029) over 1 month, 813 additions and 15 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`<br />
   <sub>[#188163](https://github.com/flutter/flutter/pull/188163) merged on July 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188163) over 2 weeks, 9 additions and 0 deletions in 3 files</sub><br />
@@ -83,8 +87,12 @@
   <sub>[#189020](https://github.com/flutter/flutter/pull/189020) merged on July 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189020) over 3 hours, 5 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Dmitry Grand (dmgr)](https://github.com/ievdokdm)</sub><br />
 
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: Migrate to AGP 9<br />
+  <sub>[#189082](https://github.com/flutter/flutter/pull/189082) merged on July 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189082) over 1 hour, 7 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
+
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Roll Fuchsia Test Scripts from tRDjAwjqDhSv0B666... to s5_gZFJ8De9AJalTw..<br />
-  <sub>[#189072](https://github.com/flutter/flutter/pull/189072) merged on July 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189072) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#189072](https://github.com/flutter/flutter/pull/189072) merged on July 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189072) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Recommend `OverlayPortal.overlayChildLayoutBuilder` over Target-Follower<br />
@@ -629,7 +637,11 @@
 
 ### July 4, 2026 to July 10, 2026
 
-6 commits.
+7 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Add code coverage presubmit test<br />
+  <sub>[#11942](https://github.com/flutter/packages/pull/11942) merged on July 7, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/11942) over 2 weeks, 626 additions and 2 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Ludwig Bolling](https://github.com/Bolling88)** &mdash; [camera_android, camera_android_camerax, camera_avfoundation] Add setJpegImageQuality<br />
   <sub>[#11616](https://github.com/flutter/packages/pull/11616) merged on July 6, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/11616) over 2 months, 671 additions and 17 deletions in 43 files</sub><br />
