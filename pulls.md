@@ -93,7 +93,7 @@
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Fix grouped autofill on iOS Chrome<br />
-  <sub>[#187459](https://github.com/flutter/flutter/pull/187459) opened on on June 2, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187459) 171 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#187459](https://github.com/flutter/flutter/pull/187459) opened on on June 2, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/187459) 171 additions and 2 deletions in 2 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
@@ -174,7 +174,7 @@
   <sub>[#188719](https://github.com/flutter/flutter/pull/188719) opened on on June 29, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/188719) 200 additions and 4 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Preserve text field focus across tab switches<br />
-  <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188738) 142 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188738) 144 additions and 1 deletion in 2 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Migrate time picker tests cases relying on localization from material_ui to flutter_localization<br />
   <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
@@ -186,7 +186,7 @@
   <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/188824) 901 additions and 626 deletions in 16 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries with hard line break at the end<br />
-  <sub>[#188868](https://github.com/flutter/flutter/pull/188868) opened on on July 1, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/188868) 138 additions and 57 deletions in 4 files</sub><br />
+  <sub>[#188868](https://github.com/flutter/flutter/pull/188868) opened on on July 1, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188868) 138 additions and 57 deletions in 4 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices<br />
   <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188890) 47550 additions and 41702 deletions in 7 files</sub><br />
@@ -230,15 +230,18 @@
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix drop-through skipping a DragTarget stacked under a refusing one (#187543)<br />
   <sub>[#189016](https://github.com/flutter/flutter/pull/189016) opened on on July 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189016) 90 additions and 1 deletion in 2 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bump Flutter Test Apps to Newer Template Version<br />
-  <sub>[#189024](https://github.com/flutter/flutter/pull/189024) opened on on July 6, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/189024) 7301 additions and 7054 deletions in 136 files</sub><br />
-
 * **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2<br />
   <sub>[#189053](https://github.com/flutter/flutter/pull/189053) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Arzan Nebiu](https://github.com/xeinebiu)** &mdash; Add ignoreZeroSizeChildrenForSpacing to Flex, Row, Column and Wrap<br />
   <sub>[#189058](https://github.com/flutter/flutter/pull/189058) opened on on July 7, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/189058) 693 additions and 22 deletions in 6 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump customer testing version for new registrants<br />
-  <sub>[#189070](https://github.com/flutter/flutter/pull/189070) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189070) 1 addition and 1 deletion in 1 file</sub><br />
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Roll Fuchsia Test Scripts from tRDjAwjqDhSv0B666... to s5_gZFJ8De9AJalTw..<br />
+  <sub>[#189072](https://github.com/flutter/flutter/pull/189072) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189072) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] Don't require a Flutter compile task when staging jniLibs<br />
+  <sub>[#189075](https://github.com/flutter/flutter/pull/189075) opened on on July 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189075) 79 additions and 22 deletions in 3 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
+  <sub>[#189080](https://github.com/flutter/flutter/pull/189080) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189080) 29 additions and 26 deletions in 4 files</sub><br />
 

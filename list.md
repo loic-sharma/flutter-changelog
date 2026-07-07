@@ -4,7 +4,7 @@
 
 ### July 4, 2026 to July 10, 2026
 
-21 commits.
+24 commits.
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`
   <sub>[#188163](https://github.com/flutter/flutter/pull/188163) merged on July 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188163) over 2 weeks, 9 additions and 0 deletions in 3 files</sub>
@@ -27,8 +27,16 @@
   <sub>[#188835](https://github.com/flutter/flutter/pull/188835) merged on July 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188835) over 5 days, 120 additions and 140 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Bump Flutter Test Apps to Newer Template Version
+  <sub>[#189024](https://github.com/flutter/flutter/pull/189024) merged on July 7, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/189024) over 20 hours, 7301 additions and 7054 deletions in 136 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; fix android semantics integration test hangs due to postframe callback
+  <sub>[#189043](https://github.com/flutter/flutter/pull/189043) merged on July 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189043) over 10 hours, 3 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fix potential race condtion in android_semantics_integration_test
-  <sub>[#188830](https://github.com/flutter/flutter/pull/188830) merged on July 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188830) over 5 days, 8 additions and 5 deletions in 1 file</sub>
+  <sub>[#188830](https://github.com/flutter/flutter/pull/188830) merged on July 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188830) over 5 days, 8 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix null check operator crash in currentPackageConfig
@@ -38,6 +46,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix test flakiness in widget_preview_detection_test.dart
   <sub>[#188922](https://github.com/flutter/flutter/pull/188922) merged on July 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188922) over 4 days, 58 additions and 38 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump customer testing version for new registrants
+  <sub>[#189070](https://github.com/flutter/flutter/pull/189070) merged on July 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189070) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Collect analytics on AI agent usage
   <sub>[#187630](https://github.com/flutter/flutter/pull/187630) merged on July 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187630) over 1 month, 56 additions and 2 deletions in 3 files</sub>
@@ -609,7 +621,7 @@
 
 ### July 4, 2026 to July 10, 2026
 
-4 commits.
+5 commits.
 
 * **[Ludwig Bolling](https://github.com/Bolling88)** &mdash; [camera_android, camera_android_camerax, camera_avfoundation] Add setJpegImageQuality
   <sub>[#11616](https://github.com/flutter/packages/pull/11616) merged on July 6, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/11616) over 2 months, 671 additions and 17 deletions in 43 files</sub>
@@ -622,6 +634,10 @@
 * **[sailendrabathi](https://github.com/sailendrabathi)** &mdash; [video_player_platform_interface] Improve seek performance on Android
   <sub>[#11932](https://github.com/flutter/packages/pull/11932) merged on July 6, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/11932) over 2 weeks, 32 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[saurabh-mirajkar](https://github.com/saurabh-mirajkar)** &mdash; [webview_flutter] Document NavigationDelegate callbacks
+  <sub>[#11921](https://github.com/flutter/packages/pull/11921) merged on July 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11921) over 2 weeks, 13 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from ad70ec461716 to f94f4fc76b4d (8 revisions)
   <sub>[#12125](https://github.com/flutter/packages/pull/12125) merged on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12125) over 53 minutes, 1 addition and 1 deletion in 1 file</sub>
