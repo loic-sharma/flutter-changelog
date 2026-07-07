@@ -4,7 +4,7 @@
 
 ### July 4, 2026 to July 10, 2026
 
-24 commits.
+26 commits.
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`<br />
   <sub>[#188163](https://github.com/flutter/flutter/pull/188163) merged on July 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188163) over 2 weeks, 9 additions and 0 deletions in 3 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Gracefully handle WDAC/AppLocker blocks for impellerc<br />
   <sub>[#188452](https://github.com/flutter/flutter/pull/188452) merged on July 6, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/188452) over 1 week, 369 additions and 46 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
+* **[Mozammal Hossain](https://github.com/mozammal-hossain)** &mdash; Add javaHeapSpaceHandler to handle Gradle build failures due to Java …<br />
+  <sub>[#185127](https://github.com/flutter/flutter/pull/185127) merged on July 7, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/185127) over 2 months, 55 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add debugPaintFocusBoxes<br />
   <sub>[#188288](https://github.com/flutter/flutter/pull/188288) merged on July 6, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/188288) over 2 weeks, 243 additions and 1 deletion in 4 files</sub><br />
@@ -78,6 +82,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: udpate wait-for-engine-build composite action to cocoon<br />
   <sub>[#189020](https://github.com/flutter/flutter/pull/189020) merged on July 6, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189020) over 3 hours, 5 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Dmitry Grand (dmgr)](https://github.com/ievdokdm)</sub><br />
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Roll Fuchsia Test Scripts from tRDjAwjqDhSv0B666... to s5_gZFJ8De9AJalTw..<br />
+  <sub>[#189072](https://github.com/flutter/flutter/pull/189072) merged on July 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189072) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Recommend `OverlayPortal.overlayChildLayoutBuilder` over Target-Follower<br />
   <sub>[#188894](https://github.com/flutter/flutter/pull/188894) merged on July 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188894) over 5 days, 19 additions and 2 deletions in 2 files</sub><br />
@@ -621,7 +629,7 @@
 
 ### July 4, 2026 to July 10, 2026
 
-5 commits.
+6 commits.
 
 * **[Ludwig Bolling](https://github.com/Bolling88)** &mdash; [camera_android, camera_android_camerax, camera_avfoundation] Add setJpegImageQuality<br />
   <sub>[#11616](https://github.com/flutter/packages/pull/11616) merged on July 6, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/11616) over 2 months, 671 additions and 17 deletions in 43 files</sub><br />
@@ -634,6 +642,10 @@
 * **[sailendrabathi](https://github.com/sailendrabathi)** &mdash; [video_player_platform_interface] Improve seek performance on Android<br />
   <sub>[#11932](https://github.com/flutter/packages/pull/11932) merged on July 6, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/11932) over 2 weeks, 32 additions and 3 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Bruno Viana de Siqueira](https://github.com/brunovsiqueira)** &mdash; [google_sign_in_android] Fix IllegalStateException on duplicate authorization result<br />
+  <sub>[#11984](https://github.com/flutter/packages/pull/11984) merged on July 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11984) over 1 week, 66 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[saurabh-mirajkar](https://github.com/saurabh-mirajkar)** &mdash; [webview_flutter] Document NavigationDelegate callbacks<br />
   <sub>[#11921](https://github.com/flutter/packages/pull/11921) merged on July 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11921) over 2 weeks, 13 additions and 3 deletions in 3 files</sub><br />
@@ -997,7 +1009,7 @@
 
 ### July 4, 2026 to July 10, 2026
 
-3 commits.
+4 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add breaking change notice for OpenGL ES render-to-texture orientation<br />
   <sub>[#13419](https://github.com/flutter/website/pull/13419) merged on July 7, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13419) over 1 month, 102 additions and 0 deletions in 2 files</sub><br />
@@ -1005,6 +1017,10 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add redirect for the GitHub windowing example<br />
   <sub>[#13557](https://github.com/flutter/website/pull/13557) merged on July 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13557) over 21 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; showcase sofi<br />
+  <sub>[#13559](https://github.com/flutter/website/pull/13559) merged on July 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13559) over 1 hour, 112 additions and 5 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; refactor: increased fixed width constraint from image asset helper<br />

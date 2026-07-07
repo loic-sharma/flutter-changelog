@@ -90,7 +90,7 @@
   <sub>[#187251](https://github.com/flutter/flutter/pull/187251) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187251) 158 additions and 3 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
-  <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187254) 18 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187254) 19 additions and 2 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Fix grouped autofill on iOS Chrome<br />
   <sub>[#187459](https://github.com/flutter/flutter/pull/187459) opened on on June 2, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/187459) 171 additions and 2 deletions in 2 files</sub><br />
@@ -123,7 +123,7 @@
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix wireless ADB device discovery when serial contains spaces<br />
-  <sub>[#187943](https://github.com/flutter/flutter/pull/187943) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187943) 203 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#187943](https://github.com/flutter/flutter/pull/187943) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187943) 209 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
   <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
@@ -236,12 +236,12 @@
 * **[Arzan Nebiu](https://github.com/xeinebiu)** &mdash; Add ignoreZeroSizeChildrenForSpacing to Flex, Row, Column and Wrap<br />
   <sub>[#189058](https://github.com/flutter/flutter/pull/189058) opened on on July 7, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/189058) 693 additions and 22 deletions in 6 files</sub><br />
 
-* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Roll Fuchsia Test Scripts from tRDjAwjqDhSv0B666... to s5_gZFJ8De9AJalTw..<br />
-  <sub>[#189072](https://github.com/flutter/flutter/pull/189072) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189072) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] Don't require a Flutter compile task when staging jniLibs<br />
   <sub>[#189075](https://github.com/flutter/flutter/pull/189075) opened on on July 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189075) 79 additions and 22 deletions in 3 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
   <sub>[#189080](https://github.com/flutter/flutter/pull/189080) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189080) 29 additions and 26 deletions in 4 files</sub><br />
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: Migrate to AGP 9<br />
+  <sub>[#189082](https://github.com/flutter/flutter/pull/189082) opened on on July 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189082) 7 additions and 6 deletions in 1 file</sub><br />
 
