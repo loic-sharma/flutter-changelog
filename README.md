@@ -4,7 +4,7 @@
 
 ### July 4, 2026 to July 10, 2026
 
-18 commits.
+19 commits.
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`<br />
   <sub>[#188163](https://github.com/flutter/flutter/pull/188163) merged on July 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188163) over 2 weeks, 9 additions and 0 deletions in 3 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add debugPaintFocusBoxes<br />
   <sub>[#188288](https://github.com/flutter/flutter/pull/188288) merged on July 6, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/188288) over 2 weeks, 243 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+* **[Minh Vu](https://github.com/fallintoplace)** &mdash; Fix RenderSliverPadding setter assertion<br />
+  <sub>[#187353](https://github.com/flutter/flutter/pull/187353) merged on July 7, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187353) over 1 month, 27 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Hari07](https://github.com/Hari-07)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Print warnings on Intel Macs / targeting Intel Macs<br />
   <sub>[#188835](https://github.com/flutter/flutter/pull/188835) merged on July 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188835) over 5 days, 120 additions and 140 deletions in 5 files</sub><br />
