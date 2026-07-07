@@ -4,7 +4,12 @@
 
 ### July 4, 2026 to July 10, 2026
 
-15 commits.
+18 commits.
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`<br />
+  <sub>[#188163](https://github.com/flutter/flutter/pull/188163) merged on July 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188163) over 2 weeks, 9 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="542" height="169" alt="Screenshot 2026-07-03 at 09 19 03" src="https://github.com/user-attachments/assets/f8762286-f487-4114-b4a4-88d3caec6b8c" /><img width="549" height="143" alt="Screenshot 2026-07-03 at 09 37 13" src="https://github.com/user-attachments/assets/ef09aaa3-5b85-48f7-b181-f9ccb6287dfd" /></details></sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Gracefully handle WDAC/AppLocker blocks for impellerc<br />
   <sub>[#188452](https://github.com/flutter/flutter/pull/188452) merged on July 6, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/188452) over 1 week, 369 additions and 46 deletions in 4 files</sub><br />
@@ -13,6 +18,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add debugPaintFocusBoxes<br />
   <sub>[#188288](https://github.com/flutter/flutter/pull/188288) merged on July 6, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/188288) over 2 weeks, 243 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Print warnings on Intel Macs / targeting Intel Macs<br />
+  <sub>[#188835](https://github.com/flutter/flutter/pull/188835) merged on July 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188835) over 5 days, 120 additions and 140 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fix potential race condtion in android_semantics_integration_test<br />
   <sub>[#188830](https://github.com/flutter/flutter/pull/188830) merged on July 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188830) over 5 days, 8 additions and 5 deletions in 1 file</sub><br />
@@ -25,6 +34,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix test flakiness in widget_preview_detection_test.dart<br />
   <sub>[#188922](https://github.com/flutter/flutter/pull/188922) merged on July 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188922) over 4 days, 58 additions and 38 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub><br />
+
+* **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Explain asynchronous causes in the setState() called after dispose() error<br />
+  <sub>[#187294](https://github.com/flutter/flutter/pull/187294) merged on July 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187294) over 1 month, 34 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[Rich Young](https://github.com/richyo-codes)** &mdash; fix(engine/windows): keep tooltip position rect alive - fix use after free<br />
   <sub>[#188476](https://github.com/flutter/flutter/pull/188476) merged on July 6, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188476) over 1 week, 12 additions and 7 deletions in 1 file</sub><br />
