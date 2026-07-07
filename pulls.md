@@ -240,5 +240,5 @@
   <sub>[#189024](https://github.com/flutter/flutter/pull/189024) opened on on July 6, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/189024) 7301 additions and 7054 deletions in 136 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Bump goldctl<br />
-  <sub>[#189030](https://github.com/flutter/flutter/pull/189030) opened on on July 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189030) 85 additions and 85 deletions in 1 file</sub><br />
+  <sub>[#189030](https://github.com/flutter/flutter/pull/189030) opened on on July 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189030) 85 additions and 85 deletions in 1 file</sub><br />
 
