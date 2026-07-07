@@ -239,3 +239,6 @@
 * **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2<br />
   <sub>[#189053](https://github.com/flutter/flutter/pull/189053) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Arzan Nebiu](https://github.com/xeinebiu)** &mdash; Add ignoreZeroSizeChildrenForSpacing to Flex, Row, Column and Wrap<br />
+  <sub>[#189058](https://github.com/flutter/flutter/pull/189058) opened on on July 7, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/189058) 693 additions and 22 deletions in 6 files</sub><br />
+
