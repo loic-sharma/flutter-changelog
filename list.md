@@ -4,7 +4,7 @@
 
 ### July 4, 2026 to July 10, 2026
 
-28 commits.
+30 commits.
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds
   <sub>[#187029](https://github.com/flutter/flutter/pull/187029) merged on July 7, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/187029) over 1 month, 813 additions and 15 deletions in 25 files</sub>
@@ -14,6 +14,14 @@
   <sub>[#188163](https://github.com/flutter/flutter/pull/188163) merged on July 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188163) over 2 weeks, 9 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
   <sub><details><summary>2 images...</summary><img width="542" height="169" alt="Screenshot 2026-07-03 at 09 19 03" src="https://github.com/user-attachments/assets/f8762286-f487-4114-b4a4-88d3caec6b8c" /><img width="549" height="143" alt="Screenshot 2026-07-03 at 09 37 13" src="https://github.com/user-attachments/assets/ef09aaa3-5b85-48f7-b181-f9ccb6287dfd" /></details></sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix TextSelectionOverlay crash when layout is degenerate
+  <sub>[#188672](https://github.com/flutter/flutter/pull/188672) merged on July 7, 2026 &mdash; **Medium:** [37 comments](https://github.com/flutter/flutter/pull/188672) over 1 week, 309 additions and 63 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[kyungilcho](https://github.com/kyungilcho)** &mdash; [flutter_tools] Provision Android NDK in the main Gradle invocation
+  <sub>[#186337](https://github.com/flutter/flutter/pull/186337) merged on July 7, 2026 &mdash; **Extra large:** [22 comments](https://github.com/flutter/flutter/pull/186337) over 1 month, 2745 additions and 1459 deletions in 13 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Gracefully handle WDAC/AppLocker blocks for impellerc
   <sub>[#188452](https://github.com/flutter/flutter/pull/188452) merged on July 6, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/188452) over 1 week, 369 additions and 46 deletions in 4 files</sub>
@@ -1115,11 +1123,22 @@
 
 ## flutter/core-packages
 
-### June 27, 2026 to July 3, 2026
+### July 4, 2026 to July 10, 2026
 
 1 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [listen] Creates listen package
+  <sub>[#24](https://github.com/flutter/core-packages/pull/24) merged on July 7, 2026 &mdash; **Extra large:** [36 comments](https://github.com/flutter/core-packages/pull/24) over 3 weeks, 1649 additions and 0 deletions in 19 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Remi Rousselet](https://github.com/rrousselGit), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+### June 27, 2026 to July 3, 2026
+
+<details>
+<summary>1 commits...</summary>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Pass correct flags to `validate`
   <sub>[#27](https://github.com/flutter/core-packages/pull/27) merged on June 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/core-packages/pull/27) over 5 days, 12 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+</details>
 
