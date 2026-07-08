@@ -92,9 +92,6 @@
 * **[Anthony Hurtado](https://github.com/jortles)** &mdash; Add recursion depth limit to StandardCodecSerializer::ReadValue<br />
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix wireless ADB device discovery when serial contains spaces<br />
-  <sub>[#187943](https://github.com/flutter/flutter/pull/187943) opened on on June 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187943) 209 additions and 3 deletions in 2 files</sub><br />
-
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
   <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
 
@@ -200,9 +197,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] Don't require a Flutter compile task when staging jniLibs<br />
   <sub>[#189075](https://github.com/flutter/flutter/pull/189075) opened on on July 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189075) 79 additions and 22 deletions in 3 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
-  <sub>[#189080](https://github.com/flutter/flutter/pull/189080) opened on on July 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189080) 34 additions and 34 deletions in 6 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix native assets crash on Linux custom devices<br />
   <sub>[#189088](https://github.com/flutter/flutter/pull/189088) opened on on July 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189088) 289 additions and 22 deletions in 4 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
+  <sub>[#189109](https://github.com/flutter/flutter/pull/189109) opened on on July 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189109) 18 additions and 20 deletions in 5 files</sub><br />
 
