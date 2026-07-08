@@ -1057,11 +1057,15 @@
 
 ### July 4, 2026 to July 10, 2026
 
-5 commits.
+6 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add breaking change notice for OpenGL ES render-to-texture orientation
   <sub>[#13419](https://github.com/flutter/website/pull/13419) merged on July 7, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13419) over 1 month, 102 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Forward Fix of Built-in Kotlin Workaround Docs
+  <sub>[#13421](https://github.com/flutter/website/pull/13421) merged on July 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13421) over 1 month, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add redirect for the GitHub windowing example
   <sub>[#13557](https://github.com/flutter/website/pull/13557) merged on July 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13557) over 21 hours, 1 addition and 0 deletions in 1 file</sub>

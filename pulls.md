@@ -155,9 +155,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split FlViewRenderer into OpenGL and software backends<br />
   <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/188824) 901 additions and 626 deletions in 16 files</sub><br />
 
-* **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries with hard line break at the end<br />
-  <sub>[#188868](https://github.com/flutter/flutter/pull/188868) opened on on July 1, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188868) 138 additions and 57 deletions in 4 files</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices<br />
   <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188890) 47583 additions and 41703 deletions in 8 files</sub><br />
 
@@ -205,4 +202,7 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
   <sub>[#189109](https://github.com/flutter/flutter/pull/189109) opened on on July 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189109) 41 additions and 44 deletions in 12 files</sub><br />
+
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Unblock page below during CupertinoPageRoute back-swipe settle<br />
+  <sub>[#189132](https://github.com/flutter/flutter/pull/189132) opened on on July 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189132) 137 additions and 12 deletions in 4 files</sub><br />
 
