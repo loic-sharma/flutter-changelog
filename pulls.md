@@ -206,3 +206,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
   <sub>[#189109](https://github.com/flutter/flutter/pull/189109) opened on on July 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189109) 41 additions and 44 deletions in 12 files</sub><br />
 
+* **[Ivan Inozemtsev](https://github.com/iinozemtsev)** &mdash; Roll Dart SDK to Dart 3.13 beta3<br />
+  <sub>[#189122](https://github.com/flutter/flutter/pull/189122) opened on on July 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189122) 1 addition and 1 deletion in 1 file</sub><br />
+
