@@ -33,7 +33,7 @@
   <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185622) 114 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
@@ -144,7 +144,7 @@
   <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [web] Repair RenderCanvas CSS size drift<br />
-  <sub>[#188797](https://github.com/flutter/flutter/pull/188797) opened on on June 30, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188797) 93 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#188797](https://github.com/flutter/flutter/pull/188797) opened on on June 30, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188797) 93 additions and 6 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
@@ -173,9 +173,6 @@
 * **[RabahDj ](https://github.com/drhassimac-afk)** &mdash; Add new dependencies to pubspec.yaml<br />
   <sub>[#188935](https://github.com/flutter/flutter/pull/188935) opened on on July 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188935) 11 additions and 0 deletions in 1 file</sub><br />
 
-* **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [Impeller] Guard optional FlatBuffer fields on the runtime shader load path<br />
-  <sub>[#188955](https://github.com/flutter/flutter/pull/188955) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188955) 64 additions and 1 deletion in 3 files</sub><br />
-
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -201,5 +198,11 @@
   <sub>[#189152](https://github.com/flutter/flutter/pull/189152) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189152) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Validate plugin class/package identifiers to prevent GeneratedPluginRegistrant injection<br />
-  <sub>[#189156](https://github.com/flutter/flutter/pull/189156) opened on on July 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189156) 75 additions and 22 deletions in 2 files</sub><br />
+  <sub>[#189156](https://github.com/flutter/flutter/pull/189156) opened on on July 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189156) 122 additions and 22 deletions in 3 files</sub><br />
+
+* **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; Fix `TabBar` assertion to allow `indicatorWeight: 0` with a themed `indicator`<br />
+  <sub>[#189157](https://github.com/flutter/flutter/pull/189157) opened on on July 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189157) 103 additions and 4 deletions in 2 files</sub><br />
+
+* **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Contain dependency-declared license paths within the package<br />
+  <sub>[#189159](https://github.com/flutter/flutter/pull/189159) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189159) 57 additions and 0 deletions in 2 files</sub><br />
 
