@@ -248,7 +248,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [tool] Enable record_use experiment by default on all channels
-  <sub>[#188887](https://github.com/flutter/flutter/pull/188887) merged on July 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188887) over 18 hours, 10 additions and 1 deletion in 4 files</sub>
+  <sub>[#188887](https://github.com/flutter/flutter/pull/188887) merged on July 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188887) over 18 hours, 10 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [tool] Don't require a Flutter compile task when staging jniLibs
