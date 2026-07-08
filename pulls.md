@@ -68,9 +68,6 @@
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
   <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
 
-* **[chtga](https://github.com/tamirenkhbayar3-cmd)** &mdash; Restrict web dev server to loopback by default<br />
-  <sub>[#187595](https://github.com/flutter/flutter/pull/187595) opened on on June 5, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/187595) 370 additions and 284 deletions in 4 files</sub><br />
-
 * **[Lin Zhenming](https://github.com/lzm-build)** &mdash; Add iOS prebuilt impeller_sdk<br />
   <sub>[#187608](https://github.com/flutter/flutter/pull/187608) opened on on June 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187608) 57 additions and 14 deletions in 5 files</sub><br />
 
@@ -131,11 +128,14 @@
 * **[Julien Bolly](https://github.com/Julienraptor01)** &mdash; Update AndroidX check to use regex<br />
   <sub>[#188651](https://github.com/flutter/flutter/pull/188651) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188651) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix null terminator in input truncates clipboard<br />
+  <sub>[#188652](https://github.com/flutter/flutter/pull/188652) opened on on June 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188652) 41 additions and 7 deletions in 4 files</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
 
 * **[Shariar Hossain](https://github.com/shariaralphabyte)** &mdash; [flutter_tools] Tell user how to skip the device prompt with -d<br />
-  <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
 
 * **[kfatehi](https://github.com/kfatehi)** &mdash; Do not report a caret inside a surrogate pair to the platform IME<br />
   <sub>[#188719](https://github.com/flutter/flutter/pull/188719) opened on on June 29, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/188719) 200 additions and 4 deletions in 2 files</sub><br />
@@ -182,9 +182,6 @@
 * **[Zanehisako](https://github.com/Zanehisako)** &mdash; Fix TabBar indicatorWeight assertion with themed indicator<br />
   <sub>[#188967](https://github.com/flutter/flutter/pull/188967) opened on on July 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188967) 91 additions and 5 deletions in 2 files</sub><br />
 
-* **[DigvijaySingh](https://github.com/Aurelius51)** &mdash; [flutter_tools] Don't crash on non-UTF-8 plugin pubspec.yaml<br />
-  <sub>[#188976](https://github.com/flutter/flutter/pull/188976) opened on on July 5, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188976) 34 additions and 0 deletions in 2 files</sub><br />
-
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -198,11 +195,11 @@
   <sub>[#189081](https://github.com/flutter/flutter/pull/189081) opened on on July 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189081) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix native assets crash on Linux custom devices<br />
-  <sub>[#189088](https://github.com/flutter/flutter/pull/189088) opened on on July 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189088) 289 additions and 22 deletions in 4 files</sub><br />
+  <sub>[#189088](https://github.com/flutter/flutter/pull/189088) opened on on July 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189088) 285 additions and 22 deletions in 4 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
   <sub>[#189109](https://github.com/flutter/flutter/pull/189109) opened on on July 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189109) 41 additions and 44 deletions in 12 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Unblock page below during CupertinoPageRoute back-swipe settle<br />
-  <sub>[#189132](https://github.com/flutter/flutter/pull/189132) opened on on July 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189132) 137 additions and 12 deletions in 4 files</sub><br />
+  <sub>[#189132](https://github.com/flutter/flutter/pull/189132) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189132) 137 additions and 12 deletions in 4 files</sub><br />
 
