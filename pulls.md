@@ -47,9 +47,6 @@
 * **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document CupertinoTabScaffold + CupertinoSliverNavigationBar interaction (#166487)<br />
   <sub>[#186644](https://github.com/flutter/flutter/pull/186644) opened on on May 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186644) 45 additions and 0 deletions in 1 file</sub><br />
 
-* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document CupertinoSlidingSegmentedControl translucent unselected segments (#164073)<br />
-  <sub>[#186645](https://github.com/flutter/flutter/pull/186645) opened on on May 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186645) 16 additions and 2 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
 
@@ -147,7 +144,7 @@
   <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [web] Repair RenderCanvas CSS size drift<br />
-  <sub>[#188797](https://github.com/flutter/flutter/pull/188797) opened on on June 30, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188797) 93 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#188797](https://github.com/flutter/flutter/pull/188797) opened on on June 30, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188797) 93 additions and 6 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
@@ -156,7 +153,7 @@
   <sub>[#188824](https://github.com/flutter/flutter/pull/188824) opened on on July 1, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/188824) 901 additions and 626 deletions in 16 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices<br />
-  <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188890) 47583 additions and 41703 deletions in 8 files</sub><br />
+  <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/188890) 47583 additions and 41703 deletions in 8 files</sub><br />
 
 * **[Yilong Li](https://github.com/gnoliyil)** &mdash; [fuchsia][iwyu] Remove transitive include of fuchsia.input.report.<br />
   <sub>[#188891](https://github.com/flutter/flutter/pull/188891) opened on on July 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188891) 0 additions and 1 deletion in 1 file</sub><br />
@@ -179,9 +176,6 @@
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [Impeller] Guard optional FlatBuffer fields on the runtime shader load path<br />
   <sub>[#188955](https://github.com/flutter/flutter/pull/188955) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188955) 64 additions and 1 deletion in 3 files</sub><br />
 
-* **[Zanehisako](https://github.com/Zanehisako)** &mdash; Fix TabBar indicatorWeight assertion with themed indicator<br />
-  <sub>[#188967](https://github.com/flutter/flutter/pull/188967) opened on on July 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188967) 91 additions and 5 deletions in 2 files</sub><br />
-
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -194,12 +188,9 @@
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Promote android_hardware_smoke_tests out of bringup in CI<br />
   <sub>[#189081](https://github.com/flutter/flutter/pull/189081) opened on on July 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189081) 0 additions and 2 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix native assets crash on Linux custom devices<br />
-  <sub>[#189088](https://github.com/flutter/flutter/pull/189088) opened on on July 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189088) 285 additions and 22 deletions in 4 files</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
   <sub>[#189109](https://github.com/flutter/flutter/pull/189109) opened on on July 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189109) 41 additions and 44 deletions in 12 files</sub><br />
 
-* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Unblock page below during CupertinoPageRoute back-swipe settle<br />
-  <sub>[#189132](https://github.com/flutter/flutter/pull/189132) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189132) 137 additions and 12 deletions in 4 files</sub><br />
+* **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries method for all the cases with hard line breaks<br />
+  <sub>[#189143](https://github.com/flutter/flutter/pull/189143) opened on on July 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189143) 95 additions and 53 deletions in 5 files</sub><br />
 
