@@ -105,10 +105,10 @@
   <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Avoid absolute positioning for base CanvasKit canvas<br />
-  <sub>[#188337](https://github.com/flutter/flutter/pull/188337) opened on on June 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188337) 73 additions and 6 deletions in 5 files</sub><br />
+  <sub>[#188337](https://github.com/flutter/flutter/pull/188337) opened on on June 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188337) 73 additions and 6 deletions in 5 files</sub><br />
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
-  <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
   <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
@@ -197,9 +197,12 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] Don't require a Flutter compile task when staging jniLibs<br />
   <sub>[#189075](https://github.com/flutter/flutter/pull/189075) opened on on July 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189075) 79 additions and 22 deletions in 3 files</sub><br />
 
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Promote android_hardware_smoke_tests out of bringup in CI<br />
+  <sub>[#189081](https://github.com/flutter/flutter/pull/189081) opened on on July 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189081) 0 additions and 2 deletions in 1 file</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix native assets crash on Linux custom devices<br />
   <sub>[#189088](https://github.com/flutter/flutter/pull/189088) opened on on July 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189088) 289 additions and 22 deletions in 4 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
-  <sub>[#189109](https://github.com/flutter/flutter/pull/189109) opened on on July 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189109) 18 additions and 20 deletions in 5 files</sub><br />
+  <sub>[#189109](https://github.com/flutter/flutter/pull/189109) opened on on July 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189109) 41 additions and 44 deletions in 12 files</sub><br />
 
