@@ -182,15 +182,21 @@
 * **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2<br />
   <sub>[#189053](https://github.com/flutter/flutter/pull/189053) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] Don't require a Flutter compile task when staging jniLibs<br />
-  <sub>[#189075](https://github.com/flutter/flutter/pull/189075) opened on on July 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189075) 79 additions and 22 deletions in 3 files</sub><br />
-
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Promote android_hardware_smoke_tests out of bringup in CI<br />
   <sub>[#189081](https://github.com/flutter/flutter/pull/189081) opened on on July 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189081) 0 additions and 2 deletions in 1 file</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Use devicectl for screenshots on Xcode 26<br />
+  <sub>[#189091](https://github.com/flutter/flutter/pull/189091) opened on on July 7, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/189091) 463 additions and 2 deletions in 5 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
+  <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189103) 34 additions and 104 deletions in 10 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
   <sub>[#189109](https://github.com/flutter/flutter/pull/189109) opened on on July 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189109) 41 additions and 44 deletions in 12 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries method for all the cases with hard line breaks<br />
-  <sub>[#189143](https://github.com/flutter/flutter/pull/189143) opened on on July 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189143) 95 additions and 53 deletions in 5 files</sub><br />
+  <sub>[#189143](https://github.com/flutter/flutter/pull/189143) opened on on July 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189143) 95 additions and 53 deletions in 5 files</sub><br />
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fix dereference of nullptr in the moved-to-rect signal in the Linux embedder<br />
+  <sub>[#189152](https://github.com/flutter/flutter/pull/189152) opened on on July 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189152) 7 additions and 0 deletions in 1 file</sub><br />
 
