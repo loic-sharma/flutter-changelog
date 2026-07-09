@@ -742,7 +742,12 @@
 
 ### July 4, 2026 to July 10, 2026
 
-14 commits.
+16 commits.
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Migrate dartpad TODOs to `<callout-box>`
+  <sub>[#12120](https://github.com/flutter/packages/pull/12120) merged on July 9, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/12120) over 3 days, 1882 additions and 926 deletions in 111 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+  <sub><details><summary>1 image...</summary><img width="722" height="640" alt="image" src="https://github.com/user-attachments/assets/c508c8b1-9b97-4500-9aea-cf2bce81df0a" /></details></sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add pre-commit hook to verify static analysis passes & format is correct
   <sub>[#11941](https://github.com/flutter/packages/pull/11941) merged on July 8, 2026 &mdash; **Large:** [64 comments](https://github.com/flutter/packages/pull/11941) over 2 weeks, 899 additions and 55 deletions in 19 files</sub>
@@ -771,6 +776,10 @@
 * **[sailendrabathi](https://github.com/sailendrabathi)** &mdash; [video_player_platform_interface] Improve seek performance on Android
   <sub>[#11932](https://github.com/flutter/packages/pull/11932) merged on July 6, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/11932) over 2 weeks, 32 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[shrabanti722](https://github.com/shrabanti722)** &mdash; [video_player_avfoundation] Implement preventsDisplaySleepDuringVideoPlayback
+  <sub>[#11547](https://github.com/flutter/packages/pull/11547) merged on July 9, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/11547) over 2 months, 128 additions and 2 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[sailendrabathi](https://github.com/sailendrabathi)** &mdash; [video_player_android] Implement backBufferDurationMs in ExoPlayer
   <sub>[#12124](https://github.com/flutter/packages/pull/12124) merged on July 9, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/12124) over 2 days, 746 additions and 355 deletions in 14 files</sub>
@@ -1270,11 +1279,15 @@
 
 ### July 4, 2026 to July 10, 2026
 
-1 commits.
+2 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [listen] Creates listen package
   <sub>[#24](https://github.com/flutter/core-packages/pull/24) merged on July 7, 2026 &mdash; **Extra large:** [36 comments](https://github.com/flutter/core-packages/pull/24) over 3 weeks, 1649 additions and 0 deletions in 19 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Remi Rousselet](https://github.com/rrousselGit), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [listen] Fixes api doc example directive
+  <sub>[#28](https://github.com/flutter/core-packages/pull/28) merged on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/core-packages/pull/28) over 19 hours, 9 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 ### June 27, 2026 to July 3, 2026
 
