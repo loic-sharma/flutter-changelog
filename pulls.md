@@ -33,7 +33,7 @@
   <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185622) 114 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
+  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
@@ -73,9 +73,6 @@
 
 * **[SoaringHeart](https://github.com/shang1219178163)** &mdash; feat: Add a placeholder attribute to DecorationImage and display it w…<br />
   <sub>[#187635](https://github.com/flutter/flutter/pull/187635) opened on on June 6, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187635) 59 additions and 8 deletions in 1 file</sub><br />
-
-* **[fzyzcjy](https://github.com/fzyzcjy)** &mdash; Start iOS Simulator log reader before launch<br />
-  <sub>[#187643](https://github.com/flutter/flutter/pull/187643) opened on on June 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187643) 91 additions and 2 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [Android] [a11y] make text field floating label a separated semantics node in android<br />
   <sub>[#187689](https://github.com/flutter/flutter/pull/187689) opened on on June 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187689) 130 additions and 0 deletions in 2 files</sub><br />
@@ -131,9 +128,6 @@
 * **[Shariar Hossain](https://github.com/shariaralphabyte)** &mdash; [flutter_tools] Tell user how to skip the device prompt with -d<br />
   <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
 
-* **[kfatehi](https://github.com/kfatehi)** &mdash; Do not report a caret inside a surrogate pair to the platform IME<br />
-  <sub>[#188719](https://github.com/flutter/flutter/pull/188719) opened on on June 29, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/188719) 200 additions and 4 deletions in 2 files</sub><br />
-
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Preserve text field focus across tab switches<br />
   <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188738) 145 additions and 3 deletions in 2 files</sub><br />
 
@@ -147,7 +141,7 @@
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices<br />
-  <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/188890) 47583 additions and 41703 deletions in 8 files</sub><br />
+  <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/188890) 47583 additions and 41703 deletions in 8 files</sub><br />
 
 * **[Yilong Li](https://github.com/gnoliyil)** &mdash; [fuchsia][iwyu] Remove transitive include of fuchsia.input.report.<br />
   <sub>[#188891](https://github.com/flutter/flutter/pull/188891) opened on on July 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188891) 0 additions and 1 deletion in 1 file</sub><br />
@@ -203,6 +197,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix data for design packages<br />
   <sub>[#189196](https://github.com/flutter/flutter/pull/189196) opened on on July 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189196) 16 additions and 0 deletions in 2 files</sub><br />
 
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add CpuArch to devices to replace AndroidArch and DarwinArch<br />
-  <sub>[#189207](https://github.com/flutter/flutter/pull/189207) opened on on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189207) 226 additions and 2 deletions in 13 files</sub><br />
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add CpuArch to the Device class<br />
+  <sub>[#189207](https://github.com/flutter/flutter/pull/189207) opened on on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189207) 230 additions and 2 deletions in 15 files</sub><br />
 
