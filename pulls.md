@@ -98,9 +98,6 @@
 * **[Himank Sharma](https://github.com/himanksharma8434-coder)** &mdash; feat: add new API documentation examples for scroll notifications, UI…<br />
   <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Avoid absolute positioning for base CanvasKit canvas<br />
-  <sub>[#188337](https://github.com/flutter/flutter/pull/188337) opened on on June 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188337) 73 additions and 6 deletions in 5 files</sub><br />
-
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Parse AndroidX property in gradle.properties<br />
   <sub>[#188372](https://github.com/flutter/flutter/pull/188372) opened on on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188372) 57 additions and 1 deletion in 2 files</sub><br />
 
@@ -188,14 +185,11 @@
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries method for all the cases with hard line breaks<br />
   <sub>[#189143](https://github.com/flutter/flutter/pull/189143) opened on on July 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189143) 103 additions and 55 deletions in 6 files</sub><br />
 
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fix dereference of nullptr in the moved-to-rect signal in the Linux embedder<br />
-  <sub>[#189152](https://github.com/flutter/flutter/pull/189152) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189152) 7 additions and 0 deletions in 1 file</sub><br />
-
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Validate plugin class/package identifiers to prevent GeneratedPluginRegistrant injection<br />
   <sub>[#189156](https://github.com/flutter/flutter/pull/189156) opened on on July 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189156) 122 additions and 22 deletions in 3 files</sub><br />
 
 * **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; Fix `TabBar` assertion to allow `indicatorWeight: 0` with a themed `indicator`<br />
-  <sub>[#189157](https://github.com/flutter/flutter/pull/189157) opened on on July 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189157) 103 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#189157](https://github.com/flutter/flutter/pull/189157) opened on on July 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189157) 103 additions and 4 deletions in 2 files</sub><br />
 
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Contain dependency-declared license paths within the package<br />
   <sub>[#189159](https://github.com/flutter/flutter/pull/189159) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189159) 57 additions and 0 deletions in 2 files</sub><br />
@@ -207,11 +201,11 @@
   <sub>[#189189](https://github.com/flutter/flutter/pull/189189) opened on on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189189) 17 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jeff Ward](https://github.com/fuzzybinary)** &mdash; fix(desktop): Keep an open log stream on desktop for integration testing.<br />
-  <sub>[#189192](https://github.com/flutter/flutter/pull/189192) opened on on July 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189192) 217 additions and 21 deletions in 3 files</sub><br />
+  <sub>[#189192](https://github.com/flutter/flutter/pull/189192) opened on on July 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189192) 220 additions and 21 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix data for design packages<br />
   <sub>[#189196](https://github.com/flutter/flutter/pull/189196) opened on on July 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189196) 16 additions and 0 deletions in 2 files</sub><br />
 
-* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds a missing `await` to a `FutureOr`<br />
-  <sub>[#189198](https://github.com/flutter/flutter/pull/189198) opened on on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189198) 1 addition and 1 deletion in 1 file</sub><br />
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
+  <sub>[#189203](https://github.com/flutter/flutter/pull/189203) opened on on July 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189203) 4 additions and 0 deletions in 1 file</sub><br />
 
