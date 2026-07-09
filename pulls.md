@@ -186,7 +186,7 @@
   <sub>[#189109](https://github.com/flutter/flutter/pull/189109) opened on on July 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189109) 41 additions and 44 deletions in 12 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries method for all the cases with hard line breaks<br />
-  <sub>[#189143](https://github.com/flutter/flutter/pull/189143) opened on on July 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189143) 95 additions and 53 deletions in 5 files</sub><br />
+  <sub>[#189143](https://github.com/flutter/flutter/pull/189143) opened on on July 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189143) 103 additions and 55 deletions in 6 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fix dereference of nullptr in the moved-to-rect signal in the Linux embedder<br />
   <sub>[#189152](https://github.com/flutter/flutter/pull/189152) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189152) 7 additions and 0 deletions in 1 file</sub><br />
@@ -201,8 +201,17 @@
   <sub>[#189159](https://github.com/flutter/flutter/pull/189159) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189159) 57 additions and 0 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move compositor frame ownership into the view renderers<br />
-  <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189162) 474 additions and 542 deletions in 13 files</sub><br />
+  <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/189162) 474 additions and 542 deletions in 13 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fix PopupWindowControllerLinux missing WindowControllerLinux implementation<br />
   <sub>[#189189](https://github.com/flutter/flutter/pull/189189) opened on on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189189) 17 additions and 1 deletion in 1 file</sub><br />
+
+* **[Jeff Ward](https://github.com/fuzzybinary)** &mdash; fix(desktop): Keep an open log stream on desktop for integration testing.<br />
+  <sub>[#189192](https://github.com/flutter/flutter/pull/189192) opened on on July 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189192) 217 additions and 21 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix data for design packages<br />
+  <sub>[#189196](https://github.com/flutter/flutter/pull/189196) opened on on July 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189196) 16 additions and 0 deletions in 2 files</sub><br />
+
+* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds a missing `await` to a `FutureOr`<br />
+  <sub>[#189198](https://github.com/flutter/flutter/pull/189198) opened on on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189198) 1 addition and 1 deletion in 1 file</sub><br />
 

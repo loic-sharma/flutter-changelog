@@ -722,7 +722,7 @@
 
 ### July 4, 2026 to July 10, 2026
 
-11 commits.
+14 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add pre-commit hook to verify static analysis passes & format is correct<br />
   <sub>[#11941](https://github.com/flutter/packages/pull/11941) merged on July 8, 2026 &mdash; **Large:** [64 comments](https://github.com/flutter/packages/pull/11941) over 2 weeks, 899 additions and 55 deletions in 19 files</sub><br />
@@ -736,6 +736,10 @@
   <sub>[#11616](https://github.com/flutter/packages/pull/11616) merged on July 6, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/packages/pull/11616) over 2 months, 671 additions and 17 deletions in 43 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin), [Camille Simon](https://github.com/camsim99)</sub><br />
 
+* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [pigeon] Add usage docs to generated Dart event channel methods<br />
+  <sub>[#11894](https://github.com/flutter/packages/pull/11894) merged on July 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/11894) over 3 weeks, 90 additions and 2 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[anirudhsharma392](https://github.com/anirudhsharma392)** &mdash; [local_auth] Clarify getAvailableBiometrics documentation regarding iOS permissions<br />
   <sub>[#11901](https://github.com/flutter/packages/pull/11901) merged on July 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11901) over 3 weeks, 10 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
@@ -748,6 +752,10 @@
   <sub>[#11932](https://github.com/flutter/packages/pull/11932) merged on July 6, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/11932) over 2 weeks, 32 additions and 3 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
+* **[sailendrabathi](https://github.com/sailendrabathi)** &mdash; [video_player_android] Implement backBufferDurationMs in ExoPlayer<br />
+  <sub>[#12124](https://github.com/flutter/packages/pull/12124) merged on July 9, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/12124) over 2 days, 746 additions and 355 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[Bruno Viana de Siqueira](https://github.com/brunovsiqueira)** &mdash; [google_sign_in_android] Fix IllegalStateException on duplicate authorization result<br />
   <sub>[#11984](https://github.com/flutter/packages/pull/11984) merged on July 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11984) over 1 week, 66 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Matt Boetger](https://github.com/mboetger)</sub><br />
@@ -755,6 +763,10 @@
 * **[saurabh-mirajkar](https://github.com/saurabh-mirajkar)** &mdash; [webview_flutter] Document NavigationDelegate callbacks<br />
   <sub>[#11921](https://github.com/flutter/packages/pull/11921) merged on July 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/11921) over 2 weeks, 13 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Ludwig Bolling](https://github.com/Bolling88)** &mdash; [camera_platform_interface] Make setJpegImageQuality default a no-op<br />
+  <sub>[#12123](https://github.com/flutter/packages/pull/12123) merged on July 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12123) over 2 days, 13 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Add a third web Dart unit test shard (2/2)<br />
   <sub>[#12150](https://github.com/flutter/packages/pull/12150) merged on July 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12150) over 14 hours, 4 additions and 6 deletions in 1 file</sub><br />
