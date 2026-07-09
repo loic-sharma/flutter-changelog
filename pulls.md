@@ -200,3 +200,6 @@
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Contain dependency-declared license paths within the package<br />
   <sub>[#189159](https://github.com/flutter/flutter/pull/189159) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189159) 57 additions and 0 deletions in 2 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move compositor frame ownership into the view renderers<br />
+  <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189162) 474 additions and 542 deletions in 13 files</sub><br />
+
