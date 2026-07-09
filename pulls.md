@@ -135,7 +135,7 @@
   <sub>[#188719](https://github.com/flutter/flutter/pull/188719) opened on on June 29, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/188719) 200 additions and 4 deletions in 2 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Preserve text field focus across tab switches<br />
-  <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188738) 144 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#188738](https://github.com/flutter/flutter/pull/188738) opened on on June 29, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188738) 145 additions and 3 deletions in 2 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Migrate time picker tests cases relying on localization from material_ui to flutter_localization<br />
   <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
@@ -170,17 +170,14 @@
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: Cache flutter engine when running vulkan backend instrumented tests<br />
+  <sub>[#189026](https://github.com/flutter/flutter/pull/189026) opened on on July 6, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/189026) 96 additions and 38 deletions in 2 files</sub><br />
+
 * **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2<br />
   <sub>[#189053](https://github.com/flutter/flutter/pull/189053) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Use devicectl for screenshots on Xcode 27<br />
-  <sub>[#189091](https://github.com/flutter/flutter/pull/189091) opened on on July 7, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/189091) 465 additions and 2 deletions in 5 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189103) 35 additions and 104 deletions in 10 files</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update Warn Version to AGP 9+<br />
-  <sub>[#189109](https://github.com/flutter/flutter/pull/189109) opened on on July 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189109) 41 additions and 44 deletions in 12 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries method for all the cases with hard line breaks<br />
   <sub>[#189143](https://github.com/flutter/flutter/pull/189143) opened on on July 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189143) 103 additions and 55 deletions in 6 files</sub><br />
@@ -206,6 +203,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix data for design packages<br />
   <sub>[#189196](https://github.com/flutter/flutter/pull/189196) opened on on July 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189196) 16 additions and 0 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
-  <sub>[#189203](https://github.com/flutter/flutter/pull/189203) opened on on July 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189203) 4 additions and 0 deletions in 1 file</sub><br />
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add CpuArch to devices to replace AndroidArch and DarwinArch<br />
+  <sub>[#189207](https://github.com/flutter/flutter/pull/189207) opened on on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189207) 226 additions and 2 deletions in 13 files</sub><br />
 
