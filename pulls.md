@@ -141,7 +141,7 @@
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices<br />
-  <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/188890) 47583 additions and 41703 deletions in 8 files</sub><br />
+  <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/188890) 47624 additions and 41707 deletions in 8 files</sub><br />
 
 * **[Yilong Li](https://github.com/gnoliyil)** &mdash; [fuchsia][iwyu] Remove transitive include of fuchsia.input.report.<br />
   <sub>[#188891](https://github.com/flutter/flutter/pull/188891) opened on on July 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188891) 0 additions and 1 deletion in 1 file</sub><br />
@@ -199,4 +199,7 @@
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add CpuArch to the Device class<br />
   <sub>[#189207](https://github.com/flutter/flutter/pull/189207) opened on on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189207) 230 additions and 2 deletions in 15 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Depdencies Used By `flutter_engine_group_performance`<br />
+  <sub>[#189229](https://github.com/flutter/flutter/pull/189229) opened on on July 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189229) 3 additions and 3 deletions in 2 files</sub><br />
 
