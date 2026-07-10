@@ -134,9 +134,6 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Migrate time picker tests cases relying on localization from material_ui to flutter_localization<br />
   <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [web] Repair RenderCanvas CSS size drift<br />
-  <sub>[#188797](https://github.com/flutter/flutter/pull/188797) opened on on June 30, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188797) 93 additions and 6 deletions in 2 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
 
@@ -199,7 +196,4 @@
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add CpuArch to the Device class<br />
   <sub>[#189207](https://github.com/flutter/flutter/pull/189207) opened on on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189207) 230 additions and 2 deletions in 15 files</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Depdencies Used By `flutter_engine_group_performance`<br />
-  <sub>[#189229](https://github.com/flutter/flutter/pull/189229) opened on on July 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189229) 3 additions and 3 deletions in 2 files</sub><br />
 
