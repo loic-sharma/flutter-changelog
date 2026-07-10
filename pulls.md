@@ -167,9 +167,6 @@
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries method for all the cases with hard line breaks<br />
   <sub>[#189143](https://github.com/flutter/flutter/pull/189143) opened on on July 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189143) 103 additions and 55 deletions in 6 files</sub><br />
 
-* **[Andy Wolff](https://github.com/andywolff)** &mdash; [android_hardware_smoke_test] Synchronize platform view compositing<br />
-  <sub>[#189151](https://github.com/flutter/flutter/pull/189151) opened on on July 8, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/189151) 139 additions and 71 deletions in 6 files</sub><br />
-
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Validate plugin class/package identifiers to prevent GeneratedPluginRegistrant injection<br />
   <sub>[#189156](https://github.com/flutter/flutter/pull/189156) opened on on July 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189156) 122 additions and 22 deletions in 3 files</sub><br />
 
@@ -202,4 +199,7 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove outdated logs that were added to track #172636<br />
   <sub>[#189282](https://github.com/flutter/flutter/pull/189282) opened on on July 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189282) 4 additions and 28 deletions in 3 files</sub><br />
+
+* **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
+  <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22499 additions and 0 deletions in 168 files</sub><br />
 
