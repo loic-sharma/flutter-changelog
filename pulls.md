@@ -135,7 +135,7 @@
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Playground expanded role<br />
-  <sub>[#188889](https://github.com/flutter/flutter/pull/188889) opened on on July 1, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/188889) 1674 additions and 610 deletions in 78 files</sub><br />
+  <sub>[#188889](https://github.com/flutter/flutter/pull/188889) opened on on July 1, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/188889) 1674 additions and 610 deletions in 78 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices<br />
   <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/188890) 47624 additions and 41707 deletions in 8 files</sub><br />
@@ -161,9 +161,6 @@
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: Cache flutter engine when running vulkan backend instrumented tests<br />
-  <sub>[#189026](https://github.com/flutter/flutter/pull/189026) opened on on July 6, 2026 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/189026) 96 additions and 38 deletions in 2 files</sub><br />
-
 * **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2<br />
   <sub>[#189053](https://github.com/flutter/flutter/pull/189053) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -172,6 +169,9 @@
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries method for all the cases with hard line breaks<br />
   <sub>[#189143](https://github.com/flutter/flutter/pull/189143) opened on on July 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189143) 103 additions and 55 deletions in 6 files</sub><br />
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; [android_hardware_smoke_test] Synchronize platform view compositing<br />
+  <sub>[#189151](https://github.com/flutter/flutter/pull/189151) opened on on July 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189151) 114 additions and 51 deletions in 5 files</sub><br />
 
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Validate plugin class/package identifiers to prevent GeneratedPluginRegistrant injection<br />
   <sub>[#189156](https://github.com/flutter/flutter/pull/189156) opened on on July 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189156) 122 additions and 22 deletions in 3 files</sub><br />
