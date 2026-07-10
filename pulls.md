@@ -155,9 +155,6 @@
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase number of 'Mac tool_integration_tests' subshards from 5 to 10<br />
-  <sub>[#189040](https://github.com/flutter/flutter/pull/189040) opened on on July 7, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189040) 150 additions and 15 deletions in 1 file</sub><br />
-
 * **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2<br />
   <sub>[#189053](https://github.com/flutter/flutter/pull/189053) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -202,4 +199,10 @@
 
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22499 additions and 0 deletions in 168 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Increase number of 'Mac tool_integration_tests' subshards from 5 to 10<br />
+  <sub>[#189299](https://github.com/flutter/flutter/pull/189299) opened on on July 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189299) 150 additions and 15 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Increase number of 'Mac tool_integration_tests' subshards from 5 to 10<br />
+  <sub>[#189300](https://github.com/flutter/flutter/pull/189300) opened on on July 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189300) 150 additions and 15 deletions in 1 file</sub><br />
 
