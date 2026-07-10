@@ -194,3 +194,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix data for design packages<br />
   <sub>[#189196](https://github.com/flutter/flutter/pull/189196) opened on on July 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189196) 16 additions and 0 deletions in 2 files</sub><br />
 
+* **[Zubascu Ionut](https://github.com/Zubii12)** &mdash; Catch error if decoding state restoration data fails<br />
+  <sub>[#189269](https://github.com/flutter/flutter/pull/189269) opened on on July 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189269) 53 additions and 1 deletion in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Android] Close FlutterRenderer texture image SyncFence objects immediately after waiting on them<br />
+  <sub>[#189272](https://github.com/flutter/flutter/pull/189272) opened on on July 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189272) 17 additions and 5 deletions in 2 files</sub><br />
+
