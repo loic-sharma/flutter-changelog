@@ -137,6 +137,9 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Playground expanded role<br />
+  <sub>[#188889](https://github.com/flutter/flutter/pull/188889) opened on on July 1, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/188889) 1674 additions and 610 deletions in 78 files</sub><br />
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices<br />
   <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/188890) 47624 additions and 41707 deletions in 8 files</sub><br />
 
@@ -162,7 +165,7 @@
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: Cache flutter engine when running vulkan backend instrumented tests<br />
-  <sub>[#189026](https://github.com/flutter/flutter/pull/189026) opened on on July 6, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/189026) 96 additions and 38 deletions in 2 files</sub><br />
+  <sub>[#189026](https://github.com/flutter/flutter/pull/189026) opened on on July 6, 2026 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/189026) 96 additions and 38 deletions in 2 files</sub><br />
 
 * **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2<br />
   <sub>[#189053](https://github.com/flutter/flutter/pull/189053) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) 1 addition and 1 deletion in 1 file</sub><br />
@@ -195,5 +198,5 @@
   <sub>[#189196](https://github.com/flutter/flutter/pull/189196) opened on on July 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189196) 16 additions and 0 deletions in 2 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add CpuArch to the Device class<br />
-  <sub>[#189207](https://github.com/flutter/flutter/pull/189207) opened on on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189207) 230 additions and 2 deletions in 15 files</sub><br />
+  <sub>[#189207](https://github.com/flutter/flutter/pull/189207) opened on on July 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189207) 230 additions and 2 deletions in 15 files</sub><br />
 
