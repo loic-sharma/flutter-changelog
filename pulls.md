@@ -32,9 +32,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix multi-view sizing race condition (Lock approach)<br />
   <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/185622) 114 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ortes](https://github.com/Ortes)** &mdash; [skwasm][canvaskit] Honor Paint.filterQuality in Canvas.drawAtlas<br />
-  <sub>[#186108](https://github.com/flutter/flutter/pull/186108) opened on on May 6, 2026 &mdash; **Small:** [35 comments](https://github.com/flutter/flutter/pull/186108) 129 additions and 11 deletions in 8 files</sub><br />
-
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
 
@@ -135,10 +132,10 @@
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Playground expanded role<br />
-  <sub>[#188889](https://github.com/flutter/flutter/pull/188889) opened on on July 1, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/188889) 1674 additions and 610 deletions in 78 files</sub><br />
+  <sub>[#188889](https://github.com/flutter/flutter/pull/188889) opened on on July 1, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/188889) 1708 additions and 610 deletions in 78 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices<br />
-  <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/188890) 47624 additions and 41707 deletions in 8 files</sub><br />
+  <sub>[#188890](https://github.com/flutter/flutter/pull/188890) opened on on July 1, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/188890) 47623 additions and 41706 deletions in 8 files</sub><br />
 
 * **[Yilong Li](https://github.com/gnoliyil)** &mdash; [fuchsia][iwyu] Remove transitive include of fuchsia.input.report.<br />
   <sub>[#188891](https://github.com/flutter/flutter/pull/188891) opened on on July 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188891) 0 additions and 1 deletion in 1 file</sub><br />
@@ -171,7 +168,7 @@
   <sub>[#189143](https://github.com/flutter/flutter/pull/189143) opened on on July 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189143) 103 additions and 55 deletions in 6 files</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; [android_hardware_smoke_test] Synchronize platform view compositing<br />
-  <sub>[#189151](https://github.com/flutter/flutter/pull/189151) opened on on July 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189151) 114 additions and 51 deletions in 5 files</sub><br />
+  <sub>[#189151](https://github.com/flutter/flutter/pull/189151) opened on on July 8, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/189151) 139 additions and 71 deletions in 6 files</sub><br />
 
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Validate plugin class/package identifiers to prevent GeneratedPluginRegistrant injection<br />
   <sub>[#189156](https://github.com/flutter/flutter/pull/189156) opened on on July 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189156) 122 additions and 22 deletions in 3 files</sub><br />
@@ -185,9 +182,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move compositor frame ownership into the view renderers<br />
   <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/189162) 474 additions and 542 deletions in 13 files</sub><br />
 
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Fix PopupWindowControllerLinux missing WindowControllerLinux implementation<br />
-  <sub>[#189189](https://github.com/flutter/flutter/pull/189189) opened on on July 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189189) 17 additions and 1 deletion in 1 file</sub><br />
-
 * **[Jeff Ward](https://github.com/fuzzybinary)** &mdash; fix(desktop): Keep an open log stream on desktop for integration testing.<br />
   <sub>[#189192](https://github.com/flutter/flutter/pull/189192) opened on on July 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189192) 220 additions and 21 deletions in 3 files</sub><br />
 
@@ -199,4 +193,13 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Android] Close FlutterRenderer texture image SyncFence objects immediately after waiting on them<br />
   <sub>[#189272](https://github.com/flutter/flutter/pull/189272) opened on on July 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189272) 17 additions and 5 deletions in 2 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean android engine/embedding tests<br />
+  <sub>[#189276](https://github.com/flutter/flutter/pull/189276) opened on on July 10, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189276) 182 additions and 186 deletions in 22 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `AccessibilityEventsDelegateTest.java`<br />
+  <sub>[#189280](https://github.com/flutter/flutter/pull/189280) opened on on July 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189280) 4 additions and 4 deletions in 1 file</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove outdated logs that were added to track #172636<br />
+  <sub>[#189282](https://github.com/flutter/flutter/pull/189282) opened on on July 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189282) 4 additions and 28 deletions in 3 files</sub><br />
 
