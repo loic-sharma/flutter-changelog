@@ -212,3 +212,6 @@
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add support for WASM deferred loading.<br />
   <sub>[#189308](https://github.com/flutter/flutter/pull/189308) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189308) 229 additions and 14 deletions in 7 files</sub><br />
 
+* **[udit](https://github.com/UditDewan)** &mdash; Echo desktop app stderr as error output<br />
+  <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
+
