@@ -1253,7 +1253,7 @@
 
 ### July 4, 2026 to July 10, 2026
 
-10 commits.
+11 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Add breaking change notice for OpenGL ES render-to-texture orientation<br />
   <sub>[#13419](https://github.com/flutter/website/pull/13419) merged on July 7, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13419) over 1 month, 102 additions and 0 deletions in 2 files</sub><br />
@@ -1274,6 +1274,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add redirect for the GitHub windowing example<br />
   <sub>[#13557](https://github.com/flutter/website/pull/13557) merged on July 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13557) over 21 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Connie Ooi ](https://github.com/conooi)** &mdash; Secure GitHub Actions workflow<br />
+  <sub>[#13569](https://github.com/flutter/website/pull/13569) merged on July 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13569) over 4 hours, 22 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Create release notes for DevTools 2.60.0<br />
   <sub>[#13565](https://github.com/flutter/website/pull/13565) merged on July 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13565) over 6 hours, 62 additions and 0 deletions in 1 file</sub><br />
