@@ -215,3 +215,6 @@
 * **[udit](https://github.com/UditDewan)** &mdash; Echo desktop app stderr as error output<br />
   <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
 
+* **[Zubascu Ionut](https://github.com/Zubii12)** &mdash; Remove unnecessary Material import from navigator_restoration_test<br />
+  <sub>[#189324](https://github.com/flutter/flutter/pull/189324) opened on on July 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189324) 62 additions and 26 deletions in 3 files</sub><br />
+
