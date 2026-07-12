@@ -15,14 +15,14 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
   <sub><details><summary>1 image...</summary><img height="300" alt="image" src="https://github.com/user-attachments/assets/98fdc589-dc91-4b70-b848-64dc6c9409cf" /></details></sub>
 
+* **[Ortes](https://github.com/Ortes)** &mdash; Expose the app's build name and number as compile-time constants
+  <sub>[#187935](https://github.com/flutter/flutter/pull/187935) merged on July 8, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/187935) over 3 weeks, 330 additions and 10 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`
   <sub>[#188163](https://github.com/flutter/flutter/pull/188163) merged on July 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188163) over 2 weeks, 9 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
   <sub><details><summary>2 images...</summary><img width="542" height="169" alt="Screenshot 2026-07-03 at 09 19 03" src="https://github.com/user-attachments/assets/f8762286-f487-4114-b4a4-88d3caec6b8c" /><img width="549" height="143" alt="Screenshot 2026-07-03 at 09 37 13" src="https://github.com/user-attachments/assets/ef09aaa3-5b85-48f7-b181-f9ccb6287dfd" /></details></sub>
-
-* **[Ortes](https://github.com/Ortes)** &mdash; Expose the app's build name and number as compile-time constants
-  <sub>[#187935](https://github.com/flutter/flutter/pull/187935) merged on July 8, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/187935) over 3 weeks, 330 additions and 10 deletions in 9 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix TextSelectionOverlay crash when layout is degenerate
   <sub>[#188672](https://github.com/flutter/flutter/pull/188672) merged on July 7, 2026 &mdash; **Medium:** [37 comments](https://github.com/flutter/flutter/pull/188672) over 1 week, 309 additions and 63 deletions in 5 files</sub>

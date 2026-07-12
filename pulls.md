@@ -218,3 +218,6 @@
 * **[Zubascu Ionut](https://github.com/Zubii12)** &mdash; Remove unnecessary Material import from navigator_restoration_test<br />
   <sub>[#189324](https://github.com/flutter/flutter/pull/189324) opened on on July 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189324) 62 additions and 26 deletions in 3 files</sub><br />
 
+* **[Ivan Chau](https://github.com/ivanchaukn)** &mdash; Add binary channel for IME content insertion to avoid JSON-serializing large media<br />
+  <sub>[#189335](https://github.com/flutter/flutter/pull/189335) opened on on July 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189335) 130 additions and 0 deletions in 4 files</sub><br />
+
