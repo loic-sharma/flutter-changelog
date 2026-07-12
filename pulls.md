@@ -224,3 +224,6 @@
 * **[osaki](https://github.com/motucraft)** &mdash; Treat CRLF like LF in LicenseEntryWithLineBreaks<br />
   <sub>[#189336](https://github.com/flutter/flutter/pull/189336) opened on on July 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189336) 22 additions and 2 deletions in 2 files</sub><br />
 
+* **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; Fix `todayBorder` color being overridden by `todayForegroundColor` in `YearPicker`<br />
+  <sub>[#189345](https://github.com/flutter/flutter/pull/189345) opened on on July 12, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/189345) 251 additions and 188 deletions in 2 files</sub><br />
+
