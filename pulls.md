@@ -219,7 +219,7 @@
   <sub>[#189324](https://github.com/flutter/flutter/pull/189324) opened on on July 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189324) 62 additions and 26 deletions in 3 files</sub><br />
 
 * **[Ivan Chau](https://github.com/ivanchaukn)** &mdash; Add binary channel for IME content insertion to avoid JSON-serializing large media<br />
-  <sub>[#189335](https://github.com/flutter/flutter/pull/189335) opened on on July 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189335) 130 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#189335](https://github.com/flutter/flutter/pull/189335) opened on on July 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189335) 124 additions and 0 deletions in 4 files</sub><br />
 
 * **[osaki](https://github.com/motucraft)** &mdash; Treat CRLF like LF in LicenseEntryWithLineBreaks<br />
   <sub>[#189336](https://github.com/flutter/flutter/pull/189336) opened on on July 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189336) 22 additions and 2 deletions in 2 files</sub><br />
