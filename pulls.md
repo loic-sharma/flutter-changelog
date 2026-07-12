@@ -221,3 +221,6 @@
 * **[Ivan Chau](https://github.com/ivanchaukn)** &mdash; Add binary channel for IME content insertion to avoid JSON-serializing large media<br />
   <sub>[#189335](https://github.com/flutter/flutter/pull/189335) opened on on July 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189335) 130 additions and 0 deletions in 4 files</sub><br />
 
+* **[osaki](https://github.com/motucraft)** &mdash; Treat CRLF like LF in LicenseEntryWithLineBreaks<br />
+  <sub>[#189336](https://github.com/flutter/flutter/pull/189336) opened on on July 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189336) 22 additions and 2 deletions in 2 files</sub><br />
+
