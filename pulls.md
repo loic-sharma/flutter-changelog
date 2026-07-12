@@ -198,7 +198,7 @@
   <sub>[#189282](https://github.com/flutter/flutter/pull/189282) opened on on July 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189282) 4 additions and 28 deletions in 3 files</sub><br />
 
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
-  <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22856 additions and 0 deletions in 171 files</sub><br />
+  <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22894 additions and 0 deletions in 172 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Increase number of 'Mac tool_integration_tests' subshards from 5 to 10<br />
   <sub>[#189299](https://github.com/flutter/flutter/pull/189299) opened on on July 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189299) 150 additions and 15 deletions in 1 file</sub><br />
