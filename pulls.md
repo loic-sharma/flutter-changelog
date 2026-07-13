@@ -207,16 +207,13 @@
   <sub>[#189303](https://github.com/flutter/flutter/pull/189303) opened on on July 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189303) 9 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add support for WASM deferred loading.<br />
-  <sub>[#189308](https://github.com/flutter/flutter/pull/189308) opened on on July 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189308) 228 additions and 14 deletions in 7 files</sub><br />
+  <sub>[#189308](https://github.com/flutter/flutter/pull/189308) opened on on July 11, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189308) 260 additions and 14 deletions in 8 files</sub><br />
 
 * **[udit](https://github.com/UditDewan)** &mdash; Echo desktop app stderr as error output<br />
   <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
 
 * **[Zubascu Ionut](https://github.com/Zubii12)** &mdash; Remove unnecessary Material import from navigator_restoration_test<br />
   <sub>[#189324](https://github.com/flutter/flutter/pull/189324) opened on on July 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189324) 62 additions and 26 deletions in 3 files</sub><br />
-
-* **[Ivan Chau](https://github.com/ivanchaukn)** &mdash; Add binary channel for IME content insertion to avoid JSON-serializing large media<br />
-  <sub>[#189335](https://github.com/flutter/flutter/pull/189335) opened on on July 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189335) 124 additions and 0 deletions in 4 files</sub><br />
 
 * **[osaki](https://github.com/motucraft)** &mdash; Treat CRLF like LF in LicenseEntryWithLineBreaks<br />
   <sub>[#189336](https://github.com/flutter/flutter/pull/189336) opened on on July 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189336) 22 additions and 2 deletions in 2 files</sub><br />
@@ -232,4 +229,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Move a few benchmarks from x64 Intel Macs to ARM<br />
   <sub>[#189399](https://github.com/flutter/flutter/pull/189399) opened on on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189399) 6 additions and 3 deletions in 1 file</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move renamed x64->ARM benchmarks out of bringup<br />
+  <sub>[#189400](https://github.com/flutter/flutter/pull/189400) opened on on July 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189400) 0 additions and 3 deletions in 1 file</sub><br />
 

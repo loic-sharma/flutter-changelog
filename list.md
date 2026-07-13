@@ -613,7 +613,12 @@
 
 ### July 11, 2026 to July 17, 2026
 
-6 commits.
+7 commits.
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Add `#region` to example files to remove license headers
+  <sub>[#12170](https://github.com/flutter/packages/pull/12170) merged on July 13, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/12170) over 3 days, 915 additions and 315 deletions in 410 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+  <sub><details><summary>2 images...</summary><img width="738" height="710" alt="image" src="https://github.com/user-attachments/assets/04069857-c590-470e-9682-bc601071bbc7" /><img width="739" height="716" alt="image" src="https://github.com/user-attachments/assets/7face8b4-8f01-4c94-81a7-0bbdf26afd14" /></details></sub>
 
 * **[shrabanti722](https://github.com/shrabanti722)** &mdash; [video_player] Implement screen auto-lock control for video playback
   <sub>[#11225](https://github.com/flutter/packages/pull/11225) merged on July 13, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/packages/pull/11225) over 4 months, 116 additions and 10 deletions in 4 files</sub>
@@ -955,7 +960,11 @@
 
 ### July 11, 2026 to July 17, 2026
 
-3 commits.
+4 commits.
+
+* **[Dmitry Grand (dmgr)](https://github.com/ievdokdm)** &mdash; added link to unified flutter check run user manual
+  <sub>[#13575](https://github.com/flutter/website/pull/13575) merged on July 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13575) over 19 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Prateek Jain](https://github.com/prateek601)** &mdash; Update documentation to reflect widget tests terminology
   <sub>[#13546](https://github.com/flutter/website/pull/13546) merged on July 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13546) over 2 weeks, 2 additions and 2 deletions in 1 file</sub>
