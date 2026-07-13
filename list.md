@@ -2,9 +2,26 @@
 
 ## flutter/flutter
 
+### July 11, 2026 to July 17, 2026
+
+3 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices
+  <sub>[#188890](https://github.com/flutter/flutter/pull/188890) merged on July 13, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/188890) over 1 week, 47623 additions and 41706 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zhongliugo](https://github.com/flutter-zl)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Take Mac tool_integration_tests_* out of bringup
+  <sub>[#189368](https://github.com/flutter/flutter/pull/189368) merged on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189368) over 2 hours, 0 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Roll record_use to 1.0 and unpin
+  <sub>[#189366](https://github.com/flutter/flutter/pull/189366) merged on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189366) over 2 hours, 38 additions and 43 deletions in 13 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 ### July 4, 2026 to July 10, 2026
 
-71 commits.
+<details>
+<summary>71 commits...</summary>
 
 * **[Angelo Cassano](https://github.com/AngeloAvv)** &mdash; Add --flavor support for Linux desktop builds
   <sub>[#187029](https://github.com/flutter/flutter/pull/187029) merged on July 7, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/187029) over 1 month, 813 additions and 15 deletions in 25 files</sub>
@@ -293,6 +310,8 @@
   <sub>[#188803](https://github.com/flutter/flutter/pull/188803) merged on July 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188803) over 5 days, 30 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
+</details>
+
 ### June 27, 2026 to July 3, 2026
 
 <details>
@@ -566,7 +585,11 @@
 
 ### July 11, 2026 to July 17, 2026
 
-5 commits.
+6 commits.
+
+* **[shrabanti722](https://github.com/shrabanti722)** &mdash; [video_player] Implement screen auto-lock control for video playback
+  <sub>[#11225](https://github.com/flutter/packages/pull/11225) merged on July 13, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/packages/pull/11225) over 4 months, 116 additions and 10 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [pigeon] Report a clear error for enhanced enums
   <sub>[#11880](https://github.com/flutter/packages/pull/11880) merged on July 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/11880) over 1 month, 153 additions and 3 deletions in 5 files</sub>
@@ -904,7 +927,15 @@
 
 ### July 11, 2026 to July 17, 2026
 
-1 commits.
+3 commits.
+
+* **[Prateek Jain](https://github.com/prateek601)** &mdash; Update documentation to reflect widget tests terminology
+  <sub>[#13546](https://github.com/flutter/website/pull/13546) merged on July 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13546) over 2 weeks, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Android 17 launched in June
+  <sub>[#13573](https://github.com/flutter/website/pull/13573) merged on July 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13573) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Rename flutter/skills to flutter/agent-plugins
   <sub>[#13568](https://github.com/flutter/website/pull/13568) merged on July 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13568) over 2 days, 12 additions and 5 deletions in 1 file</sub>
@@ -987,8 +1018,8 @@
 3 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [listen] Creates listen package
-  <sub>[#24](https://github.com/flutter/core-packages/pull/24) merged on July 7, 2026 &mdash; **Extra large:** [36 comments](https://github.com/flutter/core-packages/pull/24) over 3 weeks, 1649 additions and 0 deletions in 19 files</sub>
-  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Remi Rousselet](https://github.com/rrousselGit), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+  <sub>[#24](https://github.com/flutter/core-packages/pull/24) merged on July 7, 2026 &mdash; **Extra large:** [38 comments](https://github.com/flutter/core-packages/pull/24) over 3 weeks, 1649 additions and 0 deletions in 19 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Remi Rousselet](https://github.com/rrousselGit), [gemini-code-assist](https://github.com/apps/gemini-code-assist), and [1 other](https://github.com/flutter/core-packages/pull/24)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [listen] improve onError API
   <sub>[#29](https://github.com/flutter/core-packages/pull/29) merged on July 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/core-packages/pull/29) over 21 hours, 125 additions and 34 deletions in 4 files</sub>
