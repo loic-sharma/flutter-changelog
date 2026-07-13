@@ -102,7 +102,7 @@
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
-  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/188544) 234 additions and 93 deletions in 18 files</sub><br />
+  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/188544) 234 additions and 93 deletions in 18 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
@@ -153,7 +153,7 @@
   <sub>[#189053](https://github.com/flutter/flutter/pull/189053) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Use devicectl for screenshots on Xcode 27, remove idevicescreenshot artifact<br />
-  <sub>[#189091](https://github.com/flutter/flutter/pull/189091) opened on on July 7, 2026 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/189091) 415 additions and 123 deletions in 10 files</sub><br />
+  <sub>[#189091](https://github.com/flutter/flutter/pull/189091) opened on on July 7, 2026 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/189091) 412 additions and 125 deletions in 10 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189103) 35 additions and 104 deletions in 10 files</sub><br />
@@ -223,7 +223,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix ADB device listing output parsing regression<br />
   <sub>[#189369](https://github.com/flutter/flutter/pull/189369) opened on on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189369) 71 additions and 7 deletions in 2 files</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move a few benchmarks from x64 Intel Macs to ARM<br />
-  <sub>[#189377](https://github.com/flutter/flutter/pull/189377) opened on on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189377) 6 additions and 3 deletions in 1 file</sub><br />
 

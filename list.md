@@ -4,11 +4,23 @@
 
 ### July 11, 2026 to July 17, 2026
 
-3 commits.
+6 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices
   <sub>[#188890](https://github.com/flutter/flutter/pull/188890) merged on July 13, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/188890) over 1 week, 47623 additions and 41706 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zhongliugo](https://github.com/flutter-zl)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move a few benchmarks from x64 Intel Macs to ARM
+  <sub>[#189377](https://github.com/flutter/flutter/pull/189377) merged on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189377) over 1 hour, 6 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets
+  <sub>[#186788](https://github.com/flutter/flutter/pull/186788) merged on July 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186788) over 1 month, 52 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add note that `hcpp` needs impeller
+  <sub>[#189382](https://github.com/flutter/flutter/pull/189382) merged on July 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189382) over 12 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take Mac tool_integration_tests_* out of bringup
   <sub>[#189368](https://github.com/flutter/flutter/pull/189368) merged on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189368) over 2 hours, 0 additions and 10 deletions in 1 file</sub>
