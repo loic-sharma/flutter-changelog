@@ -101,6 +101,9 @@
 * **[huangyouhua1](https://github.com/huangyouhua1)** &mdash; Add tests for flutter_view and platform_view examples<br />
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to 0582f446e54a<br />
+  <sub>[#188524](https://github.com/flutter/flutter/pull/188524) opened on on June 24, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/188524) 2802 additions and 1275 deletions in 7 files</sub><br />
+
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
   <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/188544) 234 additions and 93 deletions in 18 files</sub><br />
 
@@ -223,9 +226,6 @@
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix Tooltip losing its semantics label when TooltipVisibility.visible is false<br />
   <sub>[#189362](https://github.com/flutter/flutter/pull/189362) opened on on July 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189362) 68 additions and 0 deletions in 2 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix ADB device listing output parsing regression<br />
-  <sub>[#189369](https://github.com/flutter/flutter/pull/189369) opened on on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189369) 71 additions and 7 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Move a few benchmarks from x64 Intel Macs to ARM<br />
   <sub>[#189398](https://github.com/flutter/flutter/pull/189398) opened on on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189398) 6 additions and 3 deletions in 1 file</sub><br />

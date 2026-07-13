@@ -4,7 +4,11 @@
 
 ### July 11, 2026 to July 17, 2026
 
-7 commits.
+10 commits.
+
+* **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 4<br />
+  <sub>[#185187](https://github.com/flutter/flutter/pull/185187) merged on July 13, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/185187) over 2 months, 1402 additions and 1348 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices<br />
   <sub>[#188890](https://github.com/flutter/flutter/pull/188890) merged on July 13, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/188890) over 1 week, 47623 additions and 41706 deletions in 8 files</sub><br />
@@ -22,6 +26,10 @@
   <sub>[#186788](https://github.com/flutter/flutter/pull/186788) merged on July 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186788) over 1 month, 52 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove  outdated todo about `analysis bug on Windows` and update condition to also perform `analysis on windows`<br />
+  <sub>[#189283](https://github.com/flutter/flutter/pull/189283) merged on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189283) over 3 days, 1 addition and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add note that `hcpp` needs impeller<br />
   <sub>[#189382](https://github.com/flutter/flutter/pull/189382) merged on July 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189382) over 12 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
@@ -33,6 +41,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Roll record_use to 1.0 and unpin<br />
   <sub>[#189366](https://github.com/flutter/flutter/pull/189366) merged on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189366) over 2 hours, 38 additions and 43 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix ADB device listing output parsing regression<br />
+  <sub>[#189369](https://github.com/flutter/flutter/pull/189369) merged on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189369) over 2 hours, 71 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 ### July 4, 2026 to July 10, 2026
 
