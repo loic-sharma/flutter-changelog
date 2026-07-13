@@ -117,7 +117,7 @@
   <sub>[#188651](https://github.com/flutter/flutter/pull/188651) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188651) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix null terminator in input truncates clipboard<br />
-  <sub>[#188652](https://github.com/flutter/flutter/pull/188652) opened on on June 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188652) 41 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#188652](https://github.com/flutter/flutter/pull/188652) opened on on June 26, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188652) 41 additions and 7 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
@@ -229,4 +229,10 @@
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix Tooltip losing its semantics label when TooltipVisibility.visible is false<br />
   <sub>[#189362](https://github.com/flutter/flutter/pull/189362) opened on on July 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189362) 68 additions and 0 deletions in 2 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Take Mac tool_integration_tests_* out of bringup<br />
+  <sub>[#189368](https://github.com/flutter/flutter/pull/189368) opened on on July 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189368) 0 additions and 10 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix ADB device listing output parsing regression<br />
+  <sub>[#189369](https://github.com/flutter/flutter/pull/189369) opened on on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189369) 71 additions and 7 deletions in 2 files</sub><br />
 
