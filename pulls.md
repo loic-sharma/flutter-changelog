@@ -227,3 +227,6 @@
 * **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; Fix `todayBorder` color being overridden by `todayForegroundColor` in `YearPicker`<br />
   <sub>[#189345](https://github.com/flutter/flutter/pull/189345) opened on on July 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189345) 251 additions and 188 deletions in 2 files</sub><br />
 
+* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix Tooltip losing its semantics label when TooltipVisibility.visible is false<br />
+  <sub>[#189362](https://github.com/flutter/flutter/pull/189362) opened on on July 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189362) 68 additions and 0 deletions in 2 files</sub><br />
+
