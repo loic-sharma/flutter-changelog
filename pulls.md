@@ -200,12 +200,6 @@
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22894 additions and 0 deletions in 172 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Increase number of 'Mac tool_integration_tests' subshards from 5 to 10<br />
-  <sub>[#189299](https://github.com/flutter/flutter/pull/189299) opened on on July 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189299) 150 additions and 15 deletions in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Increase number of 'Mac tool_integration_tests' subshards from 5 to 10<br />
-  <sub>[#189300](https://github.com/flutter/flutter/pull/189300) opened on on July 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189300) 150 additions and 15 deletions in 1 file</sub><br />
-
 * **[guszxtavo](https://github.com/guszxtavo)** &mdash; [Impeller] Enable ETC2/ASTC LDR/BC texture compression features at Vulkan device creation<br />
   <sub>[#189303](https://github.com/flutter/flutter/pull/189303) opened on on July 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189303) 9 additions and 0 deletions in 1 file</sub><br />
 
@@ -230,9 +224,9 @@
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix Tooltip losing its semantics label when TooltipVisibility.visible is false<br />
   <sub>[#189362](https://github.com/flutter/flutter/pull/189362) opened on on July 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189362) 68 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Take Mac tool_integration_tests_* out of bringup<br />
-  <sub>[#189368](https://github.com/flutter/flutter/pull/189368) opened on on July 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189368) 0 additions and 10 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix ADB device listing output parsing regression<br />
   <sub>[#189369](https://github.com/flutter/flutter/pull/189369) opened on on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189369) 71 additions and 7 deletions in 2 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move a few benchmarks from x64 Intel Macs to ARM<br />
+  <sub>[#189377](https://github.com/flutter/flutter/pull/189377) opened on on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189377) 6 additions and 3 deletions in 1 file</sub><br />
 
