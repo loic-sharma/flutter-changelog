@@ -194,9 +194,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary value key hack in `key.dart` <br />
   <sub>[#189291](https://github.com/flutter/flutter/pull/189291) opened on on July 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189291) 1 addition and 3 deletions in 1 file</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [WIP] [CP-Beta] Raise Warn Version to AGP 9+<br />
-  <sub>[#189293](https://github.com/flutter/flutter/pull/189293) opened on on July 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189293) 44 additions and 47 deletions in 14 files</sub><br />
-
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22887 additions and 0 deletions in 172 files</sub><br />
 
