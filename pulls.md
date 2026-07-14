@@ -117,7 +117,7 @@
   <sub>[#188651](https://github.com/flutter/flutter/pull/188651) opened on on June 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188651) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix null terminator in input truncates clipboard<br />
-  <sub>[#188652](https://github.com/flutter/flutter/pull/188652) opened on on June 26, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188652) 43 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#188652](https://github.com/flutter/flutter/pull/188652) opened on on June 26, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188652) 43 additions and 7 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
@@ -233,9 +233,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bumped Engine AGP Dependencies to 9.1.0 for 3.50<br />
   <sub>[#189417](https://github.com/flutter/flutter/pull/189417) opened on on July 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189417) 3 additions and 3 deletions in 3 files</sub><br />
 
-* **[holzgeist](https://github.com/holzgeist)** &mdash; [beta] fix: limit render size of custom elements<br />
-  <sub>[#189427](https://github.com/flutter/flutter/pull/189427) opened on on July 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189427) 56 additions and 3 deletions in 2 files</sub><br />
-
 * **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; [flutter_tools] Parse single-space wireless ADB device output<br />
   <sub>[#189431](https://github.com/flutter/flutter/pull/189431) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189431) 21 additions and 4 deletions in 2 files</sub><br />
 
@@ -244,4 +241,7 @@
 
 * **[pierre](https://github.com/guidezpl)** &mdash; Add missing name to mirroring workflow<br />
   <sub>[#189439](https://github.com/flutter/flutter/pull/189439) opened on on July 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189439) 2 additions and 1 deletion in 1 file</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
+  <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
 

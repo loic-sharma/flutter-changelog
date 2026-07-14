@@ -633,7 +633,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-8 commits.
+10 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Add `#region` to example files to remove license headers
   <sub>[#12170](https://github.com/flutter/packages/pull/12170) merged on July 13, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/12170) over 3 days, 915 additions and 315 deletions in 410 files</sub>
@@ -648,6 +648,10 @@
   <sub>[#11880](https://github.com/flutter/packages/pull/11880) merged on July 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/11880) over 1 month, 153 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Convert legacy tests to Kotlin
+  <sub>[#12193](https://github.com/flutter/packages/pull/12193) merged on July 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/12193) over 19 hours, 332 additions and 369 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui] Remove unused example files 
   <sub>[#12179](https://github.com/flutter/packages/pull/12179) merged on July 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/12179) over 2 days, 0 additions and 1751 deletions in 16 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
@@ -659,6 +663,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Convert legacy codepath to Kotlin
   <sub>[#12139](https://github.com/flutter/packages/pull/12139) merged on July 13, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/12139) over 5 days, 196 additions and 241 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Simon Binder](https://github.com/simolus3)** &mdash; [go_router_builder] Support analyzer 13
+  <sub>[#12189](https://github.com/flutter/packages/pull/12189) merged on July 14, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/12189) over 1 day, 4 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Migrate `@macro`s that are defined in Material and used in Cupertino
   <sub>[#12197](https://github.com/flutter/packages/pull/12197) merged on July 13, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/12197) over 4 hours, 256 additions and 256 deletions in 49 files</sub>
