@@ -234,7 +234,7 @@
   <sub>[#189417](https://github.com/flutter/flutter/pull/189417) opened on on July 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189417) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; [beta] fix: limit render size of custom elements<br />
-  <sub>[#189427](https://github.com/flutter/flutter/pull/189427) opened on on July 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189427) 24 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#189427](https://github.com/flutter/flutter/pull/189427) opened on on July 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189427) 56 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; [flutter_tools] Parse single-space wireless ADB device output<br />
   <sub>[#189431](https://github.com/flutter/flutter/pull/189431) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189431) 21 additions and 4 deletions in 2 files</sub><br />
