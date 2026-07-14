@@ -152,9 +152,6 @@
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2<br />
-  <sub>[#189053](https://github.com/flutter/flutter/pull/189053) opened on on July 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Use devicectl for screenshots on Xcode 27, remove idevicescreenshot artifact<br />
   <sub>[#189091](https://github.com/flutter/flutter/pull/189091) opened on on July 7, 2026 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/189091) 412 additions and 125 deletions in 10 files</sub><br />
 
@@ -200,6 +197,9 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary value key hack in `key.dart` <br />
   <sub>[#189291](https://github.com/flutter/flutter/pull/189291) opened on on July 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189291) 1 addition and 3 deletions in 1 file</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [CP-Beta] Raise Warn Version to AGP 9+<br />
+  <sub>[#189293](https://github.com/flutter/flutter/pull/189293) opened on on July 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189293) 59 additions and 62 deletions in 26 files</sub><br />
+
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22894 additions and 0 deletions in 172 files</sub><br />
 
@@ -232,4 +232,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move renamed x64->ARM benchmarks out of bringup<br />
   <sub>[#189400](https://github.com/flutter/flutter/pull/189400) opened on on July 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189400) 0 additions and 3 deletions in 1 file</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Bumped Engine AGP Dependencies to 9.1.0 for 3.50<br />
+  <sub>[#189417](https://github.com/flutter/flutter/pull/189417) opened on on July 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189417) 3 additions and 3 deletions in 3 files</sub><br />
 

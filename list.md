@@ -4,7 +4,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-10 commits.
+11 commits.
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 4
   <sub>[#185187](https://github.com/flutter/flutter/pull/185187) merged on July 13, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/185187) over 2 months, 1402 additions and 1348 deletions in 10 files</sub>
@@ -25,6 +25,10 @@
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets
   <sub>[#186788](https://github.com/flutter/flutter/pull/186788) merged on July 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186788) over 1 month, 52 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2
+  <sub>[#189053](https://github.com/flutter/flutter/pull/189053) merged on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) over 6 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove  outdated todo about `analysis bug on Windows` and update condition to also perform `analysis on windows`
   <sub>[#189283](https://github.com/flutter/flutter/pull/189283) merged on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189283) over 3 days, 1 addition and 7 deletions in 1 file</sub>
