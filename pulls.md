@@ -131,6 +131,9 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Move WindowManager outside of WidgetsApp<br />
+  <sub>[#188866](https://github.com/flutter/flutter/pull/188866) opened on on July 1, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/188866) 50 additions and 164 deletions in 10 files</sub><br />
+
 * **[Yilong Li](https://github.com/gnoliyil)** &mdash; [fuchsia][iwyu] Remove transitive include of fuchsia.input.report.<br />
   <sub>[#188891](https://github.com/flutter/flutter/pull/188891) opened on on July 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188891) 0 additions and 1 deletion in 1 file</sub><br />
 
