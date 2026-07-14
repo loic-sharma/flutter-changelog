@@ -105,7 +105,7 @@
   <sub>[#188524](https://github.com/flutter/flutter/pull/188524) opened on on June 24, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/188524) 2802 additions and 1275 deletions in 7 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
-  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/188544) 234 additions and 93 deletions in 18 files</sub><br />
+  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/188544) 233 additions and 93 deletions in 18 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
@@ -197,9 +197,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary value key hack in `key.dart` <br />
   <sub>[#189291](https://github.com/flutter/flutter/pull/189291) opened on on July 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189291) 1 addition and 3 deletions in 1 file</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [CP-Beta] Raise Warn Version to AGP 9+<br />
-  <sub>[#189293](https://github.com/flutter/flutter/pull/189293) opened on on July 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189293) 59 additions and 62 deletions in 26 files</sub><br />
-
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22894 additions and 0 deletions in 172 files</sub><br />
 
@@ -238,4 +235,7 @@
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; [beta] fix: limit render size of custom elements<br />
   <sub>[#189427](https://github.com/flutter/flutter/pull/189427) opened on on July 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189427) 24 additions and 3 deletions in 2 files</sub><br />
+
+* **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; [flutter_tools] Parse single-space wireless ADB device output<br />
+  <sub>[#189431](https://github.com/flutter/flutter/pull/189431) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189431) 21 additions and 4 deletions in 2 files</sub><br />
 

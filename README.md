@@ -4,7 +4,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-13 commits.
+14 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Playground expanded role<br />
   <sub>[#188889](https://github.com/flutter/flutter/pull/188889) merged on July 14, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/flutter/pull/188889) over 1 week, 1744 additions and 648 deletions in 79 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move a few benchmarks from x64 Intel Macs to ARM<br />
   <sub>[#189377](https://github.com/flutter/flutter/pull/189377) merged on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189377) over 1 hour, 6 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Remove web hot reload flag<br />
+  <sub>[#185994](https://github.com/flutter/flutter/pull/185994) merged on July 14, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185994) over 2 months, 19 additions and 102 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets<br />
   <sub>[#186788](https://github.com/flutter/flutter/pull/186788) merged on July 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186788) over 1 month, 52 additions and 5 deletions in 3 files</sub><br />
