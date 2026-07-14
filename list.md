@@ -613,7 +613,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-7 commits.
+8 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Add `#region` to example files to remove license headers
   <sub>[#12170](https://github.com/flutter/packages/pull/12170) merged on July 13, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/12170) over 3 days, 915 additions and 315 deletions in 410 files</sub>
@@ -639,6 +639,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Convert legacy codepath to Kotlin
   <sub>[#12139](https://github.com/flutter/packages/pull/12139) merged on July 13, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/12139) over 5 days, 196 additions and 241 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Migrate `@macro`s that are defined in Material and used in Cupertino
+  <sub>[#12197](https://github.com/flutter/packages/pull/12197) merged on July 13, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/12197) over 4 hours, 256 additions and 256 deletions in 49 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; [google_maps_flutter_platform_interface] Adds support for mapTypeControlEnabled, fullscreenControlEnabled, and streetViewControlEnabled for web
   <sub>[#12191](https://github.com/flutter/packages/pull/12191) merged on July 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12191) over 4 hours, 99 additions and 2 deletions in 4 files</sub>
