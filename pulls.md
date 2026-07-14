@@ -102,7 +102,7 @@
   <sub>[#188524](https://github.com/flutter/flutter/pull/188524) opened on on June 24, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/188524) 2802 additions and 1275 deletions in 7 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
-  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/188544) 233 additions and 93 deletions in 18 files</sub><br />
+  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/188544) 233 additions and 93 deletions in 18 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
@@ -176,9 +176,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix data for design packages<br />
   <sub>[#189196](https://github.com/flutter/flutter/pull/189196) opened on on July 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189196) 16 additions and 0 deletions in 2 files</sub><br />
 
-* **[Zubascu Ionut](https://github.com/Zubii12)** &mdash; Catch error if decoding state restoration data fails<br />
-  <sub>[#189269](https://github.com/flutter/flutter/pull/189269) opened on on July 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189269) 53 additions and 1 deletion in 2 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean android engine/embedding tests<br />
   <sub>[#189276](https://github.com/flutter/flutter/pull/189276) opened on on July 10, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189276) 182 additions and 186 deletions in 22 files</sub><br />
 
@@ -200,12 +197,6 @@
 * **[udit](https://github.com/UditDewan)** &mdash; Echo desktop app stderr as error output<br />
   <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
 
-* **[Zubascu Ionut](https://github.com/Zubii12)** &mdash; Remove unnecessary Material import from navigator_restoration_test<br />
-  <sub>[#189324](https://github.com/flutter/flutter/pull/189324) opened on on July 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189324) 62 additions and 26 deletions in 3 files</sub><br />
-
-* **[osaki](https://github.com/motucraft)** &mdash; Treat CRLF like LF in LicenseEntryWithLineBreaks<br />
-  <sub>[#189336](https://github.com/flutter/flutter/pull/189336) opened on on July 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189336) 22 additions and 2 deletions in 2 files</sub><br />
-
 * **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; Fix `todayBorder` color being overridden by `todayForegroundColor` in `YearPicker`<br />
   <sub>[#189345](https://github.com/flutter/flutter/pull/189345) opened on on July 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189345) 251 additions and 188 deletions in 2 files</sub><br />
 
@@ -221,17 +212,8 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move shared darwin plugin tests into own builder<br />
   <sub>[#189411](https://github.com/flutter/flutter/pull/189411) opened on on July 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189411) 42 additions and 11 deletions in 5 files</sub><br />
 
-* **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; [flutter_tools] Parse single-space wireless ADB device output<br />
-  <sub>[#189431](https://github.com/flutter/flutter/pull/189431) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189431) 21 additions and 4 deletions in 2 files</sub><br />
-
-* **[pierre](https://github.com/guidezpl)** &mdash; Add missing name to mirroring workflow<br />
-  <sub>[#189439](https://github.com/flutter/flutter/pull/189439) opened on on July 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189439) 2 additions and 1 deletion in 1 file</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
   <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
-
-* **[Dmitry Grand (dmgr)](https://github.com/ievdokdm)** &mdash; Added unified check-run user manual<br />
-  <sub>[#189453](https://github.com/flutter/flutter/pull/189453) opened on on July 14, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/189453) 53 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ahmet Can Urhan](https://github.com/Ahmet-Can-Urhan)** &mdash; Handle unexpected exceptions during Azure metadata detection<br />
   <sub>[#189457](https://github.com/flutter/flutter/pull/189457) opened on on July 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189457) 19 additions and 0 deletions in 2 files</sub><br />

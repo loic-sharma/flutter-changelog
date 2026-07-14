@@ -4,7 +4,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-19 commits.
+20 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Playground expanded role<br />
   <sub>[#188889](https://github.com/flutter/flutter/pull/188889) merged on July 14, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/flutter/pull/188889) over 1 week, 1744 additions and 648 deletions in 79 files</sub><br />
@@ -73,6 +73,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Roll record_use to 1.0 and unpin<br />
   <sub>[#189366](https://github.com/flutter/flutter/pull/189366) merged on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189366) over 2 hours, 38 additions and 43 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Use ServicesBinding.instance.exitApplication instead of exit(0) in multiple_windows example<br />
+  <sub>[#189364](https://github.com/flutter/flutter/pull/189364) merged on July 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189364) over 1 day, 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix space formatting in cherry-pick label for flutter_cp.dart<br />
   <sub>[#189463](https://github.com/flutter/flutter/pull/189463) merged on July 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189463) over 49 minutes, 11 additions and 3 deletions in 1 file</sub><br />
@@ -1012,7 +1016,11 @@
 
 ### July 11, 2026 to July 17, 2026
 
-4 commits.
+5 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [packages] Fix a few excerpter issues and inconsistencies<br />
+  <sub>[#13577](https://github.com/flutter/website/pull/13577) merged on July 14, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/website/pull/13577) over 1 hour, 409 additions and 88 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Dmitry Grand (dmgr)](https://github.com/ievdokdm)** &mdash; added link to unified flutter check run user manual<br />
   <sub>[#13575](https://github.com/flutter/website/pull/13575) merged on July 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13575) over 19 minutes, 1 addition and 0 deletions in 1 file</sub><br />
