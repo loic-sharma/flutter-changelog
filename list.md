@@ -4,7 +4,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-15 commits.
+17 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Playground expanded role
   <sub>[#188889](https://github.com/flutter/flutter/pull/188889) merged on July 14, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/flutter/pull/188889) over 1 week, 1744 additions and 648 deletions in 79 files</sub>
@@ -13,6 +13,10 @@
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 4
   <sub>[#185187](https://github.com/flutter/flutter/pull/185187) merged on July 13, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/185187) over 2 months, 1402 additions and 1348 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [flutter_tools] Format plugin example template to match dart format
+  <sub>[#188382](https://github.com/flutter/flutter/pull/188382) merged on July 14, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188382) over 3 weeks, 37 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: remove material import from scrollable_semantics_test and selectable_region_context_menu_test
   <sub>[#186611](https://github.com/flutter/flutter/pull/186611) merged on July 14, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/186611) over 1 month, 44 additions and 24 deletions in 3 files</sub>
@@ -37,6 +41,10 @@
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets
   <sub>[#186788](https://github.com/flutter/flutter/pull/186788) merged on July 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186788) over 1 month, 52 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move renamed x64->ARM benchmarks out of bringup
+  <sub>[#189400](https://github.com/flutter/flutter/pull/189400) merged on July 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189400) over 18 hours, 0 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Fix flaky keyboard animation test
   <sub>[#189353](https://github.com/flutter/flutter/pull/189353) merged on July 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189353) over 21 hours, 12 additions and 19 deletions in 1 file</sub>

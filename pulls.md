@@ -227,9 +227,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Move a few benchmarks from x64 Intel Macs to ARM<br />
   <sub>[#189399](https://github.com/flutter/flutter/pull/189399) opened on on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189399) 6 additions and 3 deletions in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move renamed x64->ARM benchmarks out of bringup<br />
-  <sub>[#189400](https://github.com/flutter/flutter/pull/189400) opened on on July 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189400) 0 additions and 3 deletions in 1 file</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move shared darwin plugin tests into own builder<br />
   <sub>[#189411](https://github.com/flutter/flutter/pull/189411) opened on on July 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189411) 42 additions and 11 deletions in 5 files</sub><br />
 
@@ -244,4 +241,10 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
   <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
+
+* **[Dmitry Grand (dmgr)](https://github.com/ievdokdm)** &mdash; Added unified check-run user manual<br />
+  <sub>[#189453](https://github.com/flutter/flutter/pull/189453) opened on on July 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189453) 53 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ahmet Can Urhan](https://github.com/Ahmet-Can-Urhan)** &mdash; Handle unexpected exceptions during Azure metadata detection<br />
+  <sub>[#189457](https://github.com/flutter/flutter/pull/189457) opened on on July 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189457) 19 additions and 0 deletions in 2 files</sub><br />
 
