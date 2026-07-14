@@ -222,7 +222,7 @@
   <sub>[#189345](https://github.com/flutter/flutter/pull/189345) opened on on July 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189345) 251 additions and 188 deletions in 2 files</sub><br />
 
 * **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix Tooltip losing its semantics label when TooltipVisibility.visible is false<br />
-  <sub>[#189362](https://github.com/flutter/flutter/pull/189362) opened on on July 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189362) 68 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#189362](https://github.com/flutter/flutter/pull/189362) opened on on July 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189362) 68 additions and 0 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Move a few benchmarks from x64 Intel Macs to ARM<br />
   <sub>[#189398](https://github.com/flutter/flutter/pull/189398) opened on on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189398) 6 additions and 3 deletions in 1 file</sub><br />
@@ -235,4 +235,7 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bumped Engine AGP Dependencies to 9.1.0 for 3.50<br />
   <sub>[#189417](https://github.com/flutter/flutter/pull/189417) opened on on July 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189417) 3 additions and 3 deletions in 3 files</sub><br />
+
+* **[holzgeist](https://github.com/holzgeist)** &mdash; [beta] fix: limit render size of custom elements<br />
+  <sub>[#189427](https://github.com/flutter/flutter/pull/189427) opened on on July 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189427) 24 additions and 3 deletions in 2 files</sub><br />
 

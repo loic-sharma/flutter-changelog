@@ -4,7 +4,11 @@
 
 ### July 11, 2026 to July 17, 2026
 
-11 commits.
+13 commits.
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Playground expanded role
+  <sub>[#188889](https://github.com/flutter/flutter/pull/188889) merged on July 14, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/flutter/pull/188889) over 1 week, 1744 additions and 648 deletions in 79 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 4
   <sub>[#185187](https://github.com/flutter/flutter/pull/185187) merged on July 13, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/185187) over 2 months, 1402 additions and 1348 deletions in 10 files</sub>
@@ -25,6 +29,10 @@
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets
   <sub>[#186788](https://github.com/flutter/flutter/pull/186788) merged on July 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186788) over 1 month, 52 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Fix flaky keyboard animation test
+  <sub>[#189353](https://github.com/flutter/flutter/pull/189353) merged on July 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189353) over 21 hours, 12 additions and 19 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[pierre](https://github.com/guidezpl)** &mdash; Update lock-threads dependency to 6.0.2
   <sub>[#189053](https://github.com/flutter/flutter/pull/189053) merged on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189053) over 6 days, 1 addition and 1 deletion in 1 file</sub>
