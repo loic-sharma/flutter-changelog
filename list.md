@@ -4,7 +4,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-17 commits.
+19 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Playground expanded role
   <sub>[#188889](https://github.com/flutter/flutter/pull/188889) merged on July 14, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/flutter/pull/188889) over 1 week, 1744 additions and 648 deletions in 79 files</sub>
@@ -33,6 +33,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move a few benchmarks from x64 Intel Macs to ARM
   <sub>[#189377](https://github.com/flutter/flutter/pull/189377) merged on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189377) over 1 hour, 6 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add CpuArch to the Device class
+  <sub>[#189207](https://github.com/flutter/flutter/pull/189207) merged on July 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189207) over 5 days, 203 additions and 7 deletions in 22 files</sub>
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Nicholas Shahan](https://github.com/nshahan)** &mdash; [flutter_tools] Remove web hot reload flag
   <sub>[#185994](https://github.com/flutter/flutter/pull/185994) merged on July 14, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185994) over 2 months, 19 additions and 102 deletions in 14 files</sub>
@@ -69,6 +73,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [hooks] Roll record_use to 1.0 and unpin
   <sub>[#189366](https://github.com/flutter/flutter/pull/189366) merged on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189366) over 2 hours, 38 additions and 43 deletions in 13 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix space formatting in cherry-pick label for flutter_cp.dart
+  <sub>[#189463](https://github.com/flutter/flutter/pull/189463) merged on July 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189463) over 49 minutes, 11 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix ADB device listing output parsing regression
   <sub>[#189369](https://github.com/flutter/flutter/pull/189369) merged on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189369) over 2 hours, 71 additions and 7 deletions in 2 files</sub>
