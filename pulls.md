@@ -239,3 +239,9 @@
 * **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; [flutter_tools] Parse single-space wireless ADB device output<br />
   <sub>[#189431](https://github.com/flutter/flutter/pull/189431) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189431) 21 additions and 4 deletions in 2 files</sub><br />
 
+* **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Clean up outdated widget preview TODOs and refactor static state<br />
+  <sub>[#189437](https://github.com/flutter/flutter/pull/189437) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189437) 29 additions and 45 deletions in 2 files</sub><br />
+
+* **[pierre](https://github.com/guidezpl)** &mdash; Add missing name to mirroring workflow<br />
+  <sub>[#189439](https://github.com/flutter/flutter/pull/189439) opened on on July 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189439) 2 additions and 1 deletion in 1 file</sub><br />
+
