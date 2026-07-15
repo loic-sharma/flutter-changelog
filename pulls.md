@@ -227,3 +227,12 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Remove per-launch browser console listener from test harness<br />
   <sub>[#189521](https://github.com/flutter/flutter/pull/189521) opened on on July 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189521) 0 additions and 23 deletions in 1 file</sub><br />
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove obsolete packages analysis flag<br />
+  <sub>[#189525](https://github.com/flutter/flutter/pull/189525) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189525) 1 addition and 3 deletions in 2 files</sub><br />
+
+* **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
+  <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]UberSDF thin roundrect handling<br />
+  <sub>[#189529](https://github.com/flutter/flutter/pull/189529) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189529) 222 additions and 50 deletions in 6 files</sub><br />
+

@@ -699,7 +699,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-14 commits.
+15 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Add `#region` to example files to remove license headers
   <sub>[#12170](https://github.com/flutter/packages/pull/12170) merged on July 13, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/12170) over 3 days, 915 additions and 315 deletions in 410 files</sub>
@@ -707,7 +707,7 @@
   <sub><details><summary>2 images...</summary><img width="738" height="710" alt="image" src="https://github.com/user-attachments/assets/04069857-c590-470e-9682-bc601071bbc7" /><img width="739" height="716" alt="image" src="https://github.com/user-attachments/assets/7face8b4-8f01-4c94-81a7-0bbdf26afd14" /></details></sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui] Localizations
-  <sub>[#12119](https://github.com/flutter/packages/pull/12119) merged on July 15, 2026 &mdash; **Extra large:** [81 comments](https://github.com/flutter/packages/pull/12119) over 1 week, 142392 additions and 6 deletions in 263 files</sub>
+  <sub>[#12119](https://github.com/flutter/packages/pull/12119) merged on July 15, 2026 &mdash; **Extra large:** [82 comments](https://github.com/flutter/packages/pull/12119) over 1 week, 142392 additions and 6 deletions in 263 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks), [Elliott Brooks](https://github.com/elliette), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[shrabanti722](https://github.com/shrabanti722)** &mdash; [video_player] Implement screen auto-lock control for video playback
@@ -741,6 +741,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Convert legacy codepath to Kotlin
   <sub>[#12139](https://github.com/flutter/packages/pull/12139) merged on July 13, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/12139) over 5 days, 196 additions and 241 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [material_ui] Fix upstream localization test
+  <sub>[#12207](https://github.com/flutter/packages/pull/12207) merged on July 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12207) over 8 minutes, 15 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update All Flutter Android Example Apps to 3.47 Template Versions
   <sub>[#12195](https://github.com/flutter/packages/pull/12195) merged on July 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12195) over 23 hours, 146 additions and 146 deletions in 104 files</sub>
