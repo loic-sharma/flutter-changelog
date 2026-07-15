@@ -4,7 +4,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-31 commits.
+32 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Implement UberSDF lines to replace LineContents-based AA lines<br />
   <sub>[#188514](https://github.com/flutter/flutter/pull/188514) merged on July 15, 2026 &mdash; **Large:** [65 comments](https://github.com/flutter/flutter/pull/188514) over 2 weeks, 405 additions and 177 deletions in 10 files</sub><br />
@@ -83,6 +83,10 @@
 * **[Ardeshir Nahavandi Fard](https://github.com/Vonarian)** &mdash; [flutter_tools] Respect mustMatchAppBuild on Windows native assets<br />
   <sub>[#186788](https://github.com/flutter/flutter/pull/186788) merged on July 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186788) over 1 month, 52 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Call glfwTerminate during global test environment teardown if a playground test called glfwInit<br />
+  <sub>[#189523](https://github.com/flutter/flutter/pull/189523) merged on July 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189523) over 2 hours, 17 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable some Windows tests that are flaking on CI<br />
   <sub>[#189477](https://github.com/flutter/flutter/pull/189477) merged on July 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189477) over 3 hours, 7 additions and 2 deletions in 1 file</sub><br />
@@ -699,7 +703,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-15 commits.
+16 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Add `#region` to example files to remove license headers<br />
   <sub>[#12170](https://github.com/flutter/packages/pull/12170) merged on July 13, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/12170) over 3 days, 915 additions and 315 deletions in 410 files</sub><br />
@@ -713,6 +717,11 @@
 * **[shrabanti722](https://github.com/shrabanti722)** &mdash; [video_player] Implement screen auto-lock control for video playback<br />
   <sub>[#11225](https://github.com/flutter/packages/pull/11225) merged on July 13, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/packages/pull/11225) over 4 months, 116 additions and 10 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Rename macro names to package names<br />
+  <sub>[#12198](https://github.com/flutter/packages/pull/12198) merged on July 15, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/12198) over 1 day, 704 additions and 704 deletions in 103 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="863" height="846" alt="image" src="https://github.com/user-attachments/assets/1fd790b5-18d7-4138-afab-2876003df1f8" /></details></sub>
 
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [pigeon] Report a clear error for enhanced enums<br />
   <sub>[#11880](https://github.com/flutter/packages/pull/11880) merged on July 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/11880) over 1 month, 153 additions and 3 deletions in 5 files</sub><br />
