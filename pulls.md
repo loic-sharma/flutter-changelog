@@ -128,9 +128,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Move WindowManager outside of WidgetsApp<br />
   <sub>[#188866](https://github.com/flutter/flutter/pull/188866) opened on on July 1, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/188866) 50 additions and 164 deletions in 10 files</sub><br />
 
-* **[Yilong Li](https://github.com/gnoliyil)** &mdash; [fuchsia][iwyu] Remove transitive include of fuchsia.input.report.<br />
-  <sub>[#188891](https://github.com/flutter/flutter/pull/188891) opened on on July 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/188891) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Allow valid UTF-8 replacement characters in flutter_tools decoding<br />
   <sub>[#188901](https://github.com/flutter/flutter/pull/188901) opened on on July 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188901) 34 additions and 9 deletions in 3 files</sub><br />
 
@@ -220,6 +217,9 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Invalidate WebEntrypointTarget when plugin set changes<br />
   <sub>[#189460](https://github.com/flutter/flutter/pull/189460) opened on on July 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189460) 32 additions and 1 deletion in 2 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move tool host_cross_arch tests into different shards<br />
+  <sub>[#189470](https://github.com/flutter/flutter/pull/189470) opened on on July 14, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/189470) 359 additions and 373 deletions in 7 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Make glBlitFramebuffer optional in the OpenGL compositor<br />
   <sub>[#189476](https://github.com/flutter/flutter/pull/189476) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189476) 48 additions and 5 deletions in 2 files</sub><br />
