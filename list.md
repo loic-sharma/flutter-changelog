@@ -4,7 +4,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-29 commits.
+31 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Implement UberSDF lines to replace LineContents-based AA lines
   <sub>[#188514](https://github.com/flutter/flutter/pull/188514) merged on July 15, 2026 &mdash; **Large:** [64 comments](https://github.com/flutter/flutter/pull/188514) over 2 weeks, 405 additions and 177 deletions in 10 files</sub>
@@ -32,6 +32,10 @@
   <sub>[#185187](https://github.com/flutter/flutter/pull/185187) merged on July 13, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/185187) over 2 months, 1402 additions and 1348 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to 0582f446e54a
+  <sub>[#188524](https://github.com/flutter/flutter/pull/188524) merged on July 15, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/188524) over 2 weeks, 2802 additions and 1275 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; [flutter_tools] Format plugin example template to match dart format
   <sub>[#188382](https://github.com/flutter/flutter/pull/188382) merged on July 14, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188382) over 3 weeks, 37 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -55,6 +59,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move a few benchmarks from x64 Intel Macs to ARM
   <sub>[#189377](https://github.com/flutter/flutter/pull/189377) merged on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189377) over 1 hour, 6 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; add `@nonVirtual` to `RenderObject.attached`, fix `WidgetTester.hasRunningAnimations`
+  <sub>[#186832](https://github.com/flutter/flutter/pull/186832) merged on July 15, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186832) over 1 month, 41 additions and 44 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Dmitry Grand (dmgr)](https://github.com/ievdokdm)** &mdash; Added unified check-run user manual
   <sub>[#189453](https://github.com/flutter/flutter/pull/189453) merged on July 15, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/189453) over 8 hours, 53 additions and 0 deletions in 1 file</sub>
