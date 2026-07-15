@@ -7,7 +7,7 @@
 31 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Implement UberSDF lines to replace LineContents-based AA lines
-  <sub>[#188514](https://github.com/flutter/flutter/pull/188514) merged on July 15, 2026 &mdash; **Large:** [64 comments](https://github.com/flutter/flutter/pull/188514) over 2 weeks, 405 additions and 177 deletions in 10 files</sub>
+  <sub>[#188514](https://github.com/flutter/flutter/pull/188514) merged on July 15, 2026 &mdash; **Large:** [65 comments](https://github.com/flutter/flutter/pull/188514) over 2 weeks, 405 additions and 177 deletions in 10 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
   <sub><details><summary>2 images...</summary><img width="1024" height="800" alt="Screenshot 2026-06-24 at 10 46 48 AM" src="https://github.com/user-attachments/assets/2d981538-5120-4cf0-9bc0-d8d43e41b03c" /><img width="1024" height="800" alt="Screenshot 2026-06-24 at 10 47 56 AM" src="https://github.com/user-attachments/assets/a6f70277-a26a-46d4-b456-e482f7a964d3" /></details></sub>
 
@@ -699,12 +699,16 @@
 
 ### July 11, 2026 to July 17, 2026
 
-12 commits.
+14 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Add `#region` to example files to remove license headers
   <sub>[#12170](https://github.com/flutter/packages/pull/12170) merged on July 13, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/12170) over 3 days, 915 additions and 315 deletions in 410 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
   <sub><details><summary>2 images...</summary><img width="738" height="710" alt="image" src="https://github.com/user-attachments/assets/04069857-c590-470e-9682-bc601071bbc7" /><img width="739" height="716" alt="image" src="https://github.com/user-attachments/assets/7face8b4-8f01-4c94-81a7-0bbdf26afd14" /></details></sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui] Localizations
+  <sub>[#12119](https://github.com/flutter/packages/pull/12119) merged on July 15, 2026 &mdash; **Extra large:** [80 comments](https://github.com/flutter/packages/pull/12119) over 1 week, 142392 additions and 6 deletions in 263 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks), [Elliott Brooks](https://github.com/elliette), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[shrabanti722](https://github.com/shrabanti722)** &mdash; [video_player] Implement screen auto-lock control for video playback
   <sub>[#11225](https://github.com/flutter/packages/pull/11225) merged on July 13, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/packages/pull/11225) over 4 months, 116 additions and 10 deletions in 4 files</sub>
@@ -714,6 +718,10 @@
   <sub>[#11880](https://github.com/flutter/packages/pull/11880) merged on July 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/11880) over 1 month, 153 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix(ci): harden some workflows in packages
+  <sub>[#12178](https://github.com/flutter/packages/pull/12178) merged on July 15, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12178) over 4 days, 58 additions and 23 deletions in 7 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Convert legacy tests to Kotlin
   <sub>[#12193](https://github.com/flutter/packages/pull/12193) merged on July 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/12193) over 19 hours, 332 additions and 369 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
@@ -722,6 +730,10 @@
   <sub>[#12179](https://github.com/flutter/packages/pull/12179) merged on July 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/12179) over 2 days, 0 additions and 1751 deletions in 16 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [google_fonts] Extract the config class to its own file
+  <sub>[#12202](https://github.com/flutter/packages/pull/12202) merged on July 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12202) over 15 hours, 33 additions and 37 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
 * **[osaki](https://github.com/motucraft)** &mdash; [camera] Guard CameraController value updates after dispose
   <sub>[#11861](https://github.com/flutter/packages/pull/11861) merged on July 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11861) over 1 month, 94 additions and 23 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
@@ -729,10 +741,6 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Convert legacy codepath to Kotlin
   <sub>[#12139](https://github.com/flutter/packages/pull/12139) merged on July 13, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/12139) over 5 days, 196 additions and 241 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [google_fonts] Extract the config class to its own file
-  <sub>[#12202](https://github.com/flutter/packages/pull/12202) merged on July 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12202) over 15 hours, 33 additions and 37 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update All Flutter Android Example Apps to 3.47 Template Versions
   <sub>[#12195](https://github.com/flutter/packages/pull/12195) merged on July 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12195) over 23 hours, 146 additions and 146 deletions in 104 files</sub>

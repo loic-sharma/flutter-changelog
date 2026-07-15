@@ -180,7 +180,7 @@
   <sub>[#189291](https://github.com/flutter/flutter/pull/189291) opened on on July 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189291) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
-  <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22909 additions and 0 deletions in 173 files</sub><br />
+  <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22936 additions and 0 deletions in 173 files</sub><br />
 
 * **[guszxtavo](https://github.com/guszxtavo)** &mdash; [Impeller] Enable ETC2/ASTC LDR/BC texture compression features at Vulkan device creation<br />
   <sub>[#189303](https://github.com/flutter/flutter/pull/189303) opened on on July 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189303) 9 additions and 0 deletions in 1 file</sub><br />
@@ -226,4 +226,7 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Bump devtools_shared to 14.0.0<br />
   <sub>[#189507](https://github.com/flutter/flutter/pull/189507) opened on on July 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189507) 2 additions and 2 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]UberSDF rect handling for thin (line-like) rectangles<br />
+  <sub>[#189517](https://github.com/flutter/flutter/pull/189517) opened on on July 15, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/189517) 213 additions and 93 deletions in 4 files</sub><br />
 
