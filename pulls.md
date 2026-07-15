@@ -162,7 +162,7 @@
   <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move shared darwin plugin tests into own builder<br />
-  <sub>[#189411](https://github.com/flutter/flutter/pull/189411) opened on on July 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189411) 42 additions and 11 deletions in 5 files</sub><br />
+  <sub>[#189411](https://github.com/flutter/flutter/pull/189411) opened on on July 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189411) 42 additions and 11 deletions in 5 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
   <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
@@ -193,4 +193,7 @@
 
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Move githooks to `dev/tools/githooks`<br />
+  <sub>[#189539](https://github.com/flutter/flutter/pull/189539) opened on on July 15, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189539) 259 additions and 211 deletions in 23 files</sub><br />
 

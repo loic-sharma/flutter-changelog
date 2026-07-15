@@ -4,7 +4,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-32 commits.
+33 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Implement UberSDF lines to replace LineContents-based AA lines
   <sub>[#188514](https://github.com/flutter/flutter/pull/188514) merged on July 15, 2026 &mdash; **Large:** [65 comments](https://github.com/flutter/flutter/pull/188514) over 2 weeks, 405 additions and 177 deletions in 10 files</sub>
@@ -47,6 +47,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fall back to full CJK fonts for characters not covered by split slices
   <sub>[#188890](https://github.com/flutter/flutter/pull/188890) merged on July 13, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/188890) over 1 week, 47623 additions and 41706 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zhongliugo](https://github.com/flutter-zl)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate DisplayLinkManager to a shared instance
+  <sub>[#189492](https://github.com/flutter/flutter/pull/189492) merged on July 15, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/189492) over 14 hours, 208 additions and 67 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [agents] Refactor shepherd-prs skill into a pure Markdown runbook using native gh CLI
   <sub>[#189095](https://github.com/flutter/flutter/pull/189095) merged on July 14, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/189095) over 1 week, 87 additions and 916 deletions in 3 files</sub>
@@ -719,7 +723,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Rename macro names to package names
-  <sub>[#12198](https://github.com/flutter/packages/pull/12198) merged on July 15, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/12198) over 1 day, 704 additions and 704 deletions in 103 files</sub>
+  <sub>[#12198](https://github.com/flutter/packages/pull/12198) merged on July 15, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/12198) over 1 day, 704 additions and 704 deletions in 103 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
   <sub><details><summary>1 image...</summary><img width="863" height="846" alt="image" src="https://github.com/user-attachments/assets/1fd790b5-18d7-4138-afab-2876003df1f8" /></details></sub>
 
