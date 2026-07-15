@@ -149,9 +149,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189103) 35 additions and 104 deletions in 10 files</sub><br />
 
-* **[Rusino](https://github.com/Rusino)** &mdash; Fixing GetLineBoundaries method for all the cases with hard line breaks<br />
-  <sub>[#189143](https://github.com/flutter/flutter/pull/189143) opened on on July 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189143) 103 additions and 55 deletions in 6 files</sub><br />
-
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Validate plugin class/package identifiers to prevent GeneratedPluginRegistrant injection<br />
   <sub>[#189156](https://github.com/flutter/flutter/pull/189156) opened on on July 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189156) 122 additions and 22 deletions in 3 files</sub><br />
 
@@ -227,6 +224,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Bump devtools_shared to 14.0.0<br />
   <sub>[#189507](https://github.com/flutter/flutter/pull/189507) opened on on July 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189507) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]UberSDF rect handling for thin (line-like) rectangles<br />
-  <sub>[#189517](https://github.com/flutter/flutter/pull/189517) opened on on July 15, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/189517) 213 additions and 93 deletions in 4 files</sub><br />
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Remove per-launch browser console listener from test harness<br />
+  <sub>[#189521](https://github.com/flutter/flutter/pull/189521) opened on on July 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189521) 0 additions and 23 deletions in 1 file</sub><br />
 

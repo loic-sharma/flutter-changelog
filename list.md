@@ -707,7 +707,7 @@
   <sub><details><summary>2 images...</summary><img width="738" height="710" alt="image" src="https://github.com/user-attachments/assets/04069857-c590-470e-9682-bc601071bbc7" /><img width="739" height="716" alt="image" src="https://github.com/user-attachments/assets/7face8b4-8f01-4c94-81a7-0bbdf26afd14" /></details></sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui] Localizations
-  <sub>[#12119](https://github.com/flutter/packages/pull/12119) merged on July 15, 2026 &mdash; **Extra large:** [80 comments](https://github.com/flutter/packages/pull/12119) over 1 week, 142392 additions and 6 deletions in 263 files</sub>
+  <sub>[#12119](https://github.com/flutter/packages/pull/12119) merged on July 15, 2026 &mdash; **Extra large:** [81 comments](https://github.com/flutter/packages/pull/12119) over 1 week, 142392 additions and 6 deletions in 263 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks), [Elliott Brooks](https://github.com/elliette), [Qun Cheng](https://github.com/QuncCccccc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[shrabanti722](https://github.com/shrabanti722)** &mdash; [video_player] Implement screen auto-lock control for video playback
