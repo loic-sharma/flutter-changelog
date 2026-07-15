@@ -691,7 +691,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-11 commits.
+12 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Add `#region` to example files to remove license headers
   <sub>[#12170](https://github.com/flutter/packages/pull/12170) merged on July 13, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/12170) over 3 days, 915 additions and 315 deletions in 410 files</sub>
@@ -721,6 +721,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Convert legacy codepath to Kotlin
   <sub>[#12139](https://github.com/flutter/packages/pull/12139) merged on July 13, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/12139) over 5 days, 196 additions and 241 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [google_fonts] Extract the config class to its own file
+  <sub>[#12202](https://github.com/flutter/packages/pull/12202) merged on July 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12202) over 15 hours, 33 additions and 37 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update All Flutter Android Example Apps to 3.47 Template Versions
   <sub>[#12195](https://github.com/flutter/packages/pull/12195) merged on July 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12195) over 23 hours, 146 additions and 146 deletions in 104 files</sub>
