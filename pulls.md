@@ -17,9 +17,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; ci: Test packaging Windows on arm64<br />
   <sub>[#184314](https://github.com/flutter/flutter/pull/184314) opened on on March 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/184314) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[xfce0](https://github.com/xfce0)** &mdash; Remove list_tile_tester and rendering_tester cross-imports from cupertino tests<br />
-  <sub>[#184588](https://github.com/flutter/flutter/pull/184588) opened on on April 3, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/184588) 236 additions and 255 deletions in 4 files</sub><br />
-
 * **[Dylan Olivares](https://github.com/DylanO9)** &mdash; Refactor: Views should share shaders<br />
   <sub>[#185335](https://github.com/flutter/flutter/pull/185335) opened on on April 21, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/185335) 287 additions and 151 deletions in 6 files</sub><br />
 
@@ -34,12 +31,6 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Move routes_transition_test to material<br />
-  <sub>[#186620](https://github.com/flutter/flutter/pull/186620) opened on on May 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186620) 0 additions and 0 deletions in 1 file</sub><br />
-
-* **[Nadeem Iqbal](https://github.com/NadeemIqbal)** &mdash; docs: Document CupertinoTabScaffold + CupertinoSliverNavigationBar interaction (#166487)<br />
-  <sub>[#186644](https://github.com/flutter/flutter/pull/186644) opened on on May 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/186644) 45 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#186688](https://github.com/flutter/flutter/pull/186688) opened on on May 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/186688) 0 additions and 11 deletions in 1 file</sub><br />
@@ -92,9 +83,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
   <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
 
-* **[Alexander Dahlberg](https://github.com/Swiftaxe)** &mdash; Move drawer tests from widgets to material<br />
-  <sub>[#188486](https://github.com/flutter/flutter/pull/188486) opened on on June 24, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/188486) 372 additions and 385 deletions in 2 files</sub><br />
-
 * **[huangyouhua1](https://github.com/huangyouhua1)** &mdash; Add tests for flutter_view and platform_view examples<br />
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
@@ -115,9 +103,6 @@
 
 * **[Shariar Hossain](https://github.com/shariaralphabyte)** &mdash; [flutter_tools] Tell user how to skip the device prompt with -d<br />
   <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
-
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; Migrate time picker tests cases relying on localization from material_ui to flutter_localization<br />
-  <sub>[#188753](https://github.com/flutter/flutter/pull/188753) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188753) 189 additions and 23 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
@@ -152,9 +137,6 @@
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Validate plugin class/package identifiers to prevent GeneratedPluginRegistrant injection<br />
   <sub>[#189156](https://github.com/flutter/flutter/pull/189156) opened on on July 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189156) 122 additions and 22 deletions in 3 files</sub><br />
 
-* **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; Fix `TabBar` assertion to allow `indicatorWeight: 0` with a themed `indicator`<br />
-  <sub>[#189157](https://github.com/flutter/flutter/pull/189157) opened on on July 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189157) 103 additions and 4 deletions in 2 files</sub><br />
-
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Contain dependency-declared license paths within the package<br />
   <sub>[#189159](https://github.com/flutter/flutter/pull/189159) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189159) 57 additions and 0 deletions in 2 files</sub><br />
 
@@ -164,17 +146,11 @@
 * **[Jeff Ward](https://github.com/fuzzybinary)** &mdash; fix(desktop): Keep an open log stream on desktop for integration testing.<br />
   <sub>[#189192](https://github.com/flutter/flutter/pull/189192) opened on on July 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189192) 220 additions and 21 deletions in 3 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Fix data for design packages<br />
-  <sub>[#189196](https://github.com/flutter/flutter/pull/189196) opened on on July 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189196) 16 additions and 0 deletions in 2 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean android engine/embedding tests<br />
   <sub>[#189276](https://github.com/flutter/flutter/pull/189276) opened on on July 10, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189276) 182 additions and 186 deletions in 22 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `AccessibilityEventsDelegateTest.java`<br />
   <sub>[#189280](https://github.com/flutter/flutter/pull/189280) opened on on July 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189280) 4 additions and 4 deletions in 1 file</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary value key hack in `key.dart` <br />
-  <sub>[#189291](https://github.com/flutter/flutter/pull/189291) opened on on July 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189291) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22936 additions and 0 deletions in 173 files</sub><br />
@@ -184,18 +160,6 @@
 
 * **[udit](https://github.com/UditDewan)** &mdash; Echo desktop app stderr as error output<br />
   <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
-
-* **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; Fix `todayBorder` color being overridden by `todayForegroundColor` in `YearPicker`<br />
-  <sub>[#189345](https://github.com/flutter/flutter/pull/189345) opened on on July 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189345) 251 additions and 188 deletions in 2 files</sub><br />
-
-* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix Tooltip losing its semantics label when TooltipVisibility.visible is false<br />
-  <sub>[#189362](https://github.com/flutter/flutter/pull/189362) opened on on July 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189362) 68 additions and 0 deletions in 2 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Move a few benchmarks from x64 Intel Macs to ARM<br />
-  <sub>[#189398](https://github.com/flutter/flutter/pull/189398) opened on on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189398) 6 additions and 3 deletions in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Move a few benchmarks from x64 Intel Macs to ARM<br />
-  <sub>[#189399](https://github.com/flutter/flutter/pull/189399) opened on on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189399) 6 additions and 3 deletions in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move shared darwin plugin tests into own builder<br />
   <sub>[#189411](https://github.com/flutter/flutter/pull/189411) opened on on July 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189411) 42 additions and 11 deletions in 5 files</sub><br />
@@ -224,15 +188,9 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Bump devtools_shared to 14.0.0<br />
   <sub>[#189507](https://github.com/flutter/flutter/pull/189507) opened on on July 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189507) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Remove per-launch browser console listener from test harness<br />
-  <sub>[#189521](https://github.com/flutter/flutter/pull/189521) opened on on July 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189521) 0 additions and 23 deletions in 1 file</sub><br />
-
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove obsolete packages analysis flag<br />
   <sub>[#189525](https://github.com/flutter/flutter/pull/189525) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189525) 1 addition and 3 deletions in 2 files</sub><br />
 
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]UberSDF thin roundrect handling<br />
-  <sub>[#189529](https://github.com/flutter/flutter/pull/189529) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189529) 222 additions and 50 deletions in 6 files</sub><br />
 
