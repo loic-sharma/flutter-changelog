@@ -227,3 +227,6 @@
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [flutter_tools] Use resolved application ID for app link settings<br />
   <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate DisplayLinkManager to a shared instance<br />
+  <sub>[#189492](https://github.com/flutter/flutter/pull/189492) opened on on July 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189492) 195 additions and 62 deletions in 8 files</sub><br />
+

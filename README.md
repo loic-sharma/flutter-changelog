@@ -4,12 +4,16 @@
 
 ### July 11, 2026 to July 17, 2026
 
-28 commits.
+29 commits.
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Implement UberSDF lines to replace LineContents-based AA lines<br />
   <sub>[#188514](https://github.com/flutter/flutter/pull/188514) merged on July 15, 2026 &mdash; **Large:** [64 comments](https://github.com/flutter/flutter/pull/188514) over 2 weeks, 405 additions and 177 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub><br />
   <sub><details><summary>2 images...</summary><img width="1024" height="800" alt="Screenshot 2026-06-24 at 10 46 48 AM" src="https://github.com/user-attachments/assets/2d981538-5120-4cf0-9bc0-d8d43e41b03c" /><img width="1024" height="800" alt="Screenshot 2026-06-24 at 10 47 56 AM" src="https://github.com/user-attachments/assets/a6f70277-a26a-46d4-b456-e482f7a964d3" /></details></sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Migrate FlutterKeyboardInsetManager to Swift<br />
+  <sub>[#189425](https://github.com/flutter/flutter/pull/189425) merged on July 15, 2026 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/189425) over 1 day, 659 additions and 643 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[pierre](https://github.com/guidezpl)** &mdash; Add missing name to mirroring workflow<br />
   <sub>[#189439](https://github.com/flutter/flutter/pull/189439) merged on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189439) over 12 hours, 2 additions and 1 deletion in 1 file</sub><br />
