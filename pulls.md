@@ -188,9 +188,6 @@
 * **[guszxtavo](https://github.com/guszxtavo)** &mdash; [Impeller] Enable ETC2/ASTC LDR/BC texture compression features at Vulkan device creation<br />
   <sub>[#189303](https://github.com/flutter/flutter/pull/189303) opened on on July 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189303) 9 additions and 0 deletions in 1 file</sub><br />
 
-* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add support for WASM deferred loading.<br />
-  <sub>[#189308](https://github.com/flutter/flutter/pull/189308) opened on on July 11, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189308) 257 additions and 14 deletions in 8 files</sub><br />
-
 * **[udit](https://github.com/UditDewan)** &mdash; Echo desktop app stderr as error output<br />
   <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
 
@@ -219,8 +216,11 @@
   <sub>[#189460](https://github.com/flutter/flutter/pull/189460) opened on on July 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189460) 32 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move tool host_cross_arch tests into different shards<br />
-  <sub>[#189470](https://github.com/flutter/flutter/pull/189470) opened on on July 14, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/189470) 359 additions and 373 deletions in 7 files</sub><br />
+  <sub>[#189470](https://github.com/flutter/flutter/pull/189470) opened on on July 14, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/189470) 356 additions and 373 deletions in 7 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Make glBlitFramebuffer optional in the OpenGL compositor<br />
   <sub>[#189476](https://github.com/flutter/flutter/pull/189476) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189476) 48 additions and 5 deletions in 2 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; widgets layer re-export ScrollCacheExtent<br />
+  <sub>[#189483](https://github.com/flutter/flutter/pull/189483) opened on on July 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189483) 2 additions and 1 deletion in 1 file</sub><br />
 
