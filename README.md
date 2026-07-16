@@ -731,7 +731,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-18 commits.
+20 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Add `#region` to example files to remove license headers<br />
   <sub>[#12170](https://github.com/flutter/packages/pull/12170) merged on July 13, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/12170) over 3 days, 915 additions and 315 deletions in 410 files</sub><br />
@@ -775,6 +775,10 @@
   <sub>[#12202](https://github.com/flutter/packages/pull/12202) merged on July 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12202) over 15 hours, 33 additions and 37 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Fix XCUITest on stable<br />
+  <sub>[#12214](https://github.com/flutter/packages/pull/12214) merged on July 16, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12214) over 5 hours, 16 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
 * **[osaki](https://github.com/motucraft)** &mdash; [camera] Guard CameraController value updates after dispose<br />
   <sub>[#11861](https://github.com/flutter/packages/pull/11861) merged on July 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/11861) over 1 month, 94 additions and 23 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
@@ -786,6 +790,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [material_ui] Fix upstream localization test<br />
   <sub>[#12207](https://github.com/flutter/packages/pull/12207) merged on July 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12207) over 8 minutes, 15 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Remove manual SwiftPM enabling step<br />
+  <sub>[#12204](https://github.com/flutter/packages/pull/12204) merged on July 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12204) over 1 day, 0 additions and 15 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui] Rename the remaining templates<br />
   <sub>[#12210](https://github.com/flutter/packages/pull/12210) merged on July 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12210) over 1 hour, 9 additions and 9 deletions in 5 files</sub><br />

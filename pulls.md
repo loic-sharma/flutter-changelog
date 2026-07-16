@@ -186,7 +186,7 @@
   <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189500) 67 additions and 15 deletions in 3 files</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove obsolete packages analysis flag<br />
-  <sub>[#189525](https://github.com/flutter/flutter/pull/189525) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189525) 1 addition and 3 deletions in 2 files</sub><br />
+  <sub>[#189525](https://github.com/flutter/flutter/pull/189525) opened on on July 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189525) 1 addition and 3 deletions in 2 files</sub><br />
 
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
@@ -199,4 +199,13 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to cc08479fbcc1<br />
   <sub>[#189595](https://github.com/flutter/flutter/pull/189595) opened on on July 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189595) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Cancel touch pointers WebKit abandons mid-gesture<br />
+  <sub>[#189608](https://github.com/flutter/flutter/pull/189608) opened on on July 16, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189608) 427 additions and 0 deletions in 3 files</sub><br />
+
+* **[M S karthik](https://github.com/KarthikManikuttan)** &mdash; Fix RangeSlider thumb overlay remains visible after touch interaction…<br />
+  <sub>[#189610](https://github.com/flutter/flutter/pull/189610) opened on on July 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189610) 219 additions and 7 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Impeller] Retry uncompressed when fixed-rate compression is exhausted<br />
+  <sub>[#189611](https://github.com/flutter/flutter/pull/189611) opened on on July 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189611) 179 additions and 25 deletions in 4 files</sub><br />
 
