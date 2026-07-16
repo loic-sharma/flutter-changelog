@@ -161,8 +161,8 @@
 * **[udit](https://github.com/UditDewan)** &mdash; Echo desktop app stderr as error output<br />
   <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move shared darwin plugin tests into own builder<br />
-  <sub>[#189411](https://github.com/flutter/flutter/pull/189411) opened on on July 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189411) 42 additions and 11 deletions in 5 files</sub><br />
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Upgrade android_hardware_smoke_test CI to run instrumented tests<br />
+  <sub>[#189390](https://github.com/flutter/flutter/pull/189390) opened on on July 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/189390) 111 additions and 2 deletions in 5 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
   <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
