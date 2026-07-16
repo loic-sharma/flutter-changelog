@@ -197,3 +197,6 @@
 * **[ניר](https://github.com/nrbnlulu)** &mdash; [Windowing] fix: backspace and text editing shortcuts not working<br />
   <sub>[#189561](https://github.com/flutter/flutter/pull/189561) opened on on July 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189561) 79 additions and 4 deletions in 2 files</sub><br />
 
+* **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; Fix web context-menu client lifecycle in SelectableRegion<br />
+  <sub>[#189587](https://github.com/flutter/flutter/pull/189587) opened on on July 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189587) 131 additions and 3 deletions in 4 files</sub><br />
+

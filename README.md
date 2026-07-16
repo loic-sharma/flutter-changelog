@@ -76,6 +76,10 @@
   <sub>[#189308](https://github.com/flutter/flutter/pull/189308) merged on July 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189308) over 3 days, 257 additions and 14 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Relocate cupertino samples that were under widgets/<br />
+  <sub>[#188876](https://github.com/flutter/flutter/pull/188876) merged on July 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188876) over 2 weeks, 4 additions and 4 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[DigvijaySingh](https://github.com/Aurelius51)** &mdash; Fix lower DragTarget not being recognized in overlapping targets<br />
   <sub>[#188979](https://github.com/flutter/flutter/pull/188979) merged on July 16, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188979) over 1 week, 173 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
@@ -95,10 +99,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix atlas growth test<br />
   <sub>[#189533](https://github.com/flutter/flutter/pull/189533) merged on July 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189533) over 10 hours, 17 additions and 26 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move shared darwin plugin tests into own builder<br />
-  <sub>[#189411](https://github.com/flutter/flutter/pull/189411) merged on July 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189411) over 2 days, 42 additions and 11 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add note that `hcpp` needs impeller<br />
   <sub>[#189382](https://github.com/flutter/flutter/pull/189382) merged on July 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189382) over 12 minutes, 1 addition and 0 deletions in 1 file</sub><br />
@@ -128,13 +128,13 @@
   <sub>[#189283](https://github.com/flutter/flutter/pull/189283) merged on July 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189283) over 3 days, 1 addition and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move shared darwin plugin tests into own builder<br />
+  <sub>[#189411](https://github.com/flutter/flutter/pull/189411) merged on July 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189411) over 2 days, 42 additions and 11 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios] Fix //flutter:unittests build for physical devices<br />
   <sub>[#189543](https://github.com/flutter/flutter/pull/189543) merged on July 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189543) over 2 hours, 10 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Relocate cupertino samples that were under widgets/<br />
-  <sub>[#188876](https://github.com/flutter/flutter/pull/188876) merged on July 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188876) over 2 weeks, 4 additions and 4 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Call glfwTerminate during global test environment teardown if a playground test called glfwInit<br />
   <sub>[#189523](https://github.com/flutter/flutter/pull/189523) merged on July 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189523) over 2 hours, 17 additions and 1 deletion in 3 files</sub><br />
