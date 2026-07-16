@@ -1147,11 +1147,15 @@
 
 ### July 11, 2026 to July 17, 2026
 
-6 commits.
+7 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [packages] Fix a few excerpter issues and inconsistencies<br />
   <sub>[#13577](https://github.com/flutter/website/pull/13577) merged on July 14, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/website/pull/13577) over 1 hour, 409 additions and 88 deletions in 9 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a page on dependency management.<br />
+  <sub>[#13579](https://github.com/flutter/website/pull/13579) merged on July 16, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13579) over 1 day, 247 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add AI guidelines go link<br />
   <sub>[#13578](https://github.com/flutter/website/pull/13578) merged on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13578) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
