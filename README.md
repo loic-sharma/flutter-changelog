@@ -727,7 +727,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-17 commits.
+18 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Add `#region` to example files to remove license headers<br />
   <sub>[#12170](https://github.com/flutter/packages/pull/12170) merged on July 13, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/12170) over 3 days, 915 additions and 315 deletions in 410 files</sub><br />
@@ -754,6 +754,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix(ci): harden some workflows in packages<br />
   <sub>[#12178](https://github.com/flutter/packages/pull/12178) merged on July 15, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12178) over 4 days, 58 additions and 23 deletions in 7 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Convert XCUITests to Swift<br />
+  <sub>[#12208](https://github.com/flutter/packages/pull/12208) merged on July 16, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/12208) over 15 hours, 1086 additions and 1170 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [shared_preferences] Convert legacy tests to Kotlin<br />
   <sub>[#12193](https://github.com/flutter/packages/pull/12193) merged on July 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/12193) over 19 hours, 332 additions and 369 deletions in 2 files</sub><br />
