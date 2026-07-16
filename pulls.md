@@ -186,7 +186,7 @@
   <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189500) 67 additions and 15 deletions in 3 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Bump devtools_shared to 13.1.0<br />
-  <sub>[#189507](https://github.com/flutter/flutter/pull/189507) opened on on July 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189507) 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#189507](https://github.com/flutter/flutter/pull/189507) opened on on July 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189507) 14 additions and 14 deletions in 3 files</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Remove obsolete packages analysis flag<br />
   <sub>[#189525](https://github.com/flutter/flutter/pull/189525) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189525) 1 addition and 3 deletions in 2 files</sub><br />
@@ -199,4 +199,7 @@
 
 * **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; Fix web context-menu client lifecycle in SelectableRegion<br />
   <sub>[#189587](https://github.com/flutter/flutter/pull/189587) opened on on July 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189587) 204 additions and 4 deletions in 4 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to cc08479fbcc1<br />
+  <sub>[#189595](https://github.com/flutter/flutter/pull/189595) opened on on July 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189595) 1 addition and 1 deletion in 1 file</sub><br />
 
