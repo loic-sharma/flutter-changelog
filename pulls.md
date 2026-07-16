@@ -194,6 +194,3 @@
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Move githooks to `dev/tools/githooks`<br />
-  <sub>[#189539](https://github.com/flutter/flutter/pull/189539) opened on on July 15, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189539) 259 additions and 211 deletions in 23 files</sub><br />
-
