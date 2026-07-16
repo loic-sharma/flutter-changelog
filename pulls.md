@@ -162,7 +162,7 @@
   <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Upgrade android_hardware_smoke_test CI to run instrumented tests<br />
-  <sub>[#189390](https://github.com/flutter/flutter/pull/189390) opened on on July 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/189390) 111 additions and 2 deletions in 5 files</sub><br />
+  <sub>[#189390](https://github.com/flutter/flutter/pull/189390) opened on on July 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/189390) 111 additions and 2 deletions in 5 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
   <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
@@ -202,7 +202,4 @@
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; android_hardware_smoke_tests: Apply semantic line breaks to readme<br />
   <sub>[#189613](https://github.com/flutter/flutter/pull/189613) opened on on July 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189613) 211 additions and 48 deletions in 1 file</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Fix arrayBuffer hang in flutter test on Chrome 145<br />
-  <sub>[#189623](https://github.com/flutter/flutter/pull/189623) opened on on July 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189623) 4 additions and 1 deletion in 1 file</sub><br />
 
