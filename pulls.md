@@ -195,7 +195,7 @@
   <sub>[#189580](https://github.com/flutter/flutter/pull/189580) opened on on July 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189580) 1302 additions and 155 deletions in 32 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take plugin_test_darwin out of bringup<br />
-  <sub>[#189594](https://github.com/flutter/flutter/pull/189594) opened on on July 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189594) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#189594](https://github.com/flutter/flutter/pull/189594) opened on on July 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189594) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to cc08479fbcc1<br />
   <sub>[#189595](https://github.com/flutter/flutter/pull/189595) opened on on July 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189595) 52 additions and 115 deletions in 4 files</sub><br />
@@ -205,6 +205,9 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Impeller] Retry uncompressed when fixed-rate compression is exhausted<br />
   <sub>[#189611](https://github.com/flutter/flutter/pull/189611) opened on on July 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189611) 179 additions and 25 deletions in 4 files</sub><br />
+
+* **[matheusccastro](https://github.com/matheusccastroo)** &mdash; Pass web-defines to the web builder in all run configurations<br />
+  <sub>[#189622](https://github.com/flutter/flutter/pull/189622) opened on on July 16, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/189622) 420 additions and 0 deletions in 10 files</sub><br />
 
 * **[Bhootnath](https://github.com/Bhootna8)** &mdash; Fix RangeSlider thumb overlay persisting after touch gesture<br />
   <sub>[#189648](https://github.com/flutter/flutter/pull/189648) opened on on July 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189648) 172 additions and 3 deletions in 2 files</sub><br />
