@@ -213,7 +213,7 @@
   <sub>[#189658](https://github.com/flutter/flutter/pull/189658) opened on on July 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189658) 36 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] In the AHBTextureSourceVK destructor, do not call Vulkan APIs if the VkDevice has been destroyed<br />
-  <sub>[#189666](https://github.com/flutter/flutter/pull/189666) opened on on July 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189666) 240 additions and 44 deletions in 8 files</sub><br />
+  <sub>[#189666](https://github.com/flutter/flutter/pull/189666) opened on on July 17, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/189666) 262 additions and 51 deletions in 11 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix null-deref/double-dispose in StretchingOverscrollIndicator (#189589)<br />
   <sub>[#189667](https://github.com/flutter/flutter/pull/189667) opened on on July 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189667) 48 additions and 4 deletions in 2 files</sub><br />
