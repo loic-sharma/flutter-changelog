@@ -195,7 +195,7 @@
   <sub>[#189570](https://github.com/flutter/flutter/pull/189570) opened on on July 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189570) 34 additions and 4 deletions in 4 files</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Harden the Vulkan backend against driver failures and resource exhaustion<br />
-  <sub>[#189580](https://github.com/flutter/flutter/pull/189580) opened on on July 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189580) 1240 additions and 155 deletions in 31 files</sub><br />
+  <sub>[#189580](https://github.com/flutter/flutter/pull/189580) opened on on July 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189580) 1302 additions and 155 deletions in 32 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take plugin_test_darwin out of bringup<br />
   <sub>[#189594](https://github.com/flutter/flutter/pull/189594) opened on on July 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189594) 0 additions and 1 deletion in 1 file</sub><br />
