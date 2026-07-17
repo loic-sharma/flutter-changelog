@@ -1167,7 +1167,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-9 commits.
+10 commits.
 
 * **[Ortes](https://github.com/Ortes)** &mdash; docs: add Flutter Driver example to MCP server page<br />
   <sub>[#13220](https://github.com/flutter/website/pull/13220) merged on July 17, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/website/pull/13220) over 3 months, 63 additions and 0 deletions in 1 file</sub><br />
@@ -1188,6 +1188,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add AI guidelines go link<br />
   <sub>[#13578](https://github.com/flutter/website/pull/13578) merged on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13578) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding SwiftUI tab to example code<br />
+  <sub>[#13580](https://github.com/flutter/website/pull/13580) merged on July 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13580) over 18 hours, 63 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[Dmitry Grand (dmgr)](https://github.com/ievdokdm)** &mdash; added link to unified flutter check run user manual<br />
   <sub>[#13575](https://github.com/flutter/website/pull/13575) merged on July 13, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13575) over 19 minutes, 1 addition and 0 deletions in 1 file</sub><br />
