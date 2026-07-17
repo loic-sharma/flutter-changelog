@@ -161,9 +161,6 @@
 * **[udit](https://github.com/UditDewan)** &mdash; Echo desktop app stderr as error output<br />
   <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
 
-* **[Andy Wolff](https://github.com/andywolff)** &mdash; Upgrade android_hardware_smoke_test CI to run instrumented tests<br />
-  <sub>[#189390](https://github.com/flutter/flutter/pull/189390) opened on on July 13, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/189390) 141 additions and 2 deletions in 5 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
   <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
 
@@ -217,4 +214,7 @@
 
 * **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; fix(tool): make copied frameworks writable to fix macOS 15.4+ openrsync regression<br />
   <sub>[#189658](https://github.com/flutter/flutter/pull/189658) opened on on July 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189658) 36 additions and 0 deletions in 2 files</sub><br />
+
+* **[Cody Goldberg](https://github.com/prefanatic)** &mdash; android: report active text input target to IME<br />
+  <sub>[#189662](https://github.com/flutter/flutter/pull/189662) opened on on July 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189662) 88 additions and 0 deletions in 4 files</sub><br />
 
