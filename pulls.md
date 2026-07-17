@@ -162,7 +162,7 @@
   <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Upgrade android_hardware_smoke_test CI to run instrumented tests<br />
-  <sub>[#189390](https://github.com/flutter/flutter/pull/189390) opened on on July 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/189390) 111 additions and 2 deletions in 5 files</sub><br />
+  <sub>[#189390](https://github.com/flutter/flutter/pull/189390) opened on on July 13, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/189390) 141 additions and 2 deletions in 5 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
   <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
@@ -190,6 +190,12 @@
 
 * **[ניר](https://github.com/nrbnlulu)** &mdash; [Windowing] fix: backspace and text editing shortcuts not working<br />
   <sub>[#189561](https://github.com/flutter/flutter/pull/189561) opened on on July 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189561) 79 additions and 4 deletions in 2 files</sub><br />
+
+* **[Serhat Güler](https://github.com/sero583)** &mdash; [windows] Strip HMONITOR sign extension from display ids<br />
+  <sub>[#189570](https://github.com/flutter/flutter/pull/189570) opened on on July 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189570) 34 additions and 4 deletions in 4 files</sub><br />
+
+* **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Harden the Vulkan backend against driver failures and resource exhaustion<br />
+  <sub>[#189580](https://github.com/flutter/flutter/pull/189580) opened on on July 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189580) 1240 additions and 155 deletions in 31 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take plugin_test_darwin out of bringup<br />
   <sub>[#189594](https://github.com/flutter/flutter/pull/189594) opened on on July 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189594) 0 additions and 1 deletion in 1 file</sub><br />
