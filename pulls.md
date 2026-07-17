@@ -203,6 +203,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Impeller] Retry uncompressed when fixed-rate compression is exhausted<br />
   <sub>[#189611](https://github.com/flutter/flutter/pull/189611) opened on on July 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189611) 179 additions and 25 deletions in 4 files</sub><br />
 
-* **[Andy Wolff](https://github.com/andywolff)** &mdash; android_hardware_smoke_tests: Apply semantic line breaks to readme<br />
-  <sub>[#189613](https://github.com/flutter/flutter/pull/189613) opened on on July 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189613) 211 additions and 48 deletions in 1 file</sub><br />
-
