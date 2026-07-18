@@ -1200,7 +1200,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-12 commits.
+14 commits.
 
 * **[Ortes](https://github.com/Ortes)** &mdash; docs: add Flutter Driver example to MCP server page
   <sub>[#13220](https://github.com/flutter/website/pull/13220) merged on July 17, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/website/pull/13220) over 3 months, 63 additions and 0 deletions in 1 file</sub>
@@ -1217,6 +1217,14 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding a page on dependency management.
   <sub>[#13579](https://github.com/flutter/website/pull/13579) merged on July 16, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13579) over 1 day, 247 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Generate structured ld+json site data
+  <sub>[#13589](https://github.com/flutter/website/pull/13589) merged on July 18, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/website/pull/13589) over 18 hours, 242 additions and 105 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Set canonical URL for every site page
+  <sub>[#13590](https://github.com/flutter/website/pull/13590) merged on July 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13590) over 18 hours, 13 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add AI guidelines go link
   <sub>[#13578](https://github.com/flutter/website/pull/13578) merged on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13578) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
