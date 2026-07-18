@@ -227,3 +227,6 @@
 * **[Afzal Najam](https://github.com/AfzalivE)** &mdash; [iOS] Preserve semantics parents after reparenting<br />
   <sub>[#189686](https://github.com/flutter/flutter/pull/189686) opened on on July 18, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189686) 403 additions and 3 deletions in 7 files</sub><br />
 
+* **[awnoa](https://github.com/awnoa)** &mdash; Clarify CustomScrollView use cases<br />
+  <sub>[#189692](https://github.com/flutter/flutter/pull/189692) opened on on July 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189692) 8 additions and 7 deletions in 1 file</sub><br />
+
