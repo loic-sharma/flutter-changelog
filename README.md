@@ -784,7 +784,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-23 commits.
+24 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Add `#region` to example files to remove license headers<br />
   <sub>[#12170](https://github.com/flutter/packages/pull/12170) merged on July 13, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/12170) over 3 days, 915 additions and 315 deletions in 410 files</sub><br />
@@ -811,6 +811,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix(ci): harden some workflows in packages<br />
   <sub>[#12178](https://github.com/flutter/packages/pull/12178) merged on July 15, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12178) over 4 days, 58 additions and 23 deletions in 7 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Migrate iOS unit tests to Swift<br />
+  <sub>[#12232](https://github.com/flutter/packages/pull/12232) merged on July 18, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/12232) over 18 hours, 12150 additions and 11444 deletions in 159 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] allow empty class<br />
   <sub>[#12181](https://github.com/flutter/packages/pull/12181) merged on July 17, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/12181) over 5 days, 865 additions and 95 deletions in 29 files</sub><br />
