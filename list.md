@@ -1200,7 +1200,7 @@
 
 ### July 11, 2026 to July 17, 2026
 
-14 commits.
+15 commits.
 
 * **[Ortes](https://github.com/Ortes)** &mdash; docs: add Flutter Driver example to MCP server page
   <sub>[#13220](https://github.com/flutter/website/pull/13220) merged on July 17, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/website/pull/13220) over 3 months, 63 additions and 0 deletions in 1 file</sub>
@@ -1229,6 +1229,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add AI guidelines go link
   <sub>[#13578](https://github.com/flutter/website/pull/13578) merged on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13578) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add a note about how to enable developer mode on an iOS device
+  <sub>[#13583](https://github.com/flutter/website/pull/13583) merged on July 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13583) over 1 day, 8 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; Added one new consultant and its relative image
   <sub>[#13588](https://github.com/flutter/website/pull/13588) merged on July 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13588) over 6 hours, 16 additions and 1 deletion in 2 files</sub>

@@ -230,3 +230,6 @@
 * **[awnoa](https://github.com/awnoa)** &mdash; Clarify CustomScrollView use cases<br />
   <sub>[#189692](https://github.com/flutter/flutter/pull/189692) opened on on July 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189692) 8 additions and 7 deletions in 1 file</sub><br />
 
+* **[udit](https://github.com/UditDewan)** &mdash; Skip platform tooling regeneration for non-Flutter pub workspace packages<br />
+  <sub>[#189705](https://github.com/flutter/flutter/pull/189705) opened on on July 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189705) 78 additions and 6 deletions in 2 files</sub><br />
+
