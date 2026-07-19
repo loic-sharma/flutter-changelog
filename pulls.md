@@ -222,7 +222,7 @@
   <sub>[#189667](https://github.com/flutter/flutter/pull/189667) opened on on July 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189667) 48 additions and 4 deletions in 2 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Refactor gn post-processing, fix minor clang[++] regex match bug<br />
-  <sub>[#189685](https://github.com/flutter/flutter/pull/189685) opened on on July 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189685) 112 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#189685](https://github.com/flutter/flutter/pull/189685) opened on on July 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189685) 112 additions and 9 deletions in 3 files</sub><br />
 
 * **[Afzal Najam](https://github.com/AfzalivE)** &mdash; [iOS] Preserve semantics parents after reparenting<br />
   <sub>[#189686](https://github.com/flutter/flutter/pull/189686) opened on on July 18, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189686) 403 additions and 3 deletions in 7 files</sub><br />
