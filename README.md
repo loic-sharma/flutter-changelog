@@ -546,11 +546,15 @@
 
 ### July 18, 2026 to July 24, 2026
 
-7 commits.
+8 commits.
 
 * **[dao-wkm](https://github.com/dao-wkm)** &mdash; [video_player_android] Avoid sending unset duration on initialization<br />
   <sub>[#11709](https://github.com/flutter/packages/pull/11709) merged on July 20, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/11709) over 2 months, 133 additions and 6 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Add `AGENTS.md`<br />
+  <sub>[#12066](https://github.com/flutter/packages/pull/12066) merged on July 20, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/12066) over 2 weeks, 25 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Convert from XCTest to Swift Testing<br />
   <sub>[#12243](https://github.com/flutter/packages/pull/12243) merged on July 20, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/12243) over 1 day, 620 additions and 616 deletions in 36 files</sub><br />
