@@ -4,7 +4,15 @@
 
 ### July 18, 2026 to July 24, 2026
 
-3 commits.
+6 commits.
+
+* **[jameskrupnik](https://github.com/jameskrupnik)** &mdash; Add AutofillHints.emailOTPCode for Android AUTOFILL_HINT_EMAIL_OTP
+  <sub>[#188123](https://github.com/flutter/flutter/pull/188123) merged on July 20, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188123) over 1 month, 138 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] In the AHBTextureSourceVK destructor, do not call Vulkan APIs if the VkDevice has been destroyed
+  <sub>[#189666](https://github.com/flutter/flutter/pull/189666) merged on July 20, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/189666) over 2 days, 266 additions and 52 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to cc08479fbcc1
   <sub>[#189595](https://github.com/flutter/flutter/pull/189595) merged on July 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189595) over 3 days, 52 additions and 115 deletions in 4 files</sub>
@@ -13,6 +21,10 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `AccessibilityEventsDelegateTest.java`
   <sub>[#189280](https://github.com/flutter/flutter/pull/189280) merged on July 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189280) over 1 week, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable
+  <sub>[#189735](https://github.com/flutter/flutter/pull/189735) merged on July 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189735) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add a github workflow to remove flutteractionsbot branches after the PRs are merged or closed.
   <sub>[#189668](https://github.com/flutter/flutter/pull/189668) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189668) over 2 days, 34 additions and 0 deletions in 1 file</sub>
@@ -534,7 +546,15 @@
 
 ### July 18, 2026 to July 24, 2026
 
-4 commits.
+6 commits.
+
+* **[dao-wkm](https://github.com/dao-wkm)** &mdash; [video_player_android] Avoid sending unset duration on initialization
+  <sub>[#11709](https://github.com/flutter/packages/pull/11709) merged on July 20, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/11709) over 2 months, 133 additions and 6 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Convert from XCTest to Swift Testing
+  <sub>[#12243](https://github.com/flutter/packages/pull/12243) merged on July 20, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/12243) over 1 day, 620 additions and 616 deletions in 36 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui] Unpin material_color_utilities
   <sub>[#12225](https://github.com/flutter/packages/pull/12225) merged on July 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12225) over 3 days, 1 addition and 3 deletions in 1 file</sub>

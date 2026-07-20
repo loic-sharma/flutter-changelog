@@ -203,9 +203,6 @@
 * **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; fix(tool): make copied frameworks writable to fix macOS 15.4+ openrsync regression<br />
   <sub>[#189658](https://github.com/flutter/flutter/pull/189658) opened on on July 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189658) 36 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] In the AHBTextureSourceVK destructor, do not call Vulkan APIs if the VkDevice has been destroyed<br />
-  <sub>[#189666](https://github.com/flutter/flutter/pull/189666) opened on on July 17, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/189666) 266 additions and 52 deletions in 11 files</sub><br />
-
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix null-deref/double-dispose in StretchingOverscrollIndicator (#189589)<br />
   <sub>[#189667](https://github.com/flutter/flutter/pull/189667) opened on on July 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189667) 48 additions and 4 deletions in 2 files</sub><br />
 
@@ -227,6 +224,6 @@
 * **[pierre](https://github.com/guidezpl)** &mdash; Remove codecov badge from README<br />
   <sub>[#189728](https://github.com/flutter/flutter/pull/189728) opened on on July 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189728) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
-  <sub>[#189735](https://github.com/flutter/flutter/pull/189735) opened on on July 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189735) 3 additions and 0 deletions in 1 file</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Derive the SkImage size used by ImageEncodingImpeller::ConvertDlImageToSkImage from the size of the underlying texture, not the size of the DlImage<br />
+  <sub>[#189739](https://github.com/flutter/flutter/pull/189739) opened on on July 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189739) 44 additions and 1 deletion in 2 files</sub><br />
 
