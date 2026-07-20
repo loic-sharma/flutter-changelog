@@ -233,3 +233,6 @@
 * **[udit](https://github.com/UditDewan)** &mdash; Skip platform tooling regeneration for non-Flutter pub workspace packages<br />
   <sub>[#189705](https://github.com/flutter/flutter/pull/189705) opened on on July 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189705) 78 additions and 6 deletions in 2 files</sub><br />
 
+* **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Return null from RenderProxyBoxMixin.computeDryBaseline when the child has no baseline<br />
+  <sub>[#189723](https://github.com/flutter/flutter/pull/189723) opened on on July 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189723) 39 additions and 2 deletions in 2 files</sub><br />
+
