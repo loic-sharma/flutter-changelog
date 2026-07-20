@@ -149,9 +149,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean android engine/embedding tests<br />
   <sub>[#189276](https://github.com/flutter/flutter/pull/189276) opened on on July 10, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189276) 182 additions and 186 deletions in 22 files</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `AccessibilityEventsDelegateTest.java`<br />
-  <sub>[#189280](https://github.com/flutter/flutter/pull/189280) opened on on July 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189280) 4 additions and 4 deletions in 1 file</sub><br />
-
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22936 additions and 0 deletions in 173 files</sub><br />
 
@@ -186,7 +183,7 @@
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
 
 * **[ניר](https://github.com/nrbnlulu)** &mdash; [Windowing] fix: backspace and text editing shortcuts not working<br />
-  <sub>[#189561](https://github.com/flutter/flutter/pull/189561) opened on on July 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189561) 79 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#189561](https://github.com/flutter/flutter/pull/189561) opened on on July 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189561) 79 additions and 4 deletions in 2 files</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [windows] Strip HMONITOR sign extension from display ids<br />
   <sub>[#189570](https://github.com/flutter/flutter/pull/189570) opened on on July 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189570) 34 additions and 4 deletions in 4 files</sub><br />
@@ -210,13 +207,13 @@
   <sub>[#189622](https://github.com/flutter/flutter/pull/189622) opened on on July 16, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/189622) 420 additions and 0 deletions in 10 files</sub><br />
 
 * **[Bhootnath](https://github.com/Bhootna8)** &mdash; Fix RangeSlider thumb overlay persisting after touch gesture<br />
-  <sub>[#189648](https://github.com/flutter/flutter/pull/189648) opened on on July 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189648) 172 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#189648](https://github.com/flutter/flutter/pull/189648) opened on on July 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189648) 172 additions and 3 deletions in 2 files</sub><br />
 
 * **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; fix(tool): make copied frameworks writable to fix macOS 15.4+ openrsync regression<br />
   <sub>[#189658](https://github.com/flutter/flutter/pull/189658) opened on on July 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189658) 36 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] In the AHBTextureSourceVK destructor, do not call Vulkan APIs if the VkDevice has been destroyed<br />
-  <sub>[#189666](https://github.com/flutter/flutter/pull/189666) opened on on July 17, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/189666) 266 additions and 52 deletions in 11 files</sub><br />
+  <sub>[#189666](https://github.com/flutter/flutter/pull/189666) opened on on July 17, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/189666) 266 additions and 52 deletions in 11 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix null-deref/double-dispose in StretchingOverscrollIndicator (#189589)<br />
   <sub>[#189667](https://github.com/flutter/flutter/pull/189667) opened on on July 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189667) 48 additions and 4 deletions in 2 files</sub><br />
@@ -235,4 +232,7 @@
 
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Return null from RenderProxyBoxMixin.computeDryBaseline when the child has no baseline<br />
   <sub>[#189723](https://github.com/flutter/flutter/pull/189723) opened on on July 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189723) 39 additions and 2 deletions in 2 files</sub><br />
+
+* **[pierre](https://github.com/guidezpl)** &mdash; Remove codecov badge from README<br />
+  <sub>[#189728](https://github.com/flutter/flutter/pull/189728) opened on on July 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189728) 0 additions and 1 deletion in 1 file</sub><br />
 
