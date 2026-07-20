@@ -2,9 +2,26 @@
 
 ## flutter/flutter
 
+### July 18, 2026 to July 24, 2026
+
+3 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to cc08479fbcc1
+  <sub>[#189595](https://github.com/flutter/flutter/pull/189595) merged on July 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189595) over 3 days, 52 additions and 115 deletions in 4 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `AccessibilityEventsDelegateTest.java`
+  <sub>[#189280](https://github.com/flutter/flutter/pull/189280) merged on July 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189280) over 1 week, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add a github workflow to remove flutteractionsbot branches after the PRs are merged or closed.
+  <sub>[#189668](https://github.com/flutter/flutter/pull/189668) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189668) over 2 days, 34 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Reid Baker](https://github.com/reidbaker)</sub>
+
 ### July 11, 2026 to July 17, 2026
 
-52 commits.
+<details>
+<summary>52 commits...</summary>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Implement UberSDF lines to replace LineContents-based AA lines
   <sub>[#188514](https://github.com/flutter/flutter/pull/188514) merged on July 15, 2026 &mdash; **Large:** [65 comments](https://github.com/flutter/flutter/pull/188514) over 2 weeks, 405 additions and 177 deletions in 10 files</sub>
@@ -216,6 +233,8 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix ADB device listing output parsing regression
   <sub>[#189369](https://github.com/flutter/flutter/pull/189369) merged on July 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189369) over 2 hours, 71 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+</details>
 
 ### July 4, 2026 to July 10, 2026
 
@@ -513,9 +532,30 @@
 
 ## flutter/packages
 
+### July 18, 2026 to July 24, 2026
+
+4 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui] Unpin material_color_utilities
+  <sub>[#12225](https://github.com/flutter/packages/pull/12225) merged on July 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12225) over 3 days, 1 addition and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert example boilerplate from Java to Kotlin
+  <sub>[#12201](https://github.com/flutter/packages/pull/12201) merged on July 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/12201) over 5 days, 727 additions and 864 deletions in 93 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[liam](https://github.com/lianshumin)** &mdash; [in_app_purchase_android] Add obfuscated profile ID purchase param
+  <sub>[#12080](https://github.com/flutter/packages/pull/12080) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12080) over 2 weeks, 45 additions and 1 deletion in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui] Update changelogs for the prerelease
+  <sub>[#12249](https://github.com/flutter/packages/pull/12249) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12249) over 39 minutes, 13 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
 ### July 11, 2026 to July 17, 2026
 
-24 commits.
+<details>
+<summary>24 commits...</summary>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Add `#region` to example files to remove license headers
   <sub>[#12170](https://github.com/flutter/packages/pull/12170) merged on July 13, 2026 &mdash; **Large:** [34 comments](https://github.com/flutter/packages/pull/12170) over 3 days, 915 additions and 315 deletions in 410 files</sub>
@@ -614,6 +654,8 @@
 * **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; [google_maps_flutter_platform_interface] Adds support for mapTypeControlEnabled, fullscreenControlEnabled, and streetViewControlEnabled for web
   <sub>[#12191](https://github.com/flutter/packages/pull/12191) merged on July 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12191) over 4 hours, 99 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+</details>
 
 ### July 4, 2026 to July 10, 2026
 
@@ -716,12 +758,20 @@
 
 ### July 18, 2026 to July 24, 2026
 
-3 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Move location of secondary output Markdown pages
   <sub>[#13593](https://github.com/flutter/website/pull/13593) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13593) over 1 day, 107 additions and 28 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary><img width="346" height="167" alt="Screenshot of the updated more options menu with 'View as Markdown' as one of the items." src="https://github.com/user-attachments/assets/42a95db1-34d0-4d4c-8256-44dbb93b645f" /></details></sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update uiscene adoption
+  <sub>[#13560](https://github.com/flutter/website/pull/13560) merged on July 20, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13560) over 1 week, 134 additions and 146 deletions in 1 file</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[awnoa](https://github.com/awnoa)** &mdash; Document multiple Flutter plugin instances
+  <sub>[#13591](https://github.com/flutter/website/pull/13591) merged on July 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13591) over 2 days, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Fix a few typos and formatting errors
   <sub>[#13594](https://github.com/flutter/website/pull/13594) merged on July 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13594) over 12 hours, 119 additions and 96 deletions in 32 files</sub>
