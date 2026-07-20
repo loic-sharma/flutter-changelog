@@ -546,7 +546,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-8 commits.
+9 commits.
 
 * **[dao-wkm](https://github.com/dao-wkm)** &mdash; [video_player_android] Avoid sending unset duration on initialization
   <sub>[#11709](https://github.com/flutter/packages/pull/11709) merged on July 20, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/11709) over 2 months, 133 additions and 6 deletions in 5 files</sub>
@@ -567,6 +567,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert example boilerplate from Java to Kotlin
   <sub>[#12201](https://github.com/flutter/packages/pull/12201) merged on July 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/12201) over 5 days, 727 additions and 864 deletions in 93 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Publish pre-release 0.0.2
+  <sub>[#12251](https://github.com/flutter/packages/pull/12251) merged on July 20, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/12251) over 4 hours, 36 additions and 2 deletions in 8 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[liam](https://github.com/lianshumin)** &mdash; [in_app_purchase_android] Add obfuscated profile ID purchase param
   <sub>[#12080](https://github.com/flutter/packages/pull/12080) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12080) over 2 weeks, 45 additions and 1 deletion in 5 files</sub>

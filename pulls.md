@@ -129,7 +129,7 @@
   <sub>[#189091](https://github.com/flutter/flutter/pull/189091) opened on on July 7, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/189091) 412 additions and 125 deletions in 10 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
-  <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189103) 35 additions and 104 deletions in 10 files</sub><br />
+  <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
 
 * **[Adil Burak Şen](https://github.com/adilburaksen)** &mdash; [flutter_tools] Validate plugin class/package identifiers to prevent GeneratedPluginRegistrant injection<br />
   <sub>[#189156](https://github.com/flutter/flutter/pull/189156) opened on on July 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189156) 122 additions and 22 deletions in 3 files</sub><br />
