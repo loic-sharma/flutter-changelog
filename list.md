@@ -714,9 +714,27 @@
 
 ## flutter/website
 
+### July 18, 2026 to July 24, 2026
+
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Move location of secondary output Markdown pages
+  <sub>[#13593](https://github.com/flutter/website/pull/13593) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13593) over 1 day, 107 additions and 28 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+  <sub><details><summary>1 image...</summary><img width="346" height="167" alt="Screenshot of the updated more options menu with 'View as Markdown' as one of the items." src="https://github.com/user-attachments/assets/42a95db1-34d0-4d4c-8256-44dbb93b645f" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Fix a few typos and formatting errors
+  <sub>[#13594](https://github.com/flutter/website/pull/13594) merged on July 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13594) over 12 hours, 119 additions and 96 deletions in 32 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deploy image to use Dart 3.13 beta
+  <sub>[#13595](https://github.com/flutter/website/pull/13595) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13595) over 8 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### July 11, 2026 to July 17, 2026
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Ortes](https://github.com/Ortes)** &mdash; docs: add Flutter Driver example to MCP server page
   <sub>[#13220](https://github.com/flutter/website/pull/13220) merged on July 17, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/website/pull/13220) over 3 months, 63 additions and 0 deletions in 1 file</sub>
@@ -777,6 +795,8 @@
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Rename flutter/skills to flutter/agent-plugins
   <sub>[#13568](https://github.com/flutter/website/pull/13568) merged on July 13, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13568) over 2 days, 12 additions and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### July 4, 2026 to July 10, 2026
 
