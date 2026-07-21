@@ -165,7 +165,7 @@
   <sub>[#189460](https://github.com/flutter/flutter/pull/189460) opened on on July 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189460) 32 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move tool host_cross_arch tests into different shards<br />
-  <sub>[#189470](https://github.com/flutter/flutter/pull/189470) opened on on July 14, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/189470) 356 additions and 373 deletions in 7 files</sub><br />
+  <sub>[#189470](https://github.com/flutter/flutter/pull/189470) opened on on July 14, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/189470) 356 additions and 373 deletions in 7 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Make glBlitFramebuffer optional in the OpenGL compositor<br />
   <sub>[#189476](https://github.com/flutter/flutter/pull/189476) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189476) 67 additions and 6 deletions in 2 files</sub><br />
@@ -188,9 +188,6 @@
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Harden the Vulkan backend against driver failures and resource exhaustion<br />
   <sub>[#189580](https://github.com/flutter/flutter/pull/189580) opened on on July 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189580) 1302 additions and 155 deletions in 32 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Take plugin_test_darwin out of bringup<br />
-  <sub>[#189594](https://github.com/flutter/flutter/pull/189594) opened on on July 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189594) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[M S karthik](https://github.com/KarthikManikuttan)** &mdash; Fix RangeSlider thumb overlay remains visible after touch interaction…<br />
   <sub>[#189610](https://github.com/flutter/flutter/pull/189610) opened on on July 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189610) 227 additions and 8 deletions in 2 files</sub><br />
 
@@ -205,9 +202,6 @@
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix null-deref/double-dispose in StretchingOverscrollIndicator (#189589)<br />
   <sub>[#189667](https://github.com/flutter/flutter/pull/189667) opened on on July 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189667) 48 additions and 4 deletions in 2 files</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Refactor gn post-processing, fix minor clang[++] regex match bug<br />
-  <sub>[#189685](https://github.com/flutter/flutter/pull/189685) opened on on July 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189685) 112 additions and 9 deletions in 3 files</sub><br />
 
 * **[Afzal Najam](https://github.com/AfzalivE)** &mdash; [iOS] Preserve semantics parents after reparenting<br />
   <sub>[#189686](https://github.com/flutter/flutter/pull/189686) opened on on July 18, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189686) 403 additions and 3 deletions in 7 files</sub><br />
@@ -228,5 +222,8 @@
   <sub>[#189739](https://github.com/flutter/flutter/pull/189739) opened on on July 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189739) 45 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Ensure playground tests render both on and offscreen<br />
-  <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/189747) 360 additions and 72 deletions in 13 files</sub><br />
+  <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/189747) 411 additions and 91 deletions in 17 files</sub><br />
+
+* **[Joyatou](https://github.com/Joyatou)** &mdash; [stable] Fix AccessibilityBridge startup crash on vendor-modified Android<br />
+  <sub>[#189759](https://github.com/flutter/flutter/pull/189759) opened on on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189759) 20 additions and 4 deletions in 1 file</sub><br />
 

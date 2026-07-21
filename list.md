@@ -4,11 +4,27 @@
 
 ### July 18, 2026 to July 24, 2026
 
-6 commits.
+10 commits.
 
 * **[jameskrupnik](https://github.com/jameskrupnik)** &mdash; Add AutofillHints.emailOTPCode for Android AUTOFILL_HINT_EMAIL_OTP
   <sub>[#188123](https://github.com/flutter/flutter/pull/188123) merged on July 20, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188123) over 1 month, 138 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; widgets layer re-export ScrollCacheExtent
+  <sub>[#189483](https://github.com/flutter/flutter/pull/189483) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189483) over 5 days, 19 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Stop using ReLinker to load libflutter.so on Android 17 (API 37+)
+  <sub>[#189146](https://github.com/flutter/flutter/pull/189146) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189146) over 1 week, 64 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Refactor gn post-processing, fix minor clang[++] regex match bug
+  <sub>[#189685](https://github.com/flutter/flutter/pull/189685) merged on July 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189685) over 2 days, 112 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Dmitry Grand (dmgr)](https://github.com/ievdokdm)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Take plugin_test_darwin out of bringup
+  <sub>[#189594](https://github.com/flutter/flutter/pull/189594) merged on July 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189594) over 4 days, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] In the AHBTextureSourceVK destructor, do not call Vulkan APIs if the VkDevice has been destroyed
   <sub>[#189666](https://github.com/flutter/flutter/pull/189666) merged on July 20, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/189666) over 2 days, 266 additions and 52 deletions in 11 files</sub>
@@ -556,6 +572,10 @@
   <sub>[#12066](https://github.com/flutter/packages/pull/12066) merged on July 20, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/12066) over 2 weeks, 25 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Publish pre-release 0.0.2
+  <sub>[#12251](https://github.com/flutter/packages/pull/12251) merged on July 20, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/12251) over 4 hours, 36 additions and 2 deletions in 8 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Convert from XCTest to Swift Testing
   <sub>[#12243](https://github.com/flutter/packages/pull/12243) merged on July 20, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/12243) over 1 day, 620 additions and 616 deletions in 36 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
@@ -568,17 +588,13 @@
   <sub>[#12201](https://github.com/flutter/packages/pull/12201) merged on July 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/12201) over 5 days, 727 additions and 864 deletions in 93 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Publish pre-release 0.0.2
-  <sub>[#12251](https://github.com/flutter/packages/pull/12251) merged on July 20, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/12251) over 4 hours, 36 additions and 2 deletions in 8 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Undo unpublished version info
+  <sub>[#12252](https://github.com/flutter/packages/pull/12252) merged on July 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12252) over 48 minutes, 1 addition and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[liam](https://github.com/lianshumin)** &mdash; [in_app_purchase_android] Add obfuscated profile ID purchase param
   <sub>[#12080](https://github.com/flutter/packages/pull/12080) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12080) over 2 weeks, 45 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Undo unpublished version info
-  <sub>[#12252](https://github.com/flutter/packages/pull/12252) merged on July 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12252) over 48 minutes, 1 addition and 9 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui] Update changelogs for the prerelease
   <sub>[#12249](https://github.com/flutter/packages/pull/12249) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12249) over 39 minutes, 13 additions and 4 deletions in 2 files</sub>
