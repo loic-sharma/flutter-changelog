@@ -4,11 +4,15 @@
 
 ### July 18, 2026 to July 24, 2026
 
-23 commits.
+24 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add BaseWindowController.isDestroyed flag<br />
   <sub>[#189061](https://github.com/flutter/flutter/pull/189061) merged on July 21, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/189061) over 2 weeks, 621 additions and 27 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Support custom BoxBorder animation in BoxDecoration<br />
+  <sub>[#186348](https://github.com/flutter/flutter/pull/186348) merged on July 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186348) over 2 months, 89 additions and 54 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Elliott Brooks](https://github.com/elliette)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix non-independant tests in draggable_test.dart<br />
   <sub>[#186898](https://github.com/flutter/flutter/pull/186898) merged on July 20, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186898) over 2 months, 102 additions and 84 deletions in 1 file</sub><br />
@@ -614,7 +618,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-16 commits.
+17 commits.
 
 * **[Hán Trung Kiên](https://github.com/hantrungkien)** &mdash; [go_router_builder] Allow users to specify onExit as optional<br />
   <sub>[#11151](https://github.com/flutter/packages/pull/11151) merged on July 21, 2026 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/11151) over 4 months, 319 additions and 32 deletions in 47 files</sub><br />
@@ -647,6 +651,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert example boilerplate from Java to Kotlin<br />
   <sub>[#12201](https://github.com/flutter/packages/pull/12201) merged on July 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/12201) over 5 days, 727 additions and 864 deletions in 93 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui] Prerelease setup<br />
+  <sub>[#12258](https://github.com/flutter/packages/pull/12258) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12258) over 6 hours, 40 additions and 8 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Undo unpublished version info<br />
   <sub>[#12252](https://github.com/flutter/packages/pull/12252) merged on July 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12252) over 48 minutes, 1 addition and 9 deletions in 2 files</sub><br />

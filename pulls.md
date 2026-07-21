@@ -33,7 +33,7 @@
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `InheritedElement.ubiquitous` constructor<br />
-  <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186923) 124 additions and 49 deletions in 3 files</sub><br />
+  <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186923) 124 additions and 49 deletions in 3 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
@@ -161,9 +161,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Invalidate WebEntrypointTarget when plugin set changes<br />
   <sub>[#189460](https://github.com/flutter/flutter/pull/189460) opened on on July 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189460) 32 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move tool host_cross_arch tests into different shards<br />
-  <sub>[#189470](https://github.com/flutter/flutter/pull/189470) opened on on July 14, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/189470) 356 additions and 373 deletions in 7 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Make glBlitFramebuffer optional in the OpenGL compositor<br />
   <sub>[#189476](https://github.com/flutter/flutter/pull/189476) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189476) 67 additions and 6 deletions in 2 files</sub><br />
 
@@ -207,7 +204,7 @@
   <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/189747) 411 additions and 91 deletions in 17 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios,macos] Add Swift Sourcekit LSP support<br />
-  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/189761) 603 additions and 7 deletions in 7 files</sub><br />
+  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/189761) 603 additions and 7 deletions in 7 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Scope SemanticsTester per test in scrollable_semantics_test<br />
   <sub>[#189800](https://github.com/flutter/flutter/pull/189800) opened on on July 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189800) 20 additions and 22 deletions in 1 file</sub><br />
