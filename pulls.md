@@ -122,6 +122,9 @@
 * **[RabahDj ](https://github.com/drhassimac-afk)** &mdash; Add new dependencies to pubspec.yaml<br />
   <sub>[#188935](https://github.com/flutter/flutter/pull/188935) opened on on July 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188935) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Explain why build methods must not have side effects<br />
+  <sub>[#188939](https://github.com/flutter/flutter/pull/188939) opened on on July 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188939) 29 additions and 9 deletions in 2 files</sub><br />
+
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -225,5 +228,5 @@
   <sub>[#189759](https://github.com/flutter/flutter/pull/189759) opened on on July 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189759) 20 additions and 4 deletions in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios,macos] Add Swift Sourcekit LSP support<br />
-  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/189761) 606 additions and 7 deletions in 6 files</sub><br />
+  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/189761) 607 additions and 7 deletions in 7 files</sub><br />
 

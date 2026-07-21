@@ -4,7 +4,11 @@
 
 ### July 18, 2026 to July 24, 2026
 
-15 commits.
+16 commits.
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add BaseWindowController.isDestroyed flag<br />
+  <sub>[#189061](https://github.com/flutter/flutter/pull/189061) merged on July 21, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/189061) over 2 weeks, 621 additions and 27 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix non-independant tests in draggable_test.dart<br />
   <sub>[#186898](https://github.com/flutter/flutter/pull/186898) merged on July 20, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186898) over 2 months, 102 additions and 84 deletions in 1 file</sub><br />
@@ -826,7 +830,12 @@
 
 ### July 18, 2026 to July 24, 2026
 
-5 commits.
+8 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add 'Copy as Markdown' button to page options dropdown<br />
+  <sub>[#13597](https://github.com/flutter/website/pull/13597) merged on July 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13597) over 19 hours, 159 additions and 5 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="254" height="248" alt="Screenshot of new Copy as Markdown button" src="https://github.com/user-attachments/assets/64b684d8-7c93-420a-92a7-9e5d1f5104b0" /></details></sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Move location of secondary output Markdown pages<br />
   <sub>[#13593](https://github.com/flutter/website/pull/13593) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13593) over 1 day, 107 additions and 28 deletions in 12 files</sub><br />
@@ -839,6 +848,14 @@
 
 * **[awnoa](https://github.com/awnoa)** &mdash; Document multiple Flutter plugin instances<br />
   <sub>[#13591](https://github.com/flutter/website/pull/13591) merged on July 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13591) over 2 days, 18 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SwiftPM mentions on pubspec reference page<br />
+  <sub>[#13598](https://github.com/flutter/website/pull/13598) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13598) over 17 hours, 30 additions and 27 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Replace or remove mentions to outdated and superseded packages<br />
+  <sub>[#13599](https://github.com/flutter/website/pull/13599) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13599) over 17 hours, 123 additions and 92 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Fix a few typos and formatting errors<br />
