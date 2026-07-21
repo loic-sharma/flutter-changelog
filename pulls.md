@@ -197,14 +197,8 @@
 * **[Afzal Najam](https://github.com/AfzalivE)** &mdash; [iOS] Preserve semantics parents after reparenting<br />
   <sub>[#189686](https://github.com/flutter/flutter/pull/189686) opened on on July 18, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189686) 403 additions and 3 deletions in 7 files</sub><br />
 
-* **[awnoa](https://github.com/awnoa)** &mdash; Clarify CustomScrollView use cases<br />
-  <sub>[#189692](https://github.com/flutter/flutter/pull/189692) opened on on July 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189692) 8 additions and 7 deletions in 1 file</sub><br />
-
 * **[udit](https://github.com/UditDewan)** &mdash; Skip platform tooling regeneration for non-Flutter pub workspace packages<br />
   <sub>[#189705](https://github.com/flutter/flutter/pull/189705) opened on on July 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189705) 78 additions and 6 deletions in 2 files</sub><br />
-
-* **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Return null from RenderProxyBoxMixin.computeDryBaseline when the child has no baseline<br />
-  <sub>[#189723](https://github.com/flutter/flutter/pull/189723) opened on on July 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189723) 39 additions and 2 deletions in 2 files</sub><br />
 
 * **[pierre](https://github.com/guidezpl)** &mdash; Remove codecov badge from README<br />
   <sub>[#189728](https://github.com/flutter/flutter/pull/189728) opened on on July 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189728) 0 additions and 1 deletion in 1 file</sub><br />
@@ -213,11 +207,11 @@
   <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/189747) 411 additions and 91 deletions in 17 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios,macos] Add Swift Sourcekit LSP support<br />
-  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/189761) 603 additions and 7 deletions in 7 files</sub><br />
+  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/189761) 603 additions and 7 deletions in 7 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Scope SemanticsTester per test in scrollable_semantics_test<br />
   <sub>[#189800](https://github.com/flutter/flutter/pull/189800) opened on on July 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189800) 20 additions and 22 deletions in 1 file</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix Mockito dynamic agent loading warnings in Robolectric tests<br />
-  <sub>[#189804](https://github.com/flutter/flutter/pull/189804) opened on on July 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189804) 19 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#189804](https://github.com/flutter/flutter/pull/189804) opened on on July 21, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189804) 19 additions and 1 deletion in 1 file</sub><br />
 

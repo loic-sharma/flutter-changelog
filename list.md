@@ -614,7 +614,11 @@
 
 ### July 18, 2026 to July 24, 2026
 
-15 commits.
+16 commits.
+
+* **[Hán Trung Kiên](https://github.com/hantrungkien)** &mdash; [go_router_builder] Allow users to specify onExit as optional
+  <sub>[#11151](https://github.com/flutter/packages/pull/11151) merged on July 21, 2026 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/11151) over 4 months, 319 additions and 32 deletions in 47 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] add support for top level consts
   <sub>[#12032](https://github.com/flutter/packages/pull/12032) merged on July 21, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/12032) over 3 weeks, 1167 additions and 10 deletions in 48 files</sub>
@@ -882,7 +886,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-12 commits.
+14 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add 'Copy as Markdown' button to page options dropdown
   <sub>[#13597](https://github.com/flutter/website/pull/13597) merged on July 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13597) over 19 hours, 159 additions and 5 deletions in 5 files</sub>
@@ -904,6 +908,14 @@
 
 * **[awnoa](https://github.com/awnoa)** &mdash; Document multiple Flutter plugin instances
   <sub>[#13591](https://github.com/flutter/website/pull/13591) merged on July 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13591) over 2 days, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update `SurfaceProducer` migration doc to use `onSurfaceCleanup`
+  <sub>[#13606](https://github.com/flutter/website/pull/13606) merged on July 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13606) over 25 minutes, 31 additions and 16 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix and update a few links using template variables
+  <sub>[#13605](https://github.com/flutter/website/pull/13605) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13605) over 1 hour, 12 additions and 12 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update various pub dependency constraints
