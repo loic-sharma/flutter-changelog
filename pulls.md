@@ -144,7 +144,7 @@
   <sub>[#189192](https://github.com/flutter/flutter/pull/189192) opened on on July 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189192) 220 additions and 21 deletions in 3 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean android engine/embedding tests<br />
-  <sub>[#189276](https://github.com/flutter/flutter/pull/189276) opened on on July 10, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/189276) 182 additions and 186 deletions in 22 files</sub><br />
+  <sub>[#189276](https://github.com/flutter/flutter/pull/189276) opened on on July 10, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189276) 182 additions and 186 deletions in 22 files</sub><br />
 
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22936 additions and 0 deletions in 173 files</sub><br />
@@ -191,6 +191,9 @@
 * **[matheusccastro](https://github.com/matheusccastroo)** &mdash; Pass web-defines to the web builder in all run configurations<br />
   <sub>[#189622](https://github.com/flutter/flutter/pull/189622) opened on on July 16, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/189622) 420 additions and 0 deletions in 10 files</sub><br />
 
+* **[Melrose](https://github.com/heyi1994)** &mdash; [Impeller] Work around GL driver job-pool exhaustion on MediaTek MT6779<br />
+  <sub>[#189643](https://github.com/flutter/flutter/pull/189643) opened on on July 17, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189643) 120 additions and 0 deletions in 5 files</sub><br />
+
 * **[Bhootnath](https://github.com/Bhootna8)** &mdash; Fix RangeSlider thumb overlay persisting after touch gesture<br />
   <sub>[#189648](https://github.com/flutter/flutter/pull/189648) opened on on July 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189648) 172 additions and 3 deletions in 2 files</sub><br />
 
@@ -212,9 +215,9 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Ensure playground tests render both on and offscreen<br />
   <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/189747) 411 additions and 91 deletions in 17 files</sub><br />
 
-* **[Joyatou](https://github.com/Joyatou)** &mdash; [stable] Fix AccessibilityBridge startup crash on vendor-modified Android<br />
-  <sub>[#189759](https://github.com/flutter/flutter/pull/189759) opened on on July 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189759) 20 additions and 4 deletions in 1 file</sub><br />
-
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios,macos] Add Swift Sourcekit LSP support<br />
   <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/189761) 607 additions and 7 deletions in 7 files</sub><br />
+
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Scope SemanticsTester per test in scrollable_semantics_test<br />
+  <sub>[#189800](https://github.com/flutter/flutter/pull/189800) opened on on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189800) 20 additions and 22 deletions in 1 file</sub><br />
 

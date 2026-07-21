@@ -4,7 +4,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-21 commits.
+22 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add BaseWindowController.isDestroyed flag<br />
   <sub>[#189061](https://github.com/flutter/flutter/pull/189061) merged on July 21, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/189061) over 2 weeks, 621 additions and 27 deletions in 8 files</sub><br />
@@ -77,6 +77,10 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `AccessibilityEventsDelegateTest.java`<br />
   <sub>[#189280](https://github.com/flutter/flutter/pull/189280) merged on July 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189280) over 1 week, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Run delete-bot-branches.yaml on `pull_request_target` instead of `pull_request` so that we can access secrets.<br />
+  <sub>[#189793](https://github.com/flutter/flutter/pull/189793) merged on July 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189793) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [flutter_test][Test cross imports] Move TestWidgetsApp to flutter_test<br />
   <sub>[#189435](https://github.com/flutter/flutter/pull/189435) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189435) over 1 week, 32 additions and 186 deletions in 112 files</sub><br />
@@ -606,7 +610,11 @@
 
 ### July 18, 2026 to July 24, 2026
 
-12 commits.
+14 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] add support for top level consts<br />
+  <sub>[#12032](https://github.com/flutter/packages/pull/12032) merged on July 21, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/12032) over 3 weeks, 1167 additions and 10 deletions in 48 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[dao-wkm](https://github.com/dao-wkm)** &mdash; [video_player_android] Avoid sending unset duration on initialization<br />
   <sub>[#11709](https://github.com/flutter/packages/pull/11709) merged on July 20, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/11709) over 2 months, 133 additions and 6 deletions in 5 files</sub><br />
@@ -655,6 +663,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui] Update changelogs for the prerelease<br />
   <sub>[#12249](https://github.com/flutter/packages/pull/12249) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12249) over 39 minutes, 13 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Rename batch change override label<br />
+  <sub>[#12263](https://github.com/flutter/packages/pull/12263) merged on July 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12263) over 1 hour, 8 additions and 8 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 ### July 11, 2026 to July 17, 2026
 
