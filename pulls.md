@@ -180,7 +180,7 @@
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
 
 * **[ניר](https://github.com/nrbnlulu)** &mdash; [Windowing] fix: backspace and text editing shortcuts not working<br />
-  <sub>[#189561](https://github.com/flutter/flutter/pull/189561) opened on on July 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189561) 82 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#189561](https://github.com/flutter/flutter/pull/189561) opened on on July 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189561) 84 additions and 5 deletions in 2 files</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [windows] Strip HMONITOR sign extension from display ids<br />
   <sub>[#189570](https://github.com/flutter/flutter/pull/189570) opened on on July 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189570) 34 additions and 4 deletions in 4 files</sub><br />
@@ -225,5 +225,5 @@
   <sub>[#189759](https://github.com/flutter/flutter/pull/189759) opened on on July 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189759) 20 additions and 4 deletions in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios,macos] Add Swift Sourcekit LSP support<br />
-  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/189761) 606 additions and 7 deletions in 6 files</sub><br />
+  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/189761) 606 additions and 7 deletions in 6 files</sub><br />
 
