@@ -598,7 +598,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-9 commits.
+11 commits.
 
 * **[dao-wkm](https://github.com/dao-wkm)** &mdash; [video_player_android] Avoid sending unset duration on initialization
   <sub>[#11709](https://github.com/flutter/packages/pull/11709) merged on July 20, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/11709) over 2 months, 133 additions and 6 deletions in 5 files</sub>
@@ -628,9 +628,17 @@
   <sub>[#12252](https://github.com/flutter/packages/pull/12252) merged on July 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12252) over 48 minutes, 1 addition and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Support pre-1.0 versions in batch releases
+  <sub>[#12257](https://github.com/flutter/packages/pull/12257) merged on July 21, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12257) over 1 hour, 117 additions and 55 deletions in 3 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
 * **[liam](https://github.com/lianshumin)** &mdash; [in_app_purchase_android] Add obfuscated profile ID purchase param
   <sub>[#12080](https://github.com/flutter/packages/pull/12080) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12080) over 2 weeks, 45 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui] Remove manual version changes
+  <sub>[#12253](https://github.com/flutter/packages/pull/12253) merged on July 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12253) over 18 hours, 1 addition and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui] Update changelogs for the prerelease
   <sub>[#12249](https://github.com/flutter/packages/pull/12249) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12249) over 39 minutes, 13 additions and 4 deletions in 2 files</sub>
@@ -842,7 +850,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-8 commits.
+11 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add 'Copy as Markdown' button to page options dropdown
   <sub>[#13597](https://github.com/flutter/website/pull/13597) merged on July 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13597) over 19 hours, 159 additions and 5 deletions in 5 files</sub>
@@ -858,9 +866,17 @@
   <sub>[#13560](https://github.com/flutter/website/pull/13560) merged on July 20, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13560) over 1 week, 134 additions and 146 deletions in 1 file</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): refresh Flutter Web landing page copy and layout
+  <sub>[#13574](https://github.com/flutter/website/pull/13574) merged on July 21, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/website/pull/13574) over 1 week, 222 additions and 47 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Thomsen](https://github.com/mit-mit), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
+
 * **[awnoa](https://github.com/awnoa)** &mdash; Document multiple Flutter plugin instances
   <sub>[#13591](https://github.com/flutter/website/pull/13591) merged on July 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13591) over 2 days, 18 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix social images when sharing doc pages
+  <sub>[#13602](https://github.com/flutter/website/pull/13602) merged on July 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13602) over 15 minutes, 9 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SwiftPM mentions on pubspec reference page
   <sub>[#13598](https://github.com/flutter/website/pull/13598) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13598) over 17 hours, 30 additions and 27 deletions in 1 file</sub>
@@ -876,6 +892,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deploy image to use Dart 3.13 beta
   <sub>[#13595](https://github.com/flutter/website/pull/13595) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13595) over 8 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Melih Arık](https://github.com/meliharik)** &mdash; Fix unbalanced parens in SwiftUI devs Padding example
+  <sub>[#13600](https://github.com/flutter/website/pull/13600) merged on July 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13600) over 9 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### July 11, 2026 to July 17, 2026
