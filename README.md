@@ -4,7 +4,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-22 commits.
+23 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add BaseWindowController.isDestroyed flag<br />
   <sub>[#189061](https://github.com/flutter/flutter/pull/189061) merged on July 21, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/189061) over 2 weeks, 621 additions and 27 deletions in 8 files</sub><br />
@@ -77,6 +77,10 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `AccessibilityEventsDelegateTest.java`<br />
   <sub>[#189280](https://github.com/flutter/flutter/pull/189280) merged on July 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189280) over 1 week, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Rename CpuArch.x86_64 to CpuArch.x64<br />
+  <sub>[#189478](https://github.com/flutter/flutter/pull/189478) merged on July 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189478) over 6 days, 52 additions and 49 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Run delete-bot-branches.yaml on `pull_request_target` instead of `pull_request` so that we can access secrets.<br />
   <sub>[#189793](https://github.com/flutter/flutter/pull/189793) merged on July 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189793) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
@@ -610,10 +614,10 @@
 
 ### July 18, 2026 to July 24, 2026
 
-14 commits.
+15 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] add support for top level consts<br />
-  <sub>[#12032](https://github.com/flutter/packages/pull/12032) merged on July 21, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/12032) over 3 weeks, 1167 additions and 10 deletions in 48 files</sub><br />
+  <sub>[#12032](https://github.com/flutter/packages/pull/12032) merged on July 21, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/12032) over 3 weeks, 1167 additions and 10 deletions in 48 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[dao-wkm](https://github.com/dao-wkm)** &mdash; [video_player_android] Avoid sending unset duration on initialization<br />
@@ -667,6 +671,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Rename batch change override label<br />
   <sub>[#12263](https://github.com/flutter/packages/pull/12263) merged on July 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12263) over 1 hour, 8 additions and 8 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-cupertino_ui-0.0.2 to main<br />
+  <sub>[#12265](https://github.com/flutter/packages/pull/12265) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12265) over 34 minutes, 9 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 ### July 11, 2026 to July 17, 2026
 

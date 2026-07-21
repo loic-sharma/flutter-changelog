@@ -45,16 +45,13 @@
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187254) 19 additions and 2 deletions in 2 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
-  <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
+  <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
 
 * **[Lin Zhenming](https://github.com/lzm-build)** &mdash; Add iOS prebuilt impeller_sdk<br />
   <sub>[#187608](https://github.com/flutter/flutter/pull/187608) opened on on June 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187608) 57 additions and 14 deletions in 5 files</sub><br />
 
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
-
-* **[SoaringHeart](https://github.com/shang1219178163)** &mdash; feat: Add a placeholder attribute to DecorationImage and display it w…<br />
-  <sub>[#187635](https://github.com/flutter/flutter/pull/187635) opened on on June 6, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/187635) 59 additions and 8 deletions in 1 file</sub><br />
 
 * **[DEV RAJA](https://github.com/bundeladevraja123-raja)** &mdash; Fix typo in TESTOWNERS comment<br />
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
@@ -216,8 +213,11 @@
   <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/189747) 411 additions and 91 deletions in 17 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios,macos] Add Swift Sourcekit LSP support<br />
-  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/189761) 607 additions and 7 deletions in 7 files</sub><br />
+  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/189761) 603 additions and 7 deletions in 7 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Scope SemanticsTester per test in scrollable_semantics_test<br />
-  <sub>[#189800](https://github.com/flutter/flutter/pull/189800) opened on on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189800) 20 additions and 22 deletions in 1 file</sub><br />
+  <sub>[#189800](https://github.com/flutter/flutter/pull/189800) opened on on July 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189800) 20 additions and 22 deletions in 1 file</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix Mockito dynamic agent loading warnings in Robolectric tests<br />
+  <sub>[#189804](https://github.com/flutter/flutter/pull/189804) opened on on July 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189804) 19 additions and 1 deletion in 1 file</sub><br />
 
