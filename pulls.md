@@ -180,7 +180,7 @@
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
 
 * **[ניר](https://github.com/nrbnlulu)** &mdash; [Windowing] fix: backspace and text editing shortcuts not working<br />
-  <sub>[#189561](https://github.com/flutter/flutter/pull/189561) opened on on July 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189561) 79 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#189561](https://github.com/flutter/flutter/pull/189561) opened on on July 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189561) 82 additions and 4 deletions in 2 files</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [windows] Strip HMONITOR sign extension from display ids<br />
   <sub>[#189570](https://github.com/flutter/flutter/pull/189570) opened on on July 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189570) 34 additions and 4 deletions in 4 files</sub><br />
@@ -196,9 +196,6 @@
 
 * **[Bhootnath](https://github.com/Bhootna8)** &mdash; Fix RangeSlider thumb overlay persisting after touch gesture<br />
   <sub>[#189648](https://github.com/flutter/flutter/pull/189648) opened on on July 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189648) 172 additions and 3 deletions in 2 files</sub><br />
-
-* **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; fix(tool): make copied frameworks writable to fix macOS 15.4+ openrsync regression<br />
-  <sub>[#189658](https://github.com/flutter/flutter/pull/189658) opened on on July 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189658) 36 additions and 0 deletions in 2 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix null-deref/double-dispose in StretchingOverscrollIndicator (#189589)<br />
   <sub>[#189667](https://github.com/flutter/flutter/pull/189667) opened on on July 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189667) 48 additions and 4 deletions in 2 files</sub><br />
@@ -225,5 +222,8 @@
   <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/189747) 411 additions and 91 deletions in 17 files</sub><br />
 
 * **[Joyatou](https://github.com/Joyatou)** &mdash; [stable] Fix AccessibilityBridge startup crash on vendor-modified Android<br />
-  <sub>[#189759](https://github.com/flutter/flutter/pull/189759) opened on on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189759) 20 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#189759](https://github.com/flutter/flutter/pull/189759) opened on on July 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189759) 20 additions and 4 deletions in 1 file</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios,macos] Add Swift Sourcekit LSP support<br />
+  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/189761) 606 additions and 7 deletions in 6 files</sub><br />
 
