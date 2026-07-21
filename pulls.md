@@ -228,5 +228,5 @@
   <sub>[#189739](https://github.com/flutter/flutter/pull/189739) opened on on July 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189739) 45 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Ensure playground tests render both on and offscreen<br />
-  <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/189747) 343 additions and 72 deletions in 13 files</sub><br />
+  <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/189747) 360 additions and 72 deletions in 13 files</sub><br />
 
