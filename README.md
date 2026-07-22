@@ -4,7 +4,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-24 commits.
+27 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add BaseWindowController.isDestroyed flag<br />
   <sub>[#189061](https://github.com/flutter/flutter/pull/189061) merged on July 21, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/189061) over 2 weeks, 621 additions and 27 deletions in 8 files</sub><br />
@@ -29,6 +29,18 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; widgets layer re-export ScrollCacheExtent<br />
   <sub>[#189483](https://github.com/flutter/flutter/pull/189483) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189483) over 5 days, 19 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Automate recurring tasks via workflows - localizations<br />
+  <sub>[#189750](https://github.com/flutter/flutter/pull/189750) merged on July 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189750) over 1 day, 142 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Remove dead parameters and no-op overrides<br />
+  <sub>[#189754](https://github.com/flutter/flutter/pull/189754) merged on July 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189754) over 22 hours, 5 additions and 134 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Inject DisplayLinkManager into FlutterViewController<br />
+  <sub>[#189764](https://github.com/flutter/flutter/pull/189764) merged on July 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189764) over 16 hours, 7 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Batch release directory correction<br />
   <sub>[#189738](https://github.com/flutter/flutter/pull/189738) merged on July 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189738) over 21 hours, 3 additions and 3 deletions in 1 file</sub><br />
