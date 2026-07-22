@@ -651,7 +651,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-17 commits.
+18 commits.
 
 * **[Hán Trung Kiên](https://github.com/hantrungkien)** &mdash; [go_router_builder] Allow users to specify onExit as optional<br />
   <sub>[#11151](https://github.com/flutter/packages/pull/11151) merged on July 21, 2026 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/11151) over 4 months, 319 additions and 32 deletions in 47 files</sub><br />
@@ -712,6 +712,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui] Update changelogs for the prerelease<br />
   <sub>[#12249](https://github.com/flutter/packages/pull/12249) merged on July 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12249) over 39 minutes, 13 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
+
+* **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; [google_maps_flutter_web]: Adds support for mapTypeControlEnabled, fullscreenControlEnabled, and streetViewControlEnabled.<br />
+  <sub>[#12254](https://github.com/flutter/packages/pull/12254) merged on July 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12254) over 1 day, 66 additions and 9 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Rename batch change override label<br />
   <sub>[#12263](https://github.com/flutter/packages/pull/12263) merged on July 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12263) over 1 hour, 8 additions and 8 deletions in 4 files</sub><br />
@@ -927,7 +931,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-14 commits.
+15 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add 'Copy as Markdown' button to page options dropdown<br />
   <sub>[#13597](https://github.com/flutter/website/pull/13597) merged on July 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13597) over 19 hours, 159 additions and 5 deletions in 5 files</sub><br />
@@ -942,6 +946,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update uiscene adoption<br />
   <sub>[#13560](https://github.com/flutter/website/pull/13560) merged on July 20, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13560) over 1 week, 134 additions and 146 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Anderson André](https://github.com/Anderson-Andre-P)** &mdash; Improve UX of sidenav<br />
+  <sub>[#13483](https://github.com/flutter/website/pull/13483) merged on July 22, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13483) over 1 month, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): refresh Flutter Web landing page copy and layout<br />
   <sub>[#13574](https://github.com/flutter/website/pull/13574) merged on July 21, 2026 &mdash; **Small:** [39 comments](https://github.com/flutter/website/pull/13574) over 1 week, 222 additions and 47 deletions in 4 files</sub><br />
@@ -1107,9 +1115,18 @@
 
 ## flutter/core-packages
 
+### July 18, 2026 to July 24, 2026
+
+1 commits.
+
+* **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; Document vector_math Plane API<br />
+  <sub>[#12](https://github.com/flutter/core-packages/pull/12) merged on July 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/core-packages/pull/12) over 1 month, 29 additions and 9 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [John McCutchan](https://github.com/johnmccutchan), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 ### July 11, 2026 to July 17, 2026
 
-2 commits.
+<details>
+<summary>2 commits...</summary>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; fix(ci): harden some workflows in core-packages<br />
   <sub>[#32](https://github.com/flutter/core-packages/pull/32) merged on July 16, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/core-packages/pull/32) over 9 hours, 39 additions and 8 deletions in 6 files</sub><br />
@@ -1118,6 +1135,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [listen] Makes error context non-null<br />
   <sub>[#30](https://github.com/flutter/core-packages/pull/30) merged on July 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/core-packages/pull/30) over 4 days, 20 additions and 11 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+</details>
 
 ### July 4, 2026 to July 10, 2026
 
