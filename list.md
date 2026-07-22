@@ -4,7 +4,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-32 commits.
+33 commits.
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean android engine/embedding tests
   <sub>[#189276](https://github.com/flutter/flutter/pull/189276) merged on July 22, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189276) over 1 week, 182 additions and 186 deletions in 22 files</sub>
@@ -45,6 +45,10 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; widgets layer re-export ScrollCacheExtent
   <sub>[#189483](https://github.com/flutter/flutter/pull/189483) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189483) over 5 days, 19 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[pierre](https://github.com/guidezpl)** &mdash; Remove codecov badge from README
+  <sub>[#189728](https://github.com/flutter/flutter/pull/189728) merged on July 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189728) over 1 day, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Remove dead RasterThreadMerger plumbing from platform views
