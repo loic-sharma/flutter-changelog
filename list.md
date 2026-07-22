@@ -375,14 +375,14 @@
   <sub>[#187029](https://github.com/flutter/flutter/pull/187029) merged on July 7, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/187029) over 1 month, 813 additions and 15 deletions in 25 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
+* **[Ortes](https://github.com/Ortes)** &mdash; Expose the app's build name and number as compile-time constants
+  <sub>[#187935](https://github.com/flutter/flutter/pull/187935) merged on July 8, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/187935) over 3 weeks, 330 additions and 10 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[b-luk](https://github.com/b-luk)** &mdash; UberSDF rect handling for thin (line-like) rectangles
   <sub>[#188821](https://github.com/flutter/flutter/pull/188821) merged on July 9, 2026 &mdash; **Medium:** [85 comments](https://github.com/flutter/flutter/pull/188821) over 1 week, 213 additions and 93 deletions in 4 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
   <sub><details><summary>1 image...</summary><img height="300" alt="image" src="https://github.com/user-attachments/assets/98fdc589-dc91-4b70-b848-64dc6c9409cf" /></details></sub>
-
-* **[Ortes](https://github.com/Ortes)** &mdash; Expose the app's build name and number as compile-time constants
-  <sub>[#187935](https://github.com/flutter/flutter/pull/187935) merged on July 8, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/187935) over 3 weeks, 330 additions and 10 deletions in 9 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add `STRING_CATALOG_GENERATE_SYMBOLS = YES;`
   <sub>[#188163](https://github.com/flutter/flutter/pull/188163) merged on July 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188163) over 2 weeks, 9 additions and 0 deletions in 3 files</sub>
@@ -656,7 +656,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-18 commits.
+19 commits.
 
 * **[Hán Trung Kiên](https://github.com/hantrungkien)** &mdash; [go_router_builder] Allow users to specify onExit as optional
   <sub>[#11151](https://github.com/flutter/packages/pull/11151) merged on July 21, 2026 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/11151) over 4 months, 319 additions and 32 deletions in 47 files</sub>
@@ -685,6 +685,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui] Unpin material_color_utilities
   <sub>[#12225](https://github.com/flutter/packages/pull/12225) merged on July 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12225) over 3 days, 1 addition and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; [camera_avfoundation] Move camera_avfoundation to Darwin
+  <sub>[#11847](https://github.com/flutter/packages/pull/11847) merged on July 22, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/11847) over 1 month, 9 additions and 3 deletions in 71 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert example boilerplate from Java to Kotlin
   <sub>[#12201](https://github.com/flutter/packages/pull/12201) merged on July 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/12201) over 5 days, 727 additions and 864 deletions in 93 files</sub>
@@ -936,7 +940,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-17 commits.
+18 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add 'Copy as Markdown' button to page options dropdown
   <sub>[#13597](https://github.com/flutter/website/pull/13597) merged on July 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13597) over 19 hours, 159 additions and 5 deletions in 5 files</sub>
@@ -999,6 +1003,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deploy image to use Dart 3.13 beta
   <sub>[#13595](https://github.com/flutter/website/pull/13595) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13595) over 8 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; added 1 consultant and 1 image
+  <sub>[#13613](https://github.com/flutter/website/pull/13613) merged on July 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13613) over 2 hours, 12 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
 
 * **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; Refine showcase page categories and fix Expo City Dubai filtering
   <sub>[#13607](https://github.com/flutter/website/pull/13607) merged on July 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13607) over 14 hours, 181 additions and 68 deletions in 34 files</sub>

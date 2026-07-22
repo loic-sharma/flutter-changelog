@@ -96,7 +96,7 @@
   <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
-  <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 11 additions and 25 deletions in 8 files</sub><br />
+  <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 93 additions and 154 deletions in 30 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Move WindowManager outside of WidgetsApp<br />
   <sub>[#188866](https://github.com/flutter/flutter/pull/188866) opened on on July 1, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/188866) 50 additions and 164 deletions in 10 files</sub><br />
