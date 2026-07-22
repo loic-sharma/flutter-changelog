@@ -4,7 +4,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-30 commits.
+31 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add BaseWindowController.isDestroyed flag
   <sub>[#189061](https://github.com/flutter/flutter/pull/189061) merged on July 21, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/189061) over 2 weeks, 621 additions and 27 deletions in 8 files</sub>
@@ -13,6 +13,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add OverlayPortal.overlayChildLayoutBuilder sample
   <sub>[#188930](https://github.com/flutter/flutter/pull/188930) merged on July 22, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/188930) over 2 weeks, 146 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Add barrierBuilder support to showDialog and showGeneralDialog
+  <sub>[#187992](https://github.com/flutter/flutter/pull/187992) merged on July 22, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/187992) over 1 month, 208 additions and 72 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Support custom BoxBorder animation in BoxDecoration
   <sub>[#186348](https://github.com/flutter/flutter/pull/186348) merged on July 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186348) over 2 months, 89 additions and 54 deletions in 3 files</sub>
