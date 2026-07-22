@@ -98,6 +98,9 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 93 additions and 154 deletions in 30 files</sub><br />
 
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Fix VoiceOver child focus direction<br />
+  <sub>[#188820](https://github.com/flutter/flutter/pull/188820) opened on on July 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188820) 69 additions and 3 deletions in 2 files</sub><br />
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Move WindowManager outside of WidgetsApp<br />
   <sub>[#188866](https://github.com/flutter/flutter/pull/188866) opened on on July 1, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/188866) 50 additions and 164 deletions in 10 files</sub><br />
 
@@ -202,4 +205,7 @@
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixing edge cases for wrapping text (with newlines)<br />
   <sub>[#189858](https://github.com/flutter/flutter/pull/189858) opened on on July 22, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/189858) 245 additions and 107 deletions in 5 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert Mockito instances in Kotlin to Mockk<br />
+  <sub>[#189884](https://github.com/flutter/flutter/pull/189884) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189884) 23 additions and 22 deletions in 2 files</sub><br />
 
