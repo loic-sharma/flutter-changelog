@@ -948,7 +948,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-18 commits.
+19 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add 'Copy as Markdown' button to page options dropdown<br />
   <sub>[#13597](https://github.com/flutter/website/pull/13597) merged on July 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13597) over 19 hours, 159 additions and 5 deletions in 5 files</sub><br />
@@ -1011,6 +1011,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deploy image to use Dart 3.13 beta<br />
   <sub>[#13595](https://github.com/flutter/website/pull/13595) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13595) over 8 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; docs(web): update service worker references in initialization.md<br />
+  <sub>[#13618](https://github.com/flutter/website/pull/13618) merged on July 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13618) over 1 hour, 3 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Yegor](https://github.com/yjbanov), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; added 1 consultant and 1 image<br />
   <sub>[#13613](https://github.com/flutter/website/pull/13613) merged on July 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13613) over 2 hours, 12 additions and 0 deletions in 2 files</sub><br />

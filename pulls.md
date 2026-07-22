@@ -209,3 +209,9 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert Mockito instances in Kotlin to Mockk<br />
   <sub>[#189884](https://github.com/flutter/flutter/pull/189884) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189884) 23 additions and 22 deletions in 2 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [CP-stable] Skip emulator.getEmulators test (#189879)<br />
+  <sub>[#189887](https://github.com/flutter/flutter/pull/189887) opened on on July 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189887) 15 additions and 9 deletions in 1 file</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [CP-beta] Skip emulator.getEmulators test (#189879)<br />
+  <sub>[#189888](https://github.com/flutter/flutter/pull/189888) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189888) 15 additions and 9 deletions in 1 file</sub><br />
+
