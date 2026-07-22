@@ -4,7 +4,12 @@
 
 ### July 18, 2026 to July 24, 2026
 
-32 commits.
+35 commits.
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Clear cached directional focus history on a non-directional focus request 
+  <sub>[#187957](https://github.com/flutter/flutter/pull/187957) merged on July 22, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/187957) over 1 month, 204 additions and 26 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+  <sub><details><summary>2 images...</summary><img width="454" height="656" alt="before" src="https://github.com/user-attachments/assets/26e3cdd2-2f39-4dc8-9616-4f21d4afcc52" /><img width="454" height="656" alt="fixed" src="https://github.com/user-attachments/assets/0e795e0c-8e07-4422-beed-f371407b4ae6" /></details></sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean android engine/embedding tests
   <sub>[#189276](https://github.com/flutter/flutter/pull/189276) merged on July 22, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189276) over 1 week, 182 additions and 186 deletions in 22 files</sub>
@@ -18,6 +23,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add OverlayPortal.overlayChildLayoutBuilder sample
   <sub>[#188930](https://github.com/flutter/flutter/pull/188930) merged on July 22, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/188930) over 2 weeks, 146 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Fix null terminator in input truncates clipboard
+  <sub>[#188652](https://github.com/flutter/flutter/pull/188652) merged on July 22, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188652) over 3 weeks, 43 additions and 7 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add barrierBuilder support to showDialog and showGeneralDialog
   <sub>[#187992](https://github.com/flutter/flutter/pull/187992) merged on July 22, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/187992) over 1 month, 208 additions and 72 deletions in 2 files</sub>
@@ -39,13 +48,17 @@
   <sub>[#188123](https://github.com/flutter/flutter/pull/188123) merged on July 20, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188123) over 1 month, 138 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; widgets layer re-export ScrollCacheExtent
+  <sub>[#189483](https://github.com/flutter/flutter/pull/189483) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189483) over 5 days, 19 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Treat package:stack_trace async-gap marker as asynchronous suspension
   <sub>[#185791](https://github.com/flutter/flutter/pull/185791) merged on July 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/185791) over 2 months, 86 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; widgets layer re-export ScrollCacheExtent
-  <sub>[#189483](https://github.com/flutter/flutter/pull/189483) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189483) over 5 days, 19 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; ci: Include root pubspec.yaml in pub cache key
+  <sub>[#189826](https://github.com/flutter/flutter/pull/189826) merged on July 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189826) over 11 hours, 3 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Dmitry Grand (dmgr)](https://github.com/ievdokdm)</sub>
 
 * **[pierre](https://github.com/guidezpl)** &mdash; Remove codecov badge from README
   <sub>[#189728](https://github.com/flutter/flutter/pull/189728) merged on July 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189728) over 1 day, 0 additions and 1 deletion in 1 file</sub>
@@ -79,13 +92,13 @@
   <sub>[#189752](https://github.com/flutter/flutter/pull/189752) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189752) over 15 hours, 6 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Derive the SkImage size used by ImageEncodingImpeller::ConvertDlImageToSkImage from the size of the underlying texture, not the size of the DlImage
-  <sub>[#189739](https://github.com/flutter/flutter/pull/189739) merged on July 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189739) over 18 hours, 45 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to cc08479fbcc1
+  <sub>[#189595](https://github.com/flutter/flutter/pull/189595) merged on July 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189595) over 3 days, 52 additions and 115 deletions in 4 files</sub>
+  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Inject DisplayLinkManager into FlutterKeyboardInsetManager
-  <sub>[#189751](https://github.com/flutter/flutter/pull/189751) merged on July 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189751) over 2 hours, 23 additions and 10 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `AccessibilityEventsDelegateTest.java`
+  <sub>[#189280](https://github.com/flutter/flutter/pull/189280) merged on July 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189280) over 1 week, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Inject DisplayLinkManager into VsyncWaiterIOS
   <sub>[#189749](https://github.com/flutter/flutter/pull/189749) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189749) over 2 hours, 73 additions and 9 deletions in 4 files</sub>
@@ -111,21 +124,13 @@
   <sub>[#189666](https://github.com/flutter/flutter/pull/189666) merged on July 20, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/189666) over 2 days, 266 additions and 52 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll ANGLE to cc08479fbcc1
-  <sub>[#189595](https://github.com/flutter/flutter/pull/189595) merged on July 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189595) over 3 days, 52 additions and 115 deletions in 4 files</sub>
-  <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Inject DisplayLinkManager into FlutterKeyboardInsetManager
+  <sub>[#189751](https://github.com/flutter/flutter/pull/189751) merged on July 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189751) over 2 hours, 23 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix typos in `AccessibilityEventsDelegateTest.java`
-  <sub>[#189280](https://github.com/flutter/flutter/pull/189280) merged on July 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189280) over 1 week, 4 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
-
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Rename CpuArch.x86_64 to CpuArch.x64
-  <sub>[#189478](https://github.com/flutter/flutter/pull/189478) merged on July 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189478) over 6 days, 52 additions and 49 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Run delete-bot-branches.yaml on `pull_request_target` instead of `pull_request` so that we can access secrets.
-  <sub>[#189793](https://github.com/flutter/flutter/pull/189793) merged on July 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189793) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Derive the SkImage size used by ImageEncodingImpeller::ConvertDlImageToSkImage from the size of the underlying texture, not the size of the DlImage
+  <sub>[#189739](https://github.com/flutter/flutter/pull/189739) merged on July 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189739) over 18 hours, 45 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [flutter_test][Test cross imports] Move TestWidgetsApp to flutter_test
   <sub>[#189435](https://github.com/flutter/flutter/pull/189435) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189435) over 1 week, 32 additions and 186 deletions in 112 files</sub>
@@ -134,6 +139,14 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add a github workflow to remove flutteractionsbot branches after the PRs are merged or closed.
   <sub>[#189668](https://github.com/flutter/flutter/pull/189668) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189668) over 2 days, 34 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John "codefu" McDole](https://github.com/jtmcdole), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Rename CpuArch.x86_64 to CpuArch.x64
+  <sub>[#189478](https://github.com/flutter/flutter/pull/189478) merged on July 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189478) over 6 days, 52 additions and 49 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Run delete-bot-branches.yaml on `pull_request_target` instead of `pull_request` so that we can access secrets.
+  <sub>[#189793](https://github.com/flutter/flutter/pull/189793) merged on July 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189793) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
 ### July 11, 2026 to July 17, 2026
 
@@ -952,7 +965,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Refine text in web_page.dart for clarity
-  <sub>[#13612](https://github.com/flutter/website/pull/13612) merged on July 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13612) over 32 minutes, 4 additions and 2 deletions in 1 file</sub>
+  <sub>[#13612](https://github.com/flutter/website/pull/13612) merged on July 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13612) over 32 minutes, 4 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update `SurfaceProducer` migration doc to use `onSurfaceCleanup`

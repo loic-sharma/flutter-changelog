@@ -86,9 +86,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix CarouselView builder arguments being ignored<br />
-  <sub>[#188578](https://github.com/flutter/flutter/pull/188578) opened on on June 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188578) 114 additions and 24 deletions in 2 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Refactor SwiftPM symlink path logic<br />
   <sub>[#188647](https://github.com/flutter/flutter/pull/188647) opened on on June 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188647) 222 additions and 78 deletions in 4 files</sub><br />
 
@@ -176,17 +173,11 @@
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Harden the Vulkan backend against driver failures and resource exhaustion<br />
   <sub>[#189580](https://github.com/flutter/flutter/pull/189580) opened on on July 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189580) 1302 additions and 155 deletions in 32 files</sub><br />
 
-* **[M S karthik](https://github.com/KarthikManikuttan)** &mdash; Fix RangeSlider thumb overlay remains visible after touch interaction…<br />
-  <sub>[#189610](https://github.com/flutter/flutter/pull/189610) opened on on July 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189610) 227 additions and 8 deletions in 2 files</sub><br />
-
 * **[matheusccastro](https://github.com/matheusccastroo)** &mdash; Pass web-defines to the web builder in all run configurations<br />
   <sub>[#189622](https://github.com/flutter/flutter/pull/189622) opened on on July 16, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/189622) 420 additions and 0 deletions in 10 files</sub><br />
 
 * **[Melrose](https://github.com/heyi1994)** &mdash; [Impeller] Work around GL driver job-pool exhaustion on MediaTek MT6779<br />
   <sub>[#189643](https://github.com/flutter/flutter/pull/189643) opened on on July 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/189643) 123 additions and 0 deletions in 5 files</sub><br />
-
-* **[Bhootnath](https://github.com/Bhootna8)** &mdash; Fix RangeSlider thumb overlay persisting after touch gesture<br />
-  <sub>[#189648](https://github.com/flutter/flutter/pull/189648) opened on on July 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189648) 172 additions and 3 deletions in 2 files</sub><br />
 
 * **[Afzal Najam](https://github.com/AfzalivE)** &mdash; [iOS] Preserve semantics parents after reparenting<br />
   <sub>[#189686](https://github.com/flutter/flutter/pull/189686) opened on on July 18, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189686) 403 additions and 3 deletions in 7 files</sub><br />
@@ -202,12 +193,6 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind uniforms and textures by cached reflection index<br />
   <sub>[#189820](https://github.com/flutter/flutter/pull/189820) opened on on July 22, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/189820) 314 additions and 37 deletions in 9 files</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; ci: Include root pubspec.yaml in pub cache key<br />
-  <sub>[#189826](https://github.com/flutter/flutter/pull/189826) opened on on July 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189826) 3 additions and 2 deletions in 1 file</sub><br />
-
-* **[Marijua ރ](https://github.com/Enderjua)** &mdash; [Material] Use switch expressions in app.dart and bottom_navigation_bar.dart<br />
-  <sub>[#189832](https://github.com/flutter/flutter/pull/189832) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189832) 92 additions and 109 deletions in 3 files</sub><br />
 
 * **[apinilabs-pascal](https://github.com/apinilabs-pascal)** &mdash; [web] Stop percent-decoding URLs written to browser history<br />
   <sub>[#189835](https://github.com/flutter/flutter/pull/189835) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189835) 39 additions and 8 deletions in 2 files</sub><br />
