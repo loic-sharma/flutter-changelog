@@ -4,7 +4,12 @@
 
 ### July 18, 2026 to July 24, 2026
 
-31 commits.
+32 commits.
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Clean android engine/embedding tests<br />
+  <sub>[#189276](https://github.com/flutter/flutter/pull/189276) merged on July 22, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189276) over 1 week, 182 additions and 186 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+  <sub><details><summary>4 images...</summary><img width="422" height="57" alt="Screenshot 2026-07-10 at 17 47 51" src="https://github.com/user-attachments/assets/dda17237-27d5-4280-b632-9cadf3de12f6" /><img width="333" height="66" alt="Screenshot 2026-07-10 at 17 36 03" src="https://github.com/user-attachments/assets/18ddae56-7777-4aa9-a5db-12f3b93e0bbf" /><img width="444" height="440" alt="Screenshot 2026-07-10 at 17 44 57" src="https://github.com/user-attachments/assets/3690f477-c0cf-438e-85c3-03bf0da0fc76" /><img width="427" height="273" alt="Screenshot 2026-07-10 at 17 34 16" src="https://github.com/user-attachments/assets/3be1122e-a340-470d-beb9-e75785f50344" /></details></sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add BaseWindowController.isDestroyed flag<br />
   <sub>[#189061](https://github.com/flutter/flutter/pull/189061) merged on July 21, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/189061) over 2 weeks, 621 additions and 27 deletions in 8 files</sub><br />
