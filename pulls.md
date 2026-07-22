@@ -45,7 +45,7 @@
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187254) 19 additions and 2 deletions in 2 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
-  <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/187504) 180 additions and 229 deletions in 7 files</sub><br />
+  <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/187504) 140 additions and 203 deletions in 5 files</sub><br />
 
 * **[Lin Zhenming](https://github.com/lzm-build)** &mdash; Add iOS prebuilt impeller_sdk<br />
   <sub>[#187608](https://github.com/flutter/flutter/pull/187608) opened on on June 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187608) 57 additions and 14 deletions in 5 files</sub><br />
@@ -201,14 +201,14 @@
   <sub>[#189728](https://github.com/flutter/flutter/pull/189728) opened on on July 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189728) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Ensure playground tests render both on and offscreen<br />
-  <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/189747) 517 additions and 109 deletions in 20 files</sub><br />
+  <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/189747) 563 additions and 109 deletions in 20 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [ios,macos] Add Swift Sourcekit LSP support<br />
-  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/189761) 603 additions and 7 deletions in 7 files</sub><br />
+  <sub>[#189761](https://github.com/flutter/flutter/pull/189761) opened on on July 21, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/189761) 608 additions and 7 deletions in 7 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Scope SemanticsTester per test in scrollable_semantics_test<br />
   <sub>[#189800](https://github.com/flutter/flutter/pull/189800) opened on on July 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189800) 20 additions and 22 deletions in 1 file</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix Mockito dynamic agent loading warnings in Robolectric tests<br />
-  <sub>[#189804](https://github.com/flutter/flutter/pull/189804) opened on on July 21, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189804) 19 additions and 1 deletion in 1 file</sub><br />
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind uniforms and textures by cached reflection index<br />
+  <sub>[#189820](https://github.com/flutter/flutter/pull/189820) opened on on July 22, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/189820) 314 additions and 37 deletions in 9 files</sub><br />
 

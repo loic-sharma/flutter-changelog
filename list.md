@@ -4,15 +4,23 @@
 
 ### July 18, 2026 to July 24, 2026
 
-27 commits.
+30 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Add BaseWindowController.isDestroyed flag
   <sub>[#189061](https://github.com/flutter/flutter/pull/189061) merged on July 21, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/189061) over 2 weeks, 621 additions and 27 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add OverlayPortal.overlayChildLayoutBuilder sample
+  <sub>[#188930](https://github.com/flutter/flutter/pull/188930) merged on July 22, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/188930) over 2 weeks, 146 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Support custom BoxBorder animation in BoxDecoration
   <sub>[#186348](https://github.com/flutter/flutter/pull/186348) merged on July 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186348) over 2 months, 89 additions and 54 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix Mockito dynamic agent loading warnings in Robolectric tests
+  <sub>[#189804](https://github.com/flutter/flutter/pull/189804) merged on July 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189804) over 5 hours, 19 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix non-independant tests in draggable_test.dart
   <sub>[#186898](https://github.com/flutter/flutter/pull/186898) merged on July 20, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/186898) over 2 months, 102 additions and 84 deletions in 1 file</sub>
@@ -29,6 +37,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; widgets layer re-export ScrollCacheExtent
   <sub>[#189483](https://github.com/flutter/flutter/pull/189483) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189483) over 5 days, 19 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Remove dead RasterThreadMerger plumbing from platform views
+  <sub>[#189753](https://github.com/flutter/flutter/pull/189753) merged on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189753) over 1 day, 0 additions and 51 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Automate recurring tasks via workflows - localizations
   <sub>[#189750](https://github.com/flutter/flutter/pull/189750) merged on July 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189750) over 1 day, 142 additions and 0 deletions in 3 files</sub>
