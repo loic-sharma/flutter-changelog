@@ -1001,7 +1001,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-21 commits.
+22 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add 'Copy as Markdown' button to page options dropdown
   <sub>[#13597](https://github.com/flutter/website/pull/13597) merged on July 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13597) over 19 hours, 159 additions and 5 deletions in 5 files</sub>
@@ -1072,6 +1072,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deploy image to use Dart 3.13 beta
   <sub>[#13595](https://github.com/flutter/website/pull/13595) merged on July 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13595) over 8 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; docs(web): remove obsolete HtmlElementView workaround section from web-images.md
+  <sub>[#13619](https://github.com/flutter/website/pull/13619) merged on July 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13619) over 21 hours, 0 additions and 11 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; docs(web): update service worker references in initialization.md
   <sub>[#13618](https://github.com/flutter/website/pull/13618) merged on July 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13618) over 1 hour, 3 additions and 4 deletions in 1 file</sub>
