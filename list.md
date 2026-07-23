@@ -705,7 +705,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-22 commits.
+23 commits.
 
 * **[Hán Trung Kiên](https://github.com/hantrungkien)** &mdash; [go_router_builder] Allow users to specify onExit as optional
   <sub>[#11151](https://github.com/flutter/packages/pull/11151) merged on July 21, 2026 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/11151) over 4 months, 319 additions and 32 deletions in 47 files</sub>
@@ -714,6 +714,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] add support for top level consts
   <sub>[#12032](https://github.com/flutter/packages/pull/12032) merged on July 21, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/packages/pull/12032) over 3 weeks, 1167 additions and 10 deletions in 48 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Absaar](https://github.com/absar)** &mdash; [in_app_purchase] Fixes StoreKit 2 date format does not match in_app_…
+  <sub>[#11717](https://github.com/flutter/packages/pull/11717) merged on July 23, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/11717) over 2 months, 37 additions and 25 deletions in 9 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[dao-wkm](https://github.com/dao-wkm)** &mdash; [video_player_android] Avoid sending unset duration on initialization
   <sub>[#11709](https://github.com/flutter/packages/pull/11709) merged on July 20, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/11709) over 2 months, 133 additions and 6 deletions in 5 files</sub>
@@ -1001,7 +1005,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-22 commits.
+23 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add 'Copy as Markdown' button to page options dropdown
   <sub>[#13597](https://github.com/flutter/website/pull/13597) merged on July 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13597) over 19 hours, 159 additions and 5 deletions in 5 files</sub>
@@ -1036,6 +1040,10 @@
 * **[awnoa](https://github.com/awnoa)** &mdash; Document multiple Flutter plugin instances
   <sub>[#13591](https://github.com/flutter/website/pull/13591) merged on July 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13591) over 2 days, 18 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Enable stricter Markdown parsing and fix surfaced issues
+  <sub>[#13611](https://github.com/flutter/website/pull/13611) merged on July 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13611) over 1 day, 81 additions and 76 deletions in 23 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Refine text in web_page.dart for clarity
   <sub>[#13612](https://github.com/flutter/website/pull/13612) merged on July 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13612) over 32 minutes, 4 additions and 2 deletions in 1 file</sub>
