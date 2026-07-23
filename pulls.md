@@ -141,16 +141,10 @@
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22936 additions and 0 deletions in 173 files</sub><br />
 
 * **[guszxtavo](https://github.com/guszxtavo)** &mdash; [Impeller] Enable ETC2/ASTC LDR/BC texture compression features at Vulkan device creation<br />
-  <sub>[#189303](https://github.com/flutter/flutter/pull/189303) opened on on July 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189303) 9 additions and 0 deletions in 1 file</sub><br />
-
-* **[udit](https://github.com/UditDewan)** &mdash; Echo desktop app stderr as error output<br />
-  <sub>[#189314](https://github.com/flutter/flutter/pull/189314) opened on on July 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189314) 121 additions and 18 deletions in 5 files</sub><br />
+  <sub>[#189303](https://github.com/flutter/flutter/pull/189303) opened on on July 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189303) 36 additions and 0 deletions in 3 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
   <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
-
-* **[Ahmet Can Urhan](https://github.com/Ahmet-Can-Urhan)** &mdash; Handle unexpected exceptions during Azure metadata detection<br />
-  <sub>[#189457](https://github.com/flutter/flutter/pull/189457) opened on on July 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189457) 19 additions and 0 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Make glBlitFramebuffer optional in the OpenGL compositor<br />
   <sub>[#189476](https://github.com/flutter/flutter/pull/189476) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189476) 67 additions and 6 deletions in 2 files</sub><br />
@@ -220,7 +214,4 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds error about wimp_heavy not being implemented.<br />
   <sub>[#189945](https://github.com/flutter/flutter/pull/189945) opened on on July 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189945) 3 additions and 0 deletions in 1 file</sub><br />
-
-* **[walley892](https://github.com/walley892)** &mdash; [CP-beta] Disable execution order shuffling for the flutter_tools upgrade_test suite<br />
-  <sub>[#189951](https://github.com/flutter/flutter/pull/189951) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189951) 5 additions and 0 deletions in 1 file</sub><br />
 
