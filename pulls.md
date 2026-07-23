@@ -158,9 +158,6 @@
 * **[Ahmet Can Urhan](https://github.com/Ahmet-Can-Urhan)** &mdash; Handle unexpected exceptions during Azure metadata detection<br />
   <sub>[#189457](https://github.com/flutter/flutter/pull/189457) opened on on July 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189457) 19 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Invalidate WebEntrypointTarget when plugin set changes<br />
-  <sub>[#189460](https://github.com/flutter/flutter/pull/189460) opened on on July 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189460) 32 additions and 1 deletion in 2 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Make glBlitFramebuffer optional in the OpenGL compositor<br />
   <sub>[#189476](https://github.com/flutter/flutter/pull/189476) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189476) 67 additions and 6 deletions in 2 files</sub><br />
 
@@ -205,4 +202,7 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert Mockito instances in Kotlin to Mockk<br />
   <sub>[#189884](https://github.com/flutter/flutter/pull/189884) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189884) 23 additions and 22 deletions in 2 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Report manual mip sampling as unsupported on Adreno Vulkan<br />
+  <sub>[#189897](https://github.com/flutter/flutter/pull/189897) opened on on July 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189897) 43 additions and 7 deletions in 5 files</sub><br />
 
