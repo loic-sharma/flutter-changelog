@@ -696,7 +696,7 @@
 
 ### July 18, 2026 to July 24, 2026
 
-19 commits.
+20 commits.
 
 * **[Hán Trung Kiên](https://github.com/hantrungkien)** &mdash; [go_router_builder] Allow users to specify onExit as optional
   <sub>[#11151](https://github.com/flutter/packages/pull/11151) merged on July 21, 2026 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/11151) over 4 months, 319 additions and 32 deletions in 47 files</sub>
@@ -717,6 +717,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Publish pre-release 0.0.2
   <sub>[#12251](https://github.com/flutter/packages/pull/12251) merged on July 20, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/12251) over 4 hours, 36 additions and 2 deletions in 8 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; [google_maps_flutter] Add support for mapType, fullscreen, and Street View controls on web
+  <sub>[#11955](https://github.com/flutter/packages/pull/11955) merged on July 23, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/11955) over 1 month, 104 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [webview_flutter] Convert from XCTest to Swift Testing
   <sub>[#12243](https://github.com/flutter/packages/pull/12243) merged on July 20, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/12243) over 1 day, 620 additions and 616 deletions in 36 files</sub>

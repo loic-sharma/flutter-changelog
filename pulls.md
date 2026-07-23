@@ -212,3 +212,12 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Raise Dart errors for invalid render pipelines and memoize per-draw pipeline state<br />
   <sub>[#189899](https://github.com/flutter/flutter/pull/189899) opened on on July 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189899) 214 additions and 13 deletions in 9 files</sub><br />
 
+* **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Derive plugin package name from app name to avoid collisions (#189585)<br />
+  <sub>[#189915](https://github.com/flutter/flutter/pull/189915) opened on on July 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189915) 240 additions and 96 deletions in 10 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable execution order shuffling for the flutter_tools upgrade_test suite<br />
+  <sub>[#189920](https://github.com/flutter/flutter/pull/189920) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189920) 5 additions and 0 deletions in 1 file</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update contributing guidelines for commit message format<br />
+  <sub>[#189922](https://github.com/flutter/flutter/pull/189922) opened on on July 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189922) 1 addition and 0 deletions in 1 file</sub><br />
+
