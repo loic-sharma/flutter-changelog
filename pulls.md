@@ -101,9 +101,6 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Fix VoiceOver child focus direction<br />
   <sub>[#188820](https://github.com/flutter/flutter/pull/188820) opened on on July 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188820) 69 additions and 3 deletions in 2 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Move WindowManager outside of WidgetsApp<br />
-  <sub>[#188866](https://github.com/flutter/flutter/pull/188866) opened on on July 1, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/188866) 50 additions and 164 deletions in 10 files</sub><br />
-
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Allow valid UTF-8 replacement characters in flutter_tools decoding<br />
   <sub>[#188901](https://github.com/flutter/flutter/pull/188901) opened on on July 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188901) 34 additions and 9 deletions in 3 files</sub><br />
 
@@ -215,9 +212,12 @@
 * **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Derive plugin package name from app name to avoid collisions (#189585)<br />
   <sub>[#189915](https://github.com/flutter/flutter/pull/189915) opened on on July 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189915) 240 additions and 96 deletions in 10 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable execution order shuffling for the flutter_tools upgrade_test suite<br />
-  <sub>[#189920](https://github.com/flutter/flutter/pull/189920) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189920) 5 additions and 0 deletions in 1 file</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update contributing guidelines for commit message format<br />
-  <sub>[#189922](https://github.com/flutter/flutter/pull/189922) opened on on July 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189922) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#189922](https://github.com/flutter/flutter/pull/189922) opened on on July 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189922) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Read deployment target from pbxproj during package generation<br />
+  <sub>[#189923](https://github.com/flutter/flutter/pull/189923) opened on on July 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189923) 155 additions and 1 deletion in 4 files</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Instruct gemini code assist not to comment on syntax error<br />
+  <sub>[#189930](https://github.com/flutter/flutter/pull/189930) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189930) 4 additions and 0 deletions in 1 file</sub><br />
 
