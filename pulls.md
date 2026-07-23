@@ -173,6 +173,9 @@
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Harden the Vulkan backend against driver failures and resource exhaustion<br />
   <sub>[#189580](https://github.com/flutter/flutter/pull/189580) opened on on July 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189580) 1302 additions and 155 deletions in 32 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary generic type getter in `Factory interface`<br />
+  <sub>[#189600](https://github.com/flutter/flutter/pull/189600) opened on on July 16, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189600) 5 additions and 8 deletions in 3 files</sub><br />
+
 * **[matheusccastro](https://github.com/matheusccastroo)** &mdash; Pass web-defines to the web builder in all run configurations<br />
   <sub>[#189622](https://github.com/flutter/flutter/pull/189622) opened on on July 16, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/189622) 420 additions and 0 deletions in 10 files</sub><br />
 
@@ -205,4 +208,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Report manual mip sampling as unsupported on Adreno Vulkan<br />
   <sub>[#189897](https://github.com/flutter/flutter/pull/189897) opened on on July 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189897) 43 additions and 7 deletions in 5 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Raise Dart errors for invalid render pipelines and memoize per-draw pipeline state<br />
+  <sub>[#189899](https://github.com/flutter/flutter/pull/189899) opened on on July 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189899) 214 additions and 13 deletions in 9 files</sub><br />
 
