@@ -191,9 +191,6 @@
 * **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Derive plugin package name from app name to avoid collisions (#189585)<br />
   <sub>[#189915](https://github.com/flutter/flutter/pull/189915) opened on on July 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189915) 240 additions and 96 deletions in 10 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update contributing guidelines for commit message format<br />
-  <sub>[#189922](https://github.com/flutter/flutter/pull/189922) opened on on July 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189922) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Read deployment target from pbxproj during package generation<br />
   <sub>[#189923](https://github.com/flutter/flutter/pull/189923) opened on on July 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189923) 155 additions and 1 deletion in 4 files</sub><br />
 
@@ -206,14 +203,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds error about wimp_heavy not being implemented.<br />
   <sub>[#189945](https://github.com/flutter/flutter/pull/189945) opened on on July 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189945) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: clean up golden copy in CI<br />
+  <sub>[#189948](https://github.com/flutter/flutter/pull/189948) opened on on July 23, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/189948) 85 additions and 52 deletions in 3 files</sub><br />
+
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Use super-parameter in two_dimensional_utils<br />
   <sub>[#189957](https://github.com/flutter/flutter/pull/189957) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189957) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [wimp] fixes ubo padding size issue<br />
-  <sub>[#189958](https://github.com/flutter/flutter/pull/189958) opened on on July 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189958) 218 additions and 7 deletions in 5 files</sub><br />
-
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Migrate a11y_assessments to uiscene<br />
-  <sub>[#189960](https://github.com/flutter/flutter/pull/189960) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189960) 28 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#189958](https://github.com/flutter/flutter/pull/189958) opened on on July 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189958) 223 additions and 7 deletions in 5 files</sub><br />
 
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [iOS] Populate display corner radii on iOS 26<br />
   <sub>[#189963](https://github.com/flutter/flutter/pull/189963) opened on on July 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189963) 203 additions and 4 deletions in 4 files</sub><br />
@@ -233,9 +230,15 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn when unable to find iOS Device Support Symbols<br />
   <sub>[#189993](https://github.com/flutter/flutter/pull/189993) opened on on July 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189993) 943 additions and 17 deletions in 11 files</sub><br />
 
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve size to content logic for popups and tooltips on Linux<br />
-  <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189994) 239 additions and 24 deletions in 3 files</sub><br />
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve initial size and placement logic for popups and tooltips on Linux<br />
+  <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Add java/gradle check before starting gradle<br />
   <sub>[#189997](https://github.com/flutter/flutter/pull/189997) opened on on July 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189997) 269 additions and 13 deletions in 3 files</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "Improve non rect platform view rendering  (#182662)"<br />
+  <sub>[#190003](https://github.com/flutter/flutter/pull/190003) opened on on July 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190003) 14 additions and 144 deletions in 6 files</sub><br />
+
+* **[walley892](https://github.com/walley892)** &mdash; update engine.version for 3.47.3<br />
+  <sub>[#190004](https://github.com/flutter/flutter/pull/190004) opened on on July 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190004) 1 addition and 1 deletion in 1 file</sub><br />
 
