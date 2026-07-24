@@ -204,7 +204,7 @@
   <sub>[#189945](https://github.com/flutter/flutter/pull/189945) opened on on July 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189945) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: clean up golden copy in CI<br />
-  <sub>[#189948](https://github.com/flutter/flutter/pull/189948) opened on on July 23, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/189948) 86 additions and 52 deletions in 3 files</sub><br />
+  <sub>[#189948](https://github.com/flutter/flutter/pull/189948) opened on on July 23, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/189948) 86 additions and 52 deletions in 3 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Use super-parameter in two_dimensional_utils<br />
   <sub>[#189957](https://github.com/flutter/flutter/pull/189957) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189957) 2 additions and 2 deletions in 1 file</sub><br />
@@ -246,5 +246,5 @@
   <sub>[#190006](https://github.com/flutter/flutter/pull/190006) opened on on July 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190006) 96 additions and 2 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made linter more robust to non-utf8 files<br />
-  <sub>[#190012](https://github.com/flutter/flutter/pull/190012) opened on on July 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190012) 14 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#190012](https://github.com/flutter/flutter/pull/190012) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190012) 14 additions and 2 deletions in 2 files</sub><br />
 
