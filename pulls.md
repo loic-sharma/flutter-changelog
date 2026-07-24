@@ -215,3 +215,6 @@
 * **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; Fix Impeller Vulkan sampling of explicitly supplied manual mip chains<br />
   <sub>[#189966](https://github.com/flutter/flutter/pull/189966) opened on on July 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189966) 57 additions and 4 deletions in 7 files</sub><br />
 
+* **[tjcGoogle](https://github.com/tjcGoogle)** &mdash; [Windows] Preserve composing extent in setEditingState<br />
+  <sub>[#189968](https://github.com/flutter/flutter/pull/189968) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189968) 45 additions and 1 deletion in 2 files</sub><br />
+
