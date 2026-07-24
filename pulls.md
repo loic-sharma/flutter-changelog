@@ -122,6 +122,9 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
 
+* **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Use correct titlebar on linux<br />
+  <sub>[#189138](https://github.com/flutter/flutter/pull/189138) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189138) 28 additions and 12 deletions in 2 files</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move compositor frame ownership into the view renderers<br />
   <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/189162) 492 additions and 542 deletions in 13 files</sub><br />
 
