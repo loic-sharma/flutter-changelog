@@ -45,7 +45,7 @@
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187254) 19 additions and 2 deletions in 2 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
-  <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/187504) 140 additions and 203 deletions in 5 files</sub><br />
+  <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [38 comments](https://github.com/flutter/flutter/pull/187504) 140 additions and 203 deletions in 5 files</sub><br />
 
 * **[Lin Zhenming](https://github.com/lzm-build)** &mdash; Add iOS prebuilt impeller_sdk<br />
   <sub>[#187608](https://github.com/flutter/flutter/pull/187608) opened on on June 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187608) 57 additions and 14 deletions in 5 files</sub><br />
@@ -75,7 +75,7 @@
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
-  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/188544) 233 additions and 93 deletions in 18 files</sub><br />
+  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/188544) 233 additions and 93 deletions in 18 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
@@ -208,4 +208,7 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Use super-parameter in two_dimensional_utils<br />
   <sub>[#189957](https://github.com/flutter/flutter/pull/189957) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189957) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Migrate a11y_assessments to uiscene<br />
+  <sub>[#189960](https://github.com/flutter/flutter/pull/189960) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189960) 28 additions and 3 deletions in 4 files</sub><br />
 
