@@ -45,7 +45,7 @@
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187254) 19 additions and 2 deletions in 2 files</sub><br />
 
 * **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
-  <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [38 comments](https://github.com/flutter/flutter/pull/187504) 140 additions and 203 deletions in 5 files</sub><br />
+  <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [40 comments](https://github.com/flutter/flutter/pull/187504) 147 additions and 208 deletions in 5 files</sub><br />
 
 * **[Lin Zhenming](https://github.com/lzm-build)** &mdash; Add iOS prebuilt impeller_sdk<br />
   <sub>[#187608](https://github.com/flutter/flutter/pull/187608) opened on on June 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187608) 57 additions and 14 deletions in 5 files</sub><br />
@@ -105,7 +105,7 @@
   <sub>[#188910](https://github.com/flutter/flutter/pull/188910) opened on on July 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188910) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mark Turner](https://github.com/markst)** &mdash; Pass -project to xcodebuild when multiple .xcodeproj exist<br />
-  <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188934) 97 additions and 11 deletions in 4 files</sub><br />
+  <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188934) 97 additions and 11 deletions in 4 files</sub><br />
 
 * **[RabahDj ](https://github.com/drhassimac-afk)** &mdash; Add new dependencies to pubspec.yaml<br />
   <sub>[#188935](https://github.com/flutter/flutter/pull/188935) opened on on July 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188935) 11 additions and 0 deletions in 1 file</sub><br />
@@ -217,4 +217,7 @@
 
 * **[tjcGoogle](https://github.com/tjcGoogle)** &mdash; [Windows] Preserve composing extent in setEditingState<br />
   <sub>[#189968](https://github.com/flutter/flutter/pull/189968) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189968) 45 additions and 1 deletion in 2 files</sub><br />
+
+* **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; fix(tool): parse ADB device lists by connection state<br />
+  <sub>[#189973](https://github.com/flutter/flutter/pull/189973) opened on on July 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189973) 87 additions and 8 deletions in 2 files</sub><br />
 
