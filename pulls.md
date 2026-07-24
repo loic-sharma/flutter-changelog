@@ -168,7 +168,7 @@
   <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/189747) 563 additions and 109 deletions in 20 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind uniforms and textures by cached reflection index<br />
-  <sub>[#189820](https://github.com/flutter/flutter/pull/189820) opened on on July 22, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/189820) 314 additions and 37 deletions in 9 files</sub><br />
+  <sub>[#189820](https://github.com/flutter/flutter/pull/189820) opened on on July 22, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/189820) 314 additions and 37 deletions in 9 files</sub><br />
 
 * **[apinilabs-pascal](https://github.com/apinilabs-pascal)** &mdash; [web] Stop percent-decoding URLs written to browser history<br />
   <sub>[#189835](https://github.com/flutter/flutter/pull/189835) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189835) 39 additions and 8 deletions in 2 files</sub><br />
@@ -181,9 +181,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert Mockito instances in Kotlin to Mockk<br />
   <sub>[#189884](https://github.com/flutter/flutter/pull/189884) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189884) 23 additions and 22 deletions in 2 files</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Report manual mip sampling as unsupported on Adreno Vulkan<br />
-  <sub>[#189897](https://github.com/flutter/flutter/pull/189897) opened on on July 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189897) 43 additions and 7 deletions in 5 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Raise Dart errors for invalid render pipelines and memoize per-draw pipeline state<br />
   <sub>[#189899](https://github.com/flutter/flutter/pull/189899) opened on on July 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189899) 214 additions and 13 deletions in 9 files</sub><br />
@@ -211,4 +208,10 @@
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Migrate a11y_assessments to uiscene<br />
   <sub>[#189960](https://github.com/flutter/flutter/pull/189960) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189960) 28 additions and 3 deletions in 4 files</sub><br />
+
+* **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [iOS] Populate display corner radii on iOS 26<br />
+  <sub>[#189963](https://github.com/flutter/flutter/pull/189963) opened on on July 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189963) 203 additions and 4 deletions in 4 files</sub><br />
+
+* **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; Fix Impeller Vulkan sampling of explicitly supplied manual mip chains<br />
+  <sub>[#189966](https://github.com/flutter/flutter/pull/189966) opened on on July 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189966) 57 additions and 4 deletions in 7 files</sub><br />
 
