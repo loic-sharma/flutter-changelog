@@ -209,6 +209,9 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Use super-parameter in two_dimensional_utils<br />
   <sub>[#189957](https://github.com/flutter/flutter/pull/189957) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189957) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [wimp] fixes ubo padding size issue<br />
+  <sub>[#189958](https://github.com/flutter/flutter/pull/189958) opened on on July 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189958) 218 additions and 7 deletions in 5 files</sub><br />
+
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Migrate a11y_assessments to uiscene<br />
   <sub>[#189960](https://github.com/flutter/flutter/pull/189960) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189960) 28 additions and 3 deletions in 4 files</sub><br />
 
@@ -226,4 +229,7 @@
 
 * **[Laurie](https://github.com/Laurie-Lin)** &mdash; [flutter_test] Add an option to hide live test pointer crosshairs<br />
   <sub>[#189984](https://github.com/flutter/flutter/pull/189984) opened on on July 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189984) 121 additions and 0 deletions in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn when unable to find iOS Device Support Symbols<br />
+  <sub>[#189993](https://github.com/flutter/flutter/pull/189993) opened on on July 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189993) 939 additions and 16 deletions in 9 files</sub><br />
 
