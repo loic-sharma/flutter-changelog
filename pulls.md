@@ -231,5 +231,11 @@
   <sub>[#189984](https://github.com/flutter/flutter/pull/189984) opened on on July 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189984) 121 additions and 0 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn when unable to find iOS Device Support Symbols<br />
-  <sub>[#189993](https://github.com/flutter/flutter/pull/189993) opened on on July 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189993) 939 additions and 16 deletions in 9 files</sub><br />
+  <sub>[#189993](https://github.com/flutter/flutter/pull/189993) opened on on July 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189993) 943 additions and 17 deletions in 11 files</sub><br />
+
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve size to content logic for popups and tooltips on Linux<br />
+  <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189994) 239 additions and 24 deletions in 3 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Add java/gradle check before starting gradle<br />
+  <sub>[#189997](https://github.com/flutter/flutter/pull/189997) opened on on July 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189997) 269 additions and 13 deletions in 3 files</sub><br />
 
