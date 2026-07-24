@@ -741,7 +741,11 @@
 
 ### July 18, 2026 to July 24, 2026
 
-23 commits.
+24 commits.
+
+* **[Zubascu Ionut](https://github.com/Zubii12)** &mdash; [packages] Migrate all iOS example apps in flutter/packages to UIScene<br />
+  <sub>[#12182](https://github.com/flutter/packages/pull/12182) merged on July 24, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/12182) over 1 week, 814 additions and 66 deletions in 66 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Hán Trung Kiên](https://github.com/hantrungkien)** &mdash; [go_router_builder] Allow users to specify onExit as optional<br />
   <sub>[#11151](https://github.com/flutter/packages/pull/11151) merged on July 21, 2026 &mdash; **Medium:** [41 comments](https://github.com/flutter/packages/pull/11151) over 4 months, 319 additions and 32 deletions in 47 files</sub><br />
