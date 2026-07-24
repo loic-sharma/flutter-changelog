@@ -224,3 +224,6 @@
 * **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; fix(tool): parse ADB device lists by connection state<br />
   <sub>[#189973](https://github.com/flutter/flutter/pull/189973) opened on on July 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189973) 87 additions and 8 deletions in 2 files</sub><br />
 
+* **[Laurie](https://github.com/Laurie-Lin)** &mdash; [flutter_test] Add an option to hide live test pointer crosshairs<br />
+  <sub>[#189984](https://github.com/flutter/flutter/pull/189984) opened on on July 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189984) 121 additions and 0 deletions in 2 files</sub><br />
+
