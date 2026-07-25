@@ -44,9 +44,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187254) 19 additions and 2 deletions in 2 files</sub><br />
 
-* **[Marijua ރ](https://github.com/Enderjua)** &mdash; Modernize switch statements to expressions in the painting library<br />
-  <sub>[#187504](https://github.com/flutter/flutter/pull/187504) opened on on June 3, 2026 &mdash; **Medium:** [40 comments](https://github.com/flutter/flutter/pull/187504) 147 additions and 208 deletions in 5 files</sub><br />
-
 * **[Lin Zhenming](https://github.com/lzm-build)** &mdash; Add iOS prebuilt impeller_sdk<br />
   <sub>[#187608](https://github.com/flutter/flutter/pull/187608) opened on on June 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187608) 57 additions and 14 deletions in 5 files</sub><br />
 
@@ -247,4 +244,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made linter more robust to non-utf8 files<br />
   <sub>[#190012](https://github.com/flutter/flutter/pull/190012) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190012) 14 additions and 2 deletions in 2 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Keep the keyboard up during an iOS caret drag<br />
+  <sub>[#190014](https://github.com/flutter/flutter/pull/190014) opened on on July 24, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/190014) 314 additions and 2 deletions in 4 files</sub><br />
 
