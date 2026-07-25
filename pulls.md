@@ -72,7 +72,7 @@
   <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
 
 * **[ahyang](https://github.com/ahyangnb)** &mdash; [Impeller] Add filterQuality support to ImageFilter.shader<br />
-  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/188544) 233 additions and 93 deletions in 18 files</sub><br />
+  <sub>[#188544](https://github.com/flutter/flutter/pull/188544) opened on on June 25, 2026 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/188544) 233 additions and 94 deletions in 18 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
