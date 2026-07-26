@@ -251,3 +251,6 @@
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Fix Hero size changes during Navigator resize<br />
   <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190025) 100 additions and 6 deletions in 2 files</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add 2D texture array support<br />
+  <sub>[#190036](https://github.com/flutter/flutter/pull/190036) opened on on July 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190036) 389 additions and 36 deletions in 25 files</sub><br />
+
