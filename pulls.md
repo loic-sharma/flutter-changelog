@@ -249,8 +249,11 @@
   <sub>[#190014](https://github.com/flutter/flutter/pull/190014) opened on on July 24, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/190014) 314 additions and 2 deletions in 4 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Fix Hero size changes during Navigator resize<br />
-  <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190025) 100 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190025) 100 additions and 6 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add 2D texture array support<br />
   <sub>[#190036](https://github.com/flutter/flutter/pull/190036) opened on on July 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190036) 389 additions and 36 deletions in 25 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Skip binding dead-code-eliminated resources on Metal<br />
+  <sub>[#190040](https://github.com/flutter/flutter/pull/190040) opened on on July 26, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190040) 135 additions and 0 deletions in 5 files</sub><br />
 
