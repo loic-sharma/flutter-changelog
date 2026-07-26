@@ -255,5 +255,5 @@
   <sub>[#190036](https://github.com/flutter/flutter/pull/190036) opened on on July 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190036) 389 additions and 36 deletions in 25 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Skip binding dead-code-eliminated resources on Metal<br />
-  <sub>[#190040](https://github.com/flutter/flutter/pull/190040) opened on on July 26, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190040) 135 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#190040](https://github.com/flutter/flutter/pull/190040) opened on on July 26, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/190040) 135 additions and 0 deletions in 5 files</sub><br />
 
