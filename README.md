@@ -831,6 +831,10 @@
   <sub>[#12243](https://github.com/flutter/packages/pull/12243) merged on July 20, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/12243) over 1 day, 620 additions and 616 deletions in 36 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui] Prerelease setup<br />
+  <sub>[#12258](https://github.com/flutter/packages/pull/12258) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12258) over 6 hours, 40 additions and 8 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui] Unpin material_color_utilities<br />
   <sub>[#12225](https://github.com/flutter/packages/pull/12225) merged on July 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12225) over 3 days, 1 addition and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
@@ -842,10 +846,6 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [various] Convert example boilerplate from Java to Kotlin<br />
   <sub>[#12201](https://github.com/flutter/packages/pull/12201) merged on July 20, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/12201) over 5 days, 727 additions and 864 deletions in 93 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui] Prerelease setup<br />
-  <sub>[#12258](https://github.com/flutter/packages/pull/12258) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12258) over 6 hours, 40 additions and 8 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Undo unpublished version info<br />
   <sub>[#12252](https://github.com/flutter/packages/pull/12252) merged on July 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12252) over 48 minutes, 1 addition and 9 deletions in 2 files</sub><br />
