@@ -4,7 +4,7 @@
 
 ### July 25, 2026 to July 31, 2026
 
-5 commits.
+7 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) merged on July 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186436) over 2 months, 1 addition and 1 deletion in 1 file</sub>
@@ -18,6 +18,10 @@
   <sub>[#189948](https://github.com/flutter/flutter/pull/189948) merged on July 27, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/189948) over 3 days, 86 additions and 52 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [wimp] fixes ubo padding size issue
+  <sub>[#189958](https://github.com/flutter/flutter/pull/189958) merged on July 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189958) over 3 days, 222 additions and 7 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff)</sub>
+
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: verify_binaries_pre_codesigned part 2
   <sub>[#190078](https://github.com/flutter/flutter/pull/190078) merged on July 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190078) over 1 hour, 4 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -25,6 +29,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Abseil to ff6e8ce3e932
   <sub>[#189998](https://github.com/flutter/flutter/pull/189998) merged on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189998) over 2 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add Ishaq Hassan to AUTHORS
+  <sub>[#190064](https://github.com/flutter/flutter/pull/190064) merged on July 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190064) over 11 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
 
 ### July 18, 2026 to July 24, 2026
 
@@ -780,7 +788,7 @@
 
 ### July 25, 2026 to July 31, 2026
 
-3 commits.
+4 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Set up blog redirects 
   <sub>[#13632](https://github.com/flutter/website/pull/13632) merged on July 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13632) over 8 hours, 132 additions and 0 deletions in 4 files</sub>
@@ -788,6 +796,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve formatting consistency of new dependency management page
   <sub>[#13628](https://github.com/flutter/website/pull/13628) merged on July 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13628) over 2 days, 98 additions and 83 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; added enabling built-in kotlin
+  <sub>[#13629](https://github.com/flutter/website/pull/13629) merged on July 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13629) over 3 days, 41 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
 
 * **[kjxbyz](https://github.com/kjxbyz)** &mdash; The cursor needs to change when the mouse hovers over each blog category

@@ -66,7 +66,7 @@
   <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
-  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
+  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Refactor SwiftPM symlink path logic<br />
   <sub>[#188647](https://github.com/flutter/flutter/pull/188647) opened on on June 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188647) 222 additions and 78 deletions in 4 files</sub><br />
@@ -182,9 +182,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Use super-parameter in two_dimensional_utils<br />
   <sub>[#189957](https://github.com/flutter/flutter/pull/189957) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189957) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [wimp] fixes ubo padding size issue<br />
-  <sub>[#189958](https://github.com/flutter/flutter/pull/189958) opened on on July 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189958) 222 additions and 7 deletions in 5 files</sub><br />
-
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [iOS] Populate display corner radii on iOS 26<br />
   <sub>[#189963](https://github.com/flutter/flutter/pull/189963) opened on on July 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189963) 203 additions and 4 deletions in 4 files</sub><br />
 
@@ -220,9 +217,6 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Skip binding dead-code-eliminated resources on Metal<br />
   <sub>[#190040](https://github.com/flutter/flutter/pull/190040) opened on on July 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/190040) 135 additions and 0 deletions in 5 files</sub><br />
-
-* **[Cole Springer](https://github.com/ColeSpringer)** &mdash; [web] Link multithreaded skwasm in emscripten hybrid mode<br />
-  <sub>[#190048](https://github.com/flutter/flutter/pull/190048) opened on on July 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190048) 190 additions and 2 deletions in 8 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Adjust settings header name for properties that apply to both tooltips and popups<br />
   <sub>[#190053](https://github.com/flutter/flutter/pull/190053) opened on on July 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190053) 3 additions and 3 deletions in 1 file</sub><br />
