@@ -764,11 +764,15 @@
 
 ### July 25, 2026 to July 31, 2026
 
-2 commits.
+3 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Set up blog redirects <br />
   <sub>[#13632](https://github.com/flutter/website/pull/13632) merged on July 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13632) over 8 hours, 132 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Thomsen](https://github.com/mit-mit), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve formatting consistency of new dependency management page<br />
+  <sub>[#13628](https://github.com/flutter/website/pull/13628) merged on July 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13628) over 2 days, 98 additions and 83 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[kjxbyz](https://github.com/kjxbyz)** &mdash; The cursor needs to change when the mouse hovers over each blog category<br />
   <sub>[#13630](https://github.com/flutter/website/pull/13630) merged on July 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13630) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
