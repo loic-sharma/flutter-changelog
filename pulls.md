@@ -29,9 +29,6 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
-  <sub>[#186436](https://github.com/flutter/flutter/pull/186436) opened on on May 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186436) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `InheritedElement.ubiquitous` constructor<br />
   <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186923) 124 additions and 49 deletions in 3 files</sub><br />
 
@@ -93,7 +90,7 @@
   <sub>[#188901](https://github.com/flutter/flutter/pull/188901) opened on on July 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188901) 34 additions and 9 deletions in 3 files</sub><br />
 
 * **[AnasQasem](https://github.com/AnasQasem)** &mdash; [Impeller] Render COLR/CPAL color text as vector paths<br />
-  <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
+  <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing await on `instantiateImageCodecFromBuffer`<br />
   <sub>[#188910](https://github.com/flutter/flutter/pull/188910) opened on on July 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188910) 2 additions and 2 deletions in 1 file</sub><br />
@@ -206,9 +203,6 @@
 * **[tjcGoogle](https://github.com/tjcGoogle)** &mdash; [Windows] Preserve composing extent in setEditingState<br />
   <sub>[#189968](https://github.com/flutter/flutter/pull/189968) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189968) 45 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; fix(tool): parse ADB device lists by connection state<br />
-  <sub>[#189973](https://github.com/flutter/flutter/pull/189973) opened on on July 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189973) 87 additions and 8 deletions in 2 files</sub><br />
-
 * **[Laurie](https://github.com/Laurie-Lin)** &mdash; [flutter_test] Add an option to hide live test pointer crosshairs<br />
   <sub>[#189984](https://github.com/flutter/flutter/pull/189984) opened on on July 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189984) 121 additions and 0 deletions in 2 files</sub><br />
 
@@ -259,4 +253,7 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated `describeEnum` from framework<br />
   <sub>[#190076](https://github.com/flutter/flutter/pull/190076) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190076) 0 additions and 61 deletions in 2 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Bypass xcodebuild -list SwiftPM fetch during flutter clean<br />
+  <sub>[#190091](https://github.com/flutter/flutter/pull/190091) opened on on July 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190091) 59 additions and 6 deletions in 4 files</sub><br />
 
