@@ -65,9 +65,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
   <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
 
-* **[huangyouhua1](https://github.com/huangyouhua1)** &mdash; Add tests for flutter_view and platform_view examples<br />
-  <sub>[#188488](https://github.com/flutter/flutter/pull/188488) opened on on June 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188488) 152 additions and 0 deletions in 4 files</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [20 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
 
@@ -97,9 +94,6 @@
 
 * **[Mark Turner](https://github.com/markst)** &mdash; Pass -project to xcodebuild when multiple .xcodeproj exist<br />
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/188934) 97 additions and 11 deletions in 4 files</sub><br />
-
-* **[RabahDj ](https://github.com/drhassimac-afk)** &mdash; Add new dependencies to pubspec.yaml<br />
-  <sub>[#188935](https://github.com/flutter/flutter/pull/188935) opened on on July 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188935) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Explain why build methods must not have side effects<br />
   <sub>[#188939](https://github.com/flutter/flutter/pull/188939) opened on on July 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188939) 29 additions and 9 deletions in 2 files</sub><br />
@@ -179,9 +173,6 @@
 * **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Read deployment target from pbxproj during package generation<br />
   <sub>[#189923](https://github.com/flutter/flutter/pull/189923) opened on on July 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189923) 155 additions and 1 deletion in 4 files</sub><br />
 
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Instruct gemini code assist not to comment on syntax error<br />
-  <sub>[#189930](https://github.com/flutter/flutter/pull/189930) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189930) 4 additions and 0 deletions in 1 file</sub><br />
-
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix null-check crash in semantics geometry-dirty enqueue path<br />
   <sub>[#189942](https://github.com/flutter/flutter/pull/189942) opened on on July 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189942) 43 additions and 2 deletions in 2 files</sub><br />
 
@@ -238,9 +229,6 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; focus order dot shorthands<br />
   <sub>[#190062](https://github.com/flutter/flutter/pull/190062) opened on on July 27, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/190062) 204 additions and 228 deletions in 7 files</sub><br />
-
-* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add Ishaq Hassan to AUTHORS<br />
-  <sub>[#190064](https://github.com/flutter/flutter/pull/190064) opened on on July 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190064) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Lavanbarath B](https://github.com/lavan8t)** &mdash; fix(logger): preserve Unicode check and cross symbols in log output<br />
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
