@@ -228,7 +228,7 @@
   <sub>[#189993](https://github.com/flutter/flutter/pull/189993) opened on on July 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189993) 943 additions and 17 deletions in 11 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve initial size and placement logic for popups and tooltips on Linux<br />
-  <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
+  <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Add java/gradle check before starting gradle<br />
   <sub>[#189997](https://github.com/flutter/flutter/pull/189997) opened on on July 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189997) 269 additions and 13 deletions in 3 files</sub><br />
@@ -259,4 +259,7 @@
 
 * **[Cole Springer](https://github.com/ColeSpringer)** &mdash; [web] Link multithreaded skwasm in emscripten hybrid mode<br />
   <sub>[#190048](https://github.com/flutter/flutter/pull/190048) opened on on July 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190048) 190 additions and 2 deletions in 8 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Adjust settings header name for properties that apply to both tooltips and popups<br />
+  <sub>[#190053](https://github.com/flutter/flutter/pull/190053) opened on on July 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190053) 3 additions and 3 deletions in 1 file</sub><br />
 
