@@ -272,3 +272,6 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add Ishaq Hassan to AUTHORS<br />
   <sub>[#190064](https://github.com/flutter/flutter/pull/190064) opened on on July 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190064) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Lavanbarath B](https://github.com/lavan8t)** &mdash; fix(logger): preserve Unicode check and cross symbols in log output<br />
+  <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
+
