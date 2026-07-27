@@ -257,3 +257,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Skip binding dead-code-eliminated resources on Metal<br />
   <sub>[#190040](https://github.com/flutter/flutter/pull/190040) opened on on July 26, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/190040) 135 additions and 0 deletions in 5 files</sub><br />
 
+* **[Cole Springer](https://github.com/ColeSpringer)** &mdash; [web] Link multithreaded skwasm in emscripten hybrid mode<br />
+  <sub>[#190048](https://github.com/flutter/flutter/pull/190048) opened on on July 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190048) 190 additions and 2 deletions in 8 files</sub><br />
+
