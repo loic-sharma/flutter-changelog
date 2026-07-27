@@ -120,7 +120,7 @@
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
 
 * **[CodeDoctor](https://github.com/CodeDoctorDE)** &mdash; Use correct titlebar on linux<br />
-  <sub>[#189138](https://github.com/flutter/flutter/pull/189138) opened on on July 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189138) 28 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#189138](https://github.com/flutter/flutter/pull/189138) opened on on July 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189138) 26 additions and 12 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move compositor frame ownership into the view renderers<br />
   <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/189162) 492 additions and 542 deletions in 13 files</sub><br />
@@ -262,4 +262,13 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Adjust settings header name for properties that apply to both tooltips and popups<br />
   <sub>[#190053](https://github.com/flutter/flutter/pull/190053) opened on on July 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190053) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; focus order dot shorthands<br />
+  <sub>[#190062](https://github.com/flutter/flutter/pull/190062) opened on on July 27, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/190062) 204 additions and 228 deletions in 7 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Rename Swift test files to end in Tests.swift<br />
+  <sub>[#190063](https://github.com/flutter/flutter/pull/190063) opened on on July 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190063) 14 additions and 14 deletions in 10 files</sub><br />
+
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Add Ishaq Hassan to AUTHORS<br />
+  <sub>[#190064](https://github.com/flutter/flutter/pull/190064) opened on on July 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190064) 1 addition and 0 deletions in 1 file</sub><br />
 
