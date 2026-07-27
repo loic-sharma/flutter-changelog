@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### July 25, 2026 to July 31, 2026
+
+1 commits.
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: clean up golden copy in CI<br />
+  <sub>[#189948](https://github.com/flutter/flutter/pull/189948) merged on July 27, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/189948) over 3 days, 86 additions and 52 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
 ### July 18, 2026 to July 24, 2026
 
-68 commits.
+<details>
+<summary>68 commits...</summary>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Clear cached directional focus history on a non-directional focus request <br />
   <sub>[#187957](https://github.com/flutter/flutter/pull/187957) merged on July 22, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/187957) over 1 month, 204 additions and 26 deletions in 2 files</sub><br />
@@ -280,6 +289,8 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip emulator.getEmulators test<br />
   <sub>[#189879](https://github.com/flutter/flutter/pull/189879) merged on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189879) over 46 minutes, 15 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+</details>
 
 ### July 11, 2026 to July 17, 2026
 
@@ -751,9 +762,22 @@
 
 ## flutter/website
 
+### July 25, 2026 to July 31, 2026
+
+2 commits.
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; Set up blog redirects <br />
+  <sub>[#13632](https://github.com/flutter/website/pull/13632) merged on July 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13632) over 8 hours, 132 additions and 0 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Thomsen](https://github.com/mit-mit), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[kjxbyz](https://github.com/kjxbyz)** &mdash; The cursor needs to change when the mouse hovers over each blog category<br />
+  <sub>[#13630](https://github.com/flutter/website/pull/13630) merged on July 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13630) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kilian Schulte](https://github.com/schultek), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### July 18, 2026 to July 24, 2026
 
-29 commits.
+<details>
+<summary>29 commits...</summary>
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Implement Flutter blog and integrate old articles<br />
   <sub>[#13558](https://github.com/flutter/website/pull/13558) merged on July 24, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/website/pull/13558) over 2 weeks, 47631 additions and 191 deletions in 1917 files</sub><br />
@@ -873,6 +897,8 @@
 * **[Melih Arık](https://github.com/meliharik)** &mdash; Fix unbalanced parens in SwiftUI devs Padding example<br />
   <sub>[#13600](https://github.com/flutter/website/pull/13600) merged on July 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13600) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### July 11, 2026 to July 17, 2026
 
