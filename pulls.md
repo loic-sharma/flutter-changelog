@@ -155,9 +155,6 @@
 * **[udit](https://github.com/UditDewan)** &mdash; Skip platform tooling regeneration for non-Flutter pub workspace packages<br />
   <sub>[#189705](https://github.com/flutter/flutter/pull/189705) opened on on July 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189705) 78 additions and 6 deletions in 2 files</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Ensure playground tests render both on and offscreen<br />
-  <sub>[#189747](https://github.com/flutter/flutter/pull/189747) opened on on July 20, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/189747) 563 additions and 109 deletions in 20 files</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind uniforms and textures by cached reflection index<br />
   <sub>[#189820](https://github.com/flutter/flutter/pull/189820) opened on on July 22, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/189820) 314 additions and 37 deletions in 9 files</sub><br />
 
@@ -195,7 +192,7 @@
   <sub>[#189957](https://github.com/flutter/flutter/pull/189957) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189957) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [wimp] fixes ubo padding size issue<br />
-  <sub>[#189958](https://github.com/flutter/flutter/pull/189958) opened on on July 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189958) 222 additions and 7 deletions in 5 files</sub><br />
+  <sub>[#189958](https://github.com/flutter/flutter/pull/189958) opened on on July 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189958) 222 additions and 7 deletions in 5 files</sub><br />
 
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [iOS] Populate display corner radii on iOS 26<br />
   <sub>[#189963](https://github.com/flutter/flutter/pull/189963) opened on on July 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189963) 203 additions and 4 deletions in 4 files</sub><br />
@@ -222,7 +219,7 @@
   <sub>[#190006](https://github.com/flutter/flutter/pull/190006) opened on on July 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190006) 96 additions and 2 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made linter more robust to non-utf8 files<br />
-  <sub>[#190012](https://github.com/flutter/flutter/pull/190012) opened on on July 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190012) 14 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#190012](https://github.com/flutter/flutter/pull/190012) opened on on July 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190012) 14 additions and 2 deletions in 2 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Fix Hero size changes during Navigator resize<br />
   <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190025) 99 additions and 6 deletions in 2 files</sub><br />
@@ -256,4 +253,7 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Bypass xcodebuild -list SwiftPM fetch during flutter clean<br />
   <sub>[#190091](https://github.com/flutter/flutter/pull/190091) opened on on July 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190091) 59 additions and 6 deletions in 4 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Gracefully handle locked Windows files during clean<br />
+  <sub>[#190095](https://github.com/flutter/flutter/pull/190095) opened on on July 27, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/190095) 246 additions and 56 deletions in 2 files</sub><br />
 
