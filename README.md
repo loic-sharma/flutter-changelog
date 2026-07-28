@@ -577,11 +577,23 @@
 
 ### July 25, 2026 to July 31, 2026
 
-1 commits.
+4 commits.
+
+* **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [camera_android_camerax] Add the ability to unit test skills. <br />
+  <sub>[#12285](https://github.com/flutter/packages/pull/12285) merged on July 28, 2026 &mdash; **Medium:** [22 comments](https://github.com/flutter/packages/pull/12285) over 3 days, 383 additions and 0 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Tag dependabot PRs with `triage-android`<br />
   <sub>[#12142](https://github.com/flutter/packages/pull/12142) merged on July 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12142) over 2 weeks, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Support promoting to 1.0 in batch releases<br />
+  <sub>[#12262](https://github.com/flutter/packages/pull/12262) merged on July 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12262) over 6 days, 60 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; ci: Fix Zizmor github-env failure in install_flutter action<br />
+  <sub>[#12298](https://github.com/flutter/packages/pull/12298) merged on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12298) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 ### July 18, 2026 to July 24, 2026
 
@@ -823,11 +835,15 @@
 
 ### July 25, 2026 to July 31, 2026
 
-5 commits.
+6 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Set up blog redirects <br />
   <sub>[#13632](https://github.com/flutter/website/pull/13632) merged on July 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13632) over 8 hours, 132 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Thomsen](https://github.com/mit-mit), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Enhance dependency upgrade instructions<br />
+  <sub>[#13623](https://github.com/flutter/website/pull/13623) merged on July 28, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13623) over 5 days, 5 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove Medium logos for old blog links<br />
   <sub>[#13633](https://github.com/flutter/website/pull/13633) merged on July 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13633) over 9 hours, 2 additions and 42 deletions in 6 files</sub><br />
