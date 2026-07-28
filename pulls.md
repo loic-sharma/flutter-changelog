@@ -29,9 +29,6 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `InheritedElement.ubiquitous` constructor<br />
-  <sub>[#186923](https://github.com/flutter/flutter/pull/186923) opened on on May 22, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186923) 124 additions and 49 deletions in 3 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
 
@@ -54,7 +51,7 @@
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
-  <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixed couple of bugs<br />
   <sub>[#188032](https://github.com/flutter/flutter/pull/188032) opened on on June 15, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188032) 71 additions and 39 deletions in 4 files</sub><br />
@@ -117,7 +114,7 @@
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22936 additions and 0 deletions in 173 files</sub><br />
 
 * **[guszxtavo](https://github.com/guszxtavo)** &mdash; [Impeller] Enable ETC2/ASTC LDR/BC texture compression features at Vulkan device creation<br />
-  <sub>[#189303](https://github.com/flutter/flutter/pull/189303) opened on on July 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189303) 36 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#189303](https://github.com/flutter/flutter/pull/189303) opened on on July 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189303) 36 additions and 0 deletions in 3 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
   <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
@@ -129,16 +126,13 @@
   <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
 
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Wait for web rendering before first-frame event<br />
-  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189500) 67 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189500) 67 additions and 15 deletions in 3 files</sub><br />
 
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Move githooks to `dev/tools/githooks`<br />
   <sub>[#189539](https://github.com/flutter/flutter/pull/189539) opened on on July 15, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/189539) 312 additions and 219 deletions in 29 files</sub><br />
-
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary generic type getter in `Factory interface`<br />
-  <sub>[#189600](https://github.com/flutter/flutter/pull/189600) opened on on July 16, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189600) 5 additions and 8 deletions in 3 files</sub><br />
 
 * **[matheusccastro](https://github.com/matheusccastroo)** &mdash; Pass web-defines to the web builder in all run configurations<br />
   <sub>[#189622](https://github.com/flutter/flutter/pull/189622) opened on on July 16, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/189622) 420 additions and 0 deletions in 10 files</sub><br />
@@ -173,20 +167,11 @@
 * **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Read deployment target from pbxproj during package generation<br />
   <sub>[#189923](https://github.com/flutter/flutter/pull/189923) opened on on July 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189923) 155 additions and 1 deletion in 4 files</sub><br />
 
-* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix null-check crash in semantics geometry-dirty enqueue path<br />
-  <sub>[#189942](https://github.com/flutter/flutter/pull/189942) opened on on July 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189942) 43 additions and 2 deletions in 2 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds error about wimp_heavy not being implemented.<br />
   <sub>[#189945](https://github.com/flutter/flutter/pull/189945) opened on on July 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189945) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Cp beta c3f6236f61f5650c315cd21da8bc58bb66f77a5f<br />
   <sub>[#189947](https://github.com/flutter/flutter/pull/189947) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189947) 5 additions and 0 deletions in 1 file</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Use super-parameter in two_dimensional_utils<br />
-  <sub>[#189957](https://github.com/flutter/flutter/pull/189957) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189957) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [iOS] Populate display corner radii on iOS 26<br />
-  <sub>[#189963](https://github.com/flutter/flutter/pull/189963) opened on on July 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189963) 203 additions and 4 deletions in 4 files</sub><br />
 
 * **[tjcGoogle](https://github.com/tjcGoogle)** &mdash; [Windows] Preserve composing extent in setEditingState<br />
   <sub>[#189968](https://github.com/flutter/flutter/pull/189968) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189968) 45 additions and 1 deletion in 2 files</sub><br />
@@ -213,13 +198,10 @@
   <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190025) 99 additions and 6 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add 2D texture array support<br />
-  <sub>[#190036](https://github.com/flutter/flutter/pull/190036) opened on on July 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/190036) 390 additions and 36 deletions in 25 files</sub><br />
+  <sub>[#190036](https://github.com/flutter/flutter/pull/190036) opened on on July 26, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190036) 390 additions and 36 deletions in 25 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Adjust settings header name for properties that apply to both tooltips and popups<br />
   <sub>[#190053](https://github.com/flutter/flutter/pull/190053) opened on on July 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190053) 3 additions and 3 deletions in 1 file</sub><br />
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; focus order dot shorthands<br />
-  <sub>[#190062](https://github.com/flutter/flutter/pull/190062) opened on on July 27, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/190062) 204 additions and 228 deletions in 7 files</sub><br />
 
 * **[Lavanbarath B](https://github.com/lavan8t)** &mdash; fix(logger): preserve Unicode check and cross symbols in log output<br />
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
@@ -246,7 +228,7 @@
   <sub>[#190120](https://github.com/flutter/flutter/pull/190120) opened on on July 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190120) 11 additions and 30 deletions in 1 file</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [web] Fix password-manager autofill not reaching text fields<br />
-  <sub>[#190126](https://github.com/flutter/flutter/pull/190126) opened on on July 28, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/190126) 828 additions and 134 deletions in 5 files</sub><br />
+  <sub>[#190126](https://github.com/flutter/flutter/pull/190126) opened on on July 28, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/190126) 835 additions and 137 deletions in 5 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: forward --build-name and --build-number to desktop version.json<br />
   <sub>[#190130](https://github.com/flutter/flutter/pull/190130) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190130) 20 additions and 0 deletions in 3 files</sub><br />

@@ -4,7 +4,7 @@
 
 ### July 25, 2026 to July 31, 2026
 
-13 commits.
+14 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) merged on July 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186436) over 2 months, 1 addition and 1 deletion in 1 file</sub>
@@ -21,6 +21,10 @@
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Android_hardware_smoke_test: clean up golden copy in CI
   <sub>[#189948](https://github.com/flutter/flutter/pull/189948) merged on July 27, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/189948) over 3 days, 86 additions and 52 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix use-after-free race during shell teardown
+  <sub>[#190132](https://github.com/flutter/flutter/pull/190132) merged on July 28, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/190132) over 12 hours, 127 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate TaskRunner tests to Swift Testing
   <sub>[#190055](https://github.com/flutter/flutter/pull/190055) merged on July 28, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/190055) over 21 hours, 24 additions and 18 deletions in 1 file</sub>
@@ -863,11 +867,15 @@
 
 ### July 25, 2026 to July 31, 2026
 
-6 commits.
+7 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Set up blog redirects 
   <sub>[#13632](https://github.com/flutter/website/pull/13632) merged on July 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13632) over 8 hours, 132 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Thomsen](https://github.com/mit-mit), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add a tooling redirect to the redirects
+  <sub>[#13637](https://github.com/flutter/website/pull/13637) merged on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13637) over 42 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jess K](https://github.com/jesskuras)</sub>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Enhance dependency upgrade instructions
   <sub>[#13623](https://github.com/flutter/website/pull/13623) merged on July 28, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13623) over 5 days, 5 additions and 3 deletions in 1 file</sub>
