@@ -581,7 +581,7 @@
 
 ### July 25, 2026 to July 31, 2026
 
-8 commits.
+9 commits.
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [camera_android_camerax] Add the ability to unit test skills. <br />
   <sub>[#12285](https://github.com/flutter/packages/pull/12285) merged on July 28, 2026 &mdash; **Medium:** [22 comments](https://github.com/flutter/packages/pull/12285) over 3 days, 383 additions and 0 deletions in 15 files</sub><br />
@@ -606,6 +606,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Tag dependabot PRs with `triage-android`<br />
   <sub>[#12142](https://github.com/flutter/packages/pull/12142) merged on July 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12142) over 2 weeks, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; Exempt evals directories from version checks<br />
+  <sub>[#12299](https://github.com/flutter/packages/pull/12299) merged on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12299) over 5 hours, 18 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Support promoting to 1.0 in batch releases<br />
   <sub>[#12262](https://github.com/flutter/packages/pull/12262) merged on July 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12262) over 6 days, 60 additions and 0 deletions in 3 files</sub><br />
