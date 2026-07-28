@@ -23,7 +23,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix use-after-free race during shell teardown
-  <sub>[#190132](https://github.com/flutter/flutter/pull/190132) merged on July 28, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/190132) over 12 hours, 127 additions and 4 deletions in 4 files</sub>
+  <sub>[#190132](https://github.com/flutter/flutter/pull/190132) merged on July 28, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/190132) over 12 hours, 127 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate TaskRunner tests to Swift Testing

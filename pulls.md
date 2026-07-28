@@ -63,7 +63,7 @@
   <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
-  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/188573) 1659 additions and 1659 deletions in 31 files</sub><br />
+  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/188573) 1659 additions and 1659 deletions in 31 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Refactor SwiftPM symlink path logic<br />
   <sub>[#188647](https://github.com/flutter/flutter/pull/188647) opened on on June 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188647) 222 additions and 78 deletions in 4 files</sub><br />
@@ -176,9 +176,6 @@
 * **[tjcGoogle](https://github.com/tjcGoogle)** &mdash; [Windows] Preserve composing extent in setEditingState<br />
   <sub>[#189968](https://github.com/flutter/flutter/pull/189968) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189968) 45 additions and 1 deletion in 2 files</sub><br />
 
-* **[Laurie](https://github.com/Laurie-Lin)** &mdash; [flutter_test] Add an option to hide live test pointer crosshairs<br />
-  <sub>[#189984](https://github.com/flutter/flutter/pull/189984) opened on on July 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189984) 121 additions and 0 deletions in 2 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn when unable to find iOS Device Support Symbols<br />
   <sub>[#189993](https://github.com/flutter/flutter/pull/189993) opened on on July 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189993) 944 additions and 17 deletions in 11 files</sub><br />
 
@@ -187,12 +184,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Add java/gradle check before starting gradle<br />
   <sub>[#189997](https://github.com/flutter/flutter/pull/189997) opened on on July 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189997) 269 additions and 13 deletions in 3 files</sub><br />
-
-* **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix stale _entries and pointer tracking in OneSequenceGestureRecognizer.rejectGesture<br />
-  <sub>[#190005](https://github.com/flutter/flutter/pull/190005) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190005) 63 additions and 13 deletions in 7 files</sub><br />
-
-* **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
-  <sub>[#190006](https://github.com/flutter/flutter/pull/190006) opened on on July 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190006) 96 additions and 2 deletions in 2 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Fix Hero size changes during Navigator resize<br />
   <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190025) 99 additions and 6 deletions in 2 files</sub><br />
@@ -238,9 +229,6 @@
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Fix deferred loading with wasm<br />
   <sub>[#190140](https://github.com/flutter/flutter/pull/190140) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190140) 42 additions and 4 deletions in 5 files</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart from 28e63ac22d8d to 49c637261348<br />
-  <sub>[#190158](https://github.com/flutter/flutter/pull/190158) opened on on July 28, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190158) 268 additions and 265 deletions in 4 files</sub><br />
 
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Document event ordering for HitTestBehavior.translucent<br />
   <sub>[#190163](https://github.com/flutter/flutter/pull/190163) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190163) 15 additions and 0 deletions in 1 file</sub><br />
