@@ -575,9 +575,18 @@
 
 ## flutter/packages
 
+### July 25, 2026 to July 31, 2026
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Tag dependabot PRs with `triage-android`
+  <sub>[#12142](https://github.com/flutter/packages/pull/12142) merged on July 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12142) over 2 weeks, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
 ### July 18, 2026 to July 24, 2026
 
-25 commits.
+<details>
+<summary>25 commits...</summary>
 
 * **[Zubascu Ionut](https://github.com/Zubii12)** &mdash; [packages] Migrate all iOS example apps in flutter/packages to UIScene
   <sub>[#12182](https://github.com/flutter/packages/pull/12182) merged on July 24, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/12182) over 1 week, 814 additions and 66 deletions in 66 files</sub>
@@ -678,6 +687,8 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-cupertino_ui-0.0.2 to main
   <sub>[#12265](https://github.com/flutter/packages/pull/12265) merged on July 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12265) over 34 minutes, 9 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
+
+</details>
 
 ### July 11, 2026 to July 17, 2026
 
