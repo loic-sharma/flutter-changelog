@@ -66,7 +66,7 @@
   <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
-  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/188573) 1635 additions and 1659 deletions in 31 files</sub><br />
+  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/188573) 1659 additions and 1659 deletions in 31 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Refactor SwiftPM symlink path logic<br />
   <sub>[#188647](https://github.com/flutter/flutter/pull/188647) opened on on June 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188647) 222 additions and 78 deletions in 4 files</sub><br />
@@ -133,6 +133,9 @@
 
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Move githooks to `dev/tools/githooks`<br />
+  <sub>[#189539](https://github.com/flutter/flutter/pull/189539) opened on on July 15, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/189539) 312 additions and 219 deletions in 29 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove unnecessary generic type getter in `Factory interface`<br />
   <sub>[#189600](https://github.com/flutter/flutter/pull/189600) opened on on July 16, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189600) 5 additions and 8 deletions in 3 files</sub><br />
@@ -210,10 +213,7 @@
   <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190025) 99 additions and 6 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add 2D texture array support<br />
-  <sub>[#190036](https://github.com/flutter/flutter/pull/190036) opened on on July 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/190036) 389 additions and 36 deletions in 25 files</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Skip binding dead-code-eliminated resources on Metal<br />
-  <sub>[#190040](https://github.com/flutter/flutter/pull/190040) opened on on July 26, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/190040) 135 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#190036](https://github.com/flutter/flutter/pull/190036) opened on on July 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/190036) 390 additions and 36 deletions in 25 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Adjust settings header name for properties that apply to both tooltips and popups<br />
   <sub>[#190053](https://github.com/flutter/flutter/pull/190053) opened on on July 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190053) 3 additions and 3 deletions in 1 file</sub><br />
@@ -237,13 +237,16 @@
   <sub>[#190095](https://github.com/flutter/flutter/pull/190095) opened on on July 27, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/190095) 246 additions and 56 deletions in 2 files</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; android_hardware_smoke_test: Detect blank image failures or EGL initialization warnings and retry<br />
-  <sub>[#190110](https://github.com/flutter/flutter/pull/190110) opened on on July 27, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190110) 515 additions and 83 deletions in 9 files</sub><br />
+  <sub>[#190110](https://github.com/flutter/flutter/pull/190110) opened on on July 27, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/190110) 535 additions and 81 deletions in 9 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add clang, cmake, and ninja deps to Linux windowing_test<br />
   <sub>[#190119](https://github.com/flutter/flutter/pull/190119) opened on on July 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190119) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Never use a header bar in the Linux application template<br />
   <sub>[#190120](https://github.com/flutter/flutter/pull/190120) opened on on July 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190120) 11 additions and 30 deletions in 1 file</sub><br />
+
+* **[Serhat Güler](https://github.com/sero583)** &mdash; [web] Fix password-manager autofill not reaching text fields<br />
+  <sub>[#190126](https://github.com/flutter/flutter/pull/190126) opened on on July 28, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/190126) 828 additions and 134 deletions in 5 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: forward --build-name and --build-number to desktop version.json<br />
   <sub>[#190130](https://github.com/flutter/flutter/pull/190130) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190130) 20 additions and 0 deletions in 3 files</sub><br />
@@ -256,4 +259,10 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart from 28e63ac22d8d to 49c637261348<br />
   <sub>[#190158](https://github.com/flutter/flutter/pull/190158) opened on on July 28, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190158) 268 additions and 265 deletions in 4 files</sub><br />
+
+* **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Document event ordering for HitTestBehavior.translucent<br />
+  <sub>[#190163](https://github.com/flutter/flutter/pull/190163) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190163) 15 additions and 0 deletions in 1 file</sub><br />
+
+* **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Document that TextEditingController.clear() does not trigger input formatters<br />
+  <sub>[#190166](https://github.com/flutter/flutter/pull/190166) opened on on July 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190166) 6 additions and 0 deletions in 1 file</sub><br />
 

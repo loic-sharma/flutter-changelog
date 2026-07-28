@@ -581,11 +581,15 @@
 
 ### July 25, 2026 to July 31, 2026
 
-9 commits.
+10 commits.
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [camera_android_camerax] Add the ability to unit test skills. 
   <sub>[#12285](https://github.com/flutter/packages/pull/12285) merged on July 28, 2026 &mdash; **Medium:** [22 comments](https://github.com/flutter/packages/pull/12285) over 3 days, 383 additions and 0 deletions in 15 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [file_selector] Switch to Swift Testing
+  <sub>[#12235](https://github.com/flutter/packages/pull/12235) merged on July 28, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/12235) over 1 week, 354 additions and 378 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [material_ui, cupertino_ui] Fix API doc references
   <sub>[#12274](https://github.com/flutter/packages/pull/12274) merged on July 28, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/packages/pull/12274) over 5 days, 74 additions and 54 deletions in 52 files</sub>
