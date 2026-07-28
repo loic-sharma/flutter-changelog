@@ -192,7 +192,7 @@
   <sub>[#189984](https://github.com/flutter/flutter/pull/189984) opened on on July 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189984) 121 additions and 0 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn when unable to find iOS Device Support Symbols<br />
-  <sub>[#189993](https://github.com/flutter/flutter/pull/189993) opened on on July 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189993) 943 additions and 17 deletions in 11 files</sub><br />
+  <sub>[#189993](https://github.com/flutter/flutter/pull/189993) opened on on July 24, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189993) 944 additions and 17 deletions in 11 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve initial size and placement logic for popups and tooltips on Linux<br />
   <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
@@ -205,9 +205,6 @@
 
 * **[Muhammad Ishaq Khan](https://github.com/ishaq2321)** &mdash; Fix false positive assertion on GlobalKey reuse for defunct elements<br />
   <sub>[#190006](https://github.com/flutter/flutter/pull/190006) opened on on July 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190006) 96 additions and 2 deletions in 2 files</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made linter more robust to non-utf8 files<br />
-  <sub>[#190012](https://github.com/flutter/flutter/pull/190012) opened on on July 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190012) 14 additions and 2 deletions in 2 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Fix Hero size changes during Navigator resize<br />
   <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190025) 99 additions and 6 deletions in 2 files</sub><br />
@@ -252,5 +249,5 @@
   <sub>[#190131](https://github.com/flutter/flutter/pull/190131) opened on on July 28, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/190131) 2808 additions and 101 deletions in 6 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Fix deferred loading with wasm<br />
-  <sub>[#190140](https://github.com/flutter/flutter/pull/190140) opened on on July 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190140) 42 additions and 4 deletions in 5 files</sub><br />
+  <sub>[#190140](https://github.com/flutter/flutter/pull/190140) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190140) 42 additions and 4 deletions in 5 files</sub><br />
 

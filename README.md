@@ -4,7 +4,7 @@
 
 ### July 25, 2026 to July 31, 2026
 
-12 commits.
+13 commits.
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) merged on July 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186436) over 2 months, 1 addition and 1 deletion in 1 file</sub><br />
@@ -33,6 +33,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: verify_binaries_pre_codesigned part 2<br />
   <sub>[#190078](https://github.com/flutter/flutter/pull/190078) merged on July 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190078) over 1 hour, 4 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made linter more robust to non-utf8 files<br />
+  <sub>[#190012](https://github.com/flutter/flutter/pull/190012) merged on July 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190012) over 3 days, 14 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Reject merged-platform-ui-thread=mergeAfterLaunch<br />
   <sub>[#190051](https://github.com/flutter/flutter/pull/190051) merged on July 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190051) over 23 hours, 17 additions and 0 deletions in 2 files</sub><br />
@@ -577,11 +581,19 @@
 
 ### July 25, 2026 to July 31, 2026
 
-4 commits.
+6 commits.
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [camera_android_camerax] Add the ability to unit test skills. <br />
   <sub>[#12285](https://github.com/flutter/packages/pull/12285) merged on July 28, 2026 &mdash; **Medium:** [22 comments](https://github.com/flutter/packages/pull/12285) over 3 days, 383 additions and 0 deletions in 15 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Delete `GeneratedCameraxLibrary.java`<br />
+  <sub>[#12294](https://github.com/flutter/packages/pull/12294) merged on July 28, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/12294) over 22 hours, 0 additions and 4697 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; [vector_graphics_compiler] Ignore unrecognized font-weight values<br />
+  <sub>[#12199](https://github.com/flutter/packages/pull/12199) merged on July 28, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12199) over 2 weeks, 58 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Andy Wolff](https://github.com/andywolff)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Tag dependabot PRs with `triage-android`<br />
   <sub>[#12142](https://github.com/flutter/packages/pull/12142) merged on July 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12142) over 2 weeks, 2 additions and 0 deletions in 1 file</sub><br />
