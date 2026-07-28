@@ -581,11 +581,15 @@
 
 ### July 25, 2026 to July 31, 2026
 
-6 commits.
+8 commits.
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [camera_android_camerax] Add the ability to unit test skills. <br />
   <sub>[#12285](https://github.com/flutter/packages/pull/12285) merged on July 28, 2026 &mdash; **Medium:** [22 comments](https://github.com/flutter/packages/pull/12285) over 3 days, 383 additions and 0 deletions in 15 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [material_ui, cupertino_ui] Fix API doc references<br />
+  <sub>[#12274](https://github.com/flutter/packages/pull/12274) merged on July 28, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/packages/pull/12274) over 5 days, 74 additions and 54 deletions in 52 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Delete `GeneratedCameraxLibrary.java`<br />
   <sub>[#12294](https://github.com/flutter/packages/pull/12294) merged on July 28, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/12294) over 22 hours, 0 additions and 4697 deletions in 2 files</sub><br />
@@ -594,6 +598,10 @@
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; [vector_graphics_compiler] Ignore unrecognized font-weight values<br />
   <sub>[#12199](https://github.com/flutter/packages/pull/12199) merged on July 28, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12199) over 2 weeks, 58 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Andy Wolff](https://github.com/andywolff)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui, cupertino_ui] Migrate macros that contain `@tool`<br />
+  <sub>[#12271](https://github.com/flutter/packages/pull/12271) merged on July 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12271) over 6 days, 80 additions and 12 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Tag dependabot PRs with `triage-android`<br />
   <sub>[#12142](https://github.com/flutter/packages/pull/12142) merged on July 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12142) over 2 weeks, 2 additions and 0 deletions in 1 file</sub><br />

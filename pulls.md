@@ -66,7 +66,7 @@
   <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
-  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/flutter/pull/188573) 1593 additions and 1658 deletions in 31 files</sub><br />
+  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/flutter/pull/188573) 1635 additions and 1659 deletions in 31 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Refactor SwiftPM symlink path logic<br />
   <sub>[#188647](https://github.com/flutter/flutter/pull/188647) opened on on June 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188647) 222 additions and 78 deletions in 4 files</sub><br />
@@ -250,4 +250,7 @@
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Fix deferred loading with wasm<br />
   <sub>[#190140](https://github.com/flutter/flutter/pull/190140) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190140) 42 additions and 4 deletions in 5 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart from 28e63ac22d8d to 49c637261348<br />
+  <sub>[#190158](https://github.com/flutter/flutter/pull/190158) opened on on July 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190158) 1 addition and 2 deletions in 2 files</sub><br />
 
