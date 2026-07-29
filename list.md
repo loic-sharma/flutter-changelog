@@ -4,7 +4,7 @@
 
 ### July 25, 2026 to July 31, 2026
 
-26 commits.
+27 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Avoid unnecessary work in `BoxDecoration` and `RenderPhysicalModel`
   <sub>[#187891](https://github.com/flutter/flutter/pull/187891) merged on July 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187891) over 1 month, 33 additions and 3 deletions in 4 files</sub>
@@ -14,6 +14,10 @@
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Fix TreeSliver first node clipping during expand/collapse animation
   <sub>[#188626](https://github.com/flutter/flutter/pull/188626) merged on July 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188626) over 1 month, 112 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; Fix NestedScrollView example crash when switching tabs on desktop
+  <sub>[#186993](https://github.com/flutter/flutter/pull/186993) merged on July 29, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186993) over 2 months, 117 additions and 59 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Scope SemanticsTester per test in scrollable_semantics_test
   <sub>[#189800](https://github.com/flutter/flutter/pull/189800) merged on July 29, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189800) over 1 week, 20 additions and 22 deletions in 1 file</sub>
