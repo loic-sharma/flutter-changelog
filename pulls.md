@@ -233,9 +233,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds analytics to macos impeller opt in/out<br />
   <sub>[#190220](https://github.com/flutter/flutter/pull/190220) opened on on July 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190220) 194 additions and 8 deletions in 2 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert all gradle-wrapper.properties in /dev to use distribution 'bin'<br />
-  <sub>[#190226](https://github.com/flutter/flutter/pull/190226) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190226) 26 additions and 26 deletions in 26 files</sub><br />
-
 * **[Rusino](https://github.com/Rusino)** &mdash; Glitch<br />
   <sub>[#190227](https://github.com/flutter/flutter/pull/190227) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190227) 107 additions and 30 deletions in 1 file</sub><br />
 

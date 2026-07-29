@@ -974,7 +974,7 @@
   <sub>[#13628](https://github.com/flutter/website/pull/13628) merged on July 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13628) over 2 days, 98 additions and 83 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; added enabling built-in kotlin<br />
+* **[jesswrd](https://github.com/jesswrd)** &mdash; added enabling built-in kotlin in 3.47<br />
   <sub>[#13629](https://github.com/flutter/website/pull/13629) merged on July 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13629) over 3 days, 41 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
