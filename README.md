@@ -956,7 +956,7 @@
 
 ### July 25, 2026 to July 31, 2026
 
-8 commits.
+9 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update links to old Dart and Flutter Medium publications<br />
   <sub>[#13638](https://github.com/flutter/website/pull/13638) merged on July 29, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/website/pull/13638) over 3 hours, 317 additions and 321 deletions in 117 files</sub><br />
@@ -981,6 +981,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve formatting consistency of new dependency management page<br />
   <sub>[#13628](https://github.com/flutter/website/pull/13628) merged on July 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13628) over 2 days, 98 additions and 83 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; Fix trailing question mark added to URLs when updating query parameters<br />
+  <sub>[#13641](https://github.com/flutter/website/pull/13641) merged on July 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13641) over 20 hours, 22 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; added enabling built-in kotlin in 3.47<br />
   <sub>[#13629](https://github.com/flutter/website/pull/13629) merged on July 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13629) over 3 days, 41 additions and 5 deletions in 2 files</sub><br />
