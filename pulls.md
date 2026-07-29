@@ -6,7 +6,7 @@
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
-  <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
+  <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -70,9 +70,6 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
-
-* **[Shariar Hossain](https://github.com/shariaralphabyte)** &mdash; [flutter_tools] Tell user how to skip the device prompt with -d<br />
-  <sub>[#188714](https://github.com/flutter/flutter/pull/188714) opened on on June 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188714) 48 additions and 9 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 93 additions and 154 deletions in 30 files</sub><br />
@@ -218,9 +215,6 @@
 * **[Michał Król](https://github.com/krolmic)** &mdash; Add ReorderableListView.separated constructor<br />
   <sub>[#190131](https://github.com/flutter/flutter/pull/190131) opened on on July 28, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/190131) 2808 additions and 101 deletions in 6 files</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Fix deferred loading with wasm<br />
-  <sub>[#190140](https://github.com/flutter/flutter/pull/190140) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190140) 43 additions and 4 deletions in 5 files</sub><br />
-
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Document event ordering for HitTestBehavior.translucent<br />
   <sub>[#190163](https://github.com/flutter/flutter/pull/190163) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190163) 15 additions and 0 deletions in 1 file</sub><br />
 
@@ -247,4 +241,7 @@
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; [Android] Add numeric-password variation to TextInputType<br />
   <sub>[#190207](https://github.com/flutter/flutter/pull/190207) opened on on July 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190207) 200 additions and 2 deletions in 4 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds analytics to macos impeller opt in/out<br />
+  <sub>[#190220](https://github.com/flutter/flutter/pull/190220) opened on on July 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190220) 125 additions and 8 deletions in 2 files</sub><br />
 

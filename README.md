@@ -4,7 +4,7 @@
 
 ### July 25, 2026 to July 31, 2026
 
-28 commits.
+29 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Avoid unnecessary work in `BoxDecoration` and `RenderPhysicalModel`<br />
   <sub>[#187891](https://github.com/flutter/flutter/pull/187891) merged on July 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187891) over 1 month, 33 additions and 3 deletions in 4 files</sub><br />
@@ -86,6 +86,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: verify_binaries_pre_codesigned part 2<br />
   <sub>[#190078](https://github.com/flutter/flutter/pull/190078) merged on July 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190078) over 1 hour, 4 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Fix deferred loading with wasm<br />
+  <sub>[#190140](https://github.com/flutter/flutter/pull/190140) merged on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190140) over 1 day, 43 additions and 4 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nate Biggs](https://github.com/biggs0125), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Win32] Ignore mouse move events without capture when dragging<br />
   <sub>[#190029](https://github.com/flutter/flutter/pull/190029) merged on July 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190029) over 3 days, 51 additions and 2 deletions in 2 files</sub><br />
