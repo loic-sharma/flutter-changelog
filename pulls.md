@@ -96,7 +96,7 @@
   <sub>[#189042](https://github.com/flutter/flutter/pull/189042) opened on on July 7, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189042) 1102 additions and 1 deletion in 18 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Use devicectl for screenshots on Xcode 27, remove idevicescreenshot artifact<br />
-  <sub>[#189091](https://github.com/flutter/flutter/pull/189091) opened on on July 7, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/189091) 415 additions and 121 deletions in 10 files</sub><br />
+  <sub>[#189091](https://github.com/flutter/flutter/pull/189091) opened on on July 7, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/189091) 414 additions and 121 deletions in 10 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
@@ -142,9 +142,6 @@
 
 * **[Muhammad Assad Ullah](https://github.com/assassinaj602)** &mdash; [webview_flutter] Fix Android WebViewWidget right edge background bleed<br />
   <sub>[#189837](https://github.com/flutter/flutter/pull/189837) opened on on July 22, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/189837) 4086 additions and 0 deletions in 2 files</sub><br />
-
-* **[Rusino](https://github.com/Rusino)** &mdash; Fixing edge cases for wrapping text (with newlines)<br />
-  <sub>[#189858](https://github.com/flutter/flutter/pull/189858) opened on on July 22, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/189858) 245 additions and 107 deletions in 5 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert Mockito instances in Kotlin to Mockk<br />
   <sub>[#189884](https://github.com/flutter/flutter/pull/189884) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189884) 23 additions and 22 deletions in 2 files</sub><br />
@@ -243,5 +240,5 @@
   <sub>[#190207](https://github.com/flutter/flutter/pull/190207) opened on on July 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190207) 200 additions and 2 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds analytics to macos impeller opt in/out<br />
-  <sub>[#190220](https://github.com/flutter/flutter/pull/190220) opened on on July 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190220) 125 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#190220](https://github.com/flutter/flutter/pull/190220) opened on on July 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190220) 194 additions and 8 deletions in 2 files</sub><br />
 
