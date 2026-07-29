@@ -4,7 +4,7 @@
 
 ### July 25, 2026 to July 31, 2026
 
-32 commits.
+33 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [test cross imports] flutter_test cross import fixes
   <sub>[#189265](https://github.com/flutter/flutter/pull/189265) merged on July 29, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/189265) over 2 weeks, 351 additions and 244 deletions in 15 files</sub>
@@ -126,6 +126,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Abseil to ff6e8ce3e932
   <sub>[#189998](https://github.com/flutter/flutter/pull/189998) merged on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189998) over 2 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert all gradle-wrapper.properties in /dev to use distribution 'bin'
+  <sub>[#190226](https://github.com/flutter/flutter/pull/190226) merged on July 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190226) over 32 minutes, 26 additions and 26 deletions in 26 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Use super-parameter in two_dimensional_utils
   <sub>[#189957](https://github.com/flutter/flutter/pull/189957) merged on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189957) over 5 days, 2 additions and 2 deletions in 1 file</sub>
@@ -658,7 +662,7 @@
 
 ### July 25, 2026 to July 31, 2026
 
-12 commits.
+13 commits.
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [camera_android_camerax] Add the ability to unit test skills. 
   <sub>[#12285](https://github.com/flutter/packages/pull/12285) merged on July 28, 2026 &mdash; **Medium:** [22 comments](https://github.com/flutter/packages/pull/12285) over 3 days, 383 additions and 0 deletions in 15 files</sub>
@@ -687,6 +691,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [ci] Tag dependabot PRs with `triage-android`
   <sub>[#12142](https://github.com/flutter/packages/pull/12142) merged on July 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12142) over 2 weeks, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [tool] Update `githooks/README` with Git hooks uninstallation instructions
+  <sub>[#12311](https://github.com/flutter/packages/pull/12311) merged on July 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12311) over 3 hours, 47 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [pigeon] Clean up legacy registrant code
   <sub>[#12205](https://github.com/flutter/packages/pull/12205) merged on July 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12205) over 1 week, 5 additions and 24 deletions in 3 files</sub>
