@@ -207,7 +207,7 @@
   <sub>[#190119](https://github.com/flutter/flutter/pull/190119) opened on on July 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190119) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Never use a header bar in the Linux application template<br />
-  <sub>[#190120](https://github.com/flutter/flutter/pull/190120) opened on on July 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190120) 11 additions and 30 deletions in 1 file</sub><br />
+  <sub>[#190120](https://github.com/flutter/flutter/pull/190120) opened on on July 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190120) 11 additions and 30 deletions in 1 file</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [web] Fix password-manager autofill not reaching text fields<br />
   <sub>[#190126](https://github.com/flutter/flutter/pull/190126) opened on on July 28, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/190126) 835 additions and 137 deletions in 5 files</sub><br />
@@ -241,4 +241,10 @@
 
 * **[ふぁ](https://github.com/fa0311)** &mdash; Cache `BoxShadow` paints in `_BoxDecorationPainter`<br />
   <sub>[#190194](https://github.com/flutter/flutter/pull/190194) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190194) 10 additions and 3 deletions in 1 file</sub><br />
+
+* **[cui fliter](https://github.com/cuishuang)** &mdash; Prevent stale async suggestions in SearchAnchor<br />
+  <sub>[#190206](https://github.com/flutter/flutter/pull/190206) opened on on July 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190206) 55 additions and 12 deletions in 2 files</sub><br />
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; [Android] Add numeric-password variation to TextInputType<br />
+  <sub>[#190207](https://github.com/flutter/flutter/pull/190207) opened on on July 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190207) 200 additions and 2 deletions in 4 files</sub><br />
 
