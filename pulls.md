@@ -5,9 +5,6 @@
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
-* **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
-  <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
-
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
@@ -209,9 +206,6 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: forward --build-name and --build-number to desktop version.json<br />
   <sub>[#190130](https://github.com/flutter/flutter/pull/190130) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190130) 20 additions and 0 deletions in 3 files</sub><br />
 
-* **[Michał Król](https://github.com/krolmic)** &mdash; Add ReorderableListView.separated constructor<br />
-  <sub>[#190131](https://github.com/flutter/flutter/pull/190131) opened on on July 28, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/190131) 2808 additions and 101 deletions in 6 files</sub><br />
-
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Document event ordering for HitTestBehavior.translucent<br />
   <sub>[#190163](https://github.com/flutter/flutter/pull/190163) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190163) 15 additions and 0 deletions in 1 file</sub><br />
 
@@ -233,12 +227,15 @@
 * **[ふぁ](https://github.com/fa0311)** &mdash; Cache `BoxShadow` paints in `_BoxDecorationPainter`<br />
   <sub>[#190194](https://github.com/flutter/flutter/pull/190194) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190194) 10 additions and 3 deletions in 1 file</sub><br />
 
-* **[cui fliter](https://github.com/cuishuang)** &mdash; Prevent stale async suggestions in SearchAnchor<br />
-  <sub>[#190206](https://github.com/flutter/flutter/pull/190206) opened on on July 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190206) 55 additions and 12 deletions in 2 files</sub><br />
-
 * **[Alex Li](https://github.com/AlexV525)** &mdash; [Android] Add numeric-password variation to TextInputType<br />
   <sub>[#190207](https://github.com/flutter/flutter/pull/190207) opened on on July 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190207) 200 additions and 2 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds analytics to macos impeller opt in/out<br />
-  <sub>[#190220](https://github.com/flutter/flutter/pull/190220) opened on on July 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190220) 194 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#190220](https://github.com/flutter/flutter/pull/190220) opened on on July 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190220) 194 additions and 8 deletions in 2 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert all gradle-wrapper.properties in /dev to use distribution 'bin'<br />
+  <sub>[#190226](https://github.com/flutter/flutter/pull/190226) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190226) 26 additions and 26 deletions in 26 files</sub><br />
+
+* **[Rusino](https://github.com/Rusino)** &mdash; Glitch<br />
+  <sub>[#190227](https://github.com/flutter/flutter/pull/190227) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190227) 107 additions and 30 deletions in 1 file</sub><br />
 

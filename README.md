@@ -4,7 +4,11 @@
 
 ### July 25, 2026 to July 31, 2026
 
-29 commits.
+32 commits.
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [test cross imports] flutter_test cross import fixes<br />
+  <sub>[#189265](https://github.com/flutter/flutter/pull/189265) merged on July 29, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/189265) over 2 weeks, 351 additions and 244 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Avoid unnecessary work in `BoxDecoration` and `RenderPhysicalModel`<br />
   <sub>[#187891](https://github.com/flutter/flutter/pull/187891) merged on July 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/187891) over 1 month, 33 additions and 3 deletions in 4 files</sub><br />
@@ -22,6 +26,10 @@
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Scope SemanticsTester per test in scrollable_semantics_test<br />
   <sub>[#189800](https://github.com/flutter/flutter/pull/189800) merged on July 29, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189800) over 1 week, 20 additions and 22 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Split the platform and cpuArch part of TargetPlatform<br />
+  <sub>[#189479](https://github.com/flutter/flutter/pull/189479) merged on July 29, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/189479) over 2 weeks, 1435 additions and 1596 deletions in 141 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]do not nuke user input path when running uiscene integration test<br />
   <sub>[#186436](https://github.com/flutter/flutter/pull/186436) merged on July 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/186436) over 2 months, 1 addition and 1 deletion in 1 file</sub><br />
@@ -42,6 +50,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Move tool host_cross_arch tests into different shards<br />
   <sub>[#189470](https://github.com/flutter/flutter/pull/189470) merged on July 27, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/189470) over 1 week, 358 additions and 375 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
+
+* **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; fix(tool): parse ADB device lists by connection state<br />
+  <sub>[#189973](https://github.com/flutter/flutter/pull/189973) merged on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189973) over 5 days, 87 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; Update widget location tracking to use the new generalized api<br />
   <sub>[#189725](https://github.com/flutter/flutter/pull/189725) merged on July 29, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/189725) over 1 week, 33 additions and 89 deletions in 6 files</sub><br />
