@@ -4,7 +4,7 @@
 
 ### July 25, 2026 to July 31, 2026
 
-33 commits.
+34 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [test cross imports] flutter_test cross import fixes
   <sub>[#189265](https://github.com/flutter/flutter/pull/189265) merged on July 29, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/189265) over 2 weeks, 351 additions and 244 deletions in 15 files</sub>
@@ -126,6 +126,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Abseil to ff6e8ce3e932
   <sub>[#189998](https://github.com/flutter/flutter/pull/189998) merged on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189998) over 2 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix Swift warning in TracingTests
+  <sub>[#190203](https://github.com/flutter/flutter/pull/190203) merged on July 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190203) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert all gradle-wrapper.properties in /dev to use distribution 'bin'
   <sub>[#190226](https://github.com/flutter/flutter/pull/190226) merged on July 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190226) over 32 minutes, 26 additions and 26 deletions in 26 files</sub>
