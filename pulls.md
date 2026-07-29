@@ -6,7 +6,7 @@
   <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Krystic Chung](https://github.com/krystic)** &mdash; Separate ARM64 Linux Desktop and Embedded engine builds to fix CJK and non-ASCII font rendering<br />
-  <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
+  <sub>[#180235](https://github.com/flutter/flutter/pull/180235) opened on on December 23, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/180235) 157 additions and 86 deletions in 3 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -86,9 +86,6 @@
 * **[AnasQasem](https://github.com/AnasQasem)** &mdash; [Impeller] Render COLR/CPAL color text as vector paths<br />
   <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
 
-* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Adds missing await on `instantiateImageCodecFromBuffer`<br />
-  <sub>[#188910](https://github.com/flutter/flutter/pull/188910) opened on on July 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188910) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Mark Turner](https://github.com/markst)** &mdash; Pass -project to xcodebuild when multiple .xcodeproj exist<br />
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/188934) 97 additions and 11 deletions in 4 files</sub><br />
 
@@ -97,6 +94,9 @@
 
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add batch3 a11y_assessment for vpat<br />
+  <sub>[#189042](https://github.com/flutter/flutter/pull/189042) opened on on July 7, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189042) 1102 additions and 1 deletion in 18 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Use devicectl for screenshots on Xcode 27, remove idevicescreenshot artifact<br />
   <sub>[#189091](https://github.com/flutter/flutter/pull/189091) opened on on July 7, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/189091) 415 additions and 121 deletions in 10 files</sub><br />
@@ -118,9 +118,6 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
   <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Make glBlitFramebuffer optional in the OpenGL compositor<br />
-  <sub>[#189476](https://github.com/flutter/flutter/pull/189476) opened on on July 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189476) 67 additions and 6 deletions in 2 files</sub><br />
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [flutter_tools] Use resolved application ID for app link settings<br />
   <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
@@ -156,7 +153,7 @@
   <sub>[#189884](https://github.com/flutter/flutter/pull/189884) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189884) 23 additions and 22 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Raise Dart errors for invalid render pipelines and memoize per-draw pipeline state<br />
-  <sub>[#189899](https://github.com/flutter/flutter/pull/189899) opened on on July 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189899) 214 additions and 13 deletions in 9 files</sub><br />
+  <sub>[#189899](https://github.com/flutter/flutter/pull/189899) opened on on July 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189899) 214 additions and 13 deletions in 9 files</sub><br />
 
 * **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Derive plugin package name from app name to avoid collisions (#189585)<br />
   <sub>[#189915](https://github.com/flutter/flutter/pull/189915) opened on on July 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189915) 240 additions and 96 deletions in 10 files</sub><br />
@@ -184,9 +181,6 @@
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Fix Hero size changes during Navigator resize<br />
   <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190025) 99 additions and 6 deletions in 2 files</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add 2D texture array support<br />
-  <sub>[#190036](https://github.com/flutter/flutter/pull/190036) opened on on July 26, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190036) 390 additions and 36 deletions in 25 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Adjust settings header name for properties that apply to both tooltips and popups<br />
   <sub>[#190053](https://github.com/flutter/flutter/pull/190053) opened on on July 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190053) 3 additions and 3 deletions in 1 file</sub><br />
@@ -234,5 +228,8 @@
   <sub>[#190166](https://github.com/flutter/flutter/pull/190166) opened on on July 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190166) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Stucdio Yazılım](https://github.com/stucdio)** &mdash; Schedule a follow-up frame when a build is requested during persistentCallbacks<br />
-  <sub>[#190172](https://github.com/flutter/flutter/pull/190172) opened on on July 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190172) 205 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#190172](https://github.com/flutter/flutter/pull/190172) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190172) 205 additions and 1 deletion in 2 files</sub><br />
+
+* **[HHHxm2](https://github.com/HHHxm2)** &mdash; feat: add support for automatically switching text to RTL or LTR based on first character typed<br />
+  <sub>[#190179](https://github.com/flutter/flutter/pull/190179) opened on on July 29, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/190179) 626 additions and 75 deletions in 23 files</sub><br />
 
