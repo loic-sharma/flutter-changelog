@@ -219,7 +219,7 @@
   <sub>[#190131](https://github.com/flutter/flutter/pull/190131) opened on on July 28, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/190131) 2808 additions and 101 deletions in 6 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Fix deferred loading with wasm<br />
-  <sub>[#190140](https://github.com/flutter/flutter/pull/190140) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190140) 42 additions and 4 deletions in 5 files</sub><br />
+  <sub>[#190140](https://github.com/flutter/flutter/pull/190140) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190140) 43 additions and 4 deletions in 5 files</sub><br />
 
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Document event ordering for HitTestBehavior.translucent<br />
   <sub>[#190163](https://github.com/flutter/flutter/pull/190163) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190163) 15 additions and 0 deletions in 1 file</sub><br />
@@ -231,8 +231,14 @@
   <sub>[#190172](https://github.com/flutter/flutter/pull/190172) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190172) 205 additions and 1 deletion in 2 files</sub><br />
 
 * **[HHHxm2](https://github.com/HHHxm2)** &mdash; feat: add support for automatically switching text to RTL or LTR based on first character typed<br />
-  <sub>[#190179](https://github.com/flutter/flutter/pull/190179) opened on on July 29, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/190179) 626 additions and 75 deletions in 23 files</sub><br />
+  <sub>[#190179](https://github.com/flutter/flutter/pull/190179) opened on on July 29, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/190179) 626 additions and 75 deletions in 23 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Sample hand-uploaded mip chains on Adreno Vulkan<br />
-  <sub>[#190186](https://github.com/flutter/flutter/pull/190186) opened on on July 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190186) 43 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#190186](https://github.com/flutter/flutter/pull/190186) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190186) 43 additions and 1 deletion in 4 files</sub><br />
+
+* **[ふぁ](https://github.com/fa0311)** &mdash; Add a fast path to `InheritedModel.inheritFrom`<br />
+  <sub>[#190189](https://github.com/flutter/flutter/pull/190189) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190189) 11 additions and 0 deletions in 1 file</sub><br />
+
+* **[ふぁ](https://github.com/fa0311)** &mdash; Cache `BoxShadow` paints in `_BoxDecorationPainter`<br />
+  <sub>[#190194](https://github.com/flutter/flutter/pull/190194) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190194) 10 additions and 3 deletions in 1 file</sub><br />
 
