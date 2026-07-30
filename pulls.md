@@ -131,9 +131,6 @@
 * **[udit](https://github.com/UditDewan)** &mdash; Skip platform tooling regeneration for non-Flutter pub workspace packages<br />
   <sub>[#189705](https://github.com/flutter/flutter/pull/189705) opened on on July 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189705) 78 additions and 6 deletions in 2 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind uniforms and textures by cached reflection index<br />
-  <sub>[#189820](https://github.com/flutter/flutter/pull/189820) opened on on July 22, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/189820) 309 additions and 37 deletions in 9 files</sub><br />
-
 * **[apinilabs-pascal](https://github.com/apinilabs-pascal)** &mdash; [web] Stop percent-decoding URLs written to browser history<br />
   <sub>[#189835](https://github.com/flutter/flutter/pull/189835) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189835) 39 additions and 8 deletions in 2 files</sub><br />
 
@@ -168,7 +165,7 @@
   <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Add java/gradle check when gradle crashes<br />
-  <sub>[#189997](https://github.com/flutter/flutter/pull/189997) opened on on July 24, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/189997) 401 additions and 38 deletions in 3 files</sub><br />
+  <sub>[#189997](https://github.com/flutter/flutter/pull/189997) opened on on July 24, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/189997) 401 additions and 38 deletions in 3 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Fix Hero size changes during Navigator resize<br />
   <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190025) 99 additions and 6 deletions in 2 files</sub><br />
@@ -226,4 +223,10 @@
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Report individual test results to LUCI ResultDB<br />
   <sub>[#190254](https://github.com/flutter/flutter/pull/190254) opened on on July 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190254) 879 additions and 0 deletions in 4 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix 1px edge clipping on Platform Views by preserving floating-point and rounding precision<br />
+  <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify MaskFilter and ColorFilter primitives across CanvasKit and Skwasm<br />
+  <sub>[#190314](https://github.com/flutter/flutter/pull/190314) opened on on July 30, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/190314) 434 additions and 683 deletions in 19 files</sub><br />
 
