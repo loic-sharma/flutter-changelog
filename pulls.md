@@ -83,9 +83,6 @@
 * **[Mark Turner](https://github.com/markst)** &mdash; Guide users when multiple Xcode projects are present<br />
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188934) 134 additions and 1 deletion in 4 files</sub><br />
 
-* **[PRANTA Dutta](https://github.com/theprantadutta)** &mdash; Explain why build methods must not have side effects<br />
-  <sub>[#188939](https://github.com/flutter/flutter/pull/188939) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188939) 34 additions and 9 deletions in 2 files</sub><br />
-
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -143,6 +140,9 @@
 * **[Muhammad Assad Ullah](https://github.com/assassinaj602)** &mdash; [webview_flutter] Fix Android WebViewWidget right edge background bleed<br />
   <sub>[#189837](https://github.com/flutter/flutter/pull/189837) opened on on July 22, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/189837) 4086 additions and 0 deletions in 2 files</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [iOS] Add Translate API support to Engine<br />
+  <sub>[#189878](https://github.com/flutter/flutter/pull/189878) opened on on July 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189878) 216 additions and 4 deletions in 9 files</sub><br />
+
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert Mockito instances in Kotlin to Mockk<br />
   <sub>[#189884](https://github.com/flutter/flutter/pull/189884) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189884) 23 additions and 22 deletions in 2 files</sub><br />
 
@@ -167,8 +167,8 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve initial size and placement logic for popups and tooltips on Linux<br />
   <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Add java/gradle check before starting gradle<br />
-  <sub>[#189997](https://github.com/flutter/flutter/pull/189997) opened on on July 24, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/189997) 403 additions and 38 deletions in 3 files</sub><br />
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Add java/gradle check when gradle crashes<br />
+  <sub>[#189997](https://github.com/flutter/flutter/pull/189997) opened on on July 24, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/189997) 401 additions and 38 deletions in 3 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Fix Hero size changes during Navigator resize<br />
   <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190025) 99 additions and 6 deletions in 2 files</sub><br />
@@ -209,14 +209,8 @@
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Document event ordering for HitTestBehavior.translucent<br />
   <sub>[#190163](https://github.com/flutter/flutter/pull/190163) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190163) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Document that TextEditingController.clear() does not trigger input formatters<br />
-  <sub>[#190166](https://github.com/flutter/flutter/pull/190166) opened on on July 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190166) 6 additions and 0 deletions in 1 file</sub><br />
-
 * **[Stucdio Yazılım](https://github.com/stucdio)** &mdash; Schedule a follow-up frame when a build is requested during persistentCallbacks<br />
   <sub>[#190172](https://github.com/flutter/flutter/pull/190172) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190172) 205 additions and 1 deletion in 2 files</sub><br />
-
-* **[HHHxm2](https://github.com/HHHxm2)** &mdash; feat: add support for automatically switching text to RTL or LTR based on first character typed<br />
-  <sub>[#190179](https://github.com/flutter/flutter/pull/190179) opened on on July 29, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/190179) 626 additions and 75 deletions in 23 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Sample hand-uploaded mip chains on Adreno Vulkan<br />
   <sub>[#190186](https://github.com/flutter/flutter/pull/190186) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190186) 43 additions and 1 deletion in 4 files</sub><br />
@@ -226,9 +220,6 @@
 
 * **[ふぁ](https://github.com/fa0311)** &mdash; Cache `BoxShadow` paints in `_BoxDecorationPainter`<br />
   <sub>[#190194](https://github.com/flutter/flutter/pull/190194) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190194) 10 additions and 3 deletions in 1 file</sub><br />
-
-* **[Alex Li](https://github.com/AlexV525)** &mdash; [Android] Add numeric-password variation to TextInputType<br />
-  <sub>[#190207](https://github.com/flutter/flutter/pull/190207) opened on on July 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190207) 200 additions and 2 deletions in 4 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Glitch<br />
   <sub>[#190227](https://github.com/flutter/flutter/pull/190227) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190227) 107 additions and 30 deletions in 1 file</sub><br />
