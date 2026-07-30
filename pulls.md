@@ -48,7 +48,7 @@
   <sub>[#187879](https://github.com/flutter/flutter/pull/187879) opened on on June 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187879) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ricardo Sawir](https://github.com/sawirricardo)** &mdash; [linux] Read heading text through the AtkText interface<br />
-  <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#188005](https://github.com/flutter/flutter/pull/188005) opened on on June 15, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188005) 227 additions and 2 deletions in 2 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; Fixed couple of bugs<br />
   <sub>[#188032](https://github.com/flutter/flutter/pull/188032) opened on on June 15, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/188032) 71 additions and 39 deletions in 4 files</sub><br />
@@ -60,7 +60,7 @@
   <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
-  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/188573) 1655 additions and 1659 deletions in 31 files</sub><br />
+  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/flutter/pull/188573) 1655 additions and 1659 deletions in 31 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Refactor SwiftPM symlink path logic<br />
   <sub>[#188647](https://github.com/flutter/flutter/pull/188647) opened on on June 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188647) 222 additions and 78 deletions in 4 files</sub><br />
@@ -158,9 +158,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Cp beta c3f6236f61f5650c315cd21da8bc58bb66f77a5f<br />
   <sub>[#189947](https://github.com/flutter/flutter/pull/189947) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189947) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[tjcGoogle](https://github.com/tjcGoogle)** &mdash; [Windows] Preserve composing extent in setEditingState<br />
-  <sub>[#189968](https://github.com/flutter/flutter/pull/189968) opened on on July 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189968) 45 additions and 1 deletion in 2 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn when unable to find iOS Device Support Symbols<br />
   <sub>[#189993](https://github.com/flutter/flutter/pull/189993) opened on on July 24, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/189993) 944 additions and 17 deletions in 11 files</sub><br />
 
@@ -230,12 +227,9 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; [Android] Add numeric-password variation to TextInputType<br />
   <sub>[#190207](https://github.com/flutter/flutter/pull/190207) opened on on July 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190207) 200 additions and 2 deletions in 4 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds analytics to macos impeller opt in/out<br />
-  <sub>[#190220](https://github.com/flutter/flutter/pull/190220) opened on on July 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190220) 194 additions and 8 deletions in 2 files</sub><br />
-
 * **[Rusino](https://github.com/Rusino)** &mdash; Glitch<br />
   <sub>[#190227](https://github.com/flutter/flutter/pull/190227) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190227) 107 additions and 30 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Migrate layers example to material_ui<br />
-  <sub>[#190237](https://github.com/flutter/flutter/pull/190237) opened on on July 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/190237) 10 additions and 11 deletions in 9 files</sub><br />
+  <sub>[#190237](https://github.com/flutter/flutter/pull/190237) opened on on July 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/190237) 26 additions and 11 deletions in 10 files</sub><br />
 
