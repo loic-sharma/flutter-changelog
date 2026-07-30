@@ -233,9 +233,6 @@
 * **[Rusino](https://github.com/Rusino)** &mdash; Glitch<br />
   <sub>[#190227](https://github.com/flutter/flutter/pull/190227) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190227) 107 additions and 30 deletions in 1 file</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Migrate layers example to material_ui<br />
-  <sub>[#190237](https://github.com/flutter/flutter/pull/190237) opened on on July 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/190237) 26 additions and 11 deletions in 10 files</sub><br />
-
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Report individual test results to LUCI ResultDB<br />
   <sub>[#190254](https://github.com/flutter/flutter/pull/190254) opened on on July 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190254) 879 additions and 0 deletions in 4 files</sub><br />
 
