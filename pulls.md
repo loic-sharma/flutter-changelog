@@ -224,9 +224,12 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Report individual test results to LUCI ResultDB<br />
   <sub>[#190254](https://github.com/flutter/flutter/pull/190254) opened on on July 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190254) 879 additions and 0 deletions in 4 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix 1px edge clipping on Platform Views by preserving floating-point and rounding precision<br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix 1px edge clipping on Platform Views by preserving floating-point precision where possible and rounding otherwise instead of truncating<br />
   <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify MaskFilter and ColorFilter primitives across CanvasKit and Skwasm<br />
   <sub>[#190314](https://github.com/flutter/flutter/pull/190314) opened on on July 30, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/190314) 434 additions and 683 deletions in 19 files</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update instructions for creating a tooling redirect<br />
+  <sub>[#190324](https://github.com/flutter/flutter/pull/190324) opened on on July 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190324) 6 additions and 6 deletions in 1 file</sub><br />
 
