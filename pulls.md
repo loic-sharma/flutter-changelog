@@ -78,7 +78,7 @@
   <sub>[#188901](https://github.com/flutter/flutter/pull/188901) opened on on July 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188901) 34 additions and 9 deletions in 3 files</sub><br />
 
 * **[AnasQasem](https://github.com/AnasQasem)** &mdash; [Impeller] Render COLR/CPAL color text as vector paths<br />
-  <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
+  <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
 
 * **[Mark Turner](https://github.com/markst)** &mdash; Guide users when multiple Xcode projects are present<br />
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188934) 134 additions and 1 deletion in 4 files</sub><br />
