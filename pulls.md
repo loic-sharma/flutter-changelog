@@ -89,9 +89,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add batch3 a11y_assessment for vpat<br />
   <sub>[#189042](https://github.com/flutter/flutter/pull/189042) opened on on July 7, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189042) 1102 additions and 1 deletion in 18 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Use devicectl for screenshots on Xcode 27, remove idevicescreenshot artifact<br />
-  <sub>[#189091](https://github.com/flutter/flutter/pull/189091) opened on on July 7, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/189091) 414 additions and 121 deletions in 10 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
 
@@ -227,7 +224,7 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify MaskFilter and ColorFilter primitives across CanvasKit and Skwasm<br />
   <sub>[#190314](https://github.com/flutter/flutter/pull/190314) opened on on July 30, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/190314) 434 additions and 683 deletions in 19 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix `snippet` test and add it to CI<br />
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix `snippets` test and add it to CI<br />
   <sub>[#190327](https://github.com/flutter/flutter/pull/190327) opened on on July 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190327) 19 additions and 17 deletions in 3 files</sub><br />
 
 * **[kyungilcho](https://github.com/kyungilcho)** &mdash; Skip removed observers during app exit requests<br />
@@ -238,4 +235,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; a11y: Map disabled/read-only semantics to AX node restriction<br />
   <sub>[#190353](https://github.com/flutter/flutter/pull/190353) opened on on July 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190353) 138 additions and 0 deletions in 3 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [CP-beta] Add java/gradle check when gradle crashes (#189997)<br />
+  <sub>[#190364](https://github.com/flutter/flutter/pull/190364) opened on on July 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190364) 396 additions and 13 deletions in 3 files</sub><br />
 
