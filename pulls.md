@@ -135,7 +135,7 @@
   <sub>[#189837](https://github.com/flutter/flutter/pull/189837) opened on on July 22, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/189837) 4086 additions and 0 deletions in 2 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [iOS] Add Translate API support to Engine<br />
-  <sub>[#189878](https://github.com/flutter/flutter/pull/189878) opened on on July 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189878) 216 additions and 4 deletions in 9 files</sub><br />
+  <sub>[#189878](https://github.com/flutter/flutter/pull/189878) opened on on July 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189878) 224 additions and 4 deletions in 9 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert Mockito instances in Kotlin to Mockk<br />
   <sub>[#189884](https://github.com/flutter/flutter/pull/189884) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189884) 23 additions and 22 deletions in 2 files</sub><br />
@@ -144,7 +144,7 @@
   <sub>[#189899](https://github.com/flutter/flutter/pull/189899) opened on on July 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189899) 214 additions and 13 deletions in 9 files</sub><br />
 
 * **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Derive plugin package name from app name to avoid collisions (#189585)<br />
-  <sub>[#189915](https://github.com/flutter/flutter/pull/189915) opened on on July 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/189915) 240 additions and 96 deletions in 10 files</sub><br />
+  <sub>[#189915](https://github.com/flutter/flutter/pull/189915) opened on on July 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/189915) 240 additions and 96 deletions in 10 files</sub><br />
 
 * **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Read deployment target from pbxproj during package generation<br />
   <sub>[#189923](https://github.com/flutter/flutter/pull/189923) opened on on July 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189923) 155 additions and 1 deletion in 4 files</sub><br />
@@ -238,4 +238,7 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [CP-beta] Add java/gradle check when gradle crashes (#189997)<br />
   <sub>[#190364](https://github.com/flutter/flutter/pull/190364) opened on on July 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190364) 396 additions and 13 deletions in 3 files</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Primitive shape integration test<br />
+  <sub>[#190368](https://github.com/flutter/flutter/pull/190368) opened on on July 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190368) 239 additions and 0 deletions in 11 files</sub><br />
 

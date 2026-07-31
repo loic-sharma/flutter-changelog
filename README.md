@@ -776,11 +776,15 @@
 
 ### July 25, 2026 to July 31, 2026
 
-18 commits.
+19 commits.
 
 * **[Kirill Kalyujniy](https://github.com/kalyujniy)** &mdash; [camera_android_camerax] Prefer higher resolution for max preset<br />
   <sub>[#11956](https://github.com/flutter/packages/pull/11956) merged on July 30, 2026 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/11956) over 1 month, 889 additions and 2227 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [google_sign_in_android] Keep `default_web_client_id` resource from being stripped by resource shrinker<br />
+  <sub>[#12075](https://github.com/flutter/packages/pull/12075) merged on July 31, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12075) over 1 month, 8 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [camera_android_camerax] Add the ability to unit test skills. <br />
   <sub>[#12285](https://github.com/flutter/packages/pull/12285) merged on July 28, 2026 &mdash; **Medium:** [22 comments](https://github.com/flutter/packages/pull/12285) over 3 days, 383 additions and 0 deletions in 15 files</sub><br />
