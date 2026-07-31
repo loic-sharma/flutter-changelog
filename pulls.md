@@ -114,7 +114,7 @@
   <sub>[#189493](https://github.com/flutter/flutter/pull/189493) opened on on July 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189493) 225 additions and 1 deletion in 2 files</sub><br />
 
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Wait for web rendering before first-frame event<br />
-  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/189500) 254 additions and 17 deletions in 3 files</sub><br />
+  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/189500) 254 additions and 17 deletions in 3 files</sub><br />
 
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
@@ -133,9 +133,6 @@
 
 * **[Muhammad Assad Ullah](https://github.com/assassinaj602)** &mdash; [webview_flutter] Fix Android WebViewWidget right edge background bleed<br />
   <sub>[#189837](https://github.com/flutter/flutter/pull/189837) opened on on July 22, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/189837) 4086 additions and 0 deletions in 2 files</sub><br />
-
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [iOS] Add Translate API support to Engine<br />
-  <sub>[#189878](https://github.com/flutter/flutter/pull/189878) opened on on July 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189878) 224 additions and 4 deletions in 9 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert Mockito instances in Kotlin to Mockk<br />
   <sub>[#189884](https://github.com/flutter/flutter/pull/189884) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189884) 23 additions and 22 deletions in 2 files</sub><br />
@@ -192,7 +189,7 @@
   <sub>[#190120](https://github.com/flutter/flutter/pull/190120) opened on on July 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190120) 11 additions and 30 deletions in 1 file</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [web] Fix password-manager autofill not reaching text fields<br />
-  <sub>[#190126](https://github.com/flutter/flutter/pull/190126) opened on on July 28, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/190126) 835 additions and 137 deletions in 5 files</sub><br />
+  <sub>[#190126](https://github.com/flutter/flutter/pull/190126) opened on on July 28, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/190126) 835 additions and 137 deletions in 5 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: forward --build-name and --build-number to desktop version.json<br />
   <sub>[#190130](https://github.com/flutter/flutter/pull/190130) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190130) 20 additions and 0 deletions in 3 files</sub><br />
@@ -219,10 +216,10 @@
   <sub>[#190254](https://github.com/flutter/flutter/pull/190254) opened on on July 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190254) 879 additions and 0 deletions in 4 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix 1px edge clipping on Platform Views by preserving floating-point precision where possible and rounding otherwise instead of truncating<br />
-  <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
+  <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify MaskFilter and ColorFilter primitives across CanvasKit and Skwasm<br />
-  <sub>[#190314](https://github.com/flutter/flutter/pull/190314) opened on on July 30, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/190314) 434 additions and 683 deletions in 19 files</sub><br />
+  <sub>[#190314](https://github.com/flutter/flutter/pull/190314) opened on on July 30, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/190314) 447 additions and 685 deletions in 19 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix `snippets` test and add it to CI<br />
   <sub>[#190327](https://github.com/flutter/flutter/pull/190327) opened on on July 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190327) 19 additions and 17 deletions in 3 files</sub><br />
@@ -238,7 +235,4 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [CP-beta] Add java/gradle check when gradle crashes (#189997)<br />
   <sub>[#190364](https://github.com/flutter/flutter/pull/190364) opened on on July 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190364) 396 additions and 13 deletions in 3 files</sub><br />
-
-* **[b-luk](https://github.com/b-luk)** &mdash; Primitive shape integration test<br />
-  <sub>[#190368](https://github.com/flutter/flutter/pull/190368) opened on on July 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190368) 239 additions and 0 deletions in 11 files</sub><br />
 
