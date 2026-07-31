@@ -236,3 +236,6 @@
 * **[Nael Sayegh](https://github.com/Nael-Sayegh)** &mdash; Do not merge semantics configs anchoring different traversal parents<br />
   <sub>[#190344](https://github.com/flutter/flutter/pull/190344) opened on on July 31, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190344) 71 additions and 0 deletions in 2 files</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; a11y: Map disabled/read-only semantics to AX node restriction<br />
+  <sub>[#190353](https://github.com/flutter/flutter/pull/190353) opened on on July 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190353) 138 additions and 0 deletions in 3 files</sub><br />
+
