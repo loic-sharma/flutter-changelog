@@ -117,7 +117,7 @@
   <sub>[#189493](https://github.com/flutter/flutter/pull/189493) opened on on July 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189493) 225 additions and 1 deletion in 2 files</sub><br />
 
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Wait for web rendering before first-frame event<br />
-  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189500) 236 additions and 17 deletions in 3 files</sub><br />
+  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/189500) 236 additions and 17 deletions in 3 files</sub><br />
 
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
@@ -163,9 +163,6 @@
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve initial size and placement logic for popups and tooltips on Linux<br />
   <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Add java/gradle check when gradle crashes<br />
-  <sub>[#189997](https://github.com/flutter/flutter/pull/189997) opened on on July 24, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/189997) 401 additions and 38 deletions in 3 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Fix Hero size changes during Navigator resize<br />
   <sub>[#190025](https://github.com/flutter/flutter/pull/190025) opened on on July 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190025) 99 additions and 6 deletions in 2 files</sub><br />
@@ -230,6 +227,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify MaskFilter and ColorFilter primitives across CanvasKit and Skwasm<br />
   <sub>[#190314](https://github.com/flutter/flutter/pull/190314) opened on on July 30, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/190314) 434 additions and 683 deletions in 19 files</sub><br />
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update instructions for creating a tooling redirect<br />
-  <sub>[#190324](https://github.com/flutter/flutter/pull/190324) opened on on July 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190324) 6 additions and 6 deletions in 1 file</sub><br />
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix `snippet` test and add it to CI<br />
+  <sub>[#190327](https://github.com/flutter/flutter/pull/190327) opened on on July 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190327) 19 additions and 17 deletions in 3 files</sub><br />
 
