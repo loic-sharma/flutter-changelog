@@ -230,3 +230,9 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix `snippet` test and add it to CI<br />
   <sub>[#190327](https://github.com/flutter/flutter/pull/190327) opened on on July 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190327) 19 additions and 17 deletions in 3 files</sub><br />
 
+* **[kyungilcho](https://github.com/kyungilcho)** &mdash; Skip removed observers during app exit requests<br />
+  <sub>[#190343](https://github.com/flutter/flutter/pull/190343) opened on on July 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190343) 37 additions and 0 deletions in 2 files</sub><br />
+
+* **[Nael Sayegh](https://github.com/Nael-Sayegh)** &mdash; Do not merge semantics configs anchoring different traversal parents<br />
+  <sub>[#190344](https://github.com/flutter/flutter/pull/190344) opened on on July 31, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190344) 71 additions and 0 deletions in 2 files</sub><br />
+
