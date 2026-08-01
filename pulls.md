@@ -237,7 +237,7 @@
   <sub>[#190377](https://github.com/flutter/flutter/pull/190377) opened on on July 31, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190377) 162 additions and 23 deletions in 7 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Cache resolved render pipelines<br />
-  <sub>[#190379](https://github.com/flutter/flutter/pull/190379) opened on on July 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190379) 231 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#190379](https://github.com/flutter/flutter/pull/190379) opened on on July 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190379) 238 additions and 15 deletions in 3 files</sub><br />
 
 * **[mo dev studio (mohamed youssef)](https://github.com/mo-dev-studio-eg)** &mdash; feat: allow Flutter engine configuration in pubspec.yaml<br />
   <sub>[#190381](https://github.com/flutter/flutter/pull/190381) opened on on August 1, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/190381) 123 additions and 4 deletions in 5 files</sub><br />
