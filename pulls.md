@@ -242,3 +242,6 @@
 * **[mo dev studio (mohamed youssef)](https://github.com/mo-dev-studio-eg)** &mdash; feat: allow Flutter engine configuration in pubspec.yaml<br />
   <sub>[#190381](https://github.com/flutter/flutter/pull/190381) opened on on August 1, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/190381) 123 additions and 4 deletions in 5 files</sub><br />
 
+* **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; doc: fix reference in see also section for PrimaryScrollController.maybeOf<br />
+  <sub>[#190386](https://github.com/flutter/flutter/pull/190386) opened on on August 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190386) 1 addition and 1 deletion in 1 file</sub><br />
+
