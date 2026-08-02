@@ -248,3 +248,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Reusable binding sets<br />
   <sub>[#190400](https://github.com/flutter/flutter/pull/190400) opened on on August 2, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/190400) 1052 additions and 34 deletions in 13 files</sub><br />
 
+* **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Remove stale SliverAppBar showOnScreen TODO<br />
+  <sub>[#190412](https://github.com/flutter/flutter/pull/190412) opened on on August 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190412) 0 additions and 2 deletions in 1 file</sub><br />
+
