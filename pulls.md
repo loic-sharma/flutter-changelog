@@ -233,12 +233,18 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Refactor `flutter_view` example to not use `material`<br />
   <sub>[#190377](https://github.com/flutter/flutter/pull/190377) opened on on July 31, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190377) 162 additions and 23 deletions in 7 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Cache resolved render pipelines<br />
-  <sub>[#190379](https://github.com/flutter/flutter/pull/190379) opened on on July 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190379) 255 additions and 15 deletions in 3 files</sub><br />
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Ignore redundant render pass state assignments<br />
+  <sub>[#190379](https://github.com/flutter/flutter/pull/190379) opened on on July 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190379) 116 additions and 15 deletions in 3 files</sub><br />
 
 * **[mo dev studio (mohamed youssef)](https://github.com/mo-dev-studio-eg)** &mdash; feat: allow Flutter engine configuration in pubspec.yaml<br />
   <sub>[#190381](https://github.com/flutter/flutter/pull/190381) opened on on August 1, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/190381) 123 additions and 4 deletions in 5 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; doc: fix typo in see also section for PrimaryScrollController.maybeOf<br />
   <sub>[#190386](https://github.com/flutter/flutter/pull/190386) opened on on August 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190386) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind shader metadata by pointer instead of copying it per draw<br />
+  <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190399) 277 additions and 65 deletions in 5 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Reusable binding sets<br />
+  <sub>[#190400](https://github.com/flutter/flutter/pull/190400) opened on on August 2, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/190400) 1052 additions and 34 deletions in 13 files</sub><br />
 
