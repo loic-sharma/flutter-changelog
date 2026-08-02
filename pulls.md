@@ -251,6 +251,3 @@
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Remove stale SliverAppBar showOnScreen TODO<br />
   <sub>[#190412](https://github.com/flutter/flutter/pull/190412) opened on on August 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190412) 0 additions and 2 deletions in 1 file</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; tests: add --ios-runtime param<br />
-  <sub>[#190414](https://github.com/flutter/flutter/pull/190414) opened on on August 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190414) 17 additions and 4 deletions in 1 file</sub><br />
-
