@@ -4,11 +4,28 @@
 
 ### August 1, 2026 to August 7, 2026
 
-6 commits.
+10 commits.
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Add windows platform support for primitive_shape_test integration test<br />
+  <sub>[#190464](https://github.com/flutter/flutter/pull/190464) merged on August 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/190464) over 3 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+  <sub><details><summary>4 images...</summary><img width="1028" height="681" alt="image" src="https://github.com/user-attachments/assets/f83dc238-1b6f-45da-accc-328c949e2083" /><img width="1087" height="690" alt="image" src="https://github.com/user-attachments/assets/459f7903-92a2-49a2-b712-b19c582e664c" /><img width="1028" height="681" alt="image" src="https://github.com/user-attachments/assets/b7a451e2-64a3-4576-83d8-1f602d3e929e" /><img width="1082" height="706" alt="image" src="https://github.com/user-attachments/assets/62471ffd-2d80-4215-8a74-da87602d67b6" /></details></sub>
 
 * **[ellie-ya](https://github.com/ellie-ka-nam)** &mdash; [macOS] Resume app lifecycle on becomeActive to avoid frozen UI after occlusion<br />
   <sub>[#188772](https://github.com/flutter/flutter/pull/188772) merged on August 3, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/188772) over 1 month, 42 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; tests: add --ios-runtime param<br />
+  <sub>[#190414](https://github.com/flutter/flutter/pull/190414) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190414) over 23 hours, 21 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Remove the synchronous first-frame wait<br />
+  <sub>[#190432](https://github.com/flutter/flutter/pull/190432) merged on August 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190432) over 11 hours, 2 additions and 28 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate the Impeller/Skia backend selection params<br />
+  <sub>[#190416](https://github.com/flutter/flutter/pull/190416) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190416) over 23 hours, 6 additions and 57 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Use @autoclosure in Logger<br />
   <sub>[#190417](https://github.com/flutter/flutter/pull/190417) merged on August 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190417) over 22 hours, 90 additions and 9 deletions in 2 files</sub><br />
@@ -837,11 +854,23 @@
 
 ### August 1, 2026 to August 7, 2026
 
-1 commits.
+4 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; doc(web): update Wasm status page links and FAQ conditional imports<br />
   <sub>[#13622](https://github.com/flutter/website/pull/13622) merged on August 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13622) over 1 week, 14 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deploy image to Dart 3.13.0-282.3.beta<br />
+  <sub>[#13655](https://github.com/flutter/website/pull/13655) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13655) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub><br />
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; feat: Add Knowunity case study and update showcase data<br />
+  <sub>[#13663](https://github.com/flutter/website/pull/13663) merged on August 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13663) over 59 minutes, 118 additions and 12 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Add redirect for android-local-area-permission<br />
+  <sub>[#13664](https://github.com/flutter/website/pull/13664) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13664) over 10 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 ### July 25, 2026 to July 31, 2026
 

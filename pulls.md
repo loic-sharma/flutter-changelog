@@ -177,7 +177,7 @@
   <sub>[#190095](https://github.com/flutter/flutter/pull/190095) opened on on July 27, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/190095) 246 additions and 56 deletions in 2 files</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; android_hardware_smoke_test: Detect blank image failures or EGL initialization warnings and retry<br />
-  <sub>[#190110](https://github.com/flutter/flutter/pull/190110) opened on on July 27, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/190110) 535 additions and 81 deletions in 9 files</sub><br />
+  <sub>[#190110](https://github.com/flutter/flutter/pull/190110) opened on on July 27, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/190110) 535 additions and 81 deletions in 9 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add clang, cmake, and ninja deps to Linux windowing_test<br />
   <sub>[#190119](https://github.com/flutter/flutter/pull/190119) opened on on July 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190119) 6 additions and 0 deletions in 1 file</sub><br />
@@ -225,7 +225,7 @@
   <sub>[#190364](https://github.com/flutter/flutter/pull/190364) opened on on July 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190364) 396 additions and 13 deletions in 3 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Prepare device support symbols<br />
-  <sub>[#190369](https://github.com/flutter/flutter/pull/190369) opened on on July 31, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190369) 625 additions and 4 deletions in 9 files</sub><br />
+  <sub>[#190369](https://github.com/flutter/flutter/pull/190369) opened on on July 31, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/190369) 629 additions and 4 deletions in 9 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Ignore redundant render pass state assignments<br />
   <sub>[#190379](https://github.com/flutter/flutter/pull/190379) opened on on July 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190379) 116 additions and 15 deletions in 3 files</sub><br />
@@ -272,6 +272,15 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate the shell unit tests from legacy Dart native functions to FFI<br />
   <sub>[#190473](https://github.com/flutter/flutter/pull/190473) opened on on August 3, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/190473) 334 additions and 372 deletions in 8 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable cache for a single test target<br />
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable Gradle cache for a single test target<br />
   <sub>[#190474](https://github.com/flutter/flutter/pull/190474) opened on on August 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190474) 2 additions and 1 deletion in 1 file</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool][web] Intercept dart2wasm errors & append JS migration footers<br />
+  <sub>[#190476](https://github.com/flutter/flutter/pull/190476) opened on on August 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190476) 109 additions and 5 deletions in 4 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bumps text gamma on windows to match skia.<br />
+  <sub>[#190477](https://github.com/flutter/flutter/pull/190477) opened on on August 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190477) 18 additions and 11 deletions in 1 file</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Move `examples/api` to `packages/flutter/examples/api` and fix CI errors<br />
+  <sub>[#190481](https://github.com/flutter/flutter/pull/190481) opened on on August 3, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190481) 711 additions and 664 deletions in 1237 files</sub><br />
 
