@@ -194,17 +194,11 @@
 * **[Stucdio Yazılım](https://github.com/stucdio)** &mdash; Schedule a follow-up frame when a build is requested during persistentCallbacks<br />
   <sub>[#190172](https://github.com/flutter/flutter/pull/190172) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190172) 205 additions and 1 deletion in 2 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Sample hand-uploaded mip chains on Adreno Vulkan<br />
-  <sub>[#190186](https://github.com/flutter/flutter/pull/190186) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190186) 43 additions and 1 deletion in 4 files</sub><br />
-
 * **[ふぁ](https://github.com/fa0311)** &mdash; Add a fast path to `InheritedModel.inheritFrom`<br />
   <sub>[#190189](https://github.com/flutter/flutter/pull/190189) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190189) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[ふぁ](https://github.com/fa0311)** &mdash; Cache `BoxShadow` paints in `_BoxDecorationPainter`<br />
   <sub>[#190194](https://github.com/flutter/flutter/pull/190194) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190194) 10 additions and 3 deletions in 1 file</sub><br />
-
-* **[Rusino](https://github.com/Rusino)** &mdash; Glitch<br />
-  <sub>[#190227](https://github.com/flutter/flutter/pull/190227) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190227) 107 additions and 30 deletions in 1 file</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Report individual test results to LUCI ResultDB<br />
   <sub>[#190254](https://github.com/flutter/flutter/pull/190254) opened on on July 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190254) 879 additions and 0 deletions in 4 files</sub><br />
@@ -230,9 +224,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Prepare device support symbols<br />
   <sub>[#190369](https://github.com/flutter/flutter/pull/190369) opened on on July 31, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/190369) 625 additions and 4 deletions in 9 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Refactor `flutter_view` example to not use `material`<br />
-  <sub>[#190377](https://github.com/flutter/flutter/pull/190377) opened on on July 31, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190377) 147 additions and 23 deletions in 7 files</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Ignore redundant render pass state assignments<br />
   <sub>[#190379](https://github.com/flutter/flutter/pull/190379) opened on on July 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190379) 116 additions and 15 deletions in 3 files</sub><br />
 
@@ -243,10 +234,10 @@
   <sub>[#190386](https://github.com/flutter/flutter/pull/190386) opened on on August 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190386) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind shader metadata by pointer instead of copying it per draw<br />
-  <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190399) 277 additions and 65 deletions in 5 files</sub><br />
+  <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/190399) 277 additions and 65 deletions in 5 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Reusable binding sets<br />
-  <sub>[#190400](https://github.com/flutter/flutter/pull/190400) opened on on August 2, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/190400) 1052 additions and 34 deletions in 13 files</sub><br />
+  <sub>[#190400](https://github.com/flutter/flutter/pull/190400) opened on on August 2, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/190400) 1052 additions and 34 deletions in 13 files</sub><br />
 
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Add SliverAppBar showOnScreen semantics test coverage<br />
   <sub>[#190410](https://github.com/flutter/flutter/pull/190410) opened on on August 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190410) 67 additions and 2 deletions in 2 files</sub><br />
@@ -263,9 +254,9 @@
 * **[Can Arslan](https://github.com/CanArslanDev)** &mdash; Do not re-attach stale semantics children<br />
   <sub>[#190431](https://github.com/flutter/flutter/pull/190431) opened on on August 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190431) 71 additions and 1 deletion in 2 files</sub><br />
 
-* **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Impeller] Move image upload scheduling waits to GPU disable<br />
-  <sub>[#190445](https://github.com/flutter/flutter/pull/190445) opened on on August 3, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190445) 998 additions and 74 deletions in 31 files</sub><br />
-
 * **[herdiyanitdev](https://github.com/herdiyana256)** &mdash; flutter_tools: validate plugin identifiers before generating registrant code<br />
-  <sub>[#190462](https://github.com/flutter/flutter/pull/190462) opened on on August 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190462) 216 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#190462](https://github.com/flutter/flutter/pull/190462) opened on on August 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/190462) 270 additions and 10 deletions in 2 files</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update packages gardener instructions<br />
+  <sub>[#190463](https://github.com/flutter/flutter/pull/190463) opened on on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190463) 51 additions and 16 deletions in 2 files</sub><br />
 
