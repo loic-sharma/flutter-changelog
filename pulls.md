@@ -251,3 +251,9 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; tools: Support FLUTTER_HOST_ARCH in update_dart_sdk scripts<br />
   <sub>[#190421](https://github.com/flutter/flutter/pull/190421) opened on on August 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190421) 12 additions and 3 deletions in 2 files</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Updated Remaining Engine Defaults to SDK 37<br />
+  <sub>[#190429](https://github.com/flutter/flutter/pull/190429) opened on on August 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190429) 10 additions and 10 deletions in 8 files</sub><br />
+
+* **[Can Arslan](https://github.com/CanArslanDev)** &mdash; Do not re-attach stale semantics children<br />
+  <sub>[#190431](https://github.com/flutter/flutter/pull/190431) opened on on August 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190431) 71 additions and 1 deletion in 2 files</sub><br />
+

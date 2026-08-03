@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 1, 2026 to August 7, 2026
+
+1 commits.
+
+* **[ellie-ya](https://github.com/ellie-ka-nam)** &mdash; [macOS] Resume app lifecycle on becomeActive to avoid frozen UI after occlusion
+  <sub>[#188772](https://github.com/flutter/flutter/pull/188772) merged on August 3, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/188772) over 1 month, 42 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 ### July 25, 2026 to July 31, 2026
 
-70 commits.
+<details>
+<summary>70 commits...</summary>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Use devicectl for screenshots on Xcode 27, remove idevicescreenshot artifact
   <sub>[#189091](https://github.com/flutter/flutter/pull/189091) merged on July 31, 2026 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/189091) over 3 weeks, 414 additions and 121 deletions in 10 files</sub>
@@ -289,6 +298,8 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "Improve non rect platform view rendering  (#182662)"
   <sub>[#190003](https://github.com/flutter/flutter/pull/190003) merged on August 1, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/190003) over 1 week, 14 additions and 144 deletions in 15 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
+
+</details>
 
 ### July 18, 2026 to July 24, 2026
 
