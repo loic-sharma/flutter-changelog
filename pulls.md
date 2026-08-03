@@ -200,6 +200,9 @@
 * **[ふぁ](https://github.com/fa0311)** &mdash; Cache `BoxShadow` paints in `_BoxDecorationPainter`<br />
   <sub>[#190194](https://github.com/flutter/flutter/pull/190194) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190194) 10 additions and 3 deletions in 1 file</sub><br />
 
+* **[Rusino](https://github.com/Rusino)** &mdash; Glitch<br />
+  <sub>[#190227](https://github.com/flutter/flutter/pull/190227) opened on on July 29, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190227) 107 additions and 30 deletions in 1 file</sub><br />
+
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Report individual test results to LUCI ResultDB<br />
   <sub>[#190254](https://github.com/flutter/flutter/pull/190254) opened on on July 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190254) 879 additions and 0 deletions in 4 files</sub><br />
 
@@ -259,4 +262,16 @@
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update packages gardener instructions<br />
   <sub>[#190463](https://github.com/flutter/flutter/pull/190463) opened on on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190463) 51 additions and 16 deletions in 2 files</sub><br />
+
+* **[Devarsh Ranpara](https://github.com/DevarshRanpara)** &mdash; Add lazyLoadChildren to Expansible to defer body build until first expansion (Fixes #184111)<br />
+  <sub>[#190468](https://github.com/flutter/flutter/pull/190468) opened on on August 3, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/190468) 131 additions and 1 deletion in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove --disable-dev-shm-usage from Chrome launch args<br />
+  <sub>[#190470](https://github.com/flutter/flutter/pull/190470) opened on on August 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190470) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [iOS] Fix touch passthrough when a native UIViewController is presented<br />
+  <sub>[#190472](https://github.com/flutter/flutter/pull/190472) opened on on August 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190472) 282 additions and 0 deletions in 3 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate the shell unit tests from legacy Dart native functions to FFI<br />
+  <sub>[#190473](https://github.com/flutter/flutter/pull/190473) opened on on August 3, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190473) 326 additions and 364 deletions in 8 files</sub><br />
 
