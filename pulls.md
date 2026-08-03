@@ -123,7 +123,7 @@
   <sub>[#189622](https://github.com/flutter/flutter/pull/189622) opened on on July 16, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/189622) 420 additions and 0 deletions in 10 files</sub><br />
 
 * **[Melrose](https://github.com/heyi1994)** &mdash; [Impeller] Work around GL driver job-pool exhaustion on MediaTek MT6779<br />
-  <sub>[#189643](https://github.com/flutter/flutter/pull/189643) opened on on July 17, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/189643) 123 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#189643](https://github.com/flutter/flutter/pull/189643) opened on on July 17, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/189643) 123 additions and 0 deletions in 5 files</sub><br />
 
 * **[udit](https://github.com/UditDewan)** &mdash; Skip platform tooling regeneration for non-Flutter pub workspace packages<br />
   <sub>[#189705](https://github.com/flutter/flutter/pull/189705) opened on on July 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189705) 78 additions and 6 deletions in 2 files</sub><br />
@@ -256,4 +256,7 @@
 
 * **[Can Arslan](https://github.com/CanArslanDev)** &mdash; Do not re-attach stale semantics children<br />
   <sub>[#190431](https://github.com/flutter/flutter/pull/190431) opened on on August 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190431) 71 additions and 1 deletion in 2 files</sub><br />
+
+* **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Impeller] Move image upload scheduling waits to GPU disable<br />
+  <sub>[#190445](https://github.com/flutter/flutter/pull/190445) opened on on August 3, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190445) 998 additions and 74 deletions in 31 files</sub><br />
 
