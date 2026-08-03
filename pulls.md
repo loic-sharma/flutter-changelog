@@ -224,9 +224,6 @@
 * **[Nael Sayegh](https://github.com/Nael-Sayegh)** &mdash; Do not merge semantics configs anchoring different traversal parents<br />
   <sub>[#190344](https://github.com/flutter/flutter/pull/190344) opened on on July 31, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190344) 71 additions and 0 deletions in 2 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; a11y: Map disabled/read-only semantics to AX node restriction<br />
-  <sub>[#190353](https://github.com/flutter/flutter/pull/190353) opened on on July 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190353) 138 additions and 0 deletions in 3 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [CP-beta] Add java/gradle check when gradle crashes (#189997)<br />
   <sub>[#190364](https://github.com/flutter/flutter/pull/190364) opened on on July 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190364) 396 additions and 13 deletions in 3 files</sub><br />
 
@@ -250,4 +247,7 @@
 
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Remove stale SliverAppBar showOnScreen TODO<br />
   <sub>[#190412](https://github.com/flutter/flutter/pull/190412) opened on on August 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190412) 0 additions and 2 deletions in 1 file</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; tools: Support FLUTTER_HOST_ARCH in update_dart_sdk scripts<br />
+  <sub>[#190421](https://github.com/flutter/flutter/pull/190421) opened on on August 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190421) 12 additions and 3 deletions in 2 files</sub><br />
 
