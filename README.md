@@ -600,9 +600,18 @@
 
 ## flutter/packages
 
+### August 1, 2026 to August 7, 2026
+
+1 commits.
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-material_ui-0.0.2 to main<br />
+  <sub>[#12268](https://github.com/flutter/packages/pull/12268) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12268) over 1 week, 10 additions and 9 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 ### July 25, 2026 to July 31, 2026
 
-20 commits.
+<details>
+<summary>20 commits...</summary>
 
 * **[Kirill Kalyujniy](https://github.com/kalyujniy)** &mdash; [camera_android_camerax] Prefer higher resolution for max preset<br />
   <sub>[#11956](https://github.com/flutter/packages/pull/11956) merged on July 30, 2026 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/11956) over 1 month, 889 additions and 2227 deletions in 11 files</sub><br />
@@ -683,6 +692,8 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; ci: Fix Zizmor github-env failure in install_flutter action<br />
   <sub>[#12298](https://github.com/flutter/packages/pull/12298) merged on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12298) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+</details>
 
 ### July 18, 2026 to July 24, 2026
 
@@ -804,9 +815,18 @@
 
 ## flutter/website
 
+### August 1, 2026 to August 7, 2026
+
+1 commits.
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; doc(web): update Wasm status page links and FAQ conditional imports<br />
+  <sub>[#13622](https://github.com/flutter/website/pull/13622) merged on August 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13622) over 1 week, 14 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
 ### July 25, 2026 to July 31, 2026
 
-17 commits.
+<details>
+<summary>17 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up usage and definition of site variables<br />
   <sub>[#13652](https://github.com/flutter/website/pull/13652) merged on July 31, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/13652) over 17 hours, 430 additions and 432 deletions in 126 files</sub><br />
@@ -875,6 +895,8 @@
 * **[kjxbyz](https://github.com/kjxbyz)** &mdash; The cursor needs to change when the mouse hovers over each blog category<br />
   <sub>[#13630](https://github.com/flutter/website/pull/13630) merged on July 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13630) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kilian Schulte](https://github.com/schultek), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### July 18, 2026 to July 24, 2026
 
