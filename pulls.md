@@ -119,9 +119,6 @@
 * **[Melrose](https://github.com/heyi1994)** &mdash; [Impeller] Work around GL driver job-pool exhaustion on MediaTek MT6779<br />
   <sub>[#189643](https://github.com/flutter/flutter/pull/189643) opened on on July 17, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/189643) 123 additions and 0 deletions in 5 files</sub><br />
 
-* **[udit](https://github.com/UditDewan)** &mdash; Skip platform tooling regeneration for non-Flutter pub workspace packages<br />
-  <sub>[#189705](https://github.com/flutter/flutter/pull/189705) opened on on July 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189705) 78 additions and 6 deletions in 2 files</sub><br />
-
 * **[apinilabs-pascal](https://github.com/apinilabs-pascal)** &mdash; [web] Stop percent-decoding URLs written to browser history<br />
   <sub>[#189835](https://github.com/flutter/flutter/pull/189835) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189835) 39 additions and 8 deletions in 2 files</sub><br />
 
@@ -283,4 +280,13 @@
 
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Fix DeleteSurrounding splitting UTF-16 surrogate pairs<br />
   <sub>[#190514](https://github.com/flutter/flutter/pull/190514) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190514) 73 additions and 3 deletions in 2 files</sub><br />
+
+* **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Optimize JSONMessageCodec UTF-8 conversion<br />
+  <sub>[#190529](https://github.com/flutter/flutter/pull/190529) opened on on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190529) 21 additions and 2 deletions in 2 files</sub><br />
+
+* **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [ci] Add experimental branch agp-gradle-api-flutter to enabled_branches<br />
+  <sub>[#190533](https://github.com/flutter/flutter/pull/190533) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190533) 2 additions and 0 deletions in 2 files</sub><br />
+
+* **[jpeiffer](https://github.com/jpeiffer)** &mdash; Update Divider color documentation for Material 3<br />
+  <sub>[#190535](https://github.com/flutter/flutter/pull/190535) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190535) 3 additions and 1 deletion in 1 file</sub><br />
 
