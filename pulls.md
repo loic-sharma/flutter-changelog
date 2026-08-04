@@ -239,9 +239,6 @@
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Add SliverAppBar showOnScreen semantics test coverage<br />
   <sub>[#190410](https://github.com/flutter/flutter/pull/190410) opened on on August 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190410) 67 additions and 2 deletions in 2 files</sub><br />
 
-* **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Remove stale SliverAppBar showOnScreen TODO<br />
-  <sub>[#190412](https://github.com/flutter/flutter/pull/190412) opened on on August 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190412) 0 additions and 2 deletions in 1 file</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Updated Remaining Engine Defaults to SDK 37<br />
   <sub>[#190429](https://github.com/flutter/flutter/pull/190429) opened on on August 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190429) 10 additions and 10 deletions in 8 files</sub><br />
 
@@ -283,4 +280,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: add tsan and ubsan support for Swift<br />
   <sub>[#190497](https://github.com/flutter/flutter/pull/190497) opened on on August 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190497) 15 additions and 4 deletions in 1 file</sub><br />
+
+* **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Fix DeleteSurrounding splitting UTF-16 surrogate pairs<br />
+  <sub>[#190514](https://github.com/flutter/flutter/pull/190514) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190514) 73 additions and 3 deletions in 2 files</sub><br />
 
