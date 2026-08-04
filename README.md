@@ -4,7 +4,11 @@
 
 ### August 1, 2026 to August 7, 2026
 
-10 commits.
+13 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
+  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) merged on August 3, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/flutter/pull/188573) over 1 month, 1655 additions and 1659 deletions in 31 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zhongliugo](https://github.com/flutter-zl)</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Add windows platform support for primitive_shape_test integration test<br />
   <sub>[#190464](https://github.com/flutter/flutter/pull/190464) merged on August 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/190464) over 3 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -14,6 +18,14 @@
 * **[ellie-ya](https://github.com/ellie-ka-nam)** &mdash; [macOS] Resume app lifecycle on becomeActive to avoid frozen UI after occlusion<br />
   <sub>[#188772](https://github.com/flutter/flutter/pull/188772) merged on August 3, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/188772) over 1 month, 42 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[walley892](https://github.com/walley892)** &mdash; Add path rendering benchmarks<br />
+  <sub>[#188654](https://github.com/flutter/flutter/pull/188654) merged on August 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/188654) over 1 month, 101 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate use of IOSContextNoop in platform view tests<br />
+  <sub>[#190419](https://github.com/flutter/flutter/pull/190419) merged on August 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190419) over 21 hours, 42 additions and 29 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; tests: add --ios-runtime param<br />
   <sub>[#190414](https://github.com/flutter/flutter/pull/190414) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190414) over 23 hours, 21 additions and 8 deletions in 1 file</sub><br />

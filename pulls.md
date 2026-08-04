@@ -59,9 +59,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
   <sub>[#188451](https://github.com/flutter/flutter/pull/188451) opened on on June 23, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/188451) 565 additions and 73 deletions in 7 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
-  <sub>[#188573](https://github.com/flutter/flutter/pull/188573) opened on on June 25, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/flutter/pull/188573) 1655 additions and 1659 deletions in 31 files</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Refactor SwiftPM symlink path logic<br />
   <sub>[#188647](https://github.com/flutter/flutter/pull/188647) opened on on June 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188647) 222 additions and 78 deletions in 4 files</sub><br />
 
@@ -100,9 +97,6 @@
 
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22936 additions and 0 deletions in 173 files</sub><br />
-
-* **[guszxtavo](https://github.com/guszxtavo)** &mdash; [Impeller] Enable ETC2/ASTC LDR/BC texture compression features at Vulkan device creation<br />
-  <sub>[#189303](https://github.com/flutter/flutter/pull/189303) opened on on July 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189303) 36 additions and 0 deletions in 3 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
   <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189442) 138 additions and 55 deletions in 7 files</sub><br />
@@ -210,7 +204,7 @@
   <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify MaskFilter and ColorFilter primitives across CanvasKit and Skwasm<br />
-  <sub>[#190314](https://github.com/flutter/flutter/pull/190314) opened on on July 30, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/190314) 447 additions and 685 deletions in 19 files</sub><br />
+  <sub>[#190314](https://github.com/flutter/flutter/pull/190314) opened on on July 30, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/190314) 471 additions and 734 deletions in 19 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix `snippets` test and add it to CI<br />
   <sub>[#190327](https://github.com/flutter/flutter/pull/190327) opened on on July 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190327) 19 additions and 17 deletions in 3 files</sub><br />
@@ -222,7 +216,7 @@
   <sub>[#190344](https://github.com/flutter/flutter/pull/190344) opened on on July 31, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190344) 71 additions and 0 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [CP-beta] Add java/gradle check when gradle crashes (#189997)<br />
-  <sub>[#190364](https://github.com/flutter/flutter/pull/190364) opened on on July 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190364) 396 additions and 13 deletions in 3 files</sub><br />
+  <sub>[#190364](https://github.com/flutter/flutter/pull/190364) opened on on July 31, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/190364) 396 additions and 13 deletions in 3 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Prepare device support symbols<br />
   <sub>[#190369](https://github.com/flutter/flutter/pull/190369) opened on on July 31, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/190369) 629 additions and 4 deletions in 9 files</sub><br />
@@ -275,12 +269,15 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable Gradle cache for a single test target<br />
   <sub>[#190474](https://github.com/flutter/flutter/pull/190474) opened on on August 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190474) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool][web] Intercept dart2wasm errors & append JS migration footers<br />
-  <sub>[#190476](https://github.com/flutter/flutter/pull/190476) opened on on August 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190476) 109 additions and 5 deletions in 4 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bumps text gamma on windows to match skia.<br />
-  <sub>[#190477](https://github.com/flutter/flutter/pull/190477) opened on on August 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190477) 18 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#190477](https://github.com/flutter/flutter/pull/190477) opened on on August 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190477) 18 additions and 11 deletions in 1 file</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Move `examples/api` to `packages/flutter/examples/api` and fix CI errors<br />
   <sub>[#190481](https://github.com/flutter/flutter/pull/190481) opened on on August 3, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190481) 711 additions and 664 deletions in 1237 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Anchor flt-semantics-host at 0,0 to fix WebKit semantics offset<br />
+  <sub>[#190486](https://github.com/flutter/flutter/pull/190486) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190486) 16 additions and 0 deletions in 2 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Ensure a device-width viewport meta in the built index.html<br />
+  <sub>[#190487](https://github.com/flutter/flutter/pull/190487) opened on on August 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190487) 169 additions and 2 deletions in 5 files</sub><br />
 
