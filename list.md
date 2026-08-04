@@ -4,7 +4,7 @@
 
 ### August 1, 2026 to August 7, 2026
 
-24 commits.
+28 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) merged on August 3, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/flutter/pull/188573) over 1 month, 1655 additions and 1659 deletions in 31 files</sub>
@@ -31,6 +31,14 @@
   <sub>[#190225](https://github.com/flutter/flutter/pull/190225) merged on August 4, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/190225) over 5 days, 689 additions and 233 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: update on_message_ to nullptr after window destroy so that dart gets destroy message 
+  <sub>[#185807](https://github.com/flutter/flutter/pull/185807) merged on August 4, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/185807) over 3 months, 112 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matej Knopp](https://github.com/knopp), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Gracefully handle locked Windows files during clean
+  <sub>[#190095](https://github.com/flutter/flutter/pull/190095) merged on August 4, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/190095) over 1 week, 304 additions and 59 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
+
 * **[Ahmet Can Urhan](https://github.com/Ahmet-Can-Urhan)** &mdash; Handle unexpected exceptions during Azure metadata detection
   <sub>[#189457](https://github.com/flutter/flutter/pull/189457) merged on August 4, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/189457) over 2 weeks, 21 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -46,6 +54,10 @@
 * **[guszxtavo](https://github.com/guszxtavo)** &mdash; [Impeller] Enable ETC2/ASTC LDR/BC texture compression features at Vulkan device creation
   <sub>[#189303](https://github.com/flutter/flutter/pull/189303) merged on August 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189303) over 3 weeks, 36 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [b-luk](https://github.com/b-luk)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: make Logger thread-safe, conform to Sendable
+  <sub>[#190488](https://github.com/flutter/flutter/pull/190488) merged on August 4, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190488) over 21 hours, 81 additions and 16 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Remove openglessdf from impeller_unittests.
   <sub>[#190469](https://github.com/flutter/flutter/pull/190469) merged on August 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190469) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -84,7 +96,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; fix(tool): remove redundant --enable-experiment=record-use flag
-  <sub>[#190475](https://github.com/flutter/flutter/pull/190475) merged on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190475) over 23 hours, 2 additions and 10 deletions in 3 files</sub>
+  <sub>[#190475](https://github.com/flutter/flutter/pull/190475) merged on August 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190475) over 23 hours, 2 additions and 10 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool][web] Intercept dart2wasm errors & append JS migration footers
@@ -102,6 +114,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [Infra] Replace defunct umbrella template with Wasm issue form
   <sub>[#190471](https://github.com/flutter/flutter/pull/190471) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190471) over 9 minutes, 60 additions and 25 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate use of IOSContextNoop in platform view tests (reland)
+  <sub>[#190509](https://github.com/flutter/flutter/pull/190509) merged on August 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190509) over 15 hours, 37 additions and 29 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 ### July 25, 2026 to July 31, 2026
 
@@ -926,7 +942,11 @@
 
 ### August 1, 2026 to August 7, 2026
 
-7 commits.
+9 commits.
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; docs(web): add Wasm compile error and migration guide
+  <sub>[#13662](https://github.com/flutter/website/pull/13662) merged on August 4, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/13662) over 1 day, 75 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; doc(web): update Wasm status page links and FAQ conditional imports
   <sub>[#13622](https://github.com/flutter/website/pull/13622) merged on August 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13622) over 1 week, 14 additions and 6 deletions in 2 files</sub>
@@ -943,6 +963,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deploy image to Dart 3.13.0-282.3.beta
   <sub>[#13655](https://github.com/flutter/website/pull/13655) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13655) over 3 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
+
+* **[Jess K](https://github.com/jesskuras)** &mdash; [docs] Remove outdated minSdk instructions from Android platform views (#13672)
+  <sub>[#13673](https://github.com/flutter/website/pull/13673) merged on August 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13673) over 3 hours, 0 additions and 12 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Viktor Lidholt](https://github.com/vlidholt)** &mdash; feat: Add link to the Full Stack Flutter conference to the events page.
   <sub>[#13671](https://github.com/flutter/website/pull/13671) merged on August 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13671) over 29 minutes, 16 additions and 0 deletions in 4 files</sub>
