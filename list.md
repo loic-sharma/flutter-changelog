@@ -4,11 +4,15 @@
 
 ### August 1, 2026 to August 7, 2026
 
-20 commits.
+24 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) merged on August 3, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/flutter/pull/188573) over 1 month, 1655 additions and 1659 deletions in 31 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zhongliugo](https://github.com/flutter-zl)</sub>
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; android_hardware_smoke_test: Detect blank image failures or EGL initialization warnings and retry
+  <sub>[#190110](https://github.com/flutter/flutter/pull/190110) merged on August 4, 2026 &mdash; **Large:** [41 comments](https://github.com/flutter/flutter/pull/190110) over 1 week, 497 additions and 101 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Add windows platform support for primitive_shape_test integration test
   <sub>[#190464](https://github.com/flutter/flutter/pull/190464) merged on August 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/190464) over 3 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -18,6 +22,10 @@
 * **[ellie-ya](https://github.com/ellie-ka-nam)** &mdash; [macOS] Resume app lifecycle on becomeActive to avoid frozen UI after occlusion
   <sub>[#188772](https://github.com/flutter/flutter/pull/188772) merged on August 3, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/188772) over 1 month, 42 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bumps text gamma on windows to match skia.
+  <sub>[#190477](https://github.com/flutter/flutter/pull/190477) merged on August 4, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/190477) over 21 hours, 18 additions and 11 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Migrate IconTreeShaker to `package:record_use`
   <sub>[#190225](https://github.com/flutter/flutter/pull/190225) merged on August 4, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/190225) over 5 days, 689 additions and 233 deletions in 12 files</sub>
@@ -74,6 +82,14 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; a11y: Map disabled/read-only semantics to AX node restriction
   <sub>[#190353](https://github.com/flutter/flutter/pull/190353) merged on August 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190353) over 3 days, 138 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; fix(tool): remove redundant --enable-experiment=record-use flag
+  <sub>[#190475](https://github.com/flutter/flutter/pull/190475) merged on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190475) over 23 hours, 2 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool][web] Intercept dart2wasm errors & append JS migration footers
+  <sub>[#190476](https://github.com/flutter/flutter/pull/190476) merged on August 4, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190476) over 22 hours, 254 additions and 5 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix merge conflict from https://github.com/flutter/flutter/pull/190369
   <sub>[#190544](https://github.com/flutter/flutter/pull/190544) merged on August 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190544) over 1 hour, 18 additions and 2 deletions in 1 file</sub>
@@ -679,7 +695,7 @@
 
 ### August 1, 2026 to August 7, 2026
 
-4 commits.
+5 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix video recording after backgrounding app
   <sub>[#12145](https://github.com/flutter/packages/pull/12145) merged on August 4, 2026 &mdash; **Small:** [48 comments](https://github.com/flutter/packages/pull/12145) over 3 weeks, 62 additions and 1 deletion in 5 files</sub>
@@ -688,6 +704,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui and cupertino_ui] Remove workspaces and fix CI
   <sub>[#12351](https://github.com/flutter/packages/pull/12351) merged on August 4, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/12351) over 1 day, 31 additions and 49 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-cupertino_ui-0.0.3 to main
+  <sub>[#12367](https://github.com/flutter/packages/pull/12367) merged on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12367) over 14 minutes, 8 additions and 15 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-material_ui-0.0.3 to main
   <sub>[#12352](https://github.com/flutter/packages/pull/12352) merged on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12352) over 22 hours, 7 additions and 12 deletions in 5 files</sub>
