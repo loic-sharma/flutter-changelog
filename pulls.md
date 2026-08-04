@@ -189,7 +189,7 @@
   <sub>[#190172](https://github.com/flutter/flutter/pull/190172) opened on on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190172) 205 additions and 1 deletion in 2 files</sub><br />
 
 * **[ふぁ](https://github.com/fa0311)** &mdash; Add a fast path to `InheritedModel.inheritFrom`<br />
-  <sub>[#190189](https://github.com/flutter/flutter/pull/190189) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190189) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#190189](https://github.com/flutter/flutter/pull/190189) opened on on July 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190189) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[ふぁ](https://github.com/fa0311)** &mdash; Cache `BoxShadow` paints in `_BoxDecorationPainter`<br />
   <sub>[#190194](https://github.com/flutter/flutter/pull/190194) opened on on July 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190194) 10 additions and 3 deletions in 1 file</sub><br />
