@@ -4,7 +4,7 @@
 
 ### August 1, 2026 to August 7, 2026
 
-16 commits.
+17 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify image decoding and codecs on CanvasKit and Skwasm<br />
   <sub>[#188573](https://github.com/flutter/flutter/pull/188573) merged on August 3, 2026 &mdash; **Extra large:** [32 comments](https://github.com/flutter/flutter/pull/188573) over 1 month, 1655 additions and 1659 deletions in 31 files</sub><br />
@@ -18,6 +18,10 @@
 * **[ellie-ya](https://github.com/ellie-ka-nam)** &mdash; [macOS] Resume app lifecycle on becomeActive to avoid frozen UI after occlusion<br />
   <sub>[#188772](https://github.com/flutter/flutter/pull/188772) merged on August 3, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/188772) over 1 month, 42 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Prepare device support symbols<br />
+  <sub>[#190369](https://github.com/flutter/flutter/pull/190369) merged on August 4, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/190369) over 3 days, 629 additions and 4 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
 * **[walley892](https://github.com/walley892)** &mdash; Add path rendering benchmarks<br />
   <sub>[#188654](https://github.com/flutter/flutter/pull/188654) merged on August 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/188654) over 1 month, 101 additions and 1 deletion in 1 file</sub><br />
@@ -663,7 +667,11 @@
 
 ### August 1, 2026 to August 7, 2026
 
-1 commits.
+2 commits.
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-material_ui-0.0.3 to main<br />
+  <sub>[#12352](https://github.com/flutter/packages/pull/12352) merged on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12352) over 22 hours, 7 additions and 12 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-material_ui-0.0.2 to main<br />
   <sub>[#12268](https://github.com/flutter/packages/pull/12268) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12268) over 1 week, 10 additions and 9 deletions in 3 files</sub><br />
@@ -878,14 +886,22 @@
 
 ### August 1, 2026 to August 7, 2026
 
-4 commits.
+6 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; doc(web): update Wasm status page links and FAQ conditional imports<br />
   <sub>[#13622](https://github.com/flutter/website/pull/13622) merged on August 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13622) over 1 week, 14 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Surface past events on events page<br />
+  <sub>[#13665](https://github.com/flutter/website/pull/13665) merged on August 4, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/13665) over 17 hours, 257 additions and 93 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub><br />
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deploy image to Dart 3.13.0-282.3.beta<br />
   <sub>[#13655](https://github.com/flutter/website/pull/13655) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13655) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub><br />
+
+* **[Viktor Lidholt](https://github.com/vlidholt)** &mdash; feat: Add link to the Full Stack Flutter conference to the events page.<br />
+  <sub>[#13671](https://github.com/flutter/website/pull/13671) merged on August 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13671) over 29 minutes, 16 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub><br />
 
 * **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; feat: Add Knowunity case study and update showcase data<br />

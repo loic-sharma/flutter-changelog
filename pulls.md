@@ -165,10 +165,16 @@
   <sub>[#190091](https://github.com/flutter/flutter/pull/190091) opened on on July 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190091) 59 additions and 6 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Gracefully handle locked Windows files during clean<br />
-  <sub>[#190095](https://github.com/flutter/flutter/pull/190095) opened on on July 27, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/190095) 246 additions and 56 deletions in 2 files</sub><br />
+  <sub>[#190095](https://github.com/flutter/flutter/pull/190095) opened on on July 27, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/190095) 292 additions and 56 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix PathNotFoundException during native assets cleanup<br />
+  <sub>[#190102](https://github.com/flutter/flutter/pull/190102) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190102) 46 additions and 1 deletion in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle WDAC block error code 4551 for impellerc<br />
+  <sub>[#190108](https://github.com/flutter/flutter/pull/190108) opened on on July 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190108) 51 additions and 1 deletion in 2 files</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; android_hardware_smoke_test: Detect blank image failures or EGL initialization warnings and retry<br />
-  <sub>[#190110](https://github.com/flutter/flutter/pull/190110) opened on on July 27, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/190110) 535 additions and 81 deletions in 9 files</sub><br />
+  <sub>[#190110](https://github.com/flutter/flutter/pull/190110) opened on on July 27, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/190110) 530 additions and 81 deletions in 9 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add clang, cmake, and ninja deps to Linux windowing_test<br />
   <sub>[#190119](https://github.com/flutter/flutter/pull/190119) opened on on July 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190119) 6 additions and 0 deletions in 1 file</sub><br />
@@ -214,9 +220,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; [CP-beta] Add java/gradle check when gradle crashes (#189997)<br />
   <sub>[#190364](https://github.com/flutter/flutter/pull/190364) opened on on July 31, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/190364) 396 additions and 13 deletions in 3 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Prepare device support symbols<br />
-  <sub>[#190369](https://github.com/flutter/flutter/pull/190369) opened on on July 31, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/190369) 629 additions and 4 deletions in 9 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Ignore redundant render pass state assignments<br />
   <sub>[#190379](https://github.com/flutter/flutter/pull/190379) opened on on July 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190379) 116 additions and 15 deletions in 3 files</sub><br />
@@ -284,9 +287,21 @@
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Optimize JSONMessageCodec UTF-8 conversion<br />
   <sub>[#190529](https://github.com/flutter/flutter/pull/190529) opened on on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190529) 21 additions and 2 deletions in 2 files</sub><br />
 
-* **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [ci] Add experimental branch agp-gradle-api-flutter to enabled_branches<br />
-  <sub>[#190533](https://github.com/flutter/flutter/pull/190533) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190533) 2 additions and 0 deletions in 2 files</sub><br />
-
 * **[jpeiffer](https://github.com/jpeiffer)** &mdash; Update Divider color documentation for Material 3<br />
   <sub>[#190535](https://github.com/flutter/flutter/pull/190535) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190535) 3 additions and 1 deletion in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix hot reload for workspace member packages in lib/ (#190284)<br />
+  <sub>[#190540](https://github.com/flutter/flutter/pull/190540) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190540) 141 additions and 10 deletions in 7 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Support boolean selectors and multiple tag options in test command (#189193)<br />
+  <sub>[#190541](https://github.com/flutter/flutter/pull/190541) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190541) 54 additions and 16 deletions in 3 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Fix merge conflict from https://github.com/flutter/flutter/pull/190369<br />
+  <sub>[#190544](https://github.com/flutter/flutter/pull/190544) opened on on August 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190544) 18 additions and 2 deletions in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Generically serve WASM files with Content-Length, Cache-Control, and cross-origin isolation headers<br />
+  <sub>[#190545](https://github.com/flutter/flutter/pull/190545) opened on on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190545) 121 additions and 55 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Support UTF-16 and UTF-8 BOM decoding in --dart-define-from-file (#190286)<br />
+  <sub>[#190547](https://github.com/flutter/flutter/pull/190547) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190547) 157 additions and 1 deletion in 4 files</sub><br />
 
