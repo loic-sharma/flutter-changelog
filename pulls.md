@@ -255,7 +255,7 @@
   <sub>[#190463](https://github.com/flutter/flutter/pull/190463) opened on on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190463) 51 additions and 16 deletions in 2 files</sub><br />
 
 * **[Devarsh Ranpara](https://github.com/DevarshRanpara)** &mdash; Add lazyLoadChildren to Expansible to defer body build until first expansion (Fixes #184111)<br />
-  <sub>[#190468](https://github.com/flutter/flutter/pull/190468) opened on on August 3, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/190468) 131 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#190468](https://github.com/flutter/flutter/pull/190468) opened on on August 3, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/190468) 131 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove --disable-dev-shm-usage from Chrome launch args<br />
   <sub>[#190470](https://github.com/flutter/flutter/pull/190470) opened on on August 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190470) 0 additions and 1 deletion in 1 file</sub><br />
@@ -270,7 +270,7 @@
   <sub>[#190474](https://github.com/flutter/flutter/pull/190474) opened on on August 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190474) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bumps text gamma on windows to match skia.<br />
-  <sub>[#190477](https://github.com/flutter/flutter/pull/190477) opened on on August 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190477) 18 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#190477](https://github.com/flutter/flutter/pull/190477) opened on on August 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/190477) 18 additions and 11 deletions in 1 file</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Move `examples/api` to `packages/flutter/examples/api` and fix CI errors<br />
   <sub>[#190481](https://github.com/flutter/flutter/pull/190481) opened on on August 3, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190481) 711 additions and 664 deletions in 1237 files</sub><br />
@@ -280,4 +280,7 @@
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Ensure a device-width viewport meta in the built index.html<br />
   <sub>[#190487](https://github.com/flutter/flutter/pull/190487) opened on on August 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190487) 169 additions and 2 deletions in 5 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: add tsan and ubsan support for Swift<br />
+  <sub>[#190497](https://github.com/flutter/flutter/pull/190497) opened on on August 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190497) 15 additions and 4 deletions in 1 file</sub><br />
 
