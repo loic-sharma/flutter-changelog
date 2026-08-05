@@ -245,3 +245,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [master] Update Flutter DEPS to Dart bb17f25f176f5209179b23d51aab9725ffb5146d<br />
   <sub>[#190600](https://github.com/flutter/flutter/pull/190600) opened on on August 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190600) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Document that Positioned also works inside an Overlay<br />
+  <sub>[#190607](https://github.com/flutter/flutter/pull/190607) opened on on August 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190607) 12 additions and 0 deletions in 1 file</sub><br />
+
+* **[Amaan Ansari](https://github.com/amaan-0331)** &mdash; [Android] Guard PlatformViewsController2.onEndFrame against a detached FlutterView<br />
+  <sub>[#190612](https://github.com/flutter/flutter/pull/190612) opened on on August 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190612) 53 additions and 1 deletion in 2 files</sub><br />
+
