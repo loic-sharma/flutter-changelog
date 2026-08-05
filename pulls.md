@@ -99,16 +99,13 @@
   <sub>[#189493](https://github.com/flutter/flutter/pull/189493) opened on on July 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189493) 225 additions and 1 deletion in 2 files</sub><br />
 
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Wait for web rendering before first-frame event<br />
-  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/189500) 254 additions and 17 deletions in 3 files</sub><br />
+  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/189500) 254 additions and 17 deletions in 3 files</sub><br />
 
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
 
 * **[Melrose](https://github.com/heyi1994)** &mdash; [Impeller] Work around GL driver job-pool exhaustion on MediaTek MT6779<br />
   <sub>[#189643](https://github.com/flutter/flutter/pull/189643) opened on on July 17, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/189643) 123 additions and 0 deletions in 5 files</sub><br />
-
-* **[apinilabs-pascal](https://github.com/apinilabs-pascal)** &mdash; [web] Stop percent-decoding URLs written to browser history<br />
-  <sub>[#189835](https://github.com/flutter/flutter/pull/189835) opened on on July 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189835) 39 additions and 8 deletions in 2 files</sub><br />
 
 * **[Muhammad Assad Ullah](https://github.com/assassinaj602)** &mdash; [webview_flutter] Fix Android WebViewWidget right edge background bleed<br />
   <sub>[#189837](https://github.com/flutter/flutter/pull/189837) opened on on July 22, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/189837) 4086 additions and 0 deletions in 2 files</sub><br />
@@ -123,7 +120,7 @@
   <sub>[#189923](https://github.com/flutter/flutter/pull/189923) opened on on July 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189923) 155 additions and 1 deletion in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds error about wimp_heavy not being implemented.<br />
-  <sub>[#189945](https://github.com/flutter/flutter/pull/189945) opened on on July 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189945) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#189945](https://github.com/flutter/flutter/pull/189945) opened on on July 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189945) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Cp beta c3f6236f61f5650c315cd21da8bc58bb66f77a5f<br />
   <sub>[#189947](https://github.com/flutter/flutter/pull/189947) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189947) 5 additions and 0 deletions in 1 file</sub><br />
@@ -176,9 +173,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Reusable binding sets<br />
   <sub>[#190400](https://github.com/flutter/flutter/pull/190400) opened on on August 2, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/190400) 1052 additions and 34 deletions in 13 files</sub><br />
 
-* **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Add SliverAppBar showOnScreen semantics test coverage<br />
-  <sub>[#190410](https://github.com/flutter/flutter/pull/190410) opened on on August 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190410) 67 additions and 2 deletions in 2 files</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Updated Remaining Engine Defaults to SDK 37<br />
   <sub>[#190429](https://github.com/flutter/flutter/pull/190429) opened on on August 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190429) 19 additions and 21 deletions in 17 files</sub><br />
 
@@ -200,17 +194,11 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Anchor flt-semantics-host at 0,0 to fix WebKit semantics offset<br />
   <sub>[#190486](https://github.com/flutter/flutter/pull/190486) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190486) 16 additions and 0 deletions in 2 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Ensure a device-width viewport meta in the built index.html<br />
-  <sub>[#190487](https://github.com/flutter/flutter/pull/190487) opened on on August 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190487) 169 additions and 2 deletions in 5 files</sub><br />
-
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Fix DeleteSurrounding splitting UTF-16 surrogate pairs<br />
   <sub>[#190514](https://github.com/flutter/flutter/pull/190514) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190514) 73 additions and 3 deletions in 2 files</sub><br />
 
 * **[zulongzhang](https://github.com/zulongzhang)** &mdash; [Linux] Fix a potential GList leak in FlTouchManager<br />
   <sub>[#190518](https://github.com/flutter/flutter/pull/190518) opened on on August 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190518) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[jpeiffer](https://github.com/jpeiffer)** &mdash; Update Divider color documentation for Material 3<br />
-  <sub>[#190535](https://github.com/flutter/flutter/pull/190535) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190535) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix hot reload for workspace member packages in lib/ (#190284)<br />
   <sub>[#190540](https://github.com/flutter/flutter/pull/190540) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190540) 139 additions and 10 deletions in 7 files</sub><br />
@@ -229,4 +217,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate the embedder tests from the legacy Dart native function format to FFI<br />
   <sub>[#190615](https://github.com/flutter/flutter/pull/190615) opened on on August 5, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/190615) 630 additions and 817 deletions in 24 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Deduplicate fixture builders in build_swift_package_test.dart<br />
+  <sub>[#190624](https://github.com/flutter/flutter/pull/190624) opened on on August 5, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/190624) 83 additions and 231 deletions in 1 file</sub><br />
 
