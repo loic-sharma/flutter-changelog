@@ -126,7 +126,7 @@
   <sub>[#189837](https://github.com/flutter/flutter/pull/189837) opened on on July 22, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/189837) 4086 additions and 0 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Convert Mockito instances in Kotlin to Mockk<br />
-  <sub>[#189884](https://github.com/flutter/flutter/pull/189884) opened on on July 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189884) 23 additions and 22 deletions in 2 files</sub><br />
+  <sub>[#189884](https://github.com/flutter/flutter/pull/189884) opened on on July 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/189884) 23 additions and 22 deletions in 2 files</sub><br />
 
 * **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Derive plugin package name from app name to avoid collisions (#189585)<br />
   <sub>[#189915](https://github.com/flutter/flutter/pull/189915) opened on on July 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/189915) 240 additions and 96 deletions in 10 files</sub><br />
@@ -215,9 +215,6 @@
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [iOS] Fix touch passthrough when a native UIViewController is presented<br />
   <sub>[#190472](https://github.com/flutter/flutter/pull/190472) opened on on August 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190472) 282 additions and 0 deletions in 3 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate the shell unit tests from legacy Dart native functions to FFI<br />
-  <sub>[#190473](https://github.com/flutter/flutter/pull/190473) opened on on August 3, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/190473) 334 additions and 372 deletions in 8 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable Gradle cache for a single test target<br />
   <sub>[#190474](https://github.com/flutter/flutter/pull/190474) opened on on August 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190474) 2 additions and 1 deletion in 1 file</sub><br />
 
@@ -241,10 +238,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Support UTF-16 and UTF-8 BOM decoding in --dart-define-from-file (#190286)<br />
   <sub>[#190547](https://github.com/flutter/flutter/pull/190547) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190547) 157 additions and 1 deletion in 4 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.47-candidate.0] Sync engine.version to f88005a259ba379c2c1156178aa1870936be7b7f<br />
-  <sub>[#190585](https://github.com/flutter/flutter/pull/190585) opened on on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190585) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.44-candidate.0] Sync engine.version to 5a2a6a42cce67f965cf540fcecf616faca624aa1<br />
-  <sub>[#190586](https://github.com/flutter/flutter/pull/190586) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190586) 1 addition and 1 deletion in 1 file</sub><br />
 
