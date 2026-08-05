@@ -138,7 +138,7 @@
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; [web] Fix null-check crash when a platform view is disposed mid-frame<br />
-  <sub>[#190071](https://github.com/flutter/flutter/pull/190071) opened on on July 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190071) 93 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#190071](https://github.com/flutter/flutter/pull/190071) opened on on July 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190071) 93 additions and 5 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Make Xcode workspace cleaning optional during flutter clean<br />
   <sub>[#190091](https://github.com/flutter/flutter/pull/190091) opened on on July 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/190091) 45 additions and 10 deletions in 4 files</sub><br />
@@ -154,9 +154,6 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Inject command line flags into manifest in release mode when not running pre-built binary<br />
   <sub>[#190222](https://github.com/flutter/flutter/pull/190222) opened on on July 29, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190222) 1254 additions and 105 deletions in 19 files</sub><br />
-
-* **[Rusino](https://github.com/Rusino)** &mdash; Glitch<br />
-  <sub>[#190227](https://github.com/flutter/flutter/pull/190227) opened on on July 29, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/190227) 107 additions and 30 deletions in 1 file</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Report individual test results to LUCI ResultDB<br />
   <sub>[#190254](https://github.com/flutter/flutter/pull/190254) opened on on July 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190254) 879 additions and 0 deletions in 4 files</sub><br />
@@ -182,14 +179,8 @@
 * **[Devarsh Ranpara](https://github.com/DevarshRanpara)** &mdash; Add lazyLoadChildren to Expansible to defer body build until first expansion (Fixes #184111)<br />
   <sub>[#190468](https://github.com/flutter/flutter/pull/190468) opened on on August 3, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/190468) 131 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Remove --disable-dev-shm-usage from Chrome launch args<br />
-  <sub>[#190470](https://github.com/flutter/flutter/pull/190470) opened on on August 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190470) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [iOS] Fix touch passthrough when a native UIViewController is presented<br />
   <sub>[#190472](https://github.com/flutter/flutter/pull/190472) opened on on August 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190472) 282 additions and 0 deletions in 3 files</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable Gradle cache for a single test target<br />
-  <sub>[#190474](https://github.com/flutter/flutter/pull/190474) opened on on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190474) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Anchor flt-semantics-host at 0,0 to fix WebKit semantics offset<br />
   <sub>[#190486](https://github.com/flutter/flutter/pull/190486) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190486) 16 additions and 0 deletions in 2 files</sub><br />
@@ -220,4 +211,7 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Deduplicate fixture builders in build_swift_package_test.dart<br />
   <sub>[#190624](https://github.com/flutter/flutter/pull/190624) opened on on August 5, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/190624) 83 additions and 231 deletions in 1 file</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: make tree-analyze workflow wait for linux_android_debug_engine<br />
+  <sub>[#190628](https://github.com/flutter/flutter/pull/190628) opened on on August 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190628) 2 additions and 0 deletions in 2 files</sub><br />
 
