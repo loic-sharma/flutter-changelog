@@ -198,7 +198,7 @@
   <sub>[#190410](https://github.com/flutter/flutter/pull/190410) opened on on August 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190410) 67 additions and 2 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Updated Remaining Engine Defaults to SDK 37<br />
-  <sub>[#190429](https://github.com/flutter/flutter/pull/190429) opened on on August 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190429) 10 additions and 10 deletions in 8 files</sub><br />
+  <sub>[#190429](https://github.com/flutter/flutter/pull/190429) opened on on August 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190429) 19 additions and 21 deletions in 17 files</sub><br />
 
 * **[herdiyanitdev](https://github.com/herdiyana256)** &mdash; flutter_tools: validate plugin identifiers before generating registrant code<br />
   <sub>[#190462](https://github.com/flutter/flutter/pull/190462) opened on on August 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/190462) 270 additions and 10 deletions in 2 files</sub><br />
@@ -226,6 +226,9 @@
 
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Fix DeleteSurrounding splitting UTF-16 surrogate pairs<br />
   <sub>[#190514](https://github.com/flutter/flutter/pull/190514) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190514) 73 additions and 3 deletions in 2 files</sub><br />
+
+* **[zulongzhang](https://github.com/zulongzhang)** &mdash; [Linux] Fix a potential GList leak in FlTouchManager<br />
+  <sub>[#190518](https://github.com/flutter/flutter/pull/190518) opened on on August 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190518) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[jpeiffer](https://github.com/jpeiffer)** &mdash; Update Divider color documentation for Material 3<br />
   <sub>[#190535](https://github.com/flutter/flutter/pull/190535) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190535) 3 additions and 1 deletion in 1 file</sub><br />
