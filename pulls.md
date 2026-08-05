@@ -152,6 +152,9 @@
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: forward --build-name and --build-number to desktop version.json<br />
   <sub>[#190130](https://github.com/flutter/flutter/pull/190130) opened on on July 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190130) 20 additions and 0 deletions in 3 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove outdated `TODO`s about `toString` issues with`Offset`<br />
+  <sub>[#190138](https://github.com/flutter/flutter/pull/190138) opened on on July 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190138) 32 additions and 34 deletions in 1 file</sub><br />
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Inject command line flags into manifest in release mode when not running pre-built binary<br />
   <sub>[#190222](https://github.com/flutter/flutter/pull/190222) opened on on July 29, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190222) 1254 additions and 105 deletions in 19 files</sub><br />
 
@@ -182,9 +185,6 @@
 * **[Pavel Akhrameev](https://github.com/Akhrameev)** &mdash; [iOS] Fix touch passthrough when a native UIViewController is presented<br />
   <sub>[#190472](https://github.com/flutter/flutter/pull/190472) opened on on August 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190472) 282 additions and 0 deletions in 3 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Anchor flt-semantics-host at 0,0 to fix WebKit semantics offset<br />
-  <sub>[#190486](https://github.com/flutter/flutter/pull/190486) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190486) 16 additions and 0 deletions in 2 files</sub><br />
-
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Fix DeleteSurrounding splitting UTF-16 surrogate pairs<br />
   <sub>[#190514](https://github.com/flutter/flutter/pull/190514) opened on on August 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190514) 73 additions and 3 deletions in 2 files</sub><br />
 
@@ -206,12 +206,12 @@
 * **[Amaan Ansari](https://github.com/amaan-0331)** &mdash; [Android] Guard PlatformViewsController2.onEndFrame against a detached FlutterView<br />
   <sub>[#190612](https://github.com/flutter/flutter/pull/190612) opened on on August 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190612) 53 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate the embedder tests from the legacy Dart native function format to FFI<br />
-  <sub>[#190615](https://github.com/flutter/flutter/pull/190615) opened on on August 5, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/190615) 630 additions and 817 deletions in 24 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Deduplicate fixture builders in build_swift_package_test.dart<br />
   <sub>[#190624](https://github.com/flutter/flutter/pull/190624) opened on on August 5, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/190624) 83 additions and 231 deletions in 1 file</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci: make tree-analyze workflow wait for linux_android_debug_engine<br />
-  <sub>[#190628](https://github.com/flutter/flutter/pull/190628) opened on on August 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190628) 2 additions and 0 deletions in 2 files</sub><br />
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert: Enable Gradle cache for a single test target<br />
+  <sub>[#190629](https://github.com/flutter/flutter/pull/190629) opened on on August 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190629) 1 addition and 2 deletions in 1 file</sub><br />
+
+* **[Matheus Dias](https://github.com/Mathvdias)** &mdash; feat(flutter_test): add startHover and startHoverAt helper to WidgetTester<br />
+  <sub>[#190630](https://github.com/flutter/flutter/pull/190630) opened on on August 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190630) 83 additions and 0 deletions in 3 files</sub><br />
 
