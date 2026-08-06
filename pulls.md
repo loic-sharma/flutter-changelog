@@ -78,7 +78,7 @@
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add batch3 a11y_assessment for vpat<br />
-  <sub>[#189042](https://github.com/flutter/flutter/pull/189042) opened on on July 7, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/189042) 1102 additions and 1 deletion in 18 files</sub><br />
+  <sub>[#189042](https://github.com/flutter/flutter/pull/189042) opened on on July 7, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/189042) 1102 additions and 1 deletion in 18 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
@@ -220,4 +220,10 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Compile shader bundles for a subset of backends<br />
   <sub>[#190641](https://github.com/flutter/flutter/pull/190641) opened on on August 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190641) 196 additions and 37 deletions in 6 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Expand the vertex attribute formats and gate them by backend capability<br />
+  <sub>[#190642](https://github.com/flutter/flutter/pull/190642) opened on on August 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190642) 801 additions and 77 deletions in 21 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Disallow Swift symbols in `verify_exported.dart`<br />
+  <sub>[#190645](https://github.com/flutter/flutter/pull/190645) opened on on August 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190645) 6 additions and 106 deletions in 1 file</sub><br />
 
