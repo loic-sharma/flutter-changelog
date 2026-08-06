@@ -224,3 +224,9 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Disallow Swift symbols in `verify_exported.dart`<br />
   <sub>[#190645](https://github.com/flutter/flutter/pull/190645) opened on on August 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190645) 6 additions and 106 deletions in 1 file</sub><br />
 
+* **[Sankalp Thakur](https://github.com/sankalpsthakur)** &mdash; fix(web): guard parseBrowserLanguages against invalid locale tags<br />
+  <sub>[#190651](https://github.com/flutter/flutter/pull/190651) opened on on August 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190651) 15 additions and 9 deletions in 1 file</sub><br />
+
+* **[Rodrigo Bastos Vasconcelos](https://github.com/rodrigobastosv)** &mdash; Support test variants in `test()`<br />
+  <sub>[#190656](https://github.com/flutter/flutter/pull/190656) opened on on August 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190656) 404 additions and 173 deletions in 6 files</sub><br />
+
