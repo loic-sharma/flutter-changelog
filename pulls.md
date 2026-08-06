@@ -168,7 +168,7 @@
   <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/190399) 277 additions and 65 deletions in 5 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Reusable binding sets<br />
-  <sub>[#190400](https://github.com/flutter/flutter/pull/190400) opened on on August 2, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/190400) 1052 additions and 34 deletions in 13 files</sub><br />
+  <sub>[#190400](https://github.com/flutter/flutter/pull/190400) opened on on August 2, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/190400) 1056 additions and 34 deletions in 13 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Updated Remaining Engine Defaults to SDK 37<br />
   <sub>[#190429](https://github.com/flutter/flutter/pull/190429) opened on on August 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190429) 19 additions and 21 deletions in 17 files</sub><br />
@@ -198,7 +198,7 @@
   <sub>[#190547](https://github.com/flutter/flutter/pull/190547) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190547) 152 additions and 1 deletion in 4 files</sub><br />
 
 * **[Frank Weindel](https://github.com/frank-weindel)** &mdash; Enable apps to control focus behavior during app lifecycle changes via `FocusLifecyclePolicy`<br />
-  <sub>[#190570](https://github.com/flutter/flutter/pull/190570) opened on on August 4, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/190570) 367 additions and 63 deletions in 2 files</sub><br />
+  <sub>[#190570](https://github.com/flutter/flutter/pull/190570) opened on on August 4, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/190570) 367 additions and 63 deletions in 2 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Document that Positioned also works inside an Overlay<br />
   <sub>[#190607](https://github.com/flutter/flutter/pull/190607) opened on on August 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190607) 12 additions and 0 deletions in 1 file</sub><br />
