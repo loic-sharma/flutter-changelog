@@ -240,5 +240,5 @@
   <sub>[#190686](https://github.com/flutter/flutter/pull/190686) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190686) 53 additions and 3 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Anchor package version extraction regex in Wasm dry-run<br />
-  <sub>[#190691](https://github.com/flutter/flutter/pull/190691) opened on on August 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190691) 116 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#190691](https://github.com/flutter/flutter/pull/190691) opened on on August 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190691) 118 additions and 5 deletions in 2 files</sub><br />
 
