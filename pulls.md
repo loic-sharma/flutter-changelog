@@ -101,6 +101,9 @@
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Wait for web rendering before first-frame event<br />
   <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/189500) 254 additions and 17 deletions in 3 files</sub><br />
 
+* **[August](https://github.com/Gustl22)** &mdash; fix: Apply reversed axis flip by macOS on Web when scroll with modifier keys<br />
+  <sub>[#189506](https://github.com/flutter/flutter/pull/189506) opened on on July 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189506) 122 additions and 8 deletions in 5 files</sub><br />
+
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
 
