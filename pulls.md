@@ -90,7 +90,7 @@
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22936 additions and 0 deletions in 173 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
-  <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/189442) 123 additions and 45 deletions in 7 files</sub><br />
+  <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/189442) 123 additions and 45 deletions in 7 files</sub><br />
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [flutter_tools] Use resolved application ID for app link settings<br />
   <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
@@ -140,9 +140,6 @@
 * **[Lavanbarath B](https://github.com/lavan8t)** &mdash; fix(logger): preserve Unicode check and cross symbols in log output<br />
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Make Xcode workspace cleaning optional during flutter clean<br />
-  <sub>[#190091](https://github.com/flutter/flutter/pull/190091) opened on on July 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/190091) 45 additions and 10 deletions in 4 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add clang, cmake, and ninja deps to Linux windowing_test<br />
   <sub>[#190119](https://github.com/flutter/flutter/pull/190119) opened on on July 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190119) 6 additions and 0 deletions in 1 file</sub><br />
 
@@ -188,9 +185,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Generically serve WASM files with Content-Length, Cache-Control, and cross-origin isolation headers<br />
   <sub>[#190545](https://github.com/flutter/flutter/pull/190545) opened on on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190545) 121 additions and 55 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Support UTF-16 and UTF-8 BOM decoding in --dart-define-from-file (#190286)<br />
-  <sub>[#190547](https://github.com/flutter/flutter/pull/190547) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190547) 159 additions and 1 deletion in 4 files</sub><br />
-
 * **[Frank Weindel](https://github.com/frank-weindel)** &mdash; Enable apps to control focus behavior during app lifecycle changes via `FocusLifecyclePolicy`<br />
   <sub>[#190570](https://github.com/flutter/flutter/pull/190570) opened on on August 4, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/190570) 367 additions and 63 deletions in 2 files</sub><br />
 
@@ -225,10 +219,10 @@
   <sub>[#190675](https://github.com/flutter/flutter/pull/190675) opened on on August 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190675) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Override deployment target in CocoaPod dependencies when they're less than Xcode's minimum<br />
-  <sub>[#190677](https://github.com/flutter/flutter/pull/190677) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190677) 16 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#190677](https://github.com/flutter/flutter/pull/190677) opened on on August 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190677) 16 additions and 11 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate 5 iOS UI driver tests to Mac Simulators<br />
-  <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190679) 71 additions and 20 deletions in 10 files</sub><br />
+  <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190679) 126 additions and 20 deletions in 10 files</sub><br />
 
 * **[Stucdio Yazılım](https://github.com/stucdio)** &mdash; Document how Container.decoration and clipBehavior interact with a border<br />
   <sub>[#190682](https://github.com/flutter/flutter/pull/190682) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190682) 16 additions and 0 deletions in 1 file</sub><br />
@@ -245,9 +239,12 @@
 * **[Fury](https://github.com/Fury76)** &mdash; Avoid eager clipboard status checks in EditableText<br />
   <sub>[#190707](https://github.com/flutter/flutter/pull/190707) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190707) 71 additions and 73 deletions in 7 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Use JSON_INPUT COMPILE_EXPRESSION for expression evaluation<br />
-  <sub>[#190722](https://github.com/flutter/flutter/pull/190722) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190722) 154 additions and 57 deletions in 2 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable Gradle CI cache on all test targets that require android_sdk<br />
   <sub>[#190723](https://github.com/flutter/flutter/pull/190723) opened on on August 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/190723) 234 additions and 117 deletions in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Reduce web_skwasm_tests subshards from 8 to 2<br />
+  <sub>[#190728](https://github.com/flutter/flutter/pull/190728) opened on on August 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190728) 6 additions and 140 deletions in 2 files</sub><br />
+
+* **[Bruno Corona](https://github.com/mbcorona)** &mdash; Start directional focus traversal from the innermost focused node<br />
+  <sub>[#190730](https://github.com/flutter/flutter/pull/190730) opened on on August 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190730) 99 additions and 0 deletions in 2 files</sub><br />
 
