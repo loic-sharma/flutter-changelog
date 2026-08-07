@@ -86,9 +86,6 @@
 * **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22936 additions and 0 deletions in 173 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
-  <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/189442) 123 additions and 45 deletions in 7 files</sub><br />
-
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [flutter_tools] Use resolved application ID for app link settings<br />
   <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
 
@@ -265,4 +262,7 @@
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix web tracing flakiness on macOS ARM64<br />
   <sub>[#190759](https://github.com/flutter/flutter/pull/190759) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190759) 12 additions and 5 deletions in 1 file</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Update `FlutterNativeAssetsBuildRunnerImpl` to add ".exe" suffix to its `_dartExecutable` for Windows<br />
+  <sub>[#190761](https://github.com/flutter/flutter/pull/190761) opened on on August 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190761) 5 additions and 1 deletion in 3 files</sub><br />
 
