@@ -90,7 +90,7 @@
   <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/189294) 22936 additions and 0 deletions in 173 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate flavors_test_ios to Simulators and add UIScene support<br />
-  <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/189442) 123 additions and 45 deletions in 7 files</sub><br />
+  <sub>[#189442](https://github.com/flutter/flutter/pull/189442) opened on on July 14, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/189442) 123 additions and 45 deletions in 7 files</sub><br />
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [flutter_tools] Use resolved application ID for app link settings<br />
   <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
@@ -247,4 +247,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Use JSON_INPUT COMPILE_EXPRESSION for expression evaluation<br />
   <sub>[#190722](https://github.com/flutter/flutter/pull/190722) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190722) 154 additions and 57 deletions in 2 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable Gradle CI cache on all test targets that require android_sdk<br />
+  <sub>[#190723](https://github.com/flutter/flutter/pull/190723) opened on on August 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/190723) 234 additions and 117 deletions in 1 file</sub><br />
 
