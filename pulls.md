@@ -140,9 +140,6 @@
 * **[Lavanbarath B](https://github.com/lavan8t)** &mdash; fix(logger): preserve Unicode check and cross symbols in log output<br />
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
 
-* **[Bruno Corona](https://github.com/mbcorona)** &mdash; [web] Fix null-check crash when a platform view is disposed mid-frame<br />
-  <sub>[#190071](https://github.com/flutter/flutter/pull/190071) opened on on July 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190071) 93 additions and 5 deletions in 2 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Make Xcode workspace cleaning optional during flutter clean<br />
   <sub>[#190091](https://github.com/flutter/flutter/pull/190091) opened on on July 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/190091) 45 additions and 10 deletions in 4 files</sub><br />
 
@@ -192,7 +189,7 @@
   <sub>[#190545](https://github.com/flutter/flutter/pull/190545) opened on on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190545) 121 additions and 55 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Support UTF-16 and UTF-8 BOM decoding in --dart-define-from-file (#190286)<br />
-  <sub>[#190547](https://github.com/flutter/flutter/pull/190547) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190547) 156 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#190547](https://github.com/flutter/flutter/pull/190547) opened on on August 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190547) 159 additions and 1 deletion in 4 files</sub><br />
 
 * **[Frank Weindel](https://github.com/frank-weindel)** &mdash; Enable apps to control focus behavior during app lifecycle changes via `FocusLifecyclePolicy`<br />
   <sub>[#190570](https://github.com/flutter/flutter/pull/190570) opened on on August 4, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/190570) 367 additions and 63 deletions in 2 files</sub><br />
