@@ -948,7 +948,7 @@
 
 ### August 1, 2026 to August 7, 2026
 
-12 commits.
+13 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix video recording after backgrounding app
   <sub>[#12145](https://github.com/flutter/packages/pull/12145) merged on August 4, 2026 &mdash; **Small:** [48 comments](https://github.com/flutter/packages/pull/12145) over 3 weeks, 62 additions and 1 deletion in 5 files</sub>
@@ -981,6 +981,10 @@
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [camera_android_camerax][tool] Migrate complexity checks to package:cognitive_complexity
   <sub>[#12356](https://github.com/flutter/packages/pull/12356) merged on August 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/12356) over 3 days, 129 additions and 62 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 058e0af2c2b5 to 6b182d2c7585 (4 revisions)
+  <sub>[#12394](https://github.com/flutter/packages/pull/12394) merged on August 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12394) over 58 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-go_router-17.4.0 to main
   <sub>[#12370](https://github.com/flutter/packages/pull/12370) merged on August 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12370) over 19 hours, 6 additions and 7 deletions in 4 files</sub>
