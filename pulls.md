@@ -95,9 +95,6 @@
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [flutter_tools] Use resolved application ID for app link settings<br />
   <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
 
-* **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [flutter_tools] Avoid duplicate Swift package binary targets<br />
-  <sub>[#189493](https://github.com/flutter/flutter/pull/189493) opened on on July 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189493) 225 additions and 1 deletion in 2 files</sub><br />
-
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Wait for web rendering before first-frame event<br />
   <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/189500) 254 additions and 17 deletions in 3 files</sub><br />
 
@@ -247,4 +244,10 @@
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Start directional focus traversal from the innermost focused node<br />
   <sub>[#190730](https://github.com/flutter/flutter/pull/190730) opened on on August 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190730) 99 additions and 0 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Setup Pub Workspace and package structure for flutter_tools sub-packages<br />
+  <sub>[#190733](https://github.com/flutter/flutter/pull/190733) opened on on August 7, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190733) 787 additions and 0 deletions in 10 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement generic extension protocol base and isolate runner<br />
+  <sub>[#190734](https://github.com/flutter/flutter/pull/190734) opened on on August 7, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/190734) 1889 additions and 1 deletion in 23 files</sub><br />
 
