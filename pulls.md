@@ -260,3 +260,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate ConfigCommand to modular dependency injection<br />
   <sub>[#190743](https://github.com/flutter/flutter/pull/190743) opened on on August 7, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/190743) 2546 additions and 794 deletions in 21 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate DoctorCommand to modular dependency injection<br />
+  <sub>[#190758](https://github.com/flutter/flutter/pull/190758) opened on on August 7, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/190758) 3589 additions and 1803 deletions in 29 files</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix web tracing flakiness on macOS ARM64<br />
+  <sub>[#190759](https://github.com/flutter/flutter/pull/190759) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190759) 12 additions and 5 deletions in 1 file</sub><br />
+
