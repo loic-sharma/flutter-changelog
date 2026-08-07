@@ -206,9 +206,6 @@
 * **[Matheus Dias](https://github.com/Mathvdias)** &mdash; feat(flutter_test): add startHover and startHoverAt helper to WidgetTester<br />
   <sub>[#190630](https://github.com/flutter/flutter/pull/190630) opened on on August 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190630) 95 additions and 0 deletions in 3 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Reland] Enable Gradle cache for CI on single test target<br />
-  <sub>[#190635](https://github.com/flutter/flutter/pull/190635) opened on on August 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190635) 2 additions and 1 deletion in 1 file</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Compile shader bundles for a subset of backends<br />
   <sub>[#190641](https://github.com/flutter/flutter/pull/190641) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190641) 196 additions and 37 deletions in 6 files</sub><br />
 
@@ -237,5 +234,8 @@
   <sub>[#190685](https://github.com/flutter/flutter/pull/190685) opened on on August 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190685) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Fix focusNode listener mismatch in didUpdateWidget/dispose<br />
-  <sub>[#190686](https://github.com/flutter/flutter/pull/190686) opened on on August 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190686) 53 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#190686](https://github.com/flutter/flutter/pull/190686) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190686) 53 additions and 3 deletions in 2 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Anchor package version extraction regex in Wasm dry-run<br />
+  <sub>[#190691](https://github.com/flutter/flutter/pull/190691) opened on on August 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190691) 116 additions and 5 deletions in 2 files</sub><br />
 
