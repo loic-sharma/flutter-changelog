@@ -1210,8 +1210,8 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: add platform-specific assets section to assets guide<br />
-  <sub>[#13666](https://github.com/flutter/website/pull/13666) merged on August 5, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13666) over 1 day, 29 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jess K](https://github.com/jesskuras), [Muthu Ganesh](https://github.com/MuthuGCodes)</sub><br />
+  <sub>[#13666](https://github.com/flutter/website/pull/13666) merged on August 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13666) over 1 day, 29 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Muthu Ganesh](https://github.com/MuthuGCodes), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jess K](https://github.com/jesskuras)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; docs(web): add Wasm compile error and migration guide<br />
   <sub>[#13662](https://github.com/flutter/website/pull/13662) merged on August 4, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/13662) over 1 day, 75 additions and 3 deletions in 4 files</sub><br />
