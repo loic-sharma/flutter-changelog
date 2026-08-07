@@ -245,3 +245,6 @@
 * **[Fury](https://github.com/Fury76)** &mdash; Avoid eager clipboard status checks in EditableText<br />
   <sub>[#190707](https://github.com/flutter/flutter/pull/190707) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190707) 71 additions and 73 deletions in 7 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Use JSON_INPUT COMPILE_EXPRESSION for expression evaluation<br />
+  <sub>[#190722](https://github.com/flutter/flutter/pull/190722) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190722) 154 additions and 57 deletions in 2 files</sub><br />
+
