@@ -107,6 +107,9 @@
 * **[Melrose](https://github.com/heyi1994)** &mdash; [Impeller] Work around GL driver job-pool exhaustion on MediaTek MT6779<br />
   <sub>[#189643](https://github.com/flutter/flutter/pull/189643) opened on on July 17, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/189643) 123 additions and 0 deletions in 5 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Make ScrollPhysics reactive by introducing shouldUpdate<br />
+  <sub>[#189664](https://github.com/flutter/flutter/pull/189664) opened on on July 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189664) 74 additions and 1 deletion in 3 files</sub><br />
+
 * **[Muhammad Assad Ullah](https://github.com/assassinaj602)** &mdash; [webview_flutter] Fix Android WebViewWidget right edge background bleed<br />
   <sub>[#189837](https://github.com/flutter/flutter/pull/189837) opened on on July 22, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/189837) 4086 additions and 0 deletions in 2 files</sub><br />
 
@@ -246,8 +249,11 @@
   <sub>[#190730](https://github.com/flutter/flutter/pull/190730) opened on on August 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190730) 99 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Setup Pub Workspace and package structure for flutter_tools sub-packages<br />
-  <sub>[#190733](https://github.com/flutter/flutter/pull/190733) opened on on August 7, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190733) 787 additions and 0 deletions in 10 files</sub><br />
+  <sub>[#190733](https://github.com/flutter/flutter/pull/190733) opened on on August 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190733) 172 additions and 0 deletions in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement generic extension protocol base and isolate runner<br />
-  <sub>[#190734](https://github.com/flutter/flutter/pull/190734) opened on on August 7, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/190734) 1889 additions and 1 deletion in 23 files</sub><br />
+  <sub>[#190734](https://github.com/flutter/flutter/pull/190734) opened on on August 7, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190734) 703 additions and 1 deletion in 21 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Switch testing to gradle bin distribution type instead of all<br />
+  <sub>[#190738](https://github.com/flutter/flutter/pull/190738) opened on on August 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190738) 2 additions and 2 deletions in 2 files</sub><br />
 
