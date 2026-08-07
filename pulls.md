@@ -242,6 +242,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Anchor package version extraction regex in Wasm dry-run<br />
   <sub>[#190691](https://github.com/flutter/flutter/pull/190691) opened on on August 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190691) 118 additions and 5 deletions in 2 files</sub><br />
 
-* **[Aparin Kirill](https://github.com/kirya355)** &mdash; fix(bottom_sheet): fix dismissal near minimum extent when shouldCloseOnMinExtent<br />
-  <sub>[#190705](https://github.com/flutter/flutter/pull/190705) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190705) 80 additions and 2 deletions in 3 files</sub><br />
+* **[Fury](https://github.com/Fury76)** &mdash; Avoid eager clipboard status checks in EditableText<br />
+  <sub>[#190707](https://github.com/flutter/flutter/pull/190707) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190707) 71 additions and 73 deletions in 7 files</sub><br />
 
