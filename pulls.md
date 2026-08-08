@@ -272,3 +272,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix CocoaPods ruby dependency for flavors_test_ios on Mac bot<br />
   <sub>[#190775](https://github.com/flutter/flutter/pull/190775) opened on on August 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190775) 4 additions and 0 deletions in 1 file</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `--no-sim-use-hardfp` flag<br />
+  <sub>[#190790](https://github.com/flutter/flutter/pull/190790) opened on on August 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190790) 0 additions and 11 deletions in 3 files</sub><br />
+
