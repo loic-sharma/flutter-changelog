@@ -216,7 +216,7 @@
   <sub>[#190677](https://github.com/flutter/flutter/pull/190677) opened on on August 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190677) 16 additions and 11 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate 5 iOS UI driver tests to Mac Simulators<br />
-  <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190679) 126 additions and 20 deletions in 10 files</sub><br />
+  <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190679) 142 additions and 20 deletions in 10 files</sub><br />
 
 * **[Stucdio Yazılım](https://github.com/stucdio)** &mdash; Document how Container.decoration and clipBehavior interact with a border<br />
   <sub>[#190682](https://github.com/flutter/flutter/pull/190682) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190682) 16 additions and 0 deletions in 1 file</sub><br />
@@ -265,4 +265,7 @@
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Update `FlutterNativeAssetsBuildRunnerImpl` to add ".exe" suffix to its `_dartExecutable` for Windows<br />
   <sub>[#190761](https://github.com/flutter/flutter/pull/190761) opened on on August 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190761) 5 additions and 1 deletion in 3 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix CocoaPods ruby dependency for flavors_test_ios on Mac bot<br />
+  <sub>[#190775](https://github.com/flutter/flutter/pull/190775) opened on on August 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190775) 4 additions and 0 deletions in 1 file</sub><br />
 
