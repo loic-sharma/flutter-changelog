@@ -254,15 +254,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Switch testing to gradle bin distribution type instead of all<br />
   <sub>[#190738](https://github.com/flutter/flutter/pull/190738) opened on on August 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190738) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CleanCommand to modular dependency injection<br />
-  <sub>[#190742](https://github.com/flutter/flutter/pull/190742) opened on on August 7, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/190742) 2037 additions and 587 deletions in 19 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate ConfigCommand to modular dependency injection<br />
-  <sub>[#190743](https://github.com/flutter/flutter/pull/190743) opened on on August 7, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/190743) 2554 additions and 794 deletions in 21 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate DoctorCommand to modular dependency injection<br />
-  <sub>[#190758](https://github.com/flutter/flutter/pull/190758) opened on on August 7, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/190758) 3626 additions and 1806 deletions in 29 files</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix web tracing flakiness on macOS ARM64<br />
   <sub>[#190759](https://github.com/flutter/flutter/pull/190759) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190759) 12 additions and 5 deletions in 1 file</sub><br />
 
@@ -274,7 +265,4 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `--no-sim-use-hardfp` flag<br />
   <sub>[#190790](https://github.com/flutter/flutter/pull/190790) opened on on August 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190790) 0 additions and 11 deletions in 3 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Complete context runner elimination and migrate AppContext usages to ToolContext<br />
-  <sub>[#190797](https://github.com/flutter/flutter/pull/190797) opened on on August 8, 2026 &mdash; **Extra large:** [22 comments](https://github.com/flutter/flutter/pull/190797) 16639 additions and 12138 deletions in 242 files</sub><br />
 

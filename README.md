@@ -53,6 +53,10 @@
   <sub>[#185945](https://github.com/flutter/flutter/pull/185945) merged on August 5, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/185945) over 3 months, 3 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Gracefully handle locked Windows files during clean<br />
+  <sub>[#190095](https://github.com/flutter/flutter/pull/190095) merged on August 4, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/190095) over 1 week, 304 additions and 59 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Move `examples/api` to `packages/flutter/examples/api` and fix CI errors<br />
   <sub>[#190481](https://github.com/flutter/flutter/pull/190481) merged on August 7, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/190481) over 3 days, 761 additions and 647 deletions in 1239 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
@@ -96,10 +100,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Switch logging from syslog to os_log<br />
   <sub>[#190595](https://github.com/flutter/flutter/pull/190595) merged on August 6, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/190595) over 20 hours, 39 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Gracefully handle locked Windows files during clean<br />
-  <sub>[#190095](https://github.com/flutter/flutter/pull/190095) merged on August 4, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/190095) over 1 week, 304 additions and 59 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: update on_message_ to nullptr after window destroy so that dart gets destroy message <br />
   <sub>[#185807](https://github.com/flutter/flutter/pull/185807) merged on August 4, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/185807) over 3 months, 112 additions and 2 deletions in 3 files</sub><br />
