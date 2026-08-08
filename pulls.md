@@ -264,7 +264,7 @@
   <sub>[#190775](https://github.com/flutter/flutter/pull/190775) opened on on August 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190775) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix Wasm build cache mismatch in ResidentWebRunner and browser 404 fallbacks<br />
-  <sub>[#190786](https://github.com/flutter/flutter/pull/190786) opened on on August 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190786) 197 additions and 5 deletions in 4 files</sub><br />
+  <sub>[#190786](https://github.com/flutter/flutter/pull/190786) opened on on August 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190786) 199 additions and 5 deletions in 4 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `--no-sim-use-hardfp` flag<br />
   <sub>[#190790](https://github.com/flutter/flutter/pull/190790) opened on on August 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190790) 0 additions and 11 deletions in 3 files</sub><br />
