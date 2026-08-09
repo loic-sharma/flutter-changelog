@@ -272,3 +272,6 @@
 * **[SamJakob](https://github.com/SamJakob)** &mdash; Fix calling `endOfStream` on a `MockStreamHandlerEventSink` causes widget tests to hang<br />
   <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190808) 39 additions and 1 deletion in 2 files</sub><br />
 
+* **[Aparin Kirill](https://github.com/kirya355)** &mdash; fix(bottom_sheet): fix dismissal near minimum extent when shouldCloseOnMinExtent- #190705<br />
+  <sub>[#190810](https://github.com/flutter/flutter/pull/190810) opened on on August 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190810) 80 additions and 2 deletions in 3 files</sub><br />
+
