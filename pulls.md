@@ -275,6 +275,3 @@
 * **[Aparin Kirill](https://github.com/kirya355)** &mdash; fix(bottom_sheet): fix dismissal near minimum extent when shouldCloseOnMinExtent- #190705<br />
   <sub>[#190810](https://github.com/flutter/flutter/pull/190810) opened on on August 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190810) 80 additions and 2 deletions in 3 files</sub><br />
 
-* **[TtangKong](https://github.com/MTtankkeo)** &mdash; Fix drag frame scheduling and reduce iOS input latency<br />
-  <sub>[#190811](https://github.com/flutter/flutter/pull/190811) opened on on August 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190811) 61 additions and 1 deletion in 3 files</sub><br />
-
