@@ -4,7 +4,11 @@
 
 ### August 8, 2026 to August 14, 2026
 
-13 commits.
+15 commits.
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Keep the keyboard up during an iOS caret drag<br />
+  <sub>[#190014](https://github.com/flutter/flutter/pull/190014) merged on August 10, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/190014) over 2 weeks, 396 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Override deployment target in CocoaPod dependencies when they're less than Xcode's minimum<br />
   <sub>[#190677](https://github.com/flutter/flutter/pull/190677) merged on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190677) over 3 days, 16 additions and 11 deletions in 2 files</sub><br />
@@ -33,6 +37,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Scenarios: Deduplicate scenario name declarations<br />
   <sub>[#190818](https://github.com/flutter/flutter/pull/190818) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190818) over 1 hour, 99 additions and 154 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Update `FlutterNativeAssetsBuildRunnerImpl` to add ".exe" suffix to its `_dartExecutable` for Windows<br />
+  <sub>[#190761](https://github.com/flutter/flutter/pull/190761) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190761) over 2 days, 5 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Support UTF-16 and UTF-8 BOM decoding in --dart-define-from-file (#190286)<br />
   <sub>[#190547](https://github.com/flutter/flutter/pull/190547) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190547) over 6 days, 159 additions and 1 deletion in 4 files</sub><br />
@@ -786,7 +794,11 @@
 
 ### August 8, 2026 to August 14, 2026
 
-2 commits.
+3 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Main example<br />
+  <sub>[#12380](https://github.com/flutter/packages/pull/12380) merged on August 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/packages/pull/12380) over 5 days, 3703 additions and 5 deletions in 61 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Alexander Dahlberg](https://github.com/Swiftaxe), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update ci for + releases<br />
   <sub>[#12419](https://github.com/flutter/packages/pull/12419) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12419) over 3 hours, 12 additions and 10 deletions in 3 files</sub><br />

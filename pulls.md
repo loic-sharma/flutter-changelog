@@ -62,6 +62,9 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 93 additions and 154 deletions in 30 files</sub><br />
 
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Fix VoiceOver child focus direction<br />
+  <sub>[#188820](https://github.com/flutter/flutter/pull/188820) opened on on July 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188820) 204 additions and 3 deletions in 3 files</sub><br />
+
 * **[AnasQasem](https://github.com/AnasQasem)** &mdash; [Impeller] Render COLR/CPAL color text as vector paths<br />
   <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
 
@@ -79,9 +82,6 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move compositor frame ownership into the view renderers<br />
   <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/189162) 492 additions and 542 deletions in 13 files</sub><br />
-
-* **[stemer515-spec](https://github.com/stemer515-spec)** &mdash; Main<br />
-  <sub>[#189294](https://github.com/flutter/flutter/pull/189294) opened on on July 10, 2026 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/189294) 23141 additions and 0 deletions in 173 files</sub><br />
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [flutter_tools] Use resolved application ID for app link settings<br />
   <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
@@ -138,7 +138,7 @@
   <sub>[#190222](https://github.com/flutter/flutter/pull/190222) opened on on July 29, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190222) 1254 additions and 105 deletions in 19 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Report individual test results to LUCI ResultDB<br />
-  <sub>[#190254](https://github.com/flutter/flutter/pull/190254) opened on on July 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190254) 879 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#190254](https://github.com/flutter/flutter/pull/190254) opened on on July 29, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190254) 879 additions and 0 deletions in 4 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix 1px edge clipping on Platform Views by preserving floating-point precision where possible and rounding otherwise instead of truncating<br />
   <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
@@ -198,7 +198,7 @@
   <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190679) 142 additions and 20 deletions in 10 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started caching text shadows by content.<br />
-  <sub>[#190681](https://github.com/flutter/flutter/pull/190681) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190681) 200 additions and 25 deletions in 6 files</sub><br />
+  <sub>[#190681](https://github.com/flutter/flutter/pull/190681) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190681) 233 additions and 39 deletions in 7 files</sub><br />
 
 * **[Stucdio Yazılım](https://github.com/stucdio)** &mdash; Document how Container.decoration and clipBehavior interact with a border<br />
   <sub>[#190682](https://github.com/flutter/flutter/pull/190682) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190682) 16 additions and 0 deletions in 1 file</sub><br />
@@ -252,13 +252,10 @@
   <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190857) 62 additions and 5 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds benchmark for windows shadow text.<br />
-  <sub>[#190861](https://github.com/flutter/flutter/pull/190861) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190861) 197 additions and 0 deletions in 8 files</sub><br />
+  <sub>[#190861](https://github.com/flutter/flutter/pull/190861) opened on on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190861) 197 additions and 0 deletions in 8 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; [Windows] fix: Remove quotes from compiler warning suppression<br />
   <sub>[#190873](https://github.com/flutter/flutter/pull/190873) opened on on August 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190873) 19 additions and 19 deletions in 19 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix package URI resolution in --experimental-faster-testing<br />
-  <sub>[#190875](https://github.com/flutter/flutter/pull/190875) opened on on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190875) 11 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add --preset option to flutter test<br />
   <sub>[#190878](https://github.com/flutter/flutter/pull/190878) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190878) 58 additions and 0 deletions in 3 files</sub><br />
@@ -271,4 +268,7 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable gradle_dists cache on single Windows target<br />
   <sub>[#190885](https://github.com/flutter/flutter/pull/190885) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190885) 2 additions and 1 deletion in 1 file</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Always update swift package dependencies<br />
+  <sub>[#190886](https://github.com/flutter/flutter/pull/190886) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190886) 15 additions and 28 deletions in 8 files</sub><br />
 
