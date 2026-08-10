@@ -924,9 +924,18 @@
 
 ## flutter/website
 
+### August 8, 2026 to August 14, 2026
+
+1 commits.
+
+* **[Jess K](https://github.com/jesskuras)** &mdash; Remove unavailable YouTube video embed from iOS Add-to-App docs
+  <sub>[#13703](https://github.com/flutter/website/pull/13703) merged on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13703) over 25 minutes, 0 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### August 1, 2026 to August 7, 2026
 
-17 commits.
+<details>
+<summary>17 commits...</summary>
 
 * **[Connie Ooi ](https://github.com/conooi)** &mdash; Flutter q2 survey blog
   <sub>[#13688](https://github.com/flutter/website/pull/13688) merged on August 6, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/website/pull/13688) over 4 hours, 349 additions and 0 deletions in 5 files</sub>
@@ -995,6 +1004,8 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Add redirect for android-local-area-permission
   <sub>[#13664](https://github.com/flutter/website/pull/13664) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13664) over 10 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### July 25, 2026 to July 31, 2026
 

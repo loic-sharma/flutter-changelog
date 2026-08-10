@@ -75,7 +75,7 @@
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add batch3 a11y_assessment for vpat<br />
-  <sub>[#189042](https://github.com/flutter/flutter/pull/189042) opened on on July 7, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/189042) 1102 additions and 1 deletion in 18 files</sub><br />
+  <sub>[#189042](https://github.com/flutter/flutter/pull/189042) opened on on July 7, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/189042) 777 additions and 8 deletions in 15 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
@@ -126,7 +126,7 @@
   <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Adjust settings header name for properties that apply to both tooltips and popups<br />
-  <sub>[#190053](https://github.com/flutter/flutter/pull/190053) opened on on July 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190053) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#190053](https://github.com/flutter/flutter/pull/190053) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190053) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Lavanbarath B](https://github.com/lavan8t)** &mdash; fix(logger): preserve Unicode check and cross symbols in log output<br />
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
@@ -135,7 +135,7 @@
   <sub>[#190119](https://github.com/flutter/flutter/pull/190119) opened on on July 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190119) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Never use a header bar in the Linux application template<br />
-  <sub>[#190120](https://github.com/flutter/flutter/pull/190120) opened on on July 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190120) 11 additions and 30 deletions in 1 file</sub><br />
+  <sub>[#190120](https://github.com/flutter/flutter/pull/190120) opened on on July 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190120) 11 additions and 30 deletions in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Inject command line flags into manifest in release mode when not running pre-built binary<br />
   <sub>[#190222](https://github.com/flutter/flutter/pull/190222) opened on on July 29, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190222) 1254 additions and 105 deletions in 19 files</sub><br />
@@ -227,11 +227,8 @@
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Start directional focus traversal from the innermost focused node<br />
   <sub>[#190730](https://github.com/flutter/flutter/pull/190730) opened on on August 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190730) 99 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Setup Pub Workspace and package structure for flutter_tools sub-packages<br />
-  <sub>[#190733](https://github.com/flutter/flutter/pull/190733) opened on on August 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190733) 179 additions and 1 deletion in 9 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement generic extension protocol base and isolate runner<br />
-  <sub>[#190734](https://github.com/flutter/flutter/pull/190734) opened on on August 7, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190734) 710 additions and 2 deletions in 21 files</sub><br />
+  <sub>[#190734](https://github.com/flutter/flutter/pull/190734) opened on on August 7, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190734) 805 additions and 2 deletions in 21 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Switch testing to gradle bin distribution type instead of all<br />
   <sub>[#190738](https://github.com/flutter/flutter/pull/190738) opened on on August 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190738) 2 additions and 2 deletions in 2 files</sub><br />
@@ -260,12 +257,12 @@
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [input] Migrate fuchsia.ui.pointerinjector to TouchSource<br />
   <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190855) 1 addition and 1364 deletions in 18 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Toggleable reaction respects overrides<br />
-  <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190857) 73 additions and 5 deletions in 2 files</sub><br />
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Scope the mobile semantics placeholder to its view<br />
+  <sub>[#190856](https://github.com/flutter/flutter/pull/190856) opened on on August 10, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190856) 538 additions and 98 deletions in 8 files</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Toggleable reaction duration respects overrides<br />
+  <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190857) 62 additions and 5 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds benchmark for windows shadow text.<br />
   <sub>[#190861](https://github.com/flutter/flutter/pull/190861) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190861) 196 additions and 0 deletions in 7 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [flutter-3.47-candidate.0] Update Flutter DEPS to Dart da6595cd6bb5d4c0a185d759a025e879ff06e631<br />
-  <sub>[#190863](https://github.com/flutter/flutter/pull/190863) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190863) 1 addition and 1 deletion in 1 file</sub><br />
 
