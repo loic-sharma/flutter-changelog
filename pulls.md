@@ -209,11 +209,11 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [tool] Add missing play element in web test index.html to fix warning<br />
   <sub>[#190675](https://github.com/flutter/flutter/pull/190675) opened on on August 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190675) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Override deployment target in CocoaPod dependencies when they're less than Xcode's minimum<br />
-  <sub>[#190677](https://github.com/flutter/flutter/pull/190677) opened on on August 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190677) 16 additions and 11 deletions in 2 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate 5 iOS UI driver tests to Mac Simulators<br />
   <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190679) 142 additions and 20 deletions in 10 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started caching text shadows by content.<br />
+  <sub>[#190681](https://github.com/flutter/flutter/pull/190681) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190681) 206 additions and 20 deletions in 6 files</sub><br />
 
 * **[Stucdio Yazılım](https://github.com/stucdio)** &mdash; Document how Container.decoration and clipBehavior interact with a border<br />
   <sub>[#190682](https://github.com/flutter/flutter/pull/190682) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190682) 16 additions and 0 deletions in 1 file</sub><br />
@@ -223,9 +223,6 @@
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Fix focusNode listener mismatch in didUpdateWidget/dispose<br />
   <sub>[#190686](https://github.com/flutter/flutter/pull/190686) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190686) 53 additions and 3 deletions in 2 files</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Anchor package version extraction regex in Wasm dry-run<br />
-  <sub>[#190691](https://github.com/flutter/flutter/pull/190691) opened on on August 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190691) 118 additions and 5 deletions in 2 files</sub><br />
 
 * **[Fury](https://github.com/Fury76)** &mdash; Avoid eager clipboard status checks in EditableText<br />
   <sub>[#190707](https://github.com/flutter/flutter/pull/190707) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190707) 71 additions and 73 deletions in 7 files</sub><br />
@@ -244,6 +241,9 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement generic extension protocol base and isolate runner<br />
   <sub>[#190734](https://github.com/flutter/flutter/pull/190734) opened on on August 7, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190734) 710 additions and 2 deletions in 21 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [iOS][add2app] Skip building SwiftPM plugins when generating CocoaPods artifacts<br />
+  <sub>[#190736](https://github.com/flutter/flutter/pull/190736) opened on on August 7, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/190736) 244 additions and 245 deletions in 6 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Switch testing to gradle bin distribution type instead of all<br />
   <sub>[#190738](https://github.com/flutter/flutter/pull/190738) opened on on August 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190738) 2 additions and 2 deletions in 2 files</sub><br />
@@ -271,4 +271,7 @@
 
 * **[William Yang](https://github.com/wilyan09007)** &mdash; [native_assets] Record bundled code assets under their install name<br />
   <sub>[#190819](https://github.com/flutter/flutter/pull/190819) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190819) 151 additions and 22 deletions in 8 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Override deployment target in CocoaPod dependencies when they're less than Xcode's minimum<br />
+  <sub>[#190852](https://github.com/flutter/flutter/pull/190852) opened on on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190852) 16 additions and 11 deletions in 2 files</sub><br />
 

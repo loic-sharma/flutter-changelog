@@ -4,7 +4,11 @@
 
 ### August 8, 2026 to August 14, 2026
 
-5 commits.
+7 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Override deployment target in CocoaPod dependencies when they're less than Xcode's minimum
+  <sub>[#190677](https://github.com/flutter/flutter/pull/190677) merged on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190677) over 3 days, 16 additions and 11 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix flake when backgrounding platform views
   <sub>[#190816](https://github.com/flutter/flutter/pull/190816) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190816) over 5 hours, 3 additions and 1 deletion in 1 file</sub>
@@ -17,6 +21,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Scenarios: Deduplicate scenario name declarations
   <sub>[#190818](https://github.com/flutter/flutter/pull/190818) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190818) over 1 hour, 99 additions and 154 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Anchor package version extraction regex in Wasm dry-run
+  <sub>[#190691](https://github.com/flutter/flutter/pull/190691) merged on August 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190691) over 3 days, 118 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Nate Biggs](https://github.com/biggs0125)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes popuntilwithresult drops results
   <sub>[#190596](https://github.com/flutter/flutter/pull/190596) merged on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190596) over 5 days, 138 additions and 69 deletions in 2 files</sub>
