@@ -4,7 +4,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-3 commits.
+4 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix flake when backgrounding platform views<br />
   <sub>[#190816](https://github.com/flutter/flutter/pull/190816) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190816) over 5 hours, 3 additions and 1 deletion in 1 file</sub><br />
@@ -17,6 +17,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Scenarios: Deduplicate scenario name declarations<br />
   <sub>[#190818](https://github.com/flutter/flutter/pull/190818) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190818) over 1 hour, 99 additions and 154 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [cross imports] flutter/test/widgets/app_test.dart, flutter/test/widgets/inherited_test.dart, flutter_test/test/accessibility_window_test.dart<br />
+  <sub>[#190650](https://github.com/flutter/flutter/pull/190650) merged on August 10, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/190650) over 3 days, 266 additions and 92 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 ### August 1, 2026 to August 7, 2026
 
