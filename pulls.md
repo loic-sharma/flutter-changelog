@@ -275,3 +275,6 @@
 * **[Aparin Kirill](https://github.com/kirya355)** &mdash; fix(bottom_sheet): fix dismissal near minimum extent when shouldCloseOnMinExtent- #190705<br />
   <sub>[#190810](https://github.com/flutter/flutter/pull/190810) opened on on August 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190810) 80 additions and 2 deletions in 3 files</sub><br />
 
+* **[William Yang](https://github.com/wilyan09007)** &mdash; [native_assets] Record bundled code assets under their install name<br />
+  <sub>[#190819](https://github.com/flutter/flutter/pull/190819) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190819) 151 additions and 22 deletions in 8 files</sub><br />
+
