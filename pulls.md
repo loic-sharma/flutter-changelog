@@ -75,19 +75,19 @@
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add batch3 a11y_assessment for vpat<br />
-  <sub>[#189042](https://github.com/flutter/flutter/pull/189042) opened on on July 7, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/189042) 1117 additions and 6 deletions in 19 files</sub><br />
+  <sub>[#189042](https://github.com/flutter/flutter/pull/189042) opened on on July 7, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/189042) 1215 additions and 6 deletions in 21 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move compositor frame ownership into the view renderers<br />
-  <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/189162) 492 additions and 542 deletions in 13 files</sub><br />
+  <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/189162) 492 additions and 542 deletions in 13 files</sub><br />
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [flutter_tools] Use resolved application ID for app link settings<br />
   <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
 
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Wait for web rendering before first-frame event<br />
-  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/189500) 254 additions and 17 deletions in 3 files</sub><br />
+  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/189500) 254 additions and 17 deletions in 3 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; fix: Apply reversed axis flip by macOS on Web when scroll with modifier keys<br />
   <sub>[#189506](https://github.com/flutter/flutter/pull/189506) opened on on July 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189506) 122 additions and 8 deletions in 5 files</sub><br />
@@ -122,17 +122,11 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve initial size and placement logic for popups and tooltips on Linux<br />
   <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Adjust settings header name for properties that apply to both tooltips and popups<br />
-  <sub>[#190053](https://github.com/flutter/flutter/pull/190053) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190053) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Lavanbarath B](https://github.com/lavan8t)** &mdash; fix(logger): preserve Unicode check and cross symbols in log output<br />
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add clang, cmake, and ninja deps to Linux windowing_test<br />
   <sub>[#190119](https://github.com/flutter/flutter/pull/190119) opened on on July 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190119) 6 additions and 0 deletions in 1 file</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Never use a header bar in the Linux application template<br />
-  <sub>[#190120](https://github.com/flutter/flutter/pull/190120) opened on on July 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190120) 11 additions and 30 deletions in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Inject command line flags into manifest in release mode when not running pre-built binary<br />
   <sub>[#190222](https://github.com/flutter/flutter/pull/190222) opened on on July 29, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190222) 1254 additions and 105 deletions in 19 files</sub><br />
@@ -198,7 +192,7 @@
   <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190679) 142 additions and 20 deletions in 10 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started caching text shadows by content.<br />
-  <sub>[#190681](https://github.com/flutter/flutter/pull/190681) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190681) 233 additions and 39 deletions in 7 files</sub><br />
+  <sub>[#190681](https://github.com/flutter/flutter/pull/190681) opened on on August 6, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/190681) 271 additions and 39 deletions in 7 files</sub><br />
 
 * **[Stucdio Yazılım](https://github.com/stucdio)** &mdash; Document how Container.decoration and clipBehavior interact with a border<br />
   <sub>[#190682](https://github.com/flutter/flutter/pull/190682) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190682) 16 additions and 0 deletions in 1 file</sub><br />

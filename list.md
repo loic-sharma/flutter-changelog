@@ -4,11 +4,15 @@
 
 ### August 8, 2026 to August 14, 2026
 
-15 commits.
+16 commits.
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Keep the keyboard up during an iOS caret drag
   <sub>[#190014](https://github.com/flutter/flutter/pull/190014) merged on August 10, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/190014) over 2 weeks, 396 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Make Xcode workspace cleaning optional during flutter clean
+  <sub>[#190091](https://github.com/flutter/flutter/pull/190091) merged on August 10, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/190091) over 1 week, 46 additions and 11 deletions in 5 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Override deployment target in CocoaPod dependencies when they're less than Xcode's minimum
   <sub>[#190677](https://github.com/flutter/flutter/pull/190677) merged on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190677) over 3 days, 16 additions and 11 deletions in 2 files</sub>
