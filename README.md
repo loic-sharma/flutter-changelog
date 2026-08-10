@@ -4,7 +4,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-4 commits.
+5 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix flake when backgrounding platform views<br />
   <sub>[#190816](https://github.com/flutter/flutter/pull/190816) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190816) over 5 hours, 3 additions and 1 deletion in 1 file</sub><br />
@@ -17,6 +17,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Scenarios: Deduplicate scenario name declarations<br />
   <sub>[#190818](https://github.com/flutter/flutter/pull/190818) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190818) over 1 hour, 99 additions and 154 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes popuntilwithresult drops results<br />
+  <sub>[#190596](https://github.com/flutter/flutter/pull/190596) merged on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190596) over 5 days, 138 additions and 69 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [cross imports] flutter/test/widgets/app_test.dart, flutter/test/widgets/inherited_test.dart, flutter_test/test/accessibility_window_test.dart<br />
   <sub>[#190650](https://github.com/flutter/flutter/pull/190650) merged on August 10, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/190650) over 3 days, 266 additions and 92 deletions in 6 files</sub><br />
@@ -748,9 +752,18 @@
 
 ## flutter/packages
 
+### August 8, 2026 to August 14, 2026
+
+1 commits.
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [camera]fix test flake due to expectation fulfilled before flag is toggled<br />
+  <sub>[#12400](https://github.com/flutter/packages/pull/12400) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12400) over 2 days, 9 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
 ### August 1, 2026 to August 7, 2026
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix video recording after backgrounding app<br />
   <sub>[#12145](https://github.com/flutter/packages/pull/12145) merged on August 4, 2026 &mdash; **Small:** [48 comments](https://github.com/flutter/packages/pull/12145) over 3 weeks, 62 additions and 1 deletion in 5 files</sub><br />
@@ -811,6 +824,8 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-material_ui-0.0.2 to main<br />
   <sub>[#12268](https://github.com/flutter/packages/pull/12268) merged on August 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12268) over 1 week, 10 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+</details>
 
 ### July 25, 2026 to July 31, 2026
 

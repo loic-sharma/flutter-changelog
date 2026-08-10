@@ -255,7 +255,7 @@
   <sub>[#190761](https://github.com/flutter/flutter/pull/190761) opened on on August 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190761) 5 additions and 1 deletion in 3 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix CocoaPods ruby dependency for flavors_test_ios on Mac bot<br />
-  <sub>[#190775](https://github.com/flutter/flutter/pull/190775) opened on on August 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190775) 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#190775](https://github.com/flutter/flutter/pull/190775) opened on on August 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190775) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix Wasm build cache mismatch in ResidentWebRunner and browser 404 fallbacks<br />
   <sub>[#190786](https://github.com/flutter/flutter/pull/190786) opened on on August 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190786) 199 additions and 5 deletions in 4 files</sub><br />
