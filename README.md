@@ -4,11 +4,19 @@
 
 ### August 8, 2026 to August 14, 2026
 
-10 commits.
+13 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Override deployment target in CocoaPod dependencies when they're less than Xcode's minimum<br />
   <sub>[#190677](https://github.com/flutter/flutter/pull/190677) merged on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190677) over 3 days, 16 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Use JSON_INPUT COMPILE_EXPRESSION for expression evaluation<br />
+  <sub>[#190722](https://github.com/flutter/flutter/pull/190722) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190722) over 3 days, 154 additions and 57 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Refactor `flutter_view` example to not use `material`<br />
+  <sub>[#190377](https://github.com/flutter/flutter/pull/190377) merged on August 10, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/190377) over 1 week, 147 additions and 24 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; ci: Extract shared expected calls in prepare_package tests<br />
   <sub>[#190817](https://github.com/flutter/flutter/pull/190817) merged on August 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190817) over 15 hours, 47 additions and 130 deletions in 1 file</sub><br />
@@ -25,6 +33,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Scenarios: Deduplicate scenario name declarations<br />
   <sub>[#190818](https://github.com/flutter/flutter/pull/190818) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190818) over 1 hour, 99 additions and 154 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Support UTF-16 and UTF-8 BOM decoding in --dart-define-from-file (#190286)<br />
+  <sub>[#190547](https://github.com/flutter/flutter/pull/190547) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190547) over 6 days, 159 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix CocoaPods ruby dependency for flavors_test_ios on Mac bot<br />
   <sub>[#190775](https://github.com/flutter/flutter/pull/190775) merged on August 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190775) over 2 days, 4 additions and 0 deletions in 1 file</sub><br />
@@ -942,7 +954,15 @@
 
 ### August 8, 2026 to August 14, 2026
 
-1 commits.
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add tentative version of 3.47 release notes<br />
+  <sub>[#13681](https://github.com/flutter/website/pull/13681) merged on August 10, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/website/pull/13681) over 5 days, 997 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking changes for 3.47<br />
+  <sub>[#13689](https://github.com/flutter/website/pull/13689) merged on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13689) over 4 days, 39 additions and 30 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Jess K](https://github.com/jesskuras)** &mdash; Remove unavailable YouTube video embed from iOS Add-to-App docs<br />
   <sub>[#13703](https://github.com/flutter/website/pull/13703) merged on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13703) over 25 minutes, 0 additions and 7 deletions in 1 file</sub><br />
