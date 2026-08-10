@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -122,9 +122,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Cp beta c3f6236f61f5650c315cd21da8bc58bb66f77a5f<br />
   <sub>[#189947](https://github.com/flutter/flutter/pull/189947) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189947) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Warn when unable to find iOS Device Support Symbols<br />
-  <sub>[#189993](https://github.com/flutter/flutter/pull/189993) opened on on July 24, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/189993) 1399 additions and 54 deletions in 14 files</sub><br />
-
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve initial size and placement logic for popups and tooltips on Linux<br />
   <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
 
@@ -187,9 +184,6 @@
 
 * **[Amaan Ansari](https://github.com/amaan-0331)** &mdash; [Android] Guard PlatformViewsController2.onEndFrame against a detached FlutterView<br />
   <sub>[#190612](https://github.com/flutter/flutter/pull/190612) opened on on August 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190612) 53 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Deduplicate fixture builders in build_swift_package_test.dart<br />
-  <sub>[#190624](https://github.com/flutter/flutter/pull/190624) opened on on August 5, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/190624) 83 additions and 231 deletions in 1 file</sub><br />
 
 * **[Matheus Dias](https://github.com/Mathvdias)** &mdash; feat(flutter_test): add startHover and startHoverAt helper to WidgetTester<br />
   <sub>[#190630](https://github.com/flutter/flutter/pull/190630) opened on on August 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190630) 95 additions and 0 deletions in 3 files</sub><br />
