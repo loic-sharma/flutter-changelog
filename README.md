@@ -4,11 +4,15 @@
 
 ### August 8, 2026 to August 14, 2026
 
-8 commits.
+10 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Override deployment target in CocoaPod dependencies when they're less than Xcode's minimum<br />
   <sub>[#190677](https://github.com/flutter/flutter/pull/190677) merged on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190677) over 3 days, 16 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; ci: Extract shared expected calls in prepare_package tests<br />
+  <sub>[#190817](https://github.com/flutter/flutter/pull/190817) merged on August 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190817) over 15 hours, 47 additions and 130 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix flake when backgrounding platform views<br />
   <sub>[#190816](https://github.com/flutter/flutter/pull/190816) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190816) over 5 hours, 3 additions and 1 deletion in 1 file</sub><br />
@@ -21,6 +25,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Scenarios: Deduplicate scenario name declarations<br />
   <sub>[#190818](https://github.com/flutter/flutter/pull/190818) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190818) over 1 hour, 99 additions and 154 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix CocoaPods ruby dependency for flavors_test_ios on Mac bot<br />
+  <sub>[#190775](https://github.com/flutter/flutter/pull/190775) merged on August 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190775) over 2 days, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update packages gardener instructions<br />
   <sub>[#190463](https://github.com/flutter/flutter/pull/190463) merged on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190463) over 6 days, 51 additions and 16 deletions in 2 files</sub><br />
