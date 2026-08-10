@@ -87,7 +87,7 @@
   <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
 
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Wait for web rendering before first-frame event<br />
-  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/189500) 254 additions and 17 deletions in 3 files</sub><br />
+  <sub>[#189500](https://github.com/flutter/flutter/pull/189500) opened on on July 15, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/189500) 254 additions and 17 deletions in 3 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; fix: Apply reversed axis flip by macOS on Web when scroll with modifier keys<br />
   <sub>[#189506](https://github.com/flutter/flutter/pull/189506) opened on on July 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189506) 122 additions and 8 deletions in 5 files</sub><br />

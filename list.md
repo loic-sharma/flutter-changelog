@@ -4,7 +4,11 @@
 
 ### August 8, 2026 to August 14, 2026
 
-16 commits.
+19 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Never use a header bar in the Linux application template
+  <sub>[#190120](https://github.com/flutter/flutter/pull/190120) merged on August 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190120) over 1 week, 11 additions and 30 deletions in 1 file</sub>
+  <sub>Reviewed by: [CodeDoctor](https://github.com/CodeDoctorDE), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Keep the keyboard up during an iOS caret drag
   <sub>[#190014](https://github.com/flutter/flutter/pull/190014) merged on August 10, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/190014) over 2 weeks, 396 additions and 2 deletions in 4 files</sub>
@@ -17,6 +21,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Override deployment target in CocoaPod dependencies when they're less than Xcode's minimum
   <sub>[#190677](https://github.com/flutter/flutter/pull/190677) merged on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190677) over 3 days, 16 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove `platforms` key from flutter daemon
+  <sub>[#190631](https://github.com/flutter/flutter/pull/190631) merged on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190631) over 4 days, 1 addition and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Use JSON_INPUT COMPILE_EXPRESSION for expression evaluation
   <sub>[#190722](https://github.com/flutter/flutter/pull/190722) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190722) over 3 days, 154 additions and 57 deletions in 2 files</sub>
@@ -41,6 +49,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Scenarios: Deduplicate scenario name declarations
   <sub>[#190818](https://github.com/flutter/flutter/pull/190818) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190818) over 1 hour, 99 additions and 154 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Adjust settings header name for properties that apply to both tooltips and popups
+  <sub>[#190053](https://github.com/flutter/flutter/pull/190053) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190053) over 2 weeks, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Update `FlutterNativeAssetsBuildRunnerImpl` to add ".exe" suffix to its `_dartExecutable` for Windows
   <sub>[#190761](https://github.com/flutter/flutter/pull/190761) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190761) over 2 days, 5 additions and 1 deletion in 3 files</sub>
