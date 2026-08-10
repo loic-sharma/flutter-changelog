@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 8, 2026 to August 14, 2026
+
+1 commits.
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Scenarios: Deduplicate scenario name declarations<br />
+  <sub>[#190818](https://github.com/flutter/flutter/pull/190818) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190818) over 1 hour, 99 additions and 154 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 ### August 1, 2026 to August 7, 2026
 
-103 commits.
+<details>
+<summary>103 commits...</summary>
 
 * **[matheusccastro](https://github.com/matheusccastroo)** &mdash; Pass web-defines to the web builder in all run configurations<br />
   <sub>[#189622](https://github.com/flutter/flutter/pull/189622) merged on August 7, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/189622) over 3 weeks, 408 additions and 0 deletions in 10 files</sub><br />
@@ -420,6 +429,8 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; reland(tool): remove redundant --enable-experiment=record-use flag<br />
   <sub>[#190591](https://github.com/flutter/flutter/pull/190591) merged on August 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190591) over 1 hour, 2 additions and 11 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+</details>
 
 ### July 25, 2026 to July 31, 2026
 
