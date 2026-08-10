@@ -111,7 +111,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette), [Navaron Bracke](https://github.com/navaronbracke), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Migrate IconTreeShaker to `package:record_use`<br />
-  <sub>[#190225](https://github.com/flutter/flutter/pull/190225) merged on August 4, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/190225) over 5 days, 689 additions and 233 deletions in 12 files</sub><br />
+  <sub>[#190225](https://github.com/flutter/flutter/pull/190225) merged on August 4, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/190225) over 5 days, 689 additions and 233 deletions in 12 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Bumps text gamma on windows to match skia.<br />
