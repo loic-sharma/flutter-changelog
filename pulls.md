@@ -240,7 +240,7 @@
   <sub>[#190856](https://github.com/flutter/flutter/pull/190856) opened on on August 10, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190856) 538 additions and 98 deletions in 8 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Toggleable reaction duration respects overrides<br />
-  <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190857) 62 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190857) 62 additions and 5 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; [Windows] fix: Remove quotes from compiler warning suppression<br />
   <sub>[#190873](https://github.com/flutter/flutter/pull/190873) opened on on August 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190873) 19 additions and 19 deletions in 19 files</sub><br />
