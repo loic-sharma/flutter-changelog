@@ -269,3 +269,6 @@
 * **[William Yang](https://github.com/wilyan09007)** &mdash; Don't set the Android platform view offset before it is laid out<br />
   <sub>[#190895](https://github.com/flutter/flutter/pull/190895) opened on on August 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190895) 41 additions and 2 deletions in 3 files</sub><br />
 
+* **[Space3044](https://github.com/Space3044)** &mdash; [Windows] Avoid null parent dereference in AccessibilityBridge<br />
+  <sub>[#190903](https://github.com/flutter/flutter/pull/190903) opened on on August 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190903) 34 additions and 5 deletions in 2 files</sub><br />
+
