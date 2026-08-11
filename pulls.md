@@ -245,9 +245,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; [Windows] fix: Remove quotes from compiler warning suppression<br />
   <sub>[#190873](https://github.com/flutter/flutter/pull/190873) opened on on August 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190873) 19 additions and 19 deletions in 19 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add --preset option to flutter test<br />
-  <sub>[#190878](https://github.com/flutter/flutter/pull/190878) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190878) 58 additions and 0 deletions in 3 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [devicelab] Remove orphaned screenshot test files<br />
   <sub>[#190879](https://github.com/flutter/flutter/pull/190879) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190879) 0 additions and 107 deletions in 5 files</sub><br />
 
@@ -283,4 +280,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Wire dependency injection into runner and executable with required non-nullable contexts<br />
   <sub>[#190922](https://github.com/flutter/flutter/pull/190922) opened on on August 11, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/190922) 1952 additions and 242 deletions in 14 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert: [web] Keep the keyboard up during an iOS caret drag<br />
+  <sub>[#190926](https://github.com/flutter/flutter/pull/190926) opened on on August 11, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/190926) 2 additions and 396 deletions in 4 files</sub><br />
 

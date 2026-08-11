@@ -11,7 +11,7 @@
   <sub>Reviewed by: [CodeDoctor](https://github.com/CodeDoctorDE), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Keep the keyboard up during an iOS caret drag<br />
-  <sub>[#190014](https://github.com/flutter/flutter/pull/190014) merged on August 10, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/190014) over 2 weeks, 396 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#190014](https://github.com/flutter/flutter/pull/190014) merged on August 10, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/190014) over 2 weeks, 396 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Remove manual Safari fallback for unhandled universal links<br />
@@ -866,7 +866,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-3 commits.
+5 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Main example<br />
   <sub>[#12380](https://github.com/flutter/packages/pull/12380) merged on August 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/packages/pull/12380) over 5 days, 3703 additions and 5 deletions in 61 files</sub><br />
@@ -876,9 +876,17 @@
   <sub>[#12419](https://github.com/flutter/packages/pull/12419) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12419) over 3 hours, 12 additions and 10 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Inline error ignores in analysis_options<br />
+  <sub>[#12430](https://github.com/flutter/packages/pull/12430) merged on August 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12430) over 2 hours, 26 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [camera]fix test flake due to expectation fulfilled before flag is toggled<br />
   <sub>[#12400](https://github.com/flutter/packages/pull/12400) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12400) over 2 days, 9 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-cupertino_ui-0.0.3+1 to main<br />
+  <sub>[#12426](https://github.com/flutter/packages/pull/12426) merged on August 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12426) over 17 hours, 5 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 ### August 1, 2026 to August 7, 2026
 
