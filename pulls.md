@@ -278,3 +278,9 @@
 * **[byshy](https://github.com/byshy)** &mdash; Use ColorScheme.scrim for modal barrier/scrim defaults<br />
   <sub>[#190911](https://github.com/flutter/flutter/pull/190911) opened on on August 11, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190911) 569 additions and 14 deletions in 7 files</sub><br />
 
+* **[TtangKong](https://github.com/MTtankkeo)** &mdash; Reduce iOS pointer latency by dispatching pending input before BeginFrame<br />
+  <sub>[#190918](https://github.com/flutter/flutter/pull/190918) opened on on August 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/190918) 381 additions and 72 deletions in 9 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Wire dependency injection into runner and executable with required non-nullable contexts<br />
+  <sub>[#190922](https://github.com/flutter/flutter/pull/190922) opened on on August 11, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/190922) 1952 additions and 242 deletions in 14 files</sub><br />
+
