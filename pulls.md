@@ -275,3 +275,6 @@
 * **[Suraj Singh](https://github.com/surajgju)** &mdash; Fix PrimaryScrollController attached to multiple scroll views in TabBarView keep-alive tabs (#81152)<br />
   <sub>[#190904](https://github.com/flutter/flutter/pull/190904) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190904) 93 additions and 3 deletions in 2 files</sub><br />
 
+* **[byshy](https://github.com/byshy)** &mdash; Use ColorScheme.scrim for modal barrier/scrim defaults<br />
+  <sub>[#190911](https://github.com/flutter/flutter/pull/190911) opened on on August 11, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190911) 569 additions and 14 deletions in 7 files</sub><br />
+
