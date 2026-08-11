@@ -59,9 +59,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change package name: `android_hardware_smoke_test` -> `androidhardwaresmoketest`<br />
   <sub>[#188807](https://github.com/flutter/flutter/pull/188807) opened on on June 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/188807) 93 additions and 154 deletions in 30 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Fix VoiceOver child focus direction<br />
-  <sub>[#188820](https://github.com/flutter/flutter/pull/188820) opened on on July 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188820) 204 additions and 3 deletions in 3 files</sub><br />
-
 * **[AnasQasem](https://github.com/AnasQasem)** &mdash; [Impeller] Render COLR/CPAL color text as vector paths<br />
   <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
 
@@ -204,7 +201,7 @@
   <sub>[#190730](https://github.com/flutter/flutter/pull/190730) opened on on August 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190730) 99 additions and 0 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Switch testing to gradle bin distribution type instead of all<br />
-  <sub>[#190738](https://github.com/flutter/flutter/pull/190738) opened on on August 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190738) 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#190738](https://github.com/flutter/flutter/pull/190738) opened on on August 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190738) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix web tracing flakiness on macOS ARM64<br />
   <sub>[#190759](https://github.com/flutter/flutter/pull/190759) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190759) 12 additions and 5 deletions in 1 file</sub><br />
@@ -227,9 +224,6 @@
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [input] Migrate fuchsia.ui.pointerinjector to TouchSource<br />
   <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190855) 1 addition and 1378 deletions in 19 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Scope the mobile semantics placeholder to its view<br />
-  <sub>[#190856](https://github.com/flutter/flutter/pull/190856) opened on on August 10, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190856) 538 additions and 98 deletions in 8 files</sub><br />
-
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Toggleable reaction duration respects overrides<br />
   <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190857) 72 additions and 5 deletions in 2 files</sub><br />
 
@@ -246,7 +240,7 @@
   <sub>[#190885](https://github.com/flutter/flutter/pull/190885) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190885) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Always update swift package dependencies<br />
-  <sub>[#190886](https://github.com/flutter/flutter/pull/190886) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190886) 15 additions and 28 deletions in 8 files</sub><br />
+  <sub>[#190886](https://github.com/flutter/flutter/pull/190886) opened on on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190886) 15 additions and 28 deletions in 8 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; RawTooltip respects AnimationStyle updates and reverseCurve<br />
   <sub>[#190889](https://github.com/flutter/flutter/pull/190889) opened on on August 11, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190889) 497 additions and 4 deletions in 2 files</sub><br />
@@ -288,10 +282,7 @@
   <sub>[#190936](https://github.com/flutter/flutter/pull/190936) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190936) 4 additions and 5 deletions in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup for flavors test<br />
-  <sub>[#190940](https://github.com/flutter/flutter/pull/190940) opened on on August 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190940) 0 additions and 1 deletion in 1 file</sub><br />
-
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Removes building of ci/android_debug_x86 as nobody should be consuming it.<br />
-  <sub>[#190951](https://github.com/flutter/flutter/pull/190951) opened on on August 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190951) 0 additions and 45 deletions in 2 files</sub><br />
+  <sub>[#190940](https://github.com/flutter/flutter/pull/190940) opened on on August 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190940) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve workspace root when running widget preview from member package<br />
   <sub>[#190952](https://github.com/flutter/flutter/pull/190952) opened on on August 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190952) 174 additions and 9 deletions in 4 files</sub><br />

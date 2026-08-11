@@ -902,11 +902,15 @@
 
 ### August 8, 2026 to August 14, 2026
 
-6 commits.
+7 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] : Add video track selection support for Android and iOS<br />
   <sub>[#10688](https://github.com/flutter/packages/pull/10688) merged on August 11, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10688) over 7 months, 767 additions and 3 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu), [hellohuanlin](https://github.com/hellohuanlin), [Camille Simon](https://github.com/camsim99), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Piyush Anand](https://github.com/creatorpiyush)** &mdash; [webview_flutter_android] Set support for web authentication<br />
+  <sub>[#11681](https://github.com/flutter/packages/pull/11681) merged on August 11, 2026 &mdash; **Medium:** [35 comments](https://github.com/flutter/packages/pull/11681) over 3 months, 497 additions and 1 deletion in 15 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [cupertino_ui] Main example<br />
   <sub>[#12380](https://github.com/flutter/packages/pull/12380) merged on August 10, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/packages/pull/12380) over 5 days, 3703 additions and 5 deletions in 61 files</sub><br />
@@ -1086,7 +1090,11 @@
 
 ### August 8, 2026 to August 14, 2026
 
-6 commits.
+7 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Post-decoupling internationalization<br />
+  <sub>[#13692](https://github.com/flutter/website/pull/13692) merged on August 11, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/website/pull/13692) over 4 days, 137 additions and 37 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Jess K](https://github.com/jesskuras)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add tentative version of 3.47 release notes<br />
   <sub>[#13681](https://github.com/flutter/website/pull/13681) merged on August 10, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/website/pull/13681) over 5 days, 997 additions and 0 deletions in 2 files</sub><br />
