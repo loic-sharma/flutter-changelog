@@ -4,7 +4,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-19 commits.
+24 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Never use a header bar in the Linux application template
   <sub>[#190120](https://github.com/flutter/flutter/pull/190120) merged on August 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190120) over 1 week, 11 additions and 30 deletions in 1 file</sub>
@@ -17,6 +17,10 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Make Xcode workspace cleaning optional during flutter clean
   <sub>[#190091](https://github.com/flutter/flutter/pull/190091) merged on August 10, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/190091) over 1 week, 46 additions and 11 deletions in 5 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; fix: forward --build-name and --build-number to desktop version.json
+  <sub>[#190130](https://github.com/flutter/flutter/pull/190130) merged on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190130) over 1 week, 20 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Override deployment target in CocoaPod dependencies when they're less than Xcode's minimum
   <sub>[#190677](https://github.com/flutter/flutter/pull/190677) merged on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190677) over 3 days, 16 additions and 11 deletions in 2 files</sub>
@@ -33,6 +37,22 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Refactor `flutter_view` example to not use `material`
   <sub>[#190377](https://github.com/flutter/flutter/pull/190377) merged on August 10, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/190377) over 1 week, 147 additions and 24 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: test GPU availability and task queue behaviour
+  <sub>[#190836](https://github.com/flutter/flutter/pull/190836) merged on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190836) over 8 hours, 142 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; run_ios_tests: Allow running from any directory
+  <sub>[#190822](https://github.com/flutter/flutter/pull/190822) merged on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190822) over 16 hours, 18 additions and 13 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Document and tidy the embedder API flag
+  <sub>[#190828](https://github.com/flutter/flutter/pull/190828) merged on August 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190828) over 14 hours, 9 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add golden coverage for rounded superellipse clips
+  <sub>[#190826](https://github.com/flutter/flutter/pull/190826) merged on August 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190826) over 15 hours, 100 additions and 0 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; ci: Extract shared expected calls in prepare_package tests
   <sub>[#190817](https://github.com/flutter/flutter/pull/190817) merged on August 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190817) over 15 hours, 47 additions and 130 deletions in 1 file</sub>
