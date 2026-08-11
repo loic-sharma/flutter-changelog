@@ -186,10 +186,10 @@
   <sub>[#190675](https://github.com/flutter/flutter/pull/190675) opened on on August 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190675) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate 5 iOS UI driver tests to Mac Simulators<br />
-  <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190679) 142 additions and 20 deletions in 10 files</sub><br />
+  <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190679) 147 additions and 22 deletions in 10 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started caching text shadows by content.<br />
-  <sub>[#190681](https://github.com/flutter/flutter/pull/190681) opened on on August 6, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/190681) 271 additions and 39 deletions in 7 files</sub><br />
+  <sub>[#190681](https://github.com/flutter/flutter/pull/190681) opened on on August 6, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190681) 271 additions and 39 deletions in 7 files</sub><br />
 
 * **[Stucdio Yazılım](https://github.com/stucdio)** &mdash; Document how Container.decoration and clipBehavior interact with a border<br />
   <sub>[#190682](https://github.com/flutter/flutter/pull/190682) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190682) 16 additions and 0 deletions in 1 file</sub><br />
@@ -283,4 +283,10 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert: [web] Keep the keyboard up during an iOS caret drag<br />
   <sub>[#190926](https://github.com/flutter/flutter/pull/190926) opened on on August 11, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/190926) 2 additions and 396 deletions in 4 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix deadlock in debug adapters when process exits early<br />
+  <sub>[#190931](https://github.com/flutter/flutter/pull/190931) opened on on August 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190931) 66 additions and 6 deletions in 6 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the bringup flag from the linux_arm_host_desktop_engine builder<br />
+  <sub>[#190935](https://github.com/flutter/flutter/pull/190935) opened on on August 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190935) 0 additions and 1 deletion in 1 file</sub><br />
 
