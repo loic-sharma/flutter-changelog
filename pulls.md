@@ -272,3 +272,6 @@
 * **[Space3044](https://github.com/Space3044)** &mdash; [Windows] Avoid null parent dereference in AccessibilityBridge<br />
   <sub>[#190903](https://github.com/flutter/flutter/pull/190903) opened on on August 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190903) 34 additions and 5 deletions in 2 files</sub><br />
 
+* **[Suraj Singh](https://github.com/surajgju)** &mdash; Fix PrimaryScrollController attached to multiple scroll views in TabBarView keep-alive tabs (#81152)<br />
+  <sub>[#190904](https://github.com/flutter/flutter/pull/190904) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190904) 93 additions and 3 deletions in 2 files</sub><br />
+
