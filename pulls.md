@@ -75,7 +75,7 @@
   <sub>[#189042](https://github.com/flutter/flutter/pull/189042) opened on on July 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/189042) 1215 additions and 6 deletions in 21 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
-  <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
+  <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move compositor frame ownership into the view renderers<br />
   <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/189162) 492 additions and 542 deletions in 13 files</sub><br />
@@ -174,7 +174,7 @@
   <sub>[#190667](https://github.com/flutter/flutter/pull/190667) opened on on August 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190667) 22 additions and 14 deletions in 14 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Filter non-fatal Chromium D-Bus error lines from Chrome stderr<br />
-  <sub>[#190669](https://github.com/flutter/flutter/pull/190669) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190669) 102 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#190669](https://github.com/flutter/flutter/pull/190669) opened on on August 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190669) 102 additions and 0 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [tool] Add missing play element in web test index.html to fix warning<br />
   <sub>[#190675](https://github.com/flutter/flutter/pull/190675) opened on on August 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190675) 1 addition and 0 deletions in 1 file</sub><br />
@@ -190,9 +190,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#190685](https://github.com/flutter/flutter/pull/190685) opened on on August 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190685) 7 additions and 0 deletions in 1 file</sub><br />
-
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; RawAutocomplete: Fix focusNode listener mismatch in didUpdateWidget/dispose<br />
-  <sub>[#190686](https://github.com/flutter/flutter/pull/190686) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190686) 53 additions and 3 deletions in 2 files</sub><br />
 
 * **[Fury](https://github.com/Fury76)** &mdash; Avoid eager clipboard status checks in EditableText<br />
   <sub>[#190707](https://github.com/flutter/flutter/pull/190707) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190707) 71 additions and 73 deletions in 7 files</sub><br />
@@ -240,7 +237,7 @@
   <sub>[#190873](https://github.com/flutter/flutter/pull/190873) opened on on August 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190873) 19 additions and 19 deletions in 19 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [devicelab] Remove orphaned screenshot test files<br />
-  <sub>[#190879](https://github.com/flutter/flutter/pull/190879) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190879) 0 additions and 107 deletions in 5 files</sub><br />
+  <sub>[#190879](https://github.com/flutter/flutter/pull/190879) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190879) 0 additions and 107 deletions in 5 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
@@ -291,8 +288,14 @@
   <sub>[#190936](https://github.com/flutter/flutter/pull/190936) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190936) 4 additions and 5 deletions in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup for flavors test<br />
-  <sub>[#190940](https://github.com/flutter/flutter/pull/190940) opened on on August 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190940) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#190940](https://github.com/flutter/flutter/pull/190940) opened on on August 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190940) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Strip local path and workspace dependencies during update-packages --force-upgrade<br />
-  <sub>[#190944](https://github.com/flutter/flutter/pull/190944) opened on on August 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190944) 228 additions and 1 deletion in 2 files</sub><br />
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Removes building of ci/android_debug_x86 as nobody should be consuming it.<br />
+  <sub>[#190951](https://github.com/flutter/flutter/pull/190951) opened on on August 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190951) 0 additions and 45 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve workspace root when running widget preview from member package<br />
+  <sub>[#190952](https://github.com/flutter/flutter/pull/190952) opened on on August 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190952) 174 additions and 9 deletions in 4 files</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [cross imports] navigator_test.dart<br />
+  <sub>[#190954](https://github.com/flutter/flutter/pull/190954) opened on on August 11, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190954) 483 additions and 481 deletions in 7 files</sub><br />
 
