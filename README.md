@@ -4,7 +4,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-32 commits.
+33 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Never use a header bar in the Linux application template<br />
   <sub>[#190120](https://github.com/flutter/flutter/pull/190120) merged on August 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190120) over 1 week, 11 additions and 30 deletions in 1 file</sub><br />
@@ -17,6 +17,10 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Remove manual Safari fallback for unhandled universal links<br />
   <sub>[#185430](https://github.com/flutter/flutter/pull/185430) merged on August 11, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/185430) over 3 months, 16 additions and 30 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; flutter_tools: Use pub check-resolution-up-to-date & fix workspace package_config path<br />
+  <sub>[#186740](https://github.com/flutter/flutter/pull/186740) merged on August 11, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/186740) over 2 months, 405 additions and 93 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Make Xcode workspace cleaning optional during flutter clean<br />
   <sub>[#190091](https://github.com/flutter/flutter/pull/190091) merged on August 10, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/190091) over 1 week, 46 additions and 11 deletions in 5 files</sub><br />
