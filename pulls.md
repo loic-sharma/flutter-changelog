@@ -242,9 +242,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Toggleable reaction duration respects overrides<br />
   <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190857) 62 additions and 5 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds benchmark for windows shadow text.<br />
-  <sub>[#190861](https://github.com/flutter/flutter/pull/190861) opened on on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190861) 197 additions and 0 deletions in 8 files</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; [Windows] fix: Remove quotes from compiler warning suppression<br />
   <sub>[#190873](https://github.com/flutter/flutter/pull/190873) opened on on August 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190873) 19 additions and 19 deletions in 19 files</sub><br />
 

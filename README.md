@@ -4,7 +4,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-27 commits.
+30 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Never use a header bar in the Linux application template<br />
   <sub>[#190120](https://github.com/flutter/flutter/pull/190120) merged on August 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190120) over 1 week, 11 additions and 30 deletions in 1 file</sub><br />
@@ -13,6 +13,10 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Keep the keyboard up during an iOS caret drag<br />
   <sub>[#190014](https://github.com/flutter/flutter/pull/190014) merged on August 10, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/190014) over 2 weeks, 396 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Remove manual Safari fallback for unhandled universal links<br />
+  <sub>[#185430](https://github.com/flutter/flutter/pull/185430) merged on August 11, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/185430) over 3 months, 16 additions and 30 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Victoria Ashworth](https://github.com/vashworth), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Make Xcode workspace cleaning optional during flutter clean<br />
   <sub>[#190091](https://github.com/flutter/flutter/pull/190091) merged on August 10, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/190091) over 1 week, 46 additions and 11 deletions in 5 files</sub><br />
@@ -41,6 +45,14 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Refactor `flutter_view` example to not use `material`<br />
   <sub>[#190377](https://github.com/flutter/flutter/pull/190377) merged on August 10, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/190377) over 1 week, 147 additions and 24 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Remove the Scenarios app Skia golden test option<br />
+  <sub>[#190827](https://github.com/flutter/flutter/pull/190827) merged on August 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190827) over 21 hours, 1 addition and 110 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds benchmark for windows shadow text.<br />
+  <sub>[#190861](https://github.com/flutter/flutter/pull/190861) merged on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190861) over 9 hours, 197 additions and 0 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Scenarios: Fix multiple-clips scenario doc comments<br />
   <sub>[#190830](https://github.com/flutter/flutter/pull/190830) merged on August 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190830) over 19 hours, 9 additions and 9 deletions in 1 file</sub><br />
