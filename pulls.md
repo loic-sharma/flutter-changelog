@@ -32,9 +32,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187254) 19 additions and 2 deletions in 2 files</sub><br />
 
-* **[Lin Zhenming](https://github.com/lzm-build)** &mdash; Add iOS prebuilt impeller_sdk<br />
-  <sub>[#187608](https://github.com/flutter/flutter/pull/187608) opened on on June 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/187608) 57 additions and 14 deletions in 5 files</sub><br />
-
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
 
@@ -268,4 +265,10 @@
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; RawTooltip respects AnimationStyle updates and reverseCurve<br />
   <sub>[#190889](https://github.com/flutter/flutter/pull/190889) opened on on August 11, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190889) 497 additions and 4 deletions in 2 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] refactor wasm dry-run result handling in Dart2WasmTarget<br />
+  <sub>[#190891](https://github.com/flutter/flutter/pull/190891) opened on on August 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/190891) 201 additions and 108 deletions in 1 file</sub><br />
+
+* **[William Yang](https://github.com/wilyan09007)** &mdash; Don't set the Android platform view offset before it is laid out<br />
+  <sub>[#190895](https://github.com/flutter/flutter/pull/190895) opened on on August 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190895) 41 additions and 2 deletions in 3 files</sub><br />
 
