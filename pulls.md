@@ -171,7 +171,7 @@
   <sub>[#190656](https://github.com/flutter/flutter/pull/190656) opened on on August 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190656) 404 additions and 173 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Replace usages of package:dds/dap.dart with package:dap_adapters/dap_adapters.dart<br />
-  <sub>[#190667](https://github.com/flutter/flutter/pull/190667) opened on on August 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190667) 22 additions and 14 deletions in 14 files</sub><br />
+  <sub>[#190667](https://github.com/flutter/flutter/pull/190667) opened on on August 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190667) 22 additions and 14 deletions in 14 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Filter non-fatal Chromium D-Bus error lines from Chrome stderr<br />
   <sub>[#190669](https://github.com/flutter/flutter/pull/190669) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190669) 102 additions and 0 deletions in 4 files</sub><br />
@@ -183,7 +183,7 @@
   <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190679) 147 additions and 22 deletions in 10 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started caching text shadows by content.<br />
-  <sub>[#190681](https://github.com/flutter/flutter/pull/190681) opened on on August 6, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/190681) 271 additions and 39 deletions in 7 files</sub><br />
+  <sub>[#190681](https://github.com/flutter/flutter/pull/190681) opened on on August 6, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/190681) 271 additions and 39 deletions in 7 files</sub><br />
 
 * **[Stucdio Yazılım](https://github.com/stucdio)** &mdash; Document how Container.decoration and clipBehavior interact with a border<br />
   <sub>[#190682](https://github.com/flutter/flutter/pull/190682) opened on on August 6, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190682) 16 additions and 0 deletions in 1 file</sub><br />
@@ -222,7 +222,7 @@
   <sub>[#190819](https://github.com/flutter/flutter/pull/190819) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190819) 151 additions and 22 deletions in 8 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable background networking and GCM in all Chrome launchers<br />
-  <sub>[#190841](https://github.com/flutter/flutter/pull/190841) opened on on August 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190841) 167 additions and 85 deletions in 7 files</sub><br />
+  <sub>[#190841](https://github.com/flutter/flutter/pull/190841) opened on on August 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190841) 79 additions and 30 deletions in 8 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove Xcode environment when building swift tools in Xcode pre-action<br />
   <sub>[#190848](https://github.com/flutter/flutter/pull/190848) opened on on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190848) 18 additions and 13 deletions in 2 files</sub><br />
@@ -234,7 +234,7 @@
   <sub>[#190856](https://github.com/flutter/flutter/pull/190856) opened on on August 10, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190856) 538 additions and 98 deletions in 8 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Toggleable reaction duration respects overrides<br />
-  <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190857) 62 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190857) 72 additions and 5 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; [Windows] fix: Remove quotes from compiler warning suppression<br />
   <sub>[#190873](https://github.com/flutter/flutter/pull/190873) opened on on August 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190873) 19 additions and 19 deletions in 19 files</sub><br />
@@ -275,14 +275,11 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Wire dependency injection into runner and executable with required non-nullable contexts<br />
   <sub>[#190922](https://github.com/flutter/flutter/pull/190922) opened on on August 11, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/190922) 1957 additions and 242 deletions in 14 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert: [web] Keep the keyboard up during an iOS caret drag<br />
-  <sub>[#190926](https://github.com/flutter/flutter/pull/190926) opened on on August 11, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/190926) 2 additions and 396 deletions in 4 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 2 to simulators<br />
   <sub>[#190930](https://github.com/flutter/flutter/pull/190930) opened on on August 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190930) 213 additions and 48 deletions in 15 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix deadlock in debug adapters when process exits early<br />
-  <sub>[#190931](https://github.com/flutter/flutter/pull/190931) opened on on August 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190931) 66 additions and 6 deletions in 6 files</sub><br />
+  <sub>[#190931](https://github.com/flutter/flutter/pull/190931) opened on on August 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190931) 66 additions and 6 deletions in 6 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started generating the windows platform for macrobenchmarks<br />
   <sub>[#190932](https://github.com/flutter/flutter/pull/190932) opened on on August 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190932) 6 additions and 2 deletions in 2 files</sub><br />
@@ -290,6 +287,12 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the bringup flag from the linux_arm_host_desktop_engine builder<br />
   <sub>[#190935](https://github.com/flutter/flutter/pull/190935) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190935) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove outdated test todo about `dither` property of `Paint`<br />
+  <sub>[#190936](https://github.com/flutter/flutter/pull/190936) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190936) 4 additions and 5 deletions in 1 file</sub><br />
+
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup for flavors test<br />
   <sub>[#190940](https://github.com/flutter/flutter/pull/190940) opened on on August 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190940) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Strip local path and workspace dependencies during update-packages --force-upgrade<br />
+  <sub>[#190944](https://github.com/flutter/flutter/pull/190944) opened on on August 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190944) 228 additions and 1 deletion in 2 files</sub><br />
 
