@@ -234,5 +234,5 @@
   <sub>[#190972](https://github.com/flutter/flutter/pull/190972) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190972) 8 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ashkan Bahmani](https://github.com/developerashkan)** &mdash; Use ColorScheme.scrim for Material barriers and drawer scrim<br />
-  <sub>[#190984](https://github.com/flutter/flutter/pull/190984) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190984) 113 additions and 11 deletions in 7 files</sub><br />
+  <sub>[#190984](https://github.com/flutter/flutter/pull/190984) opened on on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190984) 113 additions and 11 deletions in 7 files</sub><br />
 
