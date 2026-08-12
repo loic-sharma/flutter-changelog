@@ -155,9 +155,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate 5 iOS UI driver tests to Mac Simulators<br />
   <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190679) 147 additions and 22 deletions in 10 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started caching text shadows by content.<br />
-  <sub>[#190681](https://github.com/flutter/flutter/pull/190681) opened on on August 6, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/190681) 271 additions and 39 deletions in 7 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#190685](https://github.com/flutter/flutter/pull/190685) opened on on August 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190685) 7 additions and 0 deletions in 1 file</sub><br />
 
@@ -185,9 +182,6 @@
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [input] Migrate fuchsia.ui.pointerinjector to TouchSource<br />
   <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190855) 1 addition and 1378 deletions in 19 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Toggleable reaction duration respects overrides<br />
-  <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190857) 72 additions and 5 deletions in 2 files</sub><br />
-
 * **[Langning Zhang](https://github.com/Boulea7)** &mdash; [flutter_tools] Add integration coverage for test presets<br />
   <sub>[#190858](https://github.com/flutter/flutter/pull/190858) opened on on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190858) 66 additions and 0 deletions in 3 files</sub><br />
 
@@ -207,7 +201,7 @@
   <sub>[#190918](https://github.com/flutter/flutter/pull/190918) opened on on August 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/190918) 381 additions and 72 deletions in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Wire dependency injection into runner and executable with required non-nullable contexts<br />
-  <sub>[#190922](https://github.com/flutter/flutter/pull/190922) opened on on August 11, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/190922) 470 additions and 232 deletions in 8 files</sub><br />
+  <sub>[#190922](https://github.com/flutter/flutter/pull/190922) opened on on August 11, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/190922) 466 additions and 232 deletions in 8 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 2 to simulators<br />
   <sub>[#190930](https://github.com/flutter/flutter/pull/190930) opened on on August 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190930) 213 additions and 48 deletions in 15 files</sub><br />
@@ -247,4 +241,10 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#191016](https://github.com/flutter/flutter/pull/191016) opened on on August 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191016) 0 additions and 7 deletions in 1 file</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Reland "Make Xcode workspace cleaning optional during flutter clean"<br />
+  <sub>[#191023](https://github.com/flutter/flutter/pull/191023) opened on on August 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191023) 96 additions and 22 deletions in 6 files</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [flutter_tools] Add `packages/flutter/examples` to `flutter create`'s whitelist<br />
+  <sub>[#191025](https://github.com/flutter/flutter/pull/191025) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191025) 48 additions and 37 deletions in 2 files</sub><br />
 
