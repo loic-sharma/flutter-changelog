@@ -215,9 +215,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable gradle_dists cache on single Windows target<br />
   <sub>[#190885](https://github.com/flutter/flutter/pull/190885) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190885) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Always update swift package dependencies<br />
-  <sub>[#190886](https://github.com/flutter/flutter/pull/190886) opened on on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190886) 15 additions and 28 deletions in 8 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] refactor wasm dry-run result handling in Dart2WasmTarget<br />
   <sub>[#190891](https://github.com/flutter/flutter/pull/190891) opened on on August 11, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/190891) 201 additions and 108 deletions in 1 file</sub><br />
 
@@ -253,7 +250,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve workspace root when running widget preview from member package<br />
   <sub>[#190952](https://github.com/flutter/flutter/pull/190952) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190952) 225 additions and 10 deletions in 4 files</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; ci: Support --target_arch option in prepare_package.dart<br />
-  <sub>[#190960](https://github.com/flutter/flutter/pull/190960) opened on on August 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190960) 160 additions and 6 deletions in 4 files</sub><br />
 
