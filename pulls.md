@@ -66,7 +66,7 @@
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188934) 134 additions and 1 deletion in 4 files</sub><br />
 
 * **[Pranta Dutta](https://github.com/theprantadutta)** &mdash; Make the AbsorbPointer sample show the difference from IgnorePointer<br />
-  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/188940) 147 additions and 51 deletions in 3 files</sub><br />
+  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/188940) 147 additions and 51 deletions in 3 files</sub><br />
 
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
@@ -158,9 +158,6 @@
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Android] Match external texture cache size to BufferQueue capacity<br />
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable Gradle CI cache on all test targets that require android_sdk<br />
-  <sub>[#190723](https://github.com/flutter/flutter/pull/190723) opened on on August 7, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190723) 234 additions and 117 deletions in 1 file</sub><br />
-
 * **[SamJakob](https://github.com/SamJakob)** &mdash; Fix calling `endOfStream` on a `MockStreamHandlerEventSink` causing widget tests to hang<br />
   <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190808) 39 additions and 1 deletion in 2 files</sub><br />
 
@@ -228,10 +225,13 @@
   <sub>[#191012](https://github.com/flutter/flutter/pull/191012) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191012) 8 additions and 8 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use officially supported compile time thread local strike cache flag.<br />
-  <sub>[#191014](https://github.com/flutter/flutter/pull/191014) opened on on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191014) 7 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#191014](https://github.com/flutter/flutter/pull/191014) opened on on August 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191014) 7 additions and 10 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#191016](https://github.com/flutter/flutter/pull/191016) opened on on August 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191016) 0 additions and 7 deletions in 1 file</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes sure impeller context's are plumbed through to LayerTree::Flatten.<br />
+  <sub>[#191017](https://github.com/flutter/flutter/pull/191017) opened on on August 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191017) 121 additions and 34 deletions in 11 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Reland "Make Xcode workspace cleaning optional during flutter clean"<br />
   <sub>[#191023](https://github.com/flutter/flutter/pull/191023) opened on on August 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191023) 96 additions and 22 deletions in 6 files</sub><br />
