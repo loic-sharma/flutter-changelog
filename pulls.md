@@ -170,9 +170,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Switch testing to gradle bin distribution type instead of all<br />
   <sub>[#190738](https://github.com/flutter/flutter/pull/190738) opened on on August 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190738) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Fix web tracing flakiness on macOS ARM64<br />
-  <sub>[#190759](https://github.com/flutter/flutter/pull/190759) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190759) 12 additions and 5 deletions in 1 file</sub><br />
-
 * **[SamJakob](https://github.com/SamJakob)** &mdash; Fix calling `endOfStream` on a `MockStreamHandlerEventSink` causing widget tests to hang<br />
   <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190808) 39 additions and 1 deletion in 2 files</sub><br />
 
@@ -190,9 +187,6 @@
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Toggleable reaction duration respects overrides<br />
   <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190857) 72 additions and 5 deletions in 2 files</sub><br />
-
-* **[August](https://github.com/Gustl22)** &mdash; [Windows] fix: Remove quotes from compiler warning suppression<br />
-  <sub>[#190873](https://github.com/flutter/flutter/pull/190873) opened on on August 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190873) 19 additions and 19 deletions in 19 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
@@ -241,4 +235,10 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add diagnostic logging and 3m ToolExit timeout for web test hangs<br />
   <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191004) 212 additions and 13 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix Xcode JXA symlink matching<br />
+  <sub>[#191009](https://github.com/flutter/flutter/pull/191009) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191009) 29 additions and 15 deletions in 3 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes windows_text_shadow_perf__timeline_summary bringup false.<br />
+  <sub>[#191010](https://github.com/flutter/flutter/pull/191010) opened on on August 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191010) 0 additions and 1 deletion in 1 file</sub><br />
 
