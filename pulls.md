@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
