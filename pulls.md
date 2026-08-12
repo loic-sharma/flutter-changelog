@@ -236,3 +236,9 @@
 * **[Ashkan Bahmani](https://github.com/developerashkan)** &mdash; Use ColorScheme.scrim for Material barriers and drawer scrim<br />
   <sub>[#190984](https://github.com/flutter/flutter/pull/190984) opened on on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190984) 113 additions and 11 deletions in 7 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Make web test subshards dynamically determined by .ci.yaml<br />
+  <sub>[#191003](https://github.com/flutter/flutter/pull/191003) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191003) 34 additions and 40 deletions in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add diagnostic logging and 3m ToolExit timeout for web test hangs<br />
+  <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191004) 212 additions and 13 deletions in 1 file</sub><br />
+
