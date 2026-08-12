@@ -65,6 +65,9 @@
 * **[Mark Turner](https://github.com/markst)** &mdash; Guide users when multiple Xcode projects are present<br />
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188934) 134 additions and 1 deletion in 4 files</sub><br />
 
+* **[Pranta Dutta](https://github.com/theprantadutta)** &mdash; Make the AbsorbPointer sample show the difference from IgnorePointer<br />
+  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/188940) 147 additions and 51 deletions in 3 files</sub><br />
+
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -105,7 +108,7 @@
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): support --web-content-hash for entrypoint files<br />
-  <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190153) 493 additions and 54 deletions in 5 files</sub><br />
+  <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190153) 549 additions and 53 deletions in 5 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Inject command line flags into manifest in release mode when not running pre-built binary<br />
   <sub>[#190222](https://github.com/flutter/flutter/pull/190222) opened on on July 29, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190222) 1254 additions and 105 deletions in 19 files</sub><br />
@@ -180,7 +183,7 @@
   <sub>[#190819](https://github.com/flutter/flutter/pull/190819) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190819) 151 additions and 22 deletions in 8 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable background networking and GCM in all Chrome launchers<br />
-  <sub>[#190841](https://github.com/flutter/flutter/pull/190841) opened on on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190841) 79 additions and 30 deletions in 8 files</sub><br />
+  <sub>[#190841](https://github.com/flutter/flutter/pull/190841) opened on on August 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190841) 79 additions and 30 deletions in 8 files</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [input] Migrate fuchsia.ui.pointerinjector to TouchSource<br />
   <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190855) 1 addition and 1378 deletions in 19 files</sub><br />
@@ -241,4 +244,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes windows_text_shadow_perf__timeline_summary bringup false.<br />
   <sub>[#191010](https://github.com/flutter/flutter/pull/191010) opened on on August 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191010) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; fix mac_ios_engine_ddm to use Mac-15.7 and Xcode 26<br />
+  <sub>[#191012](https://github.com/flutter/flutter/pull/191012) opened on on August 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191012) 8 additions and 8 deletions in 1 file</sub><br />
 
