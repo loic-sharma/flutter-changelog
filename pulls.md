@@ -161,9 +161,6 @@
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable Gradle CI cache on all test targets that require android_sdk<br />
   <sub>[#190723](https://github.com/flutter/flutter/pull/190723) opened on on August 7, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/190723) 234 additions and 117 deletions in 1 file</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Switch testing to gradle bin distribution type instead of all<br />
-  <sub>[#190738](https://github.com/flutter/flutter/pull/190738) opened on on August 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190738) 2 additions and 2 deletions in 2 files</sub><br />
-
 * **[SamJakob](https://github.com/SamJakob)** &mdash; Fix calling `endOfStream` on a `MockStreamHandlerEventSink` causing widget tests to hang<br />
   <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190808) 39 additions and 1 deletion in 2 files</sub><br />
 
@@ -241,4 +238,7 @@
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [flutter_tools] Add `packages/flutter/examples` to `flutter create`'s whitelist<br />
   <sub>[#191025](https://github.com/flutter/flutter/pull/191025) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191025) 48 additions and 37 deletions in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph subpixel text stretching and letter jittering<br />
+  <sub>[#191030](https://github.com/flutter/flutter/pull/191030) opened on on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191030) 61 additions and 6 deletions in 2 files</sub><br />
 
