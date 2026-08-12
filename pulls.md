@@ -188,6 +188,9 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Toggleable reaction duration respects overrides<br />
   <sub>[#190857](https://github.com/flutter/flutter/pull/190857) opened on on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190857) 72 additions and 5 deletions in 2 files</sub><br />
 
+* **[Langning Zhang](https://github.com/Boulea7)** &mdash; [flutter_tools] Add integration coverage for test presets<br />
+  <sub>[#190858](https://github.com/flutter/flutter/pull/190858) opened on on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190858) 66 additions and 0 deletions in 3 files</sub><br />
+
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -215,11 +218,14 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve workspace root when running widget preview from member package<br />
   <sub>[#190952](https://github.com/flutter/flutter/pull/190952) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190952) 225 additions and 10 deletions in 4 files</sub><br />
 
+* **[Langning Zhang](https://github.com/Boulea7)** &mdash; [gen_l10n] Preserve script locale inheritance for regional subclasses<br />
+  <sub>[#190956](https://github.com/flutter/flutter/pull/190956) opened on on August 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190956) 82 additions and 9 deletions in 2 files</sub><br />
+
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Normalize lerped BoxConstraints with overshooting t values <br />
   <sub>[#190971](https://github.com/flutter/flutter/pull/190971) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190971) 60 additions and 3 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Catch NoSuchFieldError when reading bold text setting on non-compliant vendor runtimes<br />
-  <sub>[#190972](https://github.com/flutter/flutter/pull/190972) opened on on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190972) 8 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#190972](https://github.com/flutter/flutter/pull/190972) opened on on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190972) 7 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Make web test subshards dynamically determined by .ci.yaml<br />
   <sub>[#191003](https://github.com/flutter/flutter/pull/191003) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191003) 34 additions and 40 deletions in 2 files</sub><br />

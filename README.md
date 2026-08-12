@@ -1019,7 +1019,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-15 commits.
+16 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] : Add video track selection support for Android and iOS<br />
   <sub>[#10688](https://github.com/flutter/packages/pull/10688) merged on August 11, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10688) over 7 months, 767 additions and 3 deletions in 6 files</sub><br />
@@ -1068,6 +1068,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [camera]fix test flake due to expectation fulfilled before flag is toggled<br />
   <sub>[#12400](https://github.com/flutter/packages/pull/12400) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12400) over 2 days, 9 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-material_ui-1.0.0 to main<br />
+  <sub>[#12448](https://github.com/flutter/packages/pull/12448) merged on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12448) over 1 hour, 8 additions and 9 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Sync release-material_ui-0.0.3+1 to main<br />
   <sub>[#12439](https://github.com/flutter/packages/pull/12439) merged on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12439) over 44 minutes, 7 additions and 8 deletions in 4 files</sub><br />
@@ -1239,7 +1243,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-11 commits.
+13 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update SDK constraints and update formatting<br />
   <sub>[#13711](https://github.com/flutter/website/pull/13711) merged on August 12, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/website/pull/13711) over 19 hours, 414 additions and 508 deletions in 183 files</sub><br />
@@ -1252,6 +1256,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add tentative version of 3.47 release notes<br />
   <sub>[#13681](https://github.com/flutter/website/pull/13681) merged on August 10, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/website/pull/13681) over 5 days, 997 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Release: What's new in Flutter 3.47<br />
+  <sub>[#13706](https://github.com/flutter/website/pull/13706) merged on August 12, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/website/pull/13706) over 1 day, 343 additions and 1 deletion in 13 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Jess K](https://github.com/jesskuras)</sub><br />
 
 * **[Connie Ooi ](https://github.com/conooi)** &mdash; Update Flutter Widget Previewer page<br />
   <sub>[#13704](https://github.com/flutter/website/pull/13704) merged on August 11, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13704) over 20 hours, 68 additions and 43 deletions in 1 file</sub><br />
@@ -1272,6 +1280,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking changes for 3.47<br />
   <sub>[#13689](https://github.com/flutter/website/pull/13689) merged on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13689) over 4 days, 39 additions and 30 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update site banners for 3.47 release<br />
+  <sub>[#13714](https://github.com/flutter/website/pull/13714) merged on August 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13714) over 3 hours, 5 additions and 12 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: update iOS universal links AASA file example to use components<br />
   <sub>[#13670](https://github.com/flutter/website/pull/13670) merged on August 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13670) over 1 week, 5 additions and 14 deletions in 1 file</sub><br />
