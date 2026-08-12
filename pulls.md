@@ -105,7 +105,7 @@
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): support --web-content-hash for entrypoint files<br />
-  <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190153) 738 additions and 389 deletions in 29 files</sub><br />
+  <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190153) 493 additions and 54 deletions in 5 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Inject command line flags into manifest in release mode when not running pre-built binary<br />
   <sub>[#190222](https://github.com/flutter/flutter/pull/190222) opened on on July 29, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190222) 1254 additions and 105 deletions in 19 files</sub><br />
@@ -224,9 +224,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove outdated test todo about `dither` property of `Paint`<br />
   <sub>[#190936](https://github.com/flutter/flutter/pull/190936) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190936) 4 additions and 5 deletions in 1 file</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup for flavors test<br />
-  <sub>[#190940](https://github.com/flutter/flutter/pull/190940) opened on on August 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190940) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve workspace root when running widget preview from member package<br />
   <sub>[#190952](https://github.com/flutter/flutter/pull/190952) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190952) 225 additions and 10 deletions in 4 files</sub><br />
 
@@ -235,4 +232,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Catch NoSuchFieldError when reading bold text setting on non-compliant vendor runtimes<br />
   <sub>[#190972](https://github.com/flutter/flutter/pull/190972) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190972) 8 additions and 2 deletions in 1 file</sub><br />
+
+* **[Ashkan Bahmani](https://github.com/developerashkan)** &mdash; Use ColorScheme.scrim for Material barriers and drawer scrim<br />
+  <sub>[#190984](https://github.com/flutter/flutter/pull/190984) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190984) 113 additions and 11 deletions in 7 files</sub><br />
 
