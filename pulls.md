@@ -68,9 +68,6 @@
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Add batch3 a11y_assessment for vpat<br />
-  <sub>[#189042](https://github.com/flutter/flutter/pull/189042) opened on on July 7, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/189042) 1215 additions and 6 deletions in 21 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
 
@@ -155,15 +152,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Expand the vertex attribute formats and gate them by backend capability<br />
   <sub>[#190642](https://github.com/flutter/flutter/pull/190642) opened on on August 6, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190642) 801 additions and 77 deletions in 21 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Replace usages of package:dds/dap.dart with package:dap_adapters/dap_adapters.dart<br />
-  <sub>[#190667](https://github.com/flutter/flutter/pull/190667) opened on on August 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190667) 22 additions and 14 deletions in 14 files</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Filter non-fatal Chromium D-Bus error lines from Chrome stderr<br />
-  <sub>[#190669](https://github.com/flutter/flutter/pull/190669) opened on on August 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190669) 102 additions and 0 deletions in 4 files</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [tool] Add missing play element in web test index.html to fix warning<br />
-  <sub>[#190675](https://github.com/flutter/flutter/pull/190675) opened on on August 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190675) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate 5 iOS UI driver tests to Mac Simulators<br />
   <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190679) 147 additions and 22 deletions in 10 files</sub><br />
 
@@ -195,10 +183,7 @@
   <sub>[#190819](https://github.com/flutter/flutter/pull/190819) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190819) 151 additions and 22 deletions in 8 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Disable background networking and GCM in all Chrome launchers<br />
-  <sub>[#190841](https://github.com/flutter/flutter/pull/190841) opened on on August 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190841) 79 additions and 30 deletions in 8 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove Xcode environment when building swift tools in Xcode pre-action<br />
-  <sub>[#190848](https://github.com/flutter/flutter/pull/190848) opened on on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190848) 18 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#190841](https://github.com/flutter/flutter/pull/190841) opened on on August 10, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190841) 79 additions and 30 deletions in 8 files</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [input] Migrate fuchsia.ui.pointerinjector to TouchSource<br />
   <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190855) 1 addition and 1378 deletions in 19 files</sub><br />
@@ -239,9 +224,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix deadlock in debug adapters when process exits early<br />
   <sub>[#190931](https://github.com/flutter/flutter/pull/190931) opened on on August 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190931) 66 additions and 6 deletions in 6 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started generating the windows platform for macrobenchmarks<br />
-  <sub>[#190932](https://github.com/flutter/flutter/pull/190932) opened on on August 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190932) 6 additions and 2 deletions in 2 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove outdated test todo about `dither` property of `Paint`<br />
   <sub>[#190936](https://github.com/flutter/flutter/pull/190936) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190936) 4 additions and 5 deletions in 1 file</sub><br />
 
@@ -250,4 +232,10 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve workspace root when running widget preview from member package<br />
   <sub>[#190952](https://github.com/flutter/flutter/pull/190952) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190952) 225 additions and 10 deletions in 4 files</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Normalize lerped BoxConstraints with overshooting t values <br />
+  <sub>[#190971](https://github.com/flutter/flutter/pull/190971) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190971) 60 additions and 3 deletions in 2 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Catch NoSuchFieldError when reading bold text setting on non-compliant vendor runtimes<br />
+  <sub>[#190972](https://github.com/flutter/flutter/pull/190972) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190972) 8 additions and 2 deletions in 1 file</sub><br />
 
