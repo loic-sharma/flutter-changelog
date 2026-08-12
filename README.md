@@ -1011,7 +1011,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-10 commits.
+11 commits.
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] : Add video track selection support for Android and iOS<br />
   <sub>[#10688](https://github.com/flutter/packages/pull/10688) merged on August 11, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10688) over 7 months, 767 additions and 3 deletions in 6 files</sub><br />
@@ -1028,6 +1028,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [CI] Update deps script<br />
   <sub>[#12427](https://github.com/flutter/packages/pull/12427) merged on August 11, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/12427) over 23 hours, 57 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Hari07](https://github.com/Hari-07)** &mdash; [in_app_purchase_storekit] Group purchases into a single event in storekit2<br />
+  <sub>[#12237](https://github.com/flutter/packages/pull/12237) merged on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12237) over 3 weeks, 64 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update ci for + releases<br />
   <sub>[#12419](https://github.com/flutter/packages/pull/12419) merged on August 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12419) over 3 hours, 12 additions and 10 deletions in 3 files</sub><br />
