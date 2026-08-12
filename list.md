@@ -1239,7 +1239,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-7 commits.
+9 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Post-decoupling internationalization
   <sub>[#13692](https://github.com/flutter/website/pull/13692) merged on August 11, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/website/pull/13692) over 4 days, 137 additions and 37 deletions in 4 files</sub>
@@ -1252,6 +1252,14 @@
 * **[Connie Ooi ](https://github.com/conooi)** &mdash; Update Flutter Widget Previewer page
   <sub>[#13704](https://github.com/flutter/website/pull/13704) merged on August 11, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13704) over 20 hours, 68 additions and 43 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Ben Konyi](https://github.com/bkonyi), [Jess K](https://github.com/jesskuras)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Follow-up adjustments to i18n decoupling changes
+  <sub>[#13710](https://github.com/flutter/website/pull/13710) merged on August 12, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13710) over 18 hours, 88 additions and 133 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kevin Lamenzo](https://github.com/lamek)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; 3.47 supported platform updates
+  <sub>[#13712](https://github.com/flutter/website/pull/13712) merged on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13712) over 17 hours, 13 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Kevin Lamenzo](https://github.com/lamek)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking changes for 3.47
   <sub>[#13689](https://github.com/flutter/website/pull/13689) merged on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13689) over 4 days, 39 additions and 30 deletions in 5 files</sub>
