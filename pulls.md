@@ -170,9 +170,6 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Enable gradle_dists cache on single Windows target<br />
-  <sub>[#190885](https://github.com/flutter/flutter/pull/190885) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190885) 2 additions and 1 deletion in 1 file</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] refactor wasm dry-run result handling in Dart2WasmTarget<br />
   <sub>[#190891](https://github.com/flutter/flutter/pull/190891) opened on on August 11, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/190891) 283 additions and 108 deletions in 1 file</sub><br />
 
@@ -230,17 +227,8 @@
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Migrate framework rules to analyzer plugin<br />
-  <sub>[#191035](https://github.com/flutter/flutter/pull/191035) opened on on August 12, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/191035) 294 additions and 149 deletions in 7 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Migrate internal import rules to analyzer plugin<br />
-  <sub>[#191036](https://github.com/flutter/flutter/pull/191036) opened on on August 13, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/191036) 266 additions and 72 deletions in 7 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Migrate syntax rules to analyzer plugin<br />
   <sub>[#191037](https://github.com/flutter/flutter/pull/191037) opened on on August 13, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/191037) 381 additions and 233 deletions in 14 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Migrate test rules to analyzer plugin<br />
-  <sub>[#191038](https://github.com/flutter/flutter/pull/191038) opened on on August 13, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191038) 277 additions and 127 deletions in 13 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Actions.handler to forward the intent type to maybeFind<br />
   <sub>[#191052](https://github.com/flutter/flutter/pull/191052) opened on on August 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191052) 59 additions and 1 deletion in 2 files</sub><br />
