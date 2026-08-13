@@ -30,7 +30,7 @@
   <sub>[#187251](https://github.com/flutter/flutter/pull/187251) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187251) 158 additions and 3 deletions in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo<br />
-  <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187254) 19 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#187254](https://github.com/flutter/flutter/pull/187254) opened on on May 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187254) 19 additions and 2 deletions in 2 files</sub><br />
 
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
@@ -66,7 +66,7 @@
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188934) 134 additions and 1 deletion in 4 files</sub><br />
 
 * **[Pranta Dutta](https://github.com/theprantadutta)** &mdash; Make the AbsorbPointer sample show the difference from IgnorePointer<br />
-  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/188940) 147 additions and 51 deletions in 3 files</sub><br />
+  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/188940) 147 additions and 51 deletions in 3 files</sub><br />
 
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
@@ -227,9 +227,6 @@
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Migrate syntax rules to analyzer plugin<br />
-  <sub>[#191037](https://github.com/flutter/flutter/pull/191037) opened on on August 13, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/191037) 381 additions and 233 deletions in 14 files</sub><br />
-
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Actions.handler to forward the intent type to maybeFind<br />
   <sub>[#191052](https://github.com/flutter/flutter/pull/191052) opened on on August 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191052) 59 additions and 1 deletion in 2 files</sub><br />
 
@@ -240,5 +237,5 @@
   <sub>[#191062](https://github.com/flutter/flutter/pull/191062) opened on on August 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191062) 25 additions and 5 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Document rules, descriptions, and scopes in analyzer plugin README<br />
-  <sub>[#191076](https://github.com/flutter/flutter/pull/191076) opened on on August 13, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191076) 570 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#191076](https://github.com/flutter/flutter/pull/191076) opened on on August 13, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191076) 549 additions and 4 deletions in 1 file</sub><br />
 
