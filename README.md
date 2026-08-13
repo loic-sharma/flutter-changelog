@@ -1327,7 +1327,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-23 commits.
+25 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates impeller page to mention desktop compatibility.<br />
   <sub>[#13635](https://github.com/flutter/website/pull/13635) merged on August 12, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/13635) over 2 weeks, 49 additions and 10 deletions in 1 file</sub><br />
@@ -1369,6 +1369,10 @@
   <sub>[#13710](https://github.com/flutter/website/pull/13710) merged on August 12, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13710) over 18 hours, 88 additions and 133 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Kevin Lamenzo](https://github.com/lamek)</sub><br />
 
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update whats new 3 47<br />
+  <sub>[#13722](https://github.com/flutter/website/pull/13722) merged on August 13, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/13722) over 2 hours, 97 additions and 45 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
 * **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; added 1 new consultant & 1 image<br />
   <sub>[#13718](https://github.com/flutter/website/pull/13718) merged on August 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13718) over 22 hours, 11 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub><br />
@@ -1396,6 +1400,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking changes for 3.47<br />
   <sub>[#13689](https://github.com/flutter/website/pull/13689) merged on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13689) over 4 days, 39 additions and 30 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update Latest News section for Flutter 3.47 release<br />
+  <sub>[#13725](https://github.com/flutter/website/pull/13725) merged on August 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13725) over 20 minutes, 4 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jess K](https://github.com/jesskuras)</sub><br />
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Fix notable commits video link in 3.47 blog post<br />
   <sub>[#13720](https://github.com/flutter/website/pull/13720) merged on August 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13720) over 4 minutes, 1 addition and 1 deletion in 1 file</sub><br />
