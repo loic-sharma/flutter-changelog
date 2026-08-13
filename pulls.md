@@ -140,9 +140,6 @@
 * **[Matheus Dias](https://github.com/Mathvdias)** &mdash; feat(flutter_test): add startHover and startHoverAt helper to WidgetTester<br />
   <sub>[#190630](https://github.com/flutter/flutter/pull/190630) opened on on August 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190630) 95 additions and 0 deletions in 3 files</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update emaulator additional info to point to flutter docs which points now to `managing-avds` in android docs<br />
-  <sub>[#190632](https://github.com/flutter/flutter/pull/190632) opened on on August 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190632) 1 addition and 4 deletions in 1 file</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Compile shader bundles for a subset of backends<br />
   <sub>[#190641](https://github.com/flutter/flutter/pull/190641) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190641) 196 additions and 37 deletions in 6 files</sub><br />
 
@@ -247,4 +244,7 @@
 
 * **[Marcin Wróblewski](https://github.com/wrbl606)** &mdash; Use Liquid Glass icon in iOS app templates by default<br />
   <sub>[#191059](https://github.com/flutter/flutter/pull/191059) opened on on August 13, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191059) 456 additions and 6 deletions in 9 files</sub><br />
+
+* **[İbrahim Çetin](https://github.com/ibrahimcetin)** &mdash; Fix #59541 [TextField should support typing accented words with external keyboard]<br />
+  <sub>[#191062](https://github.com/flutter/flutter/pull/191062) opened on on August 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191062) 25 additions and 5 deletions in 2 files</sub><br />
 
