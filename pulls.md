@@ -231,16 +231,16 @@
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Migrate framework rules to analyzer plugin<br />
-  <sub>[#191035](https://github.com/flutter/flutter/pull/191035) opened on on August 12, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/191035) 296 additions and 149 deletions in 8 files</sub><br />
+  <sub>[#191035](https://github.com/flutter/flutter/pull/191035) opened on on August 12, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/191035) 294 additions and 149 deletions in 7 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Migrate internal import rules to analyzer plugin<br />
-  <sub>[#191036](https://github.com/flutter/flutter/pull/191036) opened on on August 13, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191036) 249 additions and 47 deletions in 8 files</sub><br />
+  <sub>[#191036](https://github.com/flutter/flutter/pull/191036) opened on on August 13, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/191036) 266 additions and 72 deletions in 7 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Migrate syntax rules to analyzer plugin<br />
-  <sub>[#191037](https://github.com/flutter/flutter/pull/191037) opened on on August 13, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/191037) 402 additions and 233 deletions in 15 files</sub><br />
+  <sub>[#191037](https://github.com/flutter/flutter/pull/191037) opened on on August 13, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/191037) 381 additions and 233 deletions in 14 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Migrate test rules to analyzer plugin<br />
-  <sub>[#191038](https://github.com/flutter/flutter/pull/191038) opened on on August 13, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191038) 290 additions and 127 deletions in 14 files</sub><br />
+  <sub>[#191038](https://github.com/flutter/flutter/pull/191038) opened on on August 13, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191038) 277 additions and 127 deletions in 13 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Actions.handler to forward the intent type to maybeFind<br />
   <sub>[#191052](https://github.com/flutter/flutter/pull/191052) opened on on August 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191052) 59 additions and 1 deletion in 2 files</sub><br />
@@ -250,4 +250,7 @@
 
 * **[İbrahim Çetin](https://github.com/ibrahimcetin)** &mdash; Fix #59541 [TextField should support typing accented words with external keyboard]<br />
   <sub>[#191062](https://github.com/flutter/flutter/pull/191062) opened on on August 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191062) 25 additions and 5 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Document rules, descriptions, and scopes in analyzer plugin README<br />
+  <sub>[#191076](https://github.com/flutter/flutter/pull/191076) opened on on August 13, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191076) 570 additions and 4 deletions in 1 file</sub><br />
 
