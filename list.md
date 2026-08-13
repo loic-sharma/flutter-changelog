@@ -1327,7 +1327,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-22 commits.
+23 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates impeller page to mention desktop compatibility.
   <sub>[#13635](https://github.com/flutter/website/pull/13635) merged on August 12, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/13635) over 2 weeks, 49 additions and 10 deletions in 1 file</sub>
@@ -1347,6 +1347,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add tentative version of 3.47 release notes
   <sub>[#13681](https://github.com/flutter/website/pull/13681) merged on August 10, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/website/pull/13681) over 5 days, 997 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add whats new skill
+  <sub>[#13723](https://github.com/flutter/website/pull/13723) merged on August 13, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/website/pull/13723) over 1 hour, 180 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
 
 * **[Connie Ooi ](https://github.com/conooi)** &mdash; Add Speeding up generative UI with async A2UI blog
