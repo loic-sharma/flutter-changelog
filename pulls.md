@@ -66,7 +66,7 @@
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188934) 134 additions and 1 deletion in 4 files</sub><br />
 
 * **[Pranta Dutta](https://github.com/theprantadutta)** &mdash; Make the AbsorbPointer sample show the difference from IgnorePointer<br />
-  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/188940) 147 additions and 51 deletions in 3 files</sub><br />
+  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/188940) 147 additions and 51 deletions in 3 files</sub><br />
 
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
@@ -112,6 +112,9 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix 1px edge clipping on Platform Views by preserving floating-point precision where possible and rounding otherwise instead of truncating<br />
   <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Documentation and script for Gradle Distribution cache for CI<br />
+  <sub>[#190323](https://github.com/flutter/flutter/pull/190323) opened on on July 30, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/190323) 239 additions and 0 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind shader metadata by pointer instead of copying it per draw<br />
   <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190399) 317 additions and 66 deletions in 5 files</sub><br />
@@ -183,7 +186,7 @@
   <sub>[#190922](https://github.com/flutter/flutter/pull/190922) opened on on August 11, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/190922) 468 additions and 233 deletions in 9 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 2 to simulators<br />
-  <sub>[#190930](https://github.com/flutter/flutter/pull/190930) opened on on August 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190930) 213 additions and 48 deletions in 15 files</sub><br />
+  <sub>[#190930](https://github.com/flutter/flutter/pull/190930) opened on on August 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190930) 213 additions and 48 deletions in 15 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove outdated test todo about `dither` property of `Paint`<br />
   <sub>[#190936](https://github.com/flutter/flutter/pull/190936) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190936) 4 additions and 5 deletions in 1 file</sub><br />
@@ -218,9 +221,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes sure impeller context's are plumbed through to LayerTree::Flatten.<br />
   <sub>[#191017](https://github.com/flutter/flutter/pull/191017) opened on on August 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191017) 121 additions and 34 deletions in 11 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [flutter_tools] Add `packages/flutter/examples` to `flutter create`'s whitelist<br />
-  <sub>[#191025](https://github.com/flutter/flutter/pull/191025) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191025) 48 additions and 37 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph subpixel text stretching and letter jittering<br />
   <sub>[#191030](https://github.com/flutter/flutter/pull/191030) opened on on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191030) 61 additions and 6 deletions in 2 files</sub><br />
 
@@ -238,4 +238,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Document rules, descriptions, and scopes in analyzer plugin README<br />
   <sub>[#191076](https://github.com/flutter/flutter/pull/191076) opened on on August 13, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191076) 549 additions and 4 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve includes recursively in AnalysisOptionsMigration<br />
+  <sub>[#191082](https://github.com/flutter/flutter/pull/191082) opened on on August 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191082) 375 additions and 24 deletions in 3 files</sub><br />
 
