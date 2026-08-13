@@ -105,7 +105,7 @@
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): support --web-content-hash for entrypoint files<br />
-  <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190153) 549 additions and 53 deletions in 5 files</sub><br />
+  <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190153) 928 additions and 58 deletions in 5 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Inject command line flags into manifest in release mode when not running pre-built binary<br />
   <sub>[#190222](https://github.com/flutter/flutter/pull/190222) opened on on July 29, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190222) 1254 additions and 105 deletions in 19 files</sub><br />
@@ -138,7 +138,7 @@
   <sub>[#190612](https://github.com/flutter/flutter/pull/190612) opened on on August 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190612) 53 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matheus Dias](https://github.com/Mathvdias)** &mdash; feat(flutter_test): add startHover and startHoverAt helper to WidgetTester<br />
-  <sub>[#190630](https://github.com/flutter/flutter/pull/190630) opened on on August 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190630) 95 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#190630](https://github.com/flutter/flutter/pull/190630) opened on on August 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190630) 95 additions and 0 deletions in 3 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Compile shader bundles for a subset of backends<br />
   <sub>[#190641](https://github.com/flutter/flutter/pull/190641) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190641) 196 additions and 37 deletions in 6 files</sub><br />
@@ -180,7 +180,7 @@
   <sub>[#190885](https://github.com/flutter/flutter/pull/190885) opened on on August 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190885) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] refactor wasm dry-run result handling in Dart2WasmTarget<br />
-  <sub>[#190891](https://github.com/flutter/flutter/pull/190891) opened on on August 11, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/190891) 201 additions and 108 deletions in 1 file</sub><br />
+  <sub>[#190891](https://github.com/flutter/flutter/pull/190891) opened on on August 11, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/190891) 283 additions and 108 deletions in 1 file</sub><br />
 
 * **[Space3044](https://github.com/Space3044)** &mdash; [Windows] Avoid null parent dereference in AccessibilityBridge<br />
   <sub>[#190903](https://github.com/flutter/flutter/pull/190903) opened on on August 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190903) 34 additions and 5 deletions in 2 files</sub><br />
@@ -221,9 +221,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes windows_text_shadow_perf__timeline_summary bringup false.<br />
   <sub>[#191010](https://github.com/flutter/flutter/pull/191010) opened on on August 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191010) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; fix mac_ios_engine_ddm to use Mac-15.7 and Xcode 26<br />
-  <sub>[#191012](https://github.com/flutter/flutter/pull/191012) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191012) 8 additions and 8 deletions in 1 file</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use officially supported compile time thread local strike cache flag.<br />
   <sub>[#191014](https://github.com/flutter/flutter/pull/191014) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191014) 7 additions and 10 deletions in 3 files</sub><br />
 
@@ -233,12 +230,12 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes sure impeller context's are plumbed through to LayerTree::Flatten.<br />
   <sub>[#191017](https://github.com/flutter/flutter/pull/191017) opened on on August 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191017) 121 additions and 34 deletions in 11 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Reland "Make Xcode workspace cleaning optional during flutter clean"<br />
-  <sub>[#191023](https://github.com/flutter/flutter/pull/191023) opened on on August 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191023) 96 additions and 22 deletions in 6 files</sub><br />
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [flutter_tools] Add `packages/flutter/examples` to `flutter create`'s whitelist<br />
   <sub>[#191025](https://github.com/flutter/flutter/pull/191025) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191025) 48 additions and 37 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph subpixel text stretching and letter jittering<br />
   <sub>[#191030](https://github.com/flutter/flutter/pull/191030) opened on on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191030) 61 additions and 6 deletions in 2 files</sub><br />
+
+* **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
+  <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
