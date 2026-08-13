@@ -180,7 +180,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; fix(flutter_tools): check runtime env vars before cached bot state
-  <sub>[#190978](https://github.com/flutter/flutter/pull/190978) merged on August 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/190978) over 1 day, 106 additions and 28 deletions in 2 files</sub>
+  <sub>[#190978](https://github.com/flutter/flutter/pull/190978) merged on August 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/190978) over 1 day, 106 additions and 28 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.Vertices

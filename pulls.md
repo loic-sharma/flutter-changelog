@@ -108,13 +108,13 @@
   <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190153) 928 additions and 58 deletions in 5 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Inject command line flags into manifest in release mode when not running pre-built binary<br />
-  <sub>[#190222](https://github.com/flutter/flutter/pull/190222) opened on on July 29, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190222) 1254 additions and 105 deletions in 19 files</sub><br />
+  <sub>[#190222](https://github.com/flutter/flutter/pull/190222) opened on on July 29, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/190222) 1220 additions and 95 deletions in 17 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix 1px edge clipping on Platform Views by preserving floating-point precision where possible and rounding otherwise instead of truncating<br />
   <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Documentation and script for Gradle Distribution cache for CI<br />
-  <sub>[#190323](https://github.com/flutter/flutter/pull/190323) opened on on July 30, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/190323) 239 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#190323](https://github.com/flutter/flutter/pull/190323) opened on on July 30, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/190323) 239 additions and 0 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind shader metadata by pointer instead of copying it per draw<br />
   <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190399) 317 additions and 66 deletions in 5 files</sub><br />
@@ -150,7 +150,7 @@
   <sub>[#190642](https://github.com/flutter/flutter/pull/190642) opened on on August 6, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190642) 801 additions and 77 deletions in 21 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate 5 iOS UI driver tests to Mac Simulators<br />
-  <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190679) 147 additions and 22 deletions in 10 files</sub><br />
+  <sub>[#190679](https://github.com/flutter/flutter/pull/190679) opened on on August 6, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/190679) 147 additions and 22 deletions in 10 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#190685](https://github.com/flutter/flutter/pull/190685) opened on on August 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190685) 7 additions and 0 deletions in 1 file</sub><br />
@@ -165,7 +165,7 @@
   <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190808) 39 additions and 1 deletion in 2 files</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [input] Migrate fuchsia.ui.pointerinjector to TouchSource<br />
-  <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190855) 1 addition and 1378 deletions in 19 files</sub><br />
+  <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190855) 2 additions and 1379 deletions in 19 files</sub><br />
 
 * **[Langning Zhang](https://github.com/Boulea7)** &mdash; [flutter_tools] Add integration coverage for test presets<br />
   <sub>[#190858](https://github.com/flutter/flutter/pull/190858) opened on on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190858) 66 additions and 0 deletions in 3 files</sub><br />
@@ -183,7 +183,7 @@
   <sub>[#190918](https://github.com/flutter/flutter/pull/190918) opened on on August 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/190918) 381 additions and 72 deletions in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Wire dependency injection into runner and executable with required non-nullable contexts<br />
-  <sub>[#190922](https://github.com/flutter/flutter/pull/190922) opened on on August 11, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/190922) 468 additions and 233 deletions in 9 files</sub><br />
+  <sub>[#190922](https://github.com/flutter/flutter/pull/190922) opened on on August 11, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/190922) 564 additions and 244 deletions in 15 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 2 to simulators<br />
   <sub>[#190930](https://github.com/flutter/flutter/pull/190930) opened on on August 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190930) 213 additions and 48 deletions in 15 files</sub><br />
@@ -235,10 +235,4 @@
 
 * **[İbrahim Çetin](https://github.com/ibrahimcetin)** &mdash; Fix #59541 [TextField should support typing accented words with external keyboard]<br />
   <sub>[#191062](https://github.com/flutter/flutter/pull/191062) opened on on August 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191062) 25 additions and 5 deletions in 2 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Document rules, descriptions, and scopes in analyzer plugin README<br />
-  <sub>[#191076](https://github.com/flutter/flutter/pull/191076) opened on on August 13, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191076) 549 additions and 4 deletions in 1 file</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve includes recursively in AnalysisOptionsMigration<br />
-  <sub>[#191082](https://github.com/flutter/flutter/pull/191082) opened on on August 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191082) 375 additions and 24 deletions in 3 files</sub><br />
 
