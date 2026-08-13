@@ -192,7 +192,7 @@
   <sub>[#190971](https://github.com/flutter/flutter/pull/190971) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190971) 60 additions and 3 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Catch NoSuchFieldError when reading bold text setting on non-compliant vendor runtimes<br />
-  <sub>[#190972](https://github.com/flutter/flutter/pull/190972) opened on on August 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190972) 7 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#190972](https://github.com/flutter/flutter/pull/190972) opened on on August 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190972) 7 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Make web test subshards dynamically determined by .ci.yaml<br />
   <sub>[#191003](https://github.com/flutter/flutter/pull/191003) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191003) 34 additions and 40 deletions in 2 files</sub><br />
