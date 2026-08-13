@@ -239,3 +239,6 @@
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
+* **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Actions.handler to forward the intent type to maybeFind<br />
+  <sub>[#191052](https://github.com/flutter/flutter/pull/191052) opened on on August 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191052) 59 additions and 1 deletion in 2 files</sub><br />
+
