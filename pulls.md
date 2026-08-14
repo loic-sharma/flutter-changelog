@@ -167,9 +167,6 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] refactor wasm dry-run result handling in Dart2WasmTarget<br />
-  <sub>[#190891](https://github.com/flutter/flutter/pull/190891) opened on on August 11, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/190891) 283 additions and 108 deletions in 1 file</sub><br />
-
 * **[Space3044](https://github.com/Space3044)** &mdash; [Windows] Avoid null parent dereference in AccessibilityBridge<br />
   <sub>[#190903](https://github.com/flutter/flutter/pull/190903) opened on on August 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190903) 34 additions and 5 deletions in 2 files</sub><br />
 
@@ -227,9 +224,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
   <sub>[#191120](https://github.com/flutter/flutter/pull/191120) opened on on August 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191120) 571 additions and 73 deletions in 7 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Migrate verifyNoTestImports to flutter_analyzer_plugin<br />
-  <sub>[#191124](https://github.com/flutter/flutter/pull/191124) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191124) 186 additions and 39 deletions in 5 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Migrate verifyTabooDocumentation to flutter_analyzer_plugin<br />
   <sub>[#191125](https://github.com/flutter/flutter/pull/191125) opened on on August 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191125) 177 additions and 57 deletions in 5 files</sub><br />
 
@@ -244,4 +238,7 @@
 
 * **[Uros Radulovic](https://github.com/AllinGaming)** &mdash; Fix nested scroll view fling crash<br />
   <sub>[#191130](https://github.com/flutter/flutter/pull/191130) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191130) 117 additions and 0 deletions in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove ios_debug_workflow test<br />
+  <sub>[#191141](https://github.com/flutter/flutter/pull/191141) opened on on August 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191141) 0 additions and 171 deletions in 3 files</sub><br />
 
