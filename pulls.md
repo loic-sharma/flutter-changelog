@@ -227,6 +227,3 @@
 * **[Abdullah Taş](https://github.com/abdullahtas0)** &mdash; Refresh FormField errors after locale changes<br />
   <sub>[#191110](https://github.com/flutter/flutter/pull/191110) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191110) 71 additions and 0 deletions in 2 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; Impeller: Fix stroked circle tesselation scaling<br />
-  <sub>[#191111](https://github.com/flutter/flutter/pull/191111) opened on on August 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191111) 123 additions and 13 deletions in 2 files</sub><br />
-
