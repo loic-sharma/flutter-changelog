@@ -878,6 +878,10 @@
   <sub>[#186993](https://github.com/flutter/flutter/pull/186993) merged on July 29, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/186993) over 2 months, 117 additions and 59 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Add java/gradle check when gradle crashes<br />
+  <sub>[#189997](https://github.com/flutter/flutter/pull/189997) merged on July 30, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/189997) over 6 days, 401 additions and 38 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert: Split the platform and cpuArch part of TargetPlatform<br />
   <sub>[#190258](https://github.com/flutter/flutter/pull/190258) merged on July 30, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/190258) over 5 hours, 1596 additions and 1435 deletions in 141 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub><br />
@@ -897,10 +901,6 @@
 * **[Ram-Dawson](https://github.com/Ram-Dawson)** &mdash; fix(tool): parse ADB device lists by connection state<br />
   <sub>[#189973](https://github.com/flutter/flutter/pull/189973) merged on July 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/189973) over 5 days, 87 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Add java/gradle check when gradle crashes<br />
-  <sub>[#189997](https://github.com/flutter/flutter/pull/189997) merged on July 30, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/189997) over 6 days, 401 additions and 38 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Migrate swift xctests to Swift testing tests<br />
   <sub>[#187801](https://github.com/flutter/flutter/pull/187801) merged on July 30, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/187801) over 1 month, 45 additions and 45 deletions in 3 files</sub><br />
