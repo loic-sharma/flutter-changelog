@@ -182,9 +182,6 @@
 * **[Langning Zhang](https://github.com/Boulea7)** &mdash; [gen_l10n] Preserve script locale inheritance for regional subclasses<br />
   <sub>[#190956](https://github.com/flutter/flutter/pull/190956) opened on on August 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190956) 82 additions and 9 deletions in 2 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Normalize lerped BoxConstraints with overshooting t values <br />
-  <sub>[#190971](https://github.com/flutter/flutter/pull/190971) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190971) 60 additions and 3 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Make web test subshards dynamically determined by .ci.yaml<br />
   <sub>[#191003](https://github.com/flutter/flutter/pull/191003) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191003) 34 additions and 40 deletions in 2 files</sub><br />
 
@@ -224,9 +221,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
   <sub>[#191120](https://github.com/flutter/flutter/pull/191120) opened on on August 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191120) 571 additions and 73 deletions in 7 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Migrate verifyTabooDocumentation to flutter_analyzer_plugin<br />
-  <sub>[#191125](https://github.com/flutter/flutter/pull/191125) opened on on August 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191125) 177 additions and 57 deletions in 5 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Migrate issue and repository link syntax rules to flutter_analyzer_plugin<br />
   <sub>[#191127](https://github.com/flutter/flutter/pull/191127) opened on on August 14, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/191127) 577 additions and 215 deletions in 9 files</sub><br />
 
@@ -241,4 +235,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove ios_debug_workflow test<br />
   <sub>[#191141](https://github.com/flutter/flutter/pull/191141) opened on on August 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191141) 0 additions and 171 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flakiness in PreviewDetector tests<br />
+  <sub>[#191143](https://github.com/flutter/flutter/pull/191143) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191143) 25 additions and 1 deletion in 2 files</sub><br />
 
