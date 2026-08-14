@@ -74,6 +74,9 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove dead code checking < Xcode 15<br />
   <sub>[#189103](https://github.com/flutter/flutter/pull/189103) opened on on July 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/189103) 38 additions and 98 deletions in 12 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Prefer OS-installed signed APKs over app-writable `.so` files when loading deferred libraries<br />
+  <sub>[#189145](https://github.com/flutter/flutter/pull/189145) opened on on July 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/189145) 122 additions and 10 deletions in 5 files</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move compositor frame ownership into the view renderers<br />
   <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/189162) 492 additions and 542 deletions in 13 files</sub><br />
 
@@ -223,4 +226,7 @@
 
 * **[Marcin Wróblewski](https://github.com/wrbl606)** &mdash; Use Liquid Glass icon in iOS app templates by default<br />
   <sub>[#191059](https://github.com/flutter/flutter/pull/191059) opened on on August 13, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191059) 456 additions and 6 deletions in 9 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
+  <sub>[#191091](https://github.com/flutter/flutter/pull/191091) opened on on August 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191091) 571 additions and 73 deletions in 7 files</sub><br />
 
