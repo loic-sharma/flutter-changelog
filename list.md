@@ -1371,7 +1371,7 @@
 
 ### August 8, 2026 to August 14, 2026
 
-25 commits.
+26 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates impeller page to mention desktop compatibility.
   <sub>[#13635](https://github.com/flutter/website/pull/13635) merged on August 12, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/13635) over 2 weeks, 49 additions and 10 deletions in 1 file</sub>
@@ -1444,6 +1444,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking changes for 3.47
   <sub>[#13689](https://github.com/flutter/website/pull/13689) merged on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13689) over 4 days, 39 additions and 30 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; Fix white image loading flash and optimize hero image sizes on homepage
+  <sub>[#13724](https://github.com/flutter/website/pull/13724) merged on August 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13724) over 21 hours, 46 additions and 21 deletions in 39 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Connie Ooi ](https://github.com/conooi)</sub>
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update Latest News section for Flutter 3.47 release
   <sub>[#13725](https://github.com/flutter/website/pull/13725) merged on August 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13725) over 20 minutes, 4 additions and 0 deletions in 2 files</sub>

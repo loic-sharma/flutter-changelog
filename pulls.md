@@ -218,12 +218,33 @@
 * **[Marcin Wróblewski](https://github.com/wrbl606)** &mdash; Use Liquid Glass icon in iOS app templates by default<br />
   <sub>[#191059](https://github.com/flutter/flutter/pull/191059) opened on on August 13, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191059) 456 additions and 6 deletions in 9 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
-  <sub>[#191091](https://github.com/flutter/flutter/pull/191091) opened on on August 13, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191091) 571 additions and 73 deletions in 7 files</sub><br />
-
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; Exclude local Swift package schemes from --flavor error message<br />
   <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
 
 * **[Abdullah Taş](https://github.com/abdullahtas0)** &mdash; Refresh FormField errors after locale changes<br />
   <sub>[#191110](https://github.com/flutter/flutter/pull/191110) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191110) 71 additions and 0 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
+  <sub>[#191120](https://github.com/flutter/flutter/pull/191120) opened on on August 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191120) 571 additions and 73 deletions in 7 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Migrate verifyNoTestImports to flutter_analyzer_plugin<br />
+  <sub>[#191124](https://github.com/flutter/flutter/pull/191124) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191124) 186 additions and 39 deletions in 5 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Migrate verifyTabooDocumentation to flutter_analyzer_plugin<br />
+  <sub>[#191125](https://github.com/flutter/flutter/pull/191125) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191125) 177 additions and 57 deletions in 5 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Migrate verifyNoCheckedMode to flutter_analyzer_plugin<br />
+  <sub>[#191126](https://github.com/flutter/flutter/pull/191126) opened on on August 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191126) 165 additions and 35 deletions in 5 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Migrate issue and repository link syntax rules to flutter_analyzer_plugin<br />
+  <sub>[#191127](https://github.com/flutter/flutter/pull/191127) opened on on August 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191127) 521 additions and 214 deletions in 8 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Clean up legacy custom rules and private-lints in analyze.dart<br />
+  <sub>[#191128](https://github.com/flutter/flutter/pull/191128) opened on on August 14, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/191128) 2 additions and 811 deletions in 10 files</sub><br />
+
+* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Refators `try` to avoid `unawaited_return_in_try_block` case<br />
+  <sub>[#191129](https://github.com/flutter/flutter/pull/191129) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191129) 6 additions and 5 deletions in 1 file</sub><br />
+
+* **[Uros Radulovic](https://github.com/AllinGaming)** &mdash; Fix nested scroll view fling crash<br />
+  <sub>[#191130](https://github.com/flutter/flutter/pull/191130) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191130) 117 additions and 0 deletions in 2 files</sub><br />
 
