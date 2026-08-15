@@ -156,7 +156,7 @@
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
 
 * **[SamJakob](https://github.com/SamJakob)** &mdash; Fix calling `endOfStream` on a `MockStreamHandlerEventSink` causing widget tests to hang<br />
-  <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190808) 39 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190808) 37 additions and 1 deletion in 2 files</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [input] Migrate fuchsia.ui.pointerinjector to TouchSource<br />
   <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190855) 2 additions and 1379 deletions in 19 files</sub><br />
@@ -220,9 +220,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
   <sub>[#191120](https://github.com/flutter/flutter/pull/191120) opened on on August 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191120) 571 additions and 73 deletions in 7 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Migrate issue and repository link syntax rules to flutter_analyzer_plugin<br />
-  <sub>[#191127](https://github.com/flutter/flutter/pull/191127) opened on on August 14, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/191127) 577 additions and 215 deletions in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Clean up legacy custom rules and private-lints in analyze.dart<br />
   <sub>[#191128](https://github.com/flutter/flutter/pull/191128) opened on on August 14, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/191128) 24 additions and 826 deletions in 9 files</sub><br />
