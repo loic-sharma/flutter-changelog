@@ -233,3 +233,6 @@
 * **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Only exclude platform directories that actually exist in analysis_options.yaml<br />
   <sub>[#191151](https://github.com/flutter/flutter/pull/191151) opened on on August 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191151) 137 additions and 18 deletions in 4 files</sub><br />
 
+* **[GlitchFL](https://github.com/glitchfl)** &mdash; [flutter_tools] find the command name regardless of argument position<br />
+  <sub>[#191155](https://github.com/flutter/flutter/pull/191155) opened on on August 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191155) 112 additions and 4 deletions in 3 files</sub><br />
+
