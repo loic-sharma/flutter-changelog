@@ -230,3 +230,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove ios_debug_workflow test<br />
   <sub>[#191141](https://github.com/flutter/flutter/pull/191141) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191141) 0 additions and 171 deletions in 3 files</sub><br />
 
+* **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Only exclude platform directories that actually exist in analysis_options.yaml<br />
+  <sub>[#191151](https://github.com/flutter/flutter/pull/191151) opened on on August 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191151) 137 additions and 18 deletions in 4 files</sub><br />
+
