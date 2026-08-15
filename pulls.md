@@ -236,3 +236,6 @@
 * **[GlitchFL](https://github.com/glitchfl)** &mdash; [flutter_tools] find the command name regardless of argument position<br />
   <sub>[#191155](https://github.com/flutter/flutter/pull/191155) opened on on August 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191155) 112 additions and 4 deletions in 3 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Filter analyzer rule AST visitor registration by target file path<br />
+  <sub>[#191159](https://github.com/flutter/flutter/pull/191159) opened on on August 15, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/191159) 593 additions and 1056 deletions in 18 files</sub><br />
+
