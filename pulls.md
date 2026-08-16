@@ -236,6 +236,9 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; refactor(flutter_tools): clean up dead unreferenced declarations<br />
   <sub>[#191163](https://github.com/flutter/flutter/pull/191163) opened on on August 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191163) 12 additions and 1309 deletions in 39 files</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [flutter_tools] Update Mach-O SDK version in App.framework using vtool<br />
+  <sub>[#191169](https://github.com/flutter/flutter/pull/191169) opened on on August 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191169) 171 additions and 6 deletions in 5 files</sub><br />
+
 * **[Sai kamal](https://github.com/Dantusaikamal)** &mdash; Clear text input client after platform-initiated connection close<br />
   <sub>[#191184](https://github.com/flutter/flutter/pull/191184) opened on on August 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191184) 90 additions and 14 deletions in 3 files</sub><br />
 
