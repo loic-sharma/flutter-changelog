@@ -233,3 +233,6 @@
 * **[GlitchFL](https://github.com/glitchfl)** &mdash; [flutter_tools] find the command name regardless of argument position<br />
   <sub>[#191155](https://github.com/flutter/flutter/pull/191155) opened on on August 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191155) 112 additions and 4 deletions in 3 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; refactor(flutter_tools): clean up dead unreferenced declarations<br />
+  <sub>[#191163](https://github.com/flutter/flutter/pull/191163) opened on on August 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191163) 7 additions and 1375 deletions in 39 files</sub><br />
+
