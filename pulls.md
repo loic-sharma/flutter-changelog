@@ -248,6 +248,3 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191220) 91 additions and 35 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Makes sure impeller context's are plumbed through to LayerTree::Flatten.<br />
-  <sub>[#191222](https://github.com/flutter/flutter/pull/191222) opened on on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191222) 121 additions and 34 deletions in 11 files</sub><br />
-
