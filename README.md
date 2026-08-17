@@ -711,7 +711,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Cole Springer](https://github.com/ColeSpringer)** &mdash; [web] Use thread local strike caches in skwasm<br />
-  <sub>[#190048](https://github.com/flutter/flutter/pull/190048) merged on August 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/190048) over 1 week, 186 additions and 7 deletions in 5 files</sub><br />
+  <sub>[#190048](https://github.com/flutter/flutter/pull/190048) merged on August 5, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/190048) over 1 week, 186 additions and 7 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Validate GLES texture units against the combined limit<br />
