@@ -167,9 +167,6 @@
 * **[Space3044](https://github.com/Space3044)** &mdash; [Windows] Avoid null parent dereference in AccessibilityBridge<br />
   <sub>[#190903](https://github.com/flutter/flutter/pull/190903) opened on on August 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190903) 34 additions and 5 deletions in 2 files</sub><br />
 
-* **[TtangKong](https://github.com/MTtankkeo)** &mdash; Reduce iOS pointer latency by dispatching pending input before BeginFrame<br />
-  <sub>[#190918](https://github.com/flutter/flutter/pull/190918) opened on on August 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/190918) 381 additions and 72 deletions in 9 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Wire dependency injection into runner and executable with required non-nullable contexts<br />
   <sub>[#190922](https://github.com/flutter/flutter/pull/190922) opened on on August 11, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/190922) 564 additions and 244 deletions in 15 files</sub><br />
 
