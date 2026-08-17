@@ -1109,11 +1109,19 @@
 
 ### August 15, 2026 to August 21, 2026
 
-4 commits.
+6 commits.
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(blog): add try Flutter web with WebAssembly week blog post<br />
+  <sub>[#13667](https://github.com/flutter/website/pull/13667) merged on August 17, 2026 &mdash; **Small:** [54 comments](https://github.com/flutter/website/pull/13667) over 1 week, 141 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Abdallah Shaban](https://github.com/abdallahshaban557), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Clarify Android platform-view mechanics and HCPP requirements<br />
   <sub>[#13705](https://github.com/flutter/website/pull/13705) merged on August 17, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13705) over 6 days, 33 additions and 16 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Mark sfshaza2 as default blog reviewer<br />
+  <sub>[#13734](https://github.com/flutter/website/pull/13734) merged on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13734) over 1 hour, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Christoph Schlosser](https://github.com/cschlosser)** &mdash; Add go/android-hide-passwords-physical-keyboards<br />
   <sub>[#13729](https://github.com/flutter/website/pull/13729) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13729) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />

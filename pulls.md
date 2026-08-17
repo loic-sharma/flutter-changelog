@@ -150,7 +150,7 @@
   <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190808) 37 additions and 1 deletion in 2 files</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [input] Migrate fuchsia.ui.pointerinjector to TouchSource<br />
-  <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190855) 2 additions and 1379 deletions in 19 files</sub><br />
+  <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/190855) 2 additions and 1379 deletions in 19 files</sub><br />
 
 * **[Langning Zhang](https://github.com/Boulea7)** &mdash; [flutter_tools] Add integration coverage for test presets<br />
   <sub>[#190858](https://github.com/flutter/flutter/pull/190858) opened on on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190858) 66 additions and 0 deletions in 3 files</sub><br />
@@ -249,5 +249,5 @@
   <sub>[#191223](https://github.com/flutter/flutter/pull/191223) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191223) 117 additions and 13 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Guard against disposed pictures in PrerollVisitor and DebugInfoVisitor<br />
-  <sub>[#191224](https://github.com/flutter/flutter/pull/191224) opened on on August 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191224) 71 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#191224](https://github.com/flutter/flutter/pull/191224) opened on on August 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191224) 93 additions and 1 deletion in 3 files</sub><br />
 
