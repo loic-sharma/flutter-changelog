@@ -119,9 +119,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Reusable binding sets<br />
   <sub>[#190400](https://github.com/flutter/flutter/pull/190400) opened on on August 2, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/190400) 1056 additions and 34 deletions in 13 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Push constants for small per-draw uniform data<br />
-  <sub>[#190406](https://github.com/flutter/flutter/pull/190406) opened on on August 2, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190406) 1013 additions and 11 deletions in 46 files</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Updated Remaining Engine Defaults to SDK 37<br />
   <sub>[#190429](https://github.com/flutter/flutter/pull/190429) opened on on August 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190429) 19 additions and 21 deletions in 17 files</sub><br />
 
@@ -130,9 +127,6 @@
 
 * **[zulongzhang](https://github.com/zulongzhang)** &mdash; [Linux] Fix a potential GList leak in FlTouchManager<br />
   <sub>[#190518](https://github.com/flutter/flutter/pull/190518) opened on on August 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190518) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Generically serve WASM files with Content-Length, Cache-Control, and cross-origin isolation headers<br />
-  <sub>[#190545](https://github.com/flutter/flutter/pull/190545) opened on on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190545) 121 additions and 55 deletions in 2 files</sub><br />
 
 * **[Amaan Ansari](https://github.com/amaan-0331)** &mdash; [Android] Guard PlatformViewsController2.onEndFrame against a detached FlutterView<br />
   <sub>[#190612](https://github.com/flutter/flutter/pull/190612) opened on on August 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190612) 53 additions and 1 deletion in 2 files</sub><br />
@@ -191,9 +185,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#191016](https://github.com/flutter/flutter/pull/191016) opened on on August 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191016) 0 additions and 7 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes sure impeller context's are plumbed through to LayerTree::Flatten.<br />
-  <sub>[#191017](https://github.com/flutter/flutter/pull/191017) opened on on August 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191017) 121 additions and 34 deletions in 11 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph subpixel text stretching and letter jittering<br />
   <sub>[#191030](https://github.com/flutter/flutter/pull/191030) opened on on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191030) 61 additions and 6 deletions in 2 files</sub><br />
 
@@ -247,4 +238,13 @@
 
 * **[Hamed](https://github.com/papmodern)** &mdash; [Android] Do not schedule engine frames on a detached FlutterJNI<br />
   <sub>[#191204](https://github.com/flutter/flutter/pull/191204) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191204) 53 additions and 0 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve symlinks and fix flakiness in widget preview tests<br />
+  <sub>[#191214](https://github.com/flutter/flutter/pull/191214) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191214) 77 additions and 9 deletions in 8 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix $git typo in shared.bat to restore cache invalidation on Windows<br />
+  <sub>[#191217](https://github.com/flutter/flutter/pull/191217) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191217) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
+  <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191220) 91 additions and 35 deletions in 2 files</sub><br />
 
