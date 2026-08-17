@@ -4,7 +4,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-5 commits.
+8 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.ImageFilter between CanvasKit and Skwasm
   <sub>[#191021](https://github.com/flutter/flutter/pull/191021) merged on August 17, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/191021) over 4 days, 682 additions and 915 deletions in 24 files</sub>
@@ -23,9 +23,21 @@
   <sub>[#191017](https://github.com/flutter/flutter/pull/191017) merged on August 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191017) over 4 days, 121 additions and 34 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff)</sub>
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph subpixel text stretching and letter jittering
+  <sub>[#191030](https://github.com/flutter/flutter/pull/191030) merged on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191030) over 4 days, 61 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Rusino](https://github.com/Rusino)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; [Android] Only check for user permissions (first two characters)
+  <sub>[#191019](https://github.com/flutter/flutter/pull/191019) merged on August 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191019) over 5 days, 2 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [AGP 9.1.0 Migration #2] Extract internal utilities
   <sub>[#190957](https://github.com/flutter/flutter/pull/190957) merged on August 17, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/190957) over 5 days, 200 additions and 72 deletions in 10 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Run gradient e2e benchmarks on Windows CI
+  <sub>[#191024](https://github.com/flutter/flutter/pull/191024) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191024) over 4 days, 89 additions and 3 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 ### August 8, 2026 to August 14, 2026
 
