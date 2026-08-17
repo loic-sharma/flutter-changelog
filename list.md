@@ -4,7 +4,11 @@
 
 ### August 15, 2026 to August 21, 2026
 
-4 commits.
+5 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.ImageFilter between CanvasKit and Skwasm
+  <sub>[#191021](https://github.com/flutter/flutter/pull/191021) merged on August 17, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/191021) over 4 days, 682 additions and 915 deletions in 24 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Add missing Widget of the Week videos to widget API docs
   <sub>[#191070](https://github.com/flutter/flutter/pull/191070) merged on August 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191070) over 4 days, 18 additions and 1 deletion in 6 files</sub>
