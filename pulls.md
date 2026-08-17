@@ -243,5 +243,5 @@
   <sub>[#191186](https://github.com/flutter/flutter/pull/191186) opened on on August 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191186) 86 additions and 24 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [Devicelab] Add physical device integration tests for iOS Universal Links<br />
-  <sub>[#191201](https://github.com/flutter/flutter/pull/191201) opened on on August 17, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191201) 1388 additions and 0 deletions in 46 files</sub><br />
+  <sub>[#191201](https://github.com/flutter/flutter/pull/191201) opened on on August 17, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191201) 1406 additions and 0 deletions in 28 files</sub><br />
 
