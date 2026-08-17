@@ -4,7 +4,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-8 commits.
+9 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.ImageFilter between CanvasKit and Skwasm<br />
   <sub>[#191021](https://github.com/flutter/flutter/pull/191021) merged on August 17, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/191021) over 4 days, 682 additions and 915 deletions in 24 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [AGP 9.1.0 Migration #2] Extract internal utilities<br />
   <sub>[#190957](https://github.com/flutter/flutter/pull/190957) merged on August 17, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/190957) over 5 days, 200 additions and 72 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix wide gamut condition on metal playground tests<br />
+  <sub>[#191210](https://github.com/flutter/flutter/pull/191210) merged on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191210) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Run gradient e2e benchmarks on Windows CI<br />
   <sub>[#191024](https://github.com/flutter/flutter/pull/191024) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191024) over 4 days, 89 additions and 3 deletions in 6 files</sub><br />
