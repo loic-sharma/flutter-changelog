@@ -245,3 +245,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [Devicelab] Add physical device integration tests for iOS Universal Links<br />
   <sub>[#191201](https://github.com/flutter/flutter/pull/191201) opened on on August 17, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191201) 1406 additions and 0 deletions in 28 files</sub><br />
 
+* **[Hamed](https://github.com/papmodern)** &mdash; [Android] Do not schedule engine frames on a detached FlutterJNI<br />
+  <sub>[#191204](https://github.com/flutter/flutter/pull/191204) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191204) 53 additions and 0 deletions in 2 files</sub><br />
+
