@@ -1039,7 +1039,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] add support for analyzer 13 and 14
-  <sub>[#12358](https://github.com/flutter/packages/pull/12358) merged on August 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12358) over 2 days, 46 additions and 48 deletions in 4 files</sub>
+  <sub>[#12358](https://github.com/flutter/packages/pull/12358) merged on August 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12358) over 2 days, 46 additions and 48 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui and cupertino_ui] Remove workspaces and fix CI

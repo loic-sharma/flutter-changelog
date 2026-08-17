@@ -216,7 +216,7 @@
   <sub>[#191120](https://github.com/flutter/flutter/pull/191120) opened on on August 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191120) 571 additions and 73 deletions in 7 files</sub><br />
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Refators `try` to avoid `unawaited_return_in_try_block` case<br />
-  <sub>[#191129](https://github.com/flutter/flutter/pull/191129) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191129) 6 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#191129](https://github.com/flutter/flutter/pull/191129) opened on on August 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191129) 6 additions and 5 deletions in 1 file</sub><br />
 
 * **[Uros Radulovic](https://github.com/AllinGaming)** &mdash; Fix nested scroll view fling crash<br />
   <sub>[#191130](https://github.com/flutter/flutter/pull/191130) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191130) 117 additions and 0 deletions in 2 files</sub><br />
