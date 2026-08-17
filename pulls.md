@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/178712) 168 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/178712) 178 additions and 2 deletions in 6 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -243,5 +243,5 @@
   <sub>[#191186](https://github.com/flutter/flutter/pull/191186) opened on on August 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191186) 86 additions and 24 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [Devicelab] Add physical device integration tests for iOS Universal Links<br />
-  <sub>[#191201](https://github.com/flutter/flutter/pull/191201) opened on on August 17, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191201) 1380 additions and 0 deletions in 46 files</sub><br />
+  <sub>[#191201](https://github.com/flutter/flutter/pull/191201) opened on on August 17, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191201) 1388 additions and 0 deletions in 46 files</sub><br />
 
