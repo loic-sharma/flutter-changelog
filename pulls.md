@@ -246,5 +246,5 @@
   <sub>[#191224](https://github.com/flutter/flutter/pull/191224) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191224) 93 additions and 1 deletion in 3 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.Shader between CanvasKit and Skwasm<br />
-  <sub>[#191232](https://github.com/flutter/flutter/pull/191232) opened on on August 17, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/191232) 1199 additions and 861 deletions in 18 files</sub><br />
+  <sub>[#191232](https://github.com/flutter/flutter/pull/191232) opened on on August 17, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/191232) 1279 additions and 883 deletions in 18 files</sub><br />
 
