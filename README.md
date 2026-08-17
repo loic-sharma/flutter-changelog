@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 15, 2026 to August 21, 2026
+
+1 commits.
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Deduplicate fixture builders in build_swift_package_test.dart<br />
+  <sub>[#190624](https://github.com/flutter/flutter/pull/190624) merged on August 17, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/190624) over 1 week, 119 additions and 409 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 ### August 8, 2026 to August 14, 2026
 
-117 commits.
+<details>
+<summary>117 commits...</summary>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve includes recursively in AnalysisOptionsMigration<br />
   <sub>[#191082](https://github.com/flutter/flutter/pull/191082) merged on August 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191082) over 4 hours, 375 additions and 24 deletions in 3 files</sub><br />
@@ -474,6 +483,8 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Reland "Make Xcode workspace cleaning optional during flutter clean"<br />
   <sub>[#191023](https://github.com/flutter/flutter/pull/191023) merged on August 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191023) over 5 hours, 96 additions and 22 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+</details>
 
 ### August 1, 2026 to August 7, 2026
 
