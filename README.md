@@ -4,7 +4,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-20 commits.
+21 commits.
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only render views that need to be rendered (with external texture & platform view support)<br />
   <sub>[#179874](https://github.com/flutter/flutter/pull/179874) merged on August 18, 2026 &mdash; **Large:** [170 comments](https://github.com/flutter/flutter/pull/179874) over 8 months, 722 additions and 30 deletions in 26 files</sub><br />
@@ -42,6 +42,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes sure impeller context's are plumbed through to LayerTree::Flatten.<br />
   <sub>[#191017](https://github.com/flutter/flutter/pull/191017) merged on August 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191017) over 4 days, 121 additions and 34 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff)</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Make windows_engine_integration_golden_test presubmit and non-bringup<br />
+  <sub>[#191284](https://github.com/flutter/flutter/pull/191284) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191284) over 1 hour, 1 addition and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] Clean up dead unreferenced declarations<br />
   <sub>[#191164](https://github.com/flutter/flutter/pull/191164) merged on August 18, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/191164) over 2 days, 0 additions and 692 deletions in 8 files</sub><br />
@@ -1093,10 +1097,10 @@
 
 ### August 15, 2026 to August 21, 2026
 
-10 commits.
+11 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector<br />
-  <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub><br />
+  <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(blog): add try Flutter web with WebAssembly week blog post<br />
@@ -1134,6 +1138,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Order arm64 builds first in SDK archive<br />
   <sub>[#13713](https://github.com/flutter/website/pull/13713) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13713) over 5 days, 10 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: update predictive back guide to reflect default behavior<br />
+  <sub>[#13675](https://github.com/flutter/website/pull/13675) merged on August 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13675) over 1 week, 17 additions and 12 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Muthu Ganesh](https://github.com/MuthuGCodes), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 ### August 8, 2026 to August 14, 2026
 

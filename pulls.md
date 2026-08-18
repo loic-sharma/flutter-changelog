@@ -213,7 +213,7 @@
   <sub>[#191223](https://github.com/flutter/flutter/pull/191223) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191223) 117 additions and 13 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Guard against disposed pictures in `PrerollVisitor` and `DebugInfoVisitor`<br />
-  <sub>[#191224](https://github.com/flutter/flutter/pull/191224) opened on on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191224) 126 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#191224](https://github.com/flutter/flutter/pull/191224) opened on on August 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191224) 126 additions and 3 deletions in 5 files</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; [Android] Remove old `InputType` constructor from embedding<br />
   <sub>[#191244](https://github.com/flutter/flutter/pull/191244) opened on on August 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191244) 33 additions and 24 deletions in 2 files</sub><br />
