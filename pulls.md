@@ -195,7 +195,7 @@
   <sub>[#191130](https://github.com/flutter/flutter/pull/191130) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191130) 117 additions and 0 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove ios_debug_workflow test<br />
-  <sub>[#191141](https://github.com/flutter/flutter/pull/191141) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191141) 0 additions and 171 deletions in 3 files</sub><br />
+  <sub>[#191141](https://github.com/flutter/flutter/pull/191141) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191141) 0 additions and 171 deletions in 3 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; refactor(flutter_tools): clean up dead unreferenced declarations<br />
   <sub>[#191163](https://github.com/flutter/flutter/pull/191163) opened on on August 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191163) 12 additions and 1309 deletions in 39 files</sub><br />
@@ -238,4 +238,7 @@
 
 * **[Suraj Singh](https://github.com/surajgju)** &mdash; Fix SliverChildListDelegate.shouldRebuild for addRepaintBoundaries and update performance guidance (#103068)<br />
   <sub>[#191249](https://github.com/flutter/flutter/pull/191249) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191249) 20 additions and 11 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [stable] Skip platform tooling regeneration for non-Flutter pub workspace packages<br />
+  <sub>[#191270](https://github.com/flutter/flutter/pull/191270) opened on on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191270) 83 additions and 6 deletions in 2 files</sub><br />
 
