@@ -251,3 +251,6 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; [Android] Remove old `InputType` constructor<br />
   <sub>[#191244](https://github.com/flutter/flutter/pull/191244) opened on on August 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191244) 33 additions and 24 deletions in 2 files</sub><br />
 
+* **[Suraj Singh](https://github.com/surajgju)** &mdash; Fix SliverChildListDelegate.shouldRebuild for addRepaintBoundaries and update performance guidance (#103068)<br />
+  <sub>[#191249](https://github.com/flutter/flutter/pull/191249) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191249) 20 additions and 11 deletions in 2 files</sub><br />
+
