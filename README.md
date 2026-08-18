@@ -4,10 +4,10 @@
 
 ### August 15, 2026 to August 21, 2026
 
-17 commits.
+18 commits.
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only render views that need to be rendered (with external texture & platform view support)<br />
-  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) merged on August 18, 2026 &mdash; **Large:** [169 comments](https://github.com/flutter/flutter/pull/179874) over 8 months, 722 additions and 30 deletions in 26 files</sub><br />
+  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) merged on August 18, 2026 &mdash; **Large:** [170 comments](https://github.com/flutter/flutter/pull/179874) over 8 months, 722 additions and 30 deletions in 26 files</sub><br />
   <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/flutter/pull/179874)</sub><br />
 
 * **[William Yang](https://github.com/wilyan09007)** &mdash; [native_assets] Record bundled code assets under their install name<br />
@@ -42,6 +42,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes sure impeller context's are plumbed through to LayerTree::Flatten.<br />
   <sub>[#191017](https://github.com/flutter/flutter/pull/191017) merged on August 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191017) over 4 days, 121 additions and 34 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] Clean up dead unreferenced declarations<br />
+  <sub>[#191164](https://github.com/flutter/flutter/pull/191164) merged on August 18, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/191164) over 2 days, 0 additions and 692 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix WebParagraph subpixel text stretching and letter jittering<br />
   <sub>[#191030](https://github.com/flutter/flutter/pull/191030) merged on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191030) over 4 days, 61 additions and 6 deletions in 2 files</sub><br />

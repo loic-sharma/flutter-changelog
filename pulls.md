@@ -48,7 +48,7 @@
   <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] set up an empty ios agent to host ios-team's skills<br />
-  <sub>[#188286](https://github.com/flutter/flutter/pull/188286) opened on on June 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188286) 29 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#188286](https://github.com/flutter/flutter/pull/188286) opened on on June 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/188286) 29 additions and 0 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
@@ -146,9 +146,6 @@
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; [input] Migrate fuchsia.ui.pointerinjector to TouchSource<br />
   <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/190855) 2 additions and 1379 deletions in 19 files</sub><br />
 
-* **[Langning Zhang](https://github.com/Boulea7)** &mdash; [flutter_tools] Add integration coverage for test presets<br />
-  <sub>[#190858](https://github.com/flutter/flutter/pull/190858) opened on on August 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190858) 66 additions and 0 deletions in 3 files</sub><br />
-
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -160,9 +157,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve workspace root when running widget preview from member package<br />
   <sub>[#190952](https://github.com/flutter/flutter/pull/190952) opened on on August 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190952) 225 additions and 10 deletions in 4 files</sub><br />
-
-* **[Langning Zhang](https://github.com/Boulea7)** &mdash; [gen_l10n] Preserve script locale inheritance for regional subclasses<br />
-  <sub>[#190956](https://github.com/flutter/flutter/pull/190956) opened on on August 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190956) 82 additions and 9 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Make web test subshards dynamically determined by .ci.yaml<br />
   <sub>[#191003](https://github.com/flutter/flutter/pull/191003) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191003) 34 additions and 40 deletions in 2 files</sub><br />
@@ -203,12 +197,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove ios_debug_workflow test<br />
   <sub>[#191141](https://github.com/flutter/flutter/pull/191141) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191141) 0 additions and 171 deletions in 3 files</sub><br />
 
-* **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Only exclude platform directories that actually exist in analysis_options.yaml<br />
-  <sub>[#191151](https://github.com/flutter/flutter/pull/191151) opened on on August 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191151) 137 additions and 18 deletions in 4 files</sub><br />
-
-* **[GlitchFL](https://github.com/glitchfl)** &mdash; [flutter_tools] find the command name regardless of argument position<br />
-  <sub>[#191155](https://github.com/flutter/flutter/pull/191155) opened on on August 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191155) 112 additions and 4 deletions in 3 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; refactor(flutter_tools): clean up dead unreferenced declarations<br />
   <sub>[#191163](https://github.com/flutter/flutter/pull/191163) opened on on August 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191163) 12 additions and 1309 deletions in 39 files</sub><br />
 
@@ -240,7 +228,7 @@
   <sub>[#191223](https://github.com/flutter/flutter/pull/191223) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191223) 117 additions and 13 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Guard against disposed pictures in `PrerollVisitor` and `DebugInfoVisitor`<br />
-  <sub>[#191224](https://github.com/flutter/flutter/pull/191224) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191224) 123 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#191224](https://github.com/flutter/flutter/pull/191224) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191224) 126 additions and 3 deletions in 5 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.Shader between CanvasKit and Skwasm<br />
   <sub>[#191232](https://github.com/flutter/flutter/pull/191232) opened on on August 17, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/191232) 1279 additions and 883 deletions in 18 files</sub><br />
