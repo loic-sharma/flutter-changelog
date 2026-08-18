@@ -215,12 +215,12 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix impellerc Windows Unicode crash and improve diagnostics<br />
   <sub>[#191276](https://github.com/flutter/flutter/pull/191276) opened on on August 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191276) 285 additions and 7 deletions in 3 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix deadlock in debug adapters when process exits early<br />
-  <sub>[#191282](https://github.com/flutter/flutter/pull/191282) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191282) 66 additions and 6 deletions in 6 files</sub><br />
-
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix RangeError in PredictiveBackEvent when Android sends EDGE_NONE<br />
-  <sub>[#191306](https://github.com/flutter/flutter/pull/191306) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191306) 171 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#191306](https://github.com/flutter/flutter/pull/191306) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191306) 157 additions and 6 deletions in 2 files</sub><br />
 
 * **[dipsy](https://github.com/dipsy)** &mdash; Keep SingleChildScrollView overscroll across a relayout<br />
-  <sub>[#191307](https://github.com/flutter/flutter/pull/191307) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191307) 75 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#191307](https://github.com/flutter/flutter/pull/191307) opened on on August 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191307) 69 additions and 1 deletion in 2 files</sub><br />
+
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Expose skipTraversal in FocusableActionDetector<br />
+  <sub>[#191308](https://github.com/flutter/flutter/pull/191308) opened on on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191308) 27 additions and 0 deletions in 3 files</sub><br />
 

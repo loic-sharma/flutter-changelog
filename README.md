@@ -1113,7 +1113,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-11 commits.
+12 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector<br />
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub><br />
@@ -1154,6 +1154,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Order arm64 builds first in SDK archive<br />
   <sub>[#13713](https://github.com/flutter/website/pull/13713) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13713) over 5 days, 10 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: recommend Homebrew for CocoaPods installation<br />
+  <sub>[#13686](https://github.com/flutter/website/pull/13686) merged on August 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13686) over 1 week, 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: update predictive back guide to reflect default behavior<br />
   <sub>[#13675](https://github.com/flutter/website/pull/13675) merged on August 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13675) over 1 week, 17 additions and 12 deletions in 1 file</sub><br />
