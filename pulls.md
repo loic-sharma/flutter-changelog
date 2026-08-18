@@ -18,7 +18,7 @@
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix multi-view sizing race condition (Lock approach)<br />
-  <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/185622) 114 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#185622](https://github.com/flutter/flutter/pull/185622) opened on on April 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/185622) 114 additions and 0 deletions in 2 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
@@ -89,9 +89,6 @@
 * **[Jean Herfs](https://github.com/jeanherfs)** &mdash; [SwiftPM] Derive plugin package name from app name to avoid collisions (#189585)<br />
   <sub>[#189915](https://github.com/flutter/flutter/pull/189915) opened on on July 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/189915) 240 additions and 96 deletions in 10 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Cp beta c3f6236f61f5650c315cd21da8bc58bb66f77a5f<br />
-  <sub>[#189947](https://github.com/flutter/flutter/pull/189947) opened on on July 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/189947) 5 additions and 0 deletions in 1 file</sub><br />
-
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve initial size and placement logic for popups and tooltips on Linux<br />
   <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
 
@@ -105,7 +102,7 @@
   <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Documentation and script for Gradle Distribution cache for CI<br />
-  <sub>[#190323](https://github.com/flutter/flutter/pull/190323) opened on on July 30, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/190323) 239 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#190323](https://github.com/flutter/flutter/pull/190323) opened on on July 30, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/190323) 239 additions and 0 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind shader metadata by pointer instead of copying it per draw<br />
   <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190399) 317 additions and 66 deletions in 5 files</sub><br />
@@ -133,9 +130,6 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Expand the vertex attribute formats and gate them by backend capability<br />
   <sub>[#190642](https://github.com/flutter/flutter/pull/190642) opened on on August 6, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190642) 801 additions and 77 deletions in 21 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
-  <sub>[#190685](https://github.com/flutter/flutter/pull/190685) opened on on August 6, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190685) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Android] Match external texture cache size to BufferQueue capacity<br />
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
@@ -167,9 +161,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use officially supported compile time thread local strike cache flag.<br />
   <sub>[#191014](https://github.com/flutter/flutter/pull/191014) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191014) 7 additions and 10 deletions in 3 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
-  <sub>[#191016](https://github.com/flutter/flutter/pull/191016) opened on on August 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191016) 0 additions and 7 deletions in 1 file</sub><br />
-
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
@@ -188,17 +179,11 @@
 * **[Abdullah Taş](https://github.com/abdullahtas0)** &mdash; Refresh FormField errors after locale changes<br />
   <sub>[#191110](https://github.com/flutter/flutter/pull/191110) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191110) 71 additions and 0 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Tool] Fix SwiftPM race condition during parallel Xcode builds<br />
-  <sub>[#191120](https://github.com/flutter/flutter/pull/191120) opened on on August 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191120) 571 additions and 73 deletions in 7 files</sub><br />
-
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Refators `try` to avoid `unawaited_return_in_try_block` case<br />
   <sub>[#191129](https://github.com/flutter/flutter/pull/191129) opened on on August 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191129) 6 additions and 5 deletions in 1 file</sub><br />
 
 * **[Uros Radulovic](https://github.com/AllinGaming)** &mdash; Fix nested scroll view fling crash<br />
   <sub>[#191130](https://github.com/flutter/flutter/pull/191130) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191130) 117 additions and 0 deletions in 2 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove ios_debug_workflow test<br />
-  <sub>[#191141](https://github.com/flutter/flutter/pull/191141) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191141) 0 additions and 171 deletions in 3 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; refactor(flutter_tools): clean up dead unreferenced declarations<br />
   <sub>[#191163](https://github.com/flutter/flutter/pull/191163) opened on on August 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191163) 12 additions and 1309 deletions in 39 files</sub><br />
@@ -234,7 +219,7 @@
   <sub>[#191224](https://github.com/flutter/flutter/pull/191224) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191224) 126 additions and 3 deletions in 5 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.Shader between CanvasKit and Skwasm<br />
-  <sub>[#191232](https://github.com/flutter/flutter/pull/191232) opened on on August 17, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/191232) 1279 additions and 883 deletions in 18 files</sub><br />
+  <sub>[#191232](https://github.com/flutter/flutter/pull/191232) opened on on August 17, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/191232) 1287 additions and 883 deletions in 18 files</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; [Android] Remove old `InputType` constructor from embedding<br />
   <sub>[#191244](https://github.com/flutter/flutter/pull/191244) opened on on August 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191244) 33 additions and 24 deletions in 2 files</sub><br />
@@ -242,9 +227,9 @@
 * **[Suraj Singh](https://github.com/surajgju)** &mdash; Fix SliverChildListDelegate.shouldRebuild for addRepaintBoundaries and update performance guidance (#103068)<br />
   <sub>[#191249](https://github.com/flutter/flutter/pull/191249) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191249) 20 additions and 11 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [stable] Skip platform tooling regeneration for non-Flutter pub workspace packages<br />
-  <sub>[#191270](https://github.com/flutter/flutter/pull/191270) opened on on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191270) 83 additions and 6 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix crash in symbolize command on stream error<br />
   <sub>[#191273](https://github.com/flutter/flutter/pull/191273) opened on on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191273) 28 additions and 0 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix impellerc Windows Unicode crash and improve diagnostics<br />
+  <sub>[#191276](https://github.com/flutter/flutter/pull/191276) opened on on August 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191276) 285 additions and 7 deletions in 3 files</sub><br />
 
