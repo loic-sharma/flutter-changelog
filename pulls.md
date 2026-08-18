@@ -72,7 +72,7 @@
   <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/189162) 492 additions and 542 deletions in 13 files</sub><br />
 
 * **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [flutter_tools] Use resolved application ID for app link settings<br />
-  <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; fix: Apply reversed axis flip by macOS on Web when scroll with modifier keys<br />
   <sub>[#189506](https://github.com/flutter/flutter/pull/189506) opened on on July 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189506) 122 additions and 8 deletions in 5 files</sub><br />
@@ -159,7 +159,7 @@
   <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191004) 212 additions and 13 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use officially supported compile time thread local strike cache flag.<br />
-  <sub>[#191014](https://github.com/flutter/flutter/pull/191014) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191014) 7 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#191014](https://github.com/flutter/flutter/pull/191014) opened on on August 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191014) 7 additions and 10 deletions in 3 files</sub><br />
 
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
@@ -201,7 +201,7 @@
   <sub>[#191201](https://github.com/flutter/flutter/pull/191201) opened on on August 17, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191201) 1406 additions and 0 deletions in 28 files</sub><br />
 
 * **[Hamed](https://github.com/papmodern)** &mdash; [Android] Do not schedule engine frames on a detached FlutterJNI<br />
-  <sub>[#191204](https://github.com/flutter/flutter/pull/191204) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191204) 53 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#191204](https://github.com/flutter/flutter/pull/191204) opened on on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191204) 53 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve symlinks and fix flakiness in widget preview tests<br />
   <sub>[#191214](https://github.com/flutter/flutter/pull/191214) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191214) 77 additions and 9 deletions in 8 files</sub><br />
@@ -232,4 +232,13 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix impellerc Windows Unicode crash and improve diagnostics<br />
   <sub>[#191276](https://github.com/flutter/flutter/pull/191276) opened on on August 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191276) 285 additions and 7 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix deadlock in debug adapters when process exits early<br />
+  <sub>[#191282](https://github.com/flutter/flutter/pull/191282) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191282) 66 additions and 6 deletions in 6 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Invalidate WebEntrypointTarget when plugin set changes<br />
+  <sub>[#191285](https://github.com/flutter/flutter/pull/191285) opened on on August 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191285) 32 additions and 1 deletion in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix hot reload for workspace member packages in lib/ (#190284)<br />
+  <sub>[#191289](https://github.com/flutter/flutter/pull/191289) opened on on August 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191289) 139 additions and 10 deletions in 7 files</sub><br />
 
