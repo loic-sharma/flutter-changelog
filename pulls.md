@@ -68,9 +68,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move compositor frame ownership into the view renderers<br />
   <sub>[#189162](https://github.com/flutter/flutter/pull/189162) opened on on July 9, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/189162) 492 additions and 542 deletions in 13 files</sub><br />
 
-* **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [flutter_tools] Use resolved application ID for app link settings<br />
-  <sub>[#189488](https://github.com/flutter/flutter/pull/189488) opened on on July 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/189488) 67 additions and 4 deletions in 3 files</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; fix: Apply reversed axis flip by macOS on Web when scroll with modifier keys<br />
   <sub>[#189506](https://github.com/flutter/flutter/pull/189506) opened on on July 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189506) 122 additions and 8 deletions in 5 files</sub><br />
 
@@ -209,9 +206,6 @@
 * **[Nickolas de Luca Alberton](https://github.com/nickolasdeluca)** &mdash; Cache the paint offset adjusted line metrics in TextPainter<br />
   <sub>[#191223](https://github.com/flutter/flutter/pull/191223) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191223) 117 additions and 13 deletions in 3 files</sub><br />
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; [Android] Remove old `InputType` constructor from embedding<br />
-  <sub>[#191244](https://github.com/flutter/flutter/pull/191244) opened on on August 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191244) 33 additions and 24 deletions in 2 files</sub><br />
-
 * **[Suraj Singh](https://github.com/surajgju)** &mdash; Fix SliverChildListDelegate.shouldRebuild for addRepaintBoundaries and update performance guidance (#103068)<br />
   <sub>[#191249](https://github.com/flutter/flutter/pull/191249) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191249) 20 additions and 11 deletions in 2 files</sub><br />
 
@@ -223,4 +217,10 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix deadlock in debug adapters when process exits early<br />
   <sub>[#191282](https://github.com/flutter/flutter/pull/191282) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191282) 66 additions and 6 deletions in 6 files</sub><br />
+
+* **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix RangeError in PredictiveBackEvent when Android sends EDGE_NONE<br />
+  <sub>[#191306](https://github.com/flutter/flutter/pull/191306) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191306) 171 additions and 8 deletions in 3 files</sub><br />
+
+* **[dipsy](https://github.com/dipsy)** &mdash; Keep SingleChildScrollView overscroll across a relayout<br />
+  <sub>[#191307](https://github.com/flutter/flutter/pull/191307) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191307) 75 additions and 1 deletion in 2 files</sub><br />
 
