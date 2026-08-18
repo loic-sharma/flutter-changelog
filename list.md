@@ -4,7 +4,15 @@
 
 ### August 15, 2026 to August 21, 2026
 
-13 commits.
+15 commits.
+
+* **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only render views that need to be rendered (with external texture & platform view support)
+  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) merged on August 18, 2026 &mdash; **Large:** [162 comments](https://github.com/flutter/flutter/pull/179874) over 8 months, 722 additions and 30 deletions in 26 files</sub>
+  <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/flutter/pull/179874)</sub>
+
+* **[William Yang](https://github.com/wilyan09007)** &mdash; [native_assets] Record bundled code assets under their install name
+  <sub>[#190819](https://github.com/flutter/flutter/pull/190819) merged on August 18, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190819) over 1 week, 350 additions and 23 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.ImageFilter between CanvasKit and Skwasm
   <sub>[#191021](https://github.com/flutter/flutter/pull/191021) merged on August 17, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/191021) over 4 days, 682 additions and 915 deletions in 24 files</sub>

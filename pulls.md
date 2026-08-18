@@ -212,6 +212,9 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; refactor(flutter_tools): clean up dead unreferenced declarations<br />
   <sub>[#191163](https://github.com/flutter/flutter/pull/191163) opened on on August 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191163) 12 additions and 1309 deletions in 39 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Remove dead HTMLCanvasElement declaration in packages/flutter<br />
+  <sub>[#191165](https://github.com/flutter/flutter/pull/191165) opened on on August 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191165) 0 additions and 8 deletions in 1 file</sub><br />
+
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [flutter_tools] Update Mach-O SDK version in App.framework using vtool<br />
   <sub>[#191169](https://github.com/flutter/flutter/pull/191169) opened on on August 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191169) 175 additions and 6 deletions in 5 files</sub><br />
 
