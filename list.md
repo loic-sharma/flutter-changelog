@@ -1137,15 +1137,27 @@
 
 ### August 15, 2026 to August 21, 2026
 
-6 commits.
+9 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(blog): add try Flutter web with WebAssembly week blog post
   <sub>[#13667](https://github.com/flutter/website/pull/13667) merged on August 17, 2026 &mdash; **Small:** [54 comments](https://github.com/flutter/website/pull/13667) over 1 week, 141 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Abdallah Shaban](https://github.com/abdallahshaban557), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; add `describeEnum` removal breaking change entry and migration guide
+  <sub>[#13682](https://github.com/flutter/website/pull/13682) merged on August 18, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/website/pull/13682) over 1 week, 60 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add note about deferred loading to flutter.dev/platform-integration/web/wasm
+  <sub>[#13648](https://github.com/flutter/website/pull/13648) merged on August 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13648) over 2 weeks, 13 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Nate Biggs](https://github.com/biggs0125), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Clarify Android platform-view mechanics and HCPP requirements
   <sub>[#13705](https://github.com/flutter/website/pull/13705) merged on August 17, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13705) over 6 days, 33 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [blog] Set up and fix table styling
+  <sub>[#13733](https://github.com/flutter/website/pull/13733) merged on August 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13733) over 12 hours, 8 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Mark sfshaza2 as default blog reviewer
   <sub>[#13734](https://github.com/flutter/website/pull/13734) merged on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13734) over 1 hour, 4 additions and 0 deletions in 1 file</sub>
