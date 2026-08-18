@@ -4,7 +4,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-15 commits.
+16 commits.
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only render views that need to be rendered (with external texture & platform view support)<br />
   <sub>[#179874](https://github.com/flutter/flutter/pull/179874) merged on August 18, 2026 &mdash; **Large:** [168 comments](https://github.com/flutter/flutter/pull/179874) over 8 months, 722 additions and 30 deletions in 26 files</sub><br />
@@ -22,6 +22,10 @@
   <sub>[#191070](https://github.com/flutter/flutter/pull/191070) merged on August 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191070) over 4 days, 18 additions and 1 deletion in 6 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1512" height="982" alt="Screenshot 2026-08-14 at 12 50 04 AM" src="https://github.com/user-attachments/assets/b3a2072e-4b4d-4ad7-baa7-50baf9aeed15" /></details></sub>
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Revert: Only render views that need to be rendered (with external texture & platform view support)<br />
+  <sub>[#191252](https://github.com/flutter/flutter/pull/191252) merged on August 18, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/191252) over 1 hour, 30 additions and 722 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matej Knopp](https://github.com/knopp)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Deduplicate fixture builders in build_swift_package_test.dart<br />
   <sub>[#190624](https://github.com/flutter/flutter/pull/190624) merged on August 17, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/190624) over 1 week, 119 additions and 409 deletions in 1 file</sub><br />
