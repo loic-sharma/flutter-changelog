@@ -294,7 +294,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate 5 iOS UI driver tests to Mac Simulators
-  <sub>[#190679](https://github.com/flutter/flutter/pull/190679) merged on August 14, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/190679) over 1 week, 130 additions and 20 deletions in 9 files</sub>
+  <sub>[#190679](https://github.com/flutter/flutter/pull/190679) merged on August 14, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/190679) over 1 week, 130 additions and 20 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Refactor `flutter_view` example to not use `material`
