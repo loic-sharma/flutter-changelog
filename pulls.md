@@ -245,3 +245,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.Shader between CanvasKit and Skwasm<br />
   <sub>[#191232](https://github.com/flutter/flutter/pull/191232) opened on on August 17, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/191232) 1279 additions and 883 deletions in 18 files</sub><br />
 
+* **[Alex Li](https://github.com/AlexV525)** &mdash; [Android] Remove old `InputType` constructor<br />
+  <sub>[#191244](https://github.com/flutter/flutter/pull/191244) opened on on August 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191244) 33 additions and 24 deletions in 2 files</sub><br />
+
