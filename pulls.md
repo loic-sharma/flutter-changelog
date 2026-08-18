@@ -224,12 +224,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix deadlock in debug adapters when process exits early<br />
   <sub>[#191282](https://github.com/flutter/flutter/pull/191282) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191282) 66 additions and 6 deletions in 6 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix hot reload for workspace member packages in lib/ (#190284)<br />
-  <sub>[#191289](https://github.com/flutter/flutter/pull/191289) opened on on August 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191289) 139 additions and 10 deletions in 7 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Resolve includes recursively in AnalysisOptionsMigration<br />
-  <sub>[#191292](https://github.com/flutter/flutter/pull/191292) opened on on August 18, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/191292) 375 additions and 24 deletions in 3 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Validate plugin class/package identifiers to prevent GeneratedPluginRegistrant injection<br />
-  <sub>[#191294](https://github.com/flutter/flutter/pull/191294) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191294) 234 additions and 17 deletions in 3 files</sub><br />
-
