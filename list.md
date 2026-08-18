@@ -4,7 +4,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-25 commits.
+27 commits.
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only render views that need to be rendered (with external texture & platform view support)
   <sub>[#179874](https://github.com/flutter/flutter/pull/179874) merged on August 18, 2026 &mdash; **Large:** [170 comments](https://github.com/flutter/flutter/pull/179874) over 8 months, 722 additions and 30 deletions in 26 files</sub>
@@ -42,6 +42,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes sure impeller context's are plumbed through to LayerTree::Flatten.
   <sub>[#191017](https://github.com/flutter/flutter/pull/191017) merged on August 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191017) over 4 days, 121 additions and 34 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff)</sub>
+
+* **[GlitchFL](https://github.com/glitchfl)** &mdash; [flutter_tools] find the command name regardless of argument position
+  <sub>[#191155](https://github.com/flutter/flutter/pull/191155) merged on August 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191155) over 3 days, 112 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle all DartDevelopmentServiceExceptions gracefully in resident web runner
+  <sub>[#191183](https://github.com/flutter/flutter/pull/191183) merged on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191183) over 2 days, 29 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Catch exceptions when starting Chrome to launch DevTools
   <sub>[#191215](https://github.com/flutter/flutter/pull/191215) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191215) over 1 day, 59 additions and 1 deletion in 2 files</sub>
