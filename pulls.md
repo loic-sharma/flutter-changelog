@@ -248,3 +248,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.Shader between CanvasKit and Skwasm<br />
   <sub>[#191232](https://github.com/flutter/flutter/pull/191232) opened on on August 17, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/191232) 1279 additions and 883 deletions in 18 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; SliverFillRemaining extends beyond viewport size when fillOverscroll is true<br />
+  <sub>[#191236](https://github.com/flutter/flutter/pull/191236) opened on on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191236) 240 additions and 2 deletions in 2 files</sub><br />
+
