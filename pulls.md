@@ -120,7 +120,7 @@
   <sub>[#190468](https://github.com/flutter/flutter/pull/190468) opened on on August 3, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/190468) 131 additions and 1 deletion in 2 files</sub><br />
 
 * **[zulongzhang](https://github.com/zulongzhang)** &mdash; [Linux] Fix a potential GList leak in FlTouchManager<br />
-  <sub>[#190518](https://github.com/flutter/flutter/pull/190518) opened on on August 4, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/190518) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#190518](https://github.com/flutter/flutter/pull/190518) opened on on August 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190518) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Amaan Ansari](https://github.com/amaan-0331)** &mdash; [Android] Guard PlatformViewsController2.onEndFrame against a detached FlutterView<br />
   <sub>[#190612](https://github.com/flutter/flutter/pull/190612) opened on on August 5, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/190612) 53 additions and 1 deletion in 2 files</sub><br />
