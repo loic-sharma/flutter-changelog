@@ -179,6 +179,9 @@
 * **[Marcin Wróblewski](https://github.com/wrbl606)** &mdash; Use Liquid Glass icon in iOS app templates by default<br />
   <sub>[#191059](https://github.com/flutter/flutter/pull/191059) opened on on August 13, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191059) 456 additions and 6 deletions in 9 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Prevent platform views from stealing text input focus from TextFields<br />
+  <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
+
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; Exclude local Swift package schemes from --flavor error message<br />
   <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
 
@@ -228,7 +231,7 @@
   <sub>[#191223](https://github.com/flutter/flutter/pull/191223) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191223) 117 additions and 13 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Guard against disposed pictures in `PrerollVisitor` and `DebugInfoVisitor`<br />
-  <sub>[#191224](https://github.com/flutter/flutter/pull/191224) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191224) 126 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#191224](https://github.com/flutter/flutter/pull/191224) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191224) 126 additions and 3 deletions in 5 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.Shader between CanvasKit and Skwasm<br />
   <sub>[#191232](https://github.com/flutter/flutter/pull/191232) opened on on August 17, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/191232) 1279 additions and 883 deletions in 18 files</sub><br />
@@ -241,4 +244,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [stable] Skip platform tooling regeneration for non-Flutter pub workspace packages<br />
   <sub>[#191270](https://github.com/flutter/flutter/pull/191270) opened on on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191270) 83 additions and 6 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix crash in symbolize command on stream error<br />
+  <sub>[#191273](https://github.com/flutter/flutter/pull/191273) opened on on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191273) 28 additions and 0 deletions in 2 files</sub><br />
 
