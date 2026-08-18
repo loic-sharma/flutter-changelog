@@ -170,12 +170,6 @@
 * **[Abdullah Taş](https://github.com/abdullahtas0)** &mdash; Refresh FormField errors after locale changes<br />
   <sub>[#191110](https://github.com/flutter/flutter/pull/191110) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191110) 71 additions and 0 deletions in 2 files</sub><br />
 
-* **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Refators `try` to avoid `unawaited_return_in_try_block` case<br />
-  <sub>[#191129](https://github.com/flutter/flutter/pull/191129) opened on on August 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191129) 6 additions and 5 deletions in 1 file</sub><br />
-
-* **[Uros Radulovic](https://github.com/AllinGaming)** &mdash; Fix nested scroll view fling crash<br />
-  <sub>[#191130](https://github.com/flutter/flutter/pull/191130) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191130) 117 additions and 0 deletions in 2 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; refactor(flutter_tools): clean up dead unreferenced declarations<br />
   <sub>[#191163](https://github.com/flutter/flutter/pull/191163) opened on on August 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191163) 12 additions and 1309 deletions in 39 files</sub><br />
 
@@ -184,9 +178,6 @@
 
 * **[Sai kamal](https://github.com/Dantusaikamal)** &mdash; Clear text input client after platform-initiated connection close<br />
   <sub>[#191184](https://github.com/flutter/flutter/pull/191184) opened on on August 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191184) 90 additions and 14 deletions in 3 files</sub><br />
-
-* **[GlitchFL](https://github.com/glitchfl)** &mdash; Lerp HSVColor and HSLColor hue along the shortest arc<br />
-  <sub>[#191186](https://github.com/flutter/flutter/pull/191186) opened on on August 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191186) 86 additions and 24 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [Devicelab] Add physical device integration tests for iOS Universal Links<br />
   <sub>[#191201](https://github.com/flutter/flutter/pull/191201) opened on on August 17, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191201) 1406 additions and 0 deletions in 28 files</sub><br />
@@ -206,9 +197,6 @@
 * **[Nickolas de Luca Alberton](https://github.com/nickolasdeluca)** &mdash; Cache the paint offset adjusted line metrics in TextPainter<br />
   <sub>[#191223](https://github.com/flutter/flutter/pull/191223) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191223) 117 additions and 13 deletions in 3 files</sub><br />
 
-* **[Suraj Singh](https://github.com/surajgju)** &mdash; Fix SliverChildListDelegate.shouldRebuild for addRepaintBoundaries and update performance guidance (#103068)<br />
-  <sub>[#191249](https://github.com/flutter/flutter/pull/191249) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191249) 20 additions and 11 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix crash in symbolize command on stream error<br />
   <sub>[#191273](https://github.com/flutter/flutter/pull/191273) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191273) 29 additions and 1 deletion in 2 files</sub><br />
 
@@ -222,5 +210,11 @@
   <sub>[#191308](https://github.com/flutter/flutter/pull/191308) opened on on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191308) 27 additions and 0 deletions in 3 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Support local screenshot and golden testing in felt test<br />
-  <sub>[#191318](https://github.com/flutter/flutter/pull/191318) opened on on August 18, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191318) 997 additions and 119 deletions in 11 files</sub><br />
+  <sub>[#191318](https://github.com/flutter/flutter/pull/191318) opened on on August 18, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/191318) 1041 additions and 124 deletions in 11 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [stable] Update changelog for Flutter 3.47.1.<br />
+  <sub>[#191319](https://github.com/flutter/flutter/pull/191319) opened on on August 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191319) 28 additions and 0 deletions in 1 file</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Rolls libpng to 1.6.58<br />
+  <sub>[#191320](https://github.com/flutter/flutter/pull/191320) opened on on August 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191320) 1 addition and 1 deletion in 1 file</sub><br />
 
