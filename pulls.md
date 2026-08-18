@@ -210,11 +210,17 @@
   <sub>[#191308](https://github.com/flutter/flutter/pull/191308) opened on on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191308) 27 additions and 0 deletions in 3 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Support local screenshot and golden testing in felt test<br />
-  <sub>[#191318](https://github.com/flutter/flutter/pull/191318) opened on on August 18, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/191318) 1089 additions and 124 deletions in 11 files</sub><br />
+  <sub>[#191318](https://github.com/flutter/flutter/pull/191318) opened on on August 18, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/191318) 1089 additions and 124 deletions in 11 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [stable] Update changelog for Flutter 3.47.1.<br />
   <sub>[#191319](https://github.com/flutter/flutter/pull/191319) opened on on August 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191319) 28 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Rolls libpng to 1.6.58<br />
   <sub>[#191320](https://github.com/flutter/flutter/pull/191320) opened on on August 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191320) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Handle all DartDevelopmentServiceExceptions gracefully in resident web runner<br />
+  <sub>[#191323](https://github.com/flutter/flutter/pull/191323) opened on on August 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191323) 29 additions and 5 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Gracefully handle ping timeouts for custom devices<br />
+  <sub>[#191324](https://github.com/flutter/flutter/pull/191324) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191324) 61 additions and 2 deletions in 2 files</sub><br />
 
