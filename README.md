@@ -4,10 +4,10 @@
 
 ### August 15, 2026 to August 21, 2026
 
-16 commits.
+17 commits.
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only render views that need to be rendered (with external texture & platform view support)<br />
-  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) merged on August 18, 2026 &mdash; **Large:** [168 comments](https://github.com/flutter/flutter/pull/179874) over 8 months, 722 additions and 30 deletions in 26 files</sub><br />
+  <sub>[#179874](https://github.com/flutter/flutter/pull/179874) merged on August 18, 2026 &mdash; **Large:** [169 comments](https://github.com/flutter/flutter/pull/179874) over 8 months, 722 additions and 30 deletions in 26 files</sub><br />
   <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/flutter/pull/179874)</sub><br />
 
 * **[William Yang](https://github.com/wilyan09007)** &mdash; [native_assets] Record bundled code assets under their install name<br />
@@ -62,6 +62,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update TESTOWNERS<br />
   <sub>[#191233](https://github.com/flutter/flutter/pull/191233) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191233) over 1 hour, 9 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Remove dead HTMLCanvasElement declaration in packages/flutter<br />
+  <sub>[#191165](https://github.com/flutter/flutter/pull/191165) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191165) over 2 days, 0 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix wide gamut condition on metal playground tests<br />
   <sub>[#191210](https://github.com/flutter/flutter/pull/191210) merged on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191210) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
