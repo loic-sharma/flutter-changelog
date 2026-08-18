@@ -14,14 +14,14 @@
   <sub>[#190819](https://github.com/flutter/flutter/pull/190819) merged on August 18, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190819) over 1 week, 350 additions and 23 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub>
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.ImageFilter between CanvasKit and Skwasm
-  <sub>[#191021](https://github.com/flutter/flutter/pull/191021) merged on August 17, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/191021) over 4 days, 682 additions and 915 deletions in 24 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Add missing Widget of the Week videos to widget API docs
   <sub>[#191070](https://github.com/flutter/flutter/pull/191070) merged on August 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191070) over 4 days, 18 additions and 1 deletion in 6 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary><img width="1512" height="982" alt="Screenshot 2026-08-14 at 12 50 04 AM" src="https://github.com/user-attachments/assets/b3a2072e-4b4d-4ad7-baa7-50baf9aeed15" /></details></sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.ImageFilter between CanvasKit and Skwasm
+  <sub>[#191021](https://github.com/flutter/flutter/pull/191021) merged on August 17, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/191021) over 4 days, 682 additions and 915 deletions in 24 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Deduplicate fixture builders in build_swift_package_test.dart
   <sub>[#190624](https://github.com/flutter/flutter/pull/190624) merged on August 17, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/190624) over 1 week, 119 additions and 409 deletions in 1 file</sub>
