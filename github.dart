@@ -65,6 +65,9 @@ Future<T> _runQuery<T>({
     stdout.writeln(' ${response.statusCode} (${timer.elapsed.inMilliseconds}ms)');
 
     if (response.statusCode != 200) {
+      if (response.reasonPhrase != null) {
+        print('Reason: ${response.reasonPhrase}');
+      }
       print('Attempt ${attempt + 1}/3...');
       await Future.delayed(Duration(seconds: 3));
       continue;

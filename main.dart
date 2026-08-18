@@ -5,6 +5,10 @@ import 'package:intl/intl.dart';
 import './github.dart';
 import './output.dart';
 
+// Run with:
+//
+// $ export GITHUB_TOKEN=$(gh auth token)
+// $ dart run main.dart
 void main(List<String> arguments) async {
   String? token = Platform.environment['GITHUB_TOKEN'];
   String? flutterTeam = Platform.environment['FLUTTER_TEAM'];
@@ -29,12 +33,18 @@ Future<void> _writeChangelog(String? token) async {
   // Add the last 3 weeks of commits starting on Saturday.
   DateTime start = DateTime.now().subtract(Duration(days: 21));
   start = DateTime(start.year, start.month, start.day);
-  start = start.add(
-    Duration(days: 6 - start.weekday)
-  );
+  start = start.add(Duration(days: 6 - start.weekday));
 
-  String owner = 'flutter';
-  for (final repository in ['flutter', 'packages', 'website', 'core-packages']) {
+  final repositories = [
+    'flutter/flutter',
+    'flutter/packages',
+    'flutter/website',
+    'flutter/core-packages',
+  ];
+
+  for (final ownerAndRepository in repositories) {
+    final [owner, repository] = ownerAndRepository.split('/');
+
     var done = false;
     String? after;
     final seen = <int>{};
@@ -72,7 +82,8 @@ Future<void> _writeChangelog(String? token) async {
   await list.dispose();
 }
 
-Future<void> _writeUnassignedPullRequests(String? token, Set<String> team) async {
+Future<void> _writeUnassignedPullRequests(
+    String? token, Set<String> team) async {
   final output = File('pulls.md').openWrite();
   final writer = UnassignedPullRequestWriter(output);
 
@@ -86,10 +97,11 @@ Future<void> _writeUnassignedPullRequests(String? token, Set<String> team) async
       if (pullRequest.isDraft) continue;
       if (_bots.contains(pullRequest.authorLogin.toLowerCase())) continue;
 
-      final reviews = pullRequest.reviews.followedBy(pullRequest.reviewRequests);
+      final reviews =
+          pullRequest.reviews.followedBy(pullRequest.reviewRequests);
       final reviewers = reviews
-        .map((review) => review.reviewerLogin?.toLowerCase())
-        .where((reviewer) => reviewer != null);
+          .map((review) => review.reviewerLogin?.toLowerCase())
+          .where((reviewer) => reviewer != null);
 
       if (reviewers.any((reviewer) => team.contains(reviewer))) continue;
 
@@ -115,9 +127,10 @@ const _bots = {
   'auto-submit',
   'dependabot',
   'engine-flutter-autoroll',
+  'flutteractionsbot',
   'fluttergithubbot',
   'flutter-pub-roller-bot',
-  'skia-flutter-autoroll'
+  'skia-flutter-autoroll',
 };
 int _score(Commit commit) {
   final pr = commit.pullRequest;
@@ -136,7 +149,8 @@ int _score(Commit commit) {
   final reviewDuration = commit.commitDate.difference(pr.createdAt);
   if (reviewDuration.inDays > 14) score += 5;
 
-  final hasImage = _htmlImageRegex.hasMatch(pr.body) || _mdImageRegex.hasMatch(pr.body);
+  final hasImage =
+      _htmlImageRegex.hasMatch(pr.body) || _mdImageRegex.hasMatch(pr.body);
   if (hasImage) score += 20;
 
   if (_revertRegex.hasMatch(pr.title)) {
@@ -149,14 +163,14 @@ int _score(Commit commit) {
 
   if (_bots.contains(pr.authorLogin)) score -= 10;
 
-  bool team =  pr.authorOrganizations.contains('flutter') ||
-    pr.authorOrganizations.contains('google') ||
-    pr.authorOrganizations.contains('googlers');
+  bool team = pr.authorOrganizations.contains('flutter') ||
+      pr.authorOrganizations.contains('google') ||
+      pr.authorOrganizations.contains('googlers');
 
   if (team) score += 2;
 
-  if (pr.authorAssociation == CommentAuthorAssociation.firstTimeContributor
-    || pr.authorAssociation == CommentAuthorAssociation.firstTimer) {
+  if (pr.authorAssociation == CommentAuthorAssociation.firstTimeContributor ||
+      pr.authorAssociation == CommentAuthorAssociation.firstTimer) {
     score += 2;
   }
 
@@ -181,9 +195,22 @@ bool _ignore(Commit commit) {
     if (pr.title.startsWith('Bump ')) return true;
 
     // The flutter/packages repo has dependabot commits like:
-    // [package_name]: Bump dependency from 1.2.3 to 4.5.6 in /path/to/package 
+    // [package_name]: Bump dependency from 1.2.3 to 4.5.6 in /path/to/package
     if (commit.pullRequest.url.path.contains('flutter/packages')) {
       if (pr.title.contains(']: Bump ')) return true;
+    }
+  }
+
+  if (pr.authorLogin == 'flutteractionsbot') {
+    if (pr.title.startsWith('Revert: ')) return true;
+  }
+
+  if (pr.authorLogin == 'fluttergithubbot') {
+    if (pr.title.startsWith('Marks ') && pr.title.endsWith('to be unflaky')) {
+      return true;
+    }
+    if (pr.title.startsWith('Sync ') && pr.title.endsWith('to main')) {
+      return true;
     }
   }
 
@@ -203,16 +230,12 @@ bool _ignore(Commit commit) {
     if (pr.title.startsWith('Roll Fuchsia ')) return true;
     if (pr.title.startsWith('Roll Flutter Engine from')) return true;
     if (pr.title.startsWith('Roll Flutter from')) return true;
-    if (pr.title.startsWith('Roll ICU from ')) return true;
+    if (pr.title.startsWith('Roll ICU from')) return true;
     if (pr.title.startsWith('Roll Packages from')) return true;
     if (pr.title.startsWith('Roll Plugins from')) return true;
     if (pr.title.startsWith('Roll Skia from')) return true;
 
     if (pr.title == 'Roll pub packages') return true;
-  }
-
-  if (pr.authorLogin == 'fluttergithubbot') {
-    if (pr.title.startsWith('Marks') && pr.title.endsWith('to be unflaky')) return true;
   }
 
   return false;
@@ -226,7 +249,8 @@ String _subsection(Commit commit) {
     commit.commitDate.day,
   );
 
-  final start = date.subtract(Duration(days: commit.commitDate.weekday - 6 + 7));
+  final start =
+      date.subtract(Duration(days: commit.commitDate.weekday - 6 + 7));
   final end = date.add(Duration(days: 5 - commit.commitDate.weekday));
 
   return '${DateFormat.yMMMMd().format(start)} to ${DateFormat.yMMMMd().format(end)}';
