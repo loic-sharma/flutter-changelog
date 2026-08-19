@@ -107,6 +107,9 @@
 * **[zulongzhang](https://github.com/zulongzhang)** &mdash; [Linux] Fix a potential GList leak in FlTouchManager<br />
   <sub>[#190518](https://github.com/flutter/flutter/pull/190518) opened on on August 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190518) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[ふぁ](https://github.com/fa0311)** &mdash; [macOS] Offer key events to the IME before the framework while composing<br />
+  <sub>[#190538](https://github.com/flutter/flutter/pull/190538) opened on on August 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190538) 111 additions and 1 deletion in 4 files</sub><br />
+
 * **[Matheus Dias](https://github.com/Mathvdias)** &mdash; feat(flutter_test): add startHover and startHoverAt helper to WidgetTester<br />
   <sub>[#190630](https://github.com/flutter/flutter/pull/190630) opened on on August 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190630) 95 additions and 0 deletions in 3 files</sub><br />
 
@@ -222,5 +225,8 @@
   <sub>[#191334](https://github.com/flutter/flutter/pull/191334) opened on on August 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191334) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; [stable] fix: limit render size of custom elements<br />
-  <sub>[#191341](https://github.com/flutter/flutter/pull/191341) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191341) 89 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#191341](https://github.com/flutter/flutter/pull/191341) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191341) 89 additions and 3 deletions in 2 files</sub><br />
+
+* **[holzgeist](https://github.com/holzgeist)** &mdash; chore: correct copy paste error in test name<br />
+  <sub>[#191342](https://github.com/flutter/flutter/pull/191342) opened on on August 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191342) 1 addition and 1 deletion in 1 file</sub><br />
 
