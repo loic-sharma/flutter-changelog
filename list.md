@@ -130,13 +130,17 @@
   <sub>[#190637](https://github.com/flutter/flutter/pull/190637) merged on August 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190637) over 1 week, 116 additions and 26 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use officially supported compile time thread local strike cache flag.
+  <sub>[#191014](https://github.com/flutter/flutter/pull/191014) merged on August 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191014) over 6 days, 7 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) merged on August 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187254) over 2 months, 19 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub>
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use officially supported compile time thread local strike cache flag.
-  <sub>[#191014](https://github.com/flutter/flutter/pull/191014) merged on August 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191014) over 6 days, 7 additions and 10 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix respecting`--enable-software-rendering` in the embedding
+  <sub>[#191321](https://github.com/flutter/flutter/pull/191321) merged on August 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191321) over 3 hours, 66 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Make glBlitFramebuffer optional in the OpenGL compositor
   <sub>[#189476](https://github.com/flutter/flutter/pull/189476) merged on August 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/189476) over 1 month, 67 additions and 6 deletions in 2 files</sub>
@@ -161,10 +165,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Fix macOS 27 os_log compile errors, improve TRACE_VSYNC
   <sub>[#191238](https://github.com/flutter/flutter/pull/191238) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191238) over 20 hours, 6 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix respecting`--enable-software-rendering` in the embedding
-  <sub>[#191321](https://github.com/flutter/flutter/pull/191321) merged on August 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191321) over 3 hours, 66 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Only exclude platform directories that actually exist in analysis_options.yaml
   <sub>[#191151](https://github.com/flutter/flutter/pull/191151) merged on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191151) over 3 days, 137 additions and 18 deletions in 4 files</sub>
@@ -1091,7 +1091,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-2 commits.
+3 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Fix chrome 145 web tests
   <sub>[#12486](https://github.com/flutter/packages/pull/12486) merged on August 19, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/12486) over 1 day, 3289 additions and 2693 deletions in 18 files</sub>
@@ -1100,6 +1100,10 @@
 * **[Melih Arık](https://github.com/meliharik)** &mdash; [google_maps_flutter_platform_interface] Fix PinConfig code sample
   <sub>[#12259](https://github.com/flutter/packages/pull/12259) merged on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12259) over 4 weeks, 9 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Add `triage-design` label
+  <sub>[#12488](https://github.com/flutter/packages/pull/12488) merged on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12488) over 1 day, 8 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 ### August 8, 2026 to August 14, 2026
 
