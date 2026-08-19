@@ -1235,7 +1235,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-15 commits.
+17 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub>
@@ -1276,6 +1276,14 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Order arm64 builds first in SDK archive
   <sub>[#13713](https://github.com/flutter/website/pull/13713) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13713) over 5 days, 10 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add redirect for go-router-v18-breaking-changes
+  <sub>[#13747](https://github.com/flutter/website/pull/13747) merged on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13747) over 20 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding "Android license status unknown" section to troubleshooting guide
+  <sub>[#13753](https://github.com/flutter/website/pull/13753) merged on August 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13753) over 4 hours, 49 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Jess K](https://github.com/jesskuras)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Collapsing and renaming blog categories
   <sub>[#13750](https://github.com/flutter/website/pull/13750) merged on August 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/website/pull/13750) over 7 hours, 247 additions and 258 deletions in 239 files</sub>
