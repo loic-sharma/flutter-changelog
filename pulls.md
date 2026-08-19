@@ -81,7 +81,7 @@
   <sub>[#189915](https://github.com/flutter/flutter/pull/189915) opened on on July 23, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/189915) 240 additions and 96 deletions in 10 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve initial size and placement logic for popups and tooltips on Linux<br />
-  <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
+  <sub>[#189994](https://github.com/flutter/flutter/pull/189994) opened on on July 24, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/189994) 242 additions and 27 deletions in 3 files</sub><br />
 
 * **[Lavanbarath B](https://github.com/lavan8t)** &mdash; fix(logger): preserve Unicode check and cross symbols in log output<br />
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
