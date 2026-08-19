@@ -221,3 +221,6 @@
 * **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; Re-eneable rendering on will enter foreground<br />
   <sub>[#191350](https://github.com/flutter/flutter/pull/191350) opened on on August 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191350) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[sazzadhossainemon06-droid](https://github.com/sazzadhossainemon06-droid)** &mdash; Update CONTRIBUTING.md<br />
+  <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />
+
