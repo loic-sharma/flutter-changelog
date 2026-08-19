@@ -4,7 +4,12 @@
 
 ### August 15, 2026 to August 21, 2026
 
-34 commits.
+36 commits.
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Add useLogicalPixels to ResizeImage for logical pixel cache sizing
+  <sub>[#184549](https://github.com/flutter/flutter/pull/184549) merged on August 18, 2026 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/184549) over 4 months, 305 additions and 22 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub><details><summary>1 image...</summary><img width="300" alt="example" src="https://github.com/user-attachments/assets/43c10cd6-8b8e-4c87-93fd-b2be80030af2" /></details></sub>
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only render views that need to be rendered (with external texture & platform view support)
   <sub>[#179874](https://github.com/flutter/flutter/pull/179874) merged on August 18, 2026 &mdash; **Large:** [170 comments](https://github.com/flutter/flutter/pull/179874) over 8 months, 722 additions and 30 deletions in 26 files</sub>
@@ -47,17 +52,13 @@
   <sub>[#191017](https://github.com/flutter/flutter/pull/191017) merged on August 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191017) over 4 days, 121 additions and 34 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff)</sub>
 
-* **[GlitchFL](https://github.com/glitchfl)** &mdash; [flutter_tools] find the command name regardless of argument position
-  <sub>[#191155](https://github.com/flutter/flutter/pull/191155) merged on August 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191155) over 3 days, 112 additions and 4 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Langning Zhang](https://github.com/Boulea7)** &mdash; [gen_l10n] Preserve script locale inheritance for regional subclasses
   <sub>[#190956](https://github.com/flutter/flutter/pull/190956) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190956) over 1 week, 82 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle all DartDevelopmentServiceExceptions gracefully in resident web runner
-  <sub>[#191183](https://github.com/flutter/flutter/pull/191183) merged on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191183) over 2 days, 29 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
+* **[GlitchFL](https://github.com/glitchfl)** &mdash; [flutter_tools] find the command name regardless of argument position
+  <sub>[#191155](https://github.com/flutter/flutter/pull/191155) merged on August 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191155) over 3 days, 112 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Catch exceptions when starting Chrome to launch DevTools
   <sub>[#191215](https://github.com/flutter/flutter/pull/191215) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191215) over 1 day, 59 additions and 1 deletion in 2 files</sub>
@@ -91,9 +92,17 @@
   <sub>[#190612](https://github.com/flutter/flutter/pull/190612) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190612) over 1 week, 53 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub>
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle all DartDevelopmentServiceExceptions gracefully in resident web runner
+  <sub>[#191183](https://github.com/flutter/flutter/pull/191183) merged on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191183) over 2 days, 29 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
+
 * **[Alex Li](https://github.com/AlexV525)** &mdash; Add numeric-password variation to TextInputType.numberWithOptions
   <sub>[#190637](https://github.com/flutter/flutter/pull/190637) merged on August 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190637) over 1 week, 116 additions and 26 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[ふぁ](https://github.com/fa0311)** &mdash; Cache `BoxShadow` paints in `_BoxDecorationPainter`
+  <sub>[#190194](https://github.com/flutter/flutter/pull/190194) merged on August 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/190194) over 2 weeks, 10 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Improve error reporting for dumpsys meminfo
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) merged on August 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187254) over 2 months, 19 additions and 2 deletions in 2 files</sub>
@@ -103,6 +112,10 @@
   <sub>[#191014](https://github.com/flutter/flutter/pull/191014) merged on August 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191014) over 6 days, 7 additions and 10 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes windows_text_shadow_perf__timeline_summary bringup false.
+  <sub>[#191010](https://github.com/flutter/flutter/pull/191010) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191010) over 6 days, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Fix macOS 27 os_log compile errors, improve TRACE_VSYNC
   <sub>[#191238](https://github.com/flutter/flutter/pull/191238) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191238) over 20 hours, 6 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
@@ -110,10 +123,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update TESTOWNERS
   <sub>[#191233](https://github.com/flutter/flutter/pull/191233) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191233) over 1 hour, 9 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes windows_text_shadow_perf__timeline_summary bringup false.
-  <sub>[#191010](https://github.com/flutter/flutter/pull/191010) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191010) over 6 days, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Only exclude platform directories that actually exist in analysis_options.yaml
   <sub>[#191151](https://github.com/flutter/flutter/pull/191151) merged on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191151) over 3 days, 137 additions and 18 deletions in 4 files</sub>
