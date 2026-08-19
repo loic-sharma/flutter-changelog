@@ -221,3 +221,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup for migrated driver tests<br />
   <sub>[#191334](https://github.com/flutter/flutter/pull/191334) opened on on August 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191334) 0 additions and 4 deletions in 1 file</sub><br />
 
+* **[holzgeist](https://github.com/holzgeist)** &mdash; [stable] fix: limit render size of custom elements<br />
+  <sub>[#191341](https://github.com/flutter/flutter/pull/191341) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191341) 89 additions and 3 deletions in 2 files</sub><br />
+
