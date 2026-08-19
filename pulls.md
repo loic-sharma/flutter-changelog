@@ -93,10 +93,10 @@
   <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190153) 928 additions and 58 deletions in 5 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix 1px edge clipping on Platform Views by preserving floating-point precision where possible and rounding otherwise instead of truncating<br />
-  <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
+  <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Documentation and script for Gradle Distribution cache for CI<br />
-  <sub>[#190323](https://github.com/flutter/flutter/pull/190323) opened on on July 30, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/190323) 239 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#190323](https://github.com/flutter/flutter/pull/190323) opened on on July 30, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/190323) 239 additions and 0 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind shader metadata by pointer instead of copying it per draw<br />
   <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190399) 317 additions and 66 deletions in 5 files</sub><br />
@@ -112,9 +112,6 @@
 
 * **[zulongzhang](https://github.com/zulongzhang)** &mdash; [Linux] Fix a potential GList leak in FlTouchManager<br />
   <sub>[#190518](https://github.com/flutter/flutter/pull/190518) opened on on August 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190518) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Amaan Ansari](https://github.com/amaan-0331)** &mdash; [Android] Guard PlatformViewsController2.onEndFrame against a detached FlutterView<br />
-  <sub>[#190612](https://github.com/flutter/flutter/pull/190612) opened on on August 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190612) 53 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matheus Dias](https://github.com/Mathvdias)** &mdash; feat(flutter_test): add startHover and startHoverAt helper to WidgetTester<br />
   <sub>[#190630](https://github.com/flutter/flutter/pull/190630) opened on on August 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190630) 95 additions and 0 deletions in 3 files</sub><br />
@@ -149,9 +146,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add diagnostic logging and 3m ToolExit timeout for web test hangs<br />
   <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191004) 212 additions and 13 deletions in 1 file</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use officially supported compile time thread local strike cache flag.<br />
-  <sub>[#191014](https://github.com/flutter/flutter/pull/191014) opened on on August 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191014) 7 additions and 10 deletions in 3 files</sub><br />
-
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
@@ -171,7 +165,7 @@
   <sub>[#191110](https://github.com/flutter/flutter/pull/191110) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191110) 71 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; refactor(flutter_tools): clean up dead unreferenced declarations<br />
-  <sub>[#191163](https://github.com/flutter/flutter/pull/191163) opened on on August 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191163) 12 additions and 1309 deletions in 39 files</sub><br />
+  <sub>[#191163](https://github.com/flutter/flutter/pull/191163) opened on on August 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191163) 9 additions and 1306 deletions in 39 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [flutter_tools] Update Mach-O SDK version in App.framework using vtool<br />
   <sub>[#191169](https://github.com/flutter/flutter/pull/191169) opened on on August 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191169) 175 additions and 6 deletions in 5 files</sub><br />
@@ -216,11 +210,14 @@
   <sub>[#191319](https://github.com/flutter/flutter/pull/191319) opened on on August 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191319) 28 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Rolls libpng to 1.6.58<br />
-  <sub>[#191320](https://github.com/flutter/flutter/pull/191320) opened on on August 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191320) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#191320](https://github.com/flutter/flutter/pull/191320) opened on on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191320) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Handle all DartDevelopmentServiceExceptions gracefully in resident web runner<br />
   <sub>[#191323](https://github.com/flutter/flutter/pull/191323) opened on on August 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191323) 29 additions and 5 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Gracefully handle ping timeouts for custom devices<br />
   <sub>[#191324](https://github.com/flutter/flutter/pull/191324) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191324) 61 additions and 2 deletions in 2 files</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Use leading scroll offset instead of infinite offset to reveal pinned slivers<br />
+  <sub>[#191329](https://github.com/flutter/flutter/pull/191329) opened on on August 19, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191329) 385 additions and 17 deletions in 2 files</sub><br />
 

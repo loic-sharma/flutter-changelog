@@ -4,7 +4,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-27 commits.
+34 commits.
 
 * **[Jon Ihlas](https://github.com/9AZX)** &mdash; Only render views that need to be rendered (with external texture & platform view support)<br />
   <sub>[#179874](https://github.com/flutter/flutter/pull/179874) merged on August 18, 2026 &mdash; **Large:** [170 comments](https://github.com/flutter/flutter/pull/179874) over 8 months, 722 additions and 30 deletions in 26 files</sub><br />
@@ -27,6 +27,10 @@
   <sub>[#190624](https://github.com/flutter/flutter/pull/190624) merged on August 17, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/190624) over 1 week, 119 additions and 409 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Validate driver test imports before execution<br />
+  <sub>[#191216](https://github.com/flutter/flutter/pull/191216) merged on August 18, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/191216) over 1 day, 460 additions and 0 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
 * **[holzgeist](https://github.com/holzgeist)** &mdash; Fix rendering custom element size<br />
   <sub>[#184961](https://github.com/flutter/flutter/pull/184961) merged on August 18, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/184961) over 4 months, 89 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Navaron Bracke](https://github.com/navaronbracke), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
@@ -45,6 +49,10 @@
 
 * **[GlitchFL](https://github.com/glitchfl)** &mdash; [flutter_tools] find the command name regardless of argument position<br />
   <sub>[#191155](https://github.com/flutter/flutter/pull/191155) merged on August 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191155) over 3 days, 112 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Langning Zhang](https://github.com/Boulea7)** &mdash; [gen_l10n] Preserve script locale inheritance for regional subclasses<br />
+  <sub>[#190956](https://github.com/flutter/flutter/pull/190956) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190956) over 1 week, 82 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle all DartDevelopmentServiceExceptions gracefully in resident web runner<br />
@@ -79,6 +87,10 @@
   <sub>[#190957](https://github.com/flutter/flutter/pull/190957) merged on August 17, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/190957) over 5 days, 200 additions and 72 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
+* **[Amaan Ansari](https://github.com/amaan-0331)** &mdash; [Android] Guard PlatformViewsController2.onEndFrame against a detached FlutterView<br />
+  <sub>[#190612](https://github.com/flutter/flutter/pull/190612) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190612) over 1 week, 53 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Alex Li](https://github.com/AlexV525)** &mdash; Add numeric-password variation to TextInputType.numberWithOptions<br />
   <sub>[#190637](https://github.com/flutter/flutter/pull/190637) merged on August 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/190637) over 1 week, 116 additions and 26 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
@@ -87,9 +99,25 @@
   <sub>[#187254](https://github.com/flutter/flutter/pull/187254) merged on August 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/187254) over 2 months, 19 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [jesswrd](https://github.com/jesswrd)</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use officially supported compile time thread local strike cache flag.<br />
+  <sub>[#191014](https://github.com/flutter/flutter/pull/191014) merged on August 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191014) over 6 days, 7 additions and 10 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Fix macOS 27 os_log compile errors, improve TRACE_VSYNC<br />
+  <sub>[#191238](https://github.com/flutter/flutter/pull/191238) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191238) over 20 hours, 6 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update TESTOWNERS<br />
   <sub>[#191233](https://github.com/flutter/flutter/pull/191233) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191233) over 1 hour, 9 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes windows_text_shadow_perf__timeline_summary bringup false.<br />
+  <sub>[#191010](https://github.com/flutter/flutter/pull/191010) merged on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191010) over 6 days, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Only exclude platform directories that actually exist in analysis_options.yaml<br />
+  <sub>[#191151](https://github.com/flutter/flutter/pull/191151) merged on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191151) over 3 days, 137 additions and 18 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Langning Zhang](https://github.com/Boulea7)** &mdash; [flutter_tools] Add integration coverage for test presets<br />
   <sub>[#190858](https://github.com/flutter/flutter/pull/190858) merged on August 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190858) over 1 week, 66 additions and 0 deletions in 3 files</sub><br />
