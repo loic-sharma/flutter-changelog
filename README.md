@@ -1259,7 +1259,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-17 commits.
+18 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector<br />
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub><br />
@@ -1299,6 +1299,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Order arm64 builds first in SDK archive<br />
   <sub>[#13713](https://github.com/flutter/website/pull/13713) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13713) over 5 days, 10 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Jess K](https://github.com/jesskuras)** &mdash; [AI Docs] Integrate AI documentation into the default sidebar<br />
+  <sub>[#13735](https://github.com/flutter/website/pull/13735) merged on August 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13735) over 2 days, 79 additions and 98 deletions in 27 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add redirect for go-router-v18-breaking-changes<br />
