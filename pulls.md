@@ -99,7 +99,7 @@
   <sub>[#190630](https://github.com/flutter/flutter/pull/190630) opened on on August 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/190630) 95 additions and 0 deletions in 3 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Compile shader bundles for a subset of backends<br />
-  <sub>[#190641](https://github.com/flutter/flutter/pull/190641) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190641) 196 additions and 37 deletions in 6 files</sub><br />
+  <sub>[#190641](https://github.com/flutter/flutter/pull/190641) opened on on August 6, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/190641) 196 additions and 37 deletions in 6 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Expand the vertex attribute formats and gate them by backend capability<br />
   <sub>[#190642](https://github.com/flutter/flutter/pull/190642) opened on on August 6, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190642) 801 additions and 77 deletions in 21 files</sub><br />
@@ -194,9 +194,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 3 to simulators<br />
   <sub>[#191333](https://github.com/flutter/flutter/pull/191333) opened on on August 19, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/191333) 242 additions and 62 deletions in 17 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup for migrated driver tests<br />
-  <sub>[#191334](https://github.com/flutter/flutter/pull/191334) opened on on August 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191334) 0 additions and 4 deletions in 1 file</sub><br />
-
 * **[holzgeist](https://github.com/holzgeist)** &mdash; [stable] fix: limit render size of custom elements<br />
   <sub>[#191341](https://github.com/flutter/flutter/pull/191341) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191341) 89 additions and 3 deletions in 2 files</sub><br />
 
@@ -206,12 +203,9 @@
 * **[sazzadhossainemon06-droid](https://github.com/sazzadhossainemon06-droid)** &mdash; Update CONTRIBUTING.md<br />
   <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Reduce touch to present latency on iOS<br />
-  <sub>[#191368](https://github.com/flutter/flutter/pull/191368) opened on on August 19, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/191368) 28 additions and 17 deletions in 6 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Inject --macho-sdk-version directly into gen_snapshot<br />
   <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191369) 71 additions and 6 deletions in 4 files</sub><br />
 
 * **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Let SliverCrossAxisGroup collapse flexible children to zero extent<br />
-  <sub>[#191373](https://github.com/flutter/flutter/pull/191373) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191373) 16 additions and 19 deletions in 2 files</sub><br />
+  <sub>[#191373](https://github.com/flutter/flutter/pull/191373) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191373) 16 additions and 19 deletions in 2 files</sub><br />
 
