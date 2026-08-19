@@ -80,9 +80,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): support --web-content-hash for entrypoint files<br />
   <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190153) 928 additions and 58 deletions in 5 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix 1px edge clipping on Platform Views by preserving floating-point precision where possible and rounding otherwise instead of truncating<br />
-  <sub>[#190311](https://github.com/flutter/flutter/pull/190311) opened on on July 30, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190311) 534 additions and 66 deletions in 11 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Documentation and script for Gradle Distribution cache for CI<br />
   <sub>[#190323](https://github.com/flutter/flutter/pull/190323) opened on on July 30, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/190323) 239 additions and 0 deletions in 2 files</sub><br />
 
@@ -115,9 +112,6 @@
 
 * **[SamJakob](https://github.com/SamJakob)** &mdash; Fix calling `endOfStream` on a `MockStreamHandlerEventSink` causing widget tests to hang<br />
   <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190808) 37 additions and 1 deletion in 2 files</sub><br />
-
-* **[Caroline Liu](https://github.com/caroqliu)** &mdash; [input] Migrate fuchsia.ui.pointerinjector to TouchSource<br />
-  <sub>[#190855](https://github.com/flutter/flutter/pull/190855) opened on on August 10, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/190855) 2 additions and 1379 deletions in 19 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
@@ -157,6 +151,9 @@
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [flutter_tools] Update Mach-O SDK version in App.framework using vtool<br />
   <sub>[#191169](https://github.com/flutter/flutter/pull/191169) opened on on August 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191169) 175 additions and 6 deletions in 5 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle missing Xcode gracefully in getInfo and buildMacOS<br />
+  <sub>[#191180](https://github.com/flutter/flutter/pull/191180) opened on on August 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191180) 186 additions and 29 deletions in 5 files</sub><br />
 
 * **[Sai kamal](https://github.com/Dantusaikamal)** &mdash; Clear text input client after platform-initiated connection close<br />
   <sub>[#191184](https://github.com/flutter/flutter/pull/191184) opened on on August 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191184) 90 additions and 14 deletions in 3 files</sub><br />
