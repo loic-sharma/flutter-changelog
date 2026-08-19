@@ -1271,7 +1271,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-18 commits.
+19 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector<br />
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub><br />
@@ -1312,6 +1312,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Order arm64 builds first in SDK archive<br />
   <sub>[#13713](https://github.com/flutter/website/pull/13713) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13713) over 5 days, 10 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify adding AppBar in layout tutorial<br />
+  <sub>[#13759](https://github.com/flutter/website/pull/13759) merged on August 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13759) over 1 hour, 25 additions and 10 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
 
 * **[Jess K](https://github.com/jesskuras)** &mdash; [AI Docs] Integrate AI documentation into the default sidebar<br />
   <sub>[#13735](https://github.com/flutter/website/pull/13735) merged on August 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13735) over 2 days, 79 additions and 98 deletions in 27 files</sub><br />

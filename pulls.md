@@ -51,7 +51,7 @@
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188934) 134 additions and 1 deletion in 4 files</sub><br />
 
 * **[Pranta Dutta](https://github.com/theprantadutta)** &mdash; Make the AbsorbPointer sample show the difference from IgnorePointer<br />
-  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/188940) 147 additions and 51 deletions in 3 files</sub><br />
+  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/188940) 147 additions and 51 deletions in 3 files</sub><br />
 
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
@@ -177,7 +177,7 @@
   <sub>[#191318](https://github.com/flutter/flutter/pull/191318) opened on on August 18, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/191318) 1087 additions and 121 deletions in 11 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Rolls libpng to 1.6.58<br />
-  <sub>[#191320](https://github.com/flutter/flutter/pull/191320) opened on on August 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191320) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#191320](https://github.com/flutter/flutter/pull/191320) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191320) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Handle all DartDevelopmentServiceExceptions gracefully in resident web runner<br />
   <sub>[#191323](https://github.com/flutter/flutter/pull/191323) opened on on August 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191323) 29 additions and 5 deletions in 2 files</sub><br />
@@ -225,5 +225,5 @@
   <sub>[#191386](https://github.com/flutter/flutter/pull/191386) opened on on August 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191386) 763 additions and 17 deletions in 7 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Make touch to present latency on iOS match AppKit<br />
-  <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191388) 101 additions and 30 deletions in 15 files</sub><br />
+  <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191388) 101 additions and 30 deletions in 15 files</sub><br />
 
