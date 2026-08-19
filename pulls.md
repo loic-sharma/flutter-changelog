@@ -102,7 +102,7 @@
   <sub>[#190641](https://github.com/flutter/flutter/pull/190641) opened on on August 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190641) 196 additions and 37 deletions in 6 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Expand the vertex attribute formats and gate them by backend capability<br />
-  <sub>[#190642](https://github.com/flutter/flutter/pull/190642) opened on on August 6, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/190642) 801 additions and 77 deletions in 21 files</sub><br />
+  <sub>[#190642](https://github.com/flutter/flutter/pull/190642) opened on on August 6, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190642) 801 additions and 77 deletions in 21 files</sub><br />
 
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Android] Match external texture cache size to BufferQueue capacity<br />
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
@@ -131,9 +131,6 @@
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Actions.handler to forward the intent type to maybeFind<br />
   <sub>[#191052](https://github.com/flutter/flutter/pull/191052) opened on on August 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191052) 59 additions and 1 deletion in 2 files</sub><br />
 
-* **[Marcin Wróblewski](https://github.com/wrbl606)** &mdash; Use Liquid Glass icon in iOS app templates by default<br />
-  <sub>[#191059](https://github.com/flutter/flutter/pull/191059) opened on on August 13, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191059) 456 additions and 6 deletions in 9 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Prevent platform views from stealing text input focus from TextFields<br />
   <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
 
@@ -151,9 +148,6 @@
 
 * **[Sai kamal](https://github.com/Dantusaikamal)** &mdash; Clear text input client after platform-initiated connection close<br />
   <sub>[#191184](https://github.com/flutter/flutter/pull/191184) opened on on August 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191184) 90 additions and 14 deletions in 3 files</sub><br />
-
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [Devicelab] Add physical device integration tests for iOS Universal Links<br />
-  <sub>[#191201](https://github.com/flutter/flutter/pull/191201) opened on on August 17, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191201) 1406 additions and 0 deletions in 28 files</sub><br />
 
 * **[Hamed](https://github.com/papmodern)** &mdash; [Android] Do not schedule engine frames on a detached FlutterJNI<br />
   <sub>[#191204](https://github.com/flutter/flutter/pull/191204) opened on on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191204) 53 additions and 0 deletions in 2 files</sub><br />
@@ -198,7 +192,7 @@
   <sub>[#191329](https://github.com/flutter/flutter/pull/191329) opened on on August 19, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191329) 385 additions and 17 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 3 to simulators<br />
-  <sub>[#191333](https://github.com/flutter/flutter/pull/191333) opened on on August 19, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/191333) 242 additions and 62 deletions in 17 files</sub><br />
+  <sub>[#191333](https://github.com/flutter/flutter/pull/191333) opened on on August 19, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/191333) 242 additions and 62 deletions in 17 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup for migrated driver tests<br />
   <sub>[#191334](https://github.com/flutter/flutter/pull/191334) opened on on August 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191334) 0 additions and 4 deletions in 1 file</sub><br />

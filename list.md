@@ -1099,7 +1099,15 @@
 
 ### August 15, 2026 to August 21, 2026
 
-5 commits.
+7 commits.
+
+* **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; [camera_android_camerax] Add explicit concurrent-futures dependency
+  <sub>[#12373](https://github.com/flutter/packages/pull/12373) merged on August 19, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/12373) over 2 weeks, 44 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] migrates to material_ui and cupertino_ui
+  <sub>[#12504](https://github.com/flutter/packages/pull/12504) merged on August 19, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/12504) over 20 hours, 110 additions and 108 deletions in 86 files</sub>
+  <sub>Reviewed by: [Jon Mountjoy](https://github.com/jonmountjoy), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Fix chrome 145 web tests
   <sub>[#12486](https://github.com/flutter/packages/pull/12486) merged on August 19, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/12486) over 1 day, 3289 additions and 2693 deletions in 18 files</sub>
