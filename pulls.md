@@ -204,16 +204,13 @@
   <sub>[#191333](https://github.com/flutter/flutter/pull/191333) opened on on August 19, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/191333) 242 additions and 62 deletions in 17 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup for migrated driver tests<br />
-  <sub>[#191334](https://github.com/flutter/flutter/pull/191334) opened on on August 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191334) 0 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#191334](https://github.com/flutter/flutter/pull/191334) opened on on August 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191334) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; [stable] fix: limit render size of custom elements<br />
   <sub>[#191341](https://github.com/flutter/flutter/pull/191341) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191341) 89 additions and 3 deletions in 2 files</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; chore: correct copy paste error in test name<br />
   <sub>[#191342](https://github.com/flutter/flutter/pull/191342) opened on on August 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191342) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; Re-eneable rendering on will enter foreground<br />
-  <sub>[#191350](https://github.com/flutter/flutter/pull/191350) opened on on August 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191350) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[sazzadhossainemon06-droid](https://github.com/sazzadhossainemon06-droid)** &mdash; Update CONTRIBUTING.md<br />
   <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />

@@ -1091,7 +1091,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-4 commits.
+5 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Fix chrome 145 web tests
   <sub>[#12486](https://github.com/flutter/packages/pull/12486) merged on August 19, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/12486) over 1 day, 3289 additions and 2693 deletions in 18 files</sub>
@@ -1104,6 +1104,10 @@
 * **[Melih Arık](https://github.com/meliharik)** &mdash; [google_maps_flutter_platform_interface] Fix PinConfig code sample
   <sub>[#12259](https://github.com/flutter/packages/pull/12259) merged on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12259) over 4 weeks, 9 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [animations] Migrate to material_ui
+  <sub>[#12467](https://github.com/flutter/packages/pull/12467) merged on August 19, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12467) over 5 days, 27 additions and 25 deletions in 19 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add `triage-design` label
   <sub>[#12488](https://github.com/flutter/packages/pull/12488) merged on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12488) over 1 day, 8 additions and 4 deletions in 1 file</sub>
