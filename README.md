@@ -15,6 +15,11 @@
   <sub>[#179874](https://github.com/flutter/flutter/pull/179874) merged on August 18, 2026 &mdash; **Large:** [170 comments](https://github.com/flutter/flutter/pull/179874) over 8 months, 722 additions and 30 deletions in 26 files</sub><br />
   <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai), and [1 other](https://github.com/flutter/flutter/pull/179874)</sub><br />
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve initial size and placement logic for popups and tooltips on Linux<br />
+  <sub>[#189994](https://github.com/flutter/flutter/pull/189994) merged on August 19, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/189994) over 3 weeks, 242 additions and 27 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="4688" height="3840" alt="mermaid-diagram-2026-07-24T19-27-31" src="https://github.com/user-attachments/assets/5a5e4c2c-1f63-49f2-acc7-061d50d2e6ef" /></details></sub>
+
 * **[William Yang](https://github.com/wilyan09007)** &mdash; [native_assets] Record bundled code assets under their install name<br />
   <sub>[#190819](https://github.com/flutter/flutter/pull/190819) merged on August 18, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190819) over 1 week, 350 additions and 23 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
@@ -23,11 +28,6 @@
   <sub>[#191070](https://github.com/flutter/flutter/pull/191070) merged on August 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191070) over 4 days, 18 additions and 1 deletion in 6 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1512" height="982" alt="Screenshot 2026-08-14 at 12 50 04 AM" src="https://github.com/user-attachments/assets/b3a2072e-4b4d-4ad7-baa7-50baf9aeed15" /></details></sub>
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Improve initial size and placement logic for popups and tooltips on Linux<br />
-  <sub>[#189994](https://github.com/flutter/flutter/pull/189994) merged on August 19, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/189994) over 3 weeks, 242 additions and 27 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
-  <sub><details><summary>1 image...</summary><img width="4688" height="3840" alt="mermaid-diagram-2026-07-24T19-27-31" src="https://github.com/user-attachments/assets/5a5e4c2c-1f63-49f2-acc7-061d50d2e6ef" /></details></sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.ImageFilter between CanvasKit and Skwasm<br />
   <sub>[#191021](https://github.com/flutter/flutter/pull/191021) merged on August 17, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/191021) over 4 days, 682 additions and 915 deletions in 24 files</sub><br />
