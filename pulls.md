@@ -230,3 +230,6 @@
 * **[holzgeist](https://github.com/holzgeist)** &mdash; chore: correct copy paste error in test name<br />
   <sub>[#191342](https://github.com/flutter/flutter/pull/191342) opened on on August 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191342) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Robert Odrowaz](https://github.com/RobertOdrowaz)** &mdash; Re-eneable rendering on will enter foreground<br />
+  <sub>[#191350](https://github.com/flutter/flutter/pull/191350) opened on on August 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191350) 3 additions and 3 deletions in 1 file</sub><br />
+
