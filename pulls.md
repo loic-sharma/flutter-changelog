@@ -209,6 +209,9 @@
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; android_hardware_smoke_test: Improve reliability<br />
   <sub>[#191374](https://github.com/flutter/flutter/pull/191374) opened on on August 19, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/191374) 73 additions and 32 deletions in 3 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Compute LSP Content-Length header using UTF-8 byte length<br />
+  <sub>[#191377](https://github.com/flutter/flutter/pull/191377) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191377) 79 additions and 18 deletions in 3 files</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes MSAA on the linux embedder.<br />
   <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/191379) 440 additions and 37 deletions in 8 files</sub><br />
 
@@ -219,5 +222,8 @@
   <sub>[#191382](https://github.com/flutter/flutter/pull/191382) opened on on August 19, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/191382) 358 additions and 21 deletions in 9 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Support local golden testing in flutter test<br />
-  <sub>[#191386](https://github.com/flutter/flutter/pull/191386) opened on on August 19, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/191386) 758 additions and 18 deletions in 7 files</sub><br />
+  <sub>[#191386](https://github.com/flutter/flutter/pull/191386) opened on on August 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191386) 763 additions and 17 deletions in 7 files</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Make touch to present latency on iOS match AppKit<br />
+  <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191388) 101 additions and 30 deletions in 15 files</sub><br />
 
