@@ -149,9 +149,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; refactor(flutter_tools): clean up dead unreferenced declarations<br />
   <sub>[#191163](https://github.com/flutter/flutter/pull/191163) opened on on August 16, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191163) 9 additions and 1306 deletions in 39 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [flutter_tools] Update Mach-O SDK version in App.framework using vtool<br />
-  <sub>[#191169](https://github.com/flutter/flutter/pull/191169) opened on on August 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191169) 175 additions and 6 deletions in 5 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle missing Xcode gracefully in getInfo and buildMacOS<br />
   <sub>[#191180](https://github.com/flutter/flutter/pull/191180) opened on on August 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191180) 188 additions and 29 deletions in 5 files</sub><br />
 
@@ -223,4 +220,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Reduce touch to present latency on iOS<br />
   <sub>[#191368](https://github.com/flutter/flutter/pull/191368) opened on on August 19, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/191368) 28 additions and 17 deletions in 6 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Inject --macho-sdk-version directly into gen_snapshot<br />
+  <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191369) 71 additions and 6 deletions in 4 files</sub><br />
 
