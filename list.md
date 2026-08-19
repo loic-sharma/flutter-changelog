@@ -1089,9 +1089,22 @@
 
 ## flutter/packages
 
+### August 15, 2026 to August 21, 2026
+
+2 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Fix chrome 145 web tests
+  <sub>[#12486](https://github.com/flutter/packages/pull/12486) merged on August 19, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/12486) over 1 day, 3289 additions and 2693 deletions in 18 files</sub>
+  <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Melih Arık](https://github.com/meliharik)** &mdash; [google_maps_flutter_platform_interface] Fix PinConfig code sample
+  <sub>[#12259](https://github.com/flutter/packages/pull/12259) merged on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12259) over 4 weeks, 9 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### August 8, 2026 to August 14, 2026
 
-13 commits.
+<details>
+<summary>13 commits...</summary>
 
 * **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; [video_player] : Add video track selection support for Android and iOS
   <sub>[#10688](https://github.com/flutter/packages/pull/10688) merged on August 11, 2026 &mdash; **Large:** [80 comments](https://github.com/flutter/packages/pull/10688) over 7 months, 767 additions and 3 deletions in 6 files</sub>
@@ -1144,6 +1157,8 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [camera]fix test flake due to expectation fulfilled before flag is toggled
   <sub>[#12400](https://github.com/flutter/packages/pull/12400) merged on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12400) over 2 days, 9 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+</details>
 
 ### August 1, 2026 to August 7, 2026
 
@@ -1200,7 +1215,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-13 commits.
+15 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub>
@@ -1240,6 +1255,14 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Order arm64 builds first in SDK archive
   <sub>[#13713](https://github.com/flutter/website/pull/13713) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13713) over 5 days, 10 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Collapsing and renaming blog categories
+  <sub>[#13750](https://github.com/flutter/website/pull/13750) merged on August 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/website/pull/13750) over 7 hours, 247 additions and 258 deletions in 239 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: add Dart import migration step to l10n breaking change guide
+  <sub>[#13745](https://github.com/flutter/website/pull/13745) merged on August 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13745) over 16 hours, 15 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; docs: clarify required code changes for disabling Impeller on desktop

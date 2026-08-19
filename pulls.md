@@ -153,7 +153,7 @@
   <sub>[#191169](https://github.com/flutter/flutter/pull/191169) opened on on August 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191169) 175 additions and 6 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle missing Xcode gracefully in getInfo and buildMacOS<br />
-  <sub>[#191180](https://github.com/flutter/flutter/pull/191180) opened on on August 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191180) 186 additions and 29 deletions in 5 files</sub><br />
+  <sub>[#191180](https://github.com/flutter/flutter/pull/191180) opened on on August 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191180) 188 additions and 29 deletions in 5 files</sub><br />
 
 * **[Sai kamal](https://github.com/Dantusaikamal)** &mdash; Clear text input client after platform-initiated connection close<br />
   <sub>[#191184](https://github.com/flutter/flutter/pull/191184) opened on on August 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191184) 90 additions and 14 deletions in 3 files</sub><br />
