@@ -206,9 +206,18 @@
 * **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Let SliverCrossAxisGroup collapse flexible children to zero extent<br />
   <sub>[#191373](https://github.com/flutter/flutter/pull/191373) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191373) 16 additions and 19 deletions in 2 files</sub><br />
 
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; android_hardware_smoke_test: Improve reliability<br />
+  <sub>[#191374](https://github.com/flutter/flutter/pull/191374) opened on on August 19, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/191374) 73 additions and 32 deletions in 3 files</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes MSAA on the linux embedder.<br />
   <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/191379) 440 additions and 37 deletions in 8 files</sub><br />
 
 * **[Hashem](https://github.com/haashem)** &mdash; feat: Add includeRouteSemantics to PageRoute<br />
   <sub>[#191381](https://github.com/flutter/flutter/pull/191381) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191381) 48 additions and 0 deletions in 2 files</sub><br />
+
+* **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; Add MediaQueryData.persistentScrollbars and use it as the scrollbar visibility fallback<br />
+  <sub>[#191382](https://github.com/flutter/flutter/pull/191382) opened on on August 19, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/191382) 358 additions and 21 deletions in 9 files</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Support local golden testing in flutter test<br />
+  <sub>[#191386](https://github.com/flutter/flutter/pull/191386) opened on on August 19, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/191386) 758 additions and 18 deletions in 7 files</sub><br />
 
