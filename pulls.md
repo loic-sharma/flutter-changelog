@@ -224,3 +224,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Inject --macho-sdk-version directly into gen_snapshot<br />
   <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191369) 71 additions and 6 deletions in 4 files</sub><br />
 
+* **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Let SliverCrossAxisGroup collapse flexible children to zero extent<br />
+  <sub>[#191373](https://github.com/flutter/flutter/pull/191373) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191373) 16 additions and 19 deletions in 2 files</sub><br />
+

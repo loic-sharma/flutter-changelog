@@ -1091,11 +1091,15 @@
 
 ### August 15, 2026 to August 21, 2026
 
-3 commits.
+4 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Fix chrome 145 web tests
   <sub>[#12486](https://github.com/flutter/packages/pull/12486) merged on August 19, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/12486) over 1 day, 3289 additions and 2693 deletions in 18 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Add Material tokens (version 38.2.50)
+  <sub>[#12471](https://github.com/flutter/packages/pull/12471) merged on August 19, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/12471) over 5 days, 16876 additions and 0 deletions in 163 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Melih Arık](https://github.com/meliharik)** &mdash; [google_maps_flutter_platform_interface] Fix PinConfig code sample
   <sub>[#12259](https://github.com/flutter/packages/pull/12259) merged on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12259) over 4 weeks, 9 additions and 4 deletions in 3 files</sub>
