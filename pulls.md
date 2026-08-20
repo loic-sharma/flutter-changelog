@@ -213,5 +213,5 @@
   <sub>[#191445](https://github.com/flutter/flutter/pull/191445) opened on on August 20, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/191445) 1369 additions and 57 deletions in 18 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds new gallery benchmarks to windows (skia and impeller)<br />
-  <sub>[#191454](https://github.com/flutter/flutter/pull/191454) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191454) 56 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#191454](https://github.com/flutter/flutter/pull/191454) opened on on August 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191454) 56 additions and 1 deletion in 5 files</sub><br />
 
