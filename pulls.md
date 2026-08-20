@@ -227,3 +227,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [material] Remove unused parameters from constructors of generic classes<br />
   <sub>[#191399](https://github.com/flutter/flutter/pull/191399) opened on on August 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191399) 4 additions and 19 deletions in 6 files</sub><br />
 
+* **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Add Abdelrahman Saed to AUTHORS<br />
+  <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
+
