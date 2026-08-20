@@ -1139,14 +1139,14 @@
 
 ### August 15, 2026 to August 21, 2026
 
-9 commits.
+10 commits.
 
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; [camera_android_camerax] Add explicit concurrent-futures dependency<br />
   <sub>[#12373](https://github.com/flutter/packages/pull/12373) merged on August 19, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/12373) over 2 weeks, 44 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] migrates to material_ui and cupertino_ui<br />
-  <sub>[#12504](https://github.com/flutter/packages/pull/12504) merged on August 19, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/12504) over 20 hours, 110 additions and 108 deletions in 86 files</sub><br />
+  <sub>[#12504](https://github.com/flutter/packages/pull/12504) merged on August 19, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/12504) over 20 hours, 110 additions and 108 deletions in 86 files</sub><br />
   <sub>Reviewed by: [Jon Mountjoy](https://github.com/jonmountjoy), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Fix chrome 145 web tests<br />
@@ -1163,6 +1163,10 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [animations] Migrate to material_ui<br />
   <sub>[#12467](https://github.com/flutter/packages/pull/12467) merged on August 19, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12467) over 5 days, 27 additions and 25 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [material_ui] Cleans up shader files and exposes ink_splash shader<br />
+  <sub>[#12421](https://github.com/flutter/packages/pull/12421) merged on August 20, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/12421) over 1 week, 10 additions and 160 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[pierre](https://github.com/guidezpl)** &mdash; [material_ui] Fixes typo in code and tests<br />
