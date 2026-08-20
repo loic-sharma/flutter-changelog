@@ -105,7 +105,7 @@
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CleanCommand to modular dependency injection<br />
-  <sub>[#190742](https://github.com/flutter/flutter/pull/190742) opened on on August 7, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/190742) 584 additions and 379 deletions in 13 files</sub><br />
+  <sub>[#190742](https://github.com/flutter/flutter/pull/190742) opened on on August 7, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/190742) 583 additions and 379 deletions in 13 files</sub><br />
 
 * **[SamJakob](https://github.com/SamJakob)** &mdash; Fix calling `endOfStream` on a `MockStreamHandlerEventSink` causing widget tests to hang<br />
   <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190808) 37 additions and 1 deletion in 2 files</sub><br />
