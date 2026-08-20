@@ -105,7 +105,7 @@
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CleanCommand to modular dependency injection<br />
-  <sub>[#190742](https://github.com/flutter/flutter/pull/190742) opened on on August 7, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/190742) 543 additions and 361 deletions in 10 files</sub><br />
+  <sub>[#190742](https://github.com/flutter/flutter/pull/190742) opened on on August 7, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/190742) 583 additions and 379 deletions in 13 files</sub><br />
 
 * **[SamJakob](https://github.com/SamJakob)** &mdash; Fix calling `endOfStream` on a `MockStreamHandlerEventSink` causing widget tests to hang<br />
   <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190808) 37 additions and 1 deletion in 2 files</sub><br />
@@ -197,9 +197,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Inject --macho-sdk-version directly into gen_snapshot<br />
   <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191369) 71 additions and 6 deletions in 4 files</sub><br />
 
-* **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Let SliverCrossAxisGroup collapse flexible children to zero extent<br />
-  <sub>[#191373](https://github.com/flutter/flutter/pull/191373) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191373) 16 additions and 19 deletions in 2 files</sub><br />
-
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; android_hardware_smoke_test: Improve reliability<br />
   <sub>[#191374](https://github.com/flutter/flutter/pull/191374) opened on on August 19, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/191374) 73 additions and 32 deletions in 3 files</sub><br />
 
@@ -223,4 +220,10 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add FlViewRendererSubsurface<br />
   <sub>[#191389](https://github.com/flutter/flutter/pull/191389) opened on on August 19, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/191389) 1067 additions and 39 deletions in 12 files</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [cupertino] Remove unused parameters from constructors of generic classes<br />
+  <sub>[#191398](https://github.com/flutter/flutter/pull/191398) opened on on August 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191398) 0 additions and 5 deletions in 4 files</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [material] Remove unused parameters from constructors of generic classes<br />
+  <sub>[#191399](https://github.com/flutter/flutter/pull/191399) opened on on August 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191399) 4 additions and 19 deletions in 6 files</sub><br />
 

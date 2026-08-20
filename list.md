@@ -1291,7 +1291,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-19 commits.
+20 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub>
@@ -1332,6 +1332,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Order arm64 builds first in SDK archive
   <sub>[#13713](https://github.com/flutter/website/pull/13713) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13713) over 5 days, 10 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarifying how the example works
+  <sub>[#13760](https://github.com/flutter/website/pull/13760) merged on August 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13760) over 2 hours, 20 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify adding AppBar in layout tutorial
   <sub>[#13759](https://github.com/flutter/website/pull/13759) merged on August 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13759) over 1 hour, 25 additions and 10 deletions in 1 file</sub>
