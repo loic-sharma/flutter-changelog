@@ -111,7 +111,7 @@
   <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191004) 212 additions and 13 deletions in 1 file</sub><br />
 
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
-  <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
+  <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Prevent platform views from stealing text input focus from TextFields<br />
   <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
@@ -207,7 +207,7 @@
   <sub>[#191443](https://github.com/flutter/flutter/pull/191443) opened on on August 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191443) 1410 additions and 0 deletions in 28 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Vsync cleanup - part 1<br />
-  <sub>[#191444](https://github.com/flutter/flutter/pull/191444) opened on on August 20, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/191444) 61 additions and 895 deletions in 27 files</sub><br />
+  <sub>[#191444](https://github.com/flutter/flutter/pull/191444) opened on on August 20, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/191444) 61 additions and 1088 deletions in 27 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement Configuration extension slice and flutter config integration<br />
   <sub>[#191445](https://github.com/flutter/flutter/pull/191445) opened on on August 20, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/191445) 1369 additions and 57 deletions in 18 files</sub><br />

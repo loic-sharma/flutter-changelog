@@ -1179,7 +1179,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-14 commits.
+15 commits.
 
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; [camera_android_camerax] Add explicit concurrent-futures dependency
   <sub>[#12373](https://github.com/flutter/packages/pull/12373) merged on August 19, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/12373) over 2 weeks, 44 additions and 1 deletion in 4 files</sub>
@@ -1217,6 +1217,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [material_ui] Cleans up shader files and exposes ink_splash shader
   <sub>[#12421](https://github.com/flutter/packages/pull/12421) merged on August 20, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/12421) over 1 week, 10 additions and 160 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [material_ui] A typo in the README file of the package.
+  <sub>[#12526](https://github.com/flutter/packages/pull/12526) merged on August 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12526) over 2 hours, 4 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] SearchAnchor overlay expands to full screen when viewport size changes
   <sub>[#12466](https://github.com/flutter/packages/pull/12466) merged on August 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/12466) over 6 days, 259 additions and 100 deletions in 3 files</sub>
