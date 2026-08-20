@@ -147,7 +147,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[ふぁ](https://github.com/fa0311)** &mdash; Cache `BoxShadow` paints in `_BoxDecorationPainter`<br />
-  <sub>[#190194](https://github.com/flutter/flutter/pull/190194) merged on August 18, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/190194) over 2 weeks, 10 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#190194](https://github.com/flutter/flutter/pull/190194) merged on August 18, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/190194) over 2 weeks, 10 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [AGP 9.1.0 Migration #2] Extract internal utilities<br />
