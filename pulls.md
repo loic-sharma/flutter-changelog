@@ -104,9 +104,6 @@
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Android] Match external texture cache size to BufferQueue capacity<br />
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CleanCommand to modular dependency injection<br />
-  <sub>[#190742](https://github.com/flutter/flutter/pull/190742) opened on on August 7, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/190742) 599 additions and 396 deletions in 15 files</sub><br />
-
 * **[SamJakob](https://github.com/SamJakob)** &mdash; Fix calling `endOfStream` on a `MockStreamHandlerEventSink` causing widget tests to hang<br />
   <sub>[#190808](https://github.com/flutter/flutter/pull/190808) opened on on August 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/190808) 37 additions and 1 deletion in 2 files</sub><br />
 
@@ -195,13 +192,10 @@
   <sub>[#191377](https://github.com/flutter/flutter/pull/191377) opened on on August 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191377) 79 additions and 18 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes MSAA on the linux embedder.<br />
-  <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/191379) 440 additions and 37 deletions in 8 files</sub><br />
+  <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/191379) 445 additions and 37 deletions in 8 files</sub><br />
 
 * **[Hashem](https://github.com/haashem)** &mdash; feat: Add includeRouteSemantics to PageRoute<br />
   <sub>[#191381](https://github.com/flutter/flutter/pull/191381) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191381) 48 additions and 0 deletions in 2 files</sub><br />
-
-* **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; Add MediaQueryData.persistentScrollbars and use it as the scrollbar visibility fallback<br />
-  <sub>[#191382](https://github.com/flutter/flutter/pull/191382) opened on on August 19, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/191382) 358 additions and 21 deletions in 9 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Make touch to present latency on iOS match UIKit<br />
   <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191388) 100 additions and 30 deletions in 16 files</sub><br />
@@ -217,7 +211,4 @@
 
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Add Abdelrahman Saed to AUTHORS<br />
   <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Migrate api examples to material_ui and cupertino_ui<br />
-  <sub>[#191427](https://github.com/flutter/flutter/pull/191427) opened on on August 20, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191427) 507 additions and 509 deletions in 499 files</sub><br />
 

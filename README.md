@@ -1303,7 +1303,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-24 commits.
+25 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector<br />
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub><br />
@@ -1351,6 +1351,10 @@
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: clarify xcconfig file usage and simplify notes in iOS flavors guide<br />
   <sub>[#13748](https://github.com/flutter/website/pull/13748) merged on August 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13748) over 1 day, 42 additions and 44 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Connie Ooi ](https://github.com/conooi)** &mdash; Add Building multi-agent development teams blog post<br />
+  <sub>[#13764](https://github.com/flutter/website/pull/13764) merged on August 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13764) over 36 minutes, 236 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify version to enable built-in kotlin<br />
