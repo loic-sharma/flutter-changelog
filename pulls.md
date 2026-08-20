@@ -225,8 +225,8 @@
   <sub>[#191386](https://github.com/flutter/flutter/pull/191386) opened on on August 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191386) 763 additions and 17 deletions in 7 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Make touch to present latency on iOS match AppKit<br />
-  <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191388) 101 additions and 30 deletions in 15 files</sub><br />
+  <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191388) 100 additions and 30 deletions in 16 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add FlViewRendererSubsurface<br />
-  <sub>[#191389](https://github.com/flutter/flutter/pull/191389) opened on on August 19, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/191389) 947 additions and 3 deletions in 11 files</sub><br />
+  <sub>[#191389](https://github.com/flutter/flutter/pull/191389) opened on on August 19, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/191389) 975 additions and 3 deletions in 11 files</sub><br />
 
