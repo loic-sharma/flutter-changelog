@@ -149,6 +149,9 @@
 * **[Nickolas de Luca Alberton](https://github.com/nickolasdeluca)** &mdash; Cache the paint offset adjusted line metrics in TextPainter<br />
   <sub>[#191223](https://github.com/flutter/flutter/pull/191223) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191223) 117 additions and 13 deletions in 3 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; tools: Extract Dart SDK to temp directory before moving to final location<br />
+  <sub>[#191263](https://github.com/flutter/flutter/pull/191263) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191263) 66 additions and 11 deletions in 2 files</sub><br />
+
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix RangeError in PredictiveBackEvent when Android sends EDGE_NONE<br />
   <sub>[#191306](https://github.com/flutter/flutter/pull/191306) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191306) 157 additions and 6 deletions in 2 files</sub><br />
 
@@ -211,4 +214,16 @@
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add precacheTestImage to flutter_test and unskip web image tests<br />
   <sub>[#191435](https://github.com/flutter/flutter/pull/191435) opened on on August 20, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/191435) 1284 additions and 1263 deletions in 6 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add tests for negative lookahead regex in test runner and batch entrypoints<br />
+  <sub>[#191438](https://github.com/flutter/flutter/pull/191438) opened on on August 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191438) 57 additions and 20 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Do not treat 'daemon' argument as daemon command in logger initialization<br />
+  <sub>[#191442](https://github.com/flutter/flutter/pull/191442) opened on on August 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191442) 22 additions and 2 deletions in 3 files</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Vsync cleanup - part 1<br />
+  <sub>[#191444](https://github.com/flutter/flutter/pull/191444) opened on on August 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191444) 61 additions and 895 deletions in 27 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement Configuration extension slice and flutter config integration<br />
+  <sub>[#191445](https://github.com/flutter/flutter/pull/191445) opened on on August 20, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/191445) 1084 additions and 51 deletions in 17 files</sub><br />
 
