@@ -1139,11 +1139,15 @@
 
 ### August 15, 2026 to August 21, 2026
 
-11 commits.
+12 commits.
 
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; [camera_android_camerax] Add explicit concurrent-futures dependency
   <sub>[#12373](https://github.com/flutter/packages/pull/12373) merged on August 19, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/12373) over 2 weeks, 44 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Add agentic guidance for adding native unit tests
+  <sub>[#12369](https://github.com/flutter/packages/pull/12369) merged on August 20, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/packages/pull/12369) over 2 weeks, 307 additions and 9 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] migrates to material_ui and cupertino_ui
   <sub>[#12504](https://github.com/flutter/packages/pull/12504) merged on August 19, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/12504) over 20 hours, 110 additions and 108 deletions in 86 files</sub>
@@ -1299,7 +1303,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-21 commits.
+22 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub>
@@ -1344,6 +1348,10 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: clarify xcconfig file usage and simplify notes in iOS flavors guide
   <sub>[#13748](https://github.com/flutter/website/pull/13748) merged on August 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13748) over 1 day, 42 additions and 44 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Philippe Aellig](https://github.com/philippeaellig)** &mdash; Fix typo in `llms.txt` file
+  <sub>[#13763](https://github.com/flutter/website/pull/13763) merged on August 20, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13763) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarifying how the example works
   <sub>[#13760](https://github.com/flutter/website/pull/13760) merged on August 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13760) over 2 hours, 20 additions and 14 deletions in 1 file</sub>
