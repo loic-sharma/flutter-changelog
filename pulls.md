@@ -32,9 +32,6 @@
 * **[DEV RAJA](https://github.com/bundeladevraja123-raja)** &mdash; Fix typo in TESTOWNERS comment<br />
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Himank Sharma](https://github.com/himanksharma8434-coder)** &mdash; feat: add new API documentation examples for scroll notifications, UI…<br />
-  <sub>[#188249](https://github.com/flutter/flutter/pull/188249) opened on on June 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/188249) 5 additions and 5 deletions in 3 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
 
@@ -188,11 +185,8 @@
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; android_hardware_smoke_test: Improve reliability<br />
   <sub>[#191374](https://github.com/flutter/flutter/pull/191374) opened on on August 19, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/191374) 73 additions and 32 deletions in 3 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Compute LSP Content-Length header using UTF-8 byte length<br />
-  <sub>[#191377](https://github.com/flutter/flutter/pull/191377) opened on on August 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191377) 79 additions and 18 deletions in 3 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes MSAA on the linux embedder.<br />
-  <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/191379) 445 additions and 37 deletions in 8 files</sub><br />
+  <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/191379) 449 additions and 37 deletions in 8 files</sub><br />
 
 * **[Hashem](https://github.com/haashem)** &mdash; feat: Add includeRouteSemantics to PageRoute<br />
   <sub>[#191381](https://github.com/flutter/flutter/pull/191381) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191381) 48 additions and 0 deletions in 2 files</sub><br />
@@ -211,4 +205,10 @@
 
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Add Abdelrahman Saed to AUTHORS<br />
   <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; On iOS 27+ devices, manually process lldb stops<br />
+  <sub>[#191434](https://github.com/flutter/flutter/pull/191434) opened on on August 20, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191434) 434 additions and 275 deletions in 5 files</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add precacheTestImage to flutter_test and unskip web image tests<br />
+  <sub>[#191435](https://github.com/flutter/flutter/pull/191435) opened on on August 20, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/191435) 1284 additions and 1263 deletions in 6 files</sub><br />
 
