@@ -215,7 +215,7 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Support local golden testing in flutter test<br />
   <sub>[#191386](https://github.com/flutter/flutter/pull/191386) opened on on August 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191386) 763 additions and 17 deletions in 7 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Make touch to present latency on iOS match AppKit<br />
+* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Make touch to present latency on iOS match UIKit<br />
   <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191388) 100 additions and 30 deletions in 16 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add FlViewRendererSubsurface<br />
