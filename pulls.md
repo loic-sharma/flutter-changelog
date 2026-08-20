@@ -201,7 +201,7 @@
   <sub>[#191381](https://github.com/flutter/flutter/pull/191381) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191381) 48 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; Add MediaQueryData.persistentScrollbars and use it as the scrollbar visibility fallback<br />
-  <sub>[#191382](https://github.com/flutter/flutter/pull/191382) opened on on August 19, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/191382) 358 additions and 21 deletions in 9 files</sub><br />
+  <sub>[#191382](https://github.com/flutter/flutter/pull/191382) opened on on August 19, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/191382) 358 additions and 21 deletions in 9 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Make touch to present latency on iOS match UIKit<br />
   <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191388) 100 additions and 30 deletions in 16 files</sub><br />
@@ -218,9 +218,6 @@
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Add Abdelrahman Saed to AUTHORS<br />
   <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unskip decoration image lerp tests<br />
-  <sub>[#191426](https://github.com/flutter/flutter/pull/191426) opened on on August 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191426) 0 additions and 6 deletions in 1 file</sub><br />
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Migrate api examples to material_ui and cupertino_ui<br />
-  <sub>[#191427](https://github.com/flutter/flutter/pull/191427) opened on on August 20, 2026 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/191427) 1085 additions and 1085 deletions in 1071 files</sub><br />
+  <sub>[#191427](https://github.com/flutter/flutter/pull/191427) opened on on August 20, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191427) 507 additions and 509 deletions in 499 files</sub><br />
 

@@ -1303,7 +1303,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-23 commits.
+24 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub>
@@ -1352,6 +1352,10 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: clarify xcconfig file usage and simplify notes in iOS flavors guide
   <sub>[#13748](https://github.com/flutter/website/pull/13748) merged on August 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13748) over 1 day, 42 additions and 44 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify version to enable built-in kotlin
+  <sub>[#13761](https://github.com/flutter/website/pull/13761) merged on August 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13761) over 14 hours, 27 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jess K](https://github.com/jesskuras)</sub>
 
 * **[Philippe Aellig](https://github.com/philippeaellig)** &mdash; Fix typo in `llms.txt` file
   <sub>[#13763](https://github.com/flutter/website/pull/13763) merged on August 20, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13763) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
