@@ -162,7 +162,7 @@
   <sub>[#191324](https://github.com/flutter/flutter/pull/191324) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191324) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Use leading scroll offset instead of infinite offset to reveal pinned slivers<br />
-  <sub>[#191329](https://github.com/flutter/flutter/pull/191329) opened on on August 19, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191329) 385 additions and 17 deletions in 2 files</sub><br />
+  <sub>[#191329](https://github.com/flutter/flutter/pull/191329) opened on on August 19, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/191329) 385 additions and 17 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 3 to simulators<br />
   <sub>[#191333](https://github.com/flutter/flutter/pull/191333) opened on on August 19, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/191333) 242 additions and 62 deletions in 17 files</sub><br />
@@ -180,10 +180,10 @@
   <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191369) 71 additions and 6 deletions in 4 files</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; android_hardware_smoke_test: Improve reliability<br />
-  <sub>[#191374](https://github.com/flutter/flutter/pull/191374) opened on on August 19, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/191374) 73 additions and 32 deletions in 3 files</sub><br />
+  <sub>[#191374](https://github.com/flutter/flutter/pull/191374) opened on on August 19, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/191374) 74 additions and 33 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes MSAA on the linux embedder.<br />
-  <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/191379) 449 additions and 37 deletions in 8 files</sub><br />
+  <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/191379) 722 additions and 36 deletions in 10 files</sub><br />
 
 * **[Hashem](https://github.com/haashem)** &mdash; feat: Add includeRouteSemantics to PageRoute<br />
   <sub>[#191381](https://github.com/flutter/flutter/pull/191381) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191381) 48 additions and 0 deletions in 2 files</sub><br />

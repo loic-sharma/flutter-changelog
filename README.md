@@ -1167,7 +1167,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-13 commits.
+14 commits.
 
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; [camera_android_camerax] Add explicit concurrent-futures dependency<br />
   <sub>[#12373](https://github.com/flutter/packages/pull/12373) merged on August 19, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/12373) over 2 weeks, 44 additions and 1 deletion in 4 files</sub><br />
@@ -1209,6 +1209,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] SearchAnchor overlay expands to full screen when viewport size changes<br />
   <sub>[#12466](https://github.com/flutter/packages/pull/12466) merged on August 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/12466) over 6 days, 259 additions and 100 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui] Animated theme test from flutter/flutter<br />
+  <sub>[#12487](https://github.com/flutter/packages/pull/12487) merged on August 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12487) over 3 days, 101 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[pierre](https://github.com/guidezpl)** &mdash; [material_ui] Fixes typo in code and tests<br />
   <sub>[#12503](https://github.com/flutter/packages/pull/12503) merged on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12503) over 1 day, 45 additions and 42 deletions in 26 files</sub><br />
