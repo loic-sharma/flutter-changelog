@@ -1303,7 +1303,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-22 commits.
+23 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub>
@@ -1324,6 +1324,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Clarify Android platform-view mechanics and HCPP requirements
   <sub>[#13705](https://github.com/flutter/website/pull/13705) merged on August 17, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13705) over 6 days, 33 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add iframe vs DOM embedding comparison
+  <sub>[#13739](https://github.com/flutter/website/pull/13739) merged on August 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13739) over 2 days, 100 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Connie Ooi ](https://github.com/conooi)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [blog] Set up and fix table styling
   <sub>[#13733](https://github.com/flutter/website/pull/13733) merged on August 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13733) over 12 hours, 8 additions and 4 deletions in 2 files</sub>
