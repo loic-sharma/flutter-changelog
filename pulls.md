@@ -221,3 +221,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes deprecated ignoreSemantics parementers<br />
   <sub>[#191493](https://github.com/flutter/flutter/pull/191493) opened on on August 21, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191493) 20 additions and 381 deletions in 8 files</sub><br />
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Revert "Improve initial size and placement logic for popups and toolt…ips on Linux (#189994)<br />
+  <sub>[#191498](https://github.com/flutter/flutter/pull/191498) opened on on August 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191498) 27 additions and 242 deletions in 3 files</sub><br />
+
