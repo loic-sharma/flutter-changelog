@@ -176,6 +176,9 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes MSAA on the linux embedder.<br />
   <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/191379) 715 additions and 36 deletions in 10 files</sub><br />
 
+* **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; Refactor `splash` example to not use `material_ui`<br />
+  <sub>[#191380](https://github.com/flutter/flutter/pull/191380) opened on on August 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191380) 22 additions and 6 deletions in 3 files</sub><br />
+
 * **[Hashem](https://github.com/haashem)** &mdash; feat: Add includeRouteSemantics to PageRoute<br />
   <sub>[#191381](https://github.com/flutter/flutter/pull/191381) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191381) 48 additions and 0 deletions in 2 files</sub><br />
 
