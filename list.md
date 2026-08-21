@@ -1396,7 +1396,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-33 commits.
+34 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub>
@@ -1426,6 +1426,10 @@
   <sub>[#13705](https://github.com/flutter/website/pull/13705) merged on August 17, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/13705) over 6 days, 33 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
+* **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Simplify OpenCode MCP server setup instructions
+  <sub>[#13639](https://github.com/flutter/website/pull/13639) merged on August 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13639) over 3 weeks, 4 additions and 20 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add DOM-slot layering info
   <sub>[#13767](https://github.com/flutter/website/pull/13767) merged on August 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13767) over 4 hours, 151 additions and 35 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Connie Ooi ](https://github.com/conooi)</sub>
@@ -1434,13 +1438,13 @@
   <sub>[#13739](https://github.com/flutter/website/pull/13739) merged on August 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13739) over 2 days, 100 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Connie Ooi ](https://github.com/conooi)</sub>
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce preview expiration time to 5d
-  <sub>[#13777](https://github.com/flutter/website/pull/13777) merged on August 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13777) over 9 minutes, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix build due to scss compilation failure
   <sub>[#13770](https://github.com/flutter/website/pull/13770) merged on August 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13770) over 18 minutes, 6 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce preview expiration time to 5d
+  <sub>[#13777](https://github.com/flutter/website/pull/13777) merged on August 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13777) over 9 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [blog] Set up and fix table styling
   <sub>[#13733](https://github.com/flutter/website/pull/13733) merged on August 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13733) over 12 hours, 8 additions and 4 deletions in 2 files</sub>
@@ -1481,10 +1485,6 @@
 * **[Connie Ooi ](https://github.com/conooi)** &mdash; Add Building multi-agent development teams blog post
   <sub>[#13764](https://github.com/flutter/website/pull/13764) merged on August 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13764) over 36 minutes, 236 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
-* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify version to enable built-in kotlin
-  <sub>[#13761](https://github.com/flutter/website/pull/13761) merged on August 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13761) over 14 hours, 27 additions and 10 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jess K](https://github.com/jesskuras)</sub>
 
 * **[Philippe Aellig](https://github.com/philippeaellig)** &mdash; Fix typo in `llms.txt` file
   <sub>[#13763](https://github.com/flutter/website/pull/13763) merged on August 20, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13763) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -1529,6 +1529,10 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: update predictive back guide to reflect default behavior
   <sub>[#13675](https://github.com/flutter/website/pull/13675) merged on August 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13675) over 1 week, 17 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [Muthu Ganesh](https://github.com/MuthuGCodes), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify version to enable built-in kotlin
+  <sub>[#13761](https://github.com/flutter/website/pull/13761) merged on August 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13761) over 14 hours, 27 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jess K](https://github.com/jesskuras)</sub>
 
 ### August 8, 2026 to August 14, 2026
 
