@@ -222,10 +222,7 @@
   <sub>[#191498](https://github.com/flutter/flutter/pull/191498) opened on on August 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191498) 27 additions and 242 deletions in 3 files</sub><br />
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; [DO NOT MERGE] Trigger intentional golden test diff to test Skia Gold notifications<br />
-  <sub>[#191505](https://github.com/flutter/flutter/pull/191505) opened on on August 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191505) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes windows gallery benchmarks by forcing mobile layout<br />
-  <sub>[#191507](https://github.com/flutter/flutter/pull/191507) opened on on August 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191507) 17 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#191505](https://github.com/flutter/flutter/pull/191505) opened on on August 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191505) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; Revert "[input] Migrate fuchsia.ui.pointerinjector to TouchSource (#190855)<br />
   <sub>[#191509](https://github.com/flutter/flutter/pull/191509) opened on on August 21, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191509) 1379 additions and 2 deletions in 19 files</sub><br />
