@@ -177,7 +177,7 @@
   <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/191379) 715 additions and 36 deletions in 10 files</sub><br />
 
 * **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; Refactor `splash` example to not use `material_ui`<br />
-  <sub>[#191380](https://github.com/flutter/flutter/pull/191380) opened on on August 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191380) 22 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#191380](https://github.com/flutter/flutter/pull/191380) opened on on August 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191380) 24 additions and 6 deletions in 3 files</sub><br />
 
 * **[Hashem](https://github.com/haashem)** &mdash; feat: Add includeRouteSemantics to PageRoute<br />
   <sub>[#191381](https://github.com/flutter/flutter/pull/191381) opened on on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191381) 48 additions and 0 deletions in 2 files</sub><br />
@@ -209,8 +209,8 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add iOS Universal Link integration test (Simulator)<br />
   <sub>[#191443](https://github.com/flutter/flutter/pull/191443) opened on on August 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191443) 1410 additions and 0 deletions in 28 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Vsync cleanup - part 1<br />
-  <sub>[#191444](https://github.com/flutter/flutter/pull/191444) opened on on August 20, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/191444) 61 additions and 1099 deletions in 28 files</sub><br />
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Cleanup VSync infrastructure and improve iOS touch to present latency<br />
+  <sub>[#191444](https://github.com/flutter/flutter/pull/191444) opened on on August 20, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/191444) 139 additions and 1099 deletions in 30 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement Configuration extension slice and flutter config integration<br />
   <sub>[#191445](https://github.com/flutter/flutter/pull/191445) opened on on August 20, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/191445) 1376 additions and 65 deletions in 20 files</sub><br />
