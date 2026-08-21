@@ -215,9 +215,6 @@
 * **[Kiran Ryali](https://github.com/kryali)** &mdash; [windows] Fix null-deref in HostWindowPopup::UpdatePosition (Fixes #191478)<br />
   <sub>[#191479](https://github.com/flutter/flutter/pull/191479) opened on on August 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191479) 54 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle null version gracefully in CachedArtifact and MaterialFonts<br />
-  <sub>[#191494](https://github.com/flutter/flutter/pull/191494) opened on on August 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191494) 39 additions and 9 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Safely handle broken symlinks and existing files during plugin symlink creation<br />
   <sub>[#191496](https://github.com/flutter/flutter/pull/191496) opened on on August 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191496) 85 additions and 2 deletions in 2 files</sub><br />
 
@@ -226,4 +223,7 @@
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; [DO NOT MERGE] Trigger intentional golden test diff to test Skia Gold notifications<br />
   <sub>[#191505](https://github.com/flutter/flutter/pull/191505) opened on on August 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191505) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes windows gallery benchmarks by forcing mobile layout<br />
+  <sub>[#191507](https://github.com/flutter/flutter/pull/191507) opened on on August 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191507) 43 additions and 0 deletions in 1 file</sub><br />
 
