@@ -107,7 +107,7 @@
   <sub>Reviewed by: [b-luk](https://github.com/b-luk)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unskip decoration image lerp tests
-  <sub>[#191426](https://github.com/flutter/flutter/pull/191426) merged on August 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191426) over 2 hours, 0 additions and 6 deletions in 1 file</sub>
+  <sub>[#191426](https://github.com/flutter/flutter/pull/191426) merged on August 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191426) over 2 hours, 0 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix UNC path resolution in depfile parsing on Windows
