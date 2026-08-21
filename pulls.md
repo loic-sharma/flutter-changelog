@@ -96,7 +96,7 @@
   <sub>[#190642](https://github.com/flutter/flutter/pull/190642) opened on on August 6, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190642) 801 additions and 77 deletions in 21 files</sub><br />
 
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Reduce allocations in Matrix4Tween.lerp to improve transform animation performance<br />
-  <sub>[#190659](https://github.com/flutter/flutter/pull/190659) opened on on August 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190659) 39 additions and 15 deletions in 2 files</sub><br />
+  <sub>[#190659](https://github.com/flutter/flutter/pull/190659) opened on on August 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190659) 39 additions and 15 deletions in 2 files</sub><br />
 
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Android] Match external texture cache size to BufferQueue capacity<br />
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
