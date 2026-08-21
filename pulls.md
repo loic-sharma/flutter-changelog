@@ -206,9 +206,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add iOS Universal Link integration test (Simulator)<br />
   <sub>[#191443](https://github.com/flutter/flutter/pull/191443) opened on on August 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191443) 1410 additions and 0 deletions in 28 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement Configuration extension slice and flutter config integration<br />
-  <sub>[#191445](https://github.com/flutter/flutter/pull/191445) opened on on August 20, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/191445) 1358 additions and 78 deletions in 20 files</sub><br />
-
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 13<br />
   <sub>[#191466](https://github.com/flutter/flutter/pull/191466) opened on on August 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191466) 105 additions and 1 deletion in 5 files</sub><br />
 
@@ -225,8 +222,8 @@
   <sub>[#191505](https://github.com/flutter/flutter/pull/191505) opened on on August 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191505) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes windows gallery benchmarks by forcing mobile layout<br />
-  <sub>[#191507](https://github.com/flutter/flutter/pull/191507) opened on on August 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191507) 43 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#191507](https://github.com/flutter/flutter/pull/191507) opened on on August 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191507) 43 additions and 0 deletions in 1 file</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; Revert "[input] Migrate fuchsia.ui.pointerinjector to TouchSource (#190855)<br />
-  <sub>[#191509](https://github.com/flutter/flutter/pull/191509) opened on on August 21, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/191509) 1379 additions and 2 deletions in 19 files</sub><br />
+  <sub>[#191509](https://github.com/flutter/flutter/pull/191509) opened on on August 21, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191509) 1379 additions and 2 deletions in 19 files</sub><br />
 
