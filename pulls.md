@@ -141,7 +141,7 @@
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191220) 91 additions and 35 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; tools: Extract Dart SDK to temp directory before moving to final location<br />
-  <sub>[#191263](https://github.com/flutter/flutter/pull/191263) opened on on August 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191263) 80 additions and 28 deletions in 2 files</sub><br />
+  <sub>[#191263](https://github.com/flutter/flutter/pull/191263) opened on on August 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191263) 80 additions and 28 deletions in 2 files</sub><br />
 
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix RangeError in PredictiveBackEvent when Android sends EDGE_NONE<br />
   <sub>[#191306](https://github.com/flutter/flutter/pull/191306) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191306) 157 additions and 6 deletions in 2 files</sub><br />
@@ -203,9 +203,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add precacheTestImage to flutter_test and unskip web image tests<br />
   <sub>[#191435](https://github.com/flutter/flutter/pull/191435) opened on on August 20, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/191435) 1287 additions and 1263 deletions in 6 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Do not treat 'daemon' argument as daemon command in logger initialization<br />
-  <sub>[#191442](https://github.com/flutter/flutter/pull/191442) opened on on August 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191442) 22 additions and 2 deletions in 3 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add iOS Universal Link integration test (Simulator)<br />
   <sub>[#191443](https://github.com/flutter/flutter/pull/191443) opened on on August 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191443) 1410 additions and 0 deletions in 28 files</sub><br />
 
@@ -217,9 +214,6 @@
 
 * **[Kiran Ryali](https://github.com/kryali)** &mdash; [windows] Fix null-deref in HostWindowPopup::UpdatePosition (Fixes #191478)<br />
   <sub>[#191479](https://github.com/flutter/flutter/pull/191479) opened on on August 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191479) 54 additions and 0 deletions in 2 files</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Removes deprecated ignoreSemantics parementers<br />
-  <sub>[#191493](https://github.com/flutter/flutter/pull/191493) opened on on August 21, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191493) 20 additions and 381 deletions in 8 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Revert "Improve initial size and placement logic for popups and toolt…ips on Linux (#189994)<br />
   <sub>[#191498](https://github.com/flutter/flutter/pull/191498) opened on on August 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191498) 27 additions and 242 deletions in 3 files</sub><br />
