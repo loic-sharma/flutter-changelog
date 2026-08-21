@@ -1448,7 +1448,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-37 commits.
+38 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds documentation for antialiasing with impeller
   <sub>[#13370](https://github.com/flutter/website/pull/13370) merged on August 21, 2026 &mdash; **Small:** [56 comments](https://github.com/flutter/website/pull/13370) over 3 months, 82 additions and 0 deletions in 6 files</sub>
@@ -1458,13 +1458,13 @@
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins), [Connie Ooi ](https://github.com/conooi)</sub>
 
-* **[Muthu Ganesh](https://github.com/MuthuGCodes)** &mdash; Converted GuessInput to a StatefulWidget in Stateful widgets tutorial
-  <sub>[#13653](https://github.com/flutter/website/pull/13653) merged on August 21, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13653) over 3 weeks, 173 additions and 14 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Parker Lougheed](https://github.com/parlough)</sub>
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(blog): add try Flutter web with WebAssembly week blog post
   <sub>[#13667](https://github.com/flutter/website/pull/13667) merged on August 17, 2026 &mdash; **Small:** [54 comments](https://github.com/flutter/website/pull/13667) over 1 week, 141 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Abdallah Shaban](https://github.com/abdallahshaban557), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[Muthu Ganesh](https://github.com/MuthuGCodes)** &mdash; Converted GuessInput to a StatefulWidget in Stateful widgets tutorial
+  <sub>[#13653](https://github.com/flutter/website/pull/13653) merged on August 21, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/13653) over 3 weeks, 173 additions and 14 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; add `describeEnum` removal breaking change entry and migration guide
   <sub>[#13682](https://github.com/flutter/website/pull/13682) merged on August 18, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/website/pull/13682) over 1 week, 60 additions and 0 deletions in 2 files</sub>
@@ -1490,6 +1490,10 @@
   <sub>[#13648](https://github.com/flutter/website/pull/13648) merged on August 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13648) over 2 weeks, 13 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Nate Biggs](https://github.com/biggs0125), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
+* **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Simplify OpenCode MCP server setup instructions
+  <sub>[#13639](https://github.com/flutter/website/pull/13639) merged on August 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13639) over 3 weeks, 4 additions and 20 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add DOM-slot layering info
   <sub>[#13767](https://github.com/flutter/website/pull/13767) merged on August 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13767) over 4 hours, 151 additions and 35 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Connie Ooi ](https://github.com/conooi)</sub>
@@ -1498,25 +1502,17 @@
   <sub>[#13739](https://github.com/flutter/website/pull/13739) merged on August 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13739) over 2 days, 100 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Connie Ooi ](https://github.com/conooi)</sub>
 
-* **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Simplify OpenCode MCP server setup instructions
-  <sub>[#13639](https://github.com/flutter/website/pull/13639) merged on August 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13639) over 3 weeks, 4 additions and 20 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jacob MacDonald](https://github.com/jakemac53), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce preview expiration time to 5d
   <sub>[#13777](https://github.com/flutter/website/pull/13777) merged on August 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13777) over 9 minutes, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix build due to scss compilation failure
-  <sub>[#13770](https://github.com/flutter/website/pull/13770) merged on August 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13770) over 18 minutes, 6 additions and 6 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub>
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; [blog] Set up and fix table styling
-  <sub>[#13733](https://github.com/flutter/website/pull/13733) merged on August 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13733) over 12 hours, 8 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Mark sfshaza2 as default blog reviewer
   <sub>[#13734](https://github.com/flutter/website/pull/13734) merged on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13734) over 1 hour, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix build due to scss compilation failure
+  <sub>[#13770](https://github.com/flutter/website/pull/13770) merged on August 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13770) over 18 minutes, 6 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 * **[Christoph Schlosser](https://github.com/cschlosser)** &mdash; Add go/android-hide-passwords-physical-keyboards
   <sub>[#13729](https://github.com/flutter/website/pull/13729) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13729) over 3 days, 1 addition and 0 deletions in 1 file</sub>
@@ -1526,6 +1522,10 @@
   <sub>[#13732](https://github.com/flutter/website/pull/13732) merged on August 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13732) over 18 minutes, 25 additions and 9 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [blog] Set up and fix table styling
+  <sub>[#13733](https://github.com/flutter/website/pull/13733) merged on August 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13733) over 12 hours, 8 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Order arm64 builds first in SDK archive
   <sub>[#13713](https://github.com/flutter/website/pull/13713) merged on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13713) over 5 days, 10 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
@@ -1533,6 +1533,10 @@
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; docs: clarify xcconfig file usage and simplify notes in iOS flavors guide
   <sub>[#13748](https://github.com/flutter/website/pull/13748) merged on August 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13748) over 1 day, 42 additions and 44 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; Adeed 1 image & 1 consultant
+  <sub>[#13780](https://github.com/flutter/website/pull/13780) merged on August 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13780) over 13 minutes, 11 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add redirect for redesign render paragraph semantics
   <sub>[#13773](https://github.com/flutter/website/pull/13773) merged on August 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13773) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -1544,10 +1548,6 @@
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update whats new 3 47 pr links
   <sub>[#13765](https://github.com/flutter/website/pull/13765) merged on August 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13765) over 22 minutes, 43 additions and 24 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
-
-* **[Connie Ooi ](https://github.com/conooi)** &mdash; Add Building multi-agent development teams blog post
-  <sub>[#13764](https://github.com/flutter/website/pull/13764) merged on August 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13764) over 36 minutes, 236 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Jess K](https://github.com/jesskuras)** &mdash; [AI Docs] Integrate AI documentation into the default sidebar
@@ -1597,6 +1597,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Clarify adding AppBar in layout tutorial
   <sub>[#13759](https://github.com/flutter/website/pull/13759) merged on August 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13759) over 1 hour, 25 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill)</sub>
+
+* **[Connie Ooi ](https://github.com/conooi)** &mdash; Add Building multi-agent development teams blog post
+  <sub>[#13764](https://github.com/flutter/website/pull/13764) merged on August 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13764) over 36 minutes, 236 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### August 8, 2026 to August 14, 2026
 
