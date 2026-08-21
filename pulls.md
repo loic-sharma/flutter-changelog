@@ -210,11 +210,14 @@
   <sub>[#191443](https://github.com/flutter/flutter/pull/191443) opened on on August 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191443) 1410 additions and 0 deletions in 28 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Vsync cleanup - part 1<br />
-  <sub>[#191444](https://github.com/flutter/flutter/pull/191444) opened on on August 20, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/191444) 61 additions and 1088 deletions in 27 files</sub><br />
+  <sub>[#191444](https://github.com/flutter/flutter/pull/191444) opened on on August 20, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/191444) 61 additions and 1099 deletions in 28 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement Configuration extension slice and flutter config integration<br />
   <sub>[#191445](https://github.com/flutter/flutter/pull/191445) opened on on August 20, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/191445) 1376 additions and 65 deletions in 20 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 13<br />
   <sub>[#191466](https://github.com/flutter/flutter/pull/191466) opened on on August 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191466) 105 additions and 1 deletion in 5 files</sub><br />
+
+* **[Kiran Ryali](https://github.com/kryali)** &mdash; [windows] Fix null-deref in HostWindowPopup::UpdatePosition (Fixes #191478)<br />
+  <sub>[#191479](https://github.com/flutter/flutter/pull/191479) opened on on August 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191479) 54 additions and 0 deletions in 2 files</sub><br />
 
