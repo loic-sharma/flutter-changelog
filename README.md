@@ -50,6 +50,10 @@
   <sub>[#191232](https://github.com/flutter/flutter/pull/191232) merged on August 19, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/191232) over 1 day, 1300 additions and 881 deletions in 18 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
+* **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; fix(tool): make copied frameworks writable to fix macOS 15.4+ openrsync regression<br />
+  <sub>[#189658](https://github.com/flutter/flutter/pull/189658) merged on August 19, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/189658) over 1 month, 120 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Deduplicate fixture builders in build_swift_package_test.dart<br />
   <sub>[#190624](https://github.com/flutter/flutter/pull/190624) merged on August 17, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/190624) over 1 week, 119 additions and 409 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub><br />
@@ -69,10 +73,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement Diagnostics extension slice and doctor integration<br />
   <sub>[#191162](https://github.com/flutter/flutter/pull/191162) merged on August 20, 2026 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/191162) over 4 days, 931 additions and 173 deletions in 42 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
-
-* **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; fix(tool): make copied frameworks writable to fix macOS 15.4+ openrsync regression<br />
-  <sub>[#189658](https://github.com/flutter/flutter/pull/189658) merged on August 19, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/189658) over 1 month, 120 additions and 0 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; SliverFillRemaining extends beyond viewport size when fillOverscroll is true<br />
   <sub>[#191236](https://github.com/flutter/flutter/pull/191236) merged on August 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191236) over 2 days, 243 additions and 2 deletions in 2 files</sub><br />
