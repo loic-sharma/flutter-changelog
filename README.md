@@ -1396,7 +1396,7 @@
 
 ### August 15, 2026 to August 21, 2026
 
-32 commits.
+33 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Removing mention of the legacy devtools inspector<br />
   <sub>[#13740](https://github.com/flutter/website/pull/13740) merged on August 18, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/13740) over 1 hour, 3 additions and 586 deletions in 4 files</sub><br />
@@ -1433,6 +1433,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add iframe vs DOM embedding comparison<br />
   <sub>[#13739](https://github.com/flutter/website/pull/13739) merged on August 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/13739) over 2 days, 100 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Reduce preview expiration time to 5d<br />
+  <sub>[#13777](https://github.com/flutter/website/pull/13777) merged on August 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13777) over 9 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix build due to scss compilation failure<br />
   <sub>[#13770](https://github.com/flutter/website/pull/13770) merged on August 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13770) over 18 minutes, 6 additions and 6 deletions in 1 file</sub><br />
