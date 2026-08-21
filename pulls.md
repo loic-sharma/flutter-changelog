@@ -95,6 +95,9 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Expand the vertex attribute formats and gate them by backend capability<br />
   <sub>[#190642](https://github.com/flutter/flutter/pull/190642) opened on on August 6, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/190642) 801 additions and 77 deletions in 21 files</sub><br />
 
+* **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Reduce allocations in Matrix4Tween.lerp to improve transform animation performance<br />
+  <sub>[#190659](https://github.com/flutter/flutter/pull/190659) opened on on August 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190659) 39 additions and 15 deletions in 2 files</sub><br />
+
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Android] Match external texture cache size to BufferQueue capacity<br />
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
 
@@ -208,9 +211,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement Configuration extension slice and flutter config integration<br />
   <sub>[#191445](https://github.com/flutter/flutter/pull/191445) opened on on August 20, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/191445) 1376 additions and 65 deletions in 20 files</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds new gallery benchmarks to windows (skia and impeller)<br />
-  <sub>[#191454](https://github.com/flutter/flutter/pull/191454) opened on on August 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191454) 56 additions and 1 deletion in 5 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 13<br />
   <sub>[#191466](https://github.com/flutter/flutter/pull/191466) opened on on August 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191466) 105 additions and 1 deletion in 5 files</sub><br />
