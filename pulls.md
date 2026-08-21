@@ -218,3 +218,6 @@
 * **[Kiran Ryali](https://github.com/kryali)** &mdash; [windows] Fix null-deref in HostWindowPopup::UpdatePosition (Fixes #191478)<br />
   <sub>[#191479](https://github.com/flutter/flutter/pull/191479) opened on on August 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191479) 54 additions and 0 deletions in 2 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Removes deprecated ignoreSemantics parementers<br />
+  <sub>[#191493](https://github.com/flutter/flutter/pull/191493) opened on on August 21, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191493) 20 additions and 381 deletions in 8 files</sub><br />
+
