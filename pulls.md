@@ -116,6 +116,9 @@
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
+* **[TtangKong](https://github.com/MTtankkeo)** &mdash; Preserve destination Hero child state during flights<br />
+  <sub>[#191054](https://github.com/flutter/flutter/pull/191054) opened on on August 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191054) 236 additions and 123 deletions in 3 files</sub><br />
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Prevent platform views from stealing text input focus from TextFields<br />
   <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
 
@@ -198,7 +201,7 @@
   <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; On iOS 27+ devices, manually process lldb stops<br />
-  <sub>[#191434](https://github.com/flutter/flutter/pull/191434) opened on on August 20, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191434) 454 additions and 278 deletions in 5 files</sub><br />
+  <sub>[#191434](https://github.com/flutter/flutter/pull/191434) opened on on August 20, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/191434) 454 additions and 278 deletions in 5 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add precacheTestImage to flutter_test and unskip web image tests<br />
   <sub>[#191435](https://github.com/flutter/flutter/pull/191435) opened on on August 20, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/191435) 1287 additions and 1263 deletions in 6 files</sub><br />
@@ -222,7 +225,7 @@
   <sub>[#191505](https://github.com/flutter/flutter/pull/191505) opened on on August 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191505) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes windows gallery benchmarks by forcing mobile layout<br />
-  <sub>[#191507](https://github.com/flutter/flutter/pull/191507) opened on on August 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191507) 43 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#191507](https://github.com/flutter/flutter/pull/191507) opened on on August 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191507) 17 additions and 1 deletion in 2 files</sub><br />
 
 * **[Caroline Liu](https://github.com/caroqliu)** &mdash; Revert "[input] Migrate fuchsia.ui.pointerinjector to TouchSource (#190855)<br />
   <sub>[#191509](https://github.com/flutter/flutter/pull/191509) opened on on August 21, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191509) 1379 additions and 2 deletions in 19 files</sub><br />
