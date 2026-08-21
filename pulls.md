@@ -116,9 +116,6 @@
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
-* **[TtangKong](https://github.com/MTtankkeo)** &mdash; Preserve destination Hero child state during flights<br />
-  <sub>[#191054](https://github.com/flutter/flutter/pull/191054) opened on on August 13, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191054) 236 additions and 123 deletions in 3 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Prevent platform views from stealing text input focus from TextFields<br />
   <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
 
