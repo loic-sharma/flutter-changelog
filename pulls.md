@@ -233,3 +233,6 @@
 * **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Prefer 64-bit system images over x86 when creating an Android emulator<br />
   <sub>[#191533](https://github.com/flutter/flutter/pull/191533) opened on on August 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191533) 236 additions and 7 deletions in 4 files</sub><br />
 
+* **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Ignore generated build packages when scanning for pubspecs dependencies file<br />
+  <sub>[#191540](https://github.com/flutter/flutter/pull/191540) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191540) 17 additions and 2 deletions in 2 files</sub><br />
+
