@@ -234,5 +234,8 @@
   <sub>[#191533](https://github.com/flutter/flutter/pull/191533) opened on on August 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191533) 236 additions and 7 deletions in 4 files</sub><br />
 
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Ignore generated build packages when scanning for pubspecs dependencies file<br />
-  <sub>[#191540](https://github.com/flutter/flutter/pull/191540) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191540) 17 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#191540](https://github.com/flutter/flutter/pull/191540) opened on on August 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191540) 18 additions and 2 deletions in 2 files</sub><br />
+
+* **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Remove assert to allow CupertinoTabBar to have one tab<br />
+  <sub>[#191541](https://github.com/flutter/flutter/pull/191541) opened on on August 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191541) 10 additions and 21 deletions in 2 files</sub><br />
 
