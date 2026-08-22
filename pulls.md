@@ -116,9 +116,6 @@
 * **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix LocalHistoryEntry leak when double tapping Drawer scrim<br />
-  <sub>[#191064](https://github.com/flutter/flutter/pull/191064) opened on on August 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191064) 80 additions and 4 deletions in 2 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Prevent platform views from stealing text input focus from TextFields<br />
   <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
 
