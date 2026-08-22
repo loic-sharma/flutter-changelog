@@ -222,5 +222,11 @@
   <sub>[#191505](https://github.com/flutter/flutter/pull/191505) opened on on August 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191505) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: InteractiveViewer jumping back to the start when panning against the boundary of a large child<br />
-  <sub>[#191525](https://github.com/flutter/flutter/pull/191525) opened on on August 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191525) 103 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#191525](https://github.com/flutter/flutter/pull/191525) opened on on August 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191525) 100 additions and 1 deletion in 2 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add placeholder to DecorationImage<br />
+  <sub>[#191528](https://github.com/flutter/flutter/pull/191528) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191528) 180 additions and 7 deletions in 2 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: prefer pointer events over semantics tap for mouse clicks on web<br />
+  <sub>[#191529](https://github.com/flutter/flutter/pull/191529) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191529) 82 additions and 5 deletions in 2 files</sub><br />
 
