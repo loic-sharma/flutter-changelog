@@ -230,6 +230,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: prefer pointer events over semantics tap for mouse clicks on web<br />
   <sub>[#191529](https://github.com/flutter/flutter/pull/191529) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191529) 80 additions and 5 deletions in 2 files</sub><br />
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; [beta] Only exclude platform directories that actually exist in analysis_options.yaml<br />
-  <sub>[#191532](https://github.com/flutter/flutter/pull/191532) opened on on August 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191532) 140 additions and 19 deletions in 4 files</sub><br />
+* **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Prefer 64-bit system images over x86 when creating an Android emulator<br />
+  <sub>[#191533](https://github.com/flutter/flutter/pull/191533) opened on on August 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191533) 236 additions and 7 deletions in 4 files</sub><br />
 
