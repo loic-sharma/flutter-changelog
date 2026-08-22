@@ -221,3 +221,6 @@
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; [DO NOT MERGE] Trigger intentional golden test diff to test Skia Gold notifications<br />
   <sub>[#191505](https://github.com/flutter/flutter/pull/191505) opened on on August 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191505) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: InteractiveViewer jumping back to the start when panning against the boundary of a large child<br />
+  <sub>[#191525](https://github.com/flutter/flutter/pull/191525) opened on on August 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191525) 103 additions and 1 deletion in 2 files</sub><br />
+
