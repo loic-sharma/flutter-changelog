@@ -228,5 +228,8 @@
   <sub>[#191528](https://github.com/flutter/flutter/pull/191528) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191528) 180 additions and 7 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: prefer pointer events over semantics tap for mouse clicks on web<br />
-  <sub>[#191529](https://github.com/flutter/flutter/pull/191529) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191529) 82 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#191529](https://github.com/flutter/flutter/pull/191529) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191529) 80 additions and 5 deletions in 2 files</sub><br />
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; [beta] Only exclude platform directories that actually exist in analysis_options.yaml<br />
+  <sub>[#191532](https://github.com/flutter/flutter/pull/191532) opened on on August 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191532) 140 additions and 19 deletions in 4 files</sub><br />
 
