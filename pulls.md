@@ -192,7 +192,7 @@
   <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191388) 100 additions and 30 deletions in 16 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add FlViewRendererSubsurface<br />
-  <sub>[#191389](https://github.com/flutter/flutter/pull/191389) opened on on August 19, 2026 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/191389) 1067 additions and 39 deletions in 12 files</sub><br />
+  <sub>[#191389](https://github.com/flutter/flutter/pull/191389) opened on on August 19, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/191389) 2120 additions and 42 deletions in 26 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [cupertino] Remove unused parameters from constructors of generic classes<br />
   <sub>[#191398](https://github.com/flutter/flutter/pull/191398) opened on on August 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191398) 0 additions and 5 deletions in 4 files</sub><br />
