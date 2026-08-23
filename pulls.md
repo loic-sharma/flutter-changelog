@@ -50,6 +50,9 @@
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix RouteObserver didPushNext not firing when routes are pushed synchronously<br />
+  <sub>[#189057](https://github.com/flutter/flutter/pull/189057) opened on on July 7, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/189057) 175 additions and 2 deletions in 2 files</sub><br />
+
 * **[August](https://github.com/Gustl22)** &mdash; fix: Apply reversed axis flip by macOS on Web when scroll with modifier keys<br />
   <sub>[#189506](https://github.com/flutter/flutter/pull/189506) opened on on July 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/189506) 122 additions and 8 deletions in 5 files</sub><br />
 
