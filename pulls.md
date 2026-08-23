@@ -239,6 +239,3 @@
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Ignore generated build packages when scanning for pubspecs dependencies file<br />
   <sub>[#191540](https://github.com/flutter/flutter/pull/191540) opened on on August 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191540) 18 additions and 2 deletions in 2 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Remove secondary vsync callbacks.<br />
-  <sub>[#191545](https://github.com/flutter/flutter/pull/191545) opened on on August 22, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/191545) 171 additions and 1354 deletions in 36 files</sub><br />
-
