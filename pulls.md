@@ -183,7 +183,7 @@
   <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191369) 76 additions and 7 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes MSAA on the linux embedder.<br />
-  <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/191379) 715 additions and 36 deletions in 10 files</sub><br />
+  <sub>[#191379](https://github.com/flutter/flutter/pull/191379) opened on on August 19, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/191379) 715 additions and 36 deletions in 10 files</sub><br />
 
 * **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; Refactor `splash` example to not use `material_ui`<br />
   <sub>[#191380](https://github.com/flutter/flutter/pull/191380) opened on on August 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191380) 24 additions and 6 deletions in 3 files</sub><br />
@@ -195,7 +195,7 @@
   <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191388) 100 additions and 30 deletions in 16 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add FlViewRendererSubsurface<br />
-  <sub>[#191389](https://github.com/flutter/flutter/pull/191389) opened on on August 19, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/191389) 1067 additions and 39 deletions in 12 files</sub><br />
+  <sub>[#191389](https://github.com/flutter/flutter/pull/191389) opened on on August 19, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/191389) 1067 additions and 39 deletions in 12 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [cupertino] Remove unused parameters from constructors of generic classes<br />
   <sub>[#191398](https://github.com/flutter/flutter/pull/191398) opened on on August 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191398) 0 additions and 5 deletions in 4 files</sub><br />
