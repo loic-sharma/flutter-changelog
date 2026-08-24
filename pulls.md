@@ -137,11 +137,8 @@
 * **[Hamed](https://github.com/papmodern)** &mdash; [Android] Do not schedule engine frames on a detached FlutterJNI<br />
   <sub>[#191204](https://github.com/flutter/flutter/pull/191204) opened on on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191204) 53 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve symlinks and fix flakiness in widget preview tests<br />
-  <sub>[#191214](https://github.com/flutter/flutter/pull/191214) opened on on August 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191214) 77 additions and 9 deletions in 8 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix $git typo in shared.bat to restore cache invalidation on Windows<br />
-  <sub>[#191217](https://github.com/flutter/flutter/pull/191217) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191217) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#191217](https://github.com/flutter/flutter/pull/191217) opened on on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191217) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191220) 91 additions and 35 deletions in 2 files</sub><br />
@@ -184,9 +181,6 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Make touch to present latency on iOS match UIKit<br />
   <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191388) 100 additions and 30 deletions in 16 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add FlViewRendererSubsurface<br />
-  <sub>[#191389](https://github.com/flutter/flutter/pull/191389) opened on on August 19, 2026 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/191389) 2131 additions and 42 deletions in 26 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [cupertino] Remove unused parameters from constructors of generic classes<br />
   <sub>[#191398](https://github.com/flutter/flutter/pull/191398) opened on on August 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191398) 0 additions and 5 deletions in 4 files</sub><br />
@@ -236,20 +230,17 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fix sibling nodes crash under MergeSemantics<br />
   <sub>[#191587](https://github.com/flutter/flutter/pull/191587) opened on on August 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191587) 75 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Upgrade package:analyzer to 14.1.0 and enable custom plugin compilation<br />
-  <sub>[#191590](https://github.com/flutter/flutter/pull/191590) opened on on August 24, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191590) 521 additions and 219 deletions in 62 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix Use dependency graph to determine plugin initialization order<br />
   <sub>[#191591](https://github.com/flutter/flutter/pull/191591) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191591) 262 additions and 9 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Honor configured build-dir across flutter project and build targets<br />
-  <sub>[#191592](https://github.com/flutter/flutter/pull/191592) opened on on August 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191592) 108 additions and 24 deletions in 14 files</sub><br />
+  <sub>[#191592](https://github.com/flutter/flutter/pull/191592) opened on on August 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191592) 129 additions and 26 deletions in 15 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix test separation between `VersionFreshnessValidator` and `FlutterVersion.checkFlutterVersionFreshness`<br />
-  <sub>[#191593](https://github.com/flutter/flutter/pull/191593) opened on on August 24, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191593) 291 additions and 99 deletions in 2 files</sub><br />
+  <sub>[#191593](https://github.com/flutter/flutter/pull/191593) opened on on August 24, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/191593) 394 additions and 159 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] make flutter test listener.dart path deterministic to preserve build cache<br />
-  <sub>[#191594](https://github.com/flutter/flutter/pull/191594) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191594) 243 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#191594](https://github.com/flutter/flutter/pull/191594) opened on on August 24, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191594) 314 additions and 14 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_test] Ensure LiveTestWidgetsFlutterBinding executes frame and pointer callbacks in the test zone<br />
   <sub>[#191595](https://github.com/flutter/flutter/pull/191595) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191595) 181 additions and 0 deletions in 2 files</sub><br />
@@ -262,4 +253,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Handle HttpException during VM service connection<br />
   <sub>[#191607](https://github.com/flutter/flutter/pull/191607) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191607) 43 additions and 3 deletions in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clarifies blur group optimization<br />
+  <sub>[#191613](https://github.com/flutter/flutter/pull/191613) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191613) 15 additions and 7 deletions in 1 file</sub><br />
 
