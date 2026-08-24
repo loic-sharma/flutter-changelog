@@ -210,7 +210,7 @@
   <sub>[#191435](https://github.com/flutter/flutter/pull/191435) opened on on August 20, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/191435) 1287 additions and 1263 deletions in 6 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add iOS Universal Link integration test (Simulator)<br />
-  <sub>[#191443](https://github.com/flutter/flutter/pull/191443) opened on on August 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191443) 1410 additions and 0 deletions in 28 files</sub><br />
+  <sub>[#191443](https://github.com/flutter/flutter/pull/191443) opened on on August 20, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/191443) 1410 additions and 0 deletions in 28 files</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 13<br />
   <sub>[#191466](https://github.com/flutter/flutter/pull/191466) opened on on August 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191466) 105 additions and 1 deletion in 5 files</sub><br />
@@ -238,4 +238,10 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Ignore build directories when scanning repo packages<br />
   <sub>[#191580](https://github.com/flutter/flutter/pull/191580) opened on on August 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191580) 53 additions and 2 deletions in 2 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fix sibling nodes crash under MergeSemantics<br />
+  <sub>[#191587](https://github.com/flutter/flutter/pull/191587) opened on on August 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191587) 75 additions and 1 deletion in 2 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add agent rule to prevent using material and cupertino in widget tests<br />
+  <sub>[#191588](https://github.com/flutter/flutter/pull/191588) opened on on August 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191588) 5 additions and 0 deletions in 1 file</sub><br />
 

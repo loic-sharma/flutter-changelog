@@ -4,11 +4,15 @@
 
 ### August 22, 2026 to August 28, 2026
 
-4 commits.
+5 commits.
 
 * **[walley892](https://github.com/walley892)** &mdash; Move more RSE rendering cases to complex_rse.frag
   <sub>[#191235](https://github.com/flutter/flutter/pull/191235) merged on August 24, 2026 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/191235) over 6 days, 253 additions and 150 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add --force flag to flutter channel
+  <sub>[#191579](https://github.com/flutter/flutter/pull/191579) merged on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191579) over 49 minutes, 75 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add stylus pointer tests
   <sub>[#191564](https://github.com/flutter/flutter/pull/191564) merged on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191564) over 4 hours, 128 additions and 0 deletions in 1 file</sub>
