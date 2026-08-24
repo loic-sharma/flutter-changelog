@@ -135,7 +135,7 @@
   <sub>[#191110](https://github.com/flutter/flutter/pull/191110) opened on on August 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191110) 71 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle missing Xcode gracefully in getInfo and buildMacOS<br />
-  <sub>[#191180](https://github.com/flutter/flutter/pull/191180) opened on on August 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191180) 188 additions and 29 deletions in 5 files</sub><br />
+  <sub>[#191180](https://github.com/flutter/flutter/pull/191180) opened on on August 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191180) 188 additions and 29 deletions in 5 files</sub><br />
 
 * **[Hamed](https://github.com/papmodern)** &mdash; [Android] Do not schedule engine frames on a detached FlutterJNI<br />
   <sub>[#191204](https://github.com/flutter/flutter/pull/191204) opened on on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191204) 53 additions and 0 deletions in 2 files</sub><br />
