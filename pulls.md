@@ -174,7 +174,7 @@
   <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Inject --macho-sdk-version directly into gen_snapshot<br />
-  <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191369) 76 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191369) 95 additions and 9 deletions in 6 files</sub><br />
 
 * **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; Refactor `splash` example to not use `material_ui`<br />
   <sub>[#191380](https://github.com/flutter/flutter/pull/191380) opened on on August 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191380) 24 additions and 6 deletions in 3 files</sub><br />
@@ -186,7 +186,7 @@
   <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191388) 100 additions and 30 deletions in 16 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add FlViewRendererSubsurface<br />
-  <sub>[#191389](https://github.com/flutter/flutter/pull/191389) opened on on August 19, 2026 &mdash; **Extra large:** [27 comments](https://github.com/flutter/flutter/pull/191389) 2131 additions and 42 deletions in 26 files</sub><br />
+  <sub>[#191389](https://github.com/flutter/flutter/pull/191389) opened on on August 19, 2026 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/191389) 2131 additions and 42 deletions in 26 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [cupertino] Remove unused parameters from constructors of generic classes<br />
   <sub>[#191398](https://github.com/flutter/flutter/pull/191398) opened on on August 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191398) 0 additions and 5 deletions in 4 files</sub><br />
@@ -196,9 +196,6 @@
 
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Add Abdelrahman Saed to AUTHORS<br />
   <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; On iOS 27+ devices, manually process lldb stops<br />
-  <sub>[#191434](https://github.com/flutter/flutter/pull/191434) opened on on August 20, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/191434) 453 additions and 278 deletions in 5 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add precacheTestImage to flutter_test and unskip web image tests<br />
   <sub>[#191435](https://github.com/flutter/flutter/pull/191435) opened on on August 20, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/191435) 1287 additions and 1263 deletions in 6 files</sub><br />
@@ -237,7 +234,7 @@
   <sub>[#191587](https://github.com/flutter/flutter/pull/191587) opened on on August 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191587) 75 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Upgrade package:analyzer to 14.1.0 and enable custom plugin compilation<br />
-  <sub>[#191590](https://github.com/flutter/flutter/pull/191590) opened on on August 24, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/191590) 204 additions and 113 deletions in 47 files</sub><br />
+  <sub>[#191590](https://github.com/flutter/flutter/pull/191590) opened on on August 24, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/191590) 245 additions and 130 deletions in 49 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix Use dependency graph to determine plugin initialization order<br />
   <sub>[#191591](https://github.com/flutter/flutter/pull/191591) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191591) 262 additions and 9 deletions in 3 files</sub><br />
@@ -256,4 +253,7 @@
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Remove octant_offset_c uniform from ubersdf, reorder/document ubersdf uniforms<br />
   <sub>[#191597](https://github.com/flutter/flutter/pull/191597) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191597) 67 additions and 28 deletions in 6 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix crash when migrating flow-style exclude lists in analysis_options.yaml<br />
+  <sub>[#191598](https://github.com/flutter/flutter/pull/191598) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191598) 39 additions and 0 deletions in 2 files</sub><br />
 

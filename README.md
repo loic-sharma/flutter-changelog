@@ -4,7 +4,11 @@
 
 ### August 22, 2026 to August 28, 2026
 
-10 commits.
+11 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; On iOS 27+ devices, manually process lldb stops<br />
+  <sub>[#191434](https://github.com/flutter/flutter/pull/191434) merged on August 24, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/191434) over 3 days, 453 additions and 278 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub><br />
 
 * **[walley892](https://github.com/walley892)** &mdash; Move more RSE rendering cases to complex_rse.frag<br />
   <sub>[#191235](https://github.com/flutter/flutter/pull/191235) merged on August 24, 2026 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/191235) over 6 days, 253 additions and 150 deletions in 11 files</sub><br />
@@ -916,11 +920,19 @@
 
 ### August 22, 2026 to August 28, 2026
 
-2 commits.
+4 commits.
+
+* **[Ashkan Bahmani](https://github.com/developerashkan)** &mdash; [go_router] Clarify onEnter/redirect ordering, add regression test<br />
+  <sub>[#12337](https://github.com/flutter/packages/pull/12337) merged on August 24, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/12337) over 3 weeks, 81 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; [material_ui] Port flutter/flutter #185149 "Slider label clips the screen"<br />
   <sub>[#12572](https://github.com/flutter/packages/pull/12572) merged on August 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12572) over 4 hours, 130 additions and 6 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [camera_android_camerax] Migrate from dart_skills_lint to skills_lint<br />
+  <sub>[#12543](https://github.com/flutter/packages/pull/12543) merged on August 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12543) over 2 days, 18 additions and 18 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Fix dart_test.yaml parsing<br />
   <sub>[#12574](https://github.com/flutter/packages/pull/12574) merged on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12574) over 1 hour, 50 additions and 27 deletions in 2 files</sub><br />
