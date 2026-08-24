@@ -72,7 +72,7 @@
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool][engine] Enable experimental VM service by default<br />
-  <sub>[#190100](https://github.com/flutter/flutter/pull/190100) opened on on July 27, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/190100) 1563 additions and 165 deletions in 63 files</sub><br />
+  <sub>[#190100](https://github.com/flutter/flutter/pull/190100) opened on on July 27, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/190100) 1567 additions and 165 deletions in 63 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): support --web-content-hash for entrypoint files<br />
   <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190153) 928 additions and 58 deletions in 5 files</sub><br />
@@ -165,7 +165,7 @@
   <sub>[#191324](https://github.com/flutter/flutter/pull/191324) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191324) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 3 to simulators<br />
-  <sub>[#191333](https://github.com/flutter/flutter/pull/191333) opened on on August 19, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/191333) 196 additions and 56 deletions in 13 files</sub><br />
+  <sub>[#191333](https://github.com/flutter/flutter/pull/191333) opened on on August 19, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/191333) 196 additions and 56 deletions in 13 files</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; [stable] fix: limit render size of custom elements<br />
   <sub>[#191341](https://github.com/flutter/flutter/pull/191341) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191341) 89 additions and 3 deletions in 2 files</sub><br />
@@ -180,7 +180,7 @@
   <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Inject --macho-sdk-version directly into gen_snapshot<br />
-  <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191369) 76 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191369) 76 additions and 7 deletions in 4 files</sub><br />
 
 * **[Sagar Ghag](https://github.com/GhagSagar23)** &mdash; Refactor `splash` example to not use `material_ui`<br />
   <sub>[#191380](https://github.com/flutter/flutter/pull/191380) opened on on August 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191380) 24 additions and 6 deletions in 3 files</sub><br />
@@ -242,6 +242,9 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fix sibling nodes crash under MergeSemantics<br />
   <sub>[#191587](https://github.com/flutter/flutter/pull/191587) opened on on August 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191587) 75 additions and 1 deletion in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Add agent rule to prevent using material and cupertino in widget tests<br />
-  <sub>[#191588](https://github.com/flutter/flutter/pull/191588) opened on on August 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191588) 5 additions and 0 deletions in 1 file</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Upgrade package:analyzer to 14.1.0 and enable custom plugin compilation<br />
+  <sub>[#191590](https://github.com/flutter/flutter/pull/191590) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191590) 176 additions and 104 deletions in 39 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix Use dependency graph to determine plugin initialization order<br />
+  <sub>[#191591](https://github.com/flutter/flutter/pull/191591) opened on on August 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191591) 262 additions and 9 deletions in 3 files</sub><br />
 
