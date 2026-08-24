@@ -72,7 +72,7 @@
   <sub>[#190065](https://github.com/flutter/flutter/pull/190065) opened on on July 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190065) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool][engine] Enable experimental VM service by default<br />
-  <sub>[#190100](https://github.com/flutter/flutter/pull/190100) opened on on July 27, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/190100) 1568 additions and 166 deletions in 64 files</sub><br />
+  <sub>[#190100](https://github.com/flutter/flutter/pull/190100) opened on on July 27, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/190100) 1573 additions and 167 deletions in 64 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): support --web-content-hash for entrypoint files<br />
   <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190153) 928 additions and 58 deletions in 5 files</sub><br />
@@ -126,7 +126,7 @@
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Prevent platform views from stealing text input focus from TextFields<br />
-  <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
+  <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
 
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; Exclude local Swift package schemes from --flavor error message<br />
   <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
@@ -227,9 +227,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix Use dependency graph to determine plugin initialization order<br />
   <sub>[#191591](https://github.com/flutter/flutter/pull/191591) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191591) 262 additions and 9 deletions in 3 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Honor configured build-dir across flutter project and build targets<br />
-  <sub>[#191592](https://github.com/flutter/flutter/pull/191592) opened on on August 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191592) 136 additions and 35 deletions in 16 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] make flutter test listener.dart path deterministic to preserve build cache<br />
   <sub>[#191594](https://github.com/flutter/flutter/pull/191594) opened on on August 24, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191594) 318 additions and 17 deletions in 3 files</sub><br />
 
@@ -238,9 +235,6 @@
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Remove octant_offset_c uniform from ubersdf, reorder/document ubersdf uniforms<br />
   <sub>[#191597](https://github.com/flutter/flutter/pull/191597) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191597) 67 additions and 28 deletions in 6 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Handle HttpException during VM service connection<br />
-  <sub>[#191607](https://github.com/flutter/flutter/pull/191607) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191607) 43 additions and 3 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clarifies blur group optimization<br />
   <sub>[#191613](https://github.com/flutter/flutter/pull/191613) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191613) 15 additions and 7 deletions in 1 file</sub><br />
