@@ -126,7 +126,7 @@
   <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Prevent platform views from stealing text input focus from TextFields<br />
-  <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
+  <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
 
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; Exclude local Swift package schemes from --flavor error message<br />
   <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
@@ -151,9 +151,6 @@
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Expose skipTraversal in FocusableActionDetector<br />
   <sub>[#191308](https://github.com/flutter/flutter/pull/191308) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191308) 27 additions and 0 deletions in 3 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Gracefully handle ping timeouts for custom devices<br />
-  <sub>[#191324](https://github.com/flutter/flutter/pull/191324) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191324) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; [stable] fix: limit render size of custom elements<br />
   <sub>[#191341](https://github.com/flutter/flutter/pull/191341) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191341) 89 additions and 3 deletions in 2 files</sub><br />
@@ -233,9 +230,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Honor configured build-dir across flutter project and build targets<br />
   <sub>[#191592](https://github.com/flutter/flutter/pull/191592) opened on on August 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191592) 136 additions and 35 deletions in 16 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix test separation between `VersionFreshnessValidator` and `FlutterVersion.checkFlutterVersionFreshness`<br />
-  <sub>[#191593](https://github.com/flutter/flutter/pull/191593) opened on on August 24, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/191593) 394 additions and 159 deletions in 3 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] make flutter test listener.dart path deterministic to preserve build cache<br />
   <sub>[#191594](https://github.com/flutter/flutter/pull/191594) opened on on August 24, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191594) 318 additions and 17 deletions in 3 files</sub><br />
 
@@ -245,9 +239,6 @@
 * **[b-luk](https://github.com/b-luk)** &mdash; Remove octant_offset_c uniform from ubersdf, reorder/document ubersdf uniforms<br />
   <sub>[#191597](https://github.com/flutter/flutter/pull/191597) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191597) 67 additions and 28 deletions in 6 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Fix crash when migrating flow-style exclude lists in analysis_options.yaml<br />
-  <sub>[#191598](https://github.com/flutter/flutter/pull/191598) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191598) 39 additions and 0 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Handle HttpException during VM service connection<br />
   <sub>[#191607](https://github.com/flutter/flutter/pull/191607) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191607) 43 additions and 3 deletions in 2 files</sub><br />
 
@@ -256,4 +247,7 @@
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/complex_layout to UIScene lifecycle<br />
   <sub>[#191619](https://github.com/flutter/flutter/pull/191619) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191619) 26 additions and 2 deletions in 3 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Clean up semantics code<br />
+  <sub>[#191620](https://github.com/flutter/flutter/pull/191620) opened on on August 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191620) 140 additions and 3 deletions in 4 files</sub><br />
 

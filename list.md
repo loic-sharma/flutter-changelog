@@ -188,7 +188,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Navaron Bracke](https://github.com/navaronbracke), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Wire dependency injection into runner and executable with required non-nullable contexts
-  <sub>[#190922](https://github.com/flutter/flutter/pull/190922) merged on August 19, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/190922) over 1 week, 567 additions and 244 deletions in 15 files</sub>
+  <sub>[#190922](https://github.com/flutter/flutter/pull/190922) merged on August 19, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/190922) over 1 week, 567 additions and 244 deletions in 15 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] set up an empty ios agent to host ios-team's skills
@@ -324,7 +324,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; Optimize JSONMessageCodec UTF-8 conversion
-  <sub>[#190529](https://github.com/flutter/flutter/pull/190529) merged on August 20, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/190529) over 2 weeks, 21 additions and 2 deletions in 2 files</sub>
+  <sub>[#190529](https://github.com/flutter/flutter/pull/190529) merged on August 20, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/190529) over 2 weeks, 21 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Elliott Brooks](https://github.com/elliette)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix crash when migrating flow-style exclude lists in analysis_options.yaml
