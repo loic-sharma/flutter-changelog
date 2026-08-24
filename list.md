@@ -890,9 +890,18 @@
 
 ## flutter/packages
 
+### August 22, 2026 to August 28, 2026
+
+1 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Fix dart_test.yaml parsing
+  <sub>[#12574](https://github.com/flutter/packages/pull/12574) merged on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12574) over 1 hour, 50 additions and 27 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub>
+
 ### August 15, 2026 to August 21, 2026
 
-18 commits.
+<details>
+<summary>18 commits...</summary>
 
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; [camera_android_camerax] Add explicit concurrent-futures dependency
   <sub>[#12373](https://github.com/flutter/packages/pull/12373) merged on August 19, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/12373) over 2 weeks, 44 additions and 1 deletion in 4 files</sub>
@@ -966,6 +975,8 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes lint error from unused codec
   <sub>[#12512](https://github.com/flutter/packages/pull/12512) merged on August 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12512) over 2 hours, 82 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+</details>
 
 ### August 8, 2026 to August 14, 2026
 
