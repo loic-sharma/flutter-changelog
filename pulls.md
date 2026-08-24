@@ -233,12 +233,12 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: prefer pointer events over semantics tap for mouse clicks on web<br />
   <sub>[#191529](https://github.com/flutter/flutter/pull/191529) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191529) 80 additions and 5 deletions in 2 files</sub><br />
 
-* **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Prefer 64-bit system images over x86 when creating an Android emulator<br />
-  <sub>[#191533](https://github.com/flutter/flutter/pull/191533) opened on on August 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191533) 236 additions and 7 deletions in 4 files</sub><br />
-
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Ignore generated build packages when scanning for pubspecs dependencies file<br />
   <sub>[#191540](https://github.com/flutter/flutter/pull/191540) opened on on August 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191540) 18 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Avoid Future.catchError in SingleLaunchLogReader<br />
   <sub>[#191562](https://github.com/flutter/flutter/pull/191562) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191562) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Ignore build directories when scanning repo packages<br />
+  <sub>[#191580](https://github.com/flutter/flutter/pull/191580) opened on on August 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191580) 53 additions and 2 deletions in 2 files</sub><br />
 
