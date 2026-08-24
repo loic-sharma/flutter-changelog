@@ -936,7 +936,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [material_ui] A typo in the README file of the package.
-  <sub>[#12526](https://github.com/flutter/packages/pull/12526) merged on August 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12526) over 2 hours, 4 additions and 1 deletion in 2 files</sub>
+  <sub>[#12526](https://github.com/flutter/packages/pull/12526) merged on August 20, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/12526) over 2 hours, 4 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] SearchAnchor overlay expands to full screen when viewport size changes
