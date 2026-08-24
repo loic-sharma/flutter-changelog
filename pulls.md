@@ -234,7 +234,7 @@
   <sub>[#191591](https://github.com/flutter/flutter/pull/191591) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191591) 262 additions and 9 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Honor configured build-dir across flutter project and build targets<br />
-  <sub>[#191592](https://github.com/flutter/flutter/pull/191592) opened on on August 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191592) 129 additions and 26 deletions in 15 files</sub><br />
+  <sub>[#191592](https://github.com/flutter/flutter/pull/191592) opened on on August 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191592) 136 additions and 35 deletions in 16 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix test separation between `VersionFreshnessValidator` and `FlutterVersion.checkFlutterVersionFreshness`<br />
   <sub>[#191593](https://github.com/flutter/flutter/pull/191593) opened on on August 24, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/191593) 394 additions and 159 deletions in 3 files</sub><br />

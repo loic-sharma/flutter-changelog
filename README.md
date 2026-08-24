@@ -4,7 +4,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-14 commits.
+15 commits.
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [AGP 9.1.0 Migration #3] Add buildModeFor overloads and wire Flutter dependencies through the new DSL<br />
   <sub>[#191218](https://github.com/flutter/flutter/pull/191218) merged on August 24, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/flutter/pull/191218) over 1 week, 1008 additions and 560 deletions in 16 files</sub><br />
@@ -25,6 +25,10 @@
 * **[walley892](https://github.com/walley892)** &mdash; Move more RSE rendering cases to complex_rse.frag<br />
   <sub>[#191235](https://github.com/flutter/flutter/pull/191235) merged on August 24, 2026 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/191235) over 6 days, 253 additions and 150 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Prevent crash when stdout is broken and print fails<br />
+  <sub>[#191356](https://github.com/flutter/flutter/pull/191356) merged on August 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191356) over 5 days, 115 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle missing Xcode gracefully in getInfo and buildMacOS<br />
   <sub>[#191180](https://github.com/flutter/flutter/pull/191180) merged on August 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191180) over 1 week, 188 additions and 29 deletions in 5 files</sub><br />
@@ -1105,7 +1109,11 @@
 
 ### August 22, 2026 to August 28, 2026
 
-1 commits.
+2 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dependencies and formatting of example sources<br />
+  <sub>[#13789](https://github.com/flutter/website/pull/13789) merged on August 24, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/13789) over 9 hours, 452 additions and 345 deletions in 92 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; edited 1 consultant description<br />
   <sub>[#13793](https://github.com/flutter/website/pull/13793) merged on August 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13793) over 17 minutes, 1 addition and 1 deletion in 1 file</sub><br />
