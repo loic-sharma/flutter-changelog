@@ -4,7 +4,15 @@
 
 ### August 22, 2026 to August 28, 2026
 
-1 commits.
+3 commits.
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add stylus pointer tests
+  <sub>[#191564](https://github.com/flutter/flutter/pull/191564) merged on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191564) over 4 hours, 128 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Improve FlutterEngineGroup tests
+  <sub>[#191563](https://github.com/flutter/flutter/pull/191563) merged on August 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191563) over 4 hours, 33 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Revert "Improve initial size and placement logic for popups and toolt…ips on Linux (#189994)
   <sub>[#191498](https://github.com/flutter/flutter/pull/191498) merged on August 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191498) over 2 days, 27 additions and 242 deletions in 3 files</sub>

@@ -204,7 +204,7 @@
   <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; On iOS 27+ devices, manually process lldb stops<br />
-  <sub>[#191434](https://github.com/flutter/flutter/pull/191434) opened on on August 20, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/191434) 454 additions and 278 deletions in 5 files</sub><br />
+  <sub>[#191434](https://github.com/flutter/flutter/pull/191434) opened on on August 20, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/191434) 454 additions and 278 deletions in 5 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add precacheTestImage to flutter_test and unskip web image tests<br />
   <sub>[#191435](https://github.com/flutter/flutter/pull/191435) opened on on August 20, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/191435) 1287 additions and 1263 deletions in 6 files</sub><br />
