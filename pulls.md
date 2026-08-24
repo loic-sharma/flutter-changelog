@@ -242,3 +242,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Avoid Future.catchError in SingleLaunchLogReader<br />
   <sub>[#191562](https://github.com/flutter/flutter/pull/191562) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191562) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Shawn-Yu-Dev](https://github.com/Shawn-Yu-Dev)** &mdash; fix: stop `flutter create --platforms` from dropping existing platfor…<br />
+  <sub>[#191573](https://github.com/flutter/flutter/pull/191573) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191573) 66 additions and 2 deletions in 3 files</sub><br />
+
