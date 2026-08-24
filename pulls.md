@@ -257,3 +257,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clarifies blur group optimization<br />
   <sub>[#191613](https://github.com/flutter/flutter/pull/191613) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191613) 15 additions and 7 deletions in 1 file</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/complex_layout to UIScene lifecycle<br />
+  <sub>[#191619](https://github.com/flutter/flutter/pull/191619) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191619) 26 additions and 2 deletions in 3 files</sub><br />
+
