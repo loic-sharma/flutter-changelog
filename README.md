@@ -1194,11 +1194,15 @@
 
 ### August 22, 2026 to August 28, 2026
 
-4 commits.
+5 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding an article on desktop windowing APIs<br />
   <sub>[#13792](https://github.com/flutter/website/pull/13792) merged on August 24, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/website/pull/13792) over 3 hours, 393 additions and 0 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Abdallah Shaban](https://github.com/abdallahshaban557), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae), [Jess K](https://github.com/jesskuras), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Set up doc and code writing agent skills<br />
+  <sub>[#13800](https://github.com/flutter/website/pull/13800) merged on August 25, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/website/pull/13800) over 1 hour, 5794 additions and 202 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dependencies and formatting of example sources<br />
   <sub>[#13789](https://github.com/flutter/website/pull/13789) merged on August 24, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/13789) over 9 hours, 452 additions and 345 deletions in 92 files</sub><br />

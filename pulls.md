@@ -140,6 +140,9 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191220) 91 additions and 35 deletions in 2 files</sub><br />
 
+* **[Emmanuel LEFEBVRE DIBON](https://github.com/zemanux)** &mdash; Fix lay out SliverCrossAxisGroup flexible children with zero extent i…<br />
+  <sub>[#191287](https://github.com/flutter/flutter/pull/191287) opened on on August 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191287) 43 additions and 44 deletions in 2 files</sub><br />
+
 * **[Muhammad Kamel](https://github.com/muhammadkamel)** &mdash; Fix RangeError in PredictiveBackEvent when Android sends EDGE_NONE<br />
   <sub>[#191306](https://github.com/flutter/flutter/pull/191306) opened on on August 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191306) 157 additions and 6 deletions in 2 files</sub><br />
 
@@ -276,5 +279,5 @@
   <sub>[#191732](https://github.com/flutter/flutter/pull/191732) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191732) 66 additions and 47 deletions in 9 files</sub><br />
 
 * **[shawnridgeway-google](https://github.com/shawnridgeway-google)** &mdash; Add prompt_suggestion icon to list of RTL mirroring icons.<br />
-  <sub>[#191741](https://github.com/flutter/flutter/pull/191741) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191741) 3 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#191741](https://github.com/flutter/flutter/pull/191741) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191741) 3 additions and 0 deletions in 2 files</sub><br />
 
