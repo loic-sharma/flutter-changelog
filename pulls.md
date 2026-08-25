@@ -278,3 +278,6 @@
 * **[jin](https://github.com/ihatebeans3000)** &mdash; [Windows] Don't set message callbacks after the engine is destroyed<br />
   <sub>[#191704](https://github.com/flutter/flutter/pull/191704) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191704) 53 additions and 4 deletions in 4 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `setState` documentation<br />
+  <sub>[#191707](https://github.com/flutter/flutter/pull/191707) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191707) 8 additions and 0 deletions in 1 file</sub><br />
+
