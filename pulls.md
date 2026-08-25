@@ -137,9 +137,6 @@
 * **[Hamed](https://github.com/papmodern)** &mdash; [Android] Do not schedule engine frames on a detached FlutterJNI<br />
   <sub>[#191204](https://github.com/flutter/flutter/pull/191204) opened on on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191204) 53 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix $git typo in shared.bat to restore cache invalidation on Windows<br />
-  <sub>[#191217](https://github.com/flutter/flutter/pull/191217) opened on on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191217) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191220) 91 additions and 35 deletions in 2 files</sub><br />
 
@@ -234,7 +231,7 @@
   <sub>[#191595](https://github.com/flutter/flutter/pull/191595) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191595) 181 additions and 0 deletions in 2 files</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Remove octant_offset_c uniform from ubersdf, reorder/document ubersdf uniforms<br />
-  <sub>[#191597](https://github.com/flutter/flutter/pull/191597) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191597) 67 additions and 28 deletions in 6 files</sub><br />
+  <sub>[#191597](https://github.com/flutter/flutter/pull/191597) opened on on August 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191597) 67 additions and 28 deletions in 6 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clarifies blur group optimization<br />
   <sub>[#191613](https://github.com/flutter/flutter/pull/191613) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191613) 15 additions and 7 deletions in 1 file</sub><br />

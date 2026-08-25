@@ -4,7 +4,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-21 commits.
+22 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [engine] Support UTF-8 paths in Windows filesystem and path APIs
   <sub>[#191360](https://github.com/flutter/flutter/pull/191360) merged on August 24, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/191360) over 5 days, 159 additions and 16 deletions in 6 files</sub>
@@ -61,6 +61,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add --force flag to flutter channel
   <sub>[#191579](https://github.com/flutter/flutter/pull/191579) merged on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191579) over 49 minutes, 75 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix $git typo in shared.bat to restore cache invalidation on Windows
+  <sub>[#191217](https://github.com/flutter/flutter/pull/191217) merged on August 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191217) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 3 to simulators
   <sub>[#191333](https://github.com/flutter/flutter/pull/191333) merged on August 24, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/191333) over 5 days, 206 additions and 72 deletions in 14 files</sub>
@@ -960,7 +964,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-7 commits.
+9 commits.
 
 * **[Ashkan Bahmani](https://github.com/developerashkan)** &mdash; [go_router] Clarify onEnter/redirect ordering, add regression test
   <sub>[#12337](https://github.com/flutter/packages/pull/12337) merged on August 24, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/12337) over 3 weeks, 81 additions and 0 deletions in 3 files</sub>
@@ -970,9 +974,17 @@
   <sub>[#12572](https://github.com/flutter/packages/pull/12572) merged on August 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12572) over 4 hours, 130 additions and 6 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[huahua8893](https://github.com/huahua8893)** &mdash; [cupertino_ui] Fix covered sheet revealing root route through top gap
+  <sub>[#12530](https://github.com/flutter/packages/pull/12530) merged on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12530) over 3 days, 89 additions and 7 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [quick_actions_ios]unskip XCUITests
   <sub>[#12436](https://github.com/flutter/packages/pull/12436) merged on August 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12436) over 1 week, 14 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
+
+* **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; [cupertino_ui] Remove two items assert to allow CupertinoTabBar to have one tab
+  <sub>[#12546](https://github.com/flutter/packages/pull/12546) merged on August 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12546) over 2 days, 21 additions and 12 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] Increase iOS coverage tests
   <sub>[#12484](https://github.com/flutter/packages/pull/12484) merged on August 24, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12484) over 1 week, 255 additions and 5 deletions in 6 files</sub>
