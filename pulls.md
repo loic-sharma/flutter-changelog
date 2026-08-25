@@ -248,6 +248,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Rebuild asset bundle when generated manifest content changes<br />
   <sub>[#191638](https://github.com/flutter/flutter/pull/191638) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191638) 59 additions and 6 deletions in 2 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null check for touch rate correction task runner<br />
-  <sub>[#191641](https://github.com/flutter/flutter/pull/191641) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191641) 37 additions and 1 deletion in 2 files</sub><br />
-
