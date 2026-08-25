@@ -248,3 +248,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Rebuild asset bundle when generated manifest content changes<br />
   <sub>[#191638](https://github.com/flutter/flutter/pull/191638) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191638) 59 additions and 6 deletions in 2 files</sub><br />
 
+* **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; [iOS/MacOS] Warn when using deprecated framework build commands<br />
+  <sub>[#191644](https://github.com/flutter/flutter/pull/191644) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191644) 100 additions and 0 deletions in 3 files</sub><br />
+
+* **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Guard FocusNode.rect/offset/size against an unlaid-out RenderBox<br />
+  <sub>[#191645](https://github.com/flutter/flutter/pull/191645) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191645) 43 additions and 0 deletions in 2 files</sub><br />
+
