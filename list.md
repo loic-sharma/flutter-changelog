@@ -4,7 +4,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-29 commits.
+31 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [engine] Support UTF-8 paths in Windows filesystem and path APIs
   <sub>[#191360](https://github.com/flutter/flutter/pull/191360) merged on August 24, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/191360) over 5 days, 159 additions and 16 deletions in 6 files</sub>
@@ -46,6 +46,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [record_use] Remove const_finder
   <sub>[#191702](https://github.com/flutter/flutter/pull/191702) merged on August 25, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/191702) over 6 hours, 2 additions and 993 deletions in 21 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Resolve symlinks and fix flakiness in widget preview tests
+  <sub>[#191214](https://github.com/flutter/flutter/pull/191214) merged on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191214) over 1 week, 81 additions and 9 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Prevent crash when stdout is broken and print fails
   <sub>[#191356](https://github.com/flutter/flutter/pull/191356) merged on August 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191356) over 5 days, 115 additions and 5 deletions in 2 files</sub>
@@ -106,6 +110,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Improve FlutterEngineGroup tests
   <sub>[#191563](https://github.com/flutter/flutter/pull/191563) merged on August 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191563) over 4 hours, 33 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [material] Remove unused parameters from constructors of generic classes
+  <sub>[#191399](https://github.com/flutter/flutter/pull/191399) merged on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191399) over 5 days, 4 additions and 19 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [cupertino] Remove unused parameters from constructors of generic classes
   <sub>[#191398](https://github.com/flutter/flutter/pull/191398) merged on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191398) over 5 days, 0 additions and 5 deletions in 4 files</sub>
@@ -993,7 +1001,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-15 commits.
+16 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Convert top-level classes to Swift in `_sdk*` packages
   <sub>[#12307](https://github.com/flutter/packages/pull/12307) merged on August 25, 2026 &mdash; **Extra large:** [43 comments](https://github.com/flutter/packages/pull/12307) over 3 weeks, 3368 additions and 4073 deletions in 163 files</sub>
@@ -1030,6 +1038,10 @@
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] Increase iOS coverage tests
   <sub>[#12484](https://github.com/flutter/packages/pull/12484) merged on August 24, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12484) over 1 week, 255 additions and 5 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [material_ui] Declare Flutter SDK dependencies in the pubspec.yaml for tool/gen_defaults
+  <sub>[#12623](https://github.com/flutter/packages/pull/12623) merged on August 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12623) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins), [Elliott Brooks](https://github.com/elliette)</sub>
 
 * **[pierre](https://github.com/guidezpl)** &mdash; Ignore shared code for iOS platform implementation of Google Maps plugin
   <sub>[#12529](https://github.com/flutter/packages/pull/12529) merged on August 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12529) over 4 days, 2 additions and 0 deletions in 1 file</sub>
