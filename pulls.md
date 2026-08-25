@@ -255,5 +255,20 @@
   <sub>[#191645](https://github.com/flutter/flutter/pull/191645) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191645) 43 additions and 0 deletions in 2 files</sub><br />
 
 * **[Diego López](https://github.com/diegolopezrm)** &mdash; [web] Report `env(safe-area-inset-*)` as `FlutterView.viewPadding`<br />
-  <sub>[#191647](https://github.com/flutter/flutter/pull/191647) opened on on August 25, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191647) 934 additions and 34 deletions in 15 files</sub><br />
+  <sub>[#191647](https://github.com/flutter/flutter/pull/191647) opened on on August 25, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/191647) 946 additions and 34 deletions in 15 files</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/macrobenchmarks to UIScene lifecycle<br />
+  <sub>[#191648](https://github.com/flutter/flutter/pull/191648) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191648) 26 additions and 2 deletions in 3 files</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/microbenchmarks to UIScene lifecycle<br />
+  <sub>[#191650](https://github.com/flutter/flutter/pull/191650) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191650) 26 additions and 2 deletions in 3 files</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/test_apps/stocks to UIScene lifecycle<br />
+  <sub>[#191651](https://github.com/flutter/flutter/pull/191651) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191651) 27 additions and 2 deletions in 3 files</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Uiscene migrate remaining apps<br />
+  <sub>[#191652](https://github.com/flutter/flutter/pull/191652) opened on on August 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191652) 180 additions and 12 deletions in 17 files</sub><br />
+
+* **[Priyansh Chaurasiya](https://github.com/priyanshch1105)** &mdash; [flutter_tools] Emit VM-service events for hot reload and restart<br />
+  <sub>[#191653](https://github.com/flutter/flutter/pull/191653) opened on on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191653) 116 additions and 1 deletion in 6 files</sub><br />
 

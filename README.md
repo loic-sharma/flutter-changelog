@@ -995,7 +995,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[M S karthik](https://github.com/KarthikManikuttan)** &mdash; Fix RangeSlider thumb overlay remains visible after touch interaction ends<br />
-  <sub>[#12560](https://github.com/flutter/packages/pull/12560) merged on August 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12560) over 1 day, 284 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#12560](https://github.com/flutter/packages/pull/12560) merged on August 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12560) over 1 day, 284 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [camera_android_camerax] Migrate from dart_skills_lint to skills_lint<br />
