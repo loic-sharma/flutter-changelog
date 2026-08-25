@@ -278,3 +278,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Improve `setState` documentation<br />
   <sub>[#191707](https://github.com/flutter/flutter/pull/191707) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191707) 8 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool_tests] Remove bringup from Windows tool_tests_commands_2_2<br />
+  <sub>[#191732](https://github.com/flutter/flutter/pull/191732) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191732) 23 additions and 22 deletions in 5 files</sub><br />
+

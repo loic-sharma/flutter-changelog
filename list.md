@@ -4,11 +4,16 @@
 
 ### August 22, 2026 to August 28, 2026
 
-25 commits.
+26 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [engine] Support UTF-8 paths in Windows filesystem and path APIs
   <sub>[#191360](https://github.com/flutter/flutter/pull/191360) merged on August 24, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/191360) over 5 days, 159 additions and 16 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Md. Murad Hossin](https://github.com/muradhossin)** &mdash; Warn when SwiftPM is disabled
+  <sub>[#188695](https://github.com/flutter/flutter/pull/188695) merged on August 25, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/188695) over 1 month, 109 additions and 6 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
+  <sub><details><summary>1 image...</summary><img width="834" height="305" alt="Screenshot 2026-07-01 at 1 07 14 PM" src="https://github.com/user-attachments/assets/52859424-3d9e-431c-bf26-973114aa1874" /></details></sub>
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [AGP 9.1.0 Migration #3] Add buildModeFor overloads and wire Flutter dependencies through the new DSL
   <sub>[#191218](https://github.com/flutter/flutter/pull/191218) merged on August 24, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/flutter/pull/191218) over 1 week, 1008 additions and 560 deletions in 16 files</sub>
@@ -976,7 +981,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-9 commits.
+13 commits.
 
 * **[Ashkan Bahmani](https://github.com/developerashkan)** &mdash; [go_router] Clarify onEnter/redirect ordering, add regression test
   <sub>[#12337](https://github.com/flutter/packages/pull/12337) merged on August 24, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/12337) over 3 weeks, 81 additions and 0 deletions in 3 files</sub>
@@ -985,6 +990,10 @@
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; [material_ui] Port flutter/flutter #185149 "Slider label clips the screen"
   <sub>[#12572](https://github.com/flutter/packages/pull/12572) merged on August 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12572) over 4 hours, 130 additions and 6 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[GlitchFL](https://github.com/glitchfl)** &mdash; [cross_file] fixed `readAsString` decoding in-memory bytes as UTF-16
+  <sub>[#12479](https://github.com/flutter/packages/pull/12479) merged on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12479) over 1 week, 28 additions and 5 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[huahua8893](https://github.com/huahua8893)** &mdash; [cupertino_ui] Fix covered sheet revealing root route through top gap
   <sub>[#12530](https://github.com/flutter/packages/pull/12530) merged on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12530) over 3 days, 89 additions and 7 deletions in 3 files</sub>
@@ -1001,6 +1010,18 @@
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] Increase iOS coverage tests
   <sub>[#12484](https://github.com/flutter/packages/pull/12484) merged on August 24, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12484) over 1 week, 255 additions and 5 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[pierre](https://github.com/guidezpl)** &mdash; Ignore shared code for iOS platform implementation of Google Maps plugin
+  <sub>[#12529](https://github.com/flutter/packages/pull/12529) merged on August 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12529) over 4 days, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [cupertino_ui] Remove unused parameters from constructors of generic classes.
+  <sub>[#12457](https://github.com/flutter/packages/pull/12457) merged on August 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12457) over 1 week, 0 additions and 5 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [material_ui] Remove unused parameters from constructors of generic classes.
+  <sub>[#12458](https://github.com/flutter/packages/pull/12458) merged on August 25, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/12458) over 1 week, 5 additions and 20 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Elliott Brooks](https://github.com/elliette)</sub>
 
 * **[M S karthik](https://github.com/KarthikManikuttan)** &mdash; Fix RangeSlider thumb overlay remains visible after touch interaction ends
   <sub>[#12560](https://github.com/flutter/packages/pull/12560) merged on August 24, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12560) over 1 day, 284 additions and 8 deletions in 3 files</sub>
