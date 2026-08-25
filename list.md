@@ -80,8 +80,8 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clarifies blur group optimization
-  <sub>[#191613](https://github.com/flutter/flutter/pull/191613) merged on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191613) over 19 hours, 15 additions and 7 deletions in 1 file</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
+  <sub>[#191613](https://github.com/flutter/flutter/pull/191613) merged on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191613) over 19 hours, 15 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Andy Wolff](https://github.com/andywolff), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null check for touch rate correction task runner
   <sub>[#191641](https://github.com/flutter/flutter/pull/191641) merged on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191641) over 5 hours, 38 additions and 1 deletion in 2 files</sub>
@@ -1194,7 +1194,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-5 commits.
+6 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding an article on desktop windowing APIs
   <sub>[#13792](https://github.com/flutter/website/pull/13792) merged on August 24, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/website/pull/13792) over 3 hours, 393 additions and 0 deletions in 9 files</sub>
@@ -1211,6 +1211,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add link to Dart 3.13 bump doc
   <sub>[#13797](https://github.com/flutter/website/pull/13797) merged on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13797) over 15 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; Local network permission
+  <sub>[#13795](https://github.com/flutter/website/pull/13795) merged on August 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13795) over 19 hours, 164 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; edited 1 consultant description
   <sub>[#13793](https://github.com/flutter/website/pull/13793) merged on August 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13793) over 17 minutes, 1 addition and 1 deletion in 1 file</sub>
