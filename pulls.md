@@ -227,9 +227,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_test] Ensure LiveTestWidgetsFlutterBinding executes frame and pointer callbacks in the test zone<br />
   <sub>[#191595](https://github.com/flutter/flutter/pull/191595) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191595) 181 additions and 0 deletions in 2 files</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Remove octant_offset_c uniform from ubersdf, reorder/document ubersdf uniforms<br />
-  <sub>[#191597](https://github.com/flutter/flutter/pull/191597) opened on on August 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191597) 67 additions and 28 deletions in 6 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clarifies blur group optimization<br />
   <sub>[#191613](https://github.com/flutter/flutter/pull/191613) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191613) 15 additions and 7 deletions in 1 file</sub><br />
 
@@ -243,8 +240,11 @@
   <sub>[#191631](https://github.com/flutter/flutter/pull/191631) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191631) 102 additions and 1 deletion in 2 files</sub><br />
 
 * **[kaluli123123](https://github.com/kaluli123123)** &mdash; Fix null-check crash when a selection's edge point is off-screen<br />
-  <sub>[#191632](https://github.com/flutter/flutter/pull/191632) opened on on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191632) 194 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#191632](https://github.com/flutter/flutter/pull/191632) opened on on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191632) 92 additions and 2 deletions in 2 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add test for engineAllowHeadlessExecution<br />
-  <sub>[#191635](https://github.com/flutter/flutter/pull/191635) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191635) 39 additions and 0 deletions in 2 files</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Verify native assets tree-shaking during linking<br />
+  <sub>[#191637](https://github.com/flutter/flutter/pull/191637) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191637) 73 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Rebuild asset bundle when generated manifest content changes<br />
+  <sub>[#191638](https://github.com/flutter/flutter/pull/191638) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191638) 59 additions and 6 deletions in 2 files</sub><br />
 
