@@ -4,7 +4,11 @@
 
 ### August 22, 2026 to August 28, 2026
 
-19 commits.
+21 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [engine] Support UTF-8 paths in Windows filesystem and path APIs<br />
+  <sub>[#191360](https://github.com/flutter/flutter/pull/191360) merged on August 24, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/191360) over 5 days, 159 additions and 16 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [AGP 9.1.0 Migration #3] Add buildModeFor overloads and wire Flutter dependencies through the new DSL<br />
   <sub>[#191218](https://github.com/flutter/flutter/pull/191218) merged on August 24, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/flutter/pull/191218) over 1 week, 1008 additions and 560 deletions in 16 files</sub><br />
@@ -17,6 +21,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Migrate texture example to material_ui<br />
   <sub>[#190673](https://github.com/flutter/flutter/pull/190673) merged on August 24, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/190673) over 2 weeks, 37 additions and 43 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
+
+* **[kyungilcho](https://github.com/kyungilcho)** &mdash; Skip removed observers during app exit requests<br />
+  <sub>[#190343](https://github.com/flutter/flutter/pull/190343) merged on August 24, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/190343) over 3 weeks, 37 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Elliott Brooks](https://github.com/elliette)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add FlViewRendererSubsurface<br />
   <sub>[#191389](https://github.com/flutter/flutter/pull/191389) merged on August 24, 2026 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/191389) over 4 days, 2131 additions and 42 deletions in 26 files</sub><br />
@@ -1125,7 +1133,11 @@
 
 ### August 22, 2026 to August 28, 2026
 
-2 commits.
+3 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding an article on desktop windowing APIs<br />
+  <sub>[#13792](https://github.com/flutter/website/pull/13792) merged on August 24, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/website/pull/13792) over 3 hours, 393 additions and 0 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Abdallah Shaban](https://github.com/abdallahshaban557), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae), [Jess K](https://github.com/jesskuras), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dependencies and formatting of example sources<br />
   <sub>[#13789](https://github.com/flutter/website/pull/13789) merged on August 24, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/13789) over 9 hours, 452 additions and 345 deletions in 92 files</sub><br />
