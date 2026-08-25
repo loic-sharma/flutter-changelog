@@ -224,9 +224,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix Use dependency graph to determine plugin initialization order<br />
   <sub>[#191591](https://github.com/flutter/flutter/pull/191591) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191591) 262 additions and 9 deletions in 3 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_test] Ensure LiveTestWidgetsFlutterBinding executes frame and pointer callbacks in the test zone<br />
-  <sub>[#191595](https://github.com/flutter/flutter/pull/191595) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191595) 181 additions and 0 deletions in 2 files</sub><br />
-
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/complex_layout to UIScene lifecycle<br />
   <sub>[#191619](https://github.com/flutter/flutter/pull/191619) opened on on August 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191619) 26 additions and 2 deletions in 3 files</sub><br />
 
@@ -270,11 +267,8 @@
   <sub>[#191732](https://github.com/flutter/flutter/pull/191732) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191732) 66 additions and 47 deletions in 9 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Turn on multithreading for wimp.<br />
-  <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/191747) 211 additions and 106 deletions in 27 files</sub><br />
+  <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191747) 211 additions and 106 deletions in 27 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Remove bringup for batch 3<br />
   <sub>[#191750](https://github.com/flutter/flutter/pull/191750) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191750) 0 additions and 6 deletions in 1 file</sub><br />
-
-* **[Vignesh V](https://github.com/vig31)** &mdash; Fail loudly in debug mode when ParentDataWidget is incompatible<br />
-  <sub>[#191751](https://github.com/flutter/flutter/pull/191751) opened on on August 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191751) 122 additions and 44 deletions in 2 files</sub><br />
 
