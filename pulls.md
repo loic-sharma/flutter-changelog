@@ -209,6 +209,9 @@
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Ignore generated build packages when scanning for pubspecs dependencies file<br />
   <sub>[#191540](https://github.com/flutter/flutter/pull/191540) opened on on August 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191540) 18 additions and 2 deletions in 2 files</sub><br />
 
+* **[Irfan Khalid](https://github.com/ik020)** &mdash; Fix Android license detection for cmdline-tools 23.0+<br />
+  <sub>[#191554](https://github.com/flutter/flutter/pull/191554) opened on on August 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191554) 138 additions and 1 deletion in 2 files</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Avoid Future.catchError in SingleLaunchLogReader<br />
   <sub>[#191562](https://github.com/flutter/flutter/pull/191562) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191562) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -265,9 +268,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool_tests] Remove bringup from Windows tool_tests_commands_2_2<br />
   <sub>[#191732](https://github.com/flutter/flutter/pull/191732) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191732) 66 additions and 47 deletions in 9 files</sub><br />
-
-* **[shawnridgeway-google](https://github.com/shawnridgeway-google)** &mdash; Add prompt_suggestion icon to list of RTL mirroring icons.<br />
-  <sub>[#191741](https://github.com/flutter/flutter/pull/191741) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191741) 3 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Turn on multithreading for wimp.<br />
   <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/191747) 211 additions and 106 deletions in 27 files</sub><br />
