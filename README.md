@@ -4,7 +4,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-28 commits.
+29 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [engine] Support UTF-8 paths in Windows filesystem and path APIs<br />
   <sub>[#191360](https://github.com/flutter/flutter/pull/191360) merged on August 24, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/191360) over 5 days, 159 additions and 16 deletions in 6 files</sub><br />
@@ -106,6 +106,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Improve FlutterEngineGroup tests<br />
   <sub>[#191563](https://github.com/flutter/flutter/pull/191563) merged on August 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191563) over 4 hours, 33 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [cupertino] Remove unused parameters from constructors of generic classes<br />
+  <sub>[#191398](https://github.com/flutter/flutter/pull/191398) merged on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191398) over 5 days, 0 additions and 5 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Remove octant_offset_c uniform from ubersdf, reorder/document ubersdf uniforms<br />
   <sub>[#191597](https://github.com/flutter/flutter/pull/191597) merged on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191597) over 8 hours, 67 additions and 28 deletions in 6 files</sub><br />
@@ -1194,7 +1198,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-6 commits.
+8 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding an article on desktop windowing APIs<br />
   <sub>[#13792](https://github.com/flutter/website/pull/13792) merged on August 24, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/website/pull/13792) over 3 hours, 393 additions and 0 deletions in 9 files</sub><br />
@@ -1208,9 +1212,17 @@
   <sub>[#13789](https://github.com/flutter/website/pull/13789) merged on August 24, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/website/pull/13789) over 9 hours, 452 additions and 345 deletions in 92 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up blog author images<br />
+  <sub>[#13802](https://github.com/flutter/website/pull/13802) merged on August 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13802) over 11 minutes, 92 additions and 92 deletions in 95 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add link to Dart 3.13 bump doc<br />
   <sub>[#13797](https://github.com/flutter/website/pull/13797) merged on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13797) over 15 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[linzj](https://github.com/linzj)** &mdash; Document PDB symbol files for obfuscated Windows x64 builds<br />
+  <sub>[#13787](https://github.com/flutter/website/pull/13787) merged on August 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13787) over 1 day, 17 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Local network permission<br />
   <sub>[#13795](https://github.com/flutter/website/pull/13795) merged on August 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13795) over 19 hours, 164 additions and 0 deletions in 3 files</sub><br />
