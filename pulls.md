@@ -254,3 +254,6 @@
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Guard FocusNode.rect/offset/size against an unlaid-out RenderBox<br />
   <sub>[#191645](https://github.com/flutter/flutter/pull/191645) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191645) 43 additions and 0 deletions in 2 files</sub><br />
 
+* **[Diego López](https://github.com/diegolopezrm)** &mdash; [web] Report `env(safe-area-inset-*)` as `FlutterView.viewPadding`<br />
+  <sub>[#191647](https://github.com/flutter/flutter/pull/191647) opened on on August 25, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191647) 934 additions and 34 deletions in 15 files</sub><br />
+
