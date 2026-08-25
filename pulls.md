@@ -272,3 +272,6 @@
 * **[Priyansh Chaurasiya](https://github.com/priyanshch1105)** &mdash; [flutter_tools] Emit VM-service events for hot reload and restart<br />
   <sub>[#191653](https://github.com/flutter/flutter/pull/191653) opened on on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191653) 116 additions and 1 deletion in 6 files</sub><br />
 
+* **[Rafli Surya Wijaya](https://github.com/loulanyue)** &mdash; docs(readme): use relative link for Contributing to Flutter in Documentation section<br />
+  <sub>[#191655](https://github.com/flutter/flutter/pull/191655) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191655) 1 addition and 1 deletion in 1 file</sub><br />
+
