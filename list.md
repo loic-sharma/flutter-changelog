@@ -4,7 +4,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-31 commits.
+32 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [engine] Support UTF-8 paths in Windows filesystem and path APIs
   <sub>[#191360](https://github.com/flutter/flutter/pull/191360) merged on August 24, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/191360) over 5 days, 159 additions and 16 deletions in 6 files</sub>
@@ -34,6 +34,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add FlViewRendererSubsurface
   <sub>[#191389](https://github.com/flutter/flutter/pull/191389) merged on August 24, 2026 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/191389) over 4 days, 2131 additions and 42 deletions in 26 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] migrate getBuildInfo() to typed OptionDescriptors and BuildInfoOptionsBundle
+  <sub>[#191510](https://github.com/flutter/flutter/pull/191510) merged on August 25, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/191510) over 3 days, 448 additions and 322 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Inject `route` into manifest when specified on the command line in release mode
   <sub>[#191328](https://github.com/flutter/flutter/pull/191328) merged on August 24, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/191328) over 5 days, 586 additions and 74 deletions in 10 files</sub>

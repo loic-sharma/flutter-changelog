@@ -251,11 +251,8 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/microbenchmarks to UIScene lifecycle<br />
   <sub>[#191650](https://github.com/flutter/flutter/pull/191650) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191650) 26 additions and 2 deletions in 3 files</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/test_apps/stocks to UIScene lifecycle<br />
-  <sub>[#191651](https://github.com/flutter/flutter/pull/191651) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191651) 27 additions and 2 deletions in 3 files</sub><br />
-
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Uiscene migrate remaining apps<br />
-  <sub>[#191652](https://github.com/flutter/flutter/pull/191652) opened on on August 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191652) 180 additions and 12 deletions in 17 files</sub><br />
+  <sub>[#191652](https://github.com/flutter/flutter/pull/191652) opened on on August 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191652) 180 additions and 12 deletions in 17 files</sub><br />
 
 * **[Priyansh Chaurasiya](https://github.com/priyanshch1105)** &mdash; [flutter_tools] Emit VM-service events for hot reload and restart<br />
   <sub>[#191653](https://github.com/flutter/flutter/pull/191653) opened on on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191653) 149 additions and 2 deletions in 7 files</sub><br />
@@ -274,9 +271,6 @@
 
 * **[shawnridgeway-google](https://github.com/shawnridgeway-google)** &mdash; Add prompt_suggestion icon to list of RTL mirroring icons.<br />
   <sub>[#191741](https://github.com/flutter/flutter/pull/191741) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191741) 3 additions and 0 deletions in 2 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Collect analytics about SwiftPM errors and warnings<br />
-  <sub>[#191746](https://github.com/flutter/flutter/pull/191746) opened on on August 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191746) 451 additions and 4 deletions in 9 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Turn on multithreading for wimp.<br />
   <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191747) 189 additions and 99 deletions in 26 files</sub><br />
