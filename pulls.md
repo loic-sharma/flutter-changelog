@@ -248,9 +248,6 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/macrobenchmarks to UIScene lifecycle<br />
   <sub>[#191648](https://github.com/flutter/flutter/pull/191648) opened on on August 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191648) 26 additions and 2 deletions in 3 files</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/microbenchmarks to UIScene lifecycle<br />
-  <sub>[#191650](https://github.com/flutter/flutter/pull/191650) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191650) 26 additions and 2 deletions in 3 files</sub><br />
-
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Uiscene migrate remaining apps<br />
   <sub>[#191652](https://github.com/flutter/flutter/pull/191652) opened on on August 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191652) 180 additions and 12 deletions in 17 files</sub><br />
 
@@ -273,7 +270,7 @@
   <sub>[#191741](https://github.com/flutter/flutter/pull/191741) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191741) 3 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Turn on multithreading for wimp.<br />
-  <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191747) 189 additions and 99 deletions in 26 files</sub><br />
+  <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/191747) 211 additions and 106 deletions in 27 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Remove bringup for batch 3<br />
   <sub>[#191750](https://github.com/flutter/flutter/pull/191750) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191750) 0 additions and 6 deletions in 1 file</sub><br />
