@@ -4,7 +4,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-27 commits.
+28 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [engine] Support UTF-8 paths in Windows filesystem and path APIs
   <sub>[#191360](https://github.com/flutter/flutter/pull/191360) merged on August 24, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/191360) over 5 days, 159 additions and 16 deletions in 6 files</sub>
@@ -78,6 +78,10 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 3 to simulators
   <sub>[#191333](https://github.com/flutter/flutter/pull/191333) merged on August 24, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/191333) over 5 days, 206 additions and 72 deletions in 14 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clarifies blur group optimization
+  <sub>[#191613](https://github.com/flutter/flutter/pull/191613) merged on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191613) over 19 hours, 15 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null check for touch rate correction task runner
   <sub>[#191641](https://github.com/flutter/flutter/pull/191641) merged on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191641) over 5 hours, 38 additions and 1 deletion in 2 files</sub>
@@ -985,7 +989,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-14 commits.
+15 commits.
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Convert top-level classes to Swift in `_sdk*` packages
   <sub>[#12307](https://github.com/flutter/packages/pull/12307) merged on August 25, 2026 &mdash; **Extra large:** [43 comments](https://github.com/flutter/packages/pull/12307) over 3 weeks, 3368 additions and 4073 deletions in 163 files</sub>
@@ -994,6 +998,10 @@
 * **[Ashkan Bahmani](https://github.com/developerashkan)** &mdash; [go_router] Clarify onEnter/redirect ordering, add regression test
   <sub>[#12337](https://github.com/flutter/packages/pull/12337) merged on August 24, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/12337) over 3 weeks, 81 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Set-up `tool/gen_defaults` sub-directory
+  <sub>[#12469](https://github.com/flutter/packages/pull/12469) merged on August 25, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/12469) over 1 week, 371 additions and 0 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; [material_ui] Port flutter/flutter #185149 "Slider label clips the screen"
   <sub>[#12572](https://github.com/flutter/packages/pull/12572) merged on August 24, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12572) over 4 hours, 130 additions and 6 deletions in 5 files</sub>

@@ -174,16 +174,13 @@
   <sub>[#191388](https://github.com/flutter/flutter/pull/191388) opened on on August 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191388) 100 additions and 30 deletions in 16 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [cupertino] Remove unused parameters from constructors of generic classes<br />
-  <sub>[#191398](https://github.com/flutter/flutter/pull/191398) opened on on August 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191398) 0 additions and 5 deletions in 4 files</sub><br />
+  <sub>[#191398](https://github.com/flutter/flutter/pull/191398) opened on on August 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191398) 0 additions and 5 deletions in 4 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [material] Remove unused parameters from constructors of generic classes<br />
-  <sub>[#191399](https://github.com/flutter/flutter/pull/191399) opened on on August 20, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191399) 4 additions and 19 deletions in 6 files</sub><br />
+  <sub>[#191399](https://github.com/flutter/flutter/pull/191399) opened on on August 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191399) 4 additions and 19 deletions in 6 files</sub><br />
 
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Add Abdelrahman Saed to AUTHORS<br />
   <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add precacheTestImage to flutter_test and unskip web image tests<br />
-  <sub>[#191435](https://github.com/flutter/flutter/pull/191435) opened on on August 20, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/191435) 1287 additions and 1263 deletions in 6 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Add iOS Universal Link integration test (Simulator)<br />
   <sub>[#191443](https://github.com/flutter/flutter/pull/191443) opened on on August 20, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/191443) 1410 additions and 0 deletions in 28 files</sub><br />
@@ -230,11 +227,8 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_test] Ensure LiveTestWidgetsFlutterBinding executes frame and pointer callbacks in the test zone<br />
   <sub>[#191595](https://github.com/flutter/flutter/pull/191595) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191595) 181 additions and 0 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Clarifies blur group optimization<br />
-  <sub>[#191613](https://github.com/flutter/flutter/pull/191613) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191613) 15 additions and 7 deletions in 1 file</sub><br />
-
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/complex_layout to UIScene lifecycle<br />
-  <sub>[#191619](https://github.com/flutter/flutter/pull/191619) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191619) 26 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#191619](https://github.com/flutter/flutter/pull/191619) opened on on August 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191619) 26 additions and 2 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clean up semantics code<br />
   <sub>[#191620](https://github.com/flutter/flutter/pull/191620) opened on on August 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191620) 140 additions and 3 deletions in 4 files</sub><br />
@@ -255,7 +249,7 @@
   <sub>[#191647](https://github.com/flutter/flutter/pull/191647) opened on on August 25, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/191647) 946 additions and 34 deletions in 15 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/macrobenchmarks to UIScene lifecycle<br />
-  <sub>[#191648](https://github.com/flutter/flutter/pull/191648) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191648) 26 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#191648](https://github.com/flutter/flutter/pull/191648) opened on on August 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191648) 26 additions and 2 deletions in 3 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [UIScene] Migrate dev/benchmarks/microbenchmarks to UIScene lifecycle<br />
   <sub>[#191650](https://github.com/flutter/flutter/pull/191650) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191650) 26 additions and 2 deletions in 3 files</sub><br />
@@ -279,5 +273,8 @@
   <sub>[#191707](https://github.com/flutter/flutter/pull/191707) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191707) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool_tests] Remove bringup from Windows tool_tests_commands_2_2<br />
-  <sub>[#191732](https://github.com/flutter/flutter/pull/191732) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191732) 65 additions and 42 deletions in 9 files</sub><br />
+  <sub>[#191732](https://github.com/flutter/flutter/pull/191732) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191732) 66 additions and 47 deletions in 9 files</sub><br />
+
+* **[shawnridgeway-google](https://github.com/shawnridgeway-google)** &mdash; Add prompt_suggestion icon to list of RTL mirroring icons.<br />
+  <sub>[#191741](https://github.com/flutter/flutter/pull/191741) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191741) 3 additions and 0 deletions in 2 files</sub><br />
 
