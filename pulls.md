@@ -209,6 +209,9 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: prefer pointer events over semantics tap for mouse clicks on web<br />
   <sub>[#191529](https://github.com/flutter/flutter/pull/191529) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191529) 80 additions and 5 deletions in 2 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix enum instances comparison to use `equality ==` since dart has the correct behavior now<br />
+  <sub>[#191537](https://github.com/flutter/flutter/pull/191537) opened on on August 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191537) 2 additions and 5 deletions in 2 files</sub><br />
+
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Ignore generated build packages when scanning for pubspecs dependencies file<br />
   <sub>[#191540](https://github.com/flutter/flutter/pull/191540) opened on on August 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191540) 18 additions and 2 deletions in 2 files</sub><br />
 
@@ -241,12 +244,6 @@
 
 * **[kaluli123123](https://github.com/kaluli123123)** &mdash; Fix null-check crash when a selection's edge point is off-screen<br />
   <sub>[#191632](https://github.com/flutter/flutter/pull/191632) opened on on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191632) 92 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Verify native assets tree-shaking during linking<br />
-  <sub>[#191637](https://github.com/flutter/flutter/pull/191637) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191637) 73 additions and 0 deletions in 1 file</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Rebuild asset bundle when generated manifest content changes<br />
-  <sub>[#191638](https://github.com/flutter/flutter/pull/191638) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191638) 59 additions and 6 deletions in 2 files</sub><br />
 
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; [iOS/MacOS] Warn when using deprecated framework build commands<br />
   <sub>[#191644](https://github.com/flutter/flutter/pull/191644) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191644) 100 additions and 0 deletions in 3 files</sub><br />
