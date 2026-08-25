@@ -121,9 +121,9 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [jesswrd](https://github.com/jesswrd)</sub>
   <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/e1501fa4-d825-4ae0-a4d1-3c1d173e5694" width="250" alt="Pre-change Unclipped" /><img src="https://github.com/user-attachments/assets/46b58d99-5a3f-4c6f-b8c5-c19c880d937e" width="250" alt="Pre-change Clipped" /><img src="https://github.com/user-attachments/assets/16a3a92a-d3b3-45ea-a2ce-caf438a8dd35" width="250" alt="Post-change Unclipped" /><img src="https://github.com/user-attachments/assets/18d7926e-45b9-41a9-a255-8ed1477d1055" width="250" alt="Post-change Clipped" /></details></sub>
 
-* **[manu-sncf](https://github.com/manu-sncf)** &mdash; Add SliverClipRect and SliverClipRRect
+* **[Emmanuel LEFEBVRE DIBON](https://github.com/manu-sncf)** &mdash; Add SliverClipRect and SliverClipRRect
   <sub>[#179003](https://github.com/flutter/flutter/pull/179003) merged on August 20, 2026 &mdash; **Extra large:** [241 comments](https://github.com/flutter/flutter/pull/179003) over 8 months, 2400 additions and 0 deletions in 7 files</sub>
-  <sub>Reviewed by: [Emmanuel](https://github.com/zemanux), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
+  <sub>Reviewed by: [Emmanuel LEFEBVRE DIBON](https://github.com/zemanux), [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[William Yang](https://github.com/wilyan09007)** &mdash; [native_assets] Record bundled code assets under their install name
   <sub>[#190819](https://github.com/flutter/flutter/pull/190819) merged on August 18, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190819) over 1 week, 350 additions and 23 deletions in 10 files</sub>
