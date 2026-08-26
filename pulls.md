@@ -252,5 +252,5 @@
   <sub>[#191781](https://github.com/flutter/flutter/pull/191781) opened on on August 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191781) 200 additions and 7 deletions in 5 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update more enum instances comparison to use equality == since dart has the correct behavior now<br />
-  <sub>[#191788](https://github.com/flutter/flutter/pull/191788) opened on on August 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191788) 5 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#191788](https://github.com/flutter/flutter/pull/191788) opened on on August 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191788) 5 additions and 5 deletions in 1 file</sub><br />
 
