@@ -140,7 +140,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool_tests] Remove bringup from Windows tool_tests_commands_2_2
-  <sub>[#191732](https://github.com/flutter/flutter/pull/191732) merged on August 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191732) over 9 hours, 66 additions and 47 deletions in 9 files</sub>
+  <sub>[#191732](https://github.com/flutter/flutter/pull/191732) merged on August 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191732) over 9 hours, 66 additions and 47 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Felipe Morschel](https://github.com/FMorschel)** &mdash; Refactors `try` to avoid `unawaited_return_in_try_block` case
@@ -1017,7 +1017,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Reland "Make Xcode workspace cleaning optional during flutter clean"
-  <sub>[#191023](https://github.com/flutter/flutter/pull/191023) merged on August 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191023) over 5 hours, 96 additions and 22 deletions in 6 files</sub>
+  <sub>[#191023](https://github.com/flutter/flutter/pull/191023) merged on August 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191023) over 5 hours, 96 additions and 22 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 </details>

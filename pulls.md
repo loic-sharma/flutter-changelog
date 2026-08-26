@@ -78,7 +78,7 @@
   <sub>[#190323](https://github.com/flutter/flutter/pull/190323) opened on on July 30, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/190323) 239 additions and 0 deletions in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind shader metadata by pointer instead of copying it per draw<br />
-  <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/190399) 317 additions and 66 deletions in 5 files</sub><br />
+  <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/190399) 317 additions and 66 deletions in 5 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Reusable binding sets<br />
   <sub>[#190400](https://github.com/flutter/flutter/pull/190400) opened on on August 2, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/190400) 1056 additions and 34 deletions in 13 files</sub><br />
@@ -250,4 +250,7 @@
 
 * **[Jeongho](https://github.com/hoyahozz)** &mdash; [iOS] Restore Flutter text focus after native responder recovery<br />
   <sub>[#191781](https://github.com/flutter/flutter/pull/191781) opened on on August 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191781) 200 additions and 7 deletions in 5 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update more enum instances comparison to use equality == since dart has the correct behavior now<br />
+  <sub>[#191788](https://github.com/flutter/flutter/pull/191788) opened on on August 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191788) 5 additions and 5 deletions in 1 file</sub><br />
 
