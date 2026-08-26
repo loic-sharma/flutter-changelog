@@ -176,9 +176,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: prefer pointer events over semantics tap for mouse clicks on web<br />
   <sub>[#191529](https://github.com/flutter/flutter/pull/191529) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191529) 80 additions and 5 deletions in 2 files</sub><br />
 
-* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix enum instances comparison to use `equality ==` since dart has the correct behavior now<br />
-  <sub>[#191537](https://github.com/flutter/flutter/pull/191537) opened on on August 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191537) 2 additions and 5 deletions in 2 files</sub><br />
-
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Ignore generated build packages when scanning for pubspecs dependencies file<br />
   <sub>[#191540](https://github.com/flutter/flutter/pull/191540) opened on on August 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191540) 18 additions and 2 deletions in 2 files</sub><br />
 
