@@ -1258,11 +1258,15 @@
 
 ### August 22, 2026 to August 28, 2026
 
-9 commits.
+10 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding an article on desktop windowing APIs
   <sub>[#13792](https://github.com/flutter/website/pull/13792) merged on August 24, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/website/pull/13792) over 3 hours, 393 additions and 0 deletions in 9 files</sub>
   <sub>Reviewed by: [Abdallah Shaban](https://github.com/abdallahshaban557), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae), [Jess K](https://github.com/jesskuras), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; prefactor: generalize filterable index layout and components
+  <sub>[#13768](https://github.com/flutter/website/pull/13768) merged on August 26, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/website/pull/13768) over 5 days, 545 additions and 404 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Set up doc and code writing agent skills
   <sub>[#13800](https://github.com/flutter/website/pull/13800) merged on August 25, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/website/pull/13800) over 1 hour, 5794 additions and 202 deletions in 26 files</sub>
