@@ -45,7 +45,7 @@
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188934) 134 additions and 1 deletion in 4 files</sub><br />
 
 * **[Pranta Dutta](https://github.com/theprantadutta)** &mdash; Make the AbsorbPointer sample show the difference from IgnorePointer<br />
-  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/188940) 151 additions and 53 deletions in 4 files</sub><br />
+  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/188940) 164 additions and 53 deletions in 4 files</sub><br />
 
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
@@ -72,7 +72,7 @@
   <sub>[#190100](https://github.com/flutter/flutter/pull/190100) opened on on July 27, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/190100) 1613 additions and 197 deletions in 65 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): support --web-content-hash for entrypoint files<br />
-  <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190153) 928 additions and 58 deletions in 5 files</sub><br />
+  <sub>[#190153](https://github.com/flutter/flutter/pull/190153) opened on on July 28, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/190153) 928 additions and 58 deletions in 5 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Documentation and script for Gradle Distribution cache for CI<br />
   <sub>[#190323](https://github.com/flutter/flutter/pull/190323) opened on on July 30, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/190323) 239 additions and 0 deletions in 2 files</sub><br />
@@ -168,7 +168,7 @@
   <sub>[#191466](https://github.com/flutter/flutter/pull/191466) opened on on August 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191466) 105 additions and 1 deletion in 5 files</sub><br />
 
 * **[Kiran Ryali](https://github.com/kryali)** &mdash; [windows] Fix null-deref in HostWindowPopup::UpdatePosition (Fixes #191478)<br />
-  <sub>[#191479](https://github.com/flutter/flutter/pull/191479) opened on on August 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191479) 54 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#191479](https://github.com/flutter/flutter/pull/191479) opened on on August 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191479) 54 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Safely handle broken symlinks and existing files during plugin symlink creation<br />
   <sub>[#191496](https://github.com/flutter/flutter/pull/191496) opened on on August 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191496) 85 additions and 2 deletions in 2 files</sub><br />
@@ -213,7 +213,7 @@
   <sub>[#191648](https://github.com/flutter/flutter/pull/191648) opened on on August 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191648) 26 additions and 2 deletions in 3 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Uiscene migrate remaining apps<br />
-  <sub>[#191652](https://github.com/flutter/flutter/pull/191652) opened on on August 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191652) 180 additions and 12 deletions in 17 files</sub><br />
+  <sub>[#191652](https://github.com/flutter/flutter/pull/191652) opened on on August 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191652) 180 additions and 12 deletions in 17 files</sub><br />
 
 * **[Priyansh Chaurasiya](https://github.com/priyanshch1105)** &mdash; [flutter_tools] Emit VM-service events for hot reload and restart<br />
   <sub>[#191653](https://github.com/flutter/flutter/pull/191653) opened on on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191653) 149 additions and 2 deletions in 7 files</sub><br />
@@ -228,16 +228,16 @@
   <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191747) 346 additions and 106 deletions in 30 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Remove bringup for batch 3<br />
-  <sub>[#191750](https://github.com/flutter/flutter/pull/191750) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191750) 0 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#191750](https://github.com/flutter/flutter/pull/191750) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191750) 0 additions and 6 deletions in 1 file</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [material] Remove unused parameters from constructors of generic test class<br />
   <sub>[#191764](https://github.com/flutter/flutter/pull/191764) opened on on August 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191764) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Handle the case where a window doesn't have a title set<br />
-  <sub>[#191767](https://github.com/flutter/flutter/pull/191767) opened on on August 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191767) 10 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#191767](https://github.com/flutter/flutter/pull/191767) opened on on August 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191767) 10 additions and 6 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Connect to moved-to-rect after the window is realized<br />
-  <sub>[#191773](https://github.com/flutter/flutter/pull/191773) opened on on August 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191773) 477 additions and 3 deletions in 7 files</sub><br />
+  <sub>[#191773](https://github.com/flutter/flutter/pull/191773) opened on on August 26, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/191773) 477 additions and 3 deletions in 7 files</sub><br />
 
 * **[Vasilii Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; Add opt-in AOT snapshot support for flutter_tools<br />
   <sub>[#191776](https://github.com/flutter/flutter/pull/191776) opened on on August 26, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191776) 133 additions and 14 deletions in 7 files</sub><br />
@@ -249,8 +249,20 @@
   <sub>[#191788](https://github.com/flutter/flutter/pull/191788) opened on on August 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191788) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[tool_tests] Remove bringup from Windows tool_tests_commands_2_2" (#191732)<br />
-  <sub>[#191802](https://github.com/flutter/flutter/pull/191802) opened on on August 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191802) 223 additions and 47 deletions in 10 files</sub><br />
+  <sub>[#191802](https://github.com/flutter/flutter/pull/191802) opened on on August 26, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/191802) 278 additions and 47 deletions in 10 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Denylists b-series powervr from vulkan<br />
-  <sub>[#191808](https://github.com/flutter/flutter/pull/191808) opened on on August 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191808) 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#191808](https://github.com/flutter/flutter/pull/191808) opened on on August 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191808) 2 additions and 2 deletions in 2 files</sub><br />
+
+* **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Expose includeHash on usePathUrlStrategy()<br />
+  <sub>[#191816](https://github.com/flutter/flutter/pull/191816) opened on on August 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191816) 36 additions and 3 deletions in 4 files</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Uiscene migrate custom channels views<br />
+  <sub>[#191817](https://github.com/flutter/flutter/pull/191817) opened on on August 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191817) 118 additions and 33 deletions in 9 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Wait for first native frame displayed in android_engine_test<br />
+  <sub>[#191823](https://github.com/flutter/flutter/pull/191823) opened on on August 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191823) 106 additions and 39 deletions in 27 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Update remaining tests to AGP 9<br />
+  <sub>[#191824](https://github.com/flutter/flutter/pull/191824) opened on on August 26, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191824) 30 additions and 29 deletions in 17 files</sub><br />
 

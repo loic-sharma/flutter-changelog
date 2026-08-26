@@ -1284,7 +1284,7 @@
 
 ### August 22, 2026 to August 28, 2026
 
-10 commits.
+12 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding an article on desktop windowing APIs
   <sub>[#13792](https://github.com/flutter/website/pull/13792) merged on August 24, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/website/pull/13792) over 3 hours, 393 additions and 0 deletions in 9 files</sub>
@@ -1304,6 +1304,14 @@
 
 * **[Craig Labenz](https://github.com/craiglabenz)** &mdash; Add WWDC blog post
   <sub>[#13803](https://github.com/flutter/website/pull/13803) merged on August 25, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/website/pull/13803) over 2 hours, 244 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Standardize various tags, pills, and chips
+  <sub>[#13804](https://github.com/flutter/website/pull/13804) merged on August 26, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/website/pull/13804) over 3 hours, 272 additions and 118 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Muthu Ganesh](https://github.com/MuthuGCodes)** &mdash; Add next steps guidance to learning pathway
+  <sub>[#13697](https://github.com/flutter/website/pull/13697) merged on August 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13697) over 2 weeks, 8 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up blog author images
