@@ -220,6 +220,10 @@
   <sub>[#191379](https://github.com/flutter/flutter/pull/191379) merged on August 23, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/191379) over 4 days, 715 additions and 36 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Robert Ancell](https://github.com/robert-ancell)</sub>
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; SliverFillRemaining extends beyond viewport size when fillOverscroll is true
+  <sub>[#191236](https://github.com/flutter/flutter/pull/191236) merged on August 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191236) over 2 days, 243 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Unify ui.ImageFilter between CanvasKit and Skwasm
   <sub>[#191021](https://github.com/flutter/flutter/pull/191021) merged on August 17, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/191021) over 4 days, 682 additions and 915 deletions in 24 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
@@ -259,10 +263,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] refactor CLI argument architecture with typed option descriptors and bundles (PoC)
   <sub>[#191018](https://github.com/flutter/flutter/pull/191018) merged on August 21, 2026 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/191018) over 1 week, 1286 additions and 162 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; SliverFillRemaining extends beyond viewport size when fillOverscroll is true
-  <sub>[#191236](https://github.com/flutter/flutter/pull/191236) merged on August 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191236) over 2 days, 243 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] fix position of cached single glyph text shadows
   <sub>[#191325](https://github.com/flutter/flutter/pull/191325) merged on August 21, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/191325) over 2 days, 48 additions and 52 deletions in 6 files</sub>

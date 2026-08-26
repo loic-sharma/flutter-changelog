@@ -248,3 +248,6 @@
 * **[Vasilii Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; Add opt-in AOT snapshot support for flutter_tools<br />
   <sub>[#191776](https://github.com/flutter/flutter/pull/191776) opened on on August 26, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191776) 133 additions and 14 deletions in 7 files</sub><br />
 
+* **[Jeongho](https://github.com/hoyahozz)** &mdash; [iOS] Restore Flutter text focus after native responder recovery<br />
+  <sub>[#191781](https://github.com/flutter/flutter/pull/191781) opened on on August 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191781) 200 additions and 7 deletions in 5 files</sub><br />
+
