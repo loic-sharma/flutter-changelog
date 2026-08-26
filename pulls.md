@@ -248,6 +248,3 @@
 * **[Vasilii Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; Add opt-in AOT snapshot support for flutter_tools<br />
   <sub>[#191776](https://github.com/flutter/flutter/pull/191776) opened on on August 26, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191776) 133 additions and 14 deletions in 7 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Check viewType before creating a platform view<br />
-  <sub>[#191777](https://github.com/flutter/flutter/pull/191777) opened on on August 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191777) 77 additions and 1 deletion in 4 files</sub><br />
-
