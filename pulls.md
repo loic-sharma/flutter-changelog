@@ -230,6 +230,9 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Turn on multithreading for wimp.<br />
   <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191747) 217 additions and 110 deletions in 27 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement Templates slice and flutter create integration<br />
+  <sub>[#191748](https://github.com/flutter/flutter/pull/191748) opened on on August 25, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191748) 1379 additions and 116 deletions in 23 files</sub><br />
+
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Remove bringup for batch 3<br />
   <sub>[#191750](https://github.com/flutter/flutter/pull/191750) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191750) 0 additions and 6 deletions in 1 file</sub><br />
 
@@ -237,5 +240,8 @@
   <sub>[#191764](https://github.com/flutter/flutter/pull/191764) opened on on August 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191764) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Handle the case where a window doesn't have a title set<br />
-  <sub>[#191767](https://github.com/flutter/flutter/pull/191767) opened on on August 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191767) 10 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#191767](https://github.com/flutter/flutter/pull/191767) opened on on August 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191767) 10 additions and 6 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Connect to moved-to-rect after the window is realized<br />
+  <sub>[#191773](https://github.com/flutter/flutter/pull/191773) opened on on August 26, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191773) 477 additions and 3 deletions in 7 files</sub><br />
 
