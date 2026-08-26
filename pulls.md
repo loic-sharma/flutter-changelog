@@ -231,7 +231,7 @@
   <sub>[#191732](https://github.com/flutter/flutter/pull/191732) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191732) 66 additions and 47 deletions in 9 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Turn on multithreading for wimp.<br />
-  <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191747) 211 additions and 106 deletions in 27 files</sub><br />
+  <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191747) 217 additions and 110 deletions in 27 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Remove bringup for batch 3<br />
   <sub>[#191750](https://github.com/flutter/flutter/pull/191750) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191750) 0 additions and 6 deletions in 1 file</sub><br />
