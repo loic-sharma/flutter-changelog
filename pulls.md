@@ -227,12 +227,15 @@
 * **[jin](https://github.com/ihatebeans3000)** &mdash; [Windows] Don't set message callbacks after the engine is destroyed<br />
   <sub>[#191704](https://github.com/flutter/flutter/pull/191704) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191704) 53 additions and 4 deletions in 4 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool_tests] Remove bringup from Windows tool_tests_commands_2_2<br />
-  <sub>[#191732](https://github.com/flutter/flutter/pull/191732) opened on on August 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191732) 66 additions and 47 deletions in 9 files</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Turn on multithreading for wimp.<br />
   <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/191747) 217 additions and 110 deletions in 27 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Remove bringup for batch 3<br />
   <sub>[#191750](https://github.com/flutter/flutter/pull/191750) opened on on August 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191750) 0 additions and 6 deletions in 1 file</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [material] Remove unused parameters from constructors of generic test class<br />
+  <sub>[#191764](https://github.com/flutter/flutter/pull/191764) opened on on August 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191764) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Handle the case where a window doesn't have a title set<br />
+  <sub>[#191767](https://github.com/flutter/flutter/pull/191767) opened on on August 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191767) 10 additions and 6 deletions in 1 file</sub><br />
 
