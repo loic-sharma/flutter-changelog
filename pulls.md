@@ -231,7 +231,7 @@
   <sub>[#191847](https://github.com/flutter/flutter/pull/191847) opened on on August 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191847) 142 additions and 33 deletions in 10 files</sub><br />
 
 * **[Emmanuel LEFEBVRE DIBON](https://github.com/zemanux)** &mdash; Add SafeAreaOverlay widget<br />
-  <sub>[#191848](https://github.com/flutter/flutter/pull/191848) opened on on August 26, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191848) 515 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#191848](https://github.com/flutter/flutter/pull/191848) opened on on August 26, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191848) 666 additions and 18 deletions in 4 files</sub><br />
 
 * **[edde746](https://github.com/edde746)** &mdash; macOS: Don't stall window resize on frames with no layers<br />
   <sub>[#191862](https://github.com/flutter/flutter/pull/191862) opened on on August 27, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191862) 275 additions and 43 deletions in 8 files</sub><br />
@@ -242,9 +242,15 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Handle missing Xcode gracefully in getInfo and buildMacOS<br />
   <sub>[#191902](https://github.com/flutter/flutter/pull/191902) opened on on August 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191902) 188 additions and 29 deletions in 5 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Share the common Linux window controller code in mixins<br />
-  <sub>[#191930](https://github.com/flutter/flutter/pull/191930) opened on on August 28, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191930) 317 additions and 573 deletions in 1 file</sub><br />
-
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Bump customer testing version to pick up forui tests<br />
-  <sub>[#191931](https://github.com/flutter/flutter/pull/191931) opened on on August 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191931) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#191931](https://github.com/flutter/flutter/pull/191931) opened on on August 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191931) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Fix self-comparison and assert typos in TestSemantics<br />
+  <sub>[#191938](https://github.com/flutter/flutter/pull/191938) opened on on August 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191938) 134 additions and 4 deletions in 2 files</sub><br />
+
+* **[Nadeem Khan Qureshi](https://github.com/nadeemmx)** &mdash; fix editable hit testing<br />
+  <sub>[#191946](https://github.com/flutter/flutter/pull/191946) opened on on August 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191946) 44 additions and 0 deletions in 2 files</sub><br />
+
+* **[serhii-k](https://github.com/serhii-k)** &mdash; [native assets] Bump minimum iOS version from 13 to 15<br />
+  <sub>[#191964](https://github.com/flutter/flutter/pull/191964) opened on on August 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191964) 2 additions and 2 deletions in 2 files</sub><br />
 
