@@ -173,9 +173,6 @@
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Ignore generated build packages when scanning for pubspecs dependencies file<br />
   <sub>[#191540](https://github.com/flutter/flutter/pull/191540) opened on on August 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191540) 18 additions and 2 deletions in 2 files</sub><br />
 
-* **[Irfan Khalid](https://github.com/ik020)** &mdash; Fix Android license detection for cmdline-tools 23.0+<br />
-  <sub>[#191554](https://github.com/flutter/flutter/pull/191554) opened on on August 23, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191554) 138 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Avoid Future.catchError in SingleLaunchLogReader<br />
   <sub>[#191562](https://github.com/flutter/flutter/pull/191562) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191562) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -253,9 +250,6 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes depth/stencil buffers on subpasses without clipping<br />
   <sub>[#191982](https://github.com/flutter/flutter/pull/191982) opened on on August 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191982) 254 additions and 28 deletions in 10 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Pause web server requests until initial compilation finishes<br />
-  <sub>[#191990](https://github.com/flutter/flutter/pull/191990) opened on on August 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191990) 204 additions and 2 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Lazily initialize AppleContext dependencies via builder closures<br />
   <sub>[#191992](https://github.com/flutter/flutter/pull/191992) opened on on August 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191992) 346 additions and 109 deletions in 3 files</sub><br />
