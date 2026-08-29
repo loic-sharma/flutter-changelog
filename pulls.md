@@ -44,8 +44,8 @@
 * **[Mark Turner](https://github.com/markst)** &mdash; Guide users when multiple Xcode projects are present<br />
   <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188934) 134 additions and 1 deletion in 4 files</sub><br />
 
-* **[Pranta Dutta](https://github.com/theprantadutta)** &mdash; Make the AbsorbPointer sample show the difference from IgnorePointer<br />
-  <sub>[#188940](https://github.com/flutter/flutter/pull/188940) opened on on July 3, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/188940) 164 additions and 53 deletions in 4 files</sub><br />
+* **[Pranta Dutta](https://github.com/theprantadutta)** &mdash; Suggest the -d flag after interactive device selection<br />
+  <sub>[#188941](https://github.com/flutter/flutter/pull/188941) opened on on July 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188941) 42 additions and 9 deletions in 2 files</sub><br />
 
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
