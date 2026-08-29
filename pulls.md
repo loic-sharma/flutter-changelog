@@ -260,3 +260,6 @@
 * **[Nikhil Kukreja](https://github.com/NikhilKukreja26)** &mdash; Document default value of ReorderableDragStartListener.enabled<br />
   <sub>[#192019](https://github.com/flutter/flutter/pull/192019) opened on on August 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192019) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove some `unawaited_futures` outdated ignores<br />
+  <sub>[#192026](https://github.com/flutter/flutter/pull/192026) opened on on August 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192026) 0 additions and 15 deletions in 3 files</sub><br />
+
