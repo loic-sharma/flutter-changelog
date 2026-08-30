@@ -261,10 +261,10 @@
   <sub>[#192019](https://github.com/flutter/flutter/pull/192019) opened on on August 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192019) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove some `unawaited_futures` outdated ignores<br />
-  <sub>[#192026](https://github.com/flutter/flutter/pull/192026) opened on on August 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192026) 0 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#192026](https://github.com/flutter/flutter/pull/192026) opened on on August 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192026) 0 additions and 15 deletions in 3 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix some of `ignore: avoid_dynamic_calls`<br />
-  <sub>[#192028](https://github.com/flutter/flutter/pull/192028) opened on on August 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192028) 6 additions and 10 deletions in 1 file</sub><br />
+  <sub>[#192028](https://github.com/flutter/flutter/pull/192028) opened on on August 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192028) 6 additions and 10 deletions in 1 file</sub><br />
 
 * **[djswndl](https://github.com/aiden30015)** &mdash; Document the router constructors of WidgetsApp, MaterialApp and CupertinoApp<br />
   <sub>[#192038](https://github.com/flutter/flutter/pull/192038) opened on on August 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192038) 44 additions and 0 deletions in 1 file</sub><br />
