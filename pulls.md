@@ -269,3 +269,9 @@
 * **[djswndl](https://github.com/aiden30015)** &mdash; Document the router constructors of WidgetsApp, MaterialApp and CupertinoApp<br />
   <sub>[#192038](https://github.com/flutter/flutter/pull/192038) opened on on August 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192038) 44 additions and 0 deletions in 1 file</sub><br />
 
+* **[Lucas Wang](https://github.com/gn00295120)** &mdash; [flutter_tools] Bind web dev server to loopback by default and validate Host header<br />
+  <sub>[#192049](https://github.com/flutter/flutter/pull/192049) opened on on August 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192049) 289 additions and 16 deletions in 5 files</sub><br />
+
+* **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix RawAutocomplete reopening options after Escape during async build<br />
+  <sub>[#192053](https://github.com/flutter/flutter/pull/192053) opened on on August 31, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192053) 65 additions and 0 deletions in 2 files</sub><br />
+
