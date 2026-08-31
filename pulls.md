@@ -255,10 +255,10 @@
   <sub>[#191992](https://github.com/flutter/flutter/pull/191992) opened on on August 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191992) 346 additions and 109 deletions in 3 files</sub><br />
 
 * **[Emmanuel LEFEBVRE DIBON](https://github.com/zemanux)** &mdash; Add EdgeInsetsOverlay widget<br />
-  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191998) 560 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/191998) 560 additions and 0 deletions in 3 files</sub><br />
 
 * **[Nikhil Kukreja](https://github.com/NikhilKukreja26)** &mdash; Document default value of ReorderableDragStartListener.enabled<br />
-  <sub>[#192019](https://github.com/flutter/flutter/pull/192019) opened on on August 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192019) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#192019](https://github.com/flutter/flutter/pull/192019) opened on on August 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192019) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove some `unawaited_futures` outdated ignores<br />
   <sub>[#192026](https://github.com/flutter/flutter/pull/192026) opened on on August 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192026) 0 additions and 15 deletions in 3 files</sub><br />
@@ -274,4 +274,10 @@
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix RawAutocomplete reopening options after Escape during async build<br />
   <sub>[#192053](https://github.com/flutter/flutter/pull/192053) opened on on August 31, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192053) 65 additions and 0 deletions in 2 files</sub><br />
+
+* **[greenart7c3](https://github.com/greenart7c3)** &mdash; Fix hardware keyboard paste (Ctrl+V) with TextInputType.none on Android<br />
+  <sub>[#192056](https://github.com/flutter/flutter/pull/192056) opened on on August 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192056) 62 additions and 0 deletions in 3 files</sub><br />
+
+* **[jia](https://github.com/leejia324)** &mdash; Document how to use the AI rules directory and fix the limits table header<br />
+  <sub>[#192065](https://github.com/flutter/flutter/pull/192065) opened on on August 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192065) 20 additions and 1 deletion in 1 file</sub><br />
 

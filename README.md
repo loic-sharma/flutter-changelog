@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 29, 2026 to September 4, 2026
+
+1 commits.
+
+* **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [tool] Migrate dev/tools from dart_skills_lint to skills_lint package<br />
+  <sub>[#191997](https://github.com/flutter/flutter/pull/191997) merged on August 31, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191997) over 2 days, 14 additions and 19 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
 ### August 22, 2026 to August 28, 2026
 
-97 commits.
+<details>
+<summary>97 commits...</summary>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Make ScrollPhysics reactive by introducing shouldUpdate<br />
   <sub>[#189664](https://github.com/flutter/flutter/pull/189664) merged on August 27, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/189664) over 1 month, 344 additions and 9 deletions in 6 files</sub><br />
@@ -397,6 +406,8 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable<br />
   <sub>[#191895](https://github.com/flutter/flutter/pull/191895) merged on August 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191895) over 6 hours, 16 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+</details>
 
 ### August 15, 2026 to August 21, 2026
 
@@ -818,9 +829,18 @@
 
 ## flutter/packages
 
+### August 29, 2026 to September 4, 2026
+
+1 commits.
+
+* **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [tool] Exempt AGENTS.md from version and changelog checks<br />
+  <sub>[#12681](https://github.com/flutter/packages/pull/12681) merged on August 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12681) over 2 days, 39 additions and 1 deletion in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### August 22, 2026 to August 28, 2026
 
-38 commits.
+<details>
+<summary>38 commits...</summary>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Convert top-level classes to Swift in `_sdk*` packages<br />
   <sub>[#12307](https://github.com/flutter/packages/pull/12307) merged on August 25, 2026 &mdash; **Extra large:** [43 comments](https://github.com/flutter/packages/pull/12307) over 3 weeks, 3368 additions and 4073 deletions in 163 files</sub><br />
@@ -973,6 +993,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 6b182d2c7585 to d3b14c876900 (1391 revisions)<br />
   <sub>[#12678](https://github.com/flutter/packages/pull/12678) merged on August 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12678) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### August 15, 2026 to August 21, 2026
 
