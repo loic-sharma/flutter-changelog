@@ -50,9 +50,6 @@
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[August](https://github.com/Gustl22)** &mdash; fix: Apply reversed axis flip by macOS on Web when scroll with modifier keys<br />
-  <sub>[#189506](https://github.com/flutter/flutter/pull/189506) opened on on July 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/189506) 122 additions and 8 deletions in 5 files</sub><br />
-
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
 
@@ -64,6 +61,9 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool][engine] Enable experimental VM service by default<br />
   <sub>[#190100](https://github.com/flutter/flutter/pull/190100) opened on on July 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/190100) 1400 additions and 189 deletions in 56 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Migrate `FlutterCodecs` and its unit tests to Swift<br />
+  <sub>[#190329](https://github.com/flutter/flutter/pull/190329) opened on on July 31, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190329) 325 additions and 262 deletions in 8 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind shader metadata by pointer instead of copying it per draw<br />
   <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/190399) 317 additions and 66 deletions in 5 files</sub><br />
@@ -103,9 +103,6 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add diagnostic logging and 3m ToolExit timeout for web test hangs<br />
   <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191004) 212 additions and 13 deletions in 1 file</sub><br />
-
-* **[Ryan Holanda](https://github.com/RyanHolanda)** &mdash; [Android] Fix edge-to-edge IME inset animation jump<br />
-  <sub>[#191034](https://github.com/flutter/flutter/pull/191034) opened on on August 12, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191034) 206 additions and 9 deletions in 10 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Prevent platform views from stealing text input focus from TextFields<br />
   <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
@@ -162,7 +159,7 @@
   <sub>[#191540](https://github.com/flutter/flutter/pull/191540) opened on on August 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191540) 18 additions and 2 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Support local Windows arm64 engine build<br />
-  <sub>[#191560](https://github.com/flutter/flutter/pull/191560) opened on on August 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191560) 52 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#191560](https://github.com/flutter/flutter/pull/191560) opened on on August 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191560) 54 additions and 9 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Avoid Future.catchError in SingleLaunchLogReader<br />
   <sub>[#191562](https://github.com/flutter/flutter/pull/191562) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191562) 1 addition and 1 deletion in 1 file</sub><br />
@@ -206,11 +203,11 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Wait for first native frame displayed in android_engine_test<br />
   <sub>[#191823](https://github.com/flutter/flutter/pull/191823) opened on on August 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191823) 106 additions and 39 deletions in 27 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes backdrop groups operate on the union.<br />
-  <sub>[#191838](https://github.com/flutter/flutter/pull/191838) opened on on August 26, 2026 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/191838) 424 additions and 44 deletions in 9 files</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Deflake hybrid_android_views_integration_test<br />
+  <sub>[#191830](https://github.com/flutter/flutter/pull/191830) opened on on August 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191830) 28 additions and 7 deletions in 3 files</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Uiscene migrate add2app hosts<br />
-  <sub>[#191847](https://github.com/flutter/flutter/pull/191847) opened on on August 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191847) 131 additions and 44 deletions in 10 files</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes backdrop groups operate on the union.<br />
+  <sub>[#191838](https://github.com/flutter/flutter/pull/191838) opened on on August 26, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/191838) 424 additions and 44 deletions in 9 files</sub><br />
 
 * **[edde746](https://github.com/edde746)** &mdash; macOS: Don't stall window resize on frames with no layers<br />
   <sub>[#191862](https://github.com/flutter/flutter/pull/191862) opened on on August 27, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191862) 275 additions and 43 deletions in 8 files</sub><br />
@@ -264,7 +261,7 @@
   <sub>[#192090](https://github.com/flutter/flutter/pull/192090) opened on on September 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192090) 168 additions and 35 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Wait for frames to be rendered before using them in another context<br />
-  <sub>[#192094](https://github.com/flutter/flutter/pull/192094) opened on on September 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192094) 79 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#192094](https://github.com/flutter/flutter/pull/192094) opened on on September 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192094) 79 additions and 0 deletions in 5 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fences to synchronize frames between OpenGL contexts<br />
   <sub>[#192098](https://github.com/flutter/flutter/pull/192098) opened on on September 1, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/192098) 625 additions and 6 deletions in 16 files</sub><br />
@@ -275,12 +272,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [cross_imports] Remove widgets/drawer_test.dart<br />
   <sub>[#192106](https://github.com/flutter/flutter/pull/192106) opened on on September 1, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/192106) 0 additions and 386 deletions in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redundant flutter/shell/platform/android:robolectric_tests build target<br />
-  <sub>[#192117](https://github.com/flutter/flutter/pull/192117) opened on on September 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192117) 2 additions and 9 deletions in 2 files</sub><br />
-
 * **[b-luk](https://github.com/b-luk)** &mdash; Handle linear and radial gradients in UberSDF (re-implement after fix)<br />
   <sub>[#192124](https://github.com/flutter/flutter/pull/192124) opened on on September 1, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/192124) 433 additions and 128 deletions in 10 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Implement Device Service extension and flutter devices integration<br />
-  <sub>[#192126](https://github.com/flutter/flutter/pull/192126) opened on on September 1, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/192126) 2133 additions and 120 deletions in 32 files</sub><br />
 
