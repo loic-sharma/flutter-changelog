@@ -879,7 +879,7 @@
 
 ### August 29, 2026 to September 4, 2026
 
-6 commits.
+8 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui, go_router] Command to test dart fixes
   <sub>[#12390](https://github.com/flutter/packages/pull/12390) merged on August 31, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/packages/pull/12390) over 3 weeks, 272 additions and 101 deletions in 6 files</sub>
@@ -888,6 +888,14 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Convert marker controllers to Swift
   <sub>[#12662](https://github.com/flutter/packages/pull/12662) merged on August 31, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/12662) over 3 days, 1543 additions and 2249 deletions in 58 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Migrate AppBar M3 template to use new gen_defaults script
+  <sub>[#12707](https://github.com/flutter/packages/pull/12707) merged on September 1, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/12707) over 19 hours, 143 additions and 226 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [material_ui] Remove !chrome in text_field_test.dart
+  <sub>[#12548](https://github.com/flutter/packages/pull/12548) merged on September 1, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/12548) over 1 week, 67 additions and 63 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Standardize M3 and M3E token template base class names
   <sub>[#12675](https://github.com/flutter/packages/pull/12675) merged on August 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12675) over 3 days, 23 additions and 24 deletions in 4 files</sub>
@@ -1148,7 +1156,12 @@
 
 ### August 29, 2026 to September 4, 2026
 
-7 commits.
+9 commits.
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add an "ide" component
+  <sub>[#13708](https://github.com/flutter/website/pull/13708) merged on September 1, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/website/pull/13708) over 2 weeks, 1601 additions and 0 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+  <sub><details><summary>3 images...</summary><img width="937" height="759" alt="Screenshot 2026-08-15 at 11 53 41 AM" src="https://github.com/user-attachments/assets/b01f81a6-a0a4-4dbb-afc4-669793744c47" /><img width="930" height="769" alt="Screenshot 2026-08-15 at 11 53 55 AM" src="https://github.com/user-attachments/assets/51eb28ff-d329-4d48-8810-bc17dcc21539" /><img width="675" height="903" alt="Screenshot 2026-08-15 at 11 54 18 AM" src="https://github.com/user-attachments/assets/d22ee7fd-63b8-4d3c-8936-04ffe217e0c6" /></details></sub>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add mermaid support
   <sub>[#13741](https://github.com/flutter/website/pull/13741) merged on September 1, 2026 &mdash; **Medium:** [32 comments](https://github.com/flutter/website/pull/13741) over 1 week, 303 additions and 1 deletion in 14 files</sub>
@@ -1162,6 +1175,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add section on removing CocoaPods from a project
   <sub>[#13774](https://github.com/flutter/website/pull/13774) merged on August 31, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/website/pull/13774) over 1 week, 3247 additions and 2028 deletions in 171 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding an image header
+  <sub>[#13839](https://github.com/flutter/website/pull/13839) merged on September 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13839) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Craig Labenz](https://github.com/craiglabenz), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[htrolle-epam](https://github.com/htrolle-epam)** &mdash; Consultants august31
   <sub>[#13838](https://github.com/flutter/website/pull/13838) merged on August 31, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13838) over 28 minutes, 10 additions and 1 deletion in 2 files</sub>
