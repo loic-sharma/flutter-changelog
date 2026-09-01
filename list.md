@@ -4,7 +4,7 @@
 
 ### August 29, 2026 to September 4, 2026
 
-10 commits.
+13 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Migrate to listen package
   <sub>[#189111](https://github.com/flutter/flutter/pull/189111) merged on August 31, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/189111) over 1 month, 55 additions and 572 deletions in 9 files</sub>
@@ -13,6 +13,14 @@
 * **[Shivanshu](https://github.com/shivanshu877)** &mdash; test: dynamic _tapOutside helper for TapRegion navigation tests
   <sub>[#185397](https://github.com/flutter/flutter/pull/185397) merged on August 31, 2026 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/185397) over 4 months, 32 additions and 17 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Safely handle broken symlinks and existing files during plugin symlink creation
+  <sub>[#191496](https://github.com/flutter/flutter/pull/191496) merged on September 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191496) over 1 week, 85 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Support wide gamut colors in gradient_generator's CreateGradientTexture
+  <sub>[#191980](https://github.com/flutter/flutter/pull/191980) merged on September 1, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/191980) over 3 days, 115 additions and 42 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Removes deprecated ignoreSemantics parementers
   <sub>[#191493](https://github.com/flutter/flutter/pull/191493) merged on August 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/191493) over 1 week, 20 additions and 381 deletions in 8 files</sub>
@@ -37,6 +45,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Explicitly disable HCPP in platform view benchmarks and integration tests
   <sub>[#191908](https://github.com/flutter/flutter/pull/191908) merged on August 31, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191908) over 3 days, 24 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Clean up semantics code
+  <sub>[#191620](https://github.com/flutter/flutter/pull/191620) merged on September 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191620) over 1 week, 140 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Jess K](https://github.com/jesskuras)** &mdash; Add website documentation item to PR pre-launch checklist
   <sub>[#192080](https://github.com/flutter/flutter/pull/192080) merged on August 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192080) over 1 hour, 3 additions and 1 deletion in 1 file</sub>
