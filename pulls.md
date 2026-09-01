@@ -62,9 +62,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool][engine] Enable experimental VM service by default<br />
   <sub>[#190100](https://github.com/flutter/flutter/pull/190100) opened on on July 27, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/190100) 1400 additions and 189 deletions in 56 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Migrate `FlutterCodecs` and its unit tests to Swift<br />
-  <sub>[#190329](https://github.com/flutter/flutter/pull/190329) opened on on July 31, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/190329) 325 additions and 262 deletions in 8 files</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Bind shader metadata by pointer instead of copying it per draw<br />
   <sub>[#190399](https://github.com/flutter/flutter/pull/190399) opened on on August 2, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/190399) 317 additions and 66 deletions in 5 files</sub><br />
 
@@ -76,9 +73,6 @@
 
 * **[Devarsh Ranpara](https://github.com/DevarshRanpara)** &mdash; Add lazyLoadChildren to Expansible to defer body build until first expansion (Fixes #184111)<br />
   <sub>[#190468](https://github.com/flutter/flutter/pull/190468) opened on on August 3, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/190468) 131 additions and 1 deletion in 2 files</sub><br />
-
-* **[Matheus Dias](https://github.com/Mathvdias)** &mdash; feat(flutter_test): add startHover and startHoverAt helper to WidgetTester<br />
-  <sub>[#190630](https://github.com/flutter/flutter/pull/190630) opened on on August 5, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/190630) 95 additions and 0 deletions in 3 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Compile shader bundles for a subset of backends<br />
   <sub>[#190641](https://github.com/flutter/flutter/pull/190641) opened on on August 6, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/190641) 196 additions and 37 deletions in 6 files</sub><br />
@@ -118,9 +112,6 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191220) 91 additions and 35 deletions in 2 files</sub><br />
-
-* **[Emmanuel LEFEBVRE DIBON](https://github.com/zemanux)** &mdash; Fix lay out SliverCrossAxisGroup flexible children with zero extent i…<br />
-  <sub>[#191287](https://github.com/flutter/flutter/pull/191287) opened on on August 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191287) 43 additions and 44 deletions in 2 files</sub><br />
 
 * **[dipsy](https://github.com/dipsy)** &mdash; Keep SingleChildScrollView overscroll across a relayout<br />
   <sub>[#191307](https://github.com/flutter/flutter/pull/191307) opened on on August 18, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/191307) 160 additions and 7 deletions in 2 files</sub><br />
@@ -182,12 +173,6 @@
 * **[Diego López](https://github.com/diegolopezrm)** &mdash; [web] Report `env(safe-area-inset-*)` as `FlutterView.viewPadding`<br />
   <sub>[#191647](https://github.com/flutter/flutter/pull/191647) opened on on August 25, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/191647) 946 additions and 34 deletions in 15 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Turn on multithreading for wimp.<br />
-  <sub>[#191747](https://github.com/flutter/flutter/pull/191747) opened on on August 25, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/191747) 349 additions and 106 deletions in 30 files</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [material] Remove unused parameters from constructors of generic test class<br />
-  <sub>[#191764](https://github.com/flutter/flutter/pull/191764) opened on on August 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191764) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Vasilii Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; Add opt-in AOT snapshot support for flutter_tools<br />
   <sub>[#191776](https://github.com/flutter/flutter/pull/191776) opened on on August 26, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191776) 133 additions and 14 deletions in 7 files</sub><br />
 
@@ -215,9 +200,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle Windows reserved characters in test target path<br />
   <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
 
-* **[Nadeem Khan Qureshi](https://github.com/nadeemmx)** &mdash; fix editable hit testing<br />
-  <sub>[#191946](https://github.com/flutter/flutter/pull/191946) opened on on August 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191946) 44 additions and 0 deletions in 2 files</sub><br />
-
 * **[serhii-k](https://github.com/serhii-k)** &mdash; [native assets] Bump minimum iOS version from 13 to 15<br />
   <sub>[#191964](https://github.com/flutter/flutter/pull/191964) opened on on August 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191964) 2 additions and 2 deletions in 2 files</sub><br />
 
@@ -235,9 +217,6 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix some of `ignore: avoid_dynamic_calls`<br />
   <sub>[#192028](https://github.com/flutter/flutter/pull/192028) opened on on August 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192028) 6 additions and 10 deletions in 1 file</sub><br />
-
-* **[djswndl](https://github.com/aiden30015)** &mdash; Document the router constructors of WidgetsApp, MaterialApp and CupertinoApp<br />
-  <sub>[#192038](https://github.com/flutter/flutter/pull/192038) opened on on August 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192038) 44 additions and 0 deletions in 1 file</sub><br />
 
 * **[Lucas Wang](https://github.com/gn00295120)** &mdash; [flutter_tools] Bind web dev server to loopback by default and validate Host header<br />
   <sub>[#192049](https://github.com/flutter/flutter/pull/192049) opened on on August 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192049) 289 additions and 16 deletions in 5 files</sub><br />
@@ -260,18 +239,15 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix cache download progress calculation for non-downloading artifacts<br />
   <sub>[#192090](https://github.com/flutter/flutter/pull/192090) opened on on September 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192090) 168 additions and 35 deletions in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Wait for frames to be rendered before using them in another context<br />
-  <sub>[#192094](https://github.com/flutter/flutter/pull/192094) opened on on September 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192094) 79 additions and 0 deletions in 5 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fences to synchronize frames between OpenGL contexts<br />
-  <sub>[#192098](https://github.com/flutter/flutter/pull/192098) opened on on September 1, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/192098) 625 additions and 6 deletions in 16 files</sub><br />
+  <sub>[#192098](https://github.com/flutter/flutter/pull/192098) opened on on September 1, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/192098) 610 additions and 6 deletions in 16 files</sub><br />
 
 * **[Soi (Jiwon Lee)](https://github.com/JIWON1923)** &mdash; [Windows] Fix Space input after Alt+Space with previous Microsoft IME<br />
   <sub>[#192105](https://github.com/flutter/flutter/pull/192105) opened on on September 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192105) 76 additions and 2 deletions in 2 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [cross_imports] Remove widgets/drawer_test.dart<br />
-  <sub>[#192106](https://github.com/flutter/flutter/pull/192106) opened on on September 1, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/192106) 0 additions and 386 deletions in 2 files</sub><br />
+* **[b-luk](https://github.com/b-luk)** &mdash; Fix issue where shapes rendered with gradient+blur+rotation end up incorrectly cut off<br />
+  <sub>[#192136](https://github.com/flutter/flutter/pull/192136) opened on on September 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192136) 44 additions and 5 deletions in 2 files</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Handle linear and radial gradients in UberSDF (re-implement after fix)<br />
-  <sub>[#192124](https://github.com/flutter/flutter/pull/192124) opened on on September 1, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/192124) 433 additions and 128 deletions in 10 files</sub><br />
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Don't clear the OpenGL context when a frame has been drawn<br />
+  <sub>[#192137](https://github.com/flutter/flutter/pull/192137) opened on on September 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192137) 9 additions and 4 deletions in 1 file</sub><br />
 
