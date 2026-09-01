@@ -879,7 +879,7 @@
 
 ### August 29, 2026 to September 4, 2026
 
-5 commits.
+6 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui, go_router] Command to test dart fixes
   <sub>[#12390](https://github.com/flutter/packages/pull/12390) merged on August 31, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/packages/pull/12390) over 3 weeks, 272 additions and 101 deletions in 6 files</sub>
@@ -892,6 +892,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Standardize M3 and M3E token template base class names
   <sub>[#12675](https://github.com/flutter/packages/pull/12675) merged on August 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12675) over 3 days, 23 additions and 24 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [vector_graphics] Fix deprecation lints
+  <sub>[#12702](https://github.com/flutter/packages/pull/12702) merged on September 1, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/12702) over 1 day, 7 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [vector_graphics_compiler] Fix deprecation issues in tests
   <sub>[#12700](https://github.com/flutter/packages/pull/12700) merged on August 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12700) over 12 hours, 9 additions and 9 deletions in 1 file</sub>
@@ -1144,12 +1148,16 @@
 
 ### August 29, 2026 to September 4, 2026
 
-6 commits.
+7 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add mermaid support
   <sub>[#13741](https://github.com/flutter/website/pull/13741) merged on September 1, 2026 &mdash; **Medium:** [32 comments](https://github.com/flutter/website/pull/13741) over 1 week, 303 additions and 1 deletion in 14 files</sub>
   <sub>Reviewed by: [Dominik Roszkowski](https://github.com/orestesgaolin), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
   <sub><details><summary>1 image...</summary><img width="925" height="790" alt="Screenshot 2026-08-18 at 2 43 33 PM" src="https://github.com/user-attachments/assets/367162ce-c12e-43bd-affd-5add17dde334" /></details></sub>
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; CUJ index [land silently]
+  <sub>[#13769](https://github.com/flutter/website/pull/13769) merged on September 1, 2026 &mdash; **Extra large:** [51 comments](https://github.com/flutter/website/pull/13769) over 1 week, 1800 additions and 1 deletion in 13 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add section on removing CocoaPods from a project
   <sub>[#13774](https://github.com/flutter/website/pull/13774) merged on August 31, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/website/pull/13774) over 1 week, 3247 additions and 2028 deletions in 171 files</sub>
