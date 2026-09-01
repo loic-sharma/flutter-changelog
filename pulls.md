@@ -126,7 +126,7 @@
   <sub>[#191287](https://github.com/flutter/flutter/pull/191287) opened on on August 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191287) 43 additions and 44 deletions in 2 files</sub><br />
 
 * **[dipsy](https://github.com/dipsy)** &mdash; Keep SingleChildScrollView overscroll across a relayout<br />
-  <sub>[#191307](https://github.com/flutter/flutter/pull/191307) opened on on August 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191307) 69 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#191307](https://github.com/flutter/flutter/pull/191307) opened on on August 18, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/191307) 160 additions and 7 deletions in 2 files</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; [stable] fix: limit render size of custom elements<br />
   <sub>[#191341](https://github.com/flutter/flutter/pull/191341) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191341) 89 additions and 3 deletions in 2 files</sub><br />
@@ -160,6 +160,9 @@
 
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Ignore generated build packages when scanning for pubspecs dependencies file<br />
   <sub>[#191540](https://github.com/flutter/flutter/pull/191540) opened on on August 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191540) 18 additions and 2 deletions in 2 files</sub><br />
+
+* **[August](https://github.com/Gustl22)** &mdash; feat: Support local Windows arm64 engine build<br />
+  <sub>[#191560](https://github.com/flutter/flutter/pull/191560) opened on on August 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191560) 52 additions and 8 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Avoid Future.catchError in SingleLaunchLogReader<br />
   <sub>[#191562](https://github.com/flutter/flutter/pull/191562) opened on on August 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191562) 1 addition and 1 deletion in 1 file</sub><br />
@@ -267,5 +270,14 @@
   <sub>[#192090](https://github.com/flutter/flutter/pull/192090) opened on on September 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192090) 168 additions and 35 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Wait for frames to be rendered before using them in another context<br />
-  <sub>[#192094](https://github.com/flutter/flutter/pull/192094) opened on on September 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192094) 79 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#192094](https://github.com/flutter/flutter/pull/192094) opened on on September 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192094) 79 additions and 0 deletions in 5 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fences to synchronize frames between OpenGL contexts<br />
+  <sub>[#192098](https://github.com/flutter/flutter/pull/192098) opened on on September 1, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/192098) 625 additions and 6 deletions in 16 files</sub><br />
+
+* **[Soi (Jiwon Lee)](https://github.com/JIWON1923)** &mdash; [Windows] Fix Space input after Alt+Space with previous Microsoft IME<br />
+  <sub>[#192105](https://github.com/flutter/flutter/pull/192105) opened on on September 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192105) 76 additions and 2 deletions in 2 files</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [cross_imports] Remove widgets/drawer_test.dart<br />
+  <sub>[#192106](https://github.com/flutter/flutter/pull/192106) opened on on September 1, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/192106) 0 additions and 386 deletions in 2 files</sub><br />
 
