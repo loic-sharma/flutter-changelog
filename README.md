@@ -4,7 +4,7 @@
 
 ### August 29, 2026 to September 4, 2026
 
-30 commits.
+31 commits.
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImageTransition.fadeInOver to fade the image in over the placeholder<br />
   <sub>[#186246](https://github.com/flutter/flutter/pull/186246) merged on September 2, 2026 &mdash; **Large:** [76 comments](https://github.com/flutter/flutter/pull/186246) over 3 months, 788 additions and 44 deletions in 4 files</sub><br />
@@ -45,6 +45,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Replace Shell::WaitForFirstFrame with an asynchronous API that matches the Shell threading model<br />
   <sub>[#191841](https://github.com/flutter/flutter/pull/191841) merged on September 1, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/191841) over 5 days, 112 additions and 205 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [analysis] Upgrade package:analyzer to 14.3.0 and enable custom plugin compilation<br />
+  <sub>[#191590](https://github.com/flutter/flutter/pull/191590) merged on September 2, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/191590) over 1 week, 550 additions and 216 deletions in 68 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate DoctorCommand to modular dependency injection<br />
   <sub>[#190758](https://github.com/flutter/flutter/pull/190758) merged on September 2, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/190758) over 3 weeks, 189 additions and 12 deletions in 3 files</sub><br />
@@ -947,7 +951,7 @@
 
 ### August 29, 2026 to September 4, 2026
 
-12 commits.
+13 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui, go_router] Command to test dart fixes<br />
   <sub>[#12390](https://github.com/flutter/packages/pull/12390) merged on August 31, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/packages/pull/12390) over 3 weeks, 272 additions and 101 deletions in 6 files</sub><br />
@@ -976,6 +980,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Standardize M3 and M3E token template base class names<br />
   <sub>[#12675](https://github.com/flutter/packages/pull/12675) merged on August 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12675) over 3 days, 23 additions and 24 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [path_parsing] Fix deprecation lints<br />
+  <sub>[#12704](https://github.com/flutter/packages/pull/12704) merged on September 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12704) over 2 days, 4 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff)</sub><br />
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [image_picker] Add native tests for image, metadata, photo-asset, and PHPicker save utilities<br />
   <sub>[#12536](https://github.com/flutter/packages/pull/12536) merged on September 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/12536) over 1 week, 293 additions and 1 deletion in 4 files</sub><br />
@@ -1240,7 +1248,7 @@
 
 ### August 29, 2026 to September 4, 2026
 
-9 commits.
+10 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add an "ide" component<br />
   <sub>[#13708](https://github.com/flutter/website/pull/13708) merged on September 1, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/website/pull/13708) over 2 weeks, 1601 additions and 0 deletions in 7 files</sub><br />
@@ -1259,6 +1267,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add section on removing CocoaPods from a project<br />
   <sub>[#13774](https://github.com/flutter/website/pull/13774) merged on August 31, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/website/pull/13774) over 1 week, 3247 additions and 2028 deletions in 171 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Jess K](https://github.com/jesskuras)** &mdash; Add issue form template for documenting new Flutter features<br />
+  <sub>[#13835](https://github.com/flutter/website/pull/13835) merged on September 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/13835) over 1 day, 65 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding an image header<br />
   <sub>[#13839](https://github.com/flutter/website/pull/13839) merged on September 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13839) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
