@@ -117,7 +117,7 @@
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191220) 91 additions and 35 deletions in 2 files</sub><br />
 
 * **[dipsy](https://github.com/dipsy)** &mdash; Keep SingleChildScrollView overscroll across a relayout<br />
-  <sub>[#191307](https://github.com/flutter/flutter/pull/191307) opened on on August 18, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/191307) 160 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#191307](https://github.com/flutter/flutter/pull/191307) opened on on August 18, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/191307) 219 additions and 5 deletions in 2 files</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; [stable] fix: limit render size of custom elements<br />
   <sub>[#191341](https://github.com/flutter/flutter/pull/191341) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191341) 89 additions and 3 deletions in 2 files</sub><br />
@@ -268,4 +268,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Make the framebuffer depth/stencil buffer optional<br />
   <sub>[#192156](https://github.com/flutter/flutter/pull/192156) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192156) 82 additions and 47 deletions in 7 files</sub><br />
+
+* **[seunggi](https://github.com/dfdgsdfg)** &mdash; [Impeller][GLES] Rebind textures before buffer uploads<br />
+  <sub>[#192158](https://github.com/flutter/flutter/pull/192158) opened on on September 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192158) 11 additions and 1 deletion in 2 files</sub><br />
 
