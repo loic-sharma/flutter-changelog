@@ -108,7 +108,7 @@
   <sub>[#191157](https://github.com/flutter/flutter/pull/191157) opened on on August 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191157) 45 additions and 1 deletion in 2 files</sub><br />
 
 * **[Hamed](https://github.com/papmodern)** &mdash; [Android] Do not schedule engine frames on a detached FlutterJNI<br />
-  <sub>[#191204](https://github.com/flutter/flutter/pull/191204) opened on on August 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191204) 53 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#191204](https://github.com/flutter/flutter/pull/191204) opened on on August 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191204) 53 additions and 0 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191220) 91 additions and 35 deletions in 2 files</sub><br />
@@ -250,4 +250,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Don't clear the OpenGL context when a frame has been drawn<br />
   <sub>[#192137](https://github.com/flutter/flutter/pull/192137) opened on on September 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192137) 9 additions and 4 deletions in 1 file</sub><br />
+
+* **[corci0x](https://github.com/corci0x)** &mdash; Reject glyph packer placements that don't fit in int16_t<br />
+  <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
 
