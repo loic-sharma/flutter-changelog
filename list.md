@@ -951,7 +951,15 @@
 
 ### August 29, 2026 to September 4, 2026
 
-15 commits.
+19 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui] Migrate off of flutter_test's find.byTooltip and on to the local findByTooltip
+  <sub>[#12492](https://github.com/flutter/packages/pull/12492) merged on September 2, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/12492) over 2 weeks, 176 additions and 89 deletions in 14 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
+* **[Brian Egan](https://github.com/brianegan)** &mdash; [go_router_builder] Report duplicate route paths at build time
+  <sub>[#12399](https://github.com/flutter/packages/pull/12399) merged on September 2, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/packages/pull/12399) over 3 weeks, 1290 additions and 43 deletions in 57 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui, go_router] Command to test dart fixes
   <sub>[#12390](https://github.com/flutter/packages/pull/12390) merged on August 31, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/packages/pull/12390) over 3 weeks, 272 additions and 101 deletions in 6 files</sub>
@@ -981,9 +989,17 @@
   <sub>[#12548](https://github.com/flutter/packages/pull/12548) merged on September 1, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/12548) over 1 week, 67 additions and 63 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Add Material style variant enum (#12221)
+  <sub>[#12717](https://github.com/flutter/packages/pull/12717) merged on September 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12717) over 1 day, 20 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
+
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Standardize M3 and M3E token template base class names
   <sub>[#12675](https://github.com/flutter/packages/pull/12675) merged on August 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12675) over 3 days, 23 additions and 24 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [material_ui] Remove no shuffle from text field tests
+  <sub>[#12547](https://github.com/flutter/packages/pull/12547) merged on September 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12547) over 1 week, 1 addition and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] PR 1/4 google_sign_in_ios SPM packaging
   <sub>[#12654](https://github.com/flutter/packages/pull/12654) merged on September 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12654) over 6 days, 36 additions and 12 deletions in 16 files</sub>
