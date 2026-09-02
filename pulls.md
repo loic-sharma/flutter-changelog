@@ -87,7 +87,43 @@
   <sub>[#190765](https://github.com/flutter/flutter/pull/190765) opened on on August 8, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/190765) 383 additions and 28 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate ScreenshotCommand to modular dependency injection<br />
-  <sub>[#190767](https://github.com/flutter/flutter/pull/190767) opened on on August 8, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190767) 622 additions and 92 deletions in 7 files</sub><br />
+  <sub>[#190767](https://github.com/flutter/flutter/pull/190767) opened on on August 8, 2026 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/190767) 230 additions and 66 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate DevicesCommand to modular dependency injection<br />
+  <sub>[#190768](https://github.com/flutter/flutter/pull/190768) opened on on August 8, 2026 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/190768) 433 additions and 521 deletions in 4 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate EmulatorsCommand to modular dependency injection<br />
+  <sub>[#190769](https://github.com/flutter/flutter/pull/190769) opened on on August 8, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/190769) 438 additions and 24 deletions in 4 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CustomDevicesCommand to modular dependency injection<br />
+  <sub>[#190770](https://github.com/flutter/flutter/pull/190770) opened on on August 8, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/190770) 304 additions and 479 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate InstallCommand to modular dependency injection<br />
+  <sub>[#190771](https://github.com/flutter/flutter/pull/190771) opened on on August 8, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/190771) 189 additions and 108 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate AssembleCommand and GenerateCommand to modular dependency injection<br />
+  <sub>[#190773](https://github.com/flutter/flutter/pull/190773) opened on on August 8, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/190773) 670 additions and 802 deletions in 10 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Apple build subcommands and toolchain to modular dependency injection<br />
+  <sub>[#190780](https://github.com/flutter/flutter/pull/190780) opened on on August 8, 2026 &mdash; **Extra large:** [34 comments](https://github.com/flutter/flutter/pull/190780) 1004 additions and 1855 deletions in 12 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Desktop build subcommands and toolchain to modular dependency injection<br />
+  <sub>[#190781](https://github.com/flutter/flutter/pull/190781) opened on on August 8, 2026 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/190781) 709 additions and 724 deletions in 7 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Web build subcommands and toolchain to modular dependency injection<br />
+  <sub>[#190783](https://github.com/flutter/flutter/pull/190783) opened on on August 8, 2026 &mdash; **Extra large:** [31 comments](https://github.com/flutter/flutter/pull/190783) 1742 additions and 1656 deletions in 17 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CreateCommand to modular dependency injection<br />
+  <sub>[#190785](https://github.com/flutter/flutter/pull/190785) opened on on August 8, 2026 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/190785) 539 additions and 392 deletions in 9 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Version and Packages commands to modular dependency injection<br />
+  <sub>[#190787](https://github.com/flutter/flutter/pull/190787) opened on on August 8, 2026 &mdash; **Extra large:** [44 comments](https://github.com/flutter/flutter/pull/190787) 1270 additions and 1070 deletions in 15 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Tooling and Analysis commands to modular dependency injection<br />
+  <sub>[#190788](https://github.com/flutter/flutter/pull/190788) opened on on August 8, 2026 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/190788) 637 additions and 720 deletions in 18 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate DaemonCommand and DebugAdapterCommand to modular dependency injection<br />
+  <sub>[#190793](https://github.com/flutter/flutter/pull/190793) opened on on August 8, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/190793) 547 additions and 144 deletions in 8 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update the CLI to reject passing engine configuration flags with a prebuilt binary in release mode<br />
   <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/190870) 871 additions and 196 deletions in 10 files</sub><br />
@@ -271,4 +307,13 @@
 
 * **[seunggi](https://github.com/dfdgsdfg)** &mdash; [Impeller][GLES] Rebind textures before buffer uploads<br />
   <sub>[#192158](https://github.com/flutter/flutter/pull/192158) opened on on September 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192158) 11 additions and 1 deletion in 2 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [iOS] Add native deep link lifecycle integration tests for UIScene plugins<br />
+  <sub>[#192173](https://github.com/flutter/flutter/pull/192173) opened on on September 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192173) 275 additions and 17 deletions in 15 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Remove bringup for driver tests batch 2<br />
+  <sub>[#192174](https://github.com/flutter/flutter/pull/192174) opened on on September 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192174) 0 additions and 3 deletions in 1 file</sub><br />
+
+* **[Wu Shuwen](https://github.com/dajiaohuang)** &mdash; Fix type injection vulnerability in gen_l10n (fix #192130)<br />
+  <sub>[#192176](https://github.com/flutter/flutter/pull/192176) opened on on September 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192176) 55 additions and 0 deletions in 1 file</sub><br />
 

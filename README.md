@@ -4,7 +4,7 @@
 
 ### August 29, 2026 to September 4, 2026
 
-29 commits.
+30 commits.
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImageTransition.fadeInOver to fade the image in over the placeholder<br />
   <sub>[#186246](https://github.com/flutter/flutter/pull/186246) merged on September 2, 2026 &mdash; **Large:** [76 comments](https://github.com/flutter/flutter/pull/186246) over 3 months, 788 additions and 44 deletions in 4 files</sub><br />
@@ -45,6 +45,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Replace Shell::WaitForFirstFrame with an asynchronous API that matches the Shell threading model<br />
   <sub>[#191841](https://github.com/flutter/flutter/pull/191841) merged on September 1, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/191841) over 5 days, 112 additions and 205 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate DoctorCommand to modular dependency injection<br />
+  <sub>[#190758](https://github.com/flutter/flutter/pull/190758) merged on September 2, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/190758) over 3 weeks, 189 additions and 12 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Afzal Najam](https://github.com/AfzalivE)** &mdash; [iOS] Preserve semantics parents after reparenting<br />
   <sub>[#189686](https://github.com/flutter/flutter/pull/189686) merged on September 1, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/189686) over 1 month, 296 additions and 3 deletions in 6 files</sub><br />
