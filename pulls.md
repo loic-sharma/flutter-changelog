@@ -167,6 +167,9 @@
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Add Abdelrahman Saed to AUTHORS<br />
   <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Report web unit and widget test results to LUCI ResultDB<br />
+  <sub>[#191459](https://github.com/flutter/flutter/pull/191459) opened on on August 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191459) 8 additions and 0 deletions in 1 file</sub><br />
+
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 13<br />
   <sub>[#191466](https://github.com/flutter/flutter/pull/191466) opened on on August 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191466) 105 additions and 1 deletion in 5 files</sub><br />
 
@@ -273,7 +276,7 @@
   <sub>[#192090](https://github.com/flutter/flutter/pull/192090) opened on on September 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192090) 168 additions and 35 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Use fences to synchronize frames between OpenGL contexts<br />
-  <sub>[#192098](https://github.com/flutter/flutter/pull/192098) opened on on September 1, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/192098) 535 additions and 10 deletions in 16 files</sub><br />
+  <sub>[#192098](https://github.com/flutter/flutter/pull/192098) opened on on September 1, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/192098) 539 additions and 10 deletions in 16 files</sub><br />
 
 * **[Soi (Jiwon Lee)](https://github.com/JIWON1923)** &mdash; [Windows] Fix Space input after Alt+Space with previous Microsoft IME<br />
   <sub>[#192105](https://github.com/flutter/flutter/pull/192105) opened on on September 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192105) 76 additions and 2 deletions in 2 files</sub><br />
@@ -299,9 +302,6 @@
 * **[seunggi](https://github.com/dfdgsdfg)** &mdash; [Impeller][GLES] Rebind textures before buffer uploads<br />
   <sub>[#192158](https://github.com/flutter/flutter/pull/192158) opened on on September 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192158) 11 additions and 1 deletion in 2 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Remove bringup for driver tests batch 2<br />
-  <sub>[#192174](https://github.com/flutter/flutter/pull/192174) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192174) 0 additions and 3 deletions in 1 file</sub><br />
-
 * **[Wu Shuwen](https://github.com/dajiaohuang)** &mdash; Fix type injection vulnerability in gen_l10n (fix #192130)<br />
   <sub>[#192176](https://github.com/flutter/flutter/pull/192176) opened on on September 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192176) 55 additions and 0 deletions in 1 file</sub><br />
 
@@ -311,9 +311,6 @@
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Expansible crash when PageStorage holds a non-bool value<br />
   <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192195) 65 additions and 2 deletions in 2 files</sub><br />
 
-* **[Andy Wolff](https://github.com/andywolff)** &mdash; Promote android_hardware_smoke_test instrumented shards out of bringup<br />
-  <sub>[#192197](https://github.com/flutter/flutter/pull/192197) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192197) 4 additions and 2 deletions in 1 file</sub><br />
-
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; [flutter_tools] Report when the browser disconnects during a web test run<br />
   <sub>[#192198](https://github.com/flutter/flutter/pull/192198) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192198) 150 additions and 1 deletion in 2 files</sub><br />
 
@@ -321,7 +318,7 @@
   <sub>[#192202](https://github.com/flutter/flutter/pull/192202) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192202) 101 additions and 24 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [uber_sdf] Started passing in pixel size instead of calculating it<br />
-  <sub>[#192204](https://github.com/flutter/flutter/pull/192204) opened on on September 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192204) 83 additions and 84 deletions in 5 files</sub><br />
+  <sub>[#192204](https://github.com/flutter/flutter/pull/192204) opened on on September 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192204) 79 additions and 84 deletions in 5 files</sub><br />
 
 * **[sneurlax](https://github.com/sneurlax)** &mdash; docs(tools): nit: say hook/build.dart in CMake native assets comment<br />
   <sub>[#192205](https://github.com/flutter/flutter/pull/192205) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192205) 23 additions and 23 deletions in 21 files</sub><br />
