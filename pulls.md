@@ -240,16 +240,16 @@
   <sub>[#191992](https://github.com/flutter/flutter/pull/191992) opened on on August 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191992) 346 additions and 109 deletions in 3 files</sub><br />
 
 * **[Emmanuel LEFEBVRE DIBON](https://github.com/zemanux)** &mdash; Add EdgeInsetsOverlay widget<br />
-  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/191998) 1673 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/191998) 1815 additions and 0 deletions in 3 files</sub><br />
 
 * **[Nikhil Kukreja](https://github.com/NikhilKukreja26)** &mdash; Document default value of ReorderableDragStartListener.enabled<br />
   <sub>[#192019](https://github.com/flutter/flutter/pull/192019) opened on on August 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192019) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove some `unawaited_futures` outdated ignores<br />
-  <sub>[#192026](https://github.com/flutter/flutter/pull/192026) opened on on August 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192026) 0 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#192026](https://github.com/flutter/flutter/pull/192026) opened on on August 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192026) 0 additions and 15 deletions in 3 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix some of `ignore: avoid_dynamic_calls`<br />
-  <sub>[#192028](https://github.com/flutter/flutter/pull/192028) opened on on August 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192028) 6 additions and 10 deletions in 1 file</sub><br />
+  <sub>[#192028](https://github.com/flutter/flutter/pull/192028) opened on on August 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192028) 6 additions and 10 deletions in 1 file</sub><br />
 
 * **[Lucas Wang](https://github.com/gn00295120)** &mdash; [flutter_tools] Bind web dev server to loopback by default and validate Host header<br />
   <sub>[#192049](https://github.com/flutter/flutter/pull/192049) opened on on August 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192049) 289 additions and 16 deletions in 5 files</sub><br />
@@ -318,11 +318,17 @@
   <sub>[#192205](https://github.com/flutter/flutter/pull/192205) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192205) 23 additions and 23 deletions in 21 files</sub><br />
 
 * **[Aleksandr P.](https://github.com/wratheus)** &mdash; Skip KGP version validation for AGP built-in Kotlin<br />
-  <sub>[#192206](https://github.com/flutter/flutter/pull/192206) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192206) 32 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#192206](https://github.com/flutter/flutter/pull/192206) opened on on September 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192206) 32 additions and 3 deletions in 2 files</sub><br />
 
 * **[criskell](https://github.com/criskell)** &mdash; Fix physical path leakage in dart_plugin_registrant URI<br />
   <sub>[#192218](https://github.com/flutter/flutter/pull/192218) opened on on September 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192218) 80 additions and 8 deletions in 2 files</sub><br />
 
 * **[xxparthparekhxx](https://github.com/xxparthparekhxx)** &mdash; [flutter_tools] Fix _TypeError in PreviewCodeGenerator for previews outside lib/<br />
   <sub>[#192222](https://github.com/flutter/flutter/pull/192222) opened on on September 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192222) 169 additions and 2 deletions in 3 files</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Allow to disable fake missing font styles<br />
+  <sub>[#192224](https://github.com/flutter/flutter/pull/192224) opened on on September 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192224) 67 additions and 5 deletions in 7 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace more enum instances comparison to use `equality ==` instead of `identical` and update related tests<br />
+  <sub>[#192229](https://github.com/flutter/flutter/pull/192229) opened on on September 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192229) 3 additions and 4 deletions in 2 files</sub><br />
 
