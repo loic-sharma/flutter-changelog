@@ -47,9 +47,6 @@
 * **[AnasQasem](https://github.com/AnasQasem)** &mdash; [Impeller] Render COLR/CPAL color text as vector paths<br />
   <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
 
-* **[Mark Turner](https://github.com/markst)** &mdash; Guide users when multiple Xcode projects are present<br />
-  <sub>[#188934](https://github.com/flutter/flutter/pull/188934) opened on on July 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/188934) 134 additions and 1 deletion in 4 files</sub><br />
-
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -129,7 +126,7 @@
   <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
 
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; Exclude local Swift package schemes from --flavor error message<br />
-  <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add itemExtentBuilder support to ListView.separated<br />
   <sub>[#191157](https://github.com/flutter/flutter/pull/191157) opened on on August 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191157) 45 additions and 1 deletion in 2 files</sub><br />
@@ -201,16 +198,13 @@
   <sub>[#191788](https://github.com/flutter/flutter/pull/191788) opened on on August 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191788) 5 additions and 5 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[tool_tests] Remove bringup from Windows tool_tests_commands_2_2" (#191732)<br />
-  <sub>[#191802](https://github.com/flutter/flutter/pull/191802) opened on on August 26, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/191802) 278 additions and 47 deletions in 10 files</sub><br />
+  <sub>[#191802](https://github.com/flutter/flutter/pull/191802) opened on on August 26, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/191802) 277 additions and 42 deletions in 10 files</sub><br />
 
 * **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Expose includeHash on usePathUrlStrategy()<br />
   <sub>[#191816](https://github.com/flutter/flutter/pull/191816) opened on on August 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191816) 36 additions and 3 deletions in 4 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Wait for first native frame displayed in android_engine_test<br />
   <sub>[#191823](https://github.com/flutter/flutter/pull/191823) opened on on August 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191823) 106 additions and 39 deletions in 27 files</sub><br />
-
-* **[edde746](https://github.com/edde746)** &mdash; macOS: Don't stall window resize on frames with no layers<br />
-  <sub>[#191862](https://github.com/flutter/flutter/pull/191862) opened on on August 27, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191862) 275 additions and 43 deletions in 8 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle Windows reserved characters in test target path<br />
   <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
@@ -290,7 +284,7 @@
 * **[sneurlax](https://github.com/sneurlax)** &mdash; docs(tools): nit: say hook/build.dart in CMake native assets comment<br />
   <sub>[#192205](https://github.com/flutter/flutter/pull/192205) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192205) 23 additions and 23 deletions in 21 files</sub><br />
 
-* **[Aleksandr P.](https://github.com/wratheus)** &mdash; Skip KGP version validation for AGP built-in Kotlin<br />
+* **[Aleksandr Pavlenko](https://github.com/wratheus)** &mdash; Skip KGP version validation for AGP built-in Kotlin<br />
   <sub>[#192206](https://github.com/flutter/flutter/pull/192206) opened on on September 2, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/192206) 37 additions and 3 deletions in 2 files</sub><br />
 
 * **[criskell](https://github.com/criskell)** &mdash; Fix physical path leakage in dart_plugin_registrant URI<br />
@@ -315,11 +309,20 @@
   <sub>[#192247](https://github.com/flutter/flutter/pull/192247) opened on on September 3, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192247) 3526 additions and 2673 deletions in 26 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate BuildIOSCommand and BuildIOSArchiveCommand to modular dependency injection<br />
-  <sub>[#192250](https://github.com/flutter/flutter/pull/192250) opened on on September 3, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/192250) 879 additions and 2083 deletions in 29 files</sub><br />
+  <sub>[#192250](https://github.com/flutter/flutter/pull/192250) opened on on September 3, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/192250) 2389 additions and 4315 deletions in 30 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate BuildMacosCommand to modular dependency injection<br />
   <sub>[#192251](https://github.com/flutter/flutter/pull/192251) opened on on September 3, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/192251) 980 additions and 2131 deletions in 30 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Report preview reload timing analytics in LspPreviewDetector<br />
   <sub>[#192256](https://github.com/flutter/flutter/pull/192256) opened on on September 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192256) 285 additions and 1 deletion in 2 files</sub><br />
+
+* **[Christoph Deil](https://github.com/cdeil)** &mdash; [flutter_tools] Include flutter.js.map in web builds<br />
+  <sub>[#192257](https://github.com/flutter/flutter/pull/192257) opened on on September 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192257) 31 additions and 8 deletions in 2 files</sub><br />
+
+* **[Sayed Mahmood Sayedi](https://github.com/sm-sayedi)** &mdash; Avoid unnecessary keyboard opening and scrolling on popping a route<br />
+  <sub>[#192260](https://github.com/flutter/flutter/pull/192260) opened on on September 3, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192260) 1432 additions and 77 deletions in 32 files</sub><br />
+
+* **[Natan Dworok](https://github.com/dworik)** &mdash; [flutter_tools] Add --flavor to flutter attach<br />
+  <sub>[#192262](https://github.com/flutter/flutter/pull/192262) opened on on September 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192262) 49 additions and 0 deletions in 2 files</sub><br />
 
