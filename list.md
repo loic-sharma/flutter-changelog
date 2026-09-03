@@ -63,7 +63,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fixes OverlayPortal semantics bounds corruption
-  <sub>[#192139](https://github.com/flutter/flutter/pull/192139) merged on September 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192139) over 1 day, 18 additions and 8 deletions in 2 files</sub>
+  <sub>[#192139](https://github.com/flutter/flutter/pull/192139) merged on September 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192139) over 1 day, 18 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Replace Shell::WaitForFirstFrame with an asynchronous API that matches the Shell threading model
@@ -1006,7 +1006,7 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Brian Egan](https://github.com/brianegan)** &mdash; [go_router_builder] Report duplicate route paths at build time
-  <sub>[#12399](https://github.com/flutter/packages/pull/12399) merged on September 2, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/packages/pull/12399) over 3 weeks, 1290 additions and 43 deletions in 57 files</sub>
+  <sub>[#12399](https://github.com/flutter/packages/pull/12399) merged on September 2, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/packages/pull/12399) over 3 weeks, 1290 additions and 43 deletions in 57 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [material_ui, cupertino_ui, go_router] Command to test dart fixes
