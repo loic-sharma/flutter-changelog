@@ -125,6 +125,9 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Prevent platform views from stealing text input focus from TextFields<br />
   <sub>[#191080](https://github.com/flutter/flutter/pull/191080) opened on on August 13, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/191080) 207 additions and 7 deletions in 9 files</sub><br />
 
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix square corner issue<br />
+  <sub>[#191096](https://github.com/flutter/flutter/pull/191096) opened on on August 14, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/191096) 356 additions and 28 deletions in 10 files</sub><br />
+
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; Exclude local Swift package schemes from --flavor error message<br />
   <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
 
@@ -278,9 +281,6 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; [flutter_tools] Report when the browser disconnects during a web test run<br />
   <sub>[#192198](https://github.com/flutter/flutter/pull/192198) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192198) 150 additions and 1 deletion in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [uber_sdf] Started passing in pixel size instead of using derivatives<br />
-  <sub>[#192204](https://github.com/flutter/flutter/pull/192204) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192204) 131 additions and 101 deletions in 5 files</sub><br />
-
 * **[sneurlax](https://github.com/sneurlax)** &mdash; docs(tools): nit: say hook/build.dart in CMake native assets comment<br />
   <sub>[#192205](https://github.com/flutter/flutter/pull/192205) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192205) 23 additions and 23 deletions in 21 files</sub><br />
 
@@ -325,4 +325,10 @@
 
 * **[Natan Dworok](https://github.com/dworik)** &mdash; [flutter_tools] Add --flavor to flutter attach<br />
   <sub>[#192262](https://github.com/flutter/flutter/pull/192262) opened on on September 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192262) 49 additions and 0 deletions in 2 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Avoids release mode crash due to incorrect use of ParentData<br />
+  <sub>[#192264](https://github.com/flutter/flutter/pull/192264) opened on on September 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192264) 108 additions and 27 deletions in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; uber_sdf: removes derivatives from rect path<br />
+  <sub>[#192267](https://github.com/flutter/flutter/pull/192267) opened on on September 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192267) 100 additions and 81 deletions in 5 files</sub><br />
 
