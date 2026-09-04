@@ -300,7 +300,7 @@
   <sub>[#192238](https://github.com/flutter/flutter/pull/192238) opened on on September 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192238) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Evict removed/renamed assets from the asset bundle and running app on hot restart<br />
-  <sub>[#192243](https://github.com/flutter/flutter/pull/192243) opened on on September 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192243) 277 additions and 9 deletions in 6 files</sub><br />
+  <sub>[#192243](https://github.com/flutter/flutter/pull/192243) opened on on September 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192243) 279 additions and 9 deletions in 6 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate BuildAarCommand to modular dependency injection<br />
   <sub>[#192247](https://github.com/flutter/flutter/pull/192247) opened on on September 3, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192247) 3526 additions and 2673 deletions in 26 files</sub><br />
@@ -332,9 +332,6 @@
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Add `--[no-]web-browser-default-flags` for Chrome launch<br />
   <sub>[#192270](https://github.com/flutter/flutter/pull/192270) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192270) 180 additions and 38 deletions in 6 files</sub><br />
 
-* **[Manindra Babu](https://github.com/Manindra-babu)** &mdash; docs: add contribution guide for flutter/flutter<br />
-  <sub>[#192273](https://github.com/flutter/flutter/pull/192273) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192273) 17 additions and 0 deletions in 1 file</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Cancel input when events stop being delivered<br />
   <sub>[#192277](https://github.com/flutter/flutter/pull/192277) opened on on September 4, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/192277) 549 additions and 29 deletions in 9 files</sub><br />
 
@@ -342,5 +339,8 @@
   <sub>[#192280](https://github.com/flutter/flutter/pull/192280) opened on on September 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192280) 0 additions and 12 deletions in 2 files</sub><br />
 
 * **[Mark Xian](https://github.com/xianjianlf2)** &mdash; [Android] Replay predictive back state for retained engines<br />
-  <sub>[#192286](https://github.com/flutter/flutter/pull/192286) opened on on September 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192286) 75 additions and 9 deletions in 4 files</sub><br />
+  <sub>[#192286](https://github.com/flutter/flutter/pull/192286) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192286) 75 additions and 9 deletions in 4 files</sub><br />
+
+* **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fix LiveTestWidgetsFlutterBinding dropping synthetic pointer cancels for test-sourced pointers<br />
+  <sub>[#192289](https://github.com/flutter/flutter/pull/192289) opened on on September 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192289) 72 additions and 0 deletions in 2 files</sub><br />
 
