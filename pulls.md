@@ -197,9 +197,6 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update more enum instances comparison to use equality == since dart has the correct behavior now<br />
   <sub>[#191788](https://github.com/flutter/flutter/pull/191788) opened on on August 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191788) 5 additions and 5 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[tool_tests] Remove bringup from Windows tool_tests_commands_2_2" (#191732)<br />
-  <sub>[#191802](https://github.com/flutter/flutter/pull/191802) opened on on August 26, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/191802) 277 additions and 42 deletions in 10 files</sub><br />
-
 * **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Expose includeHash on usePathUrlStrategy()<br />
   <sub>[#191816](https://github.com/flutter/flutter/pull/191816) opened on on August 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191816) 36 additions and 3 deletions in 4 files</sub><br />
 
@@ -321,10 +318,10 @@
   <sub>[#192262](https://github.com/flutter/flutter/pull/192262) opened on on September 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192262) 49 additions and 0 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Avoids release mode crash due to incorrect use of ParentData<br />
-  <sub>[#192264](https://github.com/flutter/flutter/pull/192264) opened on on September 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192264) 108 additions and 27 deletions in 2 files</sub><br />
+  <sub>[#192264](https://github.com/flutter/flutter/pull/192264) opened on on September 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192264) 141 additions and 22 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; uber_sdf: removes derivatives from rect path<br />
-  <sub>[#192267](https://github.com/flutter/flutter/pull/192267) opened on on September 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192267) 104 additions and 81 deletions in 5 files</sub><br />
+  <sub>[#192267](https://github.com/flutter/flutter/pull/192267) opened on on September 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192267) 104 additions and 81 deletions in 5 files</sub><br />
 
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Add `--[no-]web-browser-default-flags` for Chrome launch<br />
   <sub>[#192270](https://github.com/flutter/flutter/pull/192270) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192270) 180 additions and 38 deletions in 6 files</sub><br />
@@ -349,4 +346,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-stable] Collect analytics about SwiftPM errors and warnings (#191746)<br />
   <sub>[#192303](https://github.com/flutter/flutter/pull/192303) opened on on September 4, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/192303) 1712 additions and 71 deletions in 11 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor createDebuggingOptions and option registrations to OptionDescriptor<br />
+  <sub>[#192307](https://github.com/flutter/flutter/pull/192307) opened on on September 4, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/192307) 742 additions and 632 deletions in 7 files</sub><br />
 
