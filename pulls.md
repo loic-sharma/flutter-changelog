@@ -332,3 +332,6 @@
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add TextOverflow.ellipsisStart and TextOverflow.ellipsisMiddle<br />
   <sub>[#192337](https://github.com/flutter/flutter/pull/192337) opened on on September 5, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192337) 1418 additions and 21 deletions in 8 files</sub><br />
 
+* **[Seismor](https://github.com/seismor-com)** &mdash; Linux high refresh rate<br />
+  <sub>[#192342](https://github.com/flutter/flutter/pull/192342) opened on on September 5, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/192342) 380 additions and 5 deletions in 12 files</sub><br />
+
