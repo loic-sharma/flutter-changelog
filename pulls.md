@@ -123,7 +123,7 @@
   <sub>[#191096](https://github.com/flutter/flutter/pull/191096) opened on on August 14, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/191096) 356 additions and 28 deletions in 10 files</sub><br />
 
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; Exclude local Swift package schemes from --flavor error message<br />
-  <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add itemExtentBuilder support to ListView.separated<br />
   <sub>[#191157](https://github.com/flutter/flutter/pull/191157) opened on on August 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191157) 45 additions and 1 deletion in 2 files</sub><br />
