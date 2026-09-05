@@ -329,3 +329,6 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Stop iOS auto-zoom by sizing semantic inputs at 16px<br />
   <sub>[#192328](https://github.com/flutter/flutter/pull/192328) opened on on September 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192328) 59 additions and 0 deletions in 2 files</sub><br />
 
+* **[Anas Saifi](https://github.com/anazr9)** &mdash; Add TextOverflow.ellipsisStart and TextOverflow.ellipsisMiddle<br />
+  <sub>[#192337](https://github.com/flutter/flutter/pull/192337) opened on on September 5, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192337) 1418 additions and 21 deletions in 8 files</sub><br />
+
