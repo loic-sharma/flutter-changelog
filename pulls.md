@@ -90,7 +90,7 @@
   <sub>[#190781](https://github.com/flutter/flutter/pull/190781) opened on on August 8, 2026 &mdash; **Large:** [38 comments](https://github.com/flutter/flutter/pull/190781) 568 additions and 838 deletions in 16 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Web build subcommands and toolchain to modular dependency injection<br />
-  <sub>[#190783](https://github.com/flutter/flutter/pull/190783) opened on on August 8, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/190783) 1549 additions and 1665 deletions in 13 files</sub><br />
+  <sub>[#190783](https://github.com/flutter/flutter/pull/190783) opened on on August 8, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/190783) 1563 additions and 1665 deletions in 13 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CreateCommand to modular dependency injection<br />
   <sub>[#190785](https://github.com/flutter/flutter/pull/190785) opened on on August 8, 2026 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/190785) 609 additions and 450 deletions in 11 files</sub><br />
@@ -285,7 +285,7 @@
   <sub>[#192233](https://github.com/flutter/flutter/pull/192233) opened on on September 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192233) 37 additions and 3 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Re-add Xcode and OpenJDK dependencies to macOS wasm local_engine builders<br />
-  <sub>[#192238](https://github.com/flutter/flutter/pull/192238) opened on on September 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192238) 16 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#192238](https://github.com/flutter/flutter/pull/192238) opened on on September 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192238) 14 additions and 2 deletions in 1 file</sub><br />
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Evict removed/renamed assets from the asset bundle and running app on hot restart<br />
   <sub>[#192243](https://github.com/flutter/flutter/pull/192243) opened on on September 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192243) 279 additions and 9 deletions in 6 files</sub><br />
@@ -303,7 +303,7 @@
   <sub>[#192262](https://github.com/flutter/flutter/pull/192262) opened on on September 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192262) 49 additions and 0 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; uber_sdf: removes derivatives from rect path<br />
-  <sub>[#192267](https://github.com/flutter/flutter/pull/192267) opened on on September 3, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/192267) 207 additions and 91 deletions in 10 files</sub><br />
+  <sub>[#192267](https://github.com/flutter/flutter/pull/192267) opened on on September 3, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/192267) 223 additions and 93 deletions in 11 files</sub><br />
 
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Add `--[no-]web-browser-default-flags` for Chrome launch<br />
   <sub>[#192270](https://github.com/flutter/flutter/pull/192270) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192270) 180 additions and 38 deletions in 6 files</sub><br />
@@ -331,4 +331,7 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-stable] Collect analytics about SwiftPM errors and warnings (#191746)<br />
   <sub>[#192303](https://github.com/flutter/flutter/pull/192303) opened on on September 4, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/192303) 1712 additions and 71 deletions in 11 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Stop iOS auto-zoom by sizing semantic inputs at 16px<br />
+  <sub>[#192328](https://github.com/flutter/flutter/pull/192328) opened on on September 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192328) 59 additions and 0 deletions in 2 files</sub><br />
 
