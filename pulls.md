@@ -335,6 +335,3 @@
 * **[Seismor](https://github.com/seismor-com)** &mdash; Linux high refresh rate<br />
   <sub>[#192342](https://github.com/flutter/flutter/pull/192342) opened on on September 5, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/192342) 380 additions and 5 deletions in 12 files</sub><br />
 
-* **[network06](https://github.com/network06)** &mdash; test: bypass merged check for PoC injection<br />
-  <sub>[#192352](https://github.com/flutter/flutter/pull/192352) opened on on September 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192352) 3 additions and 4 deletions in 1 file</sub><br />
-
