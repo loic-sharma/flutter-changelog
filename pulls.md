@@ -125,9 +125,6 @@
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; Exclude local Swift package schemes from --flavor error message<br />
   <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Add itemExtentBuilder support to ListView.separated<br />
-  <sub>[#191157](https://github.com/flutter/flutter/pull/191157) opened on on August 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191157) 45 additions and 1 deletion in 2 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191220) 129 additions and 56 deletions in 2 files</sub><br />
 
@@ -198,7 +195,7 @@
   <sub>[#191823](https://github.com/flutter/flutter/pull/191823) opened on on August 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191823) 106 additions and 39 deletions in 27 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle Windows reserved characters in test target path<br />
-  <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[serhii-k](https://github.com/serhii-k)** &mdash; [native assets] Bump minimum iOS version from 13 to 15<br />
   <sub>[#191964](https://github.com/flutter/flutter/pull/191964) opened on on August 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191964) 2 additions and 2 deletions in 2 files</sub><br />
@@ -237,7 +234,7 @@
   <sub>[#192074](https://github.com/flutter/flutter/pull/192074) opened on on August 31, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192074) 49 additions and 1 deletion in 2 files</sub><br />
 
 * **[Soi (Jiwon Lee)](https://github.com/JIWON1923)** &mdash; [Windows] Fix Space input after Alt+Space with previous Microsoft IME<br />
-  <sub>[#192105](https://github.com/flutter/flutter/pull/192105) opened on on September 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192105) 76 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#192105](https://github.com/flutter/flutter/pull/192105) opened on on September 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192105) 76 additions and 2 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Don't clear the OpenGL context when a frame has been drawn<br />
   <sub>[#192137](https://github.com/flutter/flutter/pull/192137) opened on on September 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192137) 9 additions and 4 deletions in 1 file</sub><br />
@@ -300,7 +297,7 @@
   <sub>[#192270](https://github.com/flutter/flutter/pull/192270) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192270) 180 additions and 38 deletions in 6 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Cancel input when events stop being delivered<br />
-  <sub>[#192277](https://github.com/flutter/flutter/pull/192277) opened on on September 4, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192277) 558 additions and 34 deletions in 9 files</sub><br />
+  <sub>[#192277](https://github.com/flutter/flutter/pull/192277) opened on on September 4, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/192277) 558 additions and 34 deletions in 9 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from gen_defaults_test<br />
   <sub>[#192280](https://github.com/flutter/flutter/pull/192280) opened on on September 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192280) 0 additions and 12 deletions in 2 files</sub><br />
@@ -336,14 +333,17 @@
   <sub>[#192354](https://github.com/flutter/flutter/pull/192354) opened on on September 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192354) 40 additions and 4 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Add window rendering and drag controls<br />
-  <sub>[#192356](https://github.com/flutter/flutter/pull/192356) opened on on September 7, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192356) 267 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#192356](https://github.com/flutter/flutter/pull/192356) opened on on September 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/192356) 267 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [tool] Let --local-engine reach the build system again<br />
-  <sub>[#192361](https://github.com/flutter/flutter/pull/192361) opened on on September 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192361) 194 additions and 8 deletions in 5 files</sub><br />
+  <sub>[#192361](https://github.com/flutter/flutter/pull/192361) opened on on September 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/192361) 194 additions and 8 deletions in 5 files</sub><br />
 
 * **[Jake Thomson](https://github.com/JakeThomson)** &mdash; [iOS] Hide the iOS 26 scroll-edge effect on the embedder's helper scrollviews<br />
   <sub>[#192374](https://github.com/flutter/flutter/pull/192374) opened on on September 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192374) 50 additions and 0 deletions in 4 files</sub><br />
 
 * **[diandiandia](https://github.com/diandiandia)** &mdash; Bound decoded image allocations in the Skia image generators<br />
   <sub>[#192375](https://github.com/flutter/flutter/pull/192375) opened on on September 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192375) 193 additions and 0 deletions in 4 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Account for canvas scale in WebParagraph rendering<br />
+  <sub>[#192387](https://github.com/flutter/flutter/pull/192387) opened on on September 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192387) 99 additions and 16 deletions in 3 files</sub><br />
 

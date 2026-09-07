@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### September 5, 2026 to September 11, 2026
+
+1 commits.
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Add itemExtentBuilder support to ListView.separated<br />
+  <sub>[#191157](https://github.com/flutter/flutter/pull/191157) merged on September 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191157) over 3 weeks, 45 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 ### August 29, 2026 to September 4, 2026
 
-71 commits.
+<details>
+<summary>71 commits...</summary>
 
 * **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImageTransition.fadeInOver to fade the image in over the placeholder<br />
   <sub>[#186246](https://github.com/flutter/flutter/pull/186246) merged on September 2, 2026 &mdash; **Large:** [76 comments](https://github.com/flutter/flutter/pull/186246) over 3 months, 788 additions and 44 deletions in 4 files</sub><br />
@@ -290,6 +299,8 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[tool_tests] Remove bringup from Windows tool_tests_commands_2_2" (#191732)<br />
   <sub>[#191802](https://github.com/flutter/flutter/pull/191802) merged on September 4, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/191802) over 1 week, 277 additions and 42 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+</details>
 
 ### August 22, 2026 to August 28, 2026
 
@@ -715,9 +726,18 @@
 
 ## flutter/packages
 
+### September 5, 2026 to September 11, 2026
+
+1 commits.
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; [material_ui] Fix SliverGeometry maxPaintExtent assertion in CarouselView.weighted<br />
+  <sub>[#12563](https://github.com/flutter/packages/pull/12563) merged on September 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12563) over 2 weeks, 37 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 ### August 29, 2026 to September 4, 2026
 
-33 commits.
+<details>
+<summary>33 commits...</summary>
 
 * **[Ashutosh Agarwal](https://github.com/ashutosh2014)** &mdash; [image_picker] Fix android-16 not picking up file<br />
   <sub>[#11320](https://github.com/flutter/packages/pull/11320) merged on September 3, 2026 &mdash; **Small:** [42 comments](https://github.com/flutter/packages/pull/11320) over 5 months, 76 additions and 12 deletions in 7 files</sub><br />
@@ -850,6 +870,8 @@
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [tool] Exempt AGENTS.md from version and changelog checks<br />
   <sub>[#12681](https://github.com/flutter/packages/pull/12681) merged on August 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12681) over 2 days, 39 additions and 1 deletion in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+</details>
 
 ### August 22, 2026 to August 28, 2026
 
