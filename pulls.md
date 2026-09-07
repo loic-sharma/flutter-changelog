@@ -303,7 +303,7 @@
   <sub>[#192270](https://github.com/flutter/flutter/pull/192270) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192270) 180 additions and 38 deletions in 6 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Cancel input when events stop being delivered<br />
-  <sub>[#192277](https://github.com/flutter/flutter/pull/192277) opened on on September 4, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/192277) 549 additions and 29 deletions in 9 files</sub><br />
+  <sub>[#192277](https://github.com/flutter/flutter/pull/192277) opened on on September 4, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192277) 558 additions and 34 deletions in 9 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from gen_defaults_test<br />
   <sub>[#192280](https://github.com/flutter/flutter/pull/192280) opened on on September 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192280) 0 additions and 12 deletions in 2 files</sub><br />
@@ -334,4 +334,13 @@
 
 * **[Seismor](https://github.com/seismor-com)** &mdash; Linux high refresh rate<br />
   <sub>[#192342](https://github.com/flutter/flutter/pull/192342) opened on on September 5, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/192342) 380 additions and 5 deletions in 12 files</sub><br />
+
+* **[Yuta Hisazumi](https://github.com/yhisazumi)** &mdash; [web] Preserve image element pixels for retained pictures<br />
+  <sub>[#192354](https://github.com/flutter/flutter/pull/192354) opened on on September 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192354) 40 additions and 4 deletions in 2 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Add window rendering and drag controls<br />
+  <sub>[#192356](https://github.com/flutter/flutter/pull/192356) opened on on September 7, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192356) 267 additions and 0 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [tool] Let --local-engine reach the build system again<br />
+  <sub>[#192361](https://github.com/flutter/flutter/pull/192361) opened on on September 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192361) 194 additions and 8 deletions in 5 files</sub><br />
 
