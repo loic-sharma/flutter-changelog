@@ -4,19 +4,27 @@
 
 ### September 5, 2026 to September 11, 2026
 
-6 commits.
+8 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add itemExtentBuilder support to ListView.separated
   <sub>[#191157](https://github.com/flutter/flutter/pull/191157) merged on September 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191157) over 3 weeks, 45 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [tool] Let --local-engine reach the build system again
+  <sub>[#192361](https://github.com/flutter/flutter/pull/192361) merged on September 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/192361) over 1 day, 194 additions and 8 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle tag from dropdown_test.dart
+  <sub>[#186398](https://github.com/flutter/flutter/pull/186398) merged on September 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186398) over 3 months, 28 additions and 35 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from scrollbar test
   <sub>[#186656](https://github.com/flutter/flutter/pull/186656) merged on September 8, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/186656) over 3 months, 187 additions and 195 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [tool] Let --local-engine reach the build system again
-  <sub>[#192361](https://github.com/flutter/flutter/pull/192361) merged on September 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/192361) over 1 day, 194 additions and 8 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Matthew Kosarek](https://github.com/mattkae)</sub>
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Clean up lint errors in workflows
+  <sub>[#191987](https://github.com/flutter/flutter/pull/191987) merged on September 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191987) over 1 week, 49 additions and 45 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; ci: update dartdoc from 9.0.6 to 9.0.9
   <sub>[#192405](https://github.com/flutter/flutter/pull/192405) merged on September 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192405) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -748,7 +756,11 @@
 
 ### September 5, 2026 to September 11, 2026
 
-1 commits.
+2 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Adopt `platform` 3.2.0
+  <sub>[#12789](https://github.com/flutter/packages/pull/12789) merged on September 8, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/12789) over 47 minutes, 1228 additions and 1097 deletions in 42 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [material_ui] Fix SliverGeometry maxPaintExtent assertion in CarouselView.weighted
   <sub>[#12563](https://github.com/flutter/packages/pull/12563) merged on September 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12563) over 2 weeks, 37 additions and 0 deletions in 3 files</sub>
@@ -1056,11 +1068,15 @@
 
 ### September 5, 2026 to September 11, 2026
 
-2 commits.
+3 commits.
 
 * **[Dominik Roszkowski](https://github.com/orestesgaolin)** &mdash; Update mermaid_core to 0.3.0
   <sub>[#13863](https://github.com/flutter/website/pull/13863) merged on September 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13863) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Natesh Bhat](https://github.com/nateshmbhat)** &mdash; Add go link for the video_player web Shaka Player design doc
+  <sub>[#13862](https://github.com/flutter/website/pull/13862) merged on September 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13862) over 9 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jess K](https://github.com/jesskuras)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Remove built-in Kotlin workaround for plugin authors
   <sub>[#13857](https://github.com/flutter/website/pull/13857) merged on September 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13857) over 4 days, 8 additions and 195 deletions in 1 file</sub>
