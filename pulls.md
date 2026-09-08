@@ -9,7 +9,7 @@
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
 
 * **[Dmitry Grand (dmgr)](https://github.com/ievdokdm)** &mdash; testing unified check-run<br />
-  <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/181051) 7 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#181051](https://github.com/flutter/flutter/pull/181051) opened on on January 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/181051) 7 additions and 1 deletion in 3 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [web] Enable address bar collapse on mobile by switching touch input<br />
   <sub>[#184281](https://github.com/flutter/flutter/pull/184281) opened on on March 28, 2026 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/184281) 774 additions and 17 deletions in 7 files</sub><br />
@@ -134,9 +134,6 @@
 * **[holzgeist](https://github.com/holzgeist)** &mdash; chore: correct copy paste error in test name<br />
   <sub>[#191342](https://github.com/flutter/flutter/pull/191342) opened on on August 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191342) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Launch macOS apps via open in debug/profile to prevent permission crashes<br />
-  <sub>[#191357](https://github.com/flutter/flutter/pull/191357) opened on on August 19, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/191357) 714 additions and 105 deletions in 4 files</sub><br />
-
 * **[sazzadhossainemon06-droid](https://github.com/sazzadhossainemon06-droid)** &mdash; Update CONTRIBUTING.md<br />
   <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />
 
@@ -151,6 +148,9 @@
 
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Add Abdelrahman Saed to AUTHORS<br />
   <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Restrict mDNS discovery to macOS and trace socket errors<br />
+  <sub>[#191440](https://github.com/flutter/flutter/pull/191440) opened on on August 20, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191440) 409 additions and 253 deletions in 9 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Report web unit and widget test results to LUCI ResultDB<br />
   <sub>[#191459](https://github.com/flutter/flutter/pull/191459) opened on on August 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191459) 8 additions and 0 deletions in 1 file</sub><br />
@@ -195,7 +195,7 @@
   <sub>[#191823](https://github.com/flutter/flutter/pull/191823) opened on on August 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191823) 106 additions and 39 deletions in 27 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle Windows reserved characters in test target path<br />
-  <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[serhii-k](https://github.com/serhii-k)** &mdash; [native assets] Bump minimum iOS version from 13 to 15<br />
   <sub>[#191964](https://github.com/flutter/flutter/pull/191964) opened on on August 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191964) 2 additions and 2 deletions in 2 files</sub><br />
@@ -245,9 +245,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Make the framebuffer depth/stencil buffer optional<br />
   <sub>[#192156](https://github.com/flutter/flutter/pull/192156) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192156) 107 additions and 40 deletions in 7 files</sub><br />
 
-* **[Wu Shuwen](https://github.com/dajiaohuang)** &mdash; Fix type injection vulnerability in gen_l10n (fix #192130)<br />
-  <sub>[#192176](https://github.com/flutter/flutter/pull/192176) opened on on September 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192176) 55 additions and 0 deletions in 1 file</sub><br />
-
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Expansible crash when PageStorage holds a non-bool value<br />
   <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192195) 65 additions and 2 deletions in 2 files</sub><br />
 
@@ -285,7 +282,7 @@
   <sub>[#192262](https://github.com/flutter/flutter/pull/192262) opened on on September 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192262) 49 additions and 0 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; uber_sdf: removes derivatives from rect path<br />
-  <sub>[#192267](https://github.com/flutter/flutter/pull/192267) opened on on September 3, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/192267) 223 additions and 93 deletions in 11 files</sub><br />
+  <sub>[#192267](https://github.com/flutter/flutter/pull/192267) opened on on September 3, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/192267) 223 additions and 93 deletions in 11 files</sub><br />
 
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Add `--[no-]web-browser-default-flags` for Chrome launch<br />
   <sub>[#192270](https://github.com/flutter/flutter/pull/192270) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192270) 180 additions and 38 deletions in 6 files</sub><br />
@@ -321,7 +318,7 @@
   <sub>[#192337](https://github.com/flutter/flutter/pull/192337) opened on on September 5, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192337) 1418 additions and 21 deletions in 8 files</sub><br />
 
 * **[Seismor](https://github.com/seismor-com)** &mdash; Linux high refresh rate<br />
-  <sub>[#192342](https://github.com/flutter/flutter/pull/192342) opened on on September 5, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/192342) 380 additions and 5 deletions in 12 files</sub><br />
+  <sub>[#192342](https://github.com/flutter/flutter/pull/192342) opened on on September 5, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192342) 422 additions and 5 deletions in 12 files</sub><br />
 
 * **[Yuta Hisazumi](https://github.com/yhisazumi)** &mdash; [web] Preserve image element pixels for retained pictures<br />
   <sub>[#192354](https://github.com/flutter/flutter/pull/192354) opened on on September 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192354) 40 additions and 4 deletions in 2 files</sub><br />
@@ -336,11 +333,26 @@
   <sub>[#192375](https://github.com/flutter/flutter/pull/192375) opened on on September 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192375) 193 additions and 0 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Account for canvas scale in WebParagraph rendering<br />
-  <sub>[#192387](https://github.com/flutter/flutter/pull/192387) opened on on September 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192387) 99 additions and 16 deletions in 3 files</sub><br />
+  <sub>[#192387](https://github.com/flutter/flutter/pull/192387) opened on on September 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192387) 106 additions and 24 deletions in 3 files</sub><br />
 
 * **[Dmitrii Zolotov](https://github.com/dzolotov)** &mdash; [Flutter GPU] Reuse HostBuffer blocks after a block boundary, and view only the write<br />
   <sub>[#192398](https://github.com/flutter/flutter/pull/192398) opened on on September 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192398) 47 additions and 3 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Keep the frame at the top of a resizing subsurface<br />
   <sub>[#192408](https://github.com/flutter/flutter/pull/192408) opened on on September 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192408) 177 additions and 7 deletions in 4 files</sub><br />
+
+* **[Haoze](https://github.com/nishchala-tattvam)** &mdash; fix: trivial typo<br />
+  <sub>[#192427](https://github.com/flutter/flutter/pull/192427) opened on on September 8, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192427) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Gracefully handle EROFS and write-protected file system errors<br />
+  <sub>[#192431](https://github.com/flutter/flutter/pull/192431) opened on on September 8, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/192431) 184 additions and 10 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Detect macOS TCC permission crashes and provide diagnostic guidance<br />
+  <sub>[#192432](https://github.com/flutter/flutter/pull/192432) opened on on September 8, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192432) 369 additions and 3 deletions in 5 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] validate placeholder type in gen-l10n<br />
+  <sub>[#192434](https://github.com/flutter/flutter/pull/192434) opened on on September 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192434) 87 additions and 3 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Avoid stale mDNS cache across queries in MDnsVmServiceDiscovery<br />
+  <sub>[#192437](https://github.com/flutter/flutter/pull/192437) opened on on September 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192437) 75 additions and 5 deletions in 2 files</sub><br />
 

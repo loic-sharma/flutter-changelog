@@ -4,15 +4,27 @@
 
 ### September 5, 2026 to September 11, 2026
 
-3 commits.
+6 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Add itemExtentBuilder support to ListView.separated
   <sub>[#191157](https://github.com/flutter/flutter/pull/191157) merged on September 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191157) over 3 weeks, 45 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from scrollbar test
+  <sub>[#186656](https://github.com/flutter/flutter/pull/186656) merged on September 8, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/186656) over 3 months, 187 additions and 195 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [tool] Let --local-engine reach the build system again
+  <sub>[#192361](https://github.com/flutter/flutter/pull/192361) merged on September 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/192361) over 1 day, 194 additions and 8 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; ci: update dartdoc from 9.0.6 to 9.0.9
   <sub>[#192405](https://github.com/flutter/flutter/pull/192405) merged on September 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192405) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Safely remove web loading indicator on dart-app-ready
+  <sub>[#192233](https://github.com/flutter/flutter/pull/192233) merged on September 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192233) over 4 days, 37 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Don't clear the OpenGL context when a frame has been drawn
   <sub>[#192137](https://github.com/flutter/flutter/pull/192137) merged on September 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192137) over 6 days, 9 additions and 4 deletions in 1 file</sub>
@@ -1042,9 +1054,22 @@
 
 ## flutter/website
 
+### September 5, 2026 to September 11, 2026
+
+2 commits.
+
+* **[Dominik Roszkowski](https://github.com/orestesgaolin)** &mdash; Update mermaid_core to 0.3.0
+  <sub>[#13863](https://github.com/flutter/website/pull/13863) merged on September 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13863) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Remove built-in Kotlin workaround for plugin authors
+  <sub>[#13857](https://github.com/flutter/website/pull/13857) merged on September 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13857) over 4 days, 8 additions and 195 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 ### August 29, 2026 to September 4, 2026
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add an "ide" component
   <sub>[#13708](https://github.com/flutter/website/pull/13708) merged on September 1, 2026 &mdash; **Extra large:** [54 comments](https://github.com/flutter/website/pull/13708) over 2 weeks, 1601 additions and 0 deletions in 7 files</sub>
@@ -1123,6 +1148,8 @@
 * **[Jess K](https://github.com/jesskuras)** &mdash; Fix inline feedback analytics event name
   <sub>[#13849](https://github.com/flutter/website/pull/13849) merged on September 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13849) over 33 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### August 22, 2026 to August 28, 2026
 
