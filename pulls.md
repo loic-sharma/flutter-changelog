@@ -335,9 +335,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Add window rendering and drag controls<br />
   <sub>[#192356](https://github.com/flutter/flutter/pull/192356) opened on on September 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/192356) 267 additions and 0 deletions in 1 file</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [tool] Let --local-engine reach the build system again<br />
-  <sub>[#192361](https://github.com/flutter/flutter/pull/192361) opened on on September 7, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/192361) 194 additions and 8 deletions in 5 files</sub><br />
-
 * **[Jake Thomson](https://github.com/JakeThomson)** &mdash; [iOS] Hide the iOS 26 scroll-edge effect on the embedder's helper scrollviews<br />
   <sub>[#192374](https://github.com/flutter/flutter/pull/192374) opened on on September 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192374) 50 additions and 0 deletions in 4 files</sub><br />
 
