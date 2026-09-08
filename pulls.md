@@ -249,7 +249,7 @@
   <sub>[#192149](https://github.com/flutter/flutter/pull/192149) opened on on September 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192149) 6 additions and 7 deletions in 4 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Make the framebuffer depth/stencil buffer optional<br />
-  <sub>[#192156](https://github.com/flutter/flutter/pull/192156) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192156) 82 additions and 47 deletions in 7 files</sub><br />
+  <sub>[#192156](https://github.com/flutter/flutter/pull/192156) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192156) 107 additions and 40 deletions in 7 files</sub><br />
 
 * **[Wu Shuwen](https://github.com/dajiaohuang)** &mdash; Fix type injection vulnerability in gen_l10n (fix #192130)<br />
   <sub>[#192176](https://github.com/flutter/flutter/pull/192176) opened on on September 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192176) 55 additions and 0 deletions in 1 file</sub><br />
@@ -297,7 +297,7 @@
   <sub>[#192270](https://github.com/flutter/flutter/pull/192270) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192270) 180 additions and 38 deletions in 6 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Cancel input when events stop being delivered<br />
-  <sub>[#192277](https://github.com/flutter/flutter/pull/192277) opened on on September 4, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/192277) 558 additions and 34 deletions in 9 files</sub><br />
+  <sub>[#192277](https://github.com/flutter/flutter/pull/192277) opened on on September 4, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192277) 657 additions and 38 deletions in 9 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from gen_defaults_test<br />
   <sub>[#192280](https://github.com/flutter/flutter/pull/192280) opened on on September 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192280) 0 additions and 12 deletions in 2 files</sub><br />
@@ -333,7 +333,7 @@
   <sub>[#192354](https://github.com/flutter/flutter/pull/192354) opened on on September 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192354) 40 additions and 4 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Add window rendering and drag controls<br />
-  <sub>[#192356](https://github.com/flutter/flutter/pull/192356) opened on on September 7, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/192356) 267 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#192356](https://github.com/flutter/flutter/pull/192356) opened on on September 7, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/192356) 267 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jake Thomson](https://github.com/JakeThomson)** &mdash; [iOS] Hide the iOS 26 scroll-edge effect on the embedder's helper scrollviews<br />
   <sub>[#192374](https://github.com/flutter/flutter/pull/192374) opened on on September 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192374) 50 additions and 0 deletions in 4 files</sub><br />
@@ -343,4 +343,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Account for canvas scale in WebParagraph rendering<br />
   <sub>[#192387](https://github.com/flutter/flutter/pull/192387) opened on on September 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192387) 99 additions and 16 deletions in 3 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Keep the frame at the top of a resizing subsurface<br />
+  <sub>[#192408](https://github.com/flutter/flutter/pull/192408) opened on on September 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192408) 177 additions and 7 deletions in 4 files</sub><br />
 
