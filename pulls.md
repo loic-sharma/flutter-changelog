@@ -120,7 +120,7 @@
   <sub>[#191096](https://github.com/flutter/flutter/pull/191096) opened on on August 14, 2026 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/191096) 356 additions and 28 deletions in 10 files</sub><br />
 
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; Exclude local Swift package schemes from --flavor error message<br />
-  <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#191098](https://github.com/flutter/flutter/pull/191098) opened on on August 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/191098) 146 additions and 13 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191220) 129 additions and 56 deletions in 2 files</sub><br />
@@ -343,4 +343,13 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate BuildBundleCommand to modular dependency injection<br />
   <sub>[#192462](https://github.com/flutter/flutter/pull/192462) opened on on September 9, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192462) 621 additions and 655 deletions in 7 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 4 to simulators<br />
+  <sub>[#192463](https://github.com/flutter/flutter/pull/192463) opened on on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192463) 80 additions and 11 deletions in 8 files</sub><br />
+
+* **[Jianguo Fan](https://github.com/jianguofan)** &mdash; Make SelectableRegion selection geometry accessors null-safe<br />
+  <sub>[#192468](https://github.com/flutter/flutter/pull/192468) opened on on September 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192468) 64 additions and 2 deletions in 3 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate iOS compile benchmarks batch 5 to hostonly<br />
+  <sub>[#192472](https://github.com/flutter/flutter/pull/192472) opened on on September 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192472) 12 additions and 8 deletions in 1 file</sub><br />
 
