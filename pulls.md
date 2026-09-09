@@ -83,8 +83,11 @@
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Android] Match external texture cache size to BufferQueue capacity<br />
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate BuildApkCommand and Android build toolchain to modular dependency injection<br />
+  <sub>[#190776](https://github.com/flutter/flutter/pull/190776) opened on on August 8, 2026 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/190776) 469 additions and 79 deletions in 11 files</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Web build subcommands and toolchain to modular dependency injection<br />
-  <sub>[#190783](https://github.com/flutter/flutter/pull/190783) opened on on August 8, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/190783) 1491 additions and 1647 deletions in 19 files</sub><br />
+  <sub>[#190783](https://github.com/flutter/flutter/pull/190783) opened on on August 8, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/190783) 1495 additions and 1650 deletions in 19 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CreateCommand to modular dependency injection<br />
   <sub>[#190785](https://github.com/flutter/flutter/pull/190785) opened on on August 8, 2026 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/190785) 544 additions and 334 deletions in 9 files</sub><br />
@@ -92,8 +95,8 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix Wasm build cache mismatch in ResidentWebRunner and browser 404 fallbacks<br />
   <sub>[#190786](https://github.com/flutter/flutter/pull/190786) opened on on August 8, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/190786) 231 additions and 5 deletions in 4 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Version and Packages commands to modular dependency injection<br />
-  <sub>[#190787](https://github.com/flutter/flutter/pull/190787) opened on on August 8, 2026 &mdash; **Extra large:** [44 comments](https://github.com/flutter/flutter/pull/190787) 1154 additions and 892 deletions in 16 files</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Upgrade, Downgrade, and UpdatePackages commands to modular dependency injection<br />
+  <sub>[#190787](https://github.com/flutter/flutter/pull/190787) opened on on August 8, 2026 &mdash; **Extra large:** [44 comments](https://github.com/flutter/flutter/pull/190787) 1156 additions and 892 deletions in 16 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update the CLI to reject passing engine configuration flags with a prebuilt binary in release mode<br />
   <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/190870) 871 additions and 196 deletions in 10 files</sub><br />
@@ -252,7 +255,7 @@
   <sub>[#192270](https://github.com/flutter/flutter/pull/192270) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192270) 180 additions and 38 deletions in 6 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Cancel input when events stop being delivered<br />
-  <sub>[#192277](https://github.com/flutter/flutter/pull/192277) opened on on September 4, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192277) 657 additions and 38 deletions in 9 files</sub><br />
+  <sub>[#192277](https://github.com/flutter/flutter/pull/192277) opened on on September 4, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/192277) 657 additions and 38 deletions in 9 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from gen_defaults_test<br />
   <sub>[#192280](https://github.com/flutter/flutter/pull/192280) opened on on September 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192280) 0 additions and 12 deletions in 2 files</sub><br />
@@ -328,4 +331,16 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate BuildMacOSFrameworkCommand to modular dependency injection<br />
   <sub>[#192456](https://github.com/flutter/flutter/pull/192456) opened on on September 9, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/192456) 1508 additions and 1894 deletions in 15 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove deeplink integration tests from bringup<br />
+  <sub>[#192459](https://github.com/flutter/flutter/pull/192459) opened on on September 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192459) 0 additions and 2 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate PackagesCommand and Pub to modular dependency injection<br />
+  <sub>[#192460](https://github.com/flutter/flutter/pull/192460) opened on on September 9, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/192460) 494 additions and 262 deletions in 6 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Clear the frame when there is nothing to render<br />
+  <sub>[#192461](https://github.com/flutter/flutter/pull/192461) opened on on September 9, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/192461) 327 additions and 57 deletions in 10 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate BuildBundleCommand to modular dependency injection<br />
+  <sub>[#192462](https://github.com/flutter/flutter/pull/192462) opened on on September 9, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192462) 621 additions and 655 deletions in 7 files</sub><br />
 
