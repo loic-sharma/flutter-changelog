@@ -4,7 +4,19 @@
 
 ### September 5, 2026 to September 11, 2026
 
-14 commits.
+19 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Support local golden testing in flutter test
+  <sub>[#191386](https://github.com/flutter/flutter/pull/191386) merged on September 9, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/191386) over 2 weeks, 763 additions and 17 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add precacheTestImage to flutter_test and unskip web image tests
+  <sub>[#191435](https://github.com/flutter/flutter/pull/191435) merged on September 8, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/191435) over 2 weeks, 1299 additions and 1262 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; et: Fix compile_commands.json post-processing
+  <sub>[#192395](https://github.com/flutter/flutter/pull/192395) merged on September 8, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192395) over 23 hours, 342 additions and 55 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix test separation between `VersionFreshnessValidator` and `FlutterVersion.checkFlutterVersionFreshness`
   <sub>[#191593](https://github.com/flutter/flutter/pull/191593) merged on September 8, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191593) over 2 weeks, 379 additions and 136 deletions in 2 files</sub>
@@ -33,6 +45,14 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [tool] Let --local-engine reach the build system again
   <sub>[#192361](https://github.com/flutter/flutter/pull/192361) merged on September 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/192361) over 1 day, 194 additions and 8 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Ignore widget previews outside lib/ during LSP code generation
+  <sub>[#192326](https://github.com/flutter/flutter/pull/192326) merged on September 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192326) over 4 days, 142 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Read package_config.json asynchronously in loadPackageConfigWithLogging
+  <sub>[#192443](https://github.com/flutter/flutter/pull/192443) merged on September 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192443) over 4 hours, 96 additions and 11 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle tag from dropdown_test.dart
   <sub>[#186398](https://github.com/flutter/flutter/pull/186398) merged on September 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186398) over 3 months, 28 additions and 35 deletions in 1 file</sub>
@@ -780,7 +800,7 @@
 
 ### September 5, 2026 to September 11, 2026
 
-7 commits.
+8 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [infra] Use a modified no-response workflow in flutter/packages
   <sub>[#12745](https://github.com/flutter/packages/pull/12745) merged on September 8, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/12745) over 5 days, 162 additions and 0 deletions in 2 files</sub>
@@ -788,6 +808,10 @@
 
 * **[Jack Gibbons](https://github.com/Gibbo97)** &mdash; [google_maps_flutter_web] Avoid replacing advanced marker content on move
   <sub>[#11952](https://github.com/flutter/packages/pull/11952) merged on September 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/11952) over 2 months, 214 additions and 14 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [zhongliugo](https://github.com/flutter-zl)</sub>
+
+* **[Hark Singh [SSW]](https://github.com/0xharkirat)** &mdash; [camera_web] Fix TypeError when reading the torch capability
+  <sub>[#12647](https://github.com/flutter/packages/pull/12647) merged on September 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12647) over 1 week, 178 additions and 5 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [zhongliugo](https://github.com/flutter-zl)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Adopt `platform` 3.2.0
@@ -1112,7 +1136,11 @@
 
 ### September 5, 2026 to September 11, 2026
 
-5 commits.
+6 commits.
+
+* **[Vinicius Pineschi](https://github.com/vmkstudio)** &mdash; Add "Why Flutter" whitepaper landing page to flutter.dev
+  <sub>[#13658](https://github.com/flutter/website/pull/13658) merged on September 8, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/website/pull/13658) over 1 month, 2535 additions and 0 deletions in 41 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Dominik Roszkowski](https://github.com/orestesgaolin)** &mdash; Update mermaid_core to 0.3.0
   <sub>[#13863](https://github.com/flutter/website/pull/13863) merged on September 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13863) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
