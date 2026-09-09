@@ -4,7 +4,11 @@
 
 ### September 5, 2026 to September 11, 2026
 
-31 commits.
+34 commits.
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement size to content regular and dialog windows.
+  <sub>[#185256](https://github.com/flutter/flutter/pull/185256) merged on September 9, 2026 &mdash; **Medium:** [43 comments](https://github.com/flutter/flutter/pull/185256) over 4 months, 351 additions and 64 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Support local screenshot and golden testing in felt test
   <sub>[#191318](https://github.com/flutter/flutter/pull/191318) merged on September 9, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/191318) over 3 weeks, 1087 additions and 121 deletions in 11 files</sub>
@@ -25,6 +29,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; et: Fix compile_commands.json post-processing
   <sub>[#192395](https://github.com/flutter/flutter/pull/192395) merged on September 8, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192395) over 23 hours, 342 additions and 55 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub>
+
+* **[Shawn-Yu-Dev](https://github.com/Shawn-Yu-Dev)** &mdash; fix: stop `flutter create --platforms` from dropping existing platfor…
+  <sub>[#191573](https://github.com/flutter/flutter/pull/191573) merged on September 9, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/191573) over 2 weeks, 225 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [August](https://github.com/Gustl22), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix test separation between `VersionFreshnessValidator` and `FlutterVersion.checkFlutterVersionFreshness`
   <sub>[#191593](https://github.com/flutter/flutter/pull/191593) merged on September 8, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/191593) over 2 weeks, 379 additions and 136 deletions in 2 files</sub>
@@ -89,6 +97,10 @@
 * **[Aleksandr Pavlenko](https://github.com/wratheus)** &mdash; Skip KGP version validation for AGP built-in Kotlin
   <sub>[#192206](https://github.com/flutter/flutter/pull/192206) merged on September 8, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/192206) over 5 days, 37 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Matt Boetger](https://github.com/mboetger), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[serhii-k](https://github.com/serhii-k)** &mdash; [native assets] Bump minimum iOS version from 13 to 15
+  <sub>[#191964](https://github.com/flutter/flutter/pull/191964) merged on September 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191964) over 1 week, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Roll Dart SDK from 77094991d1c1 to 4be1b711b4ba (5 revisions)
   <sub>[#192453](https://github.com/flutter/flutter/pull/192453) merged on September 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192453) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -848,7 +860,11 @@
 
 ### September 5, 2026 to September 11, 2026
 
-11 commits.
+15 commits.
+
+* **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [image_picker] Add native tests for pick results, camera access, and presentation
+  <sub>[#12539](https://github.com/flutter/packages/pull/12539) merged on September 9, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/12539) over 2 weeks, 357 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [infra] Use a modified no-response workflow in flutter/packages
   <sub>[#12745](https://github.com/flutter/packages/pull/12745) merged on September 8, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/12745) over 5 days, 162 additions and 0 deletions in 2 files</sub>
@@ -861,6 +877,14 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] add support for multiple swift outputs
   <sub>[#12720](https://github.com/flutter/packages/pull/12720) merged on September 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12720) over 1 week, 240 additions and 24 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[laishere](https://github.com/laishere)** &mdash; [cupertino_ui] Fix platform view sheet transitions
+  <sub>[#12565](https://github.com/flutter/packages/pull/12565) merged on September 9, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12565) over 2 weeks, 173 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; [camera_android_camerax] Bump cameraxVersion to 1.6.2, remove concurrent-futures workaround
+  <sub>[#12698](https://github.com/flutter/packages/pull/12698) merged on September 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12698) over 1 week, 9 additions and 38 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Hark Singh [SSW]](https://github.com/0xharkirat)** &mdash; [camera_web] Fix TypeError when reading the torch capability
   <sub>[#12647](https://github.com/flutter/packages/pull/12647) merged on September 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12647) over 1 week, 178 additions and 5 deletions in 5 files</sub>
@@ -881,6 +905,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Migrate M3 Banner template to use new gen_defaults
   <sub>[#12734](https://github.com/flutter/packages/pull/12734) merged on September 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12734) over 5 days, 60 additions and 78 deletions in 6 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; `[material_ui]` replace identical checks with equality when dealing with enums
+  <sub>[#12633](https://github.com/flutter/packages/pull/12633) merged on September 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12633) over 2 weeks, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; `[cupertino_ui]` replace identical checks with equality when dealing with enums
   <sub>[#12632](https://github.com/flutter/packages/pull/12632) merged on September 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/12632) over 2 weeks, 4 additions and 4 deletions in 1 file</sub>
