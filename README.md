@@ -4,7 +4,7 @@
 
 ### September 5, 2026 to September 11, 2026
 
-36 commits.
+38 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement size to content regular and dialog windows.<br />
   <sub>[#185256](https://github.com/flutter/flutter/pull/185256) merged on September 9, 2026 &mdash; **Medium:** [43 comments](https://github.com/flutter/flutter/pull/185256) over 4 months, 351 additions and 64 deletions in 7 files</sub><br />
@@ -58,13 +58,13 @@
   <sub>[#192267](https://github.com/flutter/flutter/pull/192267) merged on September 9, 2026 &mdash; **Medium:** [47 comments](https://github.com/flutter/flutter/pull/192267) over 5 days, 285 additions and 115 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [Jim Graham](https://github.com/flar), [b-luk](https://github.com/b-luk)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [tool] Let --local-engine reach the build system again<br />
-  <sub>[#192361](https://github.com/flutter/flutter/pull/192361) merged on September 8, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/192361) over 1 day, 194 additions and 8 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Refactor createDebuggingOptions and option registrations to OptionDescriptor<br />
   <sub>[#192307](https://github.com/flutter/flutter/pull/192307) merged on September 8, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/192307) over 4 days, 748 additions and 632 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [tool] Let --local-engine reach the build system again<br />
+  <sub>[#192361](https://github.com/flutter/flutter/pull/192361) merged on September 8, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/192361) over 1 day, 194 additions and 8 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Ahmed Mohamed Sameh](https://github.com/ahmedsameha1)** &mdash; Add more 0x0 size tests part 12<br />
   <sub>[#187529](https://github.com/flutter/flutter/pull/187529) merged on September 9, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/187529) over 3 months, 117 additions and 0 deletions in 7 files</sub><br />
@@ -94,12 +94,12 @@
   <sub>[#192443](https://github.com/flutter/flutter/pull/192443) merged on September 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192443) over 4 hours, 96 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from scrollbar test<br />
-  <sub>[#186656](https://github.com/flutter/flutter/pull/186656) merged on September 8, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/186656) over 3 months, 187 additions and 195 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle tag from dropdown_test.dart<br />
   <sub>[#186398](https://github.com/flutter/flutter/pull/186398) merged on September 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/186398) over 3 months, 28 additions and 35 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from scrollbar test<br />
+  <sub>[#186656](https://github.com/flutter/flutter/pull/186656) merged on September 8, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/186656) over 3 months, 187 additions and 195 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Aleksandr Pavlenko](https://github.com/wratheus)** &mdash; Skip KGP version validation for AGP built-in Kotlin<br />
@@ -125,6 +125,14 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; ci: update dartdoc from 9.0.6 to 9.0.9<br />
   <sub>[#192405](https://github.com/flutter/flutter/pull/192405) merged on September 8, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192405) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; Remove bringup option from CI configuration<br />
+  <sub>[#192511](https://github.com/flutter/flutter/pull/192511) merged on September 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192511) over 3 hours, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): add IntOptionDescriptor and DefaultedIntOptionDescriptor<br />
+  <sub>[#192455](https://github.com/flutter/flutter/pull/192455) merged on September 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/192455) over 23 hours, 209 additions and 15 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Keep web loading bar visible until app starts<br />
   <sub>[#192483](https://github.com/flutter/flutter/pull/192483) merged on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192483) over 2 hours, 56 additions and 31 deletions in 2 files</sub><br />
@@ -1248,7 +1256,7 @@
 
 ### September 5, 2026 to September 11, 2026
 
-8 commits.
+9 commits.
 
 * **[Vinicius Pineschi](https://github.com/vmkstudio)** &mdash; Add "Why Flutter" whitepaper landing page to flutter.dev<br />
   <sub>[#13658](https://github.com/flutter/website/pull/13658) merged on September 8, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/website/pull/13658) over 1 month, 2535 additions and 0 deletions in 41 files</sub><br />
@@ -1281,6 +1289,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Remove built-in Kotlin workaround for plugin authors<br />
   <sub>[#13857](https://github.com/flutter/website/pull/13857) merged on September 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13857) over 4 days, 8 additions and 195 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding new blog post on Material/Cupertino decoupling<br />
+  <sub>[#13853](https://github.com/flutter/website/pull/13853) merged on September 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13853) over 1 week, 173 additions and 12 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Connie Ooi ](https://github.com/conooi)</sub><br />
 
 ### August 29, 2026 to September 4, 2026
 

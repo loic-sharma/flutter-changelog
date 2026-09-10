@@ -333,5 +333,8 @@
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add Material UI M3E migration guideline<br />
-  <sub>[#192519](https://github.com/flutter/flutter/pull/192519) opened on on September 9, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192519) 323 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#192519](https://github.com/flutter/flutter/pull/192519) opened on on September 9, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/192519) 325 additions and 0 deletions in 2 files</sub><br />
+
+* **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [macOS] Fix back buffer cache returning a wrong-size surface (Impeller null deref in Canvas::SetupRenderPass)<br />
+  <sub>[#192522](https://github.com/flutter/flutter/pull/192522) opened on on September 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192522) 146 additions and 7 deletions in 5 files</sub><br />
 
