@@ -261,7 +261,7 @@
   <sub>[#192398](https://github.com/flutter/flutter/pull/192398) opened on on September 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192398) 47 additions and 3 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Keep the frame at the top of a resizing subsurface<br />
-  <sub>[#192408](https://github.com/flutter/flutter/pull/192408) opened on on September 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192408) 177 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#192408](https://github.com/flutter/flutter/pull/192408) opened on on September 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192408) 177 additions and 7 deletions in 4 files</sub><br />
 
 * **[Dmitrii Zolotov](https://github.com/dzolotov)** &mdash; [engine_tool] Allow a dot in GN target names<br />
   <sub>[#192423](https://github.com/flutter/flutter/pull/192423) opened on on September 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192423) 25 additions and 4 deletions in 2 files</sub><br />
@@ -291,7 +291,7 @@
   <sub>[#192459](https://github.com/flutter/flutter/pull/192459) opened on on September 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192459) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Clear the frame when there is nothing to render<br />
-  <sub>[#192461](https://github.com/flutter/flutter/pull/192461) opened on on September 9, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192461) 327 additions and 57 deletions in 10 files</sub><br />
+  <sub>[#192461](https://github.com/flutter/flutter/pull/192461) opened on on September 9, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/192461) 327 additions and 57 deletions in 10 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate BuildBundleCommand to modular dependency injection<br />
   <sub>[#192462](https://github.com/flutter/flutter/pull/192462) opened on on September 9, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192462) 604 additions and 655 deletions in 8 files</sub><br />
