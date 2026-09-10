@@ -30,7 +30,7 @@
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Support activity-alias in Android launcher activity detection<br />
-  <sub>[#187251](https://github.com/flutter/flutter/pull/187251) opened on on May 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187251) 158 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#187251](https://github.com/flutter/flutter/pull/187251) opened on on May 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/187251) 158 additions and 3 deletions in 2 files</sub><br />
 
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
@@ -300,7 +300,7 @@
   <sub>[#192463](https://github.com/flutter/flutter/pull/192463) opened on on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192463) 80 additions and 11 deletions in 8 files</sub><br />
 
 * **[Jianguo Fan](https://github.com/jianguofan)** &mdash; Make SelectableRegion selection geometry accessors null-safe<br />
-  <sub>[#192468](https://github.com/flutter/flutter/pull/192468) opened on on September 9, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192468) 64 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#192468](https://github.com/flutter/flutter/pull/192468) opened on on September 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192468) 64 additions and 2 deletions in 3 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate iOS compile benchmarks batch 5 to hostonly<br />
   <sub>[#192472](https://github.com/flutter/flutter/pull/192472) opened on on September 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192472) 12 additions and 8 deletions in 1 file</sub><br />
@@ -328,4 +328,7 @@
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [macOS] Fix back buffer cache returning a wrong-size surface (Impeller null deref in Canvas::SetupRenderPass)<br />
   <sub>[#192522](https://github.com/flutter/flutter/pull/192522) opened on on September 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192522) 146 additions and 7 deletions in 5 files</sub><br />
+
+* **[Jaimin Kavathia](https://github.com/jaimin-kavathia)** &mdash; Fix ConcurrentModificationError when a Selectable unregisters during clear/selectAll dispatch<br />
+  <sub>[#192529](https://github.com/flutter/flutter/pull/192529) opened on on September 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192529) 183 additions and 2 deletions in 2 files</sub><br />
 
