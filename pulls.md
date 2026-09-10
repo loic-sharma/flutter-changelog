@@ -332,3 +332,9 @@
 * **[Jaimin Kavathia](https://github.com/jaimin-kavathia)** &mdash; Fix ConcurrentModificationError when a Selectable unregisters during clear/selectAll dispatch<br />
   <sub>[#192529](https://github.com/flutter/flutter/pull/192529) opened on on September 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192529) 183 additions and 2 deletions in 2 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ci] Sort integration tests and restore Mac test_timeout_secs<br />
+  <sub>[#192547](https://github.com/flutter/flutter/pull/192547) opened on on September 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192547) 82 additions and 18 deletions in 8 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Properly detect unexpected process exit on Windows and fix leak-tracking flakes<br />
+  <sub>[#192548](https://github.com/flutter/flutter/pull/192548) opened on on September 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192548) 111 additions and 6 deletions in 4 files</sub><br />
+
