@@ -248,9 +248,6 @@
 * **[Dmitrii Zolotov](https://github.com/dzolotov)** &mdash; [Flutter GPU] Reuse HostBuffer blocks after a block boundary, and view only the write<br />
   <sub>[#192398](https://github.com/flutter/flutter/pull/192398) opened on on September 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192398) 47 additions and 3 deletions in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Keep the frame at the top of a resizing subsurface<br />
-  <sub>[#192408](https://github.com/flutter/flutter/pull/192408) opened on on September 8, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192408) 177 additions and 7 deletions in 4 files</sub><br />
-
 * **[Dmitrii Zolotov](https://github.com/dzolotov)** &mdash; [engine_tool] Allow a dot in GN target names<br />
   <sub>[#192423](https://github.com/flutter/flutter/pull/192423) opened on on September 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192423) 25 additions and 4 deletions in 2 files</sub><br />
 
@@ -312,11 +309,11 @@
   <sub>[#192548](https://github.com/flutter/flutter/pull/192548) opened on on September 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192548) 111 additions and 6 deletions in 4 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `flutter_logo.dart`<br />
-  <sub>[#192583](https://github.com/flutter/flutter/pull/192583) opened on on September 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192583) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#192583](https://github.com/flutter/flutter/pull/192583) opened on on September 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192583) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Wrap routing in FocusScope in WidgetsApp.router<br />
   <sub>[#192601](https://github.com/flutter/flutter/pull/192601) opened on on September 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192601) 143 additions and 22 deletions in 2 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; Roll clang to 9d4a7d05d2ef4774f08a0f95faef510c0be469a9<br />
-  <sub>[#192607](https://github.com/flutter/flutter/pull/192607) opened on on September 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192607) 10 additions and 3 deletions in 3 files</sub><br />
+* **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Include Wrap spacing in max intrinsic main-axis extent<br />
+  <sub>[#192613](https://github.com/flutter/flutter/pull/192613) opened on on September 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192613) 45 additions and 0 deletions in 2 files</sub><br />
 
