@@ -309,11 +309,17 @@
   <sub>[#192548](https://github.com/flutter/flutter/pull/192548) opened on on September 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192548) 111 additions and 6 deletions in 4 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `flutter_logo.dart`<br />
-  <sub>[#192583](https://github.com/flutter/flutter/pull/192583) opened on on September 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192583) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#192583](https://github.com/flutter/flutter/pull/192583) opened on on September 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192583) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Wrap routing in FocusScope in WidgetsApp.router<br />
   <sub>[#192601](https://github.com/flutter/flutter/pull/192601) opened on on September 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192601) 143 additions and 22 deletions in 2 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Include Wrap spacing in max intrinsic main-axis extent<br />
-  <sub>[#192613](https://github.com/flutter/flutter/pull/192613) opened on on September 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192613) 45 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#192613](https://github.com/flutter/flutter/pull/192613) opened on on September 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192613) 45 additions and 0 deletions in 2 files</sub><br />
+
+* **[gluedtea](https://github.com/gluedtea)** &mdash; Prevent stale async suggestions in SearchAnchor<br />
+  <sub>[#192622](https://github.com/flutter/flutter/pull/192622) opened on on September 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192622) 55 additions and 12 deletions in 2 files</sub><br />
+
+* **[Erio](https://github.com/chinaszzt)** &mdash; [Windows] Fix duplicated text when an IME composes on a non-composing model<br />
+  <sub>[#192624](https://github.com/flutter/flutter/pull/192624) opened on on September 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192624) 120 additions and 0 deletions in 2 files</sub><br />
 
