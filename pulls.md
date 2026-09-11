@@ -284,9 +284,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Use super parameters in more places<br />
   <sub>[#192484](https://github.com/flutter/flutter/pull/192484) opened on on September 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192484) 23 additions and 37 deletions in 13 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [android] Isolate API-34 high contrast listener in AccessibilityBridge behind Api34Impl<br />
-  <sub>[#192502](https://github.com/flutter/flutter/pull/192502) opened on on September 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192502) 83 additions and 38 deletions in 2 files</sub><br />
-
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; [flutter_tools] Support custom asset bundle paths<br />
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
 
@@ -303,7 +300,7 @@
   <sub>[#192548](https://github.com/flutter/flutter/pull/192548) opened on on September 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192548) 111 additions and 6 deletions in 4 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `flutter_logo.dart`<br />
-  <sub>[#192583](https://github.com/flutter/flutter/pull/192583) opened on on September 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192583) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#192583](https://github.com/flutter/flutter/pull/192583) opened on on September 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192583) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Include Wrap spacing in max intrinsic main-axis extent<br />
   <sub>[#192613](https://github.com/flutter/flutter/pull/192613) opened on on September 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192613) 45 additions and 0 deletions in 2 files</sub><br />
@@ -314,12 +311,6 @@
 * **[Erio](https://github.com/chinaszzt)** &mdash; [Windows] Fix duplicated text when an IME composes on a non-composing model<br />
   <sub>[#192624](https://github.com/flutter/flutter/pull/192624) opened on on September 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192624) 120 additions and 0 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Unmark new_gallery_windows_impeller__transition_perf as bringup<br />
-  <sub>[#192633](https://github.com/flutter/flutter/pull/192633) opened on on September 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192633) 0 additions and 1 deletion in 1 file</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Unmark new_gallery_windows_skia__transition_perf as bringup<br />
-  <sub>[#192635](https://github.com/flutter/flutter/pull/192635) opened on on September 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192635) 0 additions and 1 deletion in 1 file</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update style guide for Dart 3.13<br />
-  <sub>[#192639](https://github.com/flutter/flutter/pull/192639) opened on on September 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192639) 76 additions and 0 deletions in 1 file</sub><br />
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Don't debounce physical mouse clicks in ClickDebouncer<br />
+  <sub>[#192641](https://github.com/flutter/flutter/pull/192641) opened on on September 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192641) 118 additions and 21 deletions in 2 files</sub><br />
 
