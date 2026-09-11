@@ -270,7 +270,7 @@
   <sub>[#192457](https://github.com/flutter/flutter/pull/192457) opened on on September 9, 2026 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/192457) 954 additions and 797 deletions in 22 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Clear the frame when there is nothing to render<br />
-  <sub>[#192461](https://github.com/flutter/flutter/pull/192461) opened on on September 9, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/192461) 328 additions and 58 deletions in 10 files</sub><br />
+  <sub>[#192461](https://github.com/flutter/flutter/pull/192461) opened on on September 9, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/192461) 328 additions and 58 deletions in 10 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate BuildBundleCommand to modular dependency injection<br />
   <sub>[#192462](https://github.com/flutter/flutter/pull/192462) opened on on September 9, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192462) 604 additions and 655 deletions in 8 files</sub><br />
@@ -310,4 +310,7 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `flutter_logo.dart`<br />
   <sub>[#192583](https://github.com/flutter/flutter/pull/192583) opened on on September 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192583) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Wrap routing in FocusScope in WidgetsApp.router<br />
+  <sub>[#192601](https://github.com/flutter/flutter/pull/192601) opened on on September 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192601) 143 additions and 22 deletions in 2 files</sub><br />
 
