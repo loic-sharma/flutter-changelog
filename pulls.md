@@ -167,6 +167,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle Windows reserved characters in test target path<br />
   <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): support --web-content-hash for physical static assets<br />
+  <sub>[#191919](https://github.com/flutter/flutter/pull/191919) opened on on August 27, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/191919) 359 additions and 1 deletion in 2 files</sub><br />
+
 * **[Shenshijun](https://github.com/SSJ-ZYJ)** &mdash; [flutter_tools] Fix flutter doctor path validation for symlinked SDKs<br />
   <sub>[#191975](https://github.com/flutter/flutter/pull/191975) opened on on August 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191975) 119 additions and 6 deletions in 2 files</sub><br />
 
@@ -270,7 +273,7 @@
   <sub>[#192457](https://github.com/flutter/flutter/pull/192457) opened on on September 9, 2026 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/192457) 954 additions and 797 deletions in 22 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Clear the frame when there is nothing to render<br />
-  <sub>[#192461](https://github.com/flutter/flutter/pull/192461) opened on on September 9, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/192461) 328 additions and 58 deletions in 10 files</sub><br />
+  <sub>[#192461](https://github.com/flutter/flutter/pull/192461) opened on on September 9, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192461) 328 additions and 58 deletions in 10 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate BuildBundleCommand to modular dependency injection<br />
   <sub>[#192462](https://github.com/flutter/flutter/pull/192462) opened on on September 9, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192462) 604 additions and 655 deletions in 8 files</sub><br />
@@ -313,4 +316,7 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Wrap routing in FocusScope in WidgetsApp.router<br />
   <sub>[#192601](https://github.com/flutter/flutter/pull/192601) opened on on September 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192601) 143 additions and 22 deletions in 2 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Roll clang to 9d4a7d05d2ef4774f08a0f95faef510c0be469a9<br />
+  <sub>[#192607](https://github.com/flutter/flutter/pull/192607) opened on on September 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192607) 10 additions and 3 deletions in 3 files</sub><br />
 
