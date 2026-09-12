@@ -311,9 +311,9 @@
 * **[Erio](https://github.com/chinaszzt)** &mdash; [Windows] Fix duplicated text when an IME composes on a non-composing model<br />
   <sub>[#192624](https://github.com/flutter/flutter/pull/192624) opened on on September 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192624) 120 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Don't debounce physical mouse clicks in ClickDebouncer<br />
-  <sub>[#192641](https://github.com/flutter/flutter/pull/192641) opened on on September 11, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192641) 118 additions and 21 deletions in 2 files</sub><br />
+* **[Matt Boetger](https://github.com/mboetger)** &mdash; fix: regenerate gradle lockfiles for external_textures integration test<br />
+  <sub>[#192657](https://github.com/flutter/flutter/pull/192657) opened on on September 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/192657) 339 additions and 137 deletions in 5 files</sub><br />
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [tool] Defer app.restart until the app has finished starting<br />
-  <sub>[#192650](https://github.com/flutter/flutter/pull/192650) opened on on September 11, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/192650) 308 additions and 10 deletions in 2 files</sub><br />
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Respect text affinity in getLineBoundary at a soft wrap<br />
+  <sub>[#192664](https://github.com/flutter/flutter/pull/192664) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192664) 119 additions and 5 deletions in 3 files</sub><br />
 
