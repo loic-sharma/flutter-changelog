@@ -305,3 +305,12 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Respect text affinity in getLineBoundary at a soft wrap<br />
   <sub>[#192664](https://github.com/flutter/flutter/pull/192664) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192664) 119 additions and 5 deletions in 3 files</sub><br />
 
+* **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Fix the text benchmark on Impeller backends<br />
+  <sub>[#192677](https://github.com/flutter/flutter/pull/192677) opened on on September 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192677) 13 additions and 0 deletions in 1 file</sub><br />
+
+* **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Add a fast path for small host buffer emplaces<br />
+  <sub>[#192678](https://github.com/flutter/flutter/pull/192678) opened on on September 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192678) 136 additions and 12 deletions in 3 files</sub><br />
+
+* **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Ignore sibling ScrollView notifications in RawScrollbar<br />
+  <sub>[#192684](https://github.com/flutter/flutter/pull/192684) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192684) 85 additions and 0 deletions in 2 files</sub><br />
+
