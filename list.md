@@ -1016,7 +1016,7 @@
 
 ### September 5, 2026 to September 11, 2026
 
-30 commits.
+31 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [material_ui] Support custom date input formatters via CalendarDelegate
   <sub>[#12608](https://github.com/flutter/packages/pull/12608) merged on September 10, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/12608) over 2 weeks, 529 additions and 0 deletions in 7 files</sub>
@@ -1138,6 +1138,10 @@
 * **[danielleon-cmd](https://github.com/danielleon-cmd)** &mdash; [quick_actions] Adopt code-excerpts for README
   <sub>[#12643](https://github.com/flutter/packages/pull/12643) merged on September 9, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12643) over 1 week, 52 additions and 9 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from d3b14c876900 to 9584c6713b32 (15 revisions)
+  <sub>[#12854](https://github.com/flutter/packages/pull/12854) merged on September 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12854) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### August 29, 2026 to September 4, 2026
 
