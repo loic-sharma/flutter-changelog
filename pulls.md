@@ -143,9 +143,6 @@
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; [iOS/MacOS] Warn when using deprecated framework build commands<br />
   <sub>[#191644](https://github.com/flutter/flutter/pull/191644) opened on on August 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191644) 106 additions and 0 deletions in 3 files</sub><br />
 
-* **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Guard FocusNode.rect/offset/size against an unlaid-out RenderBox<br />
-  <sub>[#191645](https://github.com/flutter/flutter/pull/191645) opened on on August 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191645) 43 additions and 0 deletions in 2 files</sub><br />
-
 * **[Vasilii Novozhilov](https://github.com/aNOOBisTheGod)** &mdash; Add opt-in AOT snapshot support for flutter_tools<br />
   <sub>[#191776](https://github.com/flutter/flutter/pull/191776) opened on on August 26, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191776) 133 additions and 14 deletions in 7 files</sub><br />
 
@@ -279,7 +276,7 @@
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [macOS] Fix back buffer cache returning a wrong-size surface (Impeller null deref in Canvas::SetupRenderPass)<br />
-  <sub>[#192522](https://github.com/flutter/flutter/pull/192522) opened on on September 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192522) 146 additions and 7 deletions in 5 files</sub><br />
+  <sub>[#192522](https://github.com/flutter/flutter/pull/192522) opened on on September 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192522) 143 additions and 3 deletions in 5 files</sub><br />
 
 * **[Jaimin Kavathia](https://github.com/jaimin-kavathia)** &mdash; Fix ConcurrentModificationError when a Selectable unregisters during clear/selectAll dispatch<br />
   <sub>[#192529](https://github.com/flutter/flutter/pull/192529) opened on on September 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192529) 183 additions and 2 deletions in 2 files</sub><br />
@@ -313,4 +310,7 @@
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Ignore sibling ScrollView notifications in RawScrollbar<br />
   <sub>[#192684](https://github.com/flutter/flutter/pull/192684) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192684) 85 additions and 0 deletions in 2 files</sub><br />
+
+* **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix AnimatedList disposing an item controller twice after unmount<br />
+  <sub>[#192699](https://github.com/flutter/flutter/pull/192699) opened on on September 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192699) 96 additions and 0 deletions in 2 files</sub><br />
 
