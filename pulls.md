@@ -23,9 +23,6 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
   <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Move Material color tests to material<br />
-  <sub>[#186777](https://github.com/flutter/flutter/pull/186777) opened on on May 20, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/186777) 14 additions and 22 deletions in 3 files</sub><br />
-
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Allow kIncompleteInput when decoding JPEGs in Skia image generator<br />
   <sub>[#187193](https://github.com/flutter/flutter/pull/187193) opened on on May 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/187193) 21 additions and 1 deletion in 2 files</sub><br />
 
@@ -318,8 +315,11 @@
   <sub>[#192710](https://github.com/flutter/flutter/pull/192710) opened on on September 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192710) 29 additions and 5 deletions in 3 files</sub><br />
 
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix selection handles triggering Android system back gesture near screen edges<br />
-  <sub>[#192713](https://github.com/flutter/flutter/pull/192713) opened on on September 13, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192713) 336 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#192713](https://github.com/flutter/flutter/pull/192713) opened on on September 13, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192713) 336 additions and 1 deletion in 7 files</sub><br />
 
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Document that enableSuggestions: false can disable keyboard languages on Android<br />
-  <sub>[#192714](https://github.com/flutter/flutter/pull/192714) opened on on September 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192714) 10 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#192714](https://github.com/flutter/flutter/pull/192714) opened on on September 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192714) 8 additions and 0 deletions in 1 file</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [cross_imports] Remove Material dependency from painting color tests<br />
+  <sub>[#192716](https://github.com/flutter/flutter/pull/192716) opened on on September 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192716) 1 addition and 19 deletions in 2 files</sub><br />
 
