@@ -317,3 +317,9 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Warn users on potential removal of dart:html in dry run<br />
   <sub>[#192710](https://github.com/flutter/flutter/pull/192710) opened on on September 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192710) 29 additions and 5 deletions in 3 files</sub><br />
 
+* **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix selection handles triggering Android system back gesture near screen edges<br />
+  <sub>[#192713](https://github.com/flutter/flutter/pull/192713) opened on on September 13, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192713) 336 additions and 1 deletion in 7 files</sub><br />
+
+* **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Document that enableSuggestions: false can disable keyboard languages on Android<br />
+  <sub>[#192714](https://github.com/flutter/flutter/pull/192714) opened on on September 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192714) 10 additions and 0 deletions in 1 file</sub><br />
+
