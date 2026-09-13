@@ -1016,7 +1016,7 @@
 
 ### September 5, 2026 to September 11, 2026
 
-31 commits.
+32 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [material_ui] Support custom date input formatters via CalendarDelegate<br />
   <sub>[#12608](https://github.com/flutter/packages/pull/12608) merged on September 10, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/12608) over 2 weeks, 529 additions and 0 deletions in 7 files</sub><br />
@@ -1034,6 +1034,10 @@
   <sub>[#12829](https://github.com/flutter/packages/pull/12829) merged on September 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12829) over 1 hour, 5 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1371" height="728" alt="image" src="https://github.com/user-attachments/assets/0278041c-1fa2-49aa-8cba-9bedd9db9c00" /></details></sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Convert remaining code to Swift<br />
+  <sub>[#12768](https://github.com/flutter/packages/pull/12768) merged on September 12, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/12768) over 1 week, 15779 additions and 22291 deletions in 129 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [image_picker] Add native tests for pick results, camera access, and presentation<br />
   <sub>[#12539](https://github.com/flutter/packages/pull/12539) merged on September 9, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/packages/pull/12539) over 2 weeks, 357 additions and 0 deletions in 1 file</sub><br />
