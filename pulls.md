@@ -132,7 +132,7 @@
   <sub>[#191580](https://github.com/flutter/flutter/pull/191580) opened on on August 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191580) 53 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix Use dependency graph to determine plugin initialization order<br />
-  <sub>[#191591](https://github.com/flutter/flutter/pull/191591) opened on on August 24, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/191591) 311 additions and 54 deletions in 4 files</sub><br />
+  <sub>[#191591](https://github.com/flutter/flutter/pull/191591) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191591) 273 additions and 13 deletions in 5 files</sub><br />
 
 * **[kaluli123123](https://github.com/kaluli123123)** &mdash; Fix pointer id/coordinate mismatch in Android platform view multi-touch<br />
   <sub>[#191631](https://github.com/flutter/flutter/pull/191631) opened on on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191631) 97 additions and 1 deletion in 2 files</sub><br />
@@ -250,9 +250,6 @@
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] Use DFS traversal to find engines of a scene automatically (rather than manually manage the engines list)<br />
   <sub>[#192457](https://github.com/flutter/flutter/pull/192457) opened on on September 9, 2026 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/192457) 954 additions and 797 deletions in 22 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Clear the frame when there is nothing to render<br />
-  <sub>[#192461](https://github.com/flutter/flutter/pull/192461) opened on on September 9, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192461) 328 additions and 58 deletions in 10 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 4 to simulators<br />
   <sub>[#192463](https://github.com/flutter/flutter/pull/192463) opened on on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192463) 80 additions and 11 deletions in 8 files</sub><br />
