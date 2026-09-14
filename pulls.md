@@ -320,3 +320,6 @@
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [cross_imports] Remove Material dependency from painting color tests<br />
   <sub>[#192716](https://github.com/flutter/flutter/pull/192716) opened on on September 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192716) 1 addition and 19 deletions in 2 files</sub><br />
 
+* **[Diego López](https://github.com/diegolopezrm)** &mdash; Animate the child between sub-screens when the fold changes<br />
+  <sub>[#192721](https://github.com/flutter/flutter/pull/192721) opened on on September 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192721) 123 additions and 2 deletions in 2 files</sub><br />
+
