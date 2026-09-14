@@ -201,7 +201,7 @@
   <sub>[#192262](https://github.com/flutter/flutter/pull/192262) opened on on September 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192262) 49 additions and 0 deletions in 2 files</sub><br />
 
 * **[Reynaldo](https://github.com/reynaldots)** &mdash; feat(tool): Add `--[no-]web-browser-default-flags` for Chrome launch<br />
-  <sub>[#192270](https://github.com/flutter/flutter/pull/192270) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192270) 180 additions and 38 deletions in 6 files</sub><br />
+  <sub>[#192270](https://github.com/flutter/flutter/pull/192270) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192270) 210 additions and 36 deletions in 10 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from gen_defaults_test<br />
   <sub>[#192280](https://github.com/flutter/flutter/pull/192280) opened on on September 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192280) 0 additions and 12 deletions in 2 files</sub><br />
@@ -210,7 +210,7 @@
   <sub>[#192286](https://github.com/flutter/flutter/pull/192286) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192286) 75 additions and 9 deletions in 4 files</sub><br />
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fix LiveTestWidgetsFlutterBinding dropping synthetic pointer cancels for test-sourced pointers<br />
-  <sub>[#192289](https://github.com/flutter/flutter/pull/192289) opened on on September 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192289) 72 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#192289](https://github.com/flutter/flutter/pull/192289) opened on on September 4, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/192289) 72 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Roll package:dds to 5.4.0<br />
   <sub>[#192295](https://github.com/flutter/flutter/pull/192295) opened on on September 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192295) 7 additions and 7 deletions in 2 files</sub><br />
@@ -287,6 +287,9 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `flutter_logo.dart`<br />
   <sub>[#192583](https://github.com/flutter/flutter/pull/192583) opened on on September 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192583) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix the HCPP SurfaceControl transaction-list race and split the transaction entry points<br />
+  <sub>[#192606](https://github.com/flutter/flutter/pull/192606) opened on on September 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192606) 342 additions and 90 deletions in 8 files</sub><br />
+
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Include Wrap spacing in max intrinsic main-axis extent<br />
   <sub>[#192613](https://github.com/flutter/flutter/pull/192613) opened on on September 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192613) 45 additions and 0 deletions in 2 files</sub><br />
 
@@ -312,7 +315,7 @@
   <sub>[#192699](https://github.com/flutter/flutter/pull/192699) opened on on September 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192699) 96 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Warn users on potential removal of dart:html in dry run<br />
-  <sub>[#192710](https://github.com/flutter/flutter/pull/192710) opened on on September 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192710) 29 additions and 5 deletions in 3 files</sub><br />
+  <sub>[#192710](https://github.com/flutter/flutter/pull/192710) opened on on September 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192710) 29 additions and 5 deletions in 3 files</sub><br />
 
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix selection handles triggering Android system back gesture near screen edges<br />
   <sub>[#192713](https://github.com/flutter/flutter/pull/192713) opened on on September 13, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192713) 336 additions and 1 deletion in 7 files</sub><br />

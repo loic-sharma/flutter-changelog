@@ -4,7 +4,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-3 commits.
+4 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Clear the frame when there is nothing to render
   <sub>[#192461](https://github.com/flutter/flutter/pull/192461) merged on September 14, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192461) over 4 days, 328 additions and 58 deletions in 10 files</sub>
@@ -17,6 +17,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; RELAND: [devicelab] Clean up Chrome profile directories and trap abort signals in web benchmarks
   <sub>[#192655](https://github.com/flutter/flutter/pull/192655) merged on September 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192655) over 2 days, 665 additions and 209 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable
+  <sub>[#192499](https://github.com/flutter/flutter/pull/192499) merged on September 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192499) over 5 days, 6 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
 
 ### September 5, 2026 to September 11, 2026
 
@@ -634,9 +638,18 @@
 
 ## flutter/packages
 
+### September 12, 2026 to September 18, 2026
+
+1 commits.
+
+* **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; [material_ui] Fix `todayBorder` color being overridden by `todayForegroundColor` in `YearPicker`
+  <sub>[#12697](https://github.com/flutter/packages/pull/12697) merged on September 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12697) over 2 weeks, 90 additions and 6 deletions in 4 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
 ### September 5, 2026 to September 11, 2026
 
-32 commits.
+<details>
+<summary>32 commits...</summary>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [material_ui] Support custom date input formatters via CalendarDelegate
   <sub>[#12608](https://github.com/flutter/packages/pull/12608) merged on September 10, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/12608) over 2 weeks, 529 additions and 0 deletions in 7 files</sub>
@@ -766,6 +779,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from d3b14c876900 to 9584c6713b32 (15 revisions)
   <sub>[#12854](https://github.com/flutter/packages/pull/12854) merged on September 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12854) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### August 29, 2026 to September 4, 2026
 
@@ -910,7 +925,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-3 commits.
+4 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; An update of the FAQ - a first draft
   <sub>[#13746](https://github.com/flutter/website/pull/13746) merged on September 14, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/website/pull/13746) over 3 weeks, 435 additions and 910 deletions in 10 files</sub>
@@ -919,6 +934,10 @@
 * **[Muthu Ganesh](https://github.com/MuthuGCodes)** &mdash; Update documentation for iOS 27, macOS 27, and Xcode 27 support
   <sub>[#13872](https://github.com/flutter/website/pull/13872) merged on September 14, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/13872) over 4 days, 31 additions and 67 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update Cursor plugin installation instructions
+  <sub>[#13890](https://github.com/flutter/website/pull/13890) merged on September 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13890) over 1 hour, 9 additions and 17 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jess K](https://github.com/jesskuras)</sub>
 
 * **[Gaurav Yadav](https://github.com/MeGaurav4)** &mdash; docs: add agent-rules example to tooling ecosystem overview
   <sub>[#13888](https://github.com/flutter/website/pull/13888) merged on September 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13888) over 1 hour, 2 additions and 1 deletion in 1 file</sub>
