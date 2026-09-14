@@ -135,7 +135,7 @@
   <sub>[#191591](https://github.com/flutter/flutter/pull/191591) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191591) 273 additions and 13 deletions in 5 files</sub><br />
 
 * **[kaluli123123](https://github.com/kaluli123123)** &mdash; Fix pointer id/coordinate mismatch in Android platform view multi-touch<br />
-  <sub>[#191631](https://github.com/flutter/flutter/pull/191631) opened on on August 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191631) 97 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#191631](https://github.com/flutter/flutter/pull/191631) opened on on August 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191631) 97 additions and 1 deletion in 2 files</sub><br />
 
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; [iOS/MacOS] Warn when using deprecated framework build commands<br />
   <sub>[#191644](https://github.com/flutter/flutter/pull/191644) opened on on August 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191644) 106 additions and 0 deletions in 3 files</sub><br />
@@ -159,7 +159,7 @@
   <sub>[#191992](https://github.com/flutter/flutter/pull/191992) opened on on August 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191992) 329 additions and 95 deletions in 3 files</sub><br />
 
 * **[Emmanuel LEFEBVRE DIBON](https://github.com/zemanux)** &mdash; Add EdgeInsetsOverlay widget<br />
-  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/191998) 1815 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/191998) 1812 additions and 0 deletions in 3 files</sub><br />
 
 * **[Lucas Wang](https://github.com/gn00295120)** &mdash; [flutter_tools] Bind web dev server to loopback by default and validate Host header<br />
   <sub>[#192049](https://github.com/flutter/flutter/pull/192049) opened on on August 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192049) 289 additions and 16 deletions in 5 files</sub><br />
@@ -180,7 +180,7 @@
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Expansible crash when PageStorage holds a non-bool value<br />
-  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192195) 65 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192195) 66 additions and 2 deletions in 2 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; [flutter_tools] Report when the browser disconnects during a web test run<br />
   <sub>[#192198](https://github.com/flutter/flutter/pull/192198) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192198) 150 additions and 1 deletion in 2 files</sub><br />
@@ -321,5 +321,14 @@
   <sub>[#192716](https://github.com/flutter/flutter/pull/192716) opened on on September 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192716) 1 addition and 19 deletions in 2 files</sub><br />
 
 * **[Diego López](https://github.com/diegolopezrm)** &mdash; Animate the child between sub-screens when the fold changes<br />
-  <sub>[#192721](https://github.com/flutter/flutter/pull/192721) opened on on September 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192721) 123 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#192721](https://github.com/flutter/flutter/pull/192721) opened on on September 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192721) 167 additions and 2 deletions in 2 files</sub><br />
+
+* **[Abel Putnoki](https://github.com/putnokiabel)** &mdash; [stable] Fix `flutter run` failing when the launcher activity is an `<activity-alias>` (cherry-pick of #187251)<br />
+  <sub>[#192726](https://github.com/flutter/flutter/pull/192726) opened on on September 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192726) 158 additions and 3 deletions in 2 files</sub><br />
+
+* **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Explain why initState() is too early to depend on an inherited widget<br />
+  <sub>[#192727](https://github.com/flutter/flutter/pull/192727) opened on on September 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192727) 42 additions and 8 deletions in 2 files</sub><br />
+
+* **[Sarah Zakarias](https://github.com/szakarias)** &mdash; Add missing @docImport directives for doc comment references<br />
+  <sub>[#192734](https://github.com/flutter/flutter/pull/192734) opened on on September 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192734) 31 additions and 1 deletion in 14 files</sub><br />
 
