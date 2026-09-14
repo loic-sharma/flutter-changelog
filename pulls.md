@@ -243,7 +243,7 @@
   <sub>[#192441](https://github.com/flutter/flutter/pull/192441) opened on on September 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192441) 116 additions and 39 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle unsupported iOS SDK root in native assets build<br />
-  <sub>[#192442](https://github.com/flutter/flutter/pull/192442) opened on on September 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192442) 63 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#192442](https://github.com/flutter/flutter/pull/192442) opened on on September 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192442) 63 additions and 2 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Ensure no extraction conflicts and unpack all Dart SDK archive artifacts<br />
   <sub>[#192447](https://github.com/flutter/flutter/pull/192447) opened on on September 8, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192447) 334 additions and 29 deletions in 3 files</sub><br />
@@ -268,6 +268,9 @@
 
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; [flutter_tools] Support custom asset bundle paths<br />
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Separate HCPP tests in android_engine_test into their own CI target<br />
+  <sub>[#192512](https://github.com/flutter/flutter/pull/192512) opened on on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192512) 154 additions and 103 deletions in 5 files</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [macOS] Fix back buffer cache returning a wrong-size surface (Impeller null deref in Canvas::SetupRenderPass)<br />
   <sub>[#192522](https://github.com/flutter/flutter/pull/192522) opened on on September 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192522) 143 additions and 3 deletions in 5 files</sub><br />

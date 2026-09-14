@@ -4,11 +4,19 @@
 
 ### September 12, 2026 to September 18, 2026
 
-1 commits.
+3 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Clear the frame when there is nothing to render<br />
   <sub>[#192461](https://github.com/flutter/flutter/pull/192461) merged on September 14, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192461) over 4 days, 328 additions and 58 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; fix(web): hide --web-content-hash until content hashing is complete<br />
+  <sub>[#192663](https://github.com/flutter/flutter/pull/192663) merged on September 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192663) over 2 days, 16 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; RELAND: [devicelab] Clean up Chrome profile directories and trap abort signals in web benchmarks<br />
+  <sub>[#192655](https://github.com/flutter/flutter/pull/192655) merged on September 14, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192655) over 2 days, 665 additions and 209 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 ### September 5, 2026 to September 11, 2026
 
@@ -900,9 +908,26 @@
 
 ## flutter/website
 
+### September 12, 2026 to September 18, 2026
+
+3 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; An update of the FAQ - a first draft<br />
+  <sub>[#13746](https://github.com/flutter/website/pull/13746) merged on September 14, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/website/pull/13746) over 3 weeks, 435 additions and 910 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Muthu Ganesh](https://github.com/MuthuGCodes)** &mdash; Update documentation for iOS 27, macOS 27, and Xcode 27 support<br />
+  <sub>[#13872](https://github.com/flutter/website/pull/13872) merged on September 14, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/13872) over 4 days, 31 additions and 67 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Gaurav Yadav](https://github.com/MeGaurav4)** &mdash; docs: add agent-rules example to tooling ecosystem overview<br />
+  <sub>[#13888](https://github.com/flutter/website/pull/13888) merged on September 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13888) over 1 hour, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 ### September 5, 2026 to September 11, 2026
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Add docs on 'Create app flavors for Windows and Linux'<br />
   <sub>[#13736](https://github.com/flutter/website/pull/13736) merged on September 10, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/website/pull/13736) over 3 weeks, 701 additions and 13 deletions in 8 files</sub><br />
@@ -980,6 +1005,8 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding new blog post on Material/Cupertino decoupling<br />
   <sub>[#13853](https://github.com/flutter/website/pull/13853) merged on September 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13853) over 1 week, 173 additions and 12 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+</details>
 
 ### August 29, 2026 to September 4, 2026
 
