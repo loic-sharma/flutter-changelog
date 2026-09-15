@@ -150,7 +150,7 @@
   <sub>[#191823](https://github.com/flutter/flutter/pull/191823) opened on on August 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191823) 106 additions and 39 deletions in 27 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle Windows reserved characters in test target path<br />
-  <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Shenshijun](https://github.com/SSJ-ZYJ)** &mdash; [flutter_tools] Fix flutter doctor path validation for symlinked SDKs<br />
   <sub>[#191975](https://github.com/flutter/flutter/pull/191975) opened on on August 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191975) 119 additions and 6 deletions in 2 files</sub><br />
@@ -285,7 +285,7 @@
   <sub>[#192583](https://github.com/flutter/flutter/pull/192583) opened on on September 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192583) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix the HCPP SurfaceControl transaction-list race and split the transaction entry points<br />
-  <sub>[#192606](https://github.com/flutter/flutter/pull/192606) opened on on September 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192606) 341 additions and 89 deletions in 8 files</sub><br />
+  <sub>[#192606](https://github.com/flutter/flutter/pull/192606) opened on on September 11, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192606) 413 additions and 88 deletions in 8 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Include Wrap spacing in max intrinsic main-axis extent<br />
   <sub>[#192613](https://github.com/flutter/flutter/pull/192613) opened on on September 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192613) 45 additions and 0 deletions in 2 files</sub><br />
@@ -340,4 +340,13 @@
 
 * **[Saif64](https://github.com/Saif64)** &mdash; Document that a null minLines defers to maxLines<br />
   <sub>[#192799](https://github.com/flutter/flutter/pull/192799) opened on on September 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192799) 15 additions and 2 deletions in 1 file</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; FocusNode that is detached should report empty ancestors<br />
+  <sub>[#192811](https://github.com/flutter/flutter/pull/192811) opened on on September 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/192811) 27 additions and 0 deletions in 2 files</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-beta]On iOS 27+ devices, manually process lldb stops<br />
+  <sub>[#192814](https://github.com/flutter/flutter/pull/192814) opened on on September 15, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/192814) 411 additions and 195 deletions in 5 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Build wasm_release local build on arm64 macs.<br />
+  <sub>[#192817](https://github.com/flutter/flutter/pull/192817) opened on on September 15, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192817) 4 additions and 2 deletions in 1 file</sub><br />
 

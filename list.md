@@ -4,12 +4,20 @@
 
 ### September 12, 2026 to September 18, 2026
 
-9 commits.
+14 commits.
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) merged on September 14, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187568) over 3 months, 202 additions and 181 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary><img width="1000" alt="546867255-4ad56291-9603-40c1-ae5a-3e319017c3c9" src="https://github.com/user-attachments/assets/8e72ebff-fb8f-4613-b042-7668db15bcf5" /></details></sub>
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [tool] Defer app.restart until the app has finished starting
+  <sub>[#192650](https://github.com/flutter/flutter/pull/192650) merged on September 15, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/192650) over 3 days, 308 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[walley892](https://github.com/walley892)** &mdash; Add a compiler warning for fragment shaders containing both texture samplers and early returns.
+  <sub>[#191969](https://github.com/flutter/flutter/pull/191969) merged on September 15, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/191969) over 2 weeks, 331 additions and 0 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Clear the frame when there is nothing to render
   <sub>[#192461](https://github.com/flutter/flutter/pull/192461) merged on September 14, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192461) over 4 days, 328 additions and 58 deletions in 10 files</sub>
@@ -18,6 +26,18 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Request unbuffered dispatch for platform view motion events after `_PlatformViewGestureRecognizer` rejects gesture
   <sub>[#192259](https://github.com/flutter/flutter/pull/192259) merged on September 14, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/192259) over 1 week, 1111 additions and 25 deletions in 22 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): migrate Android build commands to typed options
+  <sub>[#192524](https://github.com/flutter/flutter/pull/192524) merged on September 15, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192524) over 5 days, 303 additions and 191 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Pranta Dutta](https://github.com/theprantadutta)** &mdash; Suggest the -d flag after interactive device selection
+  <sub>[#188941](https://github.com/flutter/flutter/pull/188941) merged on September 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188941) over 2 months, 42 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migrate SDK constraints for record_use and data_asset integration test packages to ^3.13.0-0
+  <sub>[#192728](https://github.com/flutter/flutter/pull/192728) merged on September 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192728) over 1 day, 27 additions and 43 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci(bringup): cleanup some bringup
   <sub>[#192752](https://github.com/flutter/flutter/pull/192752) merged on September 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192752) over 2 hours, 1 addition and 5 deletions in 2 files</sub>
@@ -661,11 +681,19 @@
 
 ### September 12, 2026 to September 18, 2026
 
-3 commits.
+9 commits.
 
 * **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support
   <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Checks unmerged batch release sync back before next release
+  <sub>[#12868](https://github.com/flutter/packages/pull/12868) merged on September 15, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/packages/pull/12868) over 21 hours, 498 additions and 55 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [cross_file_platform_interface] Platform interface implementation of `cross_file`
+  <sub>[#12825](https://github.com/flutter/packages/pull/12825) merged on September 15, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/packages/pull/12825) over 4 days, 1106 additions and 0 deletions in 15 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Adopts new async/await Swift Pigeon support
   <sub>[#12860](https://github.com/flutter/packages/pull/12860) merged on September 14, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/12860) over 22 hours, 1395 additions and 1510 deletions in 40 files</sub>
@@ -674,6 +702,22 @@
 * **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; [material_ui] Fix `todayBorder` color being overridden by `todayForegroundColor` in `YearPicker`
   <sub>[#12697](https://github.com/flutter/packages/pull/12697) merged on September 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12697) over 2 weeks, 90 additions and 6 deletions in 4 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; [material_ui] Add sortIconBuilder to DataTable, PaginatedDataTable, and DataTableThemeData
+  <sub>[#12645](https://github.com/flutter/packages/pull/12645) merged on September 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/12645) over 2 weeks, 195 additions and 6 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[danielleon-cmd](https://github.com/danielleon-cmd)** &mdash; [espresso] Adopt code-excerpts for README
+  <sub>[#12644](https://github.com/flutter/packages/pull/12644) merged on September 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12644) over 2 weeks, 46 additions and 19 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[danielleon-cmd](https://github.com/danielleon-cmd)** &mdash; [pointer_interceptor] Adopt code-excerpts for README
+  <sub>[#12641](https://github.com/flutter/packages/pull/12641) merged on September 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12641) over 2 weeks, 186 additions and 35 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [cross_file] Move cross_file into a federated cross_file directory
+  <sub>[#12869](https://github.com/flutter/packages/pull/12869) merged on September 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12869) over 18 hours, 1 addition and 1 deletion in 21 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 ### September 5, 2026 to September 11, 2026
 
