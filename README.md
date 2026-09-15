@@ -4,12 +4,20 @@
 
 ### September 12, 2026 to September 18, 2026
 
-14 commits.
+19 commits.
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics<br />
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) merged on September 14, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187568) over 3 months, 202 additions and 181 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1000" alt="546867255-4ad56291-9603-40c1-ae5a-3e319017c3c9" src="https://github.com/user-attachments/assets/8e72ebff-fb8f-4613-b042-7668db15bcf5" /></details></sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate BuildApkCommand and Android build toolchain to modular dependency injection<br />
+  <sub>[#190776](https://github.com/flutter/flutter/pull/190776) merged on September 15, 2026 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/190776) over 1 month, 496 additions and 87 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CreateCommand to modular dependency injection<br />
+  <sub>[#190785](https://github.com/flutter/flutter/pull/190785) merged on September 15, 2026 &mdash; **Large:** [58 comments](https://github.com/flutter/flutter/pull/190785) over 1 month, 559 additions and 350 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [tool] Defer app.restart until the app has finished starting<br />
   <sub>[#192650](https://github.com/flutter/flutter/pull/192650) merged on September 15, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/192650) over 3 days, 308 additions and 10 deletions in 2 files</sub><br />
@@ -35,6 +43,14 @@
   <sub>[#188941](https://github.com/flutter/flutter/pull/188941) merged on September 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188941) over 2 months, 42 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate BuildBundleCommand to modular dependency injection<br />
+  <sub>[#192462](https://github.com/flutter/flutter/pull/192462) merged on September 15, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/192462) over 6 days, 584 additions and 619 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Split FlutterEngine setUpShell into orthogonal helpers<br />
+  <sub>[#192808](https://github.com/flutter/flutter/pull/192808) merged on September 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192808) over 4 hours, 16 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migrate SDK constraints for record_use and data_asset integration test packages to ^3.13.0-0<br />
   <sub>[#192728](https://github.com/flutter/flutter/pull/192728) merged on September 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192728) over 1 day, 27 additions and 43 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -46,6 +62,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; docs: migrate design document guidance to flutter/rfc<br />
   <sub>[#192648](https://github.com/flutter/flutter/pull/192648) merged on September 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192648) over 2 days, 81 additions and 66 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Roll pub packages<br />
+  <sub>[#192815](https://github.com/flutter/flutter/pull/192815) merged on September 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192815) over 2 hours, 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Warn users on potential removal of dart:html in dry run<br />
   <sub>[#192710](https://github.com/flutter/flutter/pull/192710) merged on September 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192710) over 1 day, 29 additions and 5 deletions in 3 files</sub><br />
@@ -681,11 +701,15 @@
 
 ### September 12, 2026 to September 18, 2026
 
-9 commits.
+10 commits.
 
 * **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support<br />
-  <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub><br />
+  <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[Muhammed Bayraktar](https://github.com/Xelorium)** &mdash; [pigeon] Treat NSNull as null for non-null Flutter API returns<br />
+  <sub>[#12531](https://github.com/flutter/packages/pull/12531) merged on September 15, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12531) over 3 weeks, 90 additions and 46 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [bayraktarmdkaraca](https://github.com/bayraktarmdkaraca), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Checks unmerged batch release sync back before next release<br />
   <sub>[#12868](https://github.com/flutter/packages/pull/12868) merged on September 15, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/packages/pull/12868) over 21 hours, 498 additions and 55 deletions in 10 files</sub><br />
@@ -1186,4 +1210,12 @@
 </details>
 
 ## flutter/core-packages
+
+### September 12, 2026 to September 18, 2026
+
+1 commits.
+
+* **[danielleon-cmd](https://github.com/danielleon-cmd)** &mdash; [mustache_template] Adopt code-excerpts for README<br />
+  <sub>[#40](https://github.com/flutter/core-packages/pull/40) merged on September 15, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/core-packages/pull/40) over 2 weeks, 202 additions and 59 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
