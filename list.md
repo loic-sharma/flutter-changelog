@@ -4,11 +4,27 @@
 
 ### September 12, 2026 to September 18, 2026
 
-4 commits.
+8 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Clear the frame when there is nothing to render
   <sub>[#192461](https://github.com/flutter/flutter/pull/192461) merged on September 14, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192461) over 4 days, 328 additions and 58 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Request unbuffered dispatch for platform view motion events after `_PlatformViewGestureRecognizer` rejects gesture
+  <sub>[#192259](https://github.com/flutter/flutter/pull/192259) merged on September 14, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/192259) over 1 week, 1111 additions and 25 deletions in 22 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; ci(bringup): cleanup some bringup
+  <sub>[#192752](https://github.com/flutter/flutter/pull/192752) merged on September 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192752) over 2 hours, 1 addition and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; docs: migrate design document guidance to flutter/rfc
+  <sub>[#192648](https://github.com/flutter/flutter/pull/192648) merged on September 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192648) over 2 days, 81 additions and 66 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Warn users on potential removal of dart:html in dry run
+  <sub>[#192710](https://github.com/flutter/flutter/pull/192710) merged on September 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192710) over 1 day, 29 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; fix(web): hide --web-content-hash until content hashing is complete
   <sub>[#192663](https://github.com/flutter/flutter/pull/192663) merged on September 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192663) over 2 days, 16 additions and 5 deletions in 3 files</sub>
@@ -640,7 +656,11 @@
 
 ### September 12, 2026 to September 18, 2026
 
-1 commits.
+2 commits.
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Adopts new async/await Swift Pigeon support
+  <sub>[#12860](https://github.com/flutter/packages/pull/12860) merged on September 14, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/12860) over 22 hours, 1395 additions and 1510 deletions in 40 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; [material_ui] Fix `todayBorder` color being overridden by `todayForegroundColor` in `YearPicker`
   <sub>[#12697](https://github.com/flutter/packages/pull/12697) merged on September 14, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12697) over 2 weeks, 90 additions and 6 deletions in 4 files</sub>

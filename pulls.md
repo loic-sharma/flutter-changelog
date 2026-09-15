@@ -264,7 +264,7 @@
   <sub>[#192480](https://github.com/flutter/flutter/pull/192480) opened on on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192480) 68 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Use super parameters in more places<br />
-  <sub>[#192484](https://github.com/flutter/flutter/pull/192484) opened on on September 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192484) 23 additions and 37 deletions in 13 files</sub><br />
+  <sub>[#192484](https://github.com/flutter/flutter/pull/192484) opened on on September 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192484) 23 additions and 36 deletions in 13 files</sub><br />
 
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; [flutter_tools] Support custom asset bundle paths<br />
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
@@ -288,7 +288,7 @@
   <sub>[#192583](https://github.com/flutter/flutter/pull/192583) opened on on September 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192583) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix the HCPP SurfaceControl transaction-list race and split the transaction entry points<br />
-  <sub>[#192606](https://github.com/flutter/flutter/pull/192606) opened on on September 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192606) 342 additions and 90 deletions in 8 files</sub><br />
+  <sub>[#192606](https://github.com/flutter/flutter/pull/192606) opened on on September 11, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192606) 341 additions and 89 deletions in 8 files</sub><br />
 
 * **[Sana Ullah](https://github.com/Sanaullah49)** &mdash; Include Wrap spacing in max intrinsic main-axis extent<br />
   <sub>[#192613](https://github.com/flutter/flutter/pull/192613) opened on on September 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192613) 45 additions and 0 deletions in 2 files</sub><br />
@@ -313,9 +313,6 @@
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix AnimatedList disposing an item controller twice after unmount<br />
   <sub>[#192699](https://github.com/flutter/flutter/pull/192699) opened on on September 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192699) 96 additions and 0 deletions in 2 files</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Warn users on potential removal of dart:html in dry run<br />
-  <sub>[#192710](https://github.com/flutter/flutter/pull/192710) opened on on September 13, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192710) 29 additions and 5 deletions in 3 files</sub><br />
 
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix selection handles triggering Android system back gesture near screen edges<br />
   <sub>[#192713](https://github.com/flutter/flutter/pull/192713) opened on on September 13, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192713) 336 additions and 1 deletion in 7 files</sub><br />
