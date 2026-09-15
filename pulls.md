@@ -264,7 +264,7 @@
   <sub>[#192480](https://github.com/flutter/flutter/pull/192480) opened on on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192480) 68 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Use super parameters in more places<br />
-  <sub>[#192484](https://github.com/flutter/flutter/pull/192484) opened on on September 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192484) 23 additions and 36 deletions in 13 files</sub><br />
+  <sub>[#192484](https://github.com/flutter/flutter/pull/192484) opened on on September 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192484) 24 additions and 40 deletions in 13 files</sub><br />
 
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; [flutter_tools] Support custom asset bundle paths<br />
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />

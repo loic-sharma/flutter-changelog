@@ -4,7 +4,12 @@
 
 ### September 12, 2026 to September 18, 2026
 
-8 commits.
+9 commits.
+
+* **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics
+  <sub>[#187568](https://github.com/flutter/flutter/pull/187568) merged on September 14, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187568) over 3 months, 202 additions and 181 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub><details><summary>1 image...</summary><img width="1000" alt="546867255-4ad56291-9603-40c1-ae5a-3e319017c3c9" src="https://github.com/user-attachments/assets/8e72ebff-fb8f-4613-b042-7668db15bcf5" /></details></sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Clear the frame when there is nothing to render
   <sub>[#192461](https://github.com/flutter/flutter/pull/192461) merged on September 14, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192461) over 4 days, 328 additions and 58 deletions in 10 files</sub>
