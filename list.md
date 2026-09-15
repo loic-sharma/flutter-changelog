@@ -661,7 +661,11 @@
 
 ### September 12, 2026 to September 18, 2026
 
-2 commits.
+3 commits.
+
+* **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support
+  <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Adopts new async/await Swift Pigeon support
   <sub>[#12860](https://github.com/flutter/packages/pull/12860) merged on September 14, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/12860) over 22 hours, 1395 additions and 1510 deletions in 40 files</sub>

@@ -150,7 +150,7 @@
   <sub>[#191823](https://github.com/flutter/flutter/pull/191823) opened on on August 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191823) 106 additions and 39 deletions in 27 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle Windows reserved characters in test target path<br />
-  <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Shenshijun](https://github.com/SSJ-ZYJ)** &mdash; [flutter_tools] Fix flutter doctor path validation for symlinked SDKs<br />
   <sub>[#191975](https://github.com/flutter/flutter/pull/191975) opened on on August 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191975) 119 additions and 6 deletions in 2 files</sub><br />
@@ -281,9 +281,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ci] Sort integration tests and restore Mac test_timeout_secs<br />
   <sub>[#192547](https://github.com/flutter/flutter/pull/192547) opened on on September 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192547) 82 additions and 18 deletions in 8 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Properly detect unexpected process exit on Windows and fix leak-tracking flakes<br />
-  <sub>[#192548](https://github.com/flutter/flutter/pull/192548) opened on on September 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192548) 111 additions and 6 deletions in 4 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Replace deprecated `withOpacity` in `flutter_logo.dart`<br />
   <sub>[#192583](https://github.com/flutter/flutter/pull/192583) opened on on September 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192583) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -342,5 +339,5 @@
   <sub>[#192795](https://github.com/flutter/flutter/pull/192795) opened on on September 15, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192795) 1004 additions and 131 deletions in 81 files</sub><br />
 
 * **[Saif64](https://github.com/Saif64)** &mdash; Document that a null minLines defers to maxLines<br />
-  <sub>[#192799](https://github.com/flutter/flutter/pull/192799) opened on on September 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192799) 14 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#192799](https://github.com/flutter/flutter/pull/192799) opened on on September 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192799) 15 additions and 2 deletions in 1 file</sub><br />
 
