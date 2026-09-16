@@ -4,7 +4,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-23 commits.
+25 commits.
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics<br />
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) merged on September 14, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187568) over 3 months, 202 additions and 181 deletions in 5 files</sub><br />
@@ -47,6 +47,10 @@
   <sub>[#188941](https://github.com/flutter/flutter/pull/188941) merged on September 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188941) over 2 months, 42 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix the HCPP SurfaceControl transaction-list race and split the transaction entry points<br />
+  <sub>[#192606](https://github.com/flutter/flutter/pull/192606) merged on September 16, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192606) over 4 days, 413 additions and 88 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [flutter_tools] Replace KernelAsset with Flutter-owned NativeAssetsMa…<br />
   <sub>[#192800](https://github.com/flutter/flutter/pull/192800) merged on September 15, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192800) over 12 hours, 526 additions and 377 deletions in 11 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -54,6 +58,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate BuildBundleCommand to modular dependency injection<br />
   <sub>[#192462](https://github.com/flutter/flutter/pull/192462) merged on September 15, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/192462) over 6 days, 584 additions and 619 deletions in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Wait for first native frame displayed in android_engine_test<br />
+  <sub>[#191823](https://github.com/flutter/flutter/pull/191823) merged on September 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191823) over 2 weeks, 80 additions and 0 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Split FlutterEngine setUpShell into orthogonal helpers<br />
   <sub>[#192808](https://github.com/flutter/flutter/pull/192808) merged on September 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192808) over 4 hours, 16 additions and 4 deletions in 1 file</sub><br />
