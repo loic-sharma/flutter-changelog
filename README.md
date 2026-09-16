@@ -4,7 +4,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-19 commits.
+23 commits.
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics<br />
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) merged on September 14, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187568) over 3 months, 202 additions and 181 deletions in 5 files</sub><br />
@@ -31,6 +31,10 @@
   <sub>[#192461](https://github.com/flutter/flutter/pull/192461) merged on September 14, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192461) over 4 days, 328 additions and 58 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [iOS] Add Translate API support to Engine<br />
+  <sub>[#189878](https://github.com/flutter/flutter/pull/189878) merged on September 15, 2026 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/189878) over 1 month, 284 additions and 4 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Request unbuffered dispatch for platform view motion events after `_PlatformViewGestureRecognizer` rejects gesture<br />
   <sub>[#192259](https://github.com/flutter/flutter/pull/192259) merged on September 14, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/192259) over 1 week, 1111 additions and 25 deletions in 22 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
@@ -42,6 +46,10 @@
 * **[Pranta Dutta](https://github.com/theprantadutta)** &mdash; Suggest the -d flag after interactive device selection<br />
   <sub>[#188941](https://github.com/flutter/flutter/pull/188941) merged on September 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/188941) over 2 months, 42 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [flutter_tools] Replace KernelAsset with Flutter-owned NativeAssetsMa…<br />
+  <sub>[#192800](https://github.com/flutter/flutter/pull/192800) merged on September 15, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192800) over 12 hours, 526 additions and 377 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate BuildBundleCommand to modular dependency injection<br />
   <sub>[#192462](https://github.com/flutter/flutter/pull/192462) merged on September 15, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/192462) over 6 days, 584 additions and 619 deletions in 8 files</sub><br />
@@ -62,6 +70,14 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; docs: migrate design document guidance to flutter/rfc<br />
   <sub>[#192648](https://github.com/flutter/flutter/pull/192648) merged on September 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192648) over 2 days, 81 additions and 66 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Build wasm_release local build on arm64 macs.<br />
+  <sub>[#192817](https://github.com/flutter/flutter/pull/192817) merged on September 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192817) over 5 hours, 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Migrate ios driver tests batch 4 to simulators<br />
+  <sub>[#192463](https://github.com/flutter/flutter/pull/192463) merged on September 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192463) over 6 days, 80 additions and 11 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Roll pub packages<br />
   <sub>[#192815](https://github.com/flutter/flutter/pull/192815) merged on September 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192815) over 2 hours, 4 additions and 4 deletions in 2 files</sub><br />
@@ -701,11 +717,15 @@
 
 ### September 12, 2026 to September 18, 2026
 
-10 commits.
+11 commits.
 
 * **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support<br />
   <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Convert implementation to Kotlin<br />
+  <sub>[#12635](https://github.com/flutter/packages/pull/12635) merged on September 15, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/packages/pull/12635) over 2 weeks, 514 additions and 555 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[Muhammed Bayraktar](https://github.com/Xelorium)** &mdash; [pigeon] Treat NSNull as null for non-null Flutter API returns<br />
   <sub>[#12531](https://github.com/flutter/packages/pull/12531) merged on September 15, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12531) over 3 weeks, 90 additions and 46 deletions in 9 files</sub><br />

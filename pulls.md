@@ -147,7 +147,7 @@
   <sub>[#191816](https://github.com/flutter/flutter/pull/191816) opened on on August 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191816) 36 additions and 3 deletions in 4 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Wait for first native frame displayed in android_engine_test<br />
-  <sub>[#191823](https://github.com/flutter/flutter/pull/191823) opened on on August 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191823) 106 additions and 39 deletions in 27 files</sub><br />
+  <sub>[#191823](https://github.com/flutter/flutter/pull/191823) opened on on August 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191823) 80 additions and 0 deletions in 26 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle Windows reserved characters in test target path<br />
   <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/191900) 47 additions and 1 deletion in 2 files</sub><br />
@@ -228,7 +228,7 @@
   <sub>[#192398](https://github.com/flutter/flutter/pull/192398) opened on on September 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192398) 47 additions and 3 deletions in 2 files</sub><br />
 
 * **[Dmitrii Zolotov](https://github.com/dzolotov)** &mdash; [engine_tool] Allow a dot in GN target names<br />
-  <sub>[#192423](https://github.com/flutter/flutter/pull/192423) opened on on September 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192423) 25 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#192423](https://github.com/flutter/flutter/pull/192423) opened on on September 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192423) 25 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Detect macOS TCC permission crashes and provide diagnostic guidance<br />
   <sub>[#192432](https://github.com/flutter/flutter/pull/192432) opened on on September 8, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192432) 369 additions and 3 deletions in 5 files</sub><br />
@@ -338,9 +338,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; FocusNode that is detached should report empty ancestors<br />
   <sub>[#192811](https://github.com/flutter/flutter/pull/192811) opened on on September 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/192811) 27 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Build wasm_release local build on arm64 macs.<br />
-  <sub>[#192817](https://github.com/flutter/flutter/pull/192817) opened on on September 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192817) 4 additions and 2 deletions in 1 file</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): migrate Apple build commands to typed options<br />
   <sub>[#192818](https://github.com/flutter/flutter/pull/192818) opened on on September 15, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/192818) 434 additions and 256 deletions in 8 files</sub><br />
 
@@ -352,4 +349,10 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate ResidentRunner, HotRunner, and ColdRunner to modular dependency injection<br />
   <sub>[#192831](https://github.com/flutter/flutter/pull/192831) opened on on September 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192831) 1875 additions and 691 deletions in 29 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate DevFS to modular dependency injection<br />
+  <sub>[#192836](https://github.com/flutter/flutter/pull/192836) opened on on September 15, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/192836) 2283 additions and 799 deletions in 33 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate AttachCommand to modular dependency injection<br />
+  <sub>[#192837](https://github.com/flutter/flutter/pull/192837) opened on on September 15, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/192837) 2419 additions and 1152 deletions in 34 files</sub><br />
 
