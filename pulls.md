@@ -290,8 +290,8 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Respect text affinity in getLineBoundary at a soft wrap<br />
   <sub>[#192664](https://github.com/flutter/flutter/pull/192664) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192664) 119 additions and 5 deletions in 3 files</sub><br />
 
-* **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Fix the text benchmark on Impeller backends<br />
-  <sub>[#192677](https://github.com/flutter/flutter/pull/192677) opened on on September 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192677) 13 additions and 0 deletions in 1 file</sub><br />
+* **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Avoid heap-allocating std::function captures per draw<br />
+  <sub>[#192679](https://github.com/flutter/flutter/pull/192679) opened on on September 12, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/192679) 4 additions and 21 deletions in 3 files</sub><br />
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Ignore sibling ScrollView notifications in RawScrollbar<br />
   <sub>[#192684](https://github.com/flutter/flutter/pull/192684) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192684) 85 additions and 0 deletions in 2 files</sub><br />
@@ -318,7 +318,7 @@
   <sub>[#192727](https://github.com/flutter/flutter/pull/192727) opened on on September 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192727) 42 additions and 8 deletions in 2 files</sub><br />
 
 * **[Sarah Zakarias](https://github.com/szakarias)** &mdash; Add missing @docImport directives for doc comment references<br />
-  <sub>[#192734](https://github.com/flutter/flutter/pull/192734) opened on on September 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192734) 31 additions and 1 deletion in 14 files</sub><br />
+  <sub>[#192734](https://github.com/flutter/flutter/pull/192734) opened on on September 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192734) 32 additions and 1 deletion in 14 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Use CAMetalLayer while preserving platform view compatibility on iOS<br />
   <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/192794) 130 additions and 179 deletions in 7 files</sub><br />
@@ -328,9 +328,6 @@
 
 * **[Saif64](https://github.com/Saif64)** &mdash; Document that a null minLines defers to maxLines<br />
   <sub>[#192799](https://github.com/flutter/flutter/pull/192799) opened on on September 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192799) 15 additions and 2 deletions in 1 file</sub><br />
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; FocusNode that is detached should report empty ancestors<br />
-  <sub>[#192811](https://github.com/flutter/flutter/pull/192811) opened on on September 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/192811) 27 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): migrate Apple build commands to typed options<br />
   <sub>[#192818](https://github.com/flutter/flutter/pull/192818) opened on on September 15, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/192818) 434 additions and 256 deletions in 8 files</sub><br />
@@ -349,4 +346,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate AttachCommand to modular dependency injection<br />
   <sub>[#192837](https://github.com/flutter/flutter/pull/192837) opened on on September 15, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/192837) 2419 additions and 1152 deletions in 34 files</sub><br />
+
+* **[ShityLife](https://github.com/ShityLife)** &mdash; [tool] Migrate legacy status bar appearance for the iOS 27 SDK<br />
+  <sub>[#192843](https://github.com/flutter/flutter/pull/192843) opened on on September 16, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192843) 411 additions and 0 deletions in 5 files</sub><br />
 

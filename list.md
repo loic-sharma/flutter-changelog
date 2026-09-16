@@ -4,12 +4,17 @@
 
 ### September 12, 2026 to September 18, 2026
 
-25 commits.
+26 commits.
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) merged on September 14, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187568) over 3 months, 202 additions and 181 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary><img width="1000" alt="546867255-4ad56291-9603-40c1-ae5a-3e319017c3c9" src="https://github.com/user-attachments/assets/8e72ebff-fb8f-4613-b042-7668db15bcf5" /></details></sub>
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Fix incorrect UberSDF pixelsize used for stroked shapes
+  <sub>[#192659](https://github.com/flutter/flutter/pull/192659) merged on September 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192659) over 4 days, 40 additions and 28 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+  <sub><details><summary>3 images...</summary><img width="1024" height="768" alt="impeller_Play_AiksTest_CanRenderTransformedRectWithNearVerticalEdgeHairline_MetalSDF" src="https://github.com/user-attachments/assets/c80c13ce-cc8d-4639-a806-e128981f8fa6" /><img width="1024" height="768" alt="impeller_Play_AiksTest_CanRenderTransformedRectWithNearVerticalEdgeHairline_MetalSDF" src="https://github.com/user-attachments/assets/dd0b10bf-6bb1-4c11-9367-dfdaf74a56a7" /><img width="366" height="1028" alt="image" src="https://github.com/user-attachments/assets/09f1ebf9-d14f-4b31-bc65-a545d3a3317b" /></details></sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate BuildApkCommand and Android build toolchain to modular dependency injection
   <sub>[#190776](https://github.com/flutter/flutter/pull/190776) merged on September 15, 2026 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/190776) over 1 month, 496 additions and 87 deletions in 14 files</sub>
