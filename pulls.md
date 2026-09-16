@@ -209,9 +209,6 @@
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fix LiveTestWidgetsFlutterBinding dropping synthetic pointer cancels for test-sourced pointers<br />
   <sub>[#192289](https://github.com/flutter/flutter/pull/192289) opened on on September 4, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/192289) 131 additions and 3 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Roll package:dds to 5.4.0<br />
-  <sub>[#192295](https://github.com/flutter/flutter/pull/192295) opened on on September 4, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/192295) 7 additions and 7 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Extract Windows archives using native tar with PowerShell fallback<br />
   <sub>[#192298](https://github.com/flutter/flutter/pull/192298) opened on on September 4, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/192298) 247 additions and 110 deletions in 4 files</sub><br />
 
@@ -317,9 +314,6 @@
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Explain why initState() is too early to depend on an inherited widget<br />
   <sub>[#192727](https://github.com/flutter/flutter/pull/192727) opened on on September 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192727) 42 additions and 8 deletions in 2 files</sub><br />
 
-* **[Sarah Zakarias](https://github.com/szakarias)** &mdash; Add missing @docImport directives for doc comment references<br />
-  <sub>[#192734](https://github.com/flutter/flutter/pull/192734) opened on on September 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192734) 32 additions and 1 deletion in 14 files</sub><br />
-
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Use CAMetalLayer while preserving platform view compatibility on iOS<br />
   <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/192794) 130 additions and 179 deletions in 7 files</sub><br />
 
@@ -349,4 +343,13 @@
 
 * **[ShityLife](https://github.com/ShityLife)** &mdash; [tool] Migrate legacy status bar appearance for the iOS 27 SDK<br />
   <sub>[#192843](https://github.com/flutter/flutter/pull/192843) opened on on September 16, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192843) 411 additions and 0 deletions in 5 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Document ListView usage with the `Row/Column` widget<br />
+  <sub>[#192860](https://github.com/flutter/flutter/pull/192860) opened on on September 16, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/192860) 21 additions and 0 deletions in 1 file</sub><br />
+
+* **[Muhammad Al-Muzahid](https://github.com/almuzahidseyam)** &mdash; docs: fix duplicate 'the' typo in standalone_gles.md<br />
+  <sub>[#192865](https://github.com/flutter/flutter/pull/192865) opened on on September 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192865) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup batch 4<br />
+  <sub>[#192872](https://github.com/flutter/flutter/pull/192872) opened on on September 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192872) 0 additions and 2 deletions in 1 file</sub><br />
 

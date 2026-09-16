@@ -416,13 +416,13 @@
 <details>
 <summary>71 commits...</summary>
 
-* **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImageTransition.fadeInOver to fade the image in over the placeholder<br />
-  <sub>[#186246](https://github.com/flutter/flutter/pull/186246) merged on September 2, 2026 &mdash; **Large:** [76 comments](https://github.com/flutter/flutter/pull/186246) over 3 months, 788 additions and 44 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Migrate to listen package<br />
   <sub>[#189111](https://github.com/flutter/flutter/pull/189111) merged on August 31, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/189111) over 1 month, 55 additions and 572 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Anas Saifi](https://github.com/anazr9)** &mdash; Add FadeInImageTransition.fadeInOver to fade the image in over the placeholder<br />
+  <sub>[#186246](https://github.com/flutter/flutter/pull/186246) merged on September 2, 2026 &mdash; **Large:** [76 comments](https://github.com/flutter/flutter/pull/186246) over 3 months, 788 additions and 44 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [wimp] Turn on multithreading for wimp.<br />
   <sub>[#191747](https://github.com/flutter/flutter/pull/191747) merged on September 1, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/191747) over 1 week, 349 additions and 106 deletions in 30 files</sub><br />
@@ -1055,10 +1055,14 @@
 
 ### September 12, 2026 to September 18, 2026
 
-4 commits.
+5 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; An update of the FAQ - a first draft<br />
   <sub>[#13746](https://github.com/flutter/website/pull/13746) merged on September 14, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/website/pull/13746) over 3 weeks, 435 additions and 910 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Manuel Santos Souza](https://github.com/manuelzzz)** &mdash; Add back-to-top button to blog posts<br />
+  <sub>[#13882](https://github.com/flutter/website/pull/13882) merged on September 16, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/13882) over 4 days, 106 additions and 6 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Muthu Ganesh](https://github.com/MuthuGCodes)** &mdash; Update documentation for iOS 27, macOS 27, and Xcode 27 support<br />
