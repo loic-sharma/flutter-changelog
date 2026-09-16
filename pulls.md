@@ -81,7 +81,7 @@
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Web build subcommands and toolchain to modular dependency injection<br />
-  <sub>[#190783](https://github.com/flutter/flutter/pull/190783) opened on on August 8, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/190783) 960 additions and 1151 deletions in 14 files</sub><br />
+  <sub>[#190783](https://github.com/flutter/flutter/pull/190783) opened on on August 8, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/190783) 970 additions and 1159 deletions in 15 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update the CLI to reject passing engine configuration flags with a prebuilt binary in release mode<br />
   <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/190870) 871 additions and 196 deletions in 10 files</sub><br />
@@ -90,7 +90,7 @@
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[William Yang](https://github.com/wilyan09007)** &mdash; [ImpellerC] Escape spaces in depfile paths<br />
-  <sub>[#190985](https://github.com/flutter/flutter/pull/190985) opened on on August 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/190985) 67 additions and 4 deletions in 5 files</sub><br />
+  <sub>[#190985](https://github.com/flutter/flutter/pull/190985) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190985) 67 additions and 4 deletions in 5 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Make web test subshards dynamically determined by .ci.yaml<br />
   <sub>[#191003](https://github.com/flutter/flutter/pull/191003) opened on on August 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191003) 34 additions and 40 deletions in 2 files</sub><br />
@@ -288,7 +288,7 @@
   <sub>[#192664](https://github.com/flutter/flutter/pull/192664) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192664) 119 additions and 5 deletions in 3 files</sub><br />
 
 * **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Avoid heap-allocating std::function captures per draw<br />
-  <sub>[#192679](https://github.com/flutter/flutter/pull/192679) opened on on September 12, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/192679) 4 additions and 21 deletions in 3 files</sub><br />
+  <sub>[#192679](https://github.com/flutter/flutter/pull/192679) opened on on September 12, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/192679) 4 additions and 21 deletions in 3 files</sub><br />
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Ignore sibling ScrollView notifications in RawScrollbar<br />
   <sub>[#192684](https://github.com/flutter/flutter/pull/192684) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192684) 85 additions and 0 deletions in 2 files</sub><br />
@@ -349,9 +349,6 @@
 
 * **[Muhammad Al-Muzahid](https://github.com/almuzahidseyam)** &mdash; docs: fix duplicate 'the' typo in standalone_gles.md<br />
   <sub>[#192865](https://github.com/flutter/flutter/pull/192865) opened on on September 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192865) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup batch 4<br />
-  <sub>[#192872](https://github.com/flutter/flutter/pull/192872) opened on on September 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192872) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates freetype2 to 2.14.2<br />
   <sub>[#192883](https://github.com/flutter/flutter/pull/192883) opened on on September 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192883) 1 addition and 1 deletion in 1 file</sub><br />

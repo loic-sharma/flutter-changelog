@@ -4,7 +4,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-26 commits.
+27 commits.
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics<br />
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) merged on September 14, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187568) over 3 months, 202 additions and 181 deletions in 5 files</sub><br />
@@ -83,6 +83,10 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; docs: migrate design document guidance to flutter/rfc<br />
   <sub>[#192648](https://github.com/flutter/flutter/pull/192648) merged on September 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192648) over 2 days, 81 additions and 66 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup batch 4<br />
+  <sub>[#192872](https://github.com/flutter/flutter/pull/192872) merged on September 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192872) over 2 hours, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Build wasm_release local build on arm64 macs.<br />
   <sub>[#192817](https://github.com/flutter/flutter/pull/192817) merged on September 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192817) over 5 hours, 4 additions and 2 deletions in 1 file</sub><br />
@@ -730,7 +734,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-12 commits.
+13 commits.
 
 * **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support<br />
   <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub><br />
@@ -767,6 +771,10 @@
 * **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; [material_ui] Add sortIconBuilder to DataTable, PaginatedDataTable, and DataTableThemeData<br />
   <sub>[#12645](https://github.com/flutter/packages/pull/12645) merged on September 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/12645) over 2 weeks, 195 additions and 6 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Convert tests to Kotlin<br />
+  <sub>[#12884](https://github.com/flutter/packages/pull/12884) merged on September 16, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/12884) over 20 hours, 638 additions and 784 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[danielleon-cmd](https://github.com/danielleon-cmd)** &mdash; [espresso] Adopt code-excerpts for README<br />
   <sub>[#12644](https://github.com/flutter/packages/pull/12644) merged on September 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12644) over 2 weeks, 46 additions and 19 deletions in 7 files</sub><br />
@@ -1059,7 +1067,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-8 commits.
+11 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; An update of the FAQ - a first draft<br />
   <sub>[#13746](https://github.com/flutter/website/pull/13746) merged on September 14, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/website/pull/13746) over 3 weeks, 435 additions and 910 deletions in 10 files</sub><br />
@@ -1076,6 +1084,18 @@
 * **[Raman Verma](https://github.com/maranix)** &mdash; docs(widget-previewer): update examples to match PreviewThemeData API<br />
   <sub>[#13861](https://github.com/flutter/website/pull/13861) merged on September 16, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/13861) over 1 week, 58 additions and 39 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Use consistent z-index scale<br />
+  <sub>[#13895](https://github.com/flutter/website/pull/13895) merged on September 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13895) over 4 hours, 22 additions and 13 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Small updates to AI page<br />
+  <sub>[#13893](https://github.com/flutter/website/pull/13893) merged on September 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13893) over 1 day, 2 additions and 26 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Provide better feedback if invalid site is specified to tool<br />
+  <sub>[#13889](https://github.com/flutter/website/pull/13889) merged on September 16, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13889) over 1 day, 24 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Remove go/video-player-web-shaka<br />
   <sub>[#13896](https://github.com/flutter/website/pull/13896) merged on September 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13896) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
