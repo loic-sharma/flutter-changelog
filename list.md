@@ -4,12 +4,16 @@
 
 ### September 12, 2026 to September 18, 2026
 
-27 commits.
+29 commits.
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) merged on September 14, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187568) over 3 months, 202 additions and 181 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary><img width="1000" alt="546867255-4ad56291-9603-40c1-ae5a-3e319017c3c9" src="https://github.com/user-attachments/assets/8e72ebff-fb8f-4613-b042-7668db15bcf5" /></details></sub>
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix square corner issue
+  <sub>[#191096](https://github.com/flutter/flutter/pull/191096) merged on September 16, 2026 &mdash; **Medium:** [50 comments](https://github.com/flutter/flutter/pull/191096) over 1 month, 342 additions and 42 deletions in 10 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Fix incorrect UberSDF pixelsize used for stroked shapes
   <sub>[#192659](https://github.com/flutter/flutter/pull/192659) merged on September 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192659) over 4 days, 40 additions and 28 deletions in 3 files</sub>
@@ -66,6 +70,10 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Wait for first native frame displayed in android_engine_test
   <sub>[#191823](https://github.com/flutter/flutter/pull/191823) merged on September 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191823) over 2 weeks, 80 additions and 0 deletions in 26 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Separate HCPP tests in android_engine_test into their own CI target
+  <sub>[#192512](https://github.com/flutter/flutter/pull/192512) merged on September 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192512) over 1 week, 158 additions and 103 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Split FlutterEngine setUpShell into orthogonal helpers
@@ -734,7 +742,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-13 commits.
+14 commits.
 
 * **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support
   <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub>
@@ -775,6 +783,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [local_auth] Convert tests to Kotlin
   <sub>[#12884](https://github.com/flutter/packages/pull/12884) merged on September 16, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/12884) over 20 hours, 638 additions and 784 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
+* **[Mohanad Abdallah](https://github.com/MohanadAbdallah-mv)** &mdash; [material_ui] Remove redundant disabledBorder check in InputDecorationThemeData
+  <sub>[#12797](https://github.com/flutter/packages/pull/12797) merged on September 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12797) over 1 week, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[danielleon-cmd](https://github.com/danielleon-cmd)** &mdash; [espresso] Adopt code-excerpts for README
   <sub>[#12644](https://github.com/flutter/packages/pull/12644) merged on September 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12644) over 2 weeks, 46 additions and 19 deletions in 7 files</sub>

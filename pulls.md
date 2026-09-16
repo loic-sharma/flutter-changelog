@@ -81,7 +81,7 @@
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Web build subcommands and toolchain to modular dependency injection<br />
-  <sub>[#190783](https://github.com/flutter/flutter/pull/190783) opened on on August 8, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/190783) 970 additions and 1159 deletions in 15 files</sub><br />
+  <sub>[#190783](https://github.com/flutter/flutter/pull/190783) opened on on August 8, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/190783) 906 additions and 1172 deletions in 8 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update the CLI to reject passing engine configuration flags with a prebuilt binary in release mode<br />
   <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/190870) 871 additions and 196 deletions in 10 files</sub><br />
@@ -222,7 +222,7 @@
   <sub>[#192398](https://github.com/flutter/flutter/pull/192398) opened on on September 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192398) 47 additions and 3 deletions in 2 files</sub><br />
 
 * **[Dmitrii Zolotov](https://github.com/dzolotov)** &mdash; [engine_tool] Allow a dot in GN target names<br />
-  <sub>[#192423](https://github.com/flutter/flutter/pull/192423) opened on on September 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192423) 25 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#192423](https://github.com/flutter/flutter/pull/192423) opened on on September 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192423) 38 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Detect macOS TCC permission crashes and provide diagnostic guidance<br />
   <sub>[#192432](https://github.com/flutter/flutter/pull/192432) opened on on September 8, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192432) 369 additions and 3 deletions in 5 files</sub><br />
@@ -259,9 +259,6 @@
 
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; [flutter_tools] Support custom asset bundle paths<br />
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Separate HCPP tests in android_engine_test into their own CI target<br />
-  <sub>[#192512](https://github.com/flutter/flutter/pull/192512) opened on on September 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192512) 158 additions and 103 deletions in 5 files</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [macOS] Fix back buffer cache returning a wrong-size surface (Impeller null deref in Canvas::SetupRenderPass)<br />
   <sub>[#192522](https://github.com/flutter/flutter/pull/192522) opened on on September 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192522) 143 additions and 3 deletions in 5 files</sub><br />
@@ -349,9 +346,6 @@
 
 * **[Muhammad Al-Muzahid](https://github.com/almuzahidseyam)** &mdash; docs: fix duplicate 'the' typo in standalone_gles.md<br />
   <sub>[#192865](https://github.com/flutter/flutter/pull/192865) opened on on September 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192865) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates freetype2 to 2.14.2<br />
-  <sub>[#192883](https://github.com/flutter/flutter/pull/192883) opened on on September 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192883) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll googletest dependency in Linux plugin template<br />
   <sub>[#192885](https://github.com/flutter/flutter/pull/192885) opened on on September 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192885) 2 additions and 2 deletions in 1 file</sub><br />
