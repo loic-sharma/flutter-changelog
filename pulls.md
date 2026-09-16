@@ -39,7 +39,7 @@
   <sub>[#188455](https://github.com/flutter/flutter/pull/188455) opened on on June 23, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188455) 493 additions and 25 deletions in 3 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Add opt-in Skwasm multi-surface rasterizer<br />
-  <sub>[#188628](https://github.com/flutter/flutter/pull/188628) opened on on June 26, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/188628) 697 additions and 58 deletions in 17 files</sub><br />
+  <sub>[#188628](https://github.com/flutter/flutter/pull/188628) opened on on June 26, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/188628) 700 additions and 58 deletions in 17 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
@@ -261,7 +261,7 @@
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Separate HCPP tests in android_engine_test into their own CI target<br />
-  <sub>[#192512](https://github.com/flutter/flutter/pull/192512) opened on on September 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192512) 154 additions and 103 deletions in 5 files</sub><br />
+  <sub>[#192512](https://github.com/flutter/flutter/pull/192512) opened on on September 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192512) 158 additions and 103 deletions in 5 files</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [macOS] Fix back buffer cache returning a wrong-size surface (Impeller null deref in Canvas::SetupRenderPass)<br />
   <sub>[#192522](https://github.com/flutter/flutter/pull/192522) opened on on September 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192522) 143 additions and 3 deletions in 5 files</sub><br />
@@ -351,5 +351,11 @@
   <sub>[#192865](https://github.com/flutter/flutter/pull/192865) opened on on September 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192865) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove bringup batch 4<br />
-  <sub>[#192872](https://github.com/flutter/flutter/pull/192872) opened on on September 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192872) 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#192872](https://github.com/flutter/flutter/pull/192872) opened on on September 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192872) 0 additions and 2 deletions in 1 file</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates freetype2 to 2.14.2<br />
+  <sub>[#192883](https://github.com/flutter/flutter/pull/192883) opened on on September 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192883) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll googletest dependency in Linux plugin template<br />
+  <sub>[#192885](https://github.com/flutter/flutter/pull/192885) opened on on September 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192885) 2 additions and 2 deletions in 1 file</sub><br />
 

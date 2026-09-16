@@ -730,7 +730,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-11 commits.
+12 commits.
 
 * **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support
   <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub>
@@ -743,6 +743,10 @@
 * **[Muhammed Bayraktar](https://github.com/Xelorium)** &mdash; [pigeon] Treat NSNull as null for non-null Flutter API returns
   <sub>[#12531](https://github.com/flutter/packages/pull/12531) merged on September 15, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12531) over 3 weeks, 90 additions and 46 deletions in 9 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [bayraktarmdkaraca](https://github.com/bayraktarmdkaraca), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Faheem Abbas](https://github.com/faheemabbas766)** &mdash; [google_maps_flutter] Document tile cache flicker
+  <sub>[#12315](https://github.com/flutter/packages/pull/12315) merged on September 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12315) over 1 month, 10 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [ci] Checks unmerged batch release sync back before next release
   <sub>[#12868](https://github.com/flutter/packages/pull/12868) merged on September 15, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/packages/pull/12868) over 21 hours, 498 additions and 55 deletions in 10 files</sub>
@@ -815,7 +819,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [zhongliugo](https://github.com/flutter-zl)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] main actor async flutter api
-  <sub>[#12729](https://github.com/flutter/packages/pull/12729) merged on September 11, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/packages/pull/12729) over 1 week, 1149 additions and 126 deletions in 27 files</sub>
+  <sub>[#12729](https://github.com/flutter/packages/pull/12729) merged on September 11, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/12729) over 1 week, 1149 additions and 126 deletions in 27 files</sub>
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [image_picker] Add native tests for photo-library access and UIImagePicker completion
@@ -1055,7 +1059,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-5 commits.
+8 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; An update of the FAQ - a first draft
   <sub>[#13746](https://github.com/flutter/website/pull/13746) merged on September 14, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/website/pull/13746) over 3 weeks, 435 additions and 910 deletions in 10 files</sub>
@@ -1068,6 +1072,18 @@
 * **[Muthu Ganesh](https://github.com/MuthuGCodes)** &mdash; Update documentation for iOS 27, macOS 27, and Xcode 27 support
   <sub>[#13872](https://github.com/flutter/website/pull/13872) merged on September 14, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/13872) over 4 days, 31 additions and 67 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Raman Verma](https://github.com/maranix)** &mdash; docs(widget-previewer): update examples to match PreviewThemeData API
+  <sub>[#13861](https://github.com/flutter/website/pull/13861) merged on September 16, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/13861) over 1 week, 58 additions and 39 deletions in 3 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; Remove go/video-player-web-shaka
+  <sub>[#13896](https://github.com/flutter/website/pull/13896) merged on September 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13896) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Move Cocoapods support to legacy
+  <sub>[#13880](https://github.com/flutter/website/pull/13880) merged on September 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13880) over 5 days, 32 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Update Cursor plugin installation instructions
   <sub>[#13890](https://github.com/flutter/website/pull/13890) merged on September 14, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13890) over 1 hour, 9 additions and 17 deletions in 1 file</sub>
