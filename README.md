@@ -758,7 +758,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-14 commits.
+15 commits.
 
 * **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support<br />
   <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub><br />
@@ -815,6 +815,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [cross_file] Move cross_file into a federated cross_file directory<br />
   <sub>[#12869](https://github.com/flutter/packages/pull/12869) merged on September 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12869) over 18 hours, 1 addition and 1 deletion in 21 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Revert "Manual roll Flutter from 27fec0e365a3 to 8737f11506e7 (9 revisions)"<br />
+  <sub>[#12899](https://github.com/flutter/packages/pull/12899) merged on September 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12899) over 8 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 ### September 5, 2026 to September 11, 2026
 
@@ -1095,7 +1099,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-11 commits.
+14 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; An update of the FAQ - a first draft<br />
   <sub>[#13746](https://github.com/flutter/website/pull/13746) merged on September 14, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/website/pull/13746) over 3 weeks, 435 additions and 910 deletions in 10 files</sub><br />
@@ -1113,6 +1117,14 @@
   <sub>[#13861](https://github.com/flutter/website/pull/13861) merged on September 16, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/website/pull/13861) over 1 week, 58 additions and 39 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Try out a style guide for gemini-code-assist reviews<br />
+  <sub>[#13891](https://github.com/flutter/website/pull/13891) merged on September 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13891) over 2 days, 123 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Connie Ooi ](https://github.com/conooi)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update staging of sites to be more conditional<br />
+  <sub>[#13894](https://github.com/flutter/website/pull/13894) merged on September 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13894) over 23 hours, 172 additions and 1 deletion in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [www] Use consistent z-index scale<br />
   <sub>[#13895](https://github.com/flutter/website/pull/13895) merged on September 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13895) over 4 hours, 22 additions and 13 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
@@ -1127,6 +1139,10 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Remove go/video-player-web-shaka<br />
   <sub>[#13896](https://github.com/flutter/website/pull/13896) merged on September 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13896) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Prateek Jain](https://github.com/prateek601)** &mdash; Fix Swift Package Manager link in ios add to app project setup page<br />
+  <sub>[#13898](https://github.com/flutter/website/pull/13898) merged on September 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13898) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Move Cocoapods support to legacy<br />
