@@ -4,7 +4,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-32 commits.
+33 commits.
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics<br />
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) merged on September 14, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187568) over 3 months, 202 additions and 181 deletions in 5 files</sub><br />
@@ -47,6 +47,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Request unbuffered dispatch for platform view motion events after `_PlatformViewGestureRecognizer` rejects gesture<br />
   <sub>[#192259](https://github.com/flutter/flutter/pull/192259) merged on September 14, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/192259) over 1 week, 1111 additions and 25 deletions in 22 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Avoid heap-allocating std::function captures per draw<br />
+  <sub>[#192679](https://github.com/flutter/flutter/pull/192679) merged on September 17, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/192679) over 4 days, 4 additions and 21 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): migrate Android build commands to typed options<br />
   <sub>[#192524](https://github.com/flutter/flutter/pull/192524) merged on September 15, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192524) over 5 days, 303 additions and 191 deletions in 7 files</sub><br />

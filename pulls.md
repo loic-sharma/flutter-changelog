@@ -284,6 +284,9 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Respect text affinity in getLineBoundary at a soft wrap<br />
   <sub>[#192664](https://github.com/flutter/flutter/pull/192664) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192664) 119 additions and 5 deletions in 3 files</sub><br />
 
+* **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Fix the text benchmark on Impeller backends<br />
+  <sub>[#192677](https://github.com/flutter/flutter/pull/192677) opened on on September 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192677) 13 additions and 0 deletions in 1 file</sub><br />
+
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Ignore sibling ScrollView notifications in RawScrollbar<br />
   <sub>[#192684](https://github.com/flutter/flutter/pull/192684) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192684) 85 additions and 0 deletions in 2 files</sub><br />
 
@@ -324,16 +327,16 @@
   <sub>[#192822](https://github.com/flutter/flutter/pull/192822) opened on on September 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192822) 19 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Require explicit dependency injection for FlutterDevice and FlutterDevice.create<br />
-  <sub>[#192830](https://github.com/flutter/flutter/pull/192830) opened on on September 15, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192830) 1010 additions and 451 deletions in 23 files</sub><br />
+  <sub>[#192830](https://github.com/flutter/flutter/pull/192830) opened on on September 15, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/192830) 1457 additions and 814 deletions in 32 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate ResidentRunner, HotRunner, and ColdRunner to modular dependency injection<br />
-  <sub>[#192831](https://github.com/flutter/flutter/pull/192831) opened on on September 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192831) 1875 additions and 691 deletions in 29 files</sub><br />
+  <sub>[#192831](https://github.com/flutter/flutter/pull/192831) opened on on September 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192831) 2324 additions and 1057 deletions in 36 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate DevFS to modular dependency injection<br />
-  <sub>[#192836](https://github.com/flutter/flutter/pull/192836) opened on on September 15, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/192836) 2283 additions and 799 deletions in 33 files</sub><br />
+  <sub>[#192836](https://github.com/flutter/flutter/pull/192836) opened on on September 15, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/192836) 2732 additions and 1165 deletions in 40 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate AttachCommand to modular dependency injection<br />
-  <sub>[#192837](https://github.com/flutter/flutter/pull/192837) opened on on September 15, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/192837) 2419 additions and 1152 deletions in 34 files</sub><br />
+  <sub>[#192837](https://github.com/flutter/flutter/pull/192837) opened on on September 15, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/192837) 2868 additions and 1518 deletions in 41 files</sub><br />
 
 * **[ShityLife](https://github.com/ShityLife)** &mdash; [tool] Migrate legacy status bar appearance for the iOS 27 SDK<br />
   <sub>[#192843](https://github.com/flutter/flutter/pull/192843) opened on on September 16, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192843) 411 additions and 0 deletions in 5 files</sub><br />
@@ -349,4 +352,16 @@
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update Android plugin language guidance<br />
   <sub>[#192906](https://github.com/flutter/flutter/pull/192906) opened on on September 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192906) 9 additions and 6 deletions in 1 file</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix black tooltips and popups on Wayland<br />
+  <sub>[#192910](https://github.com/flutter/flutter/pull/192910) opened on on September 17, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192910) 288 additions and 135 deletions in 7 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Request a frame when a view starts rendering<br />
+  <sub>[#192911](https://github.com/flutter/flutter/pull/192911) opened on on September 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192911) 36 additions and 0 deletions in 5 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; perf(widgets): use const <Never>{} in InheritedModelElement and avoid redundant casts in RenderObjectElement.update<br />
+  <sub>[#192913](https://github.com/flutter/flutter/pull/192913) opened on on September 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192913) 64 additions and 8 deletions in 3 files</sub><br />
+
+* **[Kyrylo K.](https://github.com/krll-kov)** &mdash; [Windows] Use an unsized texture format for backing stores on OpenGL ES 2<br />
+  <sub>[#192917](https://github.com/flutter/flutter/pull/192917) opened on on September 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192917) 132 additions and 9 deletions in 3 files</sub><br />
 
