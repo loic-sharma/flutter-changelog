@@ -87,7 +87,7 @@
   <sub>[#190783](https://github.com/flutter/flutter/pull/190783) opened on on August 8, 2026 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/190783) 913 additions and 1182 deletions in 10 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate TestCommand and platform runner to modular dependency injection<br />
-  <sub>[#190789](https://github.com/flutter/flutter/pull/190789) opened on on August 8, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/190789) 873 additions and 753 deletions in 17 files</sub><br />
+  <sub>[#190789](https://github.com/flutter/flutter/pull/190789) opened on on August 8, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/190789) 827 additions and 760 deletions in 17 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update the CLI to reject passing engine configuration flags with a prebuilt binary in release mode<br />
   <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/190870) 871 additions and 196 deletions in 10 files</sub><br />
@@ -109,9 +109,6 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191220) 129 additions and 56 deletions in 2 files</sub><br />
-
-* **[holzgeist](https://github.com/holzgeist)** &mdash; chore: correct copy paste error in test name<br />
-  <sub>[#191342](https://github.com/flutter/flutter/pull/191342) opened on on August 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191342) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[sazzadhossainemon06-droid](https://github.com/sazzadhossainemon06-droid)** &mdash; Update CONTRIBUTING.md<br />
   <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />
@@ -368,14 +365,23 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; perf(widgets): use const <Never>{} in InheritedModelElement and avoid redundant casts in RenderObjectElement.update<br />
   <sub>[#192913](https://github.com/flutter/flutter/pull/192913) opened on on September 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192913) 64 additions and 8 deletions in 3 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CoverageCollector and TestGoldenComparator to modular dependency injection<br />
-  <sub>[#192924](https://github.com/flutter/flutter/pull/192924) opened on on September 17, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192924) 350 additions and 194 deletions in 7 files</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CoverageCollector to modular dependency injection<br />
+  <sub>[#192924](https://github.com/flutter/flutter/pull/192924) opened on on September 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192924) 129 additions and 91 deletions in 4 files</sub><br />
+
+* **[Yazan Arafeh](https://github.com/yazanmg)** &mdash; Fix RTL table semantics column indices<br />
+  <sub>[#192929](https://github.com/flutter/flutter/pull/192929) opened on on September 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192929) 85 additions and 9 deletions in 2 files</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Gradient texture cache for UberSDF gradients<br />
+  <sub>[#192948](https://github.com/flutter/flutter/pull/192948) opened on on September 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192948) 228 additions and 6 deletions in 8 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [android]: removes RegisterExternalTexture race condition<br />
-  <sub>[#192951](https://github.com/flutter/flutter/pull/192951) opened on on September 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192951) 202 additions and 8 deletions in 5 files</sub><br />
+  <sub>[#192951](https://github.com/flutter/flutter/pull/192951) opened on on September 17, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/192951) 202 additions and 8 deletions in 5 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove `ios_debug_unopt_sim` builder from `Mac mac_unopt`<br />
   <sub>[#192960](https://github.com/flutter/flutter/pull/192960) opened on on September 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192960) 0 additions and 65 deletions in 1 file</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; SSBO-based gradients in UberSDF<br />
+  <sub>[#192962](https://github.com/flutter/flutter/pull/192962) opened on on September 17, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192962) 667 additions and 412 deletions in 12 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Preserve DOM focus on role update and honor isAccessibilityFocusBlocked<br />
   <sub>[#192963](https://github.com/flutter/flutter/pull/192963) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192963) 142 additions and 3 deletions in 5 files</sub><br />
@@ -392,17 +398,11 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Add SemanticsRole.listBox and SemanticsRole.option for WAI-ARIA listbox options<br />
   <sub>[#192971](https://github.com/flutter/flutter/pull/192971) opened on on September 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192971) 213 additions and 3 deletions in 12 files</sub><br />
 
-* **[Sarah Zakarias](https://github.com/szakarias)** &mdash; Remove doc comment references to GTK C types<br />
-  <sub>[#192977](https://github.com/flutter/flutter/pull/192977) opened on on September 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192977) 7 additions and 7 deletions in 1 file</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Reducing-Test-Flakiness.md: promoting a test to prod removes bringup<br />
   <sub>[#192983](https://github.com/flutter/flutter/pull/192983) opened on on September 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192983) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [Impeller] Pixel align blend subpass textures<br />
   <sub>[#192988](https://github.com/flutter/flutter/pull/192988) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192988) 112 additions and 8 deletions in 2 files</sub><br />
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Remove allocation from GetWindowPositionCallback<br />
-  <sub>[#192990](https://github.com/flutter/flutter/pull/192990) opened on on September 18, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/192990) 143 additions and 223 deletions in 5 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Dispose OverlayEntry in WidgetsApp.router semantics tree structure test<br />
   <sub>[#192995](https://github.com/flutter/flutter/pull/192995) opened on on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192995) 5 additions and 1 deletion in 1 file</sub><br />
@@ -417,19 +417,19 @@
   <sub>[#192999](https://github.com/flutter/flutter/pull/192999) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192999) 7 additions and 1 deletion in 1 file</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Do not present the root surface when an external view embedder owns it<br />
-  <sub>[#193000](https://github.com/flutter/flutter/pull/193000) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193000) 97 additions and 10 deletions in 4 files</sub><br />
+  <sub>[#193000](https://github.com/flutter/flutter/pull/193000) opened on on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193000) 97 additions and 7 deletions in 4 files</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Move the Vulkan wrapped-texture helper out of the GPU surface<br />
-  <sub>[#193001](https://github.com/flutter/flutter/pull/193001) opened on on September 18, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/193001) 130 additions and 56 deletions in 4 files</sub><br />
+  <sub>[#193001](https://github.com/flutter/flutter/pull/193001) opened on on September 18, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/193001) 219 additions and 59 deletions in 7 files</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Give the Vulkan test context the extensions Impeller requires<br />
-  <sub>[#193002](https://github.com/flutter/flutter/pull/193002) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193002) 183 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#193002](https://github.com/flutter/flutter/pull/193002) opened on on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193002) 183 additions and 2 deletions in 4 files</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Make an Impeller render target from a Vulkan backing store<br />
-  <sub>[#193003](https://github.com/flutter/flutter/pull/193003) opened on on September 18, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/193003) 560 additions and 71 deletions in 10 files</sub><br />
+  <sub>[#193003](https://github.com/flutter/flutter/pull/193003) opened on on September 18, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/193003) 647 additions and 73 deletions in 13 files</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Run the shared Vulkan embedder tests under Impeller as well as Skia<br />
-  <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/193004) 685 additions and 88 deletions in 21 files</sub><br />
+  <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/193004) 772 additions and 90 deletions in 24 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flutter doctor path validation for symlinked SDKs<br />
   <sub>[#193006](https://github.com/flutter/flutter/pull/193006) opened on on September 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193006) 68 additions and 1 deletion in 2 files</sub><br />
