@@ -227,9 +227,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Avoid stale mDNS cache across queries in MDnsVmServiceDiscovery<br />
   <sub>[#192437](https://github.com/flutter/flutter/pull/192437) opened on on September 8, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192437) 123 additions and 56 deletions in 3 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prefer `late` over null-initialized debug fields and enable the lint rule<br />
-  <sub>[#192438](https://github.com/flutter/flutter/pull/192438) opened on on September 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192438) 98 additions and 143 deletions in 7 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add example app to package template and decouple platform configurations<br />
   <sub>[#192441](https://github.com/flutter/flutter/pull/192441) opened on on September 8, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192441) 116 additions and 39 deletions in 4 files</sub><br />
 
@@ -365,9 +362,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CoverageCollector and TestGoldenComparator to modular dependency injection<br />
   <sub>[#192924](https://github.com/flutter/flutter/pull/192924) opened on on September 17, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192924) 660 additions and 294 deletions in 10 files</sub><br />
 
-* **[Alexander Markov](https://github.com/alexmarkov)** &mdash; Manual Roll Dart SDK from 2dfdae0ea100 to 938ec090f8bc (2 revisions)<br />
-  <sub>[#192943](https://github.com/flutter/flutter/pull/192943) opened on on September 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192943) 7 additions and 5 deletions in 2 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [android]: removes RegisterExternalTexture race condition<br />
   <sub>[#192951](https://github.com/flutter/flutter/pull/192951) opened on on September 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192951) 202 additions and 8 deletions in 5 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove `ios_debug_unopt_sim` builder from `Mac mac_unopt`<br />
+  <sub>[#192960](https://github.com/flutter/flutter/pull/192960) opened on on September 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192960) 0 additions and 65 deletions in 1 file</sub><br />
 
