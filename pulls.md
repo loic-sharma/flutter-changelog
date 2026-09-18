@@ -156,7 +156,7 @@
   <sub>[#191992](https://github.com/flutter/flutter/pull/191992) opened on on August 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191992) 351 additions and 102 deletions in 3 files</sub><br />
 
 * **[Emmanuel LEFEBVRE DIBON](https://github.com/zemanux)** &mdash; Add EdgeInsetsOverlay widget<br />
-  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [24 comments](https://github.com/flutter/flutter/pull/191998) 1812 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/191998) 1812 additions and 0 deletions in 3 files</sub><br />
 
 * **[Lucas Wang](https://github.com/gn00295120)** &mdash; [flutter_tools] Bind web dev server to loopback by default and validate Host header<br />
   <sub>[#192049](https://github.com/flutter/flutter/pull/192049) opened on on August 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192049) 289 additions and 16 deletions in 5 files</sub><br />
@@ -177,7 +177,7 @@
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Expansible crash when PageStorage holds a non-bool value<br />
-  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192195) 66 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192195) 66 additions and 2 deletions in 2 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; [flutter_tools] Report when the browser disconnects during a web test run<br />
   <sub>[#192198](https://github.com/flutter/flutter/pull/192198) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192198) 150 additions and 1 deletion in 2 files</sub><br />
@@ -378,11 +378,17 @@
   <sub>[#192965](https://github.com/flutter/flutter/pull/192965) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192965) 91 additions and 79 deletions in 4 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; fix(widgets): dismiss open RawTooltip on Escape key (WCAG 1.4.13)<br />
-  <sub>[#192966](https://github.com/flutter/flutter/pull/192966) opened on on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192966) 55 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#192966](https://github.com/flutter/flutter/pull/192966) opened on on September 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192966) 55 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Add SemanticsRole.listBox and SemanticsRole.option for WAI-ARIA listbox options<br />
   <sub>[#192971](https://github.com/flutter/flutter/pull/192971) opened on on September 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192971) 213 additions and 3 deletions in 12 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine] Add cli_util to pubspec.yaml dependency_overrides<br />
   <sub>[#192972](https://github.com/flutter/flutter/pull/192972) opened on on September 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192972) 2 additions and 0 deletions in 1 file</sub><br />
+
+* **[Sarah Zakarias](https://github.com/szakarias)** &mdash; Remove doc comment references to GTK C types<br />
+  <sub>[#192977](https://github.com/flutter/flutter/pull/192977) opened on on September 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192977) 7 additions and 7 deletions in 1 file</sub><br />
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Fix FFI links for Linux in README.md<br />
+  <sub>[#192981](https://github.com/flutter/flutter/pull/192981) opened on on September 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192981) 2 additions and 1 deletion in 1 file</sub><br />
 

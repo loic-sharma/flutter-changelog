@@ -15,6 +15,10 @@
   <sub>[#191096](https://github.com/flutter/flutter/pull/191096) merged on September 16, 2026 &mdash; **Medium:** [50 comments](https://github.com/flutter/flutter/pull/191096) over 1 month, 342 additions and 42 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): support --web-content-hash for physical static assets
+  <sub>[#191919](https://github.com/flutter/flutter/pull/191919) merged on September 18, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/191919) over 3 weeks, 404 additions and 23 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate CreateCommand to modular dependency injection
   <sub>[#190785](https://github.com/flutter/flutter/pull/190785) merged on September 15, 2026 &mdash; **Large:** [58 comments](https://github.com/flutter/flutter/pull/190785) over 1 month, 559 additions and 350 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub>
@@ -22,10 +26,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate BuildApkCommand and Android build toolchain to modular dependency injection
   <sub>[#190776](https://github.com/flutter/flutter/pull/190776) merged on September 15, 2026 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/190776) over 1 month, 496 additions and 87 deletions in 14 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): support --web-content-hash for physical static assets
-  <sub>[#191919](https://github.com/flutter/flutter/pull/191919) merged on September 18, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/191919) over 3 weeks, 404 additions and 23 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Fix incorrect UberSDF pixelsize used for stroked shapes
   <sub>[#192659](https://github.com/flutter/flutter/pull/192659) merged on September 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192659) over 4 days, 40 additions and 28 deletions in 3 files</sub>
