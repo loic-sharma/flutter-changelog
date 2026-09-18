@@ -375,13 +375,13 @@
   <sub>[#192948](https://github.com/flutter/flutter/pull/192948) opened on on September 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192948) 228 additions and 6 deletions in 8 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [android]: removes RegisterExternalTexture race condition<br />
-  <sub>[#192951](https://github.com/flutter/flutter/pull/192951) opened on on September 17, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/192951) 202 additions and 8 deletions in 5 files</sub><br />
+  <sub>[#192951](https://github.com/flutter/flutter/pull/192951) opened on on September 17, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/192951) 201 additions and 11 deletions in 6 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): emit precache_manifest.json when --web-content-hash is enabled<br />
+  <sub>[#192953](https://github.com/flutter/flutter/pull/192953) opened on on September 17, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192953) 302 additions and 10 deletions in 4 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove `ios_debug_unopt_sim` builder from `Mac mac_unopt`<br />
-  <sub>[#192960](https://github.com/flutter/flutter/pull/192960) opened on on September 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192960) 0 additions and 65 deletions in 1 file</sub><br />
-
-* **[b-luk](https://github.com/b-luk)** &mdash; SSBO-based gradients in UberSDF<br />
-  <sub>[#192962](https://github.com/flutter/flutter/pull/192962) opened on on September 17, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192962) 667 additions and 412 deletions in 12 files</sub><br />
+  <sub>[#192960](https://github.com/flutter/flutter/pull/192960) opened on on September 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192960) 0 additions and 65 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Preserve DOM focus on role update and honor isAccessibilityFocusBlocked<br />
   <sub>[#192963](https://github.com/flutter/flutter/pull/192963) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192963) 142 additions and 3 deletions in 5 files</sub><br />
@@ -426,11 +426,14 @@
   <sub>[#193002](https://github.com/flutter/flutter/pull/193002) opened on on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193002) 183 additions and 2 deletions in 4 files</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Make an Impeller render target from a Vulkan backing store<br />
-  <sub>[#193003](https://github.com/flutter/flutter/pull/193003) opened on on September 18, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/193003) 647 additions and 73 deletions in 13 files</sub><br />
+  <sub>[#193003](https://github.com/flutter/flutter/pull/193003) opened on on September 18, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/193003) 642 additions and 67 deletions in 13 files</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Run the shared Vulkan embedder tests under Impeller as well as Skia<br />
-  <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/193004) 772 additions and 90 deletions in 24 files</sub><br />
+  <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/193004) 767 additions and 84 deletions in 24 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flutter doctor path validation for symlinked SDKs<br />
   <sub>[#193006](https://github.com/flutter/flutter/pull/193006) opened on on September 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193006) 68 additions and 1 deletion in 2 files</sub><br />
+
+* **[Kevin McDermott-Carpenter](https://github.com/KevMCarp)** &mdash; [windows] Fix touch keyboard behaviour<br />
+  <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/193026) 4827 additions and 47 deletions in 35 files</sub><br />
 
