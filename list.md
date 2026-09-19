@@ -862,7 +862,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-26 commits.
+27 commits.
 
 * **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support
   <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub>
@@ -963,6 +963,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [cross_file] Move cross_file into a federated cross_file directory
   <sub>[#12869](https://github.com/flutter/packages/pull/12869) merged on September 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12869) over 18 hours, 1 addition and 1 deletion in 21 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 9584c6713b32 to 6a19cca56475 (7 revisions)
+  <sub>[#12950](https://github.com/flutter/packages/pull/12950) merged on September 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12950) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Revert "Manual roll Flutter from 27fec0e365a3 to 8737f11506e7 (9 revisions)"
   <sub>[#12899](https://github.com/flutter/packages/pull/12899) merged on September 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12899) over 8 minutes, 1 addition and 1 deletion in 1 file</sub>
