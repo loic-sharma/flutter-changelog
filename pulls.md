@@ -431,6 +431,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flutter doctor path validation for symlinked SDKs<br />
   <sub>[#193006](https://github.com/flutter/flutter/pull/193006) opened on on September 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193006) 68 additions and 1 deletion in 2 files</sub><br />
 
+* **[Berkay Çatak](https://github.com/berkaycatak)** &mdash; [iOS] Populate display features from the iPhone Duo hinge and reserved regions<br />
+  <sub>[#193025](https://github.com/flutter/flutter/pull/193025) opened on on September 18, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/193025) 556 additions and 0 deletions in 6 files</sub><br />
+
 * **[Kevin McDermott-Carpenter](https://github.com/KevMCarp)** &mdash; [windows] Fix touch keyboard behaviour<br />
   <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/193026) 4827 additions and 47 deletions in 35 files</sub><br />
 
