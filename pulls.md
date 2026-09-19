@@ -138,7 +138,7 @@
   <sub>[#191591](https://github.com/flutter/flutter/pull/191591) opened on on August 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191591) 273 additions and 13 deletions in 5 files</sub><br />
 
 * **[kaluli123123](https://github.com/kaluli123123)** &mdash; Fix pointer id/coordinate mismatch in Android platform view multi-touch<br />
-  <sub>[#191631](https://github.com/flutter/flutter/pull/191631) opened on on August 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191631) 97 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#191631](https://github.com/flutter/flutter/pull/191631) opened on on August 25, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191631) 97 additions and 1 deletion in 2 files</sub><br />
 
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; [iOS/MacOS] Warn when using deprecated framework build commands<br />
   <sub>[#191644](https://github.com/flutter/flutter/pull/191644) opened on on August 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191644) 106 additions and 0 deletions in 3 files</sub><br />
@@ -436,4 +436,7 @@
 
 * **[herdiyanitdev](https://github.com/herdiyana256)** &mdash; Default the web dev server to loopback instead of every interface<br />
   <sub>[#193042](https://github.com/flutter/flutter/pull/193042) opened on on September 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193042) 49 additions and 4 deletions in 2 files</sub><br />
+
+* **[rohancodesss](https://github.com/rohancodesss)** &mdash; Fix OverlayPortal.overlayChildLayoutBuilder asserting on resize when obstructed<br />
+  <sub>[#193050](https://github.com/flutter/flutter/pull/193050) opened on on September 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193050) 69 additions and 0 deletions in 2 files</sub><br />
 
