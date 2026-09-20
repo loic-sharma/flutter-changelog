@@ -866,7 +866,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-29 commits.
+31 commits.
 
 * **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support
   <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub>
@@ -919,6 +919,14 @@
 * **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; [material_ui] Add sortIconBuilder to DataTable, PaginatedDataTable, and DataTableThemeData
   <sub>[#12645](https://github.com/flutter/packages/pull/12645) merged on September 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/12645) over 2 weeks, 195 additions and 6 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 `InputChip` template to use new gen_defaults
+  <sub>[#12850](https://github.com/flutter/packages/pull/12850) merged on September 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/12850) over 1 week, 138 additions and 234 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 Checkbox defaults to new gen_defaults
+  <sub>[#12816](https://github.com/flutter/packages/pull/12816) merged on September 20, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/12816) over 1 week, 193 additions and 294 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 `FilterChip` template to use new gen_defaults
   <sub>[#12849](https://github.com/flutter/packages/pull/12849) merged on September 20, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/12849) over 1 week, 160 additions and 279 deletions in 6 files</sub>
