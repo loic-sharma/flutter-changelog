@@ -866,7 +866,7 @@
 
 ### September 12, 2026 to September 18, 2026
 
-31 commits.
+33 commits.
 
 * **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support<br />
   <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub><br />
@@ -891,6 +891,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Reduce the `material_ui` non-wasm web test suite<br />
   <sub>[#12763](https://github.com/flutter/packages/pull/12763) merged on September 18, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/packages/pull/12763) over 2 weeks, 513 additions and 280 deletions in 57 files</sub><br />
   <sub>Reviewed by: [stuartmorgan-g](https://github.com/stuartmorgan-g), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [cross_file_darwin] iOS/macOS implementation of `cross_file`<br />
+  <sub>[#12910](https://github.com/flutter/packages/pull/12910) merged on September 20, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/12910) over 3 days, 11796 additions and 0 deletions in 105 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Abhinandan Kumar](https://github.com/iam-abhijha)** &mdash; [rfw] Fix fontWeight not applied in release mode<br />
   <sub>[#11581](https://github.com/flutter/packages/pull/11581) merged on September 17, 2026 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/11581) over 4 months, 154 additions and 6 deletions in 4 files</sub><br />
@@ -919,6 +923,10 @@
 * **[Puneet kukreja](https://github.com/puneetkukreja98)** &mdash; [material_ui] Add sortIconBuilder to DataTable, PaginatedDataTable, and DataTableThemeData<br />
   <sub>[#12645](https://github.com/flutter/packages/pull/12645) merged on September 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/12645) over 2 weeks, 195 additions and 6 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [cross_file_web] Web implementation of `cross_file`<br />
+  <sub>[#12908](https://github.com/flutter/packages/pull/12908) merged on September 20, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/12908) over 3 days, 915 additions and 0 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 `InputChip` template to use new gen_defaults<br />
   <sub>[#12850](https://github.com/flutter/packages/pull/12850) merged on September 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/12850) over 1 week, 138 additions and 234 deletions in 6 files</sub><br />
