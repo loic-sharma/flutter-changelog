@@ -159,7 +159,7 @@
   <sub>[#191992](https://github.com/flutter/flutter/pull/191992) opened on on August 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191992) 351 additions and 102 deletions in 3 files</sub><br />
 
 * **[Emmanuel LEFEBVRE DIBON](https://github.com/zemanux)** &mdash; Add EdgeInsetsOverlay widget<br />
-  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [30 comments](https://github.com/flutter/flutter/pull/191998) 2179 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [30 comments](https://github.com/flutter/flutter/pull/191998) 2584 additions and 0 deletions in 3 files</sub><br />
 
 * **[Lucas Wang](https://github.com/gn00295120)** &mdash; [flutter_tools] Bind web dev server to loopback by default and validate Host header<br />
   <sub>[#192049](https://github.com/flutter/flutter/pull/192049) opened on on August 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192049) 289 additions and 16 deletions in 5 files</sub><br />
@@ -445,4 +445,10 @@
 
 * **[Kyrylo K.](https://github.com/krll-kov)** &mdash; [Impeller][GLES] Link programs in parallel on ANGLE with GL_KHR_parallel_shader_compile<br />
   <sub>[#193066](https://github.com/flutter/flutter/pull/193066) opened on on September 20, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/193066) 1142 additions and 34 deletions in 6 files</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; iOS: Remove FlutterMetalLayer<br />
+  <sub>[#193073](https://github.com/flutter/flutter/pull/193073) opened on on September 20, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/193073) 423 additions and 2452 deletions in 74 files</sub><br />
+
+* **[edde746](https://github.com/edde746)** &mdash; Android: Report FlutterView as a text editor while a text input client is attached<br />
+  <sub>[#193074](https://github.com/flutter/flutter/pull/193074) opened on on September 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193074) 158 additions and 0 deletions in 4 files</sub><br />
 
