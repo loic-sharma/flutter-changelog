@@ -443,3 +443,6 @@
 * **[rohancodesss](https://github.com/rohancodesss)** &mdash; Fix OverlayPortal.overlayChildLayoutBuilder asserting on resize when obstructed<br />
   <sub>[#193050](https://github.com/flutter/flutter/pull/193050) opened on on September 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193050) 69 additions and 0 deletions in 2 files</sub><br />
 
+* **[Kyrylo K.](https://github.com/krll-kov)** &mdash; [Impeller][GLES] Link programs in parallel on ANGLE with GL_KHR_parallel_shader_compile<br />
+  <sub>[#193066](https://github.com/flutter/flutter/pull/193066) opened on on September 20, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/193066) 1142 additions and 34 deletions in 6 files</sub><br />
+
