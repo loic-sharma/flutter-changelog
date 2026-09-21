@@ -834,9 +834,18 @@
 
 ## flutter/website
 
+### September 19, 2026 to September 25, 2026
+
+1 commits.
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update upvoting guidelines in contribute documentation
+  <sub>[#13901](https://github.com/flutter/website/pull/13901) merged on September 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13901) over 2 days, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [Connie Ooi ](https://github.com/conooi)</sub>
+
 ### September 12, 2026 to September 18, 2026
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; An update of the FAQ - a first draft
   <sub>[#13746](https://github.com/flutter/website/pull/13746) merged on September 14, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/website/pull/13746) over 3 weeks, 435 additions and 910 deletions in 10 files</sub>
@@ -897,6 +906,8 @@
 * **[Gaurav Yadav](https://github.com/MeGaurav4)** &mdash; docs: add agent-rules example to tooling ecosystem overview
   <sub>[#13888](https://github.com/flutter/website/pull/13888) merged on September 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13888) over 1 hour, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### September 5, 2026 to September 11, 2026
 
