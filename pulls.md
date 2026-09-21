@@ -360,7 +360,7 @@
   <sub>[#192906](https://github.com/flutter/flutter/pull/192906) opened on on September 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192906) 9 additions and 6 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Request a frame when a view starts rendering<br />
-  <sub>[#192911](https://github.com/flutter/flutter/pull/192911) opened on on September 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192911) 105 additions and 13 deletions in 8 files</sub><br />
+  <sub>[#192911](https://github.com/flutter/flutter/pull/192911) opened on on September 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192911) 94 additions and 2 deletions in 8 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; perf(widgets): use const <Never>{} in InheritedModelElement and avoid redundant casts in RenderObjectElement.update<br />
   <sub>[#192913](https://github.com/flutter/flutter/pull/192913) opened on on September 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192913) 64 additions and 8 deletions in 3 files</sub><br />
@@ -432,7 +432,7 @@
   <sub>[#193006](https://github.com/flutter/flutter/pull/193006) opened on on September 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193006) 68 additions and 1 deletion in 2 files</sub><br />
 
 * **[Berkay Çatak](https://github.com/berkaycatak)** &mdash; [iOS] Populate display features from the iPhone Duo hinge and reserved regions<br />
-  <sub>[#193025](https://github.com/flutter/flutter/pull/193025) opened on on September 18, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/193025) 556 additions and 0 deletions in 6 files</sub><br />
+  <sub>[#193025](https://github.com/flutter/flutter/pull/193025) opened on on September 18, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/193025) 556 additions and 0 deletions in 6 files</sub><br />
 
 * **[Kevin McDermott-Carpenter](https://github.com/KevMCarp)** &mdash; [windows] Fix touch keyboard behaviour<br />
   <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/193026) 4827 additions and 47 deletions in 35 files</sub><br />
@@ -454,4 +454,7 @@
 
 * **[Adam Langley](https://github.com/Adam-Langley)** &mdash; Bound RenderBox's dry-layout/intrinsics memoization caches<br />
   <sub>[#193076](https://github.com/flutter/flutter/pull/193076) opened on on September 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193076) 167 additions and 5 deletions in 2 files</sub><br />
+
+* **[Aayush Kedawat](https://github.com/aayushkedawat)** &mdash; Fix OverlayPortal layout in shrink-wrapped overlays<br />
+  <sub>[#193079](https://github.com/flutter/flutter/pull/193079) opened on on September 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193079) 79 additions and 7 deletions in 2 files</sub><br />
 
