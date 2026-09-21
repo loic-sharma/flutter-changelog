@@ -2,9 +2,22 @@
 
 ## flutter/flutter
 
+### September 19, 2026 to September 25, 2026
+
+2 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate BuildAarCommand to modular dependency injection
+  <sub>[#192247](https://github.com/flutter/flutter/pull/192247) merged on September 21, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/192247) over 2 weeks, 197 additions and 162 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Update Android plugin language guidance
+  <sub>[#192906](https://github.com/flutter/flutter/pull/192906) merged on September 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192906) over 4 days, 9 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
+
 ### September 12, 2026 to September 18, 2026
 
-60 commits.
+<details>
+<summary>60 commits...</summary>
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Add dedicated rubber band spring for overscroll recovery in BouncingScrollPhysics
   <sub>[#187568](https://github.com/flutter/flutter/pull/187568) merged on September 14, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/187568) over 3 months, 202 additions and 181 deletions in 5 files</sub>
@@ -113,7 +126,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Stop deletion progress status during flutter clean
-  <sub>[#192996](https://github.com/flutter/flutter/pull/192996) merged on September 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192996) over 52 minutes, 30 additions and 1 deletion in 2 files</sub>
+  <sub>[#192996](https://github.com/flutter/flutter/pull/192996) merged on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192996) over 52 minutes, 30 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Sam Rawlins](https://github.com/srawlins)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Extract Windows archives using native tar with PowerShell fallback
@@ -247,6 +260,8 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; Sync CHANGELOG.md from stable
   <sub>[#192499](https://github.com/flutter/flutter/pull/192499) merged on September 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192499) over 5 days, 6 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
+
+</details>
 
 ### September 5, 2026 to September 11, 2026
 
@@ -560,9 +575,22 @@
 
 ## flutter/packages
 
+### September 19, 2026 to September 25, 2026
+
+2 commits.
+
+* **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] PR 2/4 Migrate the plugin class from Objective-C to Swift.
+  <sub>[#12655](https://github.com/flutter/packages/pull/12655) merged on September 21, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/packages/pull/12655) over 3 weeks, 597 additions and 540 deletions in 14 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] PR 3/4 Migrate ViewProvider and GID SDK wrappers from Objective-C to Swift
+  <sub>[#12657](https://github.com/flutter/packages/pull/12657) merged on September 21, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/12657) over 3 weeks, 468 additions and 587 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
 ### September 12, 2026 to September 18, 2026
 
-33 commits.
+<details>
+<summary>33 commits...</summary>
 
 * **[Amine BEN TILI](https://github.com/tenninebt)** &mdash; [google_maps_flutter_platform_interface] Add onPointOfInterestTap support
   <sub>[#12752](https://github.com/flutter/packages/pull/12752) merged on September 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12752) over 1 week, 65 additions and 1 deletion in 8 files</sub>
@@ -695,6 +723,8 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Revert "Manual roll Flutter from 27fec0e365a3 to 8737f11506e7 (9 revisions)"
   <sub>[#12899](https://github.com/flutter/packages/pull/12899) merged on September 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/12899) over 8 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+</details>
 
 ### September 5, 2026 to September 11, 2026
 
@@ -836,11 +866,23 @@
 
 ### September 19, 2026 to September 25, 2026
 
-1 commits.
+4 commits.
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update upvoting guidelines in contribute documentation
   <sub>[#13901](https://github.com/flutter/website/pull/13901) merged on September 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13901) over 2 days, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[gunny-j](https://github.com/gunny-j)** &mdash; Update use flavor-specific strings.xml for Android flavor app names
+  <sub>[#13892](https://github.com/flutter/website/pull/13892) merged on September 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13892) over 6 days, 24 additions and 28 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Mouaz M. Al-Shahmeh](https://github.com/Eng-Mouaz-M-AlShahmeh)** &mdash; Add Flutter course by Mouaz M. Alshahmeh to online courses
+  <sub>[#13904](https://github.com/flutter/website/pull/13904) merged on September 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13904) over 1 day, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Gaurav Yadav](https://github.com/MeGaurav4)** &mdash; docs: fix fish shell path flag in Linux install instructions
+  <sub>[#13910](https://github.com/flutter/website/pull/13910) merged on September 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13910) over 5 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 ### September 12, 2026 to September 18, 2026
 
