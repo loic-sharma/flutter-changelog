@@ -54,6 +54,10 @@
   <sub>[#192247](https://github.com/flutter/flutter/pull/192247) merged on September 21, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/192247) over 2 weeks, 197 additions and 162 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; fix(widgets): dismiss open RawTooltip on Escape key (WCAG 1.4.13)
+  <sub>[#192966](https://github.com/flutter/flutter/pull/192966) merged on September 22, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/192966) over 4 days, 79 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke)</sub>
+
 * **[holzgeist](https://github.com/holzgeist)** &mdash; chore: correct copy paste error in test name
   <sub>[#191342](https://github.com/flutter/flutter/pull/191342) merged on September 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191342) over 1 month, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [zhongliugo](https://github.com/flutter-zl)</sub>
@@ -73,10 +77,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Migrate remaining `flutter_tools` templates & `widget_preview_scaffold` to `[material|cupertino]_ui`
   <sub>[#193099](https://github.com/flutter/flutter/pull/193099) merged on September 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193099) over 1 hour, 71 additions and 57 deletions in 30 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; fix(widgets): dismiss open RawTooltip on Escape key (WCAG 1.4.13)
-  <sub>[#192966](https://github.com/flutter/flutter/pull/192966) merged on September 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192966) over 4 days, 79 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke)</sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Link the web triage notes repo from the triage doc
   <sub>[#192494](https://github.com/flutter/flutter/pull/192494) merged on September 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192494) over 1 week, 4 additions and 0 deletions in 1 file</sub>
@@ -109,8 +109,8 @@
   <sub><details><summary>1 image...</summary><img width="1000" alt="546867255-4ad56291-9603-40c1-ae5a-3e319017c3c9" src="https://github.com/user-attachments/assets/8e72ebff-fb8f-4613-b042-7668db15bcf5" /></details></sub>
 
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix square corner issue
-  <sub>[#191096](https://github.com/flutter/flutter/pull/191096) merged on September 16, 2026 &mdash; **Medium:** [50 comments](https://github.com/flutter/flutter/pull/191096) over 1 month, 342 additions and 42 deletions in 10 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+  <sub>[#191096](https://github.com/flutter/flutter/pull/191096) merged on September 16, 2026 &mdash; **Medium:** [53 comments](https://github.com/flutter/flutter/pull/191096) over 1 month, 342 additions and 42 deletions in 10 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): support --web-content-hash for physical static assets
   <sub>[#191919](https://github.com/flutter/flutter/pull/191919) merged on September 18, 2026 &mdash; **Medium:** [24 comments](https://github.com/flutter/flutter/pull/191919) over 3 weeks, 404 additions and 23 deletions in 3 files</sub>
@@ -661,7 +661,16 @@
 
 ### September 19, 2026 to September 25, 2026
 
-12 commits.
+16 commits.
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Add contrastLevel for M3 ColorScheme
+  <sub>[#12743](https://github.com/flutter/packages/pull/12743) merged on September 22, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/12743) over 2 weeks, 920 additions and 401 deletions in 11 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub>
+  <sub><details><summary>1 image...</summary><img width="1181" height="526" alt="Screenshot 2026-07-31 at 4 35 36 PM" src="https://github.com/user-attachments/assets/0515a722-1455-49a0-9c5d-30ffaa844b7f" /></details></sub>
+
+* **[David Miguel Lozano](https://github.com/davidmigloz)** &mdash; [go_router] Fix ShellRoute chrome dropped from semantics tree by ModalBarrier
+  <sub>[#12353](https://github.com/flutter/packages/pull/12353) merged on September 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12353) over 1 month, 234 additions and 8 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] PR 2/4 Migrate the plugin class from Objective-C to Swift.
   <sub>[#12655](https://github.com/flutter/packages/pull/12655) merged on September 21, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/packages/pull/12655) over 3 weeks, 597 additions and 540 deletions in 14 files</sub>
@@ -670,6 +679,10 @@
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] PR 3/4 Migrate ViewProvider and GID SDK wrappers from Objective-C to Swift
   <sub>[#12657](https://github.com/flutter/packages/pull/12657) merged on September 21, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/12657) over 3 weeks, 468 additions and 587 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Themistoklis Chatziemmanouil](https://github.com/itsUndefined)** &mdash; [go_router] Preserve nested pushes during config updates
+  <sub>[#12611](https://github.com/flutter/packages/pull/12611) merged on September 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12611) over 4 weeks, 74 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Elliott Brooks](https://github.com/elliette)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [material_ui] Fix LocalHistoryEntry leak when double tapping Drawer scrim
   <sub>[#12552](https://github.com/flutter/packages/pull/12552) merged on September 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12552) over 1 month, 160 additions and 4 deletions in 3 files</sub>
@@ -706,6 +719,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [cupertino_ui] Work around dart2wasm optional parameter inference bug in checkbox_test.dart
   <sub>[#12956](https://github.com/flutter/packages/pull/12956) merged on September 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12956) over 1 hour, 12 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [cupertino_ui] Unskip 5 passing web tests in adaptive_text_selection_toolbar_test and text_field_test
+  <sub>[#12984](https://github.com/flutter/packages/pull/12984) merged on September 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12984) over 21 minutes, 81 additions and 101 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[go_router_builder] Migrate to material_ui"
   <sub>[#12962](https://github.com/flutter/packages/pull/12962) merged on September 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12962) over 1 minute, 30 additions and 38 deletions in 29 files</sub>
