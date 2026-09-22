@@ -282,10 +282,10 @@
   <sub>[#192666](https://github.com/flutter/flutter/pull/192666) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192666) 89 additions and 41 deletions in 5 files</sub><br />
 
 * **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Cache fill path tessellations on second use<br />
-  <sub>[#192681](https://github.com/flutter/flutter/pull/192681) opened on on September 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192681) 382 additions and 45 deletions in 7 files</sub><br />
+  <sub>[#192681](https://github.com/flutter/flutter/pull/192681) opened on on September 12, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/192681) 380 additions and 45 deletions in 7 files</sub><br />
 
 * **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Cache stroke path tessellations on second use<br />
-  <sub>[#192682](https://github.com/flutter/flutter/pull/192682) opened on on September 12, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/192682) 803 additions and 47 deletions in 11 files</sub><br />
+  <sub>[#192682](https://github.com/flutter/flutter/pull/192682) opened on on September 12, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/192682) 801 additions and 47 deletions in 11 files</sub><br />
 
 * **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Ignore sibling ScrollView notifications in RawScrollbar<br />
   <sub>[#192684](https://github.com/flutter/flutter/pull/192684) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192684) 85 additions and 0 deletions in 2 files</sub><br />
@@ -453,11 +453,14 @@
   <sub>[#193113](https://github.com/flutter/flutter/pull/193113) opened on on September 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193113) 52 additions and 0 deletions in 4 files</sub><br />
 
 * **[bkuhls](https://github.com/bkuhls)** &mdash; Fix building on Pango 1.58.0<br />
-  <sub>[#193119](https://github.com/flutter/flutter/pull/193119) opened on on September 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193119) 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#193119](https://github.com/flutter/flutter/pull/193119) opened on on September 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193119) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Enable `unawaited_futures` lint across the Flutter repository<br />
   <sub>[#193125](https://github.com/flutter/flutter/pull/193125) opened on on September 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193125) 5 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix PauseStart race in DAP test debug adapter<br />
   <sub>[#193127](https://github.com/flutter/flutter/pull/193127) opened on on September 21, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/193127) 361 additions and 9 deletions in 5 files</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [flutter_tools] Wait for iOS simulator log stream before launch<br />
+  <sub>[#193142](https://github.com/flutter/flutter/pull/193142) opened on on September 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193142) 198 additions and 5 deletions in 2 files</sub><br />
 
