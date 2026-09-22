@@ -102,7 +102,7 @@
   <sub>[#191003](https://github.com/flutter/flutter/pull/191003) opened on on August 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/191003) 34 additions and 40 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add diagnostic logging and 3m ToolExit timeout for web test hangs<br />
-  <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/191004) 212 additions and 13 deletions in 1 file</sub><br />
+  <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191004) 212 additions and 13 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
   <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191220) 129 additions and 56 deletions in 2 files</sub><br />
@@ -356,9 +356,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Guard against null vmService and uiIsolate in debugDumpFocusTree and debugDumpLayerTree<br />
   <sub>[#192940](https://github.com/flutter/flutter/pull/192940) opened on on September 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192940) 133 additions and 74 deletions in 2 files</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Gradient texture cache for UberSDF gradients<br />
-  <sub>[#192948](https://github.com/flutter/flutter/pull/192948) opened on on September 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192948) 228 additions and 6 deletions in 8 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Preserve DOM focus on role update and honor isAccessibilityFocusBlocked<br />
   <sub>[#192963](https://github.com/flutter/flutter/pull/192963) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192963) 142 additions and 3 deletions in 5 files</sub><br />
 
@@ -407,14 +404,14 @@
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Run the shared Vulkan embedder tests under Impeller as well as Skia<br />
   <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/193004) 767 additions and 84 deletions in 24 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flutter doctor path validation for symlinked SDKs<br />
-  <sub>[#193006](https://github.com/flutter/flutter/pull/193006) opened on on September 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193006) 68 additions and 1 deletion in 2 files</sub><br />
-
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix post-monorepo doc rot in docs/infra and dev/bots/README.md<br />
   <sub>[#193010](https://github.com/flutter/flutter/pull/193010) opened on on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193010) 14 additions and 18 deletions in 5 files</sub><br />
 
 * **[Kevin McDermott-Carpenter](https://github.com/KevMCarp)** &mdash; [windows] Fix touch keyboard behaviour<br />
   <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/193026) 4827 additions and 47 deletions in 35 files</sub><br />
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix unawaited async calls in fragment_shader_test and skip Vulkan in canvas_test<br />
+  <sub>[#193030](https://github.com/flutter/flutter/pull/193030) opened on on September 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193030) 30 additions and 30 deletions in 2 files</sub><br />
 
 * **[herdiyanitdev](https://github.com/herdiyana256)** &mdash; Default the web dev server to loopback instead of every interface<br />
   <sub>[#193042](https://github.com/flutter/flutter/pull/193042) opened on on September 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193042) 49 additions and 4 deletions in 2 files</sub><br />
@@ -447,7 +444,7 @@
   <sub>[#193090](https://github.com/flutter/flutter/pull/193090) opened on on September 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193090) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] [flutter_tools] Stop deletion progress status during flutter clean<br />
-  <sub>[#193110](https://github.com/flutter/flutter/pull/193110) opened on on September 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193110) 31 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#193110](https://github.com/flutter/flutter/pull/193110) opened on on September 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193110) 31 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kyrylo K.](https://github.com/krll-kov)** &mdash; [engine] Decode animation frames with alpha after an opaque first frame<br />
   <sub>[#193113](https://github.com/flutter/flutter/pull/193113) opened on on September 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193113) 52 additions and 0 deletions in 4 files</sub><br />
@@ -463,4 +460,7 @@
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [flutter_tools] Wait for iOS simulator log stream before launch<br />
   <sub>[#193142](https://github.com/flutter/flutter/pull/193142) opened on on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193142) 198 additions and 5 deletions in 2 files</sub><br />
+
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; [flutter_tools] Report malformed plugin platform entries instead of crashing<br />
+  <sub>[#193151](https://github.com/flutter/flutter/pull/193151) opened on on September 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193151) 58 additions and 1 deletion in 2 files</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### September 19, 2026 to September 25, 2026
 
-18 commits.
+19 commits.
 
 * **[smocer](https://github.com/smocer)** &mdash; [iOS] Rebind accessibility bridge after view controller changes
   <sub>[#187167](https://github.com/flutter/flutter/pull/187167) merged on September 21, 2026 &mdash; **Large:** [96 comments](https://github.com/flutter/flutter/pull/187167) over 3 months, 1004 additions and 108 deletions in 13 files</sub>
@@ -29,6 +29,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): emit precache_manifest.json when --web-content-hash is enabled
   <sub>[#192953](https://github.com/flutter/flutter/pull/192953) merged on September 21, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/192953) over 3 days, 303 additions and 10 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flutter doctor path validation for symlinked SDKs
+  <sub>[#193006](https://github.com/flutter/flutter/pull/193006) merged on September 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193006) over 3 days, 68 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Fix the text benchmark on Impeller backends
   <sub>[#192677](https://github.com/flutter/flutter/pull/192677) merged on September 21, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/192677) over 1 week, 13 additions and 0 deletions in 1 file</sub>
@@ -641,7 +645,7 @@
 
 ### September 19, 2026 to September 25, 2026
 
-9 commits.
+10 commits.
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] PR 2/4 Migrate the plugin class from Objective-C to Swift.
   <sub>[#12655](https://github.com/flutter/packages/pull/12655) merged on September 21, 2026 &mdash; **Large:** [37 comments](https://github.com/flutter/packages/pull/12655) over 3 weeks, 597 additions and 540 deletions in 14 files</sub>
@@ -658,6 +662,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [ci] Update repo for 3.47 stable release
   <sub>[#12959](https://github.com/flutter/packages/pull/12959) merged on September 21, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/12959) over 5 hours, 796 additions and 487 deletions in 313 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update suggested reviewers
+  <sub>[#12974](https://github.com/flutter/packages/pull/12974) merged on September 22, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12974) over 1 hour, 33 additions and 36 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [go_router_builder] Migrate to material_ui
   <sub>[#12913](https://github.com/flutter/packages/pull/12913) merged on September 21, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12913) over 3 days, 38 additions and 30 deletions in 29 files</sub>
@@ -958,10 +966,18 @@
 
 ### September 19, 2026 to September 25, 2026
 
-7 commits.
+9 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; docs: update Firebase Hosting caching examples
   <sub>[#13909](https://github.com/flutter/website/pull/13909) merged on September 21, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/website/pull/13909) over 16 hours, 43 additions and 14 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch current version to documented version
+  <sub>[#13918](https://github.com/flutter/website/pull/13918) merged on September 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/13918) over 18 minutes, 27 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deploy image to Dart 3.13.4
+  <sub>[#13917](https://github.com/flutter/website/pull/13917) merged on September 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13917) over 19 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update upvoting guidelines in contribute documentation
