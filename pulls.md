@@ -209,8 +209,8 @@
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fix LiveTestWidgetsFlutterBinding dropping synthetic pointer cancels for test-sourced pointers<br />
   <sub>[#192289](https://github.com/flutter/flutter/pull/192289) opened on on September 4, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/192289) 131 additions and 3 deletions in 2 files</sub><br />
 
-* **[Seismor](https://github.com/seismor-com)** &mdash; Linux high refresh rate<br />
-  <sub>[#192342](https://github.com/flutter/flutter/pull/192342) opened on on September 5, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192342) 422 additions and 5 deletions in 12 files</sub><br />
+* **[Seismor](https://github.com/seismor-com)** &mdash; Use vsync in Linux embedder<br />
+  <sub>[#192342](https://github.com/flutter/flutter/pull/192342) opened on on September 5, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/192342) 422 additions and 5 deletions in 12 files</sub><br />
 
 * **[diandiandia](https://github.com/diandiandia)** &mdash; Bound decoded image allocations in the Skia image generators<br />
   <sub>[#192375](https://github.com/flutter/flutter/pull/192375) opened on on September 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192375) 193 additions and 0 deletions in 4 files</sub><br />
@@ -318,7 +318,7 @@
   <sub>[#192764](https://github.com/flutter/flutter/pull/192764) opened on on September 14, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/192764) 2257 additions and 3 deletions in 5 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Use CAMetalLayer while preserving platform view compatibility on iOS<br />
-  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/192794) 130 additions and 179 deletions in 7 files</sub><br />
+  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192794) 145 additions and 178 deletions in 8 files</sub><br />
 
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; Add animationBehavior to widgets using AnimationController<br />
   <sub>[#192795](https://github.com/flutter/flutter/pull/192795) opened on on September 15, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192795) 1004 additions and 131 deletions in 81 files</sub><br />
@@ -375,7 +375,7 @@
   <sub>[#192971](https://github.com/flutter/flutter/pull/192971) opened on on September 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192971) 213 additions and 3 deletions in 12 files</sub><br />
 
 * **[Yazan Arafeh](https://github.com/yazanmg)** &mdash; Expose semantics hints on desktop platforms<br />
-  <sub>[#192979](https://github.com/flutter/flutter/pull/192979) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192979) 158 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#192979](https://github.com/flutter/flutter/pull/192979) opened on on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192979) 158 additions and 0 deletions in 7 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Reducing-Test-Flakiness.md: promoting a test to prod removes bringup<br />
   <sub>[#192983](https://github.com/flutter/flutter/pull/192983) opened on on September 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192983) 1 addition and 1 deletion in 1 file</sub><br />
@@ -453,7 +453,7 @@
   <sub>[#193113](https://github.com/flutter/flutter/pull/193113) opened on on September 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193113) 52 additions and 0 deletions in 4 files</sub><br />
 
 * **[bkuhls](https://github.com/bkuhls)** &mdash; Fix building on Pango 1.58.0<br />
-  <sub>[#193119](https://github.com/flutter/flutter/pull/193119) opened on on September 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193119) 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#193119](https://github.com/flutter/flutter/pull/193119) opened on on September 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193119) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Enable `unawaited_futures` lint across the Flutter repository<br />
   <sub>[#193125](https://github.com/flutter/flutter/pull/193125) opened on on September 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193125) 5 additions and 1 deletion in 2 files</sub><br />
