@@ -50,9 +50,6 @@
 * **[Saylee](https://github.com/saylee21)** &mdash; Update shared.bat<br />
   <sub>[#188999](https://github.com/flutter/flutter/pull/188999) opened on on July 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/188999) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Hasan Armoush](https://github.com/hkarmoush)** &mdash; Fix TestSemantics typo bugs (self-comparisons and stray assert comma)<br />
-  <sub>[#189480](https://github.com/flutter/flutter/pull/189480) opened on on July 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189480) 65 additions and 4 deletions in 2 files</sub><br />
-
 * **[Okikiola](https://github.com/Okikday)** &mdash; fix: Resolve memory leak in image_list example<br />
   <sub>[#189526](https://github.com/flutter/flutter/pull/189526) opened on on July 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/189526) 28 additions and 10 deletions in 1 file</sub><br />
 
@@ -87,7 +84,7 @@
   <sub>[#190789](https://github.com/flutter/flutter/pull/190789) opened on on August 8, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/190789) 827 additions and 760 deletions in 17 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update the CLI to reject passing engine configuration flags with a prebuilt binary in release mode<br />
-  <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/190870) 821 additions and 199 deletions in 9 files</sub><br />
+  <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/190870) 821 additions and 199 deletions in 9 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
@@ -165,10 +162,10 @@
   <sub>[#192072](https://github.com/flutter/flutter/pull/192072) opened on on August 31, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192072) 59 additions and 2 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes snapshots not have mip levels (since they weren't propogated)<br />
-  <sub>[#192074](https://github.com/flutter/flutter/pull/192074) opened on on August 31, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192074) 49 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#192074](https://github.com/flutter/flutter/pull/192074) opened on on August 31, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192074) 49 additions and 1 deletion in 2 files</sub><br />
 
 * **[Soi (Jiwon Lee)](https://github.com/JIWON1923)** &mdash; [Windows] Fix Space input after Alt+Space with previous Microsoft IME<br />
-  <sub>[#192105](https://github.com/flutter/flutter/pull/192105) opened on on September 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192105) 76 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#192105](https://github.com/flutter/flutter/pull/192105) opened on on September 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192105) 76 additions and 2 deletions in 2 files</sub><br />
 
 * **[corci0x](https://github.com/corci0x)** &mdash; Reject glyph packer placements that don't fit in int16_t<br />
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
@@ -318,16 +315,13 @@
   <sub>[#192963](https://github.com/flutter/flutter/pull/192963) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192963) 142 additions and 3 deletions in 5 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Propagate aria-label to inner slider and text field inputs<br />
-  <sub>[#192964](https://github.com/flutter/flutter/pull/192964) opened on on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192964) 34 additions and 16 deletions in 5 files</sub><br />
+  <sub>[#192964](https://github.com/flutter/flutter/pull/192964) opened on on September 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192964) 34 additions and 16 deletions in 5 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Omit group role on menu scrollables and assign region role to named routes<br />
   <sub>[#192965](https://github.com/flutter/flutter/pull/192965) opened on on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192965) 91 additions and 79 deletions in 4 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Add SemanticsRole.listBox and SemanticsRole.option for WAI-ARIA listbox options<br />
-  <sub>[#192971](https://github.com/flutter/flutter/pull/192971) opened on on September 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192971) 213 additions and 3 deletions in 12 files</sub><br />
-
 * **[Yazan Arafeh](https://github.com/yazanmg)** &mdash; Expose semantics hints on desktop platforms<br />
-  <sub>[#192979](https://github.com/flutter/flutter/pull/192979) opened on on September 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192979) 158 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#192979](https://github.com/flutter/flutter/pull/192979) opened on on September 18, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192979) 165 additions and 0 deletions in 7 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix Reducing-Test-Flakiness.md: promoting a test to prod removes bringup<br />
   <sub>[#192983](https://github.com/flutter/flutter/pull/192983) opened on on September 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192983) 1 addition and 1 deletion in 1 file</sub><br />
@@ -411,7 +405,7 @@
   <sub>[#193170](https://github.com/flutter/flutter/pull/193170) opened on on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193170) 50 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Enable Firefox Skwasm UI CI suites, configure COI configs, and fail fast on loader rejections<br />
-  <sub>[#193187](https://github.com/flutter/flutter/pull/193187) opened on on September 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193187) 118 additions and 6 deletions in 4 files</sub><br />
+  <sub>[#193187](https://github.com/flutter/flutter/pull/193187) opened on on September 22, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/193187) 158 additions and 6 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add enabled to Form<br />
   <sub>[#193200](https://github.com/flutter/flutter/pull/193200) opened on on September 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/193200) 337 additions and 16 deletions in 2 files</sub><br />
@@ -425,9 +419,24 @@
 * **[Xavier H.](https://github.com/xvrh)** &mdash; [tool] Pass recorded uses to asset transformers<br />
   <sub>[#193220](https://github.com/flutter/flutter/pull/193220) opened on on September 23, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/193220) 468 additions and 44 deletions in 7 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Fix PopupWindowControllerWin32 message handling<br />
-  <sub>[#193233](https://github.com/flutter/flutter/pull/193233) opened on on September 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193233) 18 additions and 30 deletions in 1 file</sub><br />
-
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Clean up RawTooltip Escape key handling<br />
   <sub>[#193236](https://github.com/flutter/flutter/pull/193236) opened on on September 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193236) 86 additions and 65 deletions in 3 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine to test Android 17 AVD<br />
+  <sub>[#193239](https://github.com/flutter/flutter/pull/193239) opened on on September 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193239) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update `linux_android_emu_unstable` to API 37 AVD<br />
+  <sub>[#193240](https://github.com/flutter/flutter/pull/193240) opened on on September 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193240) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_test] Remove redundant null arguments in Completer.complete<br />
+  <sub>[#193242](https://github.com/flutter/flutter/pull/193242) opened on on September 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193242) 3 additions and 3 deletions in 2 files</sub><br />
+
+* **[Michael Brase](https://github.com/mbrase)** &mdash; Remove unused Fuchsia sysmem header files<br />
+  <sub>[#193244](https://github.com/flutter/flutter/pull/193244) opened on on September 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193244) 0 additions and 2 deletions in 2 files</sub><br />
+
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove compile benchmarks from bringup<br />
+  <sub>[#193249](https://github.com/flutter/flutter/pull/193249) opened on on September 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193249) 0 additions and 4 deletions in 1 file</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Added Android 17 device to Firebase tests<br />
+  <sub>[#193251](https://github.com/flutter/flutter/pull/193251) opened on on September 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193251) 1 addition and 0 deletions in 1 file</sub><br />
 
