@@ -4,7 +4,7 @@
 
 ### September 19, 2026 to September 25, 2026
 
-23 commits.
+28 commits.
 
 * **[smocer](https://github.com/smocer)** &mdash; [iOS] Rebind accessibility bridge after view controller changes
   <sub>[#187167](https://github.com/flutter/flutter/pull/187167) merged on September 21, 2026 &mdash; **Large:** [96 comments](https://github.com/flutter/flutter/pull/187167) over 3 months, 1004 additions and 108 deletions in 13 files</sub>
@@ -14,6 +14,14 @@
   <sub>[#190856](https://github.com/flutter/flutter/pull/190856) merged on September 21, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/190856) over 1 month, 564 additions and 107 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): resolve raw asset keys via content-hashed manifests and unhide --web-content-hash
+  <sub>[#193040](https://github.com/flutter/flutter/pull/193040) merged on September 22, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/193040) over 3 days, 1187 additions and 142 deletions in 14 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Diego López](https://github.com/diegolopezrm)** &mdash; [web] Report `env(safe-area-inset-*)` as `FlutterView.viewPadding`
+  <sub>[#191647](https://github.com/flutter/flutter/pull/191647) merged on September 22, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/191647) over 4 weeks, 947 additions and 34 deletions in 15 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [zhongliugo](https://github.com/flutter-zl)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [android]: removes RegisterExternalTexture race condition
   <sub>[#192951](https://github.com/flutter/flutter/pull/192951) merged on September 21, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/192951) over 3 days, 200 additions and 11 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff)</sub>
@@ -22,6 +30,10 @@
   <sub>[#191098](https://github.com/flutter/flutter/pull/191098) merged on September 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/191098) over 1 month, 146 additions and 13 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
+* **[seunggi](https://github.com/dfdgsdfg)** &mdash; [Impeller][GLES] Rebind textures before buffer uploads
+  <sub>[#192158](https://github.com/flutter/flutter/pull/192158) merged on September 22, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/192158) over 2 weeks, 155 additions and 11 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub>
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `MediaQuery` documentation
   <sub>[#183702](https://github.com/flutter/flutter/pull/183702) merged on September 21, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/183702) over 6 months, 20 additions and 31 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -29,6 +41,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(web): emit precache_manifest.json when --web-content-hash is enabled
   <sub>[#192953](https://github.com/flutter/flutter/pull/192953) merged on September 21, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/192953) over 3 days, 303 additions and 10 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter_tools] Revert PR: Extract Windows archives using native tar with PowerShell fallback
+  <sub>[#193161](https://github.com/flutter/flutter/pull/193161) merged on September 22, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193161) over 6 hours, 109 additions and 245 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix flutter doctor path validation for symlinked SDKs
   <sub>[#193006](https://github.com/flutter/flutter/pull/193006) merged on September 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193006) over 3 days, 68 additions and 1 deletion in 2 files</sub>
@@ -77,6 +93,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Migrate remaining `flutter_tools` templates & `widget_preview_scaffold` to `[material|cupertino]_ui`
   <sub>[#193099](https://github.com/flutter/flutter/pull/193099) merged on September 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193099) over 1 hour, 71 additions and 57 deletions in 30 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix unawaited async calls in fragment_shader_test and skip Vulkan in canvas_test
+  <sub>[#193030](https://github.com/flutter/flutter/pull/193030) merged on September 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193030) over 4 days, 30 additions and 30 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Link the web triage notes repo from the triage doc
   <sub>[#192494](https://github.com/flutter/flutter/pull/192494) merged on September 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192494) over 1 week, 4 additions and 0 deletions in 1 file</sub>
@@ -661,7 +681,7 @@
 
 ### September 19, 2026 to September 25, 2026
 
-16 commits.
+17 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Add contrastLevel for M3 ColorScheme
   <sub>[#12743](https://github.com/flutter/packages/pull/12743) merged on September 22, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/12743) over 2 weeks, 920 additions and 401 deletions in 11 files</sub>
@@ -711,6 +731,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [material_ui] Update `material_ui` tests to prevent them from failing when framework `TextStyle` changes
   <sub>[#12728](https://github.com/flutter/packages/pull/12728) merged on September 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12728) over 2 weeks, 2 additions and 190 deletions in 1 file</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [material_ui] Unskip 5 passing web tests in bottom_app_bar_test and text_field_test
+  <sub>[#12983](https://github.com/flutter/packages/pull/12983) merged on September 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12983) over 58 minutes, 53 additions and 65 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [cupertino_ui] Work around dart2wasm optional parameter inference bug in example checkbox tests
   <sub>[#12961](https://github.com/flutter/packages/pull/12961) merged on September 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12961) over 32 minutes, 34 additions and 0 deletions in 2 files</sub>
@@ -1007,7 +1031,7 @@
 
 ### September 19, 2026 to September 25, 2026
 
-11 commits.
+12 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; docs: update Firebase Hosting caching examples
   <sub>[#13909](https://github.com/flutter/website/pull/13909) merged on September 21, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/website/pull/13909) over 16 hours, 43 additions and 14 deletions in 3 files</sub>
@@ -1024,6 +1048,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update upvoting guidelines in contribute documentation
   <sub>[#13901](https://github.com/flutter/website/pull/13901) merged on September 21, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/13901) over 2 days, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; blog post: converting GenLatte app to fullstack Dart
+  <sub>[#13899](https://github.com/flutter/website/pull/13899) merged on September 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13899) over 5 days, 267 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jess K](https://github.com/jesskuras)</sub>
 
 * **[MUHAMMAD HARIS SHAHZAD](https://github.com/muhammedharisshahzad)** &mdash; Add FlutterCraft to online courses
   <sub>[#13921](https://github.com/flutter/website/pull/13921) merged on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/13921) over 51 minutes, 2 additions and 0 deletions in 1 file</sub>

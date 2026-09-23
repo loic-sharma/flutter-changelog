@@ -87,7 +87,7 @@
   <sub>[#190789](https://github.com/flutter/flutter/pull/190789) opened on on August 8, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/190789) 827 additions and 760 deletions in 17 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update the CLI to reject passing engine configuration flags with a prebuilt binary in release mode<br />
-  <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Extra large:** [21 comments](https://github.com/flutter/flutter/pull/190870) 1164 additions and 378 deletions in 9 files</sub><br />
+  <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/190870) 889 additions and 264 deletions in 9 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
@@ -153,7 +153,7 @@
   <sub>[#191992](https://github.com/flutter/flutter/pull/191992) opened on on August 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191992) 351 additions and 102 deletions in 3 files</sub><br />
 
 * **[Emmanuel LEFEBVRE DIBON](https://github.com/zemanux)** &mdash; Add EdgeInsetsOverlay widget<br />
-  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [30 comments](https://github.com/flutter/flutter/pull/191998) 2584 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [33 comments](https://github.com/flutter/flutter/pull/191998) 2584 additions and 0 deletions in 3 files</sub><br />
 
 * **[Lucas Wang](https://github.com/gn00295120)** &mdash; [flutter_tools] Bind web dev server to loopback by default and validate Host header<br />
   <sub>[#192049](https://github.com/flutter/flutter/pull/192049) opened on on August 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192049) 289 additions and 16 deletions in 5 files</sub><br />
@@ -236,9 +236,6 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Move iOS compile benchmarks to Mac_benchmark and pin Mac_benchmark to M1<br />
   <sub>[#192472](https://github.com/flutter/flutter/pull/192472) opened on on September 9, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192472) 19 additions and 14 deletions in 1 file</sub><br />
 
-* **[Hirokazu Tanaka](https://github.com/techiro)** &mdash; Fix NestedScrollView fling velocity jumps with BouncingScrollPhysics<br />
-  <sub>[#192474](https://github.com/flutter/flutter/pull/192474) opened on on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192474) 187 additions and 3 deletions in 2 files</sub><br />
-
 * **[Jaimin Kavathia](https://github.com/jaimin-kavathia)** &mdash; Forward all TextInputConfiguration fields through AutofillScope<br />
   <sub>[#192480](https://github.com/flutter/flutter/pull/192480) opened on on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192480) 68 additions and 0 deletions in 2 files</sub><br />
 
@@ -281,35 +278,17 @@
 * **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Cache stroke path tessellations on second use<br />
   <sub>[#192682](https://github.com/flutter/flutter/pull/192682) opened on on September 12, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/192682) 801 additions and 47 deletions in 11 files</sub><br />
 
-* **[Sabitur Rahman](https://github.com/RootHex200)** &mdash; Ignore sibling ScrollView notifications in RawScrollbar<br />
-  <sub>[#192684](https://github.com/flutter/flutter/pull/192684) opened on on September 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192684) 85 additions and 0 deletions in 2 files</sub><br />
-
-* **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix AnimatedList disposing an item controller twice after unmount<br />
-  <sub>[#192699](https://github.com/flutter/flutter/pull/192699) opened on on September 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192699) 96 additions and 0 deletions in 2 files</sub><br />
-
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Fix selection handles triggering Android system back gesture near screen edges<br />
   <sub>[#192713](https://github.com/flutter/flutter/pull/192713) opened on on September 13, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192713) 336 additions and 1 deletion in 7 files</sub><br />
 
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Document that enableSuggestions: false can disable keyboard languages on Android<br />
   <sub>[#192714](https://github.com/flutter/flutter/pull/192714) opened on on September 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192714) 8 additions and 0 deletions in 1 file</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [cross_imports] Remove Material dependency from painting color tests<br />
-  <sub>[#192716](https://github.com/flutter/flutter/pull/192716) opened on on September 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192716) 1 addition and 19 deletions in 2 files</sub><br />
-
-* **[Diego López](https://github.com/diegolopezrm)** &mdash; Animate the child between sub-screens when the fold changes<br />
-  <sub>[#192721](https://github.com/flutter/flutter/pull/192721) opened on on September 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192721) 167 additions and 2 deletions in 2 files</sub><br />
-
 * **[Abel Putnoki](https://github.com/putnokiabel)** &mdash; [stable] Fix `flutter run` failing when the launcher activity is an `<activity-alias>` (cherry-pick of #187251)<br />
   <sub>[#192726](https://github.com/flutter/flutter/pull/192726) opened on on September 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192726) 158 additions and 3 deletions in 2 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Explain why initState() is too early to depend on an inherited widget<br />
   <sub>[#192727](https://github.com/flutter/flutter/pull/192727) opened on on September 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192727) 42 additions and 8 deletions in 2 files</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Refactor TestPlatformDispatcher<br />
-  <sub>[#192747](https://github.com/flutter/flutter/pull/192747) opened on on September 14, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/192747) 903 additions and 117 deletions in 6 files</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Scaffold view metrics overrides<br />
-  <sub>[#192764](https://github.com/flutter/flutter/pull/192764) opened on on September 14, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/192764) 2257 additions and 3 deletions in 5 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Use CAMetalLayer while preserving platform view compatibility on iOS<br />
   <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/192794) 145 additions and 178 deletions in 8 files</sub><br />
@@ -325,9 +304,6 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): migrate Apple build commands to typed options<br />
   <sub>[#192818](https://github.com/flutter/flutter/pull/192818) opened on on September 15, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/192818) 434 additions and 256 deletions in 8 files</sub><br />
-
-* **[Nadeem Khan Qureshi](https://github.com/nadeemmx)** &mdash; Improve MatrixTransition.filterQuality documentation<br />
-  <sub>[#192822](https://github.com/flutter/flutter/pull/192822) opened on on September 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192822) 19 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate ResidentRunner, HotRunner, and ColdRunner to modular dependency injection<br />
   <sub>[#192831](https://github.com/flutter/flutter/pull/192831) opened on on September 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192831) 1327 additions and 964 deletions in 31 files</sub><br />
@@ -392,9 +368,6 @@
 * **[Kevin McDermott-Carpenter](https://github.com/KevMCarp)** &mdash; [windows] Fix touch keyboard behaviour<br />
   <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/193026) 4827 additions and 47 deletions in 35 files</sub><br />
 
-* **[Andy Wolff](https://github.com/andywolff)** &mdash; Fix unawaited async calls in fragment_shader_test and skip Vulkan in canvas_test<br />
-  <sub>[#193030](https://github.com/flutter/flutter/pull/193030) opened on on September 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193030) 30 additions and 30 deletions in 2 files</sub><br />
-
 * **[herdiyanitdev](https://github.com/herdiyana256)** &mdash; Default the web dev server to loopback instead of every interface<br />
   <sub>[#193042](https://github.com/flutter/flutter/pull/193042) opened on on September 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193042) 49 additions and 4 deletions in 2 files</sub><br />
 
@@ -443,6 +416,9 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Multi-window should never have implicit view<br />
   <sub>[#193174](https://github.com/flutter/flutter/pull/193174) opened on on September 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193174) 80 additions and 41 deletions in 8 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Enable Safari and Firefox Skwasm UI suites in Engine CI<br />
-  <sub>[#193187](https://github.com/flutter/flutter/pull/193187) opened on on September 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193187) 114 additions and 5 deletions in 3 files</sub><br />
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Enable Firefox Skwasm UI CI suites, configure COI configs, and fail fast on loader rejections<br />
+  <sub>[#193187](https://github.com/flutter/flutter/pull/193187) opened on on September 22, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193187) 118 additions and 6 deletions in 4 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Reland "fix(widgets): dismiss open RawTooltip on Escape key (WCAG 1.4.13)"<br />
+  <sub>[#193192](https://github.com/flutter/flutter/pull/193192) opened on on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193192) 171 additions and 2 deletions in 2 files</sub><br />
 
