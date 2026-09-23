@@ -210,7 +210,7 @@
   <sub>[#192342](https://github.com/flutter/flutter/pull/192342) opened on on September 5, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/192342) 422 additions and 5 deletions in 12 files</sub><br />
 
 * **[diandiandia](https://github.com/diandiandia)** &mdash; Bound decoded image allocations in the Skia image generators<br />
-  <sub>[#192375](https://github.com/flutter/flutter/pull/192375) opened on on September 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192375) 193 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#192375](https://github.com/flutter/flutter/pull/192375) opened on on September 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192375) 193 additions and 0 deletions in 4 files</sub><br />
 
 * **[Dmitrii Zolotov](https://github.com/dzolotov)** &mdash; [Flutter GPU] Reuse HostBuffer blocks after a block boundary, and view only the write<br />
   <sub>[#192398](https://github.com/flutter/flutter/pull/192398) opened on on September 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192398) 47 additions and 3 deletions in 2 files</sub><br />
@@ -411,11 +411,23 @@
   <sub>[#193168](https://github.com/flutter/flutter/pull/193168) opened on on September 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193168) 24 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [githooks] Use relative path for core.hooksPath<br />
-  <sub>[#193170](https://github.com/flutter/flutter/pull/193170) opened on on September 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193170) 14 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#193170](https://github.com/flutter/flutter/pull/193170) opened on on September 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193170) 13 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Enable Firefox Skwasm UI CI suites, configure COI configs, and fail fast on loader rejections<br />
   <sub>[#193187](https://github.com/flutter/flutter/pull/193187) opened on on September 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193187) 118 additions and 6 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add enabled to Form<br />
   <sub>[#193200](https://github.com/flutter/flutter/pull/193200) opened on on September 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/193200) 337 additions and 16 deletions in 2 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use null aware elements in `platform_views.dart`<br />
+  <sub>[#193214](https://github.com/flutter/flutter/pull/193214) opened on on September 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193214) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; [flutter_tools] Add `use_null_aware_elements` lint rule and fix new warnings<br />
+  <sub>[#193215](https://github.com/flutter/flutter/pull/193215) opened on on September 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193215) 6 additions and 8 deletions in 4 files</sub><br />
+
+* **[Xavier H.](https://github.com/xvrh)** &mdash; [tool] Pass recorded uses to asset transformers<br />
+  <sub>[#193220](https://github.com/flutter/flutter/pull/193220) opened on on September 23, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/193220) 468 additions and 44 deletions in 7 files</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Implement hot restart for multi-window<br />
+  <sub>[#193225](https://github.com/flutter/flutter/pull/193225) opened on on September 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193225) 65 additions and 24 deletions in 4 files</sub><br />
 
