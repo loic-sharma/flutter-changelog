@@ -4,7 +4,7 @@
 
 ### September 19, 2026 to September 25, 2026
 
-28 commits.
+29 commits.
 
 * **[smocer](https://github.com/smocer)** &mdash; [iOS] Rebind accessibility bridge after view controller changes
   <sub>[#187167](https://github.com/flutter/flutter/pull/187167) merged on September 21, 2026 &mdash; **Large:** [96 comments](https://github.com/flutter/flutter/pull/187167) over 3 months, 1004 additions and 108 deletions in 13 files</sub>
@@ -29,6 +29,10 @@
 * **[Digvijaysinh Chauhan](https://github.com/dhc-tech)** &mdash; Exclude local Swift package schemes from --flavor error message
   <sub>[#191098](https://github.com/flutter/flutter/pull/191098) merged on September 21, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/191098) over 1 month, 146 additions and 13 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Scope the broken mipmap workaround to the textures it affects
+  <sub>[#190186](https://github.com/flutter/flutter/pull/190186) merged on September 23, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/190186) over 1 month, 173 additions and 40 deletions in 15 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[seunggi](https://github.com/dfdgsdfg)** &mdash; [Impeller][GLES] Rebind textures before buffer uploads
   <sub>[#192158](https://github.com/flutter/flutter/pull/192158) merged on September 22, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/192158) over 2 weeks, 155 additions and 11 deletions in 9 files</sub>
@@ -681,7 +685,7 @@
 
 ### September 19, 2026 to September 25, 2026
 
-17 commits.
+18 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Add contrastLevel for M3 ColorScheme
   <sub>[#12743](https://github.com/flutter/packages/pull/12743) merged on September 22, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/12743) over 2 weeks, 920 additions and 401 deletions in 11 files</sub>
@@ -743,6 +747,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [cupertino_ui] Work around dart2wasm optional parameter inference bug in checkbox_test.dart
   <sub>[#12956](https://github.com/flutter/packages/pull/12956) merged on September 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12956) over 1 hour, 12 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CI] Remove bringup from `Mac_arm64 build_all_packages` targets
+  <sub>[#12978](https://github.com/flutter/packages/pull/12978) merged on September 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12978) over 9 hours, 0 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [cupertino_ui] Unskip 5 passing web tests in adaptive_text_selection_toolbar_test and text_field_test
   <sub>[#12984](https://github.com/flutter/packages/pull/12984) merged on September 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12984) over 21 minutes, 81 additions and 101 deletions in 2 files</sub>
