@@ -174,7 +174,7 @@
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Expansible crash when PageStorage holds a non-bool value<br />
-  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192195) 66 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192195) 293 additions and 9 deletions in 5 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; [flutter_tools] Report when the browser disconnects during a web test run<br />
   <sub>[#192198](https://github.com/flutter/flutter/pull/192198) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192198) 150 additions and 1 deletion in 2 files</sub><br />
@@ -238,9 +238,6 @@
 
 * **[Jaimin Kavathia](https://github.com/jaimin-kavathia)** &mdash; Forward all TextInputConfiguration fields through AutofillScope<br />
   <sub>[#192480](https://github.com/flutter/flutter/pull/192480) opened on on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192480) 68 additions and 0 deletions in 2 files</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_tools] Use super parameters in more places<br />
-  <sub>[#192484](https://github.com/flutter/flutter/pull/192484) opened on on September 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192484) 24 additions and 40 deletions in 13 files</sub><br />
 
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; [flutter_tools] Support custom asset bundle paths<br />
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
@@ -405,7 +402,7 @@
   <sub>[#193142](https://github.com/flutter/flutter/pull/193142) opened on on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193142) 198 additions and 5 deletions in 2 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; [flutter_tools] Report malformed plugin platform entries instead of crashing<br />
-  <sub>[#193151](https://github.com/flutter/flutter/pull/193151) opened on on September 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193151) 58 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#193151](https://github.com/flutter/flutter/pull/193151) opened on on September 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193151) 122 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Test for checking PR rebase behavior.<br />
   <sub>[#193165](https://github.com/flutter/flutter/pull/193165) opened on on September 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193165) 2 additions and 0 deletions in 1 file</sub><br />
@@ -416,12 +413,9 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [githooks] Use relative path for core.hooksPath<br />
   <sub>[#193170](https://github.com/flutter/flutter/pull/193170) opened on on September 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193170) 14 additions and 2 deletions in 1 file</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [win32] Multi-window should never have implicit view<br />
-  <sub>[#193174](https://github.com/flutter/flutter/pull/193174) opened on on September 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193174) 80 additions and 41 deletions in 8 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Enable Firefox Skwasm UI CI suites, configure COI configs, and fail fast on loader rejections<br />
   <sub>[#193187](https://github.com/flutter/flutter/pull/193187) opened on on September 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193187) 118 additions and 6 deletions in 4 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Reland "fix(widgets): dismiss open RawTooltip on Escape key (WCAG 1.4.13)"<br />
-  <sub>[#193192](https://github.com/flutter/flutter/pull/193192) opened on on September 22, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/193192) 171 additions and 2 deletions in 2 files</sub><br />
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add enabled to Form<br />
+  <sub>[#193200](https://github.com/flutter/flutter/pull/193200) opened on on September 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/193200) 337 additions and 16 deletions in 2 files</sub><br />
 
