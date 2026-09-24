@@ -93,7 +93,7 @@
   <sub>[#190985](https://github.com/flutter/flutter/pull/190985) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190985) 67 additions and 4 deletions in 5 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Make web test subshards dynamically determined by .ci.yaml<br />
-  <sub>[#191003](https://github.com/flutter/flutter/pull/191003) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/191003) 34 additions and 40 deletions in 2 files</sub><br />
+  <sub>[#191003](https://github.com/flutter/flutter/pull/191003) opened on on August 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/191003) 35 additions and 40 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add diagnostic logging and 3m ToolExit timeout for web test hangs<br />
   <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191004) 223 additions and 13 deletions in 1 file</sub><br />
@@ -158,9 +158,6 @@
 * **[greenart7c3](https://github.com/greenart7c3)** &mdash; Fix hardware keyboard paste (Ctrl+V) with TextInputType.none on Android<br />
   <sub>[#192056](https://github.com/flutter/flutter/pull/192056) opened on on August 31, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192056) 62 additions and 0 deletions in 3 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Defer disposal of stale cached paths to FrameArena<br />
-  <sub>[#192072](https://github.com/flutter/flutter/pull/192072) opened on on August 31, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192072) 59 additions and 2 deletions in 2 files</sub><br />
-
 * **[Soi (Jiwon Lee)](https://github.com/JIWON1923)** &mdash; [Windows] Fix Space input after Alt+Space with previous Microsoft IME<br />
   <sub>[#192105](https://github.com/flutter/flutter/pull/192105) opened on on September 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192105) 76 additions and 2 deletions in 2 files</sub><br />
 
@@ -201,7 +198,7 @@
   <sub>[#192289](https://github.com/flutter/flutter/pull/192289) opened on on September 4, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/192289) 131 additions and 3 deletions in 2 files</sub><br />
 
 * **[Seismor](https://github.com/seismor-com)** &mdash; Use vsync in Linux embedder<br />
-  <sub>[#192342](https://github.com/flutter/flutter/pull/192342) opened on on September 5, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/192342) 422 additions and 5 deletions in 12 files</sub><br />
+  <sub>[#192342](https://github.com/flutter/flutter/pull/192342) opened on on September 5, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/192342) 490 additions and 5 deletions in 14 files</sub><br />
 
 * **[diandiandia](https://github.com/diandiandia)** &mdash; Bound decoded image allocations in the Skia image generators<br />
   <sub>[#192375](https://github.com/flutter/flutter/pull/192375) opened on on September 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192375) 193 additions and 0 deletions in 4 files</sub><br />
@@ -279,7 +276,7 @@
   <sub>[#192727](https://github.com/flutter/flutter/pull/192727) opened on on September 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192727) 42 additions and 8 deletions in 2 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Use CAMetalLayer while preserving platform view compatibility on iOS<br />
-  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/192794) 145 additions and 178 deletions in 8 files</sub><br />
+  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/192794) 145 additions and 178 deletions in 8 files</sub><br />
 
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; Add animationBehavior to widgets using AnimationController<br />
   <sub>[#192795](https://github.com/flutter/flutter/pull/192795) opened on on September 15, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192795) 1004 additions and 131 deletions in 81 files</sub><br />
@@ -395,8 +392,8 @@
 * **[Ibrahim Khan](https://github.com/IbrahimKhan12)** &mdash; Handle upstream affinity in WidgetSpan position lookup<br />
   <sub>[#193168](https://github.com/flutter/flutter/pull/193168) opened on on September 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193168) 24 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [githooks] Use relative path for core.hooksPath<br />
-  <sub>[#193170](https://github.com/flutter/flutter/pull/193170) opened on on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193170) 50 additions and 2 deletions in 1 file</sub><br />
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [githooks] Support git worktrees and relative hooksPath<br />
+  <sub>[#193170](https://github.com/flutter/flutter/pull/193170) opened on on September 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/193170) 50 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; wasm: enforce WasmGC opt-in capability checks and Firefox < 147 guard<br />
   <sub>[#193180](https://github.com/flutter/flutter/pull/193180) opened on on September 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/193180) 47 additions and 5 deletions in 3 files</sub><br />
