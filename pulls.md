@@ -161,9 +161,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Defer disposal of stale cached paths to FrameArena<br />
   <sub>[#192072](https://github.com/flutter/flutter/pull/192072) opened on on August 31, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192072) 59 additions and 2 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes snapshots not have mip levels (since they weren't propogated)<br />
-  <sub>[#192074](https://github.com/flutter/flutter/pull/192074) opened on on August 31, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192074) 49 additions and 1 deletion in 2 files</sub><br />
-
 * **[Soi (Jiwon Lee)](https://github.com/JIWON1923)** &mdash; [Windows] Fix Space input after Alt+Space with previous Microsoft IME<br />
   <sub>[#192105](https://github.com/flutter/flutter/pull/192105) opened on on September 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192105) 76 additions and 2 deletions in 2 files</sub><br />
 
@@ -405,7 +402,7 @@
   <sub>[#193170](https://github.com/flutter/flutter/pull/193170) opened on on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193170) 50 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Enable Firefox Skwasm UI CI suites, configure COI configs, and fail fast on loader rejections<br />
-  <sub>[#193187](https://github.com/flutter/flutter/pull/193187) opened on on September 22, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/193187) 158 additions and 6 deletions in 4 files</sub><br />
+  <sub>[#193187](https://github.com/flutter/flutter/pull/193187) opened on on September 22, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/193187) 176 additions and 12 deletions in 5 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add enabled to Form<br />
   <sub>[#193200](https://github.com/flutter/flutter/pull/193200) opened on on September 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/193200) 337 additions and 16 deletions in 2 files</sub><br />
@@ -428,15 +425,12 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update `linux_android_emu_unstable` to API 37 AVD<br />
   <sub>[#193240](https://github.com/flutter/flutter/pull/193240) opened on on September 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193240) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_test] Remove redundant null arguments in Completer.complete<br />
-  <sub>[#193242](https://github.com/flutter/flutter/pull/193242) opened on on September 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193242) 3 additions and 3 deletions in 2 files</sub><br />
-
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Remove unused Fuchsia sysmem header files<br />
-  <sub>[#193244](https://github.com/flutter/flutter/pull/193244) opened on on September 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193244) 0 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#193244](https://github.com/flutter/flutter/pull/193244) opened on on September 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193244) 0 additions and 2 deletions in 2 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove compile benchmarks from bringup<br />
   <sub>[#193249](https://github.com/flutter/flutter/pull/193249) opened on on September 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193249) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Added Android 17 device to Firebase tests<br />
-  <sub>[#193251](https://github.com/flutter/flutter/pull/193251) opened on on September 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193251) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#193251](https://github.com/flutter/flutter/pull/193251) opened on on September 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193251) 1 addition and 0 deletions in 1 file</sub><br />
 
