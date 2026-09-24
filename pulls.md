@@ -257,8 +257,8 @@
 * **[Erio](https://github.com/chinaszzt)** &mdash; [Windows] Fix duplicated text when an IME composes on a non-composing model<br />
   <sub>[#192624](https://github.com/flutter/flutter/pull/192624) opened on on September 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192624) 120 additions and 0 deletions in 2 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; flutterViewForId helper<br />
-  <sub>[#192666](https://github.com/flutter/flutter/pull/192666) opened on on September 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192666) 89 additions and 41 deletions in 5 files</sub><br />
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Route windowing view lookups through WidgetsBinding<br />
+  <sub>[#192666](https://github.com/flutter/flutter/pull/192666) opened on on September 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192666) 101 additions and 60 deletions in 4 files</sub><br />
 
 * **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Cache fill path tessellations on second use<br />
   <sub>[#192681](https://github.com/flutter/flutter/pull/192681) opened on on September 12, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/192681) 380 additions and 45 deletions in 7 files</sub><br />
@@ -363,7 +363,7 @@
   <sub>[#193066](https://github.com/flutter/flutter/pull/193066) opened on on September 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/193066) 1151 additions and 39 deletions in 6 files</sub><br />
 
 * **[Aayush Kedawat](https://github.com/aayushkedawat)** &mdash; Fix OverlayPortal layout in shrink-wrapped overlays<br />
-  <sub>[#193079](https://github.com/flutter/flutter/pull/193079) opened on on September 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193079) 79 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#193079](https://github.com/flutter/flutter/pull/193079) opened on on September 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193079) 79 additions and 7 deletions in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; add shorthands for scroll physics subclasses in framework<br />
   <sub>[#193082](https://github.com/flutter/flutter/pull/193082) opened on on September 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193082) 231 additions and 0 deletions in 3 files</sub><br />
@@ -401,6 +401,9 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [githooks] Use relative path for core.hooksPath<br />
   <sub>[#193170](https://github.com/flutter/flutter/pull/193170) opened on on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193170) 50 additions and 2 deletions in 1 file</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; wasm: enforce WasmGC opt-in capability checks and Firefox < 147 guard<br />
+  <sub>[#193180](https://github.com/flutter/flutter/pull/193180) opened on on September 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/193180) 47 additions and 5 deletions in 3 files</sub><br />
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Enable Firefox Skwasm UI CI suites, configure COI configs, and fail fast on loader rejections<br />
   <sub>[#193187](https://github.com/flutter/flutter/pull/193187) opened on on September 22, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/193187) 176 additions and 12 deletions in 5 files</sub><br />
 
@@ -428,9 +431,33 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Remove unused Fuchsia sysmem header files<br />
   <sub>[#193244](https://github.com/flutter/flutter/pull/193244) opened on on September 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193244) 0 additions and 2 deletions in 2 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; remove compile benchmarks from bringup<br />
-  <sub>[#193249](https://github.com/flutter/flutter/pull/193249) opened on on September 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193249) 0 additions and 4 deletions in 1 file</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Added Android 17 device to Firebase tests<br />
   <sub>[#193251](https://github.com/flutter/flutter/pull/193251) opened on on September 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193251) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Un-nest sceneBuildDuration and windowRenderDuration in web SceneBuilderRecorder<br />
+  <sub>[#193260](https://github.com/flutter/flutter/pull/193260) opened on on September 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193260) 9 additions and 8 deletions in 1 file</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Updated Templates to AGP 9.3.1<br />
+  <sub>[#193262](https://github.com/flutter/flutter/pull/193262) opened on on September 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193262) 43 additions and 28 deletions in 8 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Bump Standard Test Apps in flutter/flutter to AGP 9.3.1<br />
+  <sub>[#193263](https://github.com/flutter/flutter/pull/193263) opened on on September 24, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/193263) 9648 additions and 7717 deletions in 137 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Bump Add-to-app Test Apps in flutter/flutter to AGP 9.3.1<br />
+  <sub>[#193264](https://github.com/flutter/flutter/pull/193264) opened on on September 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193264) 11 additions and 11 deletions in 9 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Bumped Engine Dependencies to 9.3.1<br />
+  <sub>[#193265](https://github.com/flutter/flutter/pull/193265) opened on on September 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193265) 4 additions and 4 deletions in 4 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Handle FlView being destroyed before rendering is complete.<br />
+  <sub>[#193268](https://github.com/flutter/flutter/pull/193268) opened on on September 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193268) 93 additions and 0 deletions in 6 files</sub><br />
+
+* **[Simon Pham](https://github.com/simonpham)** &mdash; [web] Preserve autofill form across TextInput.updateConfig<br />
+  <sub>[#193269](https://github.com/flutter/flutter/pull/193269) opened on on September 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193269) 216 additions and 0 deletions in 2 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Synchronize dart2wasm feature probes in roll script and flutter_bootstrap.js<br />
+  <sub>[#193271](https://github.com/flutter/flutter/pull/193271) opened on on September 24, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193271) 392 additions and 15 deletions in 8 files</sub><br />
+
+* **[suojae](https://github.com/suojae)** &mdash; [a11y] Scope MaterialBanner in a11y_assessments to its page<br />
+  <sub>[#193272](https://github.com/flutter/flutter/pull/193272) opened on on September 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193272) 42 additions and 9 deletions in 2 files</sub><br />
 
