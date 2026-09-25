@@ -81,7 +81,7 @@
   <sub>[#190789](https://github.com/flutter/flutter/pull/190789) opened on on August 8, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/190789) 827 additions and 760 deletions in 17 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update the CLI to reject passing engine configuration flags with a prebuilt binary in release mode<br />
-  <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/190870) 821 additions and 199 deletions in 9 files</sub><br />
+  <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/190870) 821 additions and 199 deletions in 9 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
@@ -127,9 +127,6 @@
 
 * **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Expose includeHash on usePathUrlStrategy()<br />
   <sub>[#191816](https://github.com/flutter/flutter/pull/191816) opened on on August 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191816) 36 additions and 3 deletions in 4 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle Windows reserved characters in test target path<br />
-  <sub>[#191900](https://github.com/flutter/flutter/pull/191900) opened on on August 27, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/191900) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Lazily initialize AppleContext dependencies via builder closures<br />
   <sub>[#191992](https://github.com/flutter/flutter/pull/191992) opened on on August 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191992) 351 additions and 102 deletions in 3 files</sub><br />
@@ -246,7 +243,7 @@
   <sub>[#192739](https://github.com/flutter/flutter/pull/192739) opened on on September 14, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/192739) 416 additions and 38 deletions in 9 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Use CAMetalLayer while preserving platform view compatibility on iOS<br />
-  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [38 comments](https://github.com/flutter/flutter/pull/192794) 183 additions and 186 deletions in 9 files</sub><br />
+  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [44 comments](https://github.com/flutter/flutter/pull/192794) 183 additions and 186 deletions in 9 files</sub><br />
 
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; Add animationBehavior to widgets using AnimationController<br />
   <sub>[#192795](https://github.com/flutter/flutter/pull/192795) opened on on September 15, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192795) 1004 additions and 131 deletions in 81 files</sub><br />
@@ -258,10 +255,10 @@
   <sub>[#192811](https://github.com/flutter/flutter/pull/192811) opened on on September 15, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/192811) 59 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate ResidentRunner, HotRunner, and ColdRunner to modular dependency injection<br />
-  <sub>[#192831](https://github.com/flutter/flutter/pull/192831) opened on on September 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192831) 1344 additions and 977 deletions in 32 files</sub><br />
+  <sub>[#192831](https://github.com/flutter/flutter/pull/192831) opened on on September 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192831) 1853 additions and 1280 deletions in 38 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate AttachCommand to modular dependency injection<br />
-  <sub>[#192837](https://github.com/flutter/flutter/pull/192837) opened on on September 15, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/192837) 1750 additions and 1065 deletions in 33 files</sub><br />
+  <sub>[#192837](https://github.com/flutter/flutter/pull/192837) opened on on September 15, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/192837) 2309 additions and 1360 deletions in 39 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Document ListView usage with`Row/Column` widgets<br />
   <sub>[#192860](https://github.com/flutter/flutter/pull/192860) opened on on September 16, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/192860) 21 additions and 0 deletions in 1 file</sub><br />
@@ -353,12 +350,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Added Android 17 device to Firebase tests<br />
   <sub>[#193251](https://github.com/flutter/flutter/pull/193251) opened on on September 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193251) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Bump Standard Test Apps in flutter/flutter to AGP 9.3.1<br />
-  <sub>[#193263](https://github.com/flutter/flutter/pull/193263) opened on on September 24, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/193263) 9648 additions and 7717 deletions in 137 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Handle FlView being destroyed before rendering is complete.<br />
-  <sub>[#193268](https://github.com/flutter/flutter/pull/193268) opened on on September 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193268) 93 additions and 0 deletions in 6 files</sub><br />
-
 * **[suojae](https://github.com/suojae)** &mdash; [a11y] Scope MaterialBanner in a11y_assessments to its page<br />
   <sub>[#193272](https://github.com/flutter/flutter/pull/193272) opened on on September 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193272) 42 additions and 9 deletions in 2 files</sub><br />
 
@@ -376,9 +367,6 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Report skwasm WebGL context creation failure instead of hanging<br />
   <sub>[#193293](https://github.com/flutter/flutter/pull/193293) opened on on September 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193293) 71 additions and 19 deletions in 6 files</sub><br />
-
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Fix plugin tests after Pigeon plugin template changes<br />
-  <sub>[#193302](https://github.com/flutter/flutter/pull/193302) opened on on September 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193302) 2 additions and 8 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes feedback loop from advanced filters without offscreen msaa and framebufferfetch<br />
   <sub>[#193306](https://github.com/flutter/flutter/pull/193306) opened on on September 24, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/193306) 457 additions and 17 deletions in 6 files</sub><br />
@@ -398,9 +386,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): migrate Desktop build commands to typed options<br />
   <sub>[#193323](https://github.com/flutter/flutter/pull/193323) opened on on September 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193323) 72 additions and 67 deletions in 4 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add a semantics role for slider<br />
-  <sub>[#193324](https://github.com/flutter/flutter/pull/193324) opened on on September 25, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/193324) 356 additions and 4 deletions in 12 files</sub><br />
-
 * **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; Fix LayoutBuilder rebuild lost when requested mid-layout under its own render object<br />
   <sub>[#193331](https://github.com/flutter/flutter/pull/193331) opened on on September 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193331) 174 additions and 2 deletions in 2 files</sub><br />
 
@@ -418,4 +403,7 @@
 
 * **[Diego López](https://github.com/diegolopezrm)** &mdash; [web] Let the browser handle Control+wheel zoom outside of macOS<br />
   <sub>[#193362](https://github.com/flutter/flutter/pull/193362) opened on on September 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193362) 97 additions and 3 deletions in 2 files</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Do not send traversal child semantics nodes to engine when traversal parent is missing<br />
+  <sub>[#193372](https://github.com/flutter/flutter/pull/193372) opened on on September 25, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/193372) 341 additions and 13 deletions in 2 files</sub><br />
 
