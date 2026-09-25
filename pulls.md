@@ -150,7 +150,7 @@
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Expansible crash when PageStorage holds a non-bool value<br />
-  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/192195) 293 additions and 9 deletions in 5 files</sub><br />
+  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/192195) 288 additions and 10 deletions in 5 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; [flutter_tools] Report when the browser disconnects during a web test run<br />
   <sub>[#192198](https://github.com/flutter/flutter/pull/192198) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192198) 150 additions and 1 deletion in 2 files</sub><br />
@@ -255,7 +255,7 @@
   <sub>[#192739](https://github.com/flutter/flutter/pull/192739) opened on on September 14, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/192739) 416 additions and 38 deletions in 9 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Use CAMetalLayer while preserving platform view compatibility on iOS<br />
-  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/192794) 160 additions and 180 deletions in 9 files</sub><br />
+  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/192794) 160 additions and 180 deletions in 9 files</sub><br />
 
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; Add animationBehavior to widgets using AnimationController<br />
   <sub>[#192795](https://github.com/flutter/flutter/pull/192795) opened on on September 15, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192795) 1004 additions and 131 deletions in 81 files</sub><br />
@@ -380,9 +380,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Bump Standard Test Apps in flutter/flutter to AGP 9.3.1<br />
   <sub>[#193263](https://github.com/flutter/flutter/pull/193263) opened on on September 24, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/193263) 9648 additions and 7717 deletions in 137 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Bumped Engine Dependencies to 9.3.1<br />
-  <sub>[#193265](https://github.com/flutter/flutter/pull/193265) opened on on September 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193265) 4 additions and 4 deletions in 4 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Handle FlView being destroyed before rendering is complete.<br />
   <sub>[#193268](https://github.com/flutter/flutter/pull/193268) opened on on September 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193268) 93 additions and 0 deletions in 6 files</sub><br />
 
@@ -403,6 +400,9 @@
 
 * **[Ayodele Ayoola](https://github.com/CreedTech)** &mdash; Make RawScrollbar respect pointer axis modifiers<br />
   <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193290) 71 additions and 6 deletions in 2 files</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Fix plugin tests after Pigeon plugin template changes<br />
+  <sub>[#193302](https://github.com/flutter/flutter/pull/193302) opened on on September 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193302) 2 additions and 8 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes feedback loop from advanced filters without offscreen msaa and framebufferfetch<br />
   <sub>[#193306](https://github.com/flutter/flutter/pull/193306) opened on on September 24, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/193306) 460 additions and 17 deletions in 6 files</sub><br />
@@ -433,4 +433,13 @@
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; Make `DrivenScrollActivity` respect scroll offset corrections<br />
   <sub>[#193339](https://github.com/flutter/flutter/pull/193339) opened on on September 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193339) 167 additions and 1 deletion in 3 files</sub><br />
+
+* **[surya_kommana](https://github.com/suryaKommana2662)** &mdash; Fix SelectionArea highlight gaps with custom line height<br />
+  <sub>[#193344](https://github.com/flutter/flutter/pull/193344) opened on on September 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193344) 42 additions and 1 deletion in 2 files</sub><br />
+
+* **[warabimochi-ayn](https://github.com/warabimochi-ayn)** &mdash; Fix Table semantics column index being mirrored in RTL<br />
+  <sub>[#193347](https://github.com/flutter/flutter/pull/193347) opened on on September 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193347) 79 additions and 1 deletion in 2 files</sub><br />
+
+* **[Godaminator](https://github.com/guru-prasath-j)** &mdash; [flutter_driver] Match screenshot formats by name, not index<br />
+  <sub>[#193349](https://github.com/flutter/flutter/pull/193349) opened on on September 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193349) 50 additions and 1 deletion in 2 files</sub><br />
 

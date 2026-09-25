@@ -865,7 +865,7 @@
 
 ### September 19, 2026 to September 25, 2026
 
-32 commits.
+33 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [cross_file] Updates cross_file to a package separated federated plugin 
   <sub>[#11010](https://github.com/flutter/packages/pull/11010) merged on September 24, 2026 &mdash; **Extra large:** [149 comments](https://github.com/flutter/packages/pull/11010) over 7 months, 5900 additions and 1029 deletions in 146 files</sub>
@@ -931,6 +931,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 Chip template to use new gen_defaults
   <sub>[#12847](https://github.com/flutter/packages/pull/12847) merged on September 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12847) over 1 week, 48 additions and 117 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; [material_ui] Add labelTextDirection handling in InputDecorator
+  <sub>[#12607](https://github.com/flutter/packages/pull/12607) merged on September 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12607) over 1 month, 78 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update suggested reviewers
   <sub>[#12974](https://github.com/flutter/packages/pull/12974) merged on September 22, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12974) over 1 hour, 33 additions and 36 deletions in 1 file</sub>
