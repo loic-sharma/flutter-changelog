@@ -93,7 +93,7 @@
   <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191004) 223 additions and 13 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes bug where sibling node fail to update size<br />
-  <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191220) 129 additions and 56 deletions in 2 files</sub><br />
+  <sub>[#191220](https://github.com/flutter/flutter/pull/191220) opened on on August 17, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191220) 129 additions and 56 deletions in 2 files</sub><br />
 
 * **[sazzadhossainemon06-droid](https://github.com/sazzadhossainemon06-droid)** &mdash; Update CONTRIBUTING.md<br />
   <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />
@@ -255,7 +255,7 @@
   <sub>[#192739](https://github.com/flutter/flutter/pull/192739) opened on on September 14, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/192739) 416 additions and 38 deletions in 9 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Use CAMetalLayer while preserving platform view compatibility on iOS<br />
-  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/192794) 145 additions and 182 deletions in 9 files</sub><br />
+  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/192794) 160 additions and 180 deletions in 9 files</sub><br />
 
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; Add animationBehavior to widgets using AnimationController<br />
   <sub>[#192795](https://github.com/flutter/flutter/pull/192795) opened on on September 15, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192795) 1004 additions and 131 deletions in 81 files</sub><br />
@@ -285,7 +285,7 @@
   <sub>[#192940](https://github.com/flutter/flutter/pull/192940) opened on on September 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192940) 133 additions and 74 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Preserve DOM focus on role update and honor isAccessibilityFocusBlocked<br />
-  <sub>[#192963](https://github.com/flutter/flutter/pull/192963) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192963) 142 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#192963](https://github.com/flutter/flutter/pull/192963) opened on on September 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192963) 152 additions and 3 deletions in 5 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Omit group role on menu scrollables and assign region role to named routes<br />
   <sub>[#192965](https://github.com/flutter/flutter/pull/192965) opened on on September 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192965) 113 additions and 81 deletions in 5 files</sub><br />
@@ -377,9 +377,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Added Android 17 device to Firebase tests<br />
   <sub>[#193251](https://github.com/flutter/flutter/pull/193251) opened on on September 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193251) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Updated Templates to AGP 9.3.1<br />
-  <sub>[#193262](https://github.com/flutter/flutter/pull/193262) opened on on September 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193262) 43 additions and 29 deletions in 8 files</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Bump Standard Test Apps in flutter/flutter to AGP 9.3.1<br />
   <sub>[#193263](https://github.com/flutter/flutter/pull/193263) opened on on September 24, 2026 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/193263) 9648 additions and 7717 deletions in 137 files</sub><br />
 
@@ -408,7 +405,7 @@
   <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193290) 71 additions and 6 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes feedback loop from advanced filters without offscreen msaa and framebufferfetch<br />
-  <sub>[#193306](https://github.com/flutter/flutter/pull/193306) opened on on September 24, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/193306) 460 additions and 17 deletions in 6 files</sub><br />
+  <sub>[#193306](https://github.com/flutter/flutter/pull/193306) opened on on September 24, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/193306) 460 additions and 17 deletions in 6 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] Updated `targetSdk` to 37<br />
   <sub>[#193308](https://github.com/flutter/flutter/pull/193308) opened on on September 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193308) 1 addition and 1 deletion in 1 file</sub><br />
@@ -424,4 +421,10 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow macOS tests to use macOS 15 or 26<br />
   <sub>[#193317](https://github.com/flutter/flutter/pull/193317) opened on on September 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193317) 87 additions and 84 deletions in 9 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): migrate Desktop build commands to typed options<br />
+  <sub>[#193323](https://github.com/flutter/flutter/pull/193323) opened on on September 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193323) 76 additions and 70 deletions in 4 files</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add a semantics role for slider<br />
+  <sub>[#193324](https://github.com/flutter/flutter/pull/193324) opened on on September 25, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193324) 356 additions and 4 deletions in 12 files</sub><br />
 
