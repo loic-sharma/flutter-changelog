@@ -255,7 +255,7 @@
   <sub>[#192739](https://github.com/flutter/flutter/pull/192739) opened on on September 14, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/192739) 416 additions and 38 deletions in 9 files</sub><br />
 
 * **[TtangKong](https://github.com/MTtankkeo)** &mdash; Use CAMetalLayer while preserving platform view compatibility on iOS<br />
-  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/192794) 160 additions and 180 deletions in 9 files</sub><br />
+  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/192794) 160 additions and 180 deletions in 9 files</sub><br />
 
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; Add animationBehavior to widgets using AnimationController<br />
   <sub>[#192795](https://github.com/flutter/flutter/pull/192795) opened on on September 15, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192795) 1004 additions and 131 deletions in 81 files</sub><br />
@@ -405,7 +405,7 @@
   <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193290) 71 additions and 6 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes feedback loop from advanced filters without offscreen msaa and framebufferfetch<br />
-  <sub>[#193306](https://github.com/flutter/flutter/pull/193306) opened on on September 24, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/193306) 460 additions and 17 deletions in 6 files</sub><br />
+  <sub>[#193306](https://github.com/flutter/flutter/pull/193306) opened on on September 24, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/193306) 460 additions and 17 deletions in 6 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] Updated `targetSdk` to 37<br />
   <sub>[#193308](https://github.com/flutter/flutter/pull/193308) opened on on September 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193308) 1 addition and 1 deletion in 1 file</sub><br />
@@ -423,8 +423,14 @@
   <sub>[#193317](https://github.com/flutter/flutter/pull/193317) opened on on September 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193317) 87 additions and 84 deletions in 9 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): migrate Desktop build commands to typed options<br />
-  <sub>[#193323](https://github.com/flutter/flutter/pull/193323) opened on on September 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193323) 76 additions and 70 deletions in 4 files</sub><br />
+  <sub>[#193323](https://github.com/flutter/flutter/pull/193323) opened on on September 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193323) 72 additions and 67 deletions in 4 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add a semantics role for slider<br />
   <sub>[#193324](https://github.com/flutter/flutter/pull/193324) opened on on September 25, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193324) 356 additions and 4 deletions in 12 files</sub><br />
+
+* **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; Fix LayoutBuilder rebuild lost when requested mid-layout under its own render object<br />
+  <sub>[#193331](https://github.com/flutter/flutter/pull/193331) opened on on September 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193331) 174 additions and 2 deletions in 2 files</sub><br />
+
+* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; Make `DrivenScrollActivity` respect scroll offset corrections<br />
+  <sub>[#193339](https://github.com/flutter/flutter/pull/193339) opened on on September 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193339) 167 additions and 1 deletion in 3 files</sub><br />
 
