@@ -242,9 +242,6 @@
 * **[Calvin Goodman](https://github.com/Calpoog)** &mdash; Add environment-conditioned assets<br />
   <sub>[#192739](https://github.com/flutter/flutter/pull/192739) opened on on September 14, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/192739) 416 additions and 38 deletions in 9 files</sub><br />
 
-* **[TtangKong](https://github.com/MTtankkeo)** &mdash; Use CAMetalLayer while preserving platform view compatibility on iOS<br />
-  <sub>[#192794](https://github.com/flutter/flutter/pull/192794) opened on on September 15, 2026 &mdash; **Medium:** [48 comments](https://github.com/flutter/flutter/pull/192794) 183 additions and 186 deletions in 9 files</sub><br />
-
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; Add animationBehavior to widgets using AnimationController<br />
   <sub>[#192795](https://github.com/flutter/flutter/pull/192795) opened on on September 15, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192795) 1004 additions and 131 deletions in 81 files</sub><br />
 
@@ -412,4 +409,16 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: SelectionArea selection flickering when text with a WidgetSpan is rebuilt<br />
   <sub>[#193387](https://github.com/flutter/flutter/pull/193387) opened on on September 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193387) 169 additions and 3 deletions in 3 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Offstage OverlayEntry failing a relayout boundary assertion when rebuilt more than once<br />
+  <sub>[#193392](https://github.com/flutter/flutter/pull/193392) opened on on September 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193392) 125 additions and 0 deletions in 2 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: Remove discontinued adaptive_breakpoints package<br />
+  <sub>[#193393](https://github.com/flutter/flutter/pull/193393) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193393) 11 additions and 15 deletions in 4 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: Remove discontinued isolate package<br />
+  <sub>[#193394](https://github.com/flutter/flutter/pull/193394) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193394) 1 addition and 10 deletions in 2 files</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: Remove discontinued js package<br />
+  <sub>[#193395](https://github.com/flutter/flutter/pull/193395) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193395) 3 additions and 14 deletions in 4 files</sub><br />
 

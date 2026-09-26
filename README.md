@@ -945,7 +945,7 @@
 
 ### September 19, 2026 to September 25, 2026
 
-41 commits.
+42 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [cross_file] Updates cross_file to a package separated federated plugin <br />
   <sub>[#11010](https://github.com/flutter/packages/pull/11010) merged on September 24, 2026 &mdash; **Extra large:** [149 comments](https://github.com/flutter/packages/pull/11010) over 7 months, 5900 additions and 1029 deletions in 146 files</sub><br />
@@ -1006,21 +1006,17 @@
   <sub>[#12830](https://github.com/flutter/packages/pull/12830) merged on September 23, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/packages/pull/12830) over 1 week, 357 additions and 9 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Remove static access of `copyWith` from `dart fix` golden tests for `ThemeData/TextTheme`<br />
-  <sub>[#12994](https://github.com/flutter/packages/pull/12994) merged on September 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12994) over 4 hours, 14 additions and 12 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [ci] Update repo for 3.47 stable release<br />
   <sub>[#12959](https://github.com/flutter/packages/pull/12959) merged on September 21, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/12959) over 5 hours, 796 additions and 487 deletions in 313 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Remove static access of `copyWith` from `dart fix` golden tests for `ThemeData/TextTheme`<br />
+  <sub>[#12994](https://github.com/flutter/packages/pull/12994) merged on September 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/12994) over 4 hours, 14 additions and 12 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Plugin example apps to 9.3.1<br />
   <sub>[#13019](https://github.com/flutter/packages/pull/13019) merged on September 25, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/13019) over 3 hours, 406 additions and 360 deletions in 116 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 ExpansionTile template to use new gen_defaults<br />
-  <sub>[#12920](https://github.com/flutter/packages/pull/12920) merged on September 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12920) over 1 week, 56 additions and 75 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
 
 * **[Ilyas Nugmanov](https://github.com/m1roxx)** &mdash; [two_dimensional_scrollables] Exclude trailing pinned spans from the non-pinned range<br />
   <sub>[#12666](https://github.com/flutter/packages/pull/12666) merged on September 25, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/12666) over 4 weeks, 291 additions and 10 deletions in 4 files</sub><br />
@@ -1046,6 +1042,10 @@
   <sub>[#12847](https://github.com/flutter/packages/pull/12847) merged on September 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12847) over 1 week, 48 additions and 117 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 ExpansionTile template to use new gen_defaults<br />
+  <sub>[#12920](https://github.com/flutter/packages/pull/12920) merged on September 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12920) over 1 week, 56 additions and 75 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [material_ui] Add labelTextDirection handling in InputDecorator<br />
   <sub>[#12607](https://github.com/flutter/packages/pull/12607) merged on September 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12607) over 1 month, 78 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
@@ -1058,21 +1058,21 @@
   <sub>[#12913](https://github.com/flutter/packages/pull/12913) merged on September 21, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12913) over 3 days, 38 additions and 30 deletions in 29 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [material_ui] Update `material_ui` tests to prevent them from failing when framework `TextStyle` changes<br />
-  <sub>[#12728](https://github.com/flutter/packages/pull/12728) merged on September 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12728) over 2 weeks, 2 additions and 190 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Update packages CI test runners to SDK 37<br />
   <sub>[#12376](https://github.com/flutter/packages/pull/12376) merged on September 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12376) over 1 month, 17 additions and 17 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; [pigeon][video_player] Disable `video_player` and `pigeon` flakes blocking latest flutter -> packages roll<br />
-  <sub>[#13003](https://github.com/flutter/packages/pull/13003) merged on September 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/13003) over 30 minutes, 31 additions and 22 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [material_ui] Update `material_ui` tests to prevent them from failing when framework `TextStyle` changes<br />
+  <sub>[#12728](https://github.com/flutter/packages/pull/12728) merged on September 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12728) over 2 weeks, 2 additions and 190 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [ci] Assign batch release PR approver as reviewer on sync-back PR<br />
   <sub>[#12976](https://github.com/flutter/packages/pull/12976) merged on September 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12976) over 1 day, 26 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [file_selector] Ignore flakey `file_selector_android` tests<br />
+  <sub>[#12992](https://github.com/flutter/packages/pull/12992) merged on September 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12992) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [cupertino_ui] Work around dart2wasm optional parameter inference bug in example checkbox tests<br />
   <sub>[#12961](https://github.com/flutter/packages/pull/12961) merged on September 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12961) over 32 minutes, 34 additions and 0 deletions in 2 files</sub><br />
@@ -1082,13 +1082,17 @@
   <sub>[#12956](https://github.com/flutter/packages/pull/12956) merged on September 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12956) over 1 hour, 12 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; [file_selector] Ignore flakey `file_selector_android` tests<br />
-  <sub>[#12992](https://github.com/flutter/packages/pull/12992) merged on September 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12992) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [material_ui] Unskip 5 passing web tests in bottom_app_bar_test and text_field_test<br />
   <sub>[#12983](https://github.com/flutter/packages/pull/12983) merged on September 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12983) over 58 minutes, 53 additions and 65 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [pigeon][video_player] Disable `video_player` and `pigeon` flakes blocking latest flutter -> packages roll<br />
+  <sub>[#13003](https://github.com/flutter/packages/pull/13003) merged on September 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/13003) over 30 minutes, 31 additions and 22 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_maps_flutter] Indicate that default iOS impl is discoraged<br />
+  <sub>[#12872](https://github.com/flutter/packages/pull/12872) merged on September 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12872) over 1 week, 14 additions and 9 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Fix NSnumber edge cases and null value bug<br />
   <sub>[#12997](https://github.com/flutter/packages/pull/12997) merged on September 24, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/12997) over 18 hours, 90 additions and 52 deletions in 9 files</sub><br />
