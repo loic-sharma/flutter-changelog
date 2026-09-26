@@ -152,6 +152,9 @@
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; [flutter_tools] Report when the browser disconnects during a web test run<br />
   <sub>[#192198](https://github.com/flutter/flutter/pull/192198) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192198) 150 additions and 1 deletion in 2 files</sub><br />
 
+* **[Minsoo Kim](https://github.com/33modeling)** &mdash; Clarify MatrixTransition filterQuality performance<br />
+  <sub>[#192221](https://github.com/flutter/flutter/pull/192221) opened on on September 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192221) 11 additions and 0 deletions in 1 file</sub><br />
+
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Evict removed/renamed assets from the asset bundle and running app on hot restart<br />
   <sub>[#192243](https://github.com/flutter/flutter/pull/192243) opened on on September 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192243) 279 additions and 9 deletions in 6 files</sub><br />
 
@@ -166,9 +169,6 @@
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fix LiveTestWidgetsFlutterBinding dropping synthetic pointer cancels for test-sourced pointers<br />
   <sub>[#192289](https://github.com/flutter/flutter/pull/192289) opened on on September 4, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/192289) 131 additions and 3 deletions in 2 files</sub><br />
-
-* **[Seismor](https://github.com/seismor-com)** &mdash; Use vsync in Linux embedder<br />
-  <sub>[#192342](https://github.com/flutter/flutter/pull/192342) opened on on September 5, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/192342) 490 additions and 5 deletions in 14 files</sub><br />
 
 * **[diandiandia](https://github.com/diandiandia)** &mdash; Bound decoded image allocations in the Skia image generators<br />
   <sub>[#192375](https://github.com/flutter/flutter/pull/192375) opened on on September 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192375) 193 additions and 0 deletions in 4 files</sub><br />
@@ -421,4 +421,7 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; refactor: Remove discontinued js package<br />
   <sub>[#193395](https://github.com/flutter/flutter/pull/193395) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193395) 3 additions and 14 deletions in 4 files</sub><br />
+
+* **[Arno Victor](https://github.com/arnodorian1337)** &mdash; [security test] Validate LUCI commit pinning<br />
+  <sub>[#193398](https://github.com/flutter/flutter/pull/193398) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193398) 18 additions and 0 deletions in 1 file</sub><br />
 
