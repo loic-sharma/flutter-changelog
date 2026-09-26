@@ -425,3 +425,6 @@
 * **[Arno Victor](https://github.com/arnodorian1337)** &mdash; [security test] Validate LUCI commit pinning<br />
   <sub>[#193398](https://github.com/flutter/flutter/pull/193398) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193398) 18 additions and 0 deletions in 1 file</sub><br />
 
+* **[zzzjim](https://github.com/zzzjim)** &mdash; [web] Prevent unconsumed scroll from chaining into the host page<br />
+  <sub>[#193402](https://github.com/flutter/flutter/pull/193402) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193402) 8 additions and 1 deletion in 2 files</sub><br />
+
