@@ -285,7 +285,7 @@
   <sub>[#192998](https://github.com/flutter/flutter/pull/192998) opened on on September 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192998) 381 additions and 4 deletions in 2 files</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Do not present the root surface when an external view embedder owns it<br />
-  <sub>[#193000](https://github.com/flutter/flutter/pull/193000) opened on on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193000) 97 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#193000](https://github.com/flutter/flutter/pull/193000) opened on on September 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193000) 97 additions and 7 deletions in 4 files</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Move the Vulkan wrapped-texture helper out of the GPU surface<br />
   <sub>[#193001](https://github.com/flutter/flutter/pull/193001) opened on on September 18, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/193001) 219 additions and 59 deletions in 7 files</sub><br />

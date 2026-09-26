@@ -11,7 +11,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow resetting test invariants in `addTearDown`<br />
-  <sub>[#192082](https://github.com/flutter/flutter/pull/192082) merged on September 25, 2026 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/192082) over 3 weeks, 275 additions and 44 deletions in 3 files</sub><br />
+  <sub>[#192082](https://github.com/flutter/flutter/pull/192082) merged on September 25, 2026 &mdash; **Medium:** [31 comments](https://github.com/flutter/flutter/pull/192082) over 3 weeks, 275 additions and 44 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Scope the mobile semantics placeholder to its view<br />
@@ -925,7 +925,7 @@
 
 ### September 19, 2026 to September 25, 2026
 
-40 commits.
+41 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [cross_file] Updates cross_file to a package separated federated plugin <br />
   <sub>[#11010](https://github.com/flutter/packages/pull/11010) merged on September 24, 2026 &mdash; **Extra large:** [149 comments](https://github.com/flutter/packages/pull/11010) over 7 months, 5900 additions and 1029 deletions in 146 files</sub><br />
@@ -935,6 +935,11 @@
   <sub>[#12743](https://github.com/flutter/packages/pull/12743) merged on September 22, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/12743) over 2 weeks, 920 additions and 401 deletions in 11 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1181" height="526" alt="Screenshot 2026-07-31 at 4 35 36 PM" src="https://github.com/user-attachments/assets/0515a722-1455-49a0-9c5d-30ffaa844b7f" /></details></sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Add Material 3 Expressive IconButton<br />
+  <sub>[#12832](https://github.com/flutter/packages/pull/12832) merged on September 26, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/12832) over 2 weeks, 3115 additions and 21 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="1858" height="1514" alt="image" src="https://github.com/user-attachments/assets/1914ca8e-a1e2-4881-aa9b-083f26d44b50" /></details></sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Don't clip MenuItemButton.leadingIcon<br />
   <sub>[#12986](https://github.com/flutter/packages/pull/12986) merged on September 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12986) over 2 days, 61 additions and 16 deletions in 3 files</sub><br />
@@ -993,6 +998,10 @@
   <sub>[#13019](https://github.com/flutter/packages/pull/13019) merged on September 25, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/13019) over 3 hours, 406 additions and 360 deletions in 116 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 ExpansionTile template to use new gen_defaults<br />
+  <sub>[#12920](https://github.com/flutter/packages/pull/12920) merged on September 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12920) over 1 week, 56 additions and 75 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
 * **[Ilyas Nugmanov](https://github.com/m1roxx)** &mdash; [two_dimensional_scrollables] Exclude trailing pinned spans from the non-pinned range<br />
   <sub>[#12666](https://github.com/flutter/packages/pull/12666) merged on September 25, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/packages/pull/12666) over 4 weeks, 291 additions and 10 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
@@ -1015,10 +1024,6 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 Chip template to use new gen_defaults<br />
   <sub>[#12847](https://github.com/flutter/packages/pull/12847) merged on September 22, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/12847) over 1 week, 48 additions and 117 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 ExpansionTile template to use new gen_defaults<br />
-  <sub>[#12920](https://github.com/flutter/packages/pull/12920) merged on September 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12920) over 1 week, 56 additions and 75 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [material_ui] Add labelTextDirection handling in InputDecorator<br />
