@@ -14,13 +14,13 @@
   <sub>[#192082](https://github.com/flutter/flutter/pull/192082) merged on September 25, 2026 &mdash; **Medium:** [31 comments](https://github.com/flutter/flutter/pull/192082) over 3 weeks, 275 additions and 44 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Scope the mobile semantics placeholder to its view
-  <sub>[#190856](https://github.com/flutter/flutter/pull/190856) merged on September 21, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/190856) over 1 month, 564 additions and 107 deletions in 8 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
-
 * **[Nicodemus Lin](https://github.com/nicolinx)** &mdash; Fix: stop auto-scrolling during selection handle drag
   <sub>[#185206](https://github.com/flutter/flutter/pull/185206) merged on September 25, 2026 &mdash; **Small:** [80 comments](https://github.com/flutter/flutter/pull/185206) over 5 months, 100 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Hashem](https://github.com/haashem), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Scope the mobile semantics placeholder to its view
+  <sub>[#190856](https://github.com/flutter/flutter/pull/190856) merged on September 21, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/190856) over 1 month, 564 additions and 107 deletions in 8 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [a11y] Add a semantics role for slider 
   <sub>[#184029](https://github.com/flutter/flutter/pull/184029) merged on September 23, 2026 &mdash; **Medium:** [25 comments](https://github.com/flutter/flutter/pull/184029) over 6 months, 356 additions and 4 deletions in 12 files</sub>
