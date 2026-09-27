@@ -429,5 +429,8 @@
   <sub>[#193402](https://github.com/flutter/flutter/pull/193402) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193402) 8 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Clear HTMLImageElement.src when WebImageInfo and ImgElementPlatformView are disposed<br />
-  <sub>[#193408](https://github.com/flutter/flutter/pull/193408) opened on on September 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193408) 199 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#193408](https://github.com/flutter/flutter/pull/193408) opened on on September 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193408) 215 additions and 15 deletions in 3 files</sub><br />
+
+* **[August](https://github.com/Gustl22)** &mdash; [Windows] Fix PostPlatformThreadTask cancelling tasks before they run<br />
+  <sub>[#193412](https://github.com/flutter/flutter/pull/193412) opened on on September 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193412) 51 additions and 6 deletions in 2 files</sub><br />
 
