@@ -1009,11 +1009,15 @@
 
 ### September 26, 2026 to October 2, 2026
 
-1 commits.
+2 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Pin firebase-tools to fix build failures
   <sub>[#13929](https://github.com/flutter/website/pull/13929) merged on September 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13929) over 2 days, 22 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[Rahul Shah](https://github.com/rahulshahDEV)** &mdash; Fix shimmer loading cookbook image paths
+  <sub>[#13933](https://github.com/flutter/website/pull/13933) merged on September 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13933) over 1 day, 10 additions and 9 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### September 19, 2026 to September 25, 2026
 

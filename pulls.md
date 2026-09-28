@@ -386,9 +386,6 @@
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; Make `DrivenScrollActivity` respect scroll offset corrections<br />
   <sub>[#193339](https://github.com/flutter/flutter/pull/193339) opened on on September 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193339) 167 additions and 1 deletion in 3 files</sub><br />
 
-* **[surya_kommana](https://github.com/suryaKommana2662)** &mdash; Fix SelectionArea highlight gaps with custom line height<br />
-  <sub>[#193344](https://github.com/flutter/flutter/pull/193344) opened on on September 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193344) 42 additions and 1 deletion in 2 files</sub><br />
-
 * **[warabimochi-ayn](https://github.com/warabimochi-ayn)** &mdash; Fix Table semantics column index being mirrored in RTL<br />
   <sub>[#193347](https://github.com/flutter/flutter/pull/193347) opened on on September 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193347) 79 additions and 1 deletion in 2 files</sub><br />
 
@@ -426,10 +423,10 @@
   <sub>[#193402](https://github.com/flutter/flutter/pull/193402) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193402) 8 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Clear HTMLImageElement.src when WebImageInfo and ImgElementPlatformView are disposed<br />
-  <sub>[#193408](https://github.com/flutter/flutter/pull/193408) opened on on September 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193408) 215 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#193408](https://github.com/flutter/flutter/pull/193408) opened on on September 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193408) 215 additions and 15 deletions in 3 files</sub><br />
 
 * **[awababushnagh0-sudo](https://github.com/awababushnagh0-sudo)** &mdash; Clarify that super.dispose() must be called synchronously<br />
-  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193416) 47 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193416) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Anılcan Çakır](https://github.com/anilcancakir)** &mdash; [flutter_tools] Validate optional parameter names in gen-l10n<br />
   <sub>[#193417](https://github.com/flutter/flutter/pull/193417) opened on on September 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193417) 55 additions and 0 deletions in 2 files</sub><br />
@@ -438,5 +435,11 @@
   <sub>[#193419](https://github.com/flutter/flutter/pull/193419) opened on on September 28, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/193419) 1536 additions and 9 deletions in 16 files</sub><br />
 
 * **[JoX23](https://github.com/JoX23)** &mdash; [stable] [iOS] Preserve semantics parents after reparenting (#189686) + Fix OverlayPortal semantics bounds corruption (#192139)<br />
-  <sub>[#193420](https://github.com/flutter/flutter/pull/193420) opened on on September 28, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/193420) 311 additions and 8 deletions in 6 files</sub><br />
+  <sub>[#193420](https://github.com/flutter/flutter/pull/193420) opened on on September 28, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/193420) 311 additions and 8 deletions in 6 files</sub><br />
+
+* **[Aurora](https://github.com/auroraxo)** &mdash; docs: remove broken screenshot references in dev/snippets README<br />
+  <sub>[#193429](https://github.com/flutter/flutter/pull/193429) opened on on September 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193429) 0 additions and 4 deletions in 1 file</sub><br />
+
+* **[Cipher Professor](https://github.com/cipherprofessor)** &mdash; Fix stack overflow when nesting NestedScrollViews<br />
+  <sub>[#193431](https://github.com/flutter/flutter/pull/193431) opened on on September 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193431) 87 additions and 1 deletion in 2 files</sub><br />
 
