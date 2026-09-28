@@ -2,9 +2,30 @@
 
 ## flutter/flutter
 
+### September 26, 2026 to October 2, 2026
+
+4 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Require explicit dependency injection for FlutterDevice and FlutterDevice.create<br />
+  <sub>[#192830](https://github.com/flutter/flutter/pull/192830) merged on September 28, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/192830) over 1 week, 465 additions and 716 deletions in 29 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
+* **[Sarah Zakarias](https://github.com/szakarias)** &mdash; Fix doc references to Material and Cupertino in the widgets library and its tests<br />
+  <sub>[#193334](https://github.com/flutter/flutter/pull/193334) merged on September 28, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/193334) over 2 days, 34 additions and 0 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [flutter_tools] Include data assets from hooks when pubspec.yaml is empty<br />
+  <sub>[#193434](https://github.com/flutter/flutter/pull/193434) merged on September 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193434) over 3 hours, 49 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Sarah Zakarias](https://github.com/szakarias)** &mdash; Fix unresolved doc comment references in Material and Cupertino<br />
+  <sub>[#193283](https://github.com/flutter/flutter/pull/193283) merged on September 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193283) over 3 days, 44 additions and 27 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
+
 ### September 19, 2026 to September 25, 2026
 
-95 commits.
+<details>
+<summary>95 commits...</summary>
 
 * **[smocer](https://github.com/smocer)** &mdash; [iOS] Rebind accessibility bridge after view controller changes<br />
   <sub>[#187167](https://github.com/flutter/flutter/pull/187167) merged on September 21, 2026 &mdash; **Large:** [96 comments](https://github.com/flutter/flutter/pull/187167) over 3 months, 1004 additions and 108 deletions in 13 files</sub><br />
@@ -386,6 +407,8 @@
   <sub>[#193192](https://github.com/flutter/flutter/pull/193192) merged on September 23, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/193192) over 9 hours, 166 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
 
+</details>
+
 ### September 12, 2026 to September 18, 2026
 
 <details>
@@ -672,9 +695,22 @@
 
 ## flutter/packages
 
+### September 26, 2026 to October 2, 2026
+
+2 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [google_fonts] Migrate to material_ui & cupertino_ui<br />
+  <sub>[#13006](https://github.com/flutter/packages/pull/13006) merged on September 28, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/13006) over 3 days, 115 additions and 59 deletions in 49 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [go_router_builder] Reland material_ui migration<br />
+  <sub>[#12995](https://github.com/flutter/packages/pull/12995) merged on September 28, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/12995) over 4 days, 203 additions and 155 deletions in 52 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 ### September 19, 2026 to September 25, 2026
 
-42 commits.
+<details>
+<summary>42 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [cross_file] Updates cross_file to a package separated federated plugin <br />
   <sub>[#11010](https://github.com/flutter/packages/pull/11010) merged on September 24, 2026 &mdash; **Extra large:** [149 comments](https://github.com/flutter/packages/pull/11010) over 7 months, 5900 additions and 1029 deletions in 146 files</sub><br />
@@ -846,6 +882,8 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "[go_router_builder] Migrate to material_ui"<br />
   <sub>[#12962](https://github.com/flutter/packages/pull/12962) merged on September 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12962) over 1 minute, 30 additions and 38 deletions in 29 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
+
+</details>
 
 ### September 12, 2026 to September 18, 2026
 
