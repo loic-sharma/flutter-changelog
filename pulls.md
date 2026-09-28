@@ -434,3 +434,9 @@
 * **[Anılcan Çakır](https://github.com/anilcancakir)** &mdash; [flutter_tools] Validate optional parameter names in gen-l10n<br />
   <sub>[#193417](https://github.com/flutter/flutter/pull/193417) opened on on September 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193417) 55 additions and 0 deletions in 2 files</sub><br />
 
+* **[Martin G.](https://github.com/0nilinkz)** &mdash; [Windows] Keep ANGLE's compiled GL programs across launches<br />
+  <sub>[#193419](https://github.com/flutter/flutter/pull/193419) opened on on September 28, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/193419) 1536 additions and 9 deletions in 16 files</sub><br />
+
+* **[JoX23](https://github.com/JoX23)** &mdash; [stable] [iOS] Preserve semantics parents after reparenting (#189686) + Fix OverlayPortal semantics bounds corruption (#192139)<br />
+  <sub>[#193420](https://github.com/flutter/flutter/pull/193420) opened on on September 28, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/193420) 311 additions and 8 deletions in 6 files</sub><br />
+
