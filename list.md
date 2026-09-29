@@ -742,7 +742,7 @@
 
 ### September 26, 2026 to October 2, 2026
 
-10 commits.
+11 commits.
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] PR 4/4 Convert the Pigeon host API from Objective-C to Swift
   <sub>[#12658](https://github.com/flutter/packages/pull/12658) merged on September 28, 2026 &mdash; **Extra large:** [51 comments](https://github.com/flutter/packages/pull/12658) over 1 month, 1525 additions and 1703 deletions in 14 files</sub>
@@ -771,6 +771,10 @@
 * **[Nadeem Khan Qureshi](https://github.com/nadeemmx)** &mdash; [material_ui] Add fontFeatures and fontVariations to TextTheme.apply()
   <sub>[#12879](https://github.com/flutter/packages/pull/12879) merged on September 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12879) over 1 week, 85 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Mairramer](https://github.com/Mairramer)</sub>
+
+* **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; [cupertino_icons] Migrate to `cupertino_ui`
+  <sub>[#12649](https://github.com/flutter/packages/pull/12649) merged on September 29, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/12649) over 1 month, 12 additions and 11 deletions in 6 files</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [in_app_purchase_storekit] Disable flaky tests blocking latest flutter -> packages roll
   <sub>[#13048](https://github.com/flutter/packages/pull/13048) merged on September 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/13048) over 3 hours, 25 additions and 0 deletions in 1 file</sub>
