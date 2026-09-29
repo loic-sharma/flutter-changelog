@@ -183,7 +183,7 @@
   <sub>[#192447](https://github.com/flutter/flutter/pull/192447) opened on on September 8, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192447) 334 additions and 29 deletions in 3 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] Use DFS traversal to find engines of a scene automatically (rather than manually manage the engines list)<br />
-  <sub>[#192457](https://github.com/flutter/flutter/pull/192457) opened on on September 9, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/flutter/pull/192457) 954 additions and 797 deletions in 22 files</sub><br />
+  <sub>[#192457](https://github.com/flutter/flutter/pull/192457) opened on on September 9, 2026 &mdash; **Extra large:** [36 comments](https://github.com/flutter/flutter/pull/192457) 954 additions and 797 deletions in 22 files</sub><br />
 
 * **[Jaimin Kavathia](https://github.com/jaimin-kavathia)** &mdash; Forward all TextInputConfiguration fields through AutofillScope<br />
   <sub>[#192480](https://github.com/flutter/flutter/pull/192480) opened on on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192480) 68 additions and 0 deletions in 2 files</sub><br />
@@ -312,7 +312,7 @@
   <sub>[#193084](https://github.com/flutter/flutter/pull/193084) opened on on September 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193084) 50 additions and 2 deletions in 2 files</sub><br />
 
 * **[bkuhls](https://github.com/bkuhls)** &mdash; Fix building on Pango 1.58.0<br />
-  <sub>[#193119](https://github.com/flutter/flutter/pull/193119) opened on on September 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193119) 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#193119](https://github.com/flutter/flutter/pull/193119) opened on on September 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193119) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Starts flipping content on windows to avoid full screen renders<br />
   <sub>[#193133](https://github.com/flutter/flutter/pull/193133) opened on on September 21, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/193133) 299 additions and 65 deletions in 15 files</sub><br />
@@ -351,7 +351,7 @@
   <sub>[#193278](https://github.com/flutter/flutter/pull/193278) opened on on September 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193278) 29 additions and 5 deletions in 4 files</sub><br />
 
 * **[Ayodele Ayoola](https://github.com/CreedTech)** &mdash; Make RawScrollbar respect pointer axis modifiers<br />
-  <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193290) 71 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193290) 71 additions and 6 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Report skwasm WebGL context creation failure instead of hanging<br />
   <sub>[#193293](https://github.com/flutter/flutter/pull/193293) opened on on September 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193293) 71 additions and 19 deletions in 6 files</sub><br />
@@ -364,9 +364,6 @@
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Pin androidx.test dependencies in integration_test<br />
   <sub>[#193316](https://github.com/flutter/flutter/pull/193316) opened on on September 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193316) 3 additions and 3 deletions in 1 file</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Allow macOS tests to use macOS 15 or 26<br />
-  <sub>[#193317](https://github.com/flutter/flutter/pull/193317) opened on on September 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193317) 87 additions and 84 deletions in 9 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): migrate Desktop build commands to typed options<br />
   <sub>[#193323](https://github.com/flutter/flutter/pull/193323) opened on on September 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193323) 72 additions and 67 deletions in 4 files</sub><br />
