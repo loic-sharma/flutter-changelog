@@ -69,10 +69,10 @@
   <sub>[#190642](https://github.com/flutter/flutter/pull/190642) opened on on August 6, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/190642) 946 additions and 80 deletions in 22 files</sub><br />
 
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Android] Match external texture cache size to BufferQueue capacity<br />
-  <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/190710) 27 additions and 6 deletions in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update the CLI to reject passing engine configuration flags with a prebuilt binary in release mode<br />
-  <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/190870) 825 additions and 199 deletions in 9 files</sub><br />
+  <sub>[#190870](https://github.com/flutter/flutter/pull/190870) opened on on August 10, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/190870) 790 additions and 199 deletions in 9 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
@@ -89,14 +89,14 @@
 * **[sazzadhossainemon06-droid](https://github.com/sazzadhossainemon06-droid)** &mdash; Update CONTRIBUTING.md<br />
   <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Inject --macho-sdk-version directly into gen_snapshot<br />
-  <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/191369) 109 additions and 6 deletions in 6 files</sub><br />
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; WIP: Inject --macho-sdk-version directly into gen_snapshot<br />
+  <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/191369) 109 additions and 6 deletions in 6 files</sub><br />
 
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Add Abdelrahman Saed to AUTHORS<br />
   <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Restrict mDNS discovery to macOS and trace socket errors<br />
-  <sub>[#191440](https://github.com/flutter/flutter/pull/191440) opened on on August 20, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191440) 430 additions and 289 deletions in 9 files</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle mDNS SocketExceptions during attach and surface port 5353 conflicts<br />
+  <sub>[#191440](https://github.com/flutter/flutter/pull/191440) opened on on August 20, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/191440) 221 additions and 134 deletions in 7 files</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Report web unit and widget test results to LUCI ResultDB<br />
   <sub>[#191459](https://github.com/flutter/flutter/pull/191459) opened on on August 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191459) 8 additions and 0 deletions in 1 file</sub><br />
@@ -161,6 +161,9 @@
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fix LiveTestWidgetsFlutterBinding dropping synthetic pointer cancels for test-sourced pointers<br />
   <sub>[#192289](https://github.com/flutter/flutter/pull/192289) opened on on September 4, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/192289) 131 additions and 3 deletions in 2 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] serialize and gate widget preview hot reloads<br />
+  <sub>[#192325](https://github.com/flutter/flutter/pull/192325) opened on on September 4, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/192325) 759 additions and 190 deletions in 4 files</sub><br />
+
 * **[diandiandia](https://github.com/diandiandia)** &mdash; Bound decoded image allocations in the Skia image generators<br />
   <sub>[#192375](https://github.com/flutter/flutter/pull/192375) opened on on September 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192375) 193 additions and 0 deletions in 4 files</sub><br />
 
@@ -183,7 +186,7 @@
   <sub>[#192447](https://github.com/flutter/flutter/pull/192447) opened on on September 8, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/192447) 334 additions and 29 deletions in 3 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] Use DFS traversal to find engines of a scene automatically (rather than manually manage the engines list)<br />
-  <sub>[#192457](https://github.com/flutter/flutter/pull/192457) opened on on September 9, 2026 &mdash; **Extra large:** [36 comments](https://github.com/flutter/flutter/pull/192457) 954 additions and 797 deletions in 22 files</sub><br />
+  <sub>[#192457](https://github.com/flutter/flutter/pull/192457) opened on on September 9, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/flutter/pull/192457) 954 additions and 797 deletions in 22 files</sub><br />
 
 * **[Jaimin Kavathia](https://github.com/jaimin-kavathia)** &mdash; Forward all TextInputConfiguration fields through AutofillScope<br />
   <sub>[#192480](https://github.com/flutter/flutter/pull/192480) opened on on September 9, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192480) 68 additions and 0 deletions in 2 files</sub><br />
@@ -195,7 +198,7 @@
   <sub>[#192510](https://github.com/flutter/flutter/pull/192510) opened on on September 9, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/192510) 558 additions and 62 deletions in 12 files</sub><br />
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [macOS] Fix back buffer cache returning a wrong-size surface (Impeller null deref in Canvas::SetupRenderPass)<br />
-  <sub>[#192522](https://github.com/flutter/flutter/pull/192522) opened on on September 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192522) 143 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#192522](https://github.com/flutter/flutter/pull/192522) opened on on September 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192522) 143 additions and 3 deletions in 5 files</sub><br />
 
 * **[Jaimin Kavathia](https://github.com/jaimin-kavathia)** &mdash; Fix ConcurrentModificationError when a Selectable unregisters during clear/selectAll dispatch<br />
   <sub>[#192529](https://github.com/flutter/flutter/pull/192529) opened on on September 10, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/192529) 183 additions and 2 deletions in 2 files</sub><br />
@@ -240,7 +243,7 @@
   <sub>[#192799](https://github.com/flutter/flutter/pull/192799) opened on on September 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192799) 15 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Increase priority of dart isolate creation on Android<br />
-  <sub>[#192801](https://github.com/flutter/flutter/pull/192801) opened on on September 15, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192801) 7 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#192801](https://github.com/flutter/flutter/pull/192801) opened on on September 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192801) 7 additions and 2 deletions in 1 file</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; FocusNode that is detached should report empty ancestors<br />
   <sub>[#192811](https://github.com/flutter/flutter/pull/192811) opened on on September 15, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/192811) 59 additions and 0 deletions in 2 files</sub><br />
@@ -293,6 +296,9 @@
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Run the shared Vulkan embedder tests under Impeller as well as Skia<br />
   <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/193004) 767 additions and 84 deletions in 24 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Widget Preview] Provide descriptive error when widget preview is unconstrained<br />
+  <sub>[#193005](https://github.com/flutter/flutter/pull/193005) opened on on September 18, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/193005) 581 additions and 32 deletions in 3 files</sub><br />
+
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Fix post-monorepo doc rot in docs/infra and dev/bots/README.md<br />
   <sub>[#193010](https://github.com/flutter/flutter/pull/193010) opened on on September 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193010) 14 additions and 18 deletions in 5 files</sub><br />
 
@@ -340,9 +346,6 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update `linux_android_emu` to 37 AVD<br />
   <sub>[#193246](https://github.com/flutter/flutter/pull/193246) opened on on September 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193246) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [Android 17] Added Android 17 device to Firebase tests<br />
-  <sub>[#193251](https://github.com/flutter/flutter/pull/193251) opened on on September 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193251) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[suojae](https://github.com/suojae)** &mdash; [a11y] Scope MaterialBanner in a11y_assessments to its page<br />
   <sub>[#193272](https://github.com/flutter/flutter/pull/193272) opened on on September 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193272) 42 additions and 9 deletions in 2 files</sub><br />
@@ -447,11 +450,20 @@
   <sub>[#193447](https://github.com/flutter/flutter/pull/193447) opened on on September 28, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/193447) 418 additions and 17 deletions in 14 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Split pre-AGP 8.3 module AAR test into a Java 17 pinned target<br />
-  <sub>[#193467](https://github.com/flutter/flutter/pull/193467) opened on on September 28, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/193467) 500 additions and 447 deletions in 5 files</sub><br />
+  <sub>[#193467](https://github.com/flutter/flutter/pull/193467) opened on on September 28, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/193467) 500 additions and 447 deletions in 5 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] Update flutter/flutter `ci.yaml` to test against Java 25<br />
   <sub>[#193468](https://github.com/flutter/flutter/pull/193468) opened on on September 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193468) 123 additions and 123 deletions in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] Update Engine to test against JDK 25<br />
   <sub>[#193470](https://github.com/flutter/flutter/pull/193470) opened on on September 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193470) 7 additions and 7 deletions in 4 files</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [flutter_tools] Add the current target platform into the environment of asset transformers<br />
+  <sub>[#193509](https://github.com/flutter/flutter/pull/193509) opened on on September 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193509) 280 additions and 10 deletions in 12 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use Xvfb -displayfd and clean up Xvfb after Firefox test suites<br />
+  <sub>[#193510](https://github.com/flutter/flutter/pull/193510) opened on on September 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193510) 82 additions and 26 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Reland "Extract Windows archives using native tar with PowerShell fallback"<br />
+  <sub>[#193515](https://github.com/flutter/flutter/pull/193515) opened on on September 29, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/193515) 321 additions and 110 deletions in 4 files</sub><br />
 
