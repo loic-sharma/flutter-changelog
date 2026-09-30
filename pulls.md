@@ -86,8 +86,8 @@
 * **[sazzadhossainemon06-droid](https://github.com/sazzadhossainemon06-droid)** &mdash; Update CONTRIBUTING.md<br />
   <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; WIP: Inject --macho-sdk-version directly into gen_snapshot<br />
-  <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/191369) 182 additions and 6 deletions in 7 files</sub><br />
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Inject --macho-sdk-version directly into gen_snapshot<br />
+  <sub>[#191369](https://github.com/flutter/flutter/pull/191369) opened on on August 19, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/191369) 182 additions and 6 deletions in 7 files</sub><br />
 
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; Add Abdelrahman Saed to AUTHORS<br />
   <sub>[#191411](https://github.com/flutter/flutter/pull/191411) opened on on August 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/191411) 1 addition and 0 deletions in 1 file</sub><br />
@@ -147,7 +147,7 @@
   <sub>[#192286](https://github.com/flutter/flutter/pull/192286) opened on on September 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192286) 75 additions and 9 deletions in 4 files</sub><br />
 
 * **[Faisal Ansari](https://github.com/faisalansari0367)** &mdash; Fix LiveTestWidgetsFlutterBinding dropping synthetic pointer cancels for test-sourced pointers<br />
-  <sub>[#192289](https://github.com/flutter/flutter/pull/192289) opened on on September 4, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/192289) 131 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#192289](https://github.com/flutter/flutter/pull/192289) opened on on September 4, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/192289) 188 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] serialize and gate widget preview hot reloads<br />
   <sub>[#192325](https://github.com/flutter/flutter/pull/192325) opened on on September 4, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/192325) 759 additions and 190 deletions in 4 files</sub><br />
@@ -293,6 +293,9 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [flutter_tools] Wait for iOS simulator log stream before launch<br />
   <sub>[#193142](https://github.com/flutter/flutter/pull/193142) opened on on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193142) 198 additions and 5 deletions in 2 files</sub><br />
 
+* **[holzgeist](https://github.com/holzgeist)** &mdash; feat(web): support document pip<br />
+  <sub>[#193149](https://github.com/flutter/flutter/pull/193149) opened on on September 22, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/193149) 518 additions and 68 deletions in 16 files</sub><br />
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add enabled to Form<br />
   <sub>[#193200](https://github.com/flutter/flutter/pull/193200) opened on on September 23, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/193200) 337 additions and 16 deletions in 2 files</sub><br />
 
@@ -417,10 +420,10 @@
   <sub>[#193533](https://github.com/flutter/flutter/pull/193533) opened on on September 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193533) 100 additions and 20 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate DaemonCommand and Daemon domains to constructor DI<br />
-  <sub>[#193542](https://github.com/flutter/flutter/pull/193542) opened on on September 30, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/193542) 403 additions and 280 deletions in 17 files</sub><br />
+  <sub>[#193542](https://github.com/flutter/flutter/pull/193542) opened on on September 30, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193542) 190 additions and 289 deletions in 16 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate DriveCommand, FlutterDriverFactory, and WebDriverService to constructor DI<br />
-  <sub>[#193543](https://github.com/flutter/flutter/pull/193543) opened on on September 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/193543) 624 additions and 356 deletions in 23 files</sub><br />
+  <sub>[#193543](https://github.com/flutter/flutter/pull/193543) opened on on September 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/193543) 411 additions and 365 deletions in 23 files</sub><br />
 
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Clarify alwaysUse24HourFormat's effect on time formatting<br />
   <sub>[#193546](https://github.com/flutter/flutter/pull/193546) opened on on September 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193546) 6 additions and 0 deletions in 1 file</sub><br />
