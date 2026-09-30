@@ -4,7 +4,7 @@
 
 ### September 26, 2026 to October 2, 2026
 
-31 commits.
+33 commits.
 
 * **[Christoph Deil](https://github.com/cdeil)** &mdash; [flutter_tools] Include flutter.js.map in web builds
   <sub>[#192257](https://github.com/flutter/flutter/pull/192257) merged on September 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192257) over 3 weeks, 31 additions and 8 deletions in 2 files</sub>
@@ -59,8 +59,12 @@
   <sub>[#193334](https://github.com/flutter/flutter/pull/193334) merged on September 28, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/193334) over 2 days, 34 additions and 0 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Joel Winarske](https://github.com/jwinarske)** &mdash; Fix StrcmpFixed matching prefixes in the Vulkan embedder tests
+  <sub>[#192999](https://github.com/flutter/flutter/pull/192999) merged on September 30, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/192999) over 1 week, 3 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Andy Wolff](https://github.com/andywolff), [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub>
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from gen_defaults_test
-  <sub>[#192280](https://github.com/flutter/flutter/pull/192280) merged on September 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192280) over 3 weeks, 0 additions and 12 deletions in 2 files</sub>
+  <sub>[#192280](https://github.com/flutter/flutter/pull/192280) merged on September 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192280) over 3 weeks, 0 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Lazily initialize AndroidSdk platform and build-tools discovery
@@ -94,6 +98,10 @@
 * **[Sarah Zakarias](https://github.com/szakarias)** &mdash; Fix unresolved doc comment references in Material and Cupertino
   <sub>[#193283](https://github.com/flutter/flutter/pull/193283) merged on September 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193283) over 3 days, 44 additions and 27 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Navaron Bracke](https://github.com/navaronbracke)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine to test Android 17 AVD
+  <sub>[#193239](https://github.com/flutter/flutter/pull/193239) merged on September 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193239) over 6 days, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub>
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Give the Vulkan test context the extensions Impeller requires
   <sub>[#193002](https://github.com/flutter/flutter/pull/193002) merged on September 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193002) over 1 week, 183 additions and 2 deletions in 4 files</sub>
@@ -806,7 +814,7 @@
 
 ### September 26, 2026 to October 2, 2026
 
-18 commits.
+19 commits.
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] PR 4/4 Convert the Pigeon host API from Objective-C to Swift
   <sub>[#12658](https://github.com/flutter/packages/pull/12658) merged on September 28, 2026 &mdash; **Extra large:** [51 comments](https://github.com/flutter/packages/pull/12658) over 1 month, 1525 additions and 1703 deletions in 14 files</sub>
@@ -831,6 +839,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [google_maps_flutter] Disable flaky web tests blocking latest flutter -> packages roll
   <sub>[#13047](https://github.com/flutter/packages/pull/13047) merged on September 28, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/13047) over 6 hours, 348 additions and 329 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 FAB template to use new gen_defaults
+  <sub>[#12921](https://github.com/flutter/packages/pull/12921) merged on September 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/12921) over 1 week, 104 additions and 155 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub>
 
 * **[Muhammed Bayraktar](https://github.com/Xelorium)** &mdash; [webview_flutter_wkwebview] Regenerate with pigeon 29.0.4
   <sub>[#12923](https://github.com/flutter/packages/pull/12923) merged on September 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12923) over 1 week, 13 additions and 11 deletions in 4 files</sub>
