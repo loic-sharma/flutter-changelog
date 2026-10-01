@@ -308,6 +308,9 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Report skwasm WebGL context creation failure instead of hanging<br />
   <sub>[#193293](https://github.com/flutter/flutter/pull/193293) opened on on September 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193293) 71 additions and 19 deletions in 6 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add documentation and a clear assertion error to help explain `Naviga…<br />
+  <sub>[#193304](https://github.com/flutter/flutter/pull/193304) opened on on September 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193304) 53 additions and 3 deletions in 2 files</sub><br />
+
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] Updated `targetSdk` to 37<br />
   <sub>[#193308](https://github.com/flutter/flutter/pull/193308) opened on on September 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193308) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -439,4 +442,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Retry and handle ERROR_DIR_NOT_EMPTY on Windows<br />
   <sub>[#193620](https://github.com/flutter/flutter/pull/193620) opened on on October 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193620) 113 additions and 4 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[flutter_tools] Fix DTD "Stream already subscribed" error and wait for analysis over DTD in widget preview"<br />
+  <sub>[#193658](https://github.com/flutter/flutter/pull/193658) opened on on October 1, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/193658) 583 additions and 101 deletions in 9 files</sub><br />
 

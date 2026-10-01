@@ -28,7 +28,7 @@
   <sub><details><summary>7 images...</summary><img width="1491" height="819" alt="image" src="https://github.com/user-attachments/assets/04e7dc17-bc7f-453f-ba28-5621d47c3f23" /><img width="200" height="356" alt="200w" src="https://github.com/user-attachments/assets/abcbdd6e-d4d0-4e23-b88d-04c0e3d4a79e" /><img width="56" height="100" alt="200w" src="https://github.com/user-attachments/assets/8df4d356-1297-4aad-af85-a2b4bd23b606" /><img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/13b6952e-1bf9-49ec-b58f-52c5caf6fa04" /><img width="100" height="100" alt="giphy" src="https://github.com/user-attachments/assets/4d3bb3dc-0f8c-4384-9b1d-86e3a4474206" /><img width="200" height="200" alt="opaque_first_frame_bug" src="https://github.com/user-attachments/assets/5e41e321-04f4-4ad5-a9cd-90c0164e4c6a" /><img width="1329" height="760" alt="image" src="https://github.com/user-attachments/assets/a01da7d8-3c40-49a1-a312-4941d23128a2" /></details></sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Fix DTD "Stream already subscribed" error and wait for analysis over DTD in widget preview
-  <sub>[#192930](https://github.com/flutter/flutter/pull/192930) merged on October 1, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/192930) over 1 week, 521 additions and 98 deletions in 7 files</sub>
+  <sub>[#192930](https://github.com/flutter/flutter/pull/192930) merged on October 1, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/192930) over 1 week, 521 additions and 98 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Danny Tuppeny](https://github.com/DanTup), [Sam Rawlins](https://github.com/srawlins)</sub>
 
 * **[Thomas Guerin](https://github.com/tguerin)** &mdash; [Impeller] Sample the render target rect in offscreen advanced blends
@@ -862,7 +862,7 @@
 
 ### September 26, 2026 to October 2, 2026
 
-31 commits.
+32 commits.
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [google_sign_in] PR 4/4 Convert the Pigeon host API from Objective-C to Swift
   <sub>[#12658](https://github.com/flutter/packages/pull/12658) merged on September 28, 2026 &mdash; **Extra large:** [51 comments](https://github.com/flutter/packages/pull/12658) over 1 month, 1525 additions and 1703 deletions in 14 files</sub>
@@ -971,6 +971,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [in_app_purchase_storekit] Disable flaky tests blocking latest flutter -> packages roll
   <sub>[#13048](https://github.com/flutter/packages/pull/13048) merged on September 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/13048) over 3 hours, 25 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [tool] Add more documentation
+  <sub>[#13063](https://github.com/flutter/packages/pull/13063) merged on October 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/13063) over 2 days, 100 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Fix JNI/FFI typed data memory lifetime bugs and update docs
   <sub>[#13061](https://github.com/flutter/packages/pull/13061) merged on September 30, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/13061) over 1 day, 208 additions and 111 deletions in 9 files</sub>
@@ -1328,15 +1332,27 @@
 
 ### September 26, 2026 to October 2, 2026
 
-5 commits.
+8 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Decoupling Material and Cupertino from the core framework
   <sub>[#13930](https://github.com/flutter/website/pull/13930) merged on September 29, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/website/pull/13930) over 3 days, 1533 additions and 1544 deletions in 618 files</sub>
   <sub>Reviewed by: [pierre](https://github.com/guidezpl), [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Connie Ooi ](https://github.com/conooi)</sub>
 
+* **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; feat: Add Hatay'ı Yaşat case study to showcase section
+  <sub>[#13940](https://github.com/flutter/website/pull/13940) merged on October 1, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/13940) over 2 days, 147 additions and 0 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Pin firebase-tools to fix build failures
   <sub>[#13929](https://github.com/flutter/website/pull/13929) merged on September 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/13929) over 2 days, 22 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[Usama Elgendy](https://github.com/usamaaelgendy)** &mdash; Add Arabic Flutter course
+  <sub>[#13934](https://github.com/flutter/website/pull/13934) merged on October 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13934) over 4 days, 5 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub>
+
+* **[andinaufal120](https://github.com/andinaufal120)** &mdash; Update Flutter version in manual installation docs
+  <sub>[#13937](https://github.com/flutter/website/pull/13937) merged on October 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13937) over 3 days, 8 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Updating breaking change page on restricting engine config flags
   <sub>[#13931](https://github.com/flutter/website/pull/13931) merged on September 30, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/website/pull/13931) over 4 days, 276 additions and 164 deletions in 4 files</sub>
