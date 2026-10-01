@@ -215,9 +215,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate ResidentRunner, HotRunner, and ColdRunner to modular dependency injection<br />
   <sub>[#192831](https://github.com/flutter/flutter/pull/192831) opened on on September 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192831) 2013 additions and 1100 deletions in 37 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate AttachCommand to modular dependency injection<br />
-  <sub>[#192837](https://github.com/flutter/flutter/pull/192837) opened on on September 15, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/192837) 2467 additions and 1197 deletions in 39 files</sub><br />
-
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll googletest dependency in Linux plugin template<br />
   <sub>[#192885](https://github.com/flutter/flutter/pull/192885) opened on on September 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192885) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -404,9 +401,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [Linux] Synchronize multi-window renderer lifetime across GTK and raster threads<br />
   <sub>[#193533](https://github.com/flutter/flutter/pull/193533) opened on on September 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193533) 100 additions and 20 deletions in 4 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate DaemonCommand and Daemon domains to constructor DI<br />
-  <sub>[#193542](https://github.com/flutter/flutter/pull/193542) opened on on September 30, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193542) 190 additions and 289 deletions in 16 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate DriveCommand, FlutterDriverFactory, and WebDriverService to constructor DI<br />
   <sub>[#193543](https://github.com/flutter/flutter/pull/193543) opened on on September 30, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/193543) 411 additions and 365 deletions in 23 files</sub><br />
 
@@ -430,4 +424,7 @@
 
 * **[DevNexGen](https://github.com/XDevNexGen)** &mdash; [engine] Release the Skia OpenGL resource context on shutdown<br />
   <sub>[#193592](https://github.com/flutter/flutter/pull/193592) opened on on September 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193592) 77 additions and 0 deletions in 3 files</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Add Unsupported AGP Version Functionality<br />
+  <sub>[#193609](https://github.com/flutter/flutter/pull/193609) opened on on September 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193609) 206 additions and 28 deletions in 6 files</sub><br />
 
