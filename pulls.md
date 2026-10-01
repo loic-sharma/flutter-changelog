@@ -278,6 +278,9 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [flutter_tools] Wait for iOS simulator log stream before launch<br />
   <sub>[#193142](https://github.com/flutter/flutter/pull/193142) opened on on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193142) 198 additions and 5 deletions in 2 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated `useInheritedMediaQuery`<br />
+  <sub>[#193146](https://github.com/flutter/flutter/pull/193146) opened on on September 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193146) 1 addition and 114 deletions in 8 files</sub><br />
+
 * **[holzgeist](https://github.com/holzgeist)** &mdash; feat(web): support document pip<br />
   <sub>[#193149](https://github.com/flutter/flutter/pull/193149) opened on on September 22, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/193149) 518 additions and 68 deletions in 16 files</sub><br />
 
@@ -410,6 +413,9 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from text_field_test.dart<br />
   <sub>[#193550](https://github.com/flutter/flutter/pull/193550) opened on on September 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193550) 1 addition and 6 deletions in 1 file</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove more instances of deprecated `withOpacity`<br />
+  <sub>[#193559](https://github.com/flutter/flutter/pull/193559) opened on on September 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193559) 20 additions and 11 deletions in 5 files</sub><br />
+
 * **[赤坂理子](https://github.com/akasakariko)** &mdash; Allow AnimationController to silence unobserved value updates<br />
   <sub>[#193567](https://github.com/flutter/flutter/pull/193567) opened on on September 30, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/193567) 496 additions and 13 deletions in 5 files</sub><br />
 
@@ -427,4 +433,10 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Add Unsupported AGP Version Functionality<br />
   <sub>[#193609](https://github.com/flutter/flutter/pull/193609) opened on on September 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193609) 206 additions and 28 deletions in 6 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] forward --offline flag to pub.get in update-packages<br />
+  <sub>[#193619](https://github.com/flutter/flutter/pull/193619) opened on on October 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193619) 61 additions and 5 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Retry and handle ERROR_DIR_NOT_EMPTY on Windows<br />
+  <sub>[#193620](https://github.com/flutter/flutter/pull/193620) opened on on October 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193620) 113 additions and 4 deletions in 2 files</sub><br />
 
