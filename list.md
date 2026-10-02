@@ -774,7 +774,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Kyrylo K.](https://github.com/krll-kov)** &mdash; [Windows] Use an unsized texture format for backing stores on OpenGL ES 2
-  <sub>[#192917](https://github.com/flutter/flutter/pull/192917) merged on September 17, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/192917) over 14 hours, 150 additions and 9 deletions in 3 files</sub>
+  <sub>[#192917](https://github.com/flutter/flutter/pull/192917) merged on September 17, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/192917) over 14 hours, 150 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [b-luk](https://github.com/b-luk)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate BuildAppBundleCommand to modular dependency injection
@@ -990,7 +990,7 @@
 
 ### September 26, 2026 to October 2, 2026
 
-42 commits.
+45 commits.
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; [webview_flutter] Add gesture blocking policy to WebKitWebViewWidgetCreationParams
   <sub>[#12496](https://github.com/flutter/packages/pull/12496) merged on October 1, 2026 &mdash; **Extra large:** [49 comments](https://github.com/flutter/packages/pull/12496) over 1 month, 2168 additions and 2879 deletions in 21 files</sub>
@@ -1040,13 +1040,21 @@
   <sub>[#13007](https://github.com/flutter/packages/pull/13007) merged on September 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/13007) over 5 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [google_maps_flutter] Disable flaky web tests blocking latest flutter -> packages roll
+  <sub>[#13047](https://github.com/flutter/packages/pull/13047) merged on September 28, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/13047) over 6 hours, 348 additions and 329 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Update Material tokens to Material version 38.2.83
   <sub>[#13082](https://github.com/flutter/packages/pull/13082) merged on October 1, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/13082) over 1 day, 333 additions and 606 deletions in 162 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; [google_maps_flutter] Disable flaky web tests blocking latest flutter -> packages roll
-  <sub>[#13047](https://github.com/flutter/packages/pull/13047) merged on September 28, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/13047) over 6 hours, 348 additions and 329 deletions in 3 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui] Migrate AppBar, SliverAppBar, BottomAppBar, and Scaffold API doc snippets to {@example} (batch 7)
+  <sub>[#13023](https://github.com/flutter/packages/pull/13023) merged on October 1, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/13023) over 5 days, 319 additions and 84 deletions in 13 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
+
+* **[fkrhzbllh](https://github.com/fkrhzbllh)** &mdash; [material_ui] Migrate M3 snackbar defaults to new gen_defaults
+  <sub>[#13009](https://github.com/flutter/packages/pull/13009) merged on October 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/13009) over 6 days, 104 additions and 157 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [various] Allow plugin example apps to build and test on JDK 25
   <sub>[#13031](https://github.com/flutter/packages/pull/13031) merged on September 30, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/13031) over 3 days, 19 additions and 1 deletion in 4 files</sub>
@@ -1072,33 +1080,33 @@
   <sub>[#12923](https://github.com/flutter/packages/pull/12923) merged on September 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/12923) over 1 week, 13 additions and 11 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
+* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Convert unit tests to Kotlin
+  <sub>[#13018](https://github.com/flutter/packages/pull/13018) merged on September 29, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/13018) over 4 days, 472 additions and 475 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
+
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Enable Built-in Kotlin in all Flutter Android Plugin Example Apps
   <sub>[#12883](https://github.com/flutter/packages/pull/12883) merged on September 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/12883) over 1 week, 41 additions and 41 deletions in 41 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [url_launcher] Convert unit tests to Kotlin
-  <sub>[#13018](https://github.com/flutter/packages/pull/13018) merged on September 29, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/13018) over 4 days, 472 additions and 475 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
+* **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [repo] Update AGENTS.md with dependency allowance and versioning guidance
+  <sub>[#12579](https://github.com/flutter/packages/pull/12579) merged on October 2, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12579) over 1 month, 3 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Pranta Dutta](https://github.com/theprantadutta)** &mdash; [material_ui] Repaint NavigationIndicator when the selection changes without pointer input
   <sub>[#13010](https://github.com/flutter/packages/pull/13010) merged on October 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/13010) over 6 days, 64 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Elliott Brooks](https://github.com/elliette), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[fkrhzbllh](https://github.com/fkrhzbllh)** &mdash; [material_ui] Migrate M3 snackbar defaults to new gen_defaults
-  <sub>[#13009](https://github.com/flutter/packages/pull/13009) merged on October 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/13009) over 6 days, 104 additions and 157 deletions in 6 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [tool] Use flutter pub for packages that depend on jni
+  <sub>[#13087](https://github.com/flutter/packages/pull/13087) merged on October 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/13087) over 23 hours, 85 additions and 3 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; [material_ui] Migrate M3 Menu template to use new gen_defaults
   <sub>[#13057](https://github.com/flutter/packages/pull/13057) merged on October 2, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/13057) over 3 days, 54 additions and 296 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub>
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui] Migrate AppBar, SliverAppBar, BottomAppBar, and Scaffold API doc snippets to {@example} (batch 7)
-  <sub>[#13023](https://github.com/flutter/packages/pull/13023) merged on October 1, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/13023) over 5 days, 319 additions and 84 deletions in 13 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
-
-* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [tool] Use flutter pub for packages that depend on jni
-  <sub>[#13087](https://github.com/flutter/packages/pull/13087) merged on October 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/13087) over 23 hours, 85 additions and 3 deletions in 5 files</sub>
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[Anılcan Çakır](https://github.com/anilcancakir)** &mdash; [image_picker] Subsample large images when resizing on Android
+  <sub>[#13038](https://github.com/flutter/packages/pull/13038) merged on October 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/13038) over 4 days, 30 additions and 6 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Nadeem Khan Qureshi](https://github.com/nadeemmx)** &mdash; [material_ui] Add fontFeatures and fontVariations to TextTheme.apply()
   <sub>[#12879](https://github.com/flutter/packages/pull/12879) merged on September 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12879) over 1 week, 85 additions and 0 deletions in 3 files</sub>
@@ -1127,6 +1135,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [in_app_purchase_storekit] Disable flaky tests blocking latest flutter -> packages roll
   <sub>[#13048](https://github.com/flutter/packages/pull/13048) merged on September 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/13048) over 3 hours, 25 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [cupertino_ui] Remove redundant null arguments in Completer.complete
+  <sub>[#13008](https://github.com/flutter/packages/pull/13008) merged on October 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/13008) over 1 week, 10 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui] Migrate MaterialApp API doc snippets to {@example} and add unit tests (batch 6)
   <sub>[#13021](https://github.com/flutter/packages/pull/13021) merged on October 1, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/packages/pull/13021) over 6 days, 282 additions and 92 deletions in 11 files</sub>
