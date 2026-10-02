@@ -72,7 +72,7 @@
   <sub>[#190985](https://github.com/flutter/flutter/pull/190985) opened on on August 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/190985) 67 additions and 4 deletions in 5 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add diagnostic logging and 3m ToolExit timeout for web test hangs<br />
-  <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/191004) 223 additions and 13 deletions in 1 file</sub><br />
+  <sub>[#191004](https://github.com/flutter/flutter/pull/191004) opened on on August 12, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/191004) 273 additions and 35 deletions in 1 file</sub><br />
 
 * **[sazzadhossainemon06-droid](https://github.com/sazzadhossainemon06-droid)** &mdash; Update CONTRIBUTING.md<br />
   <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />
@@ -252,7 +252,7 @@
   <sub>[#193119](https://github.com/flutter/flutter/pull/193119) opened on on September 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193119) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Starts flipping content on windows to avoid full screen renders<br />
-  <sub>[#193133](https://github.com/flutter/flutter/pull/193133) opened on on September 21, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/193133) 381 additions and 69 deletions in 17 files</sub><br />
+  <sub>[#193133](https://github.com/flutter/flutter/pull/193133) opened on on September 21, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/193133) 381 additions and 69 deletions in 17 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [flutter_tools] Wait for iOS simulator log stream before launch<br />
   <sub>[#193142](https://github.com/flutter/flutter/pull/193142) opened on on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193142) 198 additions and 5 deletions in 2 files</sub><br />
@@ -354,10 +354,10 @@
   <sub>[#193447](https://github.com/flutter/flutter/pull/193447) opened on on September 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193447) 131 additions and 11 deletions in 4 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update flutter/flutter `ci.yaml` to test against Java 25<br />
-  <sub>[#193468](https://github.com/flutter/flutter/pull/193468) opened on on September 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193468) 123 additions and 123 deletions in 1 file</sub><br />
+  <sub>[#193468](https://github.com/flutter/flutter/pull/193468) opened on on September 28, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193468) 169 additions and 165 deletions in 15 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine to test against JDK 25<br />
-  <sub>[#193470](https://github.com/flutter/flutter/pull/193470) opened on on September 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193470) 7 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#193470](https://github.com/flutter/flutter/pull/193470) opened on on September 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193470) 10 additions and 10 deletions in 6 files</sub><br />
 
 * **[Ibrahim Khan](https://github.com/IbrahimKhan12)** &mdash; Restore reorderable item registration after reparenting<br />
   <sub>[#193489](https://github.com/flutter/flutter/pull/193489) opened on on September 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193489) 75 additions and 0 deletions in 2 files</sub><br />
@@ -377,9 +377,6 @@
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [Linux] Synchronize multi-window renderer lifetime across GTK and raster threads<br />
   <sub>[#193533](https://github.com/flutter/flutter/pull/193533) opened on on September 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193533) 100 additions and 20 deletions in 4 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate DriveCommand, FlutterDriverFactory, and WebDriverService to constructor DI<br />
-  <sub>[#193543](https://github.com/flutter/flutter/pull/193543) opened on on September 30, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/193543) 281 additions and 170 deletions in 13 files</sub><br />
-
 * **[Yusuf İhsan Görgel](https://github.com/Yusufihsangorgel)** &mdash; Clarify alwaysUse24HourFormat's effect on time formatting<br />
   <sub>[#193546](https://github.com/flutter/flutter/pull/193546) opened on on September 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193546) 6 additions and 0 deletions in 1 file</sub><br />
 
@@ -388,9 +385,6 @@
 
 * **[赤坂理子](https://github.com/akasakariko)** &mdash; Allow AnimationController to silence unobserved value updates<br />
   <sub>[#193567](https://github.com/flutter/flutter/pull/193567) opened on on September 30, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/193567) 496 additions and 13 deletions in 5 files</sub><br />
-
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Redistribute iOS/macOS TESTOWNERS<br />
-  <sub>[#193589](https://github.com/flutter/flutter/pull/193589) opened on on September 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193589) 31 additions and 31 deletions in 1 file</sub><br />
 
 * **[DevNexGen](https://github.com/XDevNexGen)** &mdash; [engine] Release the Skia OpenGL resource context on shutdown<br />
   <sub>[#193592](https://github.com/flutter/flutter/pull/193592) opened on on September 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193592) 77 additions and 0 deletions in 3 files</sub><br />
@@ -449,6 +443,21 @@
 * **[HibaChamkhi](https://github.com/HibaChamkhi)** &mdash; Document performance implications of Transform.filterQuality<br />
   <sub>[#193709](https://github.com/flutter/flutter/pull/193709) opened on on October 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193709) 19 additions and 0 deletions in 2 files</sub><br />
 
+* **[赤坂理子](https://github.com/akasakariko)** &mdash; Fix stale semantics parents when reparenting blocked subtrees<br />
+  <sub>[#193710](https://github.com/flutter/flutter/pull/193710) opened on on October 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193710) 119 additions and 1 deletion in 2 files</sub><br />
+
 * **[matasb-google](https://github.com/matasb-google)** &mdash; [flutter_tools] Wait for TCP server socket to close in DaemonServer.run()<br />
   <sub>[#193714](https://github.com/flutter/flutter/pull/193714) opened on on October 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193714) 39 additions and 6 deletions in 2 files</sub><br />
+
+* **[Jhin Lee](https://github.com/leehack)** &mdash; [Impeller] Guard the Metal pipeline library maps with a mutex<br />
+  <sub>[#193722](https://github.com/flutter/flutter/pull/193722) opened on on October 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193722) 88 additions and 9 deletions in 3 files</sub><br />
+
+* **[Udit Swaroopa](https://github.com/uditswaroopa09)** &mdash; [iOS] Give hidden semantics nodes in scrollables a non-empty accessib…<br />
+  <sub>[#193723](https://github.com/flutter/flutter/pull/193723) opened on on October 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193723) 190 additions and 0 deletions in 2 files</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Link to MediaQuery.displayFeaturesOf from DisplayFeatures<br />
+  <sub>[#193728](https://github.com/flutter/flutter/pull/193728) opened on on October 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193728) 6 additions and 2 deletions in 2 files</sub><br />
+
+* **[Jhin Lee](https://github.com/leehack)** &mdash; [Impeller] Guard the sampler library caches with a mutex<br />
+  <sub>[#193738](https://github.com/flutter/flutter/pull/193738) opened on on October 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193738) 112 additions and 12 deletions in 7 files</sub><br />
 
