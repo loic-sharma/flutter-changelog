@@ -120,7 +120,7 @@
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Expansible crash when PageStorage holds a non-bool value<br />
-  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/192195) 288 additions and 10 deletions in 5 files</sub><br />
+  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/192195) 288 additions and 10 deletions in 5 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; [flutter_tools] Report when the browser disconnects during a web test run<br />
   <sub>[#192198](https://github.com/flutter/flutter/pull/192198) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192198) 150 additions and 1 deletion in 2 files</sub><br />
@@ -195,7 +195,7 @@
   <sub>[#192739](https://github.com/flutter/flutter/pull/192739) opened on on September 14, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/192739) 416 additions and 38 deletions in 9 files</sub><br />
 
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; Add animationBehavior to widgets using AnimationController<br />
-  <sub>[#192795](https://github.com/flutter/flutter/pull/192795) opened on on September 15, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/192795) 1004 additions and 131 deletions in 81 files</sub><br />
+  <sub>[#192795](https://github.com/flutter/flutter/pull/192795) opened on on September 15, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/192795) 1004 additions and 131 deletions in 81 files</sub><br />
 
 * **[Saif64](https://github.com/Saif64)** &mdash; Document that a null minLines defers to maxLines<br />
   <sub>[#192799](https://github.com/flutter/flutter/pull/192799) opened on on September 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192799) 15 additions and 2 deletions in 1 file</sub><br />
@@ -211,9 +211,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Guard against null vmService and uiIsolate in debugDumpFocusTree and debugDumpLayerTree<br />
   <sub>[#192940](https://github.com/flutter/flutter/pull/192940) opened on on September 17, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192940) 133 additions and 74 deletions in 2 files</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Preserve DOM focus on role update and honor isAccessibilityFocusBlocked<br />
-  <sub>[#192963](https://github.com/flutter/flutter/pull/192963) opened on on September 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192963) 218 additions and 3 deletions in 5 files</sub><br />
 
 * **[Yazan Arafeh](https://github.com/yazanmg)** &mdash; Expose semantics hints on desktop platforms<br />
   <sub>[#192979](https://github.com/flutter/flutter/pull/192979) opened on on September 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192979) 165 additions and 0 deletions in 7 files</sub><br />
@@ -258,7 +255,7 @@
   <sub>[#193119](https://github.com/flutter/flutter/pull/193119) opened on on September 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193119) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Starts flipping content on windows to avoid full screen renders<br />
-  <sub>[#193133](https://github.com/flutter/flutter/pull/193133) opened on on September 21, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/193133) 301 additions and 67 deletions in 16 files</sub><br />
+  <sub>[#193133](https://github.com/flutter/flutter/pull/193133) opened on on September 21, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/193133) 381 additions and 69 deletions in 17 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [flutter_tools] Wait for iOS simulator log stream before launch<br />
   <sub>[#193142](https://github.com/flutter/flutter/pull/193142) opened on on September 22, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193142) 198 additions and 5 deletions in 2 files</sub><br />
@@ -383,9 +380,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Split SwiftPM plugin into multiple products<br />
   <sub>[#193521](https://github.com/flutter/flutter/pull/193521) opened on on September 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193521) 17 additions and 11 deletions in 2 files</sub><br />
 
-* **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [Linux] Fix GLX/EGL context desynchronization in multi-window rendering<br />
-  <sub>[#193530](https://github.com/flutter/flutter/pull/193530) opened on on September 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193530) 27 additions and 4 deletions in 6 files</sub><br />
-
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [Linux] Synchronize multi-window renderer lifetime across GTK and raster threads<br />
   <sub>[#193533](https://github.com/flutter/flutter/pull/193533) opened on on September 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193533) 100 additions and 20 deletions in 4 files</sub><br />
 
@@ -420,13 +414,13 @@
   <sub>[#193659](https://github.com/flutter/flutter/pull/193659) opened on on October 1, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/193659) 320 additions and 82 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add stall diagnostics to web benchmarks and lower DDC test timeout<br />
-  <sub>[#193662](https://github.com/flutter/flutter/pull/193662) opened on on October 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193662) 136 additions and 13 deletions in 3 files</sub><br />
+  <sub>[#193662](https://github.com/flutter/flutter/pull/193662) opened on on October 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193662) 181 additions and 16 deletions in 5 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix another `parameter_assignments` warning<br />
   <sub>[#193669](https://github.com/flutter/flutter/pull/193669) opened on on October 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193669) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Sai kamal](https://github.com/Dantusaikamal)** &mdash; Skip pending deferred overlay children during geometry operations<br />
-  <sub>[#193673](https://github.com/flutter/flutter/pull/193673) opened on on October 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193673) 135 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#193673](https://github.com/flutter/flutter/pull/193673) opened on on October 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193673) 135 additions and 1 deletion in 2 files</sub><br />
 
 * **[palmoni5](https://github.com/palmoni5)** &mdash; [Windows] Normalize Shift key messages with a non-standard scan code<br />
   <sub>[#193675](https://github.com/flutter/flutter/pull/193675) opened on on October 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193675) 94 additions and 5 deletions in 2 files</sub><br />
