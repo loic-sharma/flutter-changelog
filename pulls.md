@@ -120,7 +120,7 @@
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Expansible crash when PageStorage holds a non-bool value<br />
-  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/192195) 333 additions and 10 deletions in 7 files</sub><br />
+  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/192195) 333 additions and 10 deletions in 7 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; [flutter_tools] Report when the browser disconnects during a web test run<br />
   <sub>[#192198](https://github.com/flutter/flutter/pull/192198) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192198) 150 additions and 1 deletion in 2 files</sub><br />
@@ -356,9 +356,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update flutter/flutter `ci.yaml` to test against Java 25<br />
   <sub>[#193468](https://github.com/flutter/flutter/pull/193468) opened on on September 28, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193468) 169 additions and 165 deletions in 15 files</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine to test against JDK 25<br />
-  <sub>[#193470](https://github.com/flutter/flutter/pull/193470) opened on on September 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193470) 10 additions and 10 deletions in 6 files</sub><br />
-
 * **[Ibrahim Khan](https://github.com/IbrahimKhan12)** &mdash; Restore reorderable item registration after reparenting<br />
   <sub>[#193489](https://github.com/flutter/flutter/pull/193489) opened on on September 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193489) 75 additions and 0 deletions in 2 files</sub><br />
 
@@ -390,7 +387,7 @@
   <sub>[#193592](https://github.com/flutter/flutter/pull/193592) opened on on September 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193592) 77 additions and 0 deletions in 3 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Add Unsupported AGP Version Functionality<br />
-  <sub>[#193609](https://github.com/flutter/flutter/pull/193609) opened on on September 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193609) 96 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#193609](https://github.com/flutter/flutter/pull/193609) opened on on September 30, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193609) 96 additions and 0 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Retry and handle ERROR_DIR_NOT_EMPTY on Windows<br />
   <sub>[#193620](https://github.com/flutter/flutter/pull/193620) opened on on October 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193620) 121 additions and 48 deletions in 2 files</sub><br />
@@ -460,4 +457,7 @@
 
 * **[Jhin Lee](https://github.com/leehack)** &mdash; [Impeller] Guard the sampler library caches with a mutex<br />
   <sub>[#193738](https://github.com/flutter/flutter/pull/193738) opened on on October 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193738) 112 additions and 12 deletions in 7 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Grow the iOS view when the browser toolbar collapses<br />
+  <sub>[#193744](https://github.com/flutter/flutter/pull/193744) opened on on October 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193744) 124 additions and 11 deletions in 2 files</sub><br />
 
