@@ -120,7 +120,7 @@
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Expansible crash when PageStorage holds a non-bool value<br />
-  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/192195) 333 additions and 10 deletions in 7 files</sub><br />
+  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/192195) 339 additions and 10 deletions in 7 files</sub><br />
 
 * **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; [flutter_tools] Report when the browser disconnects during a web test run<br />
   <sub>[#192198](https://github.com/flutter/flutter/pull/192198) opened on on September 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/192198) 150 additions and 1 deletion in 2 files</sub><br />
@@ -435,7 +435,7 @@
   <sub>[#193710](https://github.com/flutter/flutter/pull/193710) opened on on October 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193710) 176 additions and 2 deletions in 3 files</sub><br />
 
 * **[matasb-google](https://github.com/matasb-google)** &mdash; [flutter_tools] Wait for TCP server socket to close in DaemonServer.run()<br />
-  <sub>[#193714](https://github.com/flutter/flutter/pull/193714) opened on on October 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193714) 39 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#193714](https://github.com/flutter/flutter/pull/193714) opened on on October 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193714) 39 additions and 6 deletions in 2 files</sub><br />
 
 * **[Jhin Lee](https://github.com/leehack)** &mdash; [Impeller] Guard the Metal pipeline library maps with a mutex<br />
   <sub>[#193722](https://github.com/flutter/flutter/pull/193722) opened on on October 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193722) 88 additions and 9 deletions in 3 files</sub><br />
