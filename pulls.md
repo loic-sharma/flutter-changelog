@@ -423,7 +423,7 @@
   <sub>[#193675](https://github.com/flutter/flutter/pull/193675) opened on on October 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193675) 94 additions and 5 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Enable Safari dart2wasm/skwasm CI suites on macOS 26.6<br />
-  <sub>[#193681](https://github.com/flutter/flutter/pull/193681) opened on on October 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193681) 53 additions and 12 deletions in 5 files</sub><br />
+  <sub>[#193681](https://github.com/flutter/flutter/pull/193681) opened on on October 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193681) 62 additions and 14 deletions in 7 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Extend Upload Android SDK tooling to upload Preview SDKs<br />
   <sub>[#193690](https://github.com/flutter/flutter/pull/193690) opened on on October 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193690) 127 additions and 34 deletions in 2 files</sub><br />
