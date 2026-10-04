@@ -201,7 +201,7 @@
   <sub>[#192801](https://github.com/flutter/flutter/pull/192801) opened on on September 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192801) 7 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate ResidentRunner, HotRunner, and ColdRunner to modular dependency injection<br />
-  <sub>[#192831](https://github.com/flutter/flutter/pull/192831) opened on on September 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192831) 1877 additions and 872 deletions in 30 files</sub><br />
+  <sub>[#192831](https://github.com/flutter/flutter/pull/192831) opened on on September 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192831) 1611 additions and 714 deletions in 26 files</sub><br />
 
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll googletest dependency in Linux plugin template<br />
   <sub>[#192885](https://github.com/flutter/flutter/pull/192885) opened on on September 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192885) 2 additions and 2 deletions in 1 file</sub><br />
@@ -384,28 +384,28 @@
   <sub>[#193620](https://github.com/flutter/flutter/pull/193620) opened on on October 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193620) 121 additions and 48 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Inject dependencies into doctor, logs, and target devices<br />
-  <sub>[#193642](https://github.com/flutter/flutter/pull/193642) opened on on October 1, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/193642) 140 additions and 124 deletions in 11 files</sub><br />
+  <sub>[#193642](https://github.com/flutter/flutter/pull/193642) opened on on October 1, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/193642) 141 additions and 125 deletions in 12 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate build targets, tester devices, application packages, and tool utilities away from globals<br />
-  <sub>[#193647](https://github.com/flutter/flutter/pull/193647) opened on on October 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193647) 33 additions and 37 deletions in 17 files</sub><br />
+  <sub>[#193647](https://github.com/flutter/flutter/pull/193647) opened on on October 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193647) 34 additions and 38 deletions in 18 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals usage from linux/native_assets.dart<br />
   <sub>[#193648](https://github.com/flutter/flutter/pull/193648) opened on on October 1, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193648) 138 additions and 164 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate gradle_errors and deferred_components_prebuild_validator away from globals<br />
-  <sub>[#193649](https://github.com/flutter/flutter/pull/193649) opened on on October 1, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/193649) 1668 additions and 1454 deletions in 7 files</sub><br />
+  <sub>[#193649](https://github.com/flutter/flutter/pull/193649) opened on on October 1, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/193649) 1701 additions and 1455 deletions in 11 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate AndroidSdk and AndroidStudio away from globals<br />
-  <sub>[#193650](https://github.com/flutter/flutter/pull/193650) opened on on October 1, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/193650) 2387 additions and 2003 deletions in 8 files</sub><br />
+  <sub>[#193650](https://github.com/flutter/flutter/pull/193650) opened on on October 1, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/193650) 2388 additions and 2004 deletions in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate iOS devices, simulators, emulators, and XCDevice away from globals<br />
-  <sub>[#193651](https://github.com/flutter/flutter/pull/193651) opened on on October 1, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/193651) 457 additions and 133 deletions in 18 files</sub><br />
+  <sub>[#193651](https://github.com/flutter/flutter/pull/193651) opened on on October 1, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/193651) 516 additions and 134 deletions in 23 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals from macOS build, migration, and Xcode project<br />
-  <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/193652) 510 additions and 680 deletions in 13 files</sub><br />
+  <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/193652) 511 additions and 681 deletions in 14 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals usage from ios/mac.dart<br />
-  <sub>[#193653](https://github.com/flutter/flutter/pull/193653) opened on on October 1, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/193653) 612 additions and 335 deletions in 7 files</sub><br />
+  <sub>[#193653](https://github.com/flutter/flutter/pull/193653) opened on on October 1, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/193653) 613 additions and 336 deletions in 8 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals usage from artifacts.dart<br />
   <sub>[#193654](https://github.com/flutter/flutter/pull/193654) opened on on October 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193654) 112 additions and 57 deletions in 3 files</sub><br />
@@ -423,7 +423,7 @@
   <sub>[#193675](https://github.com/flutter/flutter/pull/193675) opened on on October 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193675) 94 additions and 5 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Enable Safari dart2wasm/skwasm CI suites on macOS 26.6<br />
-  <sub>[#193681](https://github.com/flutter/flutter/pull/193681) opened on on October 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193681) 45 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#193681](https://github.com/flutter/flutter/pull/193681) opened on on October 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193681) 53 additions and 12 deletions in 5 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Extend Upload Android SDK tooling to upload Preview SDKs<br />
   <sub>[#193690](https://github.com/flutter/flutter/pull/193690) opened on on October 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193690) 127 additions and 34 deletions in 2 files</sub><br />
