@@ -458,3 +458,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Share FlutterProject metadata with tool extensions via ExtensionFlutterProject<br />
   <sub>[#193749](https://github.com/flutter/flutter/pull/193749) opened on on October 3, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/193749) 422 additions and 23 deletions in 9 files</sub><br />
 
+* **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; [flutter_tools] Fix local CanvasKit asset paths on Windows<br />
+  <sub>[#193776](https://github.com/flutter/flutter/pull/193776) opened on on October 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193776) 160 additions and 3 deletions in 2 files</sub><br />
+
