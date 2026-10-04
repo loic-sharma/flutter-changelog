@@ -461,3 +461,9 @@
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; [flutter_tools] Fix local CanvasKit asset paths on Windows<br />
   <sub>[#193776](https://github.com/flutter/flutter/pull/193776) opened on on October 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193776) 160 additions and 3 deletions in 2 files</sub><br />
 
+* **[rambah](https://github.com/rambah)** &mdash; [web] Use Wasm Worker semaphores for contended Skia locks<br />
+  <sub>[#193801](https://github.com/flutter/flutter/pull/193801) opened on on October 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193801) 119 additions and 0 deletions in 3 files</sub><br />
+
+* **[rambah](https://github.com/rambah)** &mdash; [flutter_tools] Fix const lint in update-packages offline test<br />
+  <sub>[#193802](https://github.com/flutter/flutter/pull/193802) opened on on October 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193802) 1 addition and 1 deletion in 1 file</sub><br />
+
