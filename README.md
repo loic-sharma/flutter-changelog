@@ -297,7 +297,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] forward --offline flag to pub.get in update-packages<br />
-  <sub>[#193619](https://github.com/flutter/flutter/pull/193619) merged on October 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193619) over 1 day, 61 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#193619](https://github.com/flutter/flutter/pull/193619) merged on October 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193619) over 1 day, 61 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Propagate aria-label to inner slider input<br />

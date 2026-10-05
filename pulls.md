@@ -197,9 +197,6 @@
 * **[Saif64](https://github.com/Saif64)** &mdash; Document that a null minLines defers to maxLines<br />
   <sub>[#192799](https://github.com/flutter/flutter/pull/192799) opened on on September 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192799) 15 additions and 2 deletions in 1 file</sub><br />
 
-* **[Jia Hao](https://github.com/jiahaog)** &mdash; Increase priority of dart isolate creation on Android<br />
-  <sub>[#192801](https://github.com/flutter/flutter/pull/192801) opened on on September 15, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/192801) 7 additions and 2 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate ResidentRunner, HotRunner, and ColdRunner to modular dependency injection<br />
   <sub>[#192831](https://github.com/flutter/flutter/pull/192831) opened on on September 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192831) 1611 additions and 714 deletions in 26 files</sub><br />
 
@@ -404,9 +401,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals from macOS build, migration, and Xcode project<br />
   <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/193652) 511 additions and 681 deletions in 14 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals usage from ios/mac.dart<br />
-  <sub>[#193653](https://github.com/flutter/flutter/pull/193653) opened on on October 1, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/193653) 613 additions and 336 deletions in 8 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals usage from artifacts.dart<br />
   <sub>[#193654](https://github.com/flutter/flutter/pull/193654) opened on on October 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193654) 112 additions and 57 deletions in 3 files</sub><br />
 
@@ -450,7 +444,7 @@
   <sub>[#193738](https://github.com/flutter/flutter/pull/193738) opened on on October 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193738) 112 additions and 12 deletions in 7 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Grow the iOS view when the browser toolbar collapses<br />
-  <sub>[#193744](https://github.com/flutter/flutter/pull/193744) opened on on October 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193744) 124 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#193744](https://github.com/flutter/flutter/pull/193744) opened on on October 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193744) 130 additions and 11 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add BuildService and flutter build support for tool extensions<br />
   <sub>[#193748](https://github.com/flutter/flutter/pull/193748) opened on on October 3, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/193748) 861 additions and 1 deletion in 12 files</sub><br />
@@ -464,6 +458,6 @@
 * **[rambah](https://github.com/rambah)** &mdash; [web] Use Wasm Worker semaphores for contended Skia locks<br />
   <sub>[#193801](https://github.com/flutter/flutter/pull/193801) opened on on October 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193801) 119 additions and 0 deletions in 3 files</sub><br />
 
-* **[rambah](https://github.com/rambah)** &mdash; [flutter_tools] Fix const lint in update-packages offline test<br />
-  <sub>[#193802](https://github.com/flutter/flutter/pull/193802) opened on on October 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193802) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; flutter_tools: Enable native access for Gradle<br />
+  <sub>[#193814](https://github.com/flutter/flutter/pull/193814) opened on on October 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193814) 66 additions and 3 deletions in 5 files</sub><br />
 
