@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### October 3, 2026 to October 9, 2026
+
+1 commits.
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; flutter_tools: Enable native access for Gradle<br />
+  <sub>[#193814](https://github.com/flutter/flutter/pull/193814) merged on October 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193814) over 2 hours, 66 additions and 3 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matej Knopp](https://github.com/knopp)</sub><br />
+
 ### September 26, 2026 to October 2, 2026
 
-98 commits.
+<details>
+<summary>98 commits...</summary>
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Support soft hyphen (U+00AD) rendering with a Hyphens API<br />
   <sub>[#185152](https://github.com/flutter/flutter/pull/185152) merged on October 2, 2026 &mdash; **Medium:** [127 comments](https://github.com/flutter/flutter/pull/185152) over 5 months, 337 additions and 18 deletions in 28 files</sub><br />
@@ -399,6 +408,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll ICU from 6ebb40c59477 to 5aa526207171 (2 revisions)<br />
   <sub>[#193661](https://github.com/flutter/flutter/pull/193661) merged on October 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193661) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### September 19, 2026 to September 25, 2026
 
@@ -800,9 +811,18 @@
 
 ## flutter/packages
 
+### October 3, 2026 to October 9, 2026
+
+1 commits.
+
+* **[Hamid Shakeri](https://github.com/Hamidrzash)** &mdash; [material_ui] Add scrollPadding property to DropdownMenuFormField<br />
+  <sub>[#12735](https://github.com/flutter/packages/pull/12735) merged on October 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12735) over 1 month, 32 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
+
 ### September 26, 2026 to October 2, 2026
 
-56 commits.
+<details>
+<summary>56 commits...</summary>
 
 * **[Burak İmdat](https://github.com/burakJs)** &mdash; [webview_flutter] Add gesture blocking policy to WebKitWebViewWidgetCreationParams<br />
   <sub>[#12496](https://github.com/flutter/packages/pull/12496) merged on October 1, 2026 &mdash; **Extra large:** [49 comments](https://github.com/flutter/packages/pull/12496) over 1 month, 2168 additions and 2879 deletions in 21 files</sub><br />
@@ -1027,6 +1047,8 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [go_router_builder] Reland material_ui migration<br />
   <sub>[#12995](https://github.com/flutter/packages/pull/12995) merged on September 28, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/12995) over 4 days, 203 additions and 155 deletions in 52 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+</details>
 
 ### September 19, 2026 to September 25, 2026
 

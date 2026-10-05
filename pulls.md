@@ -197,9 +197,6 @@
 * **[Saif64](https://github.com/Saif64)** &mdash; Document that a null minLines defers to maxLines<br />
   <sub>[#192799](https://github.com/flutter/flutter/pull/192799) opened on on September 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192799) 15 additions and 2 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate ResidentRunner, HotRunner, and ColdRunner to modular dependency injection<br />
-  <sub>[#192831](https://github.com/flutter/flutter/pull/192831) opened on on September 15, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/192831) 1611 additions and 714 deletions in 26 files</sub><br />
-
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; Roll googletest dependency in Linux plugin template<br />
   <sub>[#192885](https://github.com/flutter/flutter/pull/192885) opened on on September 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192885) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -240,7 +237,7 @@
   <sub>[#193050](https://github.com/flutter/flutter/pull/193050) opened on on September 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193050) 69 additions and 0 deletions in 2 files</sub><br />
 
 * **[Aayush Kedawat](https://github.com/aayushkedawat)** &mdash; Fix OverlayPortal layout in shrink-wrapped overlays<br />
-  <sub>[#193079](https://github.com/flutter/flutter/pull/193079) opened on on September 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193079) 79 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#193079](https://github.com/flutter/flutter/pull/193079) opened on on September 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193079) 79 additions and 7 deletions in 2 files</sub><br />
 
 * **[Suraj2105-1](https://github.com/Suraj2105-1)** &mdash; Add warning about compile time for early returns and texture samplers on ANGLE<br />
   <sub>[#193084](https://github.com/flutter/flutter/pull/193084) opened on on September 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193084) 50 additions and 2 deletions in 2 files</sub><br />
@@ -339,7 +336,7 @@
   <sub>[#193441](https://github.com/flutter/flutter/pull/193441) opened on on September 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193441) 99 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [widget_preview] Fix layout overflow and overlapping controls in narrow panes<br />
-  <sub>[#193445](https://github.com/flutter/flutter/pull/193445) opened on on September 28, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193445) 370 additions and 84 deletions in 7 files</sub><br />
+  <sub>[#193445](https://github.com/flutter/flutter/pull/193445) opened on on September 28, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193445) 372 additions and 84 deletions in 7 files</sub><br />
 
 * **[Philipp Bauer](https://github.com/ciriousjoker)** &mdash; [Android] Exclude allocation padding when drawing image textures<br />
   <sub>[#193446](https://github.com/flutter/flutter/pull/193446) opened on on September 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193446) 271 additions and 8 deletions in 15 files</sub><br />
@@ -428,9 +425,6 @@
 * **[赤坂理子](https://github.com/akasakariko)** &mdash; Fix stale semantics parents when reparenting blocked subtrees<br />
   <sub>[#193710](https://github.com/flutter/flutter/pull/193710) opened on on October 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193710) 176 additions and 2 deletions in 3 files</sub><br />
 
-* **[matasb-google](https://github.com/matasb-google)** &mdash; [flutter_tools] Wait for TCP server socket to close in DaemonServer.run()<br />
-  <sub>[#193714](https://github.com/flutter/flutter/pull/193714) opened on on October 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193714) 39 additions and 6 deletions in 2 files</sub><br />
-
 * **[Jhin Lee](https://github.com/leehack)** &mdash; [Impeller] Guard the Metal pipeline library maps with a mutex<br />
   <sub>[#193722](https://github.com/flutter/flutter/pull/193722) opened on on October 2, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193722) 88 additions and 9 deletions in 3 files</sub><br />
 
@@ -458,6 +452,12 @@
 * **[rambah](https://github.com/rambah)** &mdash; [web] Use Wasm Worker semaphores for contended Skia locks<br />
   <sub>[#193801](https://github.com/flutter/flutter/pull/193801) opened on on October 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193801) 119 additions and 0 deletions in 3 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; flutter_tools: Enable native access for Gradle<br />
-  <sub>[#193814](https://github.com/flutter/flutter/pull/193814) opened on on October 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193814) 66 additions and 3 deletions in 5 files</sub><br />
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Migrate remaining test to macOS 26<br />
+  <sub>[#193825](https://github.com/flutter/flutter/pull/193825) opened on on October 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193825) 8 additions and 8 deletions in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed crash when responding on a dead port.<br />
+  <sub>[#193827](https://github.com/flutter/flutter/pull/193827) opened on on October 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193827) 105 additions and 4 deletions in 3 files</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Fix adb not found error for `android_intent_parsing_test`<br />
+  <sub>[#193828](https://github.com/flutter/flutter/pull/193828) opened on on October 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193828) 6 additions and 11 deletions in 1 file</sub><br />
 
