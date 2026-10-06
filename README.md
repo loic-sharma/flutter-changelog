@@ -4,7 +4,7 @@
 
 ### October 3, 2026 to October 9, 2026
 
-5 commits.
+8 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Reusable binding sets<br />
   <sub>[#190400](https://github.com/flutter/flutter/pull/190400) merged on October 5, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/190400) over 2 months, 1056 additions and 34 deletions in 13 files</sub><br />
@@ -13,6 +13,14 @@
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; [tool] Add support for --[no-]deprecated-js-interop to the flutter tool<br />
   <sub>[#193712](https://github.com/flutter/flutter/pull/193712) merged on October 5, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/193712) over 3 days, 852 additions and 57 deletions in 26 files</sub><br />
   <sub>Reviewed by: [Andy Wolff](https://github.com/andywolff), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Force a GC before each benchmark reload to keep /dev/shm from filling up<br />
+  <sub>[#193822](https://github.com/flutter/flutter/pull/193822) merged on October 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193822) over 11 hours, 30 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Raise Minimum Version to AGP 9.1.1<br />
+  <sub>[#193813](https://github.com/flutter/flutter/pull/193813) merged on October 6, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/193813) over 20 hours, 48 additions and 46 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; flutter_tools: Enable native access for Gradle<br />
   <sub>[#193814](https://github.com/flutter/flutter/pull/193814) merged on October 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193814) over 2 hours, 66 additions and 3 deletions in 5 files</sub><br />
@@ -25,6 +33,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Engine to test against JDK 25<br />
   <sub>[#193470](https://github.com/flutter/flutter/pull/193470) merged on October 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193470) over 6 days, 10 additions and 10 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Reland: [tool] Add support for --[no-]deprecated-js-interop to the flutter tool<br />
+  <sub>[#193877](https://github.com/flutter/flutter/pull/193877) merged on October 6, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/193877) over 53 minutes, 858 additions and 57 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 ### September 26, 2026 to October 2, 2026
 
@@ -829,7 +841,11 @@
 
 ### October 3, 2026 to October 9, 2026
 
-4 commits.
+5 commits.
+
+* **[jia](https://github.com/leejia324)** &mdash; [image_picker] Document that retrieving lost data is a one-time operation<br />
+  <sub>[#12784](https://github.com/flutter/packages/pull/12784) merged on October 6, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/12784) over 3 weeks, 16 additions and 4 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; [shared_preferences] Document return values of set and remove methods<br />
   <sub>[#12303](https://github.com/flutter/packages/pull/12303) merged on October 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12303) over 2 months, 33 additions and 2 deletions in 3 files</sub><br />
@@ -1293,9 +1309,18 @@
 
 ## flutter/website
 
+### October 3, 2026 to October 9, 2026
+
+1 commits.
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Refreshing the forms pages in the cookbook<br />
+  <sub>[#13957](https://github.com/flutter/website/pull/13957) merged on October 6, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13957) over 8 hours, 92 additions and 83 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [Connie Ooi ](https://github.com/conooi)</sub><br />
+
 ### September 26, 2026 to October 2, 2026
 
-13 commits.
+<details>
+<summary>13 commits...</summary>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Decoupling Material and Cupertino from the core framework<br />
   <sub>[#13930](https://github.com/flutter/website/pull/13930) merged on September 29, 2026 &mdash; **Extra large:** [23 comments](https://github.com/flutter/website/pull/13930) over 3 days, 1533 additions and 1544 deletions in 618 files</sub><br />
@@ -1348,6 +1373,8 @@
 * **[Rahul Shah](https://github.com/rahulshahDEV)** &mdash; Fix shimmer loading cookbook image paths<br />
   <sub>[#13933](https://github.com/flutter/website/pull/13933) merged on September 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/13933) over 1 day, 10 additions and 9 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### September 19, 2026 to September 25, 2026
 
