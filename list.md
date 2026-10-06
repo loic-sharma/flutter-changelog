@@ -4,7 +4,7 @@
 
 ### October 3, 2026 to October 9, 2026
 
-19 commits.
+20 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Reusable binding sets
   <sub>[#190400](https://github.com/flutter/flutter/pull/190400) merged on October 5, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/190400) over 2 months, 1056 additions and 34 deletions in 13 files</sub>
@@ -45,6 +45,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; flutter_tools: Enable native access for Gradle
   <sub>[#193814](https://github.com/flutter/flutter/pull/193814) merged on October 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193814) over 2 hours, 66 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matej Knopp](https://github.com/knopp)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily limit iOS tests to Mac-15
+  <sub>[#193915](https://github.com/flutter/flutter/pull/193915) merged on October 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193915) over 36 minutes, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Use the Skia header path that are consistent with other includes
   <sub>[#193853](https://github.com/flutter/flutter/pull/193853) merged on October 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193853) over 14 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -885,11 +889,15 @@
 
 ### October 3, 2026 to October 9, 2026
 
-5 commits.
+6 commits.
 
 * **[jia](https://github.com/leejia324)** &mdash; [image_picker] Document that retrieving lost data is a one-time operation
   <sub>[#12784](https://github.com/flutter/packages/pull/12784) merged on October 6, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/12784) over 3 weeks, 16 additions and 4 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Sem Bauke](https://github.com/Sembauke)** &mdash; [quick_actions_android] Return null from getLaunchAction when no activity is attached
+  <sub>[#12331](https://github.com/flutter/packages/pull/12331) merged on October 6, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/12331) over 2 months, 29 additions and 6 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; [shared_preferences] Document return values of set and remove methods
   <sub>[#12303](https://github.com/flutter/packages/pull/12303) merged on October 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12303) over 2 months, 33 additions and 2 deletions in 3 files</sub>
@@ -1355,7 +1363,11 @@
 
 ### October 3, 2026 to October 9, 2026
 
-1 commits.
+2 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add breaking change page for hardened entrypoint and cached engine `Intent` arguments
+  <sub>[#13645](https://github.com/flutter/website/pull/13645) merged on October 6, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13645) over 2 months, 223 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour](https://github.com/sfshaza2), [gemini-code-assist](https://github.com/apps/gemini-code-assist)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Refreshing the forms pages in the cookbook
   <sub>[#13957](https://github.com/flutter/website/pull/13957) merged on October 6, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13957) over 8 hours, 92 additions and 83 deletions in 22 files</sub>
