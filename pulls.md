@@ -150,7 +150,7 @@
   <sub>[#192457](https://github.com/flutter/flutter/pull/192457) opened on on September 9, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/flutter/pull/192457) 954 additions and 797 deletions in 22 files</sub><br />
 
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; [flutter_tools] Support custom asset bundle paths<br />
-  <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
+  <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Verify local engine option propagation across tool commands and DI<br />
   <sub>[#192510](https://github.com/flutter/flutter/pull/192510) opened on on September 9, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/192510) 516 additions and 14 deletions in 12 files</sub><br />
@@ -228,7 +228,7 @@
   <sub>[#193119](https://github.com/flutter/flutter/pull/193119) opened on on September 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193119) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [flutter_tools] Wait for iOS simulator log stream before launch<br />
-  <sub>[#193142](https://github.com/flutter/flutter/pull/193142) opened on on September 22, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/193142) 198 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#193142](https://github.com/flutter/flutter/pull/193142) opened on on September 22, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/193142) 234 additions and 5 deletions in 2 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated `useInheritedMediaQuery`<br />
   <sub>[#193146](https://github.com/flutter/flutter/pull/193146) opened on on September 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193146) 1 addition and 114 deletions in 8 files</sub><br />
@@ -252,7 +252,7 @@
   <sub>[#193277](https://github.com/flutter/flutter/pull/193277) opened on on September 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193277) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ayodele Ayoola](https://github.com/CreedTech)** &mdash; Make RawScrollbar respect pointer axis modifiers<br />
-  <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/193290) 95 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/193290) 95 additions and 8 deletions in 2 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Add documentation and a clear assertion error to help explain `Naviga…<br />
   <sub>[#193304](https://github.com/flutter/flutter/pull/193304) opened on on September 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193304) 53 additions and 3 deletions in 2 files</sub><br />
@@ -418,4 +418,10 @@
 
 * **[Rich Young](https://github.com/richyo-codes)** &mdash; refactor(linux): introduce GTK3 surface helpers<br />
   <sub>[#193943](https://github.com/flutter/flutter/pull/193943) opened on on October 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193943) 45 additions and 6 deletions in 4 files</sub><br />
+
+* **[William Oprandi](https://github.com/woprandi)** &mdash; Make NetworkImage headers replace HttpClient default headers<br />
+  <sub>[#193945](https://github.com/flutter/flutter/pull/193945) opened on on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193945) 38 additions and 2 deletions in 2 files</sub><br />
+
+* **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Document common anti-patterns that lead to nested Scaffolds<br />
+  <sub>[#193946](https://github.com/flutter/flutter/pull/193946) opened on on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193946) 153 additions and 32 deletions in 8 files</sub><br />
 
