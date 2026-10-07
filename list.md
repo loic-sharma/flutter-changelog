@@ -1383,7 +1383,7 @@
 
 ### October 3, 2026 to October 9, 2026
 
-3 commits.
+4 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add optimize-images command
   <sub>[#13938](https://github.com/flutter/website/pull/13938) merged on October 7, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/website/pull/13938) over 1 week, 1905 additions and 2 deletions in 25 files</sub>
@@ -1396,6 +1396,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Refreshing the forms pages in the cookbook
   <sub>[#13957](https://github.com/flutter/website/pull/13957) merged on October 6, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13957) over 8 hours, 92 additions and 83 deletions in 22 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Refresh the animation Cookbook recipes
+  <sub>[#13960](https://github.com/flutter/website/pull/13960) merged on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13960) over 1 day, 126 additions and 105 deletions in 16 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### September 26, 2026 to October 2, 2026
 

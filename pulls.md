@@ -228,16 +228,13 @@
   <sub>[#193119](https://github.com/flutter/flutter/pull/193119) opened on on September 21, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193119) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [flutter_tools] Wait for iOS simulator log stream before launch<br />
-  <sub>[#193142](https://github.com/flutter/flutter/pull/193142) opened on on September 22, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/193142) 234 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#193142](https://github.com/flutter/flutter/pull/193142) opened on on September 22, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/193142) 234 additions and 5 deletions in 2 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Remove deprecated `useInheritedMediaQuery`<br />
   <sub>[#193146](https://github.com/flutter/flutter/pull/193146) opened on on September 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193146) 1 addition and 114 deletions in 8 files</sub><br />
 
-* **[holzgeist](https://github.com/holzgeist)** &mdash; feat(web): support document pip<br />
-  <sub>[#193149](https://github.com/flutter/flutter/pull/193149) opened on on September 22, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/193149) 518 additions and 68 deletions in 16 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix various typos in web_ui codebase<br />
-  <sub>[#193188](https://github.com/flutter/flutter/pull/193188) opened on on September 22, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/193188) 73 additions and 73 deletions in 44 files</sub><br />
+  <sub>[#193188](https://github.com/flutter/flutter/pull/193188) opened on on September 22, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/193188) 73 additions and 73 deletions in 44 files</sub><br />
 
 * **[Xavier H.](https://github.com/xvrh)** &mdash; [tool] Pass recorded uses to asset transformers<br />
   <sub>[#193220](https://github.com/flutter/flutter/pull/193220) opened on on September 23, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/193220) 468 additions and 44 deletions in 7 files</sub><br />
@@ -265,12 +262,6 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): migrate Desktop build commands to typed options<br />
   <sub>[#193323](https://github.com/flutter/flutter/pull/193323) opened on on September 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193323) 72 additions and 67 deletions in 4 files</sub><br />
-
-* **[Diego López](https://github.com/diegolopezrm)** &mdash; [web] Let the browser handle Control+wheel zoom outside of macOS<br />
-  <sub>[#193362](https://github.com/flutter/flutter/pull/193362) opened on on September 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193362) 97 additions and 3 deletions in 2 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: microtasks scheduled during onBeginFrame running after the frame on web<br />
-  <sub>[#193385](https://github.com/flutter/flutter/pull/193385) opened on on September 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193385) 93 additions and 21 deletions in 3 files</sub><br />
 
 * **[Rahul Shah](https://github.com/rahulshahDEV)** &mdash; Preserve Android status bar theme brightness on startup<br />
   <sub>[#193386](https://github.com/flutter/flutter/pull/193386) opened on on September 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193386) 38 additions and 1 deletion in 2 files</sub><br />
@@ -359,6 +350,9 @@
 * **[palmoni5](https://github.com/palmoni5)** &mdash; [Windows] Normalize Shift key messages with a non-standard scan code<br />
   <sub>[#193675](https://github.com/flutter/flutter/pull/193675) opened on on October 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193675) 94 additions and 5 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add wiki page on capturing Flutter startup traces on Android with Perfetto<br />
+  <sub>[#193679](https://github.com/flutter/flutter/pull/193679) opened on on October 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193679) 96 additions and 1 deletion in 3 files</sub><br />
+
 * **[Udit Swaroopa](https://github.com/uditswaroopa09)** &mdash; [iOS] Give hidden semantics nodes in scrollables a non-empty accessib…<br />
   <sub>[#193723](https://github.com/flutter/flutter/pull/193723) opened on on October 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193723) 190 additions and 0 deletions in 2 files</sub><br />
 
@@ -369,7 +363,7 @@
   <sub>[#193746](https://github.com/flutter/flutter/pull/193746) opened on on October 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193746) 60 additions and 5 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Share FlutterProject metadata with tool extensions via ExtensionFlutterProject<br />
-  <sub>[#193749](https://github.com/flutter/flutter/pull/193749) opened on on October 3, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/193749) 509 additions and 26 deletions in 10 files</sub><br />
+  <sub>[#193749](https://github.com/flutter/flutter/pull/193749) opened on on October 3, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/193749) 507 additions and 26 deletions in 9 files</sub><br />
 
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; [flutter_tools] Fix local CanvasKit asset paths on Windows<br />
   <sub>[#193776](https://github.com/flutter/flutter/pull/193776) opened on on October 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193776) 160 additions and 3 deletions in 2 files</sub><br />
@@ -378,7 +372,7 @@
   <sub>[#193801](https://github.com/flutter/flutter/pull/193801) opened on on October 4, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193801) 119 additions and 0 deletions in 3 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Migrate remaining test to macOS 26<br />
-  <sub>[#193825](https://github.com/flutter/flutter/pull/193825) opened on on October 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193825) 8 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#193825](https://github.com/flutter/flutter/pull/193825) opened on on October 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193825) 10 additions and 10 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[flutter_tools] forward --offline flag to pub.get in update-packages"<br />
   <sub>[#193838](https://github.com/flutter/flutter/pull/193838) opened on on October 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193838) 55 additions and 5 deletions in 2 files</sub><br />
@@ -407,14 +401,17 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix `--merged-platform-ui-thread` flag<br />
   <sub>[#193901](https://github.com/flutter/flutter/pull/193901) opened on on October 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193901) 34 additions and 10 deletions in 2 files</sub><br />
 
+* **[Caroline Liu](https://github.com/caroqliu)** &mdash; [fuchsia] Add baseline flag-specific tests for touch gesture-response policy<br />
+  <sub>[#193912](https://github.com/flutter/flutter/pull/193912) opened on on October 6, 2026 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/193912) 1779 additions and 631 deletions in 14 files</sub><br />
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Report which golden screenshot phase stalls in felt<br />
   <sub>[#193920](https://github.com/flutter/flutter/pull/193920) opened on on October 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193920) 52 additions and 14 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Roll package:dap_adapters to 1.1.0<br />
   <sub>[#193921](https://github.com/flutter/flutter/pull/193921) opened on on October 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193921) 7 additions and 6 deletions in 3 files</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; Make DisplayLists' use of DlPaint, SkPaint, and impeller::Paint agree on the default isAntiAlias<br />
-  <sub>[#193939](https://github.com/flutter/flutter/pull/193939) opened on on October 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193939) 70 additions and 13 deletions in 12 files</sub><br />
+* **[Andy Wolff](https://github.com/andywolff)** &mdash; Allow color delta tolerance in in-memory fuzzy image comparator<br />
+  <sub>[#193937](https://github.com/flutter/flutter/pull/193937) opened on on October 6, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193937) 93 additions and 9 deletions in 2 files</sub><br />
 
 * **[Rich Young](https://github.com/richyo-codes)** &mdash; refactor(linux): introduce GTK3 surface helpers<br />
   <sub>[#193943](https://github.com/flutter/flutter/pull/193943) opened on on October 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193943) 45 additions and 6 deletions in 4 files</sub><br />
