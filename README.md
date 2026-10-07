@@ -889,7 +889,7 @@
 
 ### October 3, 2026 to October 9, 2026
 
-6 commits.
+10 commits.
 
 * **[jia](https://github.com/leejia324)** &mdash; [image_picker] Document that retrieving lost data is a one-time operation<br />
   <sub>[#12784](https://github.com/flutter/packages/pull/12784) merged on October 6, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/12784) over 3 weeks, 16 additions and 4 deletions in 6 files</sub><br />
@@ -902,6 +902,22 @@
 * **[Abdelrahman Saed](https://github.com/binSaed)** &mdash; [shared_preferences] Document return values of set and remove methods<br />
   <sub>[#12303](https://github.com/flutter/packages/pull/12303) merged on October 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/12303) over 2 months, 33 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; [material_ui] Fix `TabBar` assertion to allow `indicatorWeight: 0` with a themed `indicator`<br />
+  <sub>[#12696](https://github.com/flutter/packages/pull/12696) merged on October 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12696) over 1 month, 125 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [material_ui] Fix time picker input validation for 24-hour locales<br />
+  <sub>[#13033](https://github.com/flutter/packages/pull/13033) merged on October 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/13033) over 1 week, 67 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui] Migrate ListTile and SwitchListTile API doc snippets to {@example} (batch 10)<br />
+  <sub>[#13097](https://github.com/flutter/packages/pull/13097) merged on October 6, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/13097) over 5 days, 362 additions and 97 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [material_ui] Migrate Checkbox, CheckboxListTile, Radio, and RadioListTile API doc snippets to {@example} (batch 9)<br />
+  <sub>[#13112](https://github.com/flutter/packages/pull/13112) merged on October 6, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/13112) over 4 days, 337 additions and 74 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Hamid Shakeri](https://github.com/Hamidrzash)** &mdash; [material_ui] Add scrollPadding property to DropdownMenuFormField<br />
   <sub>[#12735](https://github.com/flutter/packages/pull/12735) merged on October 5, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12735) over 1 month, 32 additions and 0 deletions in 3 files</sub><br />
