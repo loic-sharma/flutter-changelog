@@ -889,11 +889,15 @@
 
 ### October 3, 2026 to October 9, 2026
 
-10 commits.
+11 commits.
 
 * **[jia](https://github.com/leejia324)** &mdash; [image_picker] Document that retrieving lost data is a one-time operation<br />
   <sub>[#12784](https://github.com/flutter/packages/pull/12784) merged on October 6, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/12784) over 3 weeks, 16 additions and 4 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan-g](https://github.com/stuartmorgan-g), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Fix native interop (JNI) calls in minified Android release builds<br />
+  <sub>[#13151](https://github.com/flutter/packages/pull/13151) merged on October 7, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/13151) over 5 hours, 357 additions and 5 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Sem Bauke](https://github.com/Sembauke)** &mdash; [quick_actions_android] Return null from getLaunchAction when no activity is attached<br />
   <sub>[#12331](https://github.com/flutter/packages/pull/12331) merged on October 6, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/12331) over 2 months, 29 additions and 6 deletions in 4 files</sub><br />
@@ -1379,7 +1383,11 @@
 
 ### October 3, 2026 to October 9, 2026
 
-2 commits.
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add optimize-images command<br />
+  <sub>[#13938](https://github.com/flutter/website/pull/13938) merged on October 7, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/website/pull/13938) over 1 week, 1905 additions and 2 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Add breaking change page for hardened entrypoint and cached engine `Intent` arguments<br />
   <sub>[#13645](https://github.com/flutter/website/pull/13645) merged on October 6, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/13645) over 2 months, 223 additions and 0 deletions in 2 files</sub><br />

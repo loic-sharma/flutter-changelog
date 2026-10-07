@@ -284,9 +284,6 @@
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; [Impeller] Trace the Vulkan encode and submit path<br />
   <sub>[#193400](https://github.com/flutter/flutter/pull/193400) opened on on September 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193400) 16 additions and 0 deletions in 4 files</sub><br />
 
-* **[zzzjim](https://github.com/zzzjim)** &mdash; [web] Prevent unconsumed scroll from chaining into the host page<br />
-  <sub>[#193402](https://github.com/flutter/flutter/pull/193402) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193402) 8 additions and 1 deletion in 2 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Clear HTMLImageElement.src when WebImageInfo and ImgElementPlatformView are disposed<br />
   <sub>[#193408](https://github.com/flutter/flutter/pull/193408) opened on on September 27, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/193408) 284 additions and 17 deletions in 3 files</sub><br />
 
@@ -418,4 +415,7 @@
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Make DisplayLists' use of DlPaint, SkPaint, and impeller::Paint agree on the default isAntiAlias<br />
   <sub>[#193939](https://github.com/flutter/flutter/pull/193939) opened on on October 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193939) 70 additions and 13 deletions in 12 files</sub><br />
+
+* **[Rich Young](https://github.com/richyo-codes)** &mdash; refactor(linux): introduce GTK3 surface helpers<br />
+  <sub>[#193943](https://github.com/flutter/flutter/pull/193943) opened on on October 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193943) 45 additions and 6 deletions in 4 files</sub><br />
 
