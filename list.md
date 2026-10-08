@@ -977,7 +977,7 @@
 
 ### October 3, 2026 to October 9, 2026
 
-14 commits.
+15 commits.
 
 * **[jia](https://github.com/leejia324)** &mdash; [image_picker] Document that retrieving lost data is a one-time operation
   <sub>[#12784](https://github.com/flutter/packages/pull/12784) merged on October 6, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/12784) over 3 weeks, 16 additions and 4 deletions in 6 files</sub>
@@ -1006,6 +1006,10 @@
 * **[Massinissa Mouhoub](https://github.com/Massinissa-Mouhoub)** &mdash; [material_ui] Fix `TabBar` assertion to allow `indicatorWeight: 0` with a themed `indicator`
   <sub>[#12696](https://github.com/flutter/packages/pull/12696) merged on October 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12696) over 1 month, 125 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[TeddyYeung](https://github.com/TeddyYeung)** &mdash; [image_picker_ios] Return an error for undecodable image data
+  <sub>[#12267](https://github.com/flutter/packages/pull/12267) merged on October 8, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/12267) over 2 months, 48 additions and 1 deletion in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth), [Elijah Okoroh](https://github.com/okorohelijah)</sub>
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [material_ui] Fix time picker input validation for 24-hour locales
   <sub>[#13033](https://github.com/flutter/packages/pull/13033) merged on October 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/13033) over 1 week, 67 additions and 1 deletion in 3 files</sub>
@@ -1483,7 +1487,7 @@
 
 ### October 3, 2026 to October 9, 2026
 
-4 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add optimize-images command
   <sub>[#13938](https://github.com/flutter/website/pull/13938) merged on October 7, 2026 &mdash; **Extra large:** [7 comments](https://github.com/flutter/website/pull/13938) over 1 week, 1905 additions and 2 deletions in 25 files</sub>
@@ -1496,6 +1500,10 @@
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Refreshing the forms pages in the cookbook
   <sub>[#13957](https://github.com/flutter/website/pull/13957) merged on October 6, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13957) over 8 hours, 92 additions and 83 deletions in 22 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[Jess K](https://github.com/jesskuras)** &mdash; docs: use Gemini branding on Flutter AI page
+  <sub>[#13958](https://github.com/flutter/website/pull/13958) merged on October 8, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/13958) over 2 days, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Refresh the animation Cookbook recipes
   <sub>[#13960](https://github.com/flutter/website/pull/13960) merged on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/13960) over 1 day, 126 additions and 105 deletions in 16 files</sub>
