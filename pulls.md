@@ -126,7 +126,7 @@
   <sub>[#192262](https://github.com/flutter/flutter/pull/192262) opened on on September 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192262) 49 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mark Xian](https://github.com/xianjianlf2)** &mdash; [Android] Replay predictive back state for retained engines<br />
-  <sub>[#192286](https://github.com/flutter/flutter/pull/192286) opened on on September 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192286) 75 additions and 9 deletions in 4 files</sub><br />
+  <sub>[#192286](https://github.com/flutter/flutter/pull/192286) opened on on September 4, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/192286) 129 additions and 12 deletions in 6 files</sub><br />
 
 * **[diandiandia](https://github.com/diandiandia)** &mdash; Bound decoded image allocations in the Skia image generators<br />
   <sub>[#192375](https://github.com/flutter/flutter/pull/192375) opened on on September 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/192375) 193 additions and 0 deletions in 4 files</sub><br />
@@ -193,9 +193,6 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle additional unhandled OS error codes in ErrorHandlingFileSystem<br />
   <sub>[#192998](https://github.com/flutter/flutter/pull/192998) opened on on September 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192998) 381 additions and 4 deletions in 2 files</sub><br />
-
-* **[Joel Winarske](https://github.com/jwinarske)** &mdash; Do not present the root surface when an external view embedder owns it<br />
-  <sub>[#193000](https://github.com/flutter/flutter/pull/193000) opened on on September 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193000) 96 additions and 7 deletions in 4 files</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Move the Vulkan wrapped-texture helper out of the GPU surface<br />
   <sub>[#193001](https://github.com/flutter/flutter/pull/193001) opened on on September 18, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/193001) 220 additions and 63 deletions in 7 files</sub><br />
@@ -302,29 +299,23 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Retry and handle ERROR_DIR_NOT_EMPTY on Windows<br />
   <sub>[#193620](https://github.com/flutter/flutter/pull/193620) opened on on October 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193620) 121 additions and 48 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Inject dependencies into doctor, logs, and target devices<br />
-  <sub>[#193642](https://github.com/flutter/flutter/pull/193642) opened on on October 1, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/193642) 276 additions and 264 deletions in 14 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate build targets, tester devices, application packages, and tool utilities away from globals<br />
-  <sub>[#193647](https://github.com/flutter/flutter/pull/193647) opened on on October 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193647) 34 additions and 38 deletions in 18 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals usage from linux/native_assets.dart<br />
-  <sub>[#193648](https://github.com/flutter/flutter/pull/193648) opened on on October 1, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193648) 138 additions and 164 deletions in 2 files</sub><br />
+  <sub>[#193647](https://github.com/flutter/flutter/pull/193647) opened on on October 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193647) 78 additions and 57 deletions in 27 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate gradle_errors and deferred_components_prebuild_validator away from globals<br />
-  <sub>[#193649](https://github.com/flutter/flutter/pull/193649) opened on on October 1, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/193649) 1701 additions and 1455 deletions in 11 files</sub><br />
+  <sub>[#193649](https://github.com/flutter/flutter/pull/193649) opened on on October 1, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/193649) 1576 additions and 1453 deletions in 11 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate AndroidSdk and AndroidStudio away from globals<br />
-  <sub>[#193650](https://github.com/flutter/flutter/pull/193650) opened on on October 1, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/193650) 2388 additions and 2004 deletions in 9 files</sub><br />
+  <sub>[#193650](https://github.com/flutter/flutter/pull/193650) opened on on October 1, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/193650) 2342 additions and 2050 deletions in 8 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate iOS devices, simulators, emulators, and XCDevice away from globals<br />
-  <sub>[#193651](https://github.com/flutter/flutter/pull/193651) opened on on October 1, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/193651) 516 additions and 134 deletions in 23 files</sub><br />
+  <sub>[#193651](https://github.com/flutter/flutter/pull/193651) opened on on October 1, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/193651) 903 additions and 530 deletions in 24 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals from macOS build, migration, and Xcode project<br />
-  <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/193652) 511 additions and 681 deletions in 14 files</sub><br />
+  <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/193652) 752 additions and 1058 deletions in 15 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals usage from artifacts.dart<br />
-  <sub>[#193654](https://github.com/flutter/flutter/pull/193654) opened on on October 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193654) 112 additions and 57 deletions in 3 files</sub><br />
+  <sub>[#193654](https://github.com/flutter/flutter/pull/193654) opened on on October 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193654) 88 additions and 69 deletions in 3 files</sub><br />
 
 * **[huylyvn](https://github.com/huylyvn)** &mdash; [Linux] Send touchpad pinch position to the scrolling manager<br />
   <sub>[#193659](https://github.com/flutter/flutter/pull/193659) opened on on October 1, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/193659) 320 additions and 82 deletions in 4 files</sub><br />
@@ -387,7 +378,7 @@
   <sub>[#193920](https://github.com/flutter/flutter/pull/193920) opened on on October 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193920) 52 additions and 14 deletions in 1 file</sub><br />
 
 * **[Rich Young](https://github.com/richyo-codes)** &mdash; refactor(linux): introduce GTK3 surface helpers<br />
-  <sub>[#193943](https://github.com/flutter/flutter/pull/193943) opened on on October 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193943) 45 additions and 6 deletions in 4 files</sub><br />
+  <sub>[#193943](https://github.com/flutter/flutter/pull/193943) opened on on October 7, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193943) 45 additions and 6 deletions in 4 files</sub><br />
 
 * **[William Oprandi](https://github.com/woprandi)** &mdash; Make NetworkImage headers replace HttpClient default headers<br />
   <sub>[#193945](https://github.com/flutter/flutter/pull/193945) opened on on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193945) 38 additions and 2 deletions in 2 files</sub><br />
@@ -402,11 +393,14 @@
   <sub>[#193964](https://github.com/flutter/flutter/pull/193964) opened on on October 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193964) 11 additions and 4 deletions in 1 file</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Make impeller::Paint's default isAntiAlias false, matching DlPaint, SkPaint, and DlBuilder<br />
-  <sub>[#193971](https://github.com/flutter/flutter/pull/193971) opened on on October 7, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/193971) 226 additions and 103 deletions in 27 files</sub><br />
+  <sub>[#193971](https://github.com/flutter/flutter/pull/193971) opened on on October 7, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/193971) 226 additions and 103 deletions in 27 files</sub><br />
 
 * **[justinborowitza](https://github.com/justinborowitza)** &mdash; [flutter_tools] Preserve web test selectors on Windows<br />
   <sub>[#193980](https://github.com/flutter/flutter/pull/193980) opened on on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193980) 131 additions and 3 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Apply web_dev_config.yaml proxy in Wasm/release modes<br />
   <sub>[#193981](https://github.com/flutter/flutter/pull/193981) opened on on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193981) 110 additions and 1 deletion in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add flutter assemble support for tool extension build targets<br />
+  <sub>[#193984](https://github.com/flutter/flutter/pull/193984) opened on on October 8, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/193984) 2491 additions and 362 deletions in 28 files</sub><br />
 
