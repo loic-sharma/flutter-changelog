@@ -261,7 +261,7 @@
   <sub>[#193400](https://github.com/flutter/flutter/pull/193400) opened on on September 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193400) 16 additions and 0 deletions in 4 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Clear HTMLImageElement.src when WebImageInfo and ImgElementPlatformView are disposed<br />
-  <sub>[#193408](https://github.com/flutter/flutter/pull/193408) opened on on September 27, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/193408) 284 additions and 17 deletions in 3 files</sub><br />
+  <sub>[#193408](https://github.com/flutter/flutter/pull/193408) opened on on September 27, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/193408) 284 additions and 17 deletions in 3 files</sub><br />
 
 * **[awababushnagh0-sudo](https://github.com/awababushnagh0-sudo)** &mdash; Clarify that super.dispose() must be called synchronously<br />
   <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/193416) 64 additions and 1 deletion in 2 files</sub><br />
@@ -383,9 +383,6 @@
 * **[William Oprandi](https://github.com/woprandi)** &mdash; Make NetworkImage headers replace HttpClient default headers<br />
   <sub>[#193945](https://github.com/flutter/flutter/pull/193945) opened on on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193945) 38 additions and 2 deletions in 2 files</sub><br />
 
-* **[Hameed Habeeblahi Gbolahan](https://github.com/gbolahan507)** &mdash; Document common anti-patterns that lead to nested Scaffolds<br />
-  <sub>[#193946](https://github.com/flutter/flutter/pull/193946) opened on on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193946) 153 additions and 32 deletions in 8 files</sub><br />
-
 * **[Kyrylo K.](https://github.com/krll-kov)** &mdash; [Skia][DisplayList] Map local bounds through the local matrix in DlLocalMatrixImageFilter<br />
   <sub>[#193963](https://github.com/flutter/flutter/pull/193963) opened on on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193963) 37 additions and 1 deletion in 2 files</sub><br />
 
@@ -397,9 +394,6 @@
 
 * **[justinborowitza](https://github.com/justinborowitza)** &mdash; [flutter_tools] Preserve web test selectors on Windows<br />
   <sub>[#193980](https://github.com/flutter/flutter/pull/193980) opened on on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193980) 131 additions and 3 deletions in 2 files</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Apply web_dev_config.yaml proxy in Wasm/release modes<br />
-  <sub>[#193981](https://github.com/flutter/flutter/pull/193981) opened on on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193981) 110 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add flutter assemble support for tool extension build targets<br />
   <sub>[#193984](https://github.com/flutter/flutter/pull/193984) opened on on October 8, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/193984) 2491 additions and 362 deletions in 28 files</sub><br />
