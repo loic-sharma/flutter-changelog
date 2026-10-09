@@ -377,3 +377,21 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Compute engine content hash from HEAD and only fall back to merge-base on download failure<br />
   <sub>[#194029](https://github.com/flutter/flutter/pull/194029) opened on on October 8, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194029) 736 additions and 194 deletions in 12 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Inject dependencies into update-packages and package_map<br />
+  <sub>[#194046](https://github.com/flutter/flutter/pull/194046) opened on on October 9, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/194046) 251 additions and 285 deletions in 5 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Inject dependencies into iOS, macOS, and Windows application packages<br />
+  <sub>[#194047](https://github.com/flutter/flutter/pull/194047) opened on on October 9, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/194047) 651 additions and 282 deletions in 12 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Inject dependencies into desktop builders and custom devices<br />
+  <sub>[#194050](https://github.com/flutter/flutter/pull/194050) opened on on October 9, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/194050) 1097 additions and 1027 deletions in 23 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Inject dependencies into VM service, process, signals, and test devices<br />
+  <sub>[#194051](https://github.com/flutter/flutter/pull/194051) opened on on October 9, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/194051) 539 additions and 163 deletions in 39 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Inject dependencies into bundle, web asset server, and web targets<br />
+  <sub>[#194053](https://github.com/flutter/flutter/pull/194053) opened on on October 9, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/194053) 1015 additions and 493 deletions in 23 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Inject dependencies into build_info.dart<br />
+  <sub>[#194054](https://github.com/flutter/flutter/pull/194054) opened on on October 9, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194054) 485 additions and 141 deletions in 46 files</sub><br />
+
