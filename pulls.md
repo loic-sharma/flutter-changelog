@@ -134,6 +134,9 @@
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; [flutter_tools] Support custom asset bundle paths<br />
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
 
+* **[Dmitrii Zolotov](https://github.com/dzolotov)** &mdash; [Impeller] Key the Vulkan framebuffer cache on the whole attachment set<br />
+  <sub>[#192539](https://github.com/flutter/flutter/pull/192539) opened on on September 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192539) 125 additions and 24 deletions in 7 files</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ci] Sort integration tests and restore Mac test_timeout_secs<br />
   <sub>[#192547](https://github.com/flutter/flutter/pull/192547) opened on on September 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192547) 82 additions and 18 deletions in 8 files</sub><br />
 
