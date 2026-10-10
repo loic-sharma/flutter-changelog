@@ -357,7 +357,7 @@
   <sub>[#193980](https://github.com/flutter/flutter/pull/193980) opened on on October 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193980) 131 additions and 3 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Refactored PipelineLibraryGLES<br />
-  <sub>[#193985](https://github.com/flutter/flutter/pull/193985) opened on on October 8, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/193985) 774 additions and 671 deletions in 22 files</sub><br />
+  <sub>[#193985](https://github.com/flutter/flutter/pull/193985) opened on on October 8, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/193985) 774 additions and 671 deletions in 22 files</sub><br />
 
 * **[Santo Shakil](https://github.com/santoshakil)** &mdash; [Impeller] Keep the aspect ratio when shrinking images to the max texture size<br />
   <sub>[#194010](https://github.com/flutter/flutter/pull/194010) opened on on October 8, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194010) 27 additions and 7 deletions in 2 files</sub><br />
@@ -380,6 +380,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; shrink the `MediaQuery` API surface<br />
   <sub>[#194091](https://github.com/flutter/flutter/pull/194091) opened on on October 9, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/194091) 635 additions and 119 deletions in 17 files</sub><br />
 
-* **[b-luk](https://github.com/b-luk)** &mdash; [windows] Add tests that render at D3D11 feature level 10_0<br />
-  <sub>[#194100](https://github.com/flutter/flutter/pull/194100) opened on on October 9, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/194100) 369 additions and 14 deletions in 8 files</sub><br />
+* **[b-luk](https://github.com/b-luk)** &mdash; [windows] Add OpenGL compositor tests against ANGLE at D3D11 feature level 10_0<br />
+  <sub>[#194114](https://github.com/flutter/flutter/pull/194114) opened on on October 10, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/194114) 294 additions and 14 deletions in 6 files</sub><br />
 
