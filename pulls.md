@@ -81,7 +81,7 @@
   <sub>[#191560](https://github.com/flutter/flutter/pull/191560) opened on on August 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191560) 54 additions and 9 deletions in 3 files</sub><br />
 
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; [iOS/MacOS] Warn when using deprecated framework build commands<br />
-  <sub>[#191644](https://github.com/flutter/flutter/pull/191644) opened on on August 25, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191644) 106 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#191644](https://github.com/flutter/flutter/pull/191644) opened on on August 25, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191644) 102 additions and 0 deletions in 3 files</sub><br />
 
 * **[Jayesh jain](https://github.com/JayeshJain25)** &mdash; Expose includeHash on usePathUrlStrategy()<br />
   <sub>[#191816](https://github.com/flutter/flutter/pull/191816) opened on on August 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191816) 36 additions and 3 deletions in 4 files</sub><br />
@@ -90,7 +90,7 @@
   <sub>[#191992](https://github.com/flutter/flutter/pull/191992) opened on on August 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191992) 351 additions and 102 deletions in 3 files</sub><br />
 
 * **[Emmanuel LEFEBVRE DIBON](https://github.com/zemanux)** &mdash; Add EdgeInsetsOverlay widget<br />
-  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/191998) 2377 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [46 comments](https://github.com/flutter/flutter/pull/191998) 2459 additions and 0 deletions in 3 files</sub><br />
 
 * **[Lucas Wang](https://github.com/gn00295120)** &mdash; [flutter_tools] Bind web dev server to loopback by default and validate Host header<br />
   <sub>[#192049](https://github.com/flutter/flutter/pull/192049) opened on on August 31, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192049) 289 additions and 16 deletions in 5 files</sub><br />
@@ -135,7 +135,7 @@
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
 
 * **[Dmitrii Zolotov](https://github.com/dzolotov)** &mdash; [Impeller] Key the Vulkan framebuffer cache on the whole attachment set<br />
-  <sub>[#192539](https://github.com/flutter/flutter/pull/192539) opened on on September 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192539) 125 additions and 24 deletions in 7 files</sub><br />
+  <sub>[#192539](https://github.com/flutter/flutter/pull/192539) opened on on September 10, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192539) 684 additions and 109 deletions in 12 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ci] Sort integration tests and restore Mac test_timeout_secs<br />
   <sub>[#192547](https://github.com/flutter/flutter/pull/192547) opened on on September 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192547) 82 additions and 18 deletions in 8 files</sub><br />
@@ -380,6 +380,15 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; shrink the `MediaQuery` API surface<br />
   <sub>[#194091](https://github.com/flutter/flutter/pull/194091) opened on on October 9, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/194091) 635 additions and 119 deletions in 17 files</sub><br />
 
+* **[AHMED M.](https://github.com/ahmedm-gh)** &mdash; [gen_l10n] Make generated localization code extensible and configurable<br />
+  <sub>[#194108](https://github.com/flutter/flutter/pull/194108) opened on on October 9, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/194108) 3507 additions and 81 deletions in 6 files</sub><br />
+
 * **[b-luk](https://github.com/b-luk)** &mdash; [windows] Add OpenGL compositor tests against ANGLE at D3D11 feature level 10_0<br />
   <sub>[#194114](https://github.com/flutter/flutter/pull/194114) opened on on October 10, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/194114) 294 additions and 14 deletions in 6 files</sub><br />
+
+* **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; [flutter_tools] Remove trailing dot from bug report URL<br />
+  <sub>[#194132](https://github.com/flutter/flutter/pull/194132) opened on on October 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194132) 6 additions and 1 deletion in 2 files</sub><br />
+
+* **[gailansoran4](https://github.com/gailansoran4)** &mdash; Add an inset flag to BoxShadow<br />
+  <sub>[#194133](https://github.com/flutter/flutter/pull/194133) opened on on October 10, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/194133) 375 additions and 36 deletions in 7 files</sub><br />
 
