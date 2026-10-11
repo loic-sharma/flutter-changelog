@@ -240,7 +240,7 @@
   <sub>[#193408](https://github.com/flutter/flutter/pull/193408) opened on on September 27, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/193408) 284 additions and 17 deletions in 3 files</sub><br />
 
 * **[awababushnagh0-sudo](https://github.com/awababushnagh0-sudo)** &mdash; Clarify that super.dispose() must be called synchronously<br />
-  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/193416) 64 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/193416) 92 additions and 1 deletion in 2 files</sub><br />
 
 * **[Anılcan Çakır](https://github.com/anilcancakir)** &mdash; [flutter_tools] Validate optional parameter names in gen-l10n<br />
   <sub>[#193417](https://github.com/flutter/flutter/pull/193417) opened on on September 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193417) 55 additions and 0 deletions in 2 files</sub><br />
@@ -395,6 +395,15 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Skip non-focusable containers in Focusable.focusAsRouteDefault<br />
   <sub>[#194138](https://github.com/flutter/flutter/pull/194138) opened on on October 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194138) 187 additions and 0 deletions in 2 files</sub><br />
 
+* **[Jhin Lee](https://github.com/leehack)** &mdash; [native assets] Respect the iOS deployment target in framework metadata<br />
+  <sub>[#194146](https://github.com/flutter/flutter/pull/194146) opened on on October 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194146) 104 additions and 7 deletions in 6 files</sub><br />
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] End each pass when the next command is recorded<br />
   <sub>[#194167](https://github.com/flutter/flutter/pull/194167) opened on on October 11, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194167) 639 additions and 14 deletions in 8 files</sub><br />
+
+* **[Ikki Nishihara](https://github.com/haranishi)** &mdash; fix: TreeSliverの連続開閉時の描画例外を修正 (exclude hidden node animations)<br />
+  <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194172) 171 additions and 2 deletions in 2 files</sub><br />
+
+* **[Ikki Nishihara](https://github.com/haranishi)** &mdash; fix: RouterConfig使用時の戻る操作を修正 (default back button dispatcher)<br />
+  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194173) 119 additions and 10 deletions in 2 files</sub><br />
 
