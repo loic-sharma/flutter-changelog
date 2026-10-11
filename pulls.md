@@ -395,3 +395,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Skip non-focusable containers in Focusable.focusAsRouteDefault<br />
   <sub>[#194138](https://github.com/flutter/flutter/pull/194138) opened on on October 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194138) 187 additions and 0 deletions in 2 files</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] End each pass when the next command is recorded<br />
+  <sub>[#194167](https://github.com/flutter/flutter/pull/194167) opened on on October 11, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194167) 639 additions and 14 deletions in 8 files</sub><br />
+
