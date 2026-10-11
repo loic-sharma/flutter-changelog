@@ -390,8 +390,8 @@
   <sub>[#194132](https://github.com/flutter/flutter/pull/194132) opened on on October 10, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194132) 6 additions and 1 deletion in 2 files</sub><br />
 
 * **[gailansoran4](https://github.com/gailansoran4)** &mdash; Add an inset flag to BoxShadow<br />
-  <sub>[#194133](https://github.com/flutter/flutter/pull/194133) opened on on October 10, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/194133) 375 additions and 36 deletions in 7 files</sub><br />
+  <sub>[#194133](https://github.com/flutter/flutter/pull/194133) opened on on October 10, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/194133) 437 additions and 36 deletions in 7 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Skip non-focusable semantics containers in Focusable.focusAsRouteDefault<br />
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Skip non-focusable containers in Focusable.focusAsRouteDefault<br />
   <sub>[#194138](https://github.com/flutter/flutter/pull/194138) opened on on October 10, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194138) 187 additions and 0 deletions in 2 files</sub><br />
 
