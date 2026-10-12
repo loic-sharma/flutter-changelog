@@ -129,7 +129,7 @@
   <sub>[#192447](https://github.com/flutter/flutter/pull/192447) opened on on September 8, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/192447) 334 additions and 29 deletions in 3 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] Use DFS traversal to find engines of a scene automatically (rather than manually manage the engines list)<br />
-  <sub>[#192457](https://github.com/flutter/flutter/pull/192457) opened on on September 9, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/flutter/pull/192457) 1104 additions and 834 deletions in 23 files</sub><br />
+  <sub>[#192457](https://github.com/flutter/flutter/pull/192457) opened on on September 9, 2026 &mdash; **Extra large:** [35 comments](https://github.com/flutter/flutter/pull/192457) 1100 additions and 834 deletions in 23 files</sub><br />
 
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; [flutter_tools] Support custom asset bundle paths<br />
   <sub>[#192509](https://github.com/flutter/flutter/pull/192509) opened on on September 9, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/192509) 938 additions and 18 deletions in 14 files</sub><br />
@@ -408,5 +408,5 @@
   <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194173) 119 additions and 10 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Share FlutterRunLoop between macOS and iOS embedders<br />
-  <sub>[#194189](https://github.com/flutter/flutter/pull/194189) opened on on October 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194189) 43 additions and 10 deletions in 10 files</sub><br />
+  <sub>[#194189](https://github.com/flutter/flutter/pull/194189) opened on on October 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194189) 66 additions and 10 deletions in 12 files</sub><br />
 
