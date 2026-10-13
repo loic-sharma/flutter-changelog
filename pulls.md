@@ -276,7 +276,7 @@
   <sub>[#193654](https://github.com/flutter/flutter/pull/193654) opened on on October 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193654) 121 additions and 71 deletions in 4 files</sub><br />
 
 * **[Huy Ly](https://github.com/huylyvn)** &mdash; [Linux] Send touchpad pinch position to the scrolling manager<br />
-  <sub>[#193659](https://github.com/flutter/flutter/pull/193659) opened on on October 1, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/193659) 358 additions and 88 deletions in 4 files</sub><br />
+  <sub>[#193659](https://github.com/flutter/flutter/pull/193659) opened on on October 1, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/193659) 267 additions and 119 deletions in 4 files</sub><br />
 
 * **[Sai kamal](https://github.com/Dantusaikamal)** &mdash; Skip pending deferred overlay children during geometry operations<br />
   <sub>[#193673](https://github.com/flutter/flutter/pull/193673) opened on on October 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193673) 135 additions and 1 deletion in 2 files</sub><br />
@@ -388,4 +388,7 @@
 
 * **[agra](https://github.com/agrapine)** &mdash; [macOS] Don't make a text field's accessibility stand-in the field editor while an input method is composing<br />
   <sub>[#194220](https://github.com/flutter/flutter/pull/194220) opened on on October 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194220) 70 additions and 0 deletions in 3 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [flutter_tools] Stop output_web_test from hanging when flutter run fails<br />
+  <sub>[#194259](https://github.com/flutter/flutter/pull/194259) opened on on October 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194259) 14 additions and 5 deletions in 1 file</sub><br />
 

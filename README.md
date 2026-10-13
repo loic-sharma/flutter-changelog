@@ -4,11 +4,19 @@
 
 ### October 10, 2026 to October 16, 2026
 
-13 commits.
+16 commits.
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Scaffold view metrics overrides<br />
+  <sub>[#192764](https://github.com/flutter/flutter/pull/192764) merged on October 13, 2026 &mdash; **Extra large:** [33 comments](https://github.com/flutter/flutter/pull/192764) over 4 weeks, 1919 additions and 3 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Fix use-after-free of SurfaceControl.Transaction in HCPP<br />
   <sub>[#192969](https://github.com/flutter/flutter/pull/192969) merged on October 12, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/192969) over 3 weeks, 445 additions and 39 deletions in 15 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Add SemanticsRole.listBox and SemanticsRole.option<br />
+  <sub>[#192971](https://github.com/flutter/flutter/pull/192971) merged on October 13, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/192971) over 3 weeks, 308 additions and 11 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [AGP 9.1.0 Migration #8] Unify add-to-app module wiring on the variant API<br />
   <sub>[#193717](https://github.com/flutter/flutter/pull/193717) merged on October 12, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/193717) over 1 week, 387 additions and 366 deletions in 13 files</sub><br />
@@ -41,6 +49,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [flutter_tools] Include dev_dependencies hooks for release integration tests<br />
   <sub>[#193436](https://github.com/flutter/flutter/pull/193436) merged on October 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193436) over 2 weeks, 58 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Pin mac_unopt to macOS 15<br />
+  <sub>[#194254](https://github.com/flutter/flutter/pull/194254) merged on October 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194254) over 3 hours, 8 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove no-shuffle from text_field_test.dart<br />
   <sub>[#193550](https://github.com/flutter/flutter/pull/193550) merged on October 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193550) over 1 week, 1 addition and 6 deletions in 1 file</sub><br />
@@ -841,7 +853,7 @@
   <sub>[#12737](https://github.com/flutter/packages/pull/12737) merged on October 10, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/12737) over 1 month, 163 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[Ahmed Amine Es-Selmouni](https://github.com/ahamSel)** &mdash; [material_ui] Fix ExpansionTile WidgetSpan semantics assertion<br />
+* **[Ahmed Amine Es-Selmouni](https://github.com/ahamsel)** &mdash; [material_ui] Fix ExpansionTile WidgetSpan semantics assertion<br />
   <sub>[#12765](https://github.com/flutter/packages/pull/12765) merged on October 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/12765) over 1 month, 31 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
