@@ -810,7 +810,7 @@
 
 ### October 10, 2026 to October 16, 2026
 
-3 commits.
+4 commits.
 
 * **[Edwin Hollen](https://github.com/edwin-hollen)** &mdash; [vector_graphics_compiler] Support SVG alpha masks (mask-type="alpha")<br />
   <sub>[#13025](https://github.com/flutter/packages/pull/13025) merged on October 12, 2026 &mdash; **Medium:** [33 comments](https://github.com/flutter/packages/pull/13025) over 2 weeks, 303 additions and 11 deletions in 19 files</sub><br />
@@ -819,6 +819,10 @@
 * **[stuartmorgan-g](https://github.com/stuartmorgan-g)** &mdash; [google_sign_in] Convert unit tests to Kotlin<br />
   <sub>[#13000](https://github.com/flutter/packages/pull/13000) merged on October 12, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/packages/pull/13000) over 2 weeks, 1029 additions and 1293 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+
+* **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; [material_ui] Clarify Slider labels for continuous sliders<br />
+  <sub>[#13121](https://github.com/flutter/packages/pull/13121) merged on October 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/13121) over 1 week, 12 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [in_app_purchase_storekit] Remove availability checks below the package minimum iOS 13 and macOS 10.15<br />
   <sub>[#13217](https://github.com/flutter/packages/pull/13217) merged on October 12, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/13217) over 56 minutes, 42 additions and 65 deletions in 11 files</sub><br />
