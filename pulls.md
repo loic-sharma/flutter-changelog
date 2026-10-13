@@ -59,9 +59,6 @@
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Android] Match external texture cache size to BufferQueue capacity<br />
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/190710) 564 additions and 82 deletions in 13 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate RunCommand to modular dependency injection<br />
-  <sub>[#190791](https://github.com/flutter/flutter/pull/190791) opened on on August 8, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/190791) 490 additions and 129 deletions in 7 files</sub><br />
-
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -101,9 +98,6 @@
 * **[corci0x](https://github.com/corci0x)** &mdash; Reject glyph packer placements that don't fit in int16_t<br />
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
 
-* **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Fix Expansible crash when PageStorage holds a non-bool value<br />
-  <sub>[#192195](https://github.com/flutter/flutter/pull/192195) opened on on September 2, 2026 &mdash; **Medium:** [50 comments](https://github.com/flutter/flutter/pull/192195) 339 additions and 10 deletions in 7 files</sub><br />
-
 * **[Natan Dworok](https://github.com/dworik)** &mdash; [flutter_tools] Add --flavor to flutter attach<br />
   <sub>[#192262](https://github.com/flutter/flutter/pull/192262) opened on on September 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/192262) 49 additions and 0 deletions in 2 files</sub><br />
 
@@ -114,7 +108,7 @@
   <sub>[#192398](https://github.com/flutter/flutter/pull/192398) opened on on September 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/192398) 47 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Detect macOS TCC permission crashes and provide diagnostic guidance<br />
-  <sub>[#192432](https://github.com/flutter/flutter/pull/192432) opened on on September 8, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/192432) 369 additions and 3 deletions in 5 files</sub><br />
+  <sub>[#192432](https://github.com/flutter/flutter/pull/192432) opened on on September 8, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192432) 682 additions and 6 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Avoid stale mDNS cache across queries in MDnsVmServiceDiscovery<br />
   <sub>[#192437](https://github.com/flutter/flutter/pull/192437) opened on on September 8, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192437) 123 additions and 56 deletions in 3 files</sub><br />
@@ -260,9 +254,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Retry and handle ERROR_DIR_NOT_EMPTY on Windows<br />
   <sub>[#193620](https://github.com/flutter/flutter/pull/193620) opened on on October 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193620) 121 additions and 48 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate gradle_errors and deferred_components_prebuild_validator away from globals<br />
-  <sub>[#193649](https://github.com/flutter/flutter/pull/193649) opened on on October 1, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/193649) 1576 additions and 1453 deletions in 11 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate AndroidSdk and AndroidStudio away from globals<br />
   <sub>[#193650](https://github.com/flutter/flutter/pull/193650) opened on on October 1, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/193650) 2342 additions and 2050 deletions in 8 files</sub><br />
 
@@ -286,9 +277,6 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Link to MediaQuery.displayFeaturesOf from DisplayFeatures<br />
   <sub>[#193728](https://github.com/flutter/flutter/pull/193728) opened on on October 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193728) 6 additions and 2 deletions in 2 files</sub><br />
-
-* **[Rusino](https://github.com/Rusino)** &mdash; [web_paragraph] Honor TextHeightBehavior.leadingDistribution and default to proportional<br />
-  <sub>[#193736](https://github.com/flutter/flutter/pull/193736) opened on on October 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193736) 123 additions and 12 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Share FlutterProject metadata with tool extensions via ExtensionFlutterProject<br />
   <sub>[#193749](https://github.com/flutter/flutter/pull/193749) opened on on October 3, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/193749) 507 additions and 26 deletions in 9 files</sub><br />
