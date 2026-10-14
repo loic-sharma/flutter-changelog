@@ -56,6 +56,9 @@
 * **[FelixMittermeier](https://github.com/FelixMittermeier)** &mdash; [Android] Match external texture cache size to BufferQueue capacity<br />
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/190710) 564 additions and 82 deletions in 13 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Cache.flutterRoot static state to instance configuration<br />
+  <sub>[#190795](https://github.com/flutter/flutter/pull/190795) opened on on August 8, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/190795) 944 additions and 657 deletions in 142 files</sub><br />
+
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -252,7 +255,7 @@
   <sub>[#193620](https://github.com/flutter/flutter/pull/193620) opened on on October 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193620) 121 additions and 48 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate AndroidSdk and AndroidStudio away from globals<br />
-  <sub>[#193650](https://github.com/flutter/flutter/pull/193650) opened on on October 1, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/193650) 2378 additions and 2042 deletions in 8 files</sub><br />
+  <sub>[#193650](https://github.com/flutter/flutter/pull/193650) opened on on October 1, 2026 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/193650) 2378 additions and 2042 deletions in 8 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate iOS devices, simulators, emulators, and XCDevice away from globals<br />
   <sub>[#193651](https://github.com/flutter/flutter/pull/193651) opened on on October 1, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/193651) 1529 additions and 1364 deletions in 27 files</sub><br />
@@ -324,7 +327,7 @@
   <sub>[#194020](https://github.com/flutter/flutter/pull/194020) opened on on October 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194020) 65 additions and 5 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] parallelize opengles shader compiles<br />
-  <sub>[#194022](https://github.com/flutter/flutter/pull/194022) opened on on October 8, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/194022) 846 additions and 150 deletions in 6 files</sub><br />
+  <sub>[#194022](https://github.com/flutter/flutter/pull/194022) opened on on October 8, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/194022) 850 additions and 150 deletions in 6 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Compute engine content hash from HEAD and only fall back to merge-base on download failure<br />
   <sub>[#194029](https://github.com/flutter/flutter/pull/194029) opened on on October 8, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/194029) 736 additions and 194 deletions in 12 files</sub><br />
@@ -383,12 +386,18 @@
 * **[Rashadul Islam Himu](https://github.com/Arefin-Himu)** &mdash; Clarify PlatformException code, message, and details docs<br />
   <sub>[#194293](https://github.com/flutter/flutter/pull/194293) opened on on October 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194293) 13 additions and 3 deletions in 1 file</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Apply view metrics overrides below the framework<br />
+  <sub>[#194311](https://github.com/flutter/flutter/pull/194311) opened on on October 13, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/194311) 3356 additions and 32 deletions in 10 files</sub><br />
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): extract WebDebugConfig from DebuggingOptions<br />
-  <sub>[#194312](https://github.com/flutter/flutter/pull/194312) opened on on October 13, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194312) 359 additions and 253 deletions in 16 files</sub><br />
+  <sub>[#194312](https://github.com/flutter/flutter/pull/194312) opened on on October 13, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194312) 358 additions and 253 deletions in 16 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Add PageStorage.computeStorageKeys and use it in PageStorageBucket and Expansible<br />
   <sub>[#194315](https://github.com/flutter/flutter/pull/194315) opened on on October 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194315) 63 additions and 38 deletions in 3 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Bump `engine.version` for 3.50 beta release<br />
-  <sub>[#194327](https://github.com/flutter/flutter/pull/194327) opened on on October 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194327) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#194327](https://github.com/flutter/flutter/pull/194327) opened on on October 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194327) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Younes Beriane](https://github.com/drakeo338)** &mdash; Fix RenderListBody intrinsic heights swapping main and cross axis<br />
+  <sub>[#194336](https://github.com/flutter/flutter/pull/194336) opened on on October 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194336) 43 additions and 4 deletions in 2 files</sub><br />
 
