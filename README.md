@@ -4,7 +4,7 @@
 
 ### October 10, 2026 to October 16, 2026
 
-36 commits.
+37 commits.
 
 * **[linzj](https://github.com/linzj)** &mdash; Use PE/COFF AOT snapshots for Windows x64<br />
   <sub>[#187594](https://github.com/flutter/flutter/pull/187594) merged on October 13, 2026 &mdash; **Large:** [52 comments](https://github.com/flutter/flutter/pull/187594) over 4 months, 491 additions and 75 deletions in 18 files</sub><br />
@@ -47,21 +47,25 @@
   <sub>[#193717](https://github.com/flutter/flutter/pull/193717) merged on October 12, 2026 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/193717) over 1 week, 387 additions and 366 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate RunCommand to modular dependency injection<br />
-  <sub>[#190791](https://github.com/flutter/flutter/pull/190791) merged on October 13, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/190791) over 2 months, 426 additions and 129 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Lazily initialize AndroidStudio validation and optimize candidate selection<br />
+  <sub>[#191968](https://github.com/flutter/flutter/pull/191968) merged on October 13, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191968) over 1 month, 804 additions and 221 deletions in 20 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): introduce Test and Drive specification objects<br />
   <sub>[#194017](https://github.com/flutter/flutter/pull/194017) merged on October 13, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/194017) over 4 days, 916 additions and 763 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Lazily initialize AndroidStudio validation and optimize candidate selection<br />
-  <sub>[#191968](https://github.com/flutter/flutter/pull/191968) merged on October 13, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/191968) over 1 month, 804 additions and 221 deletions in 20 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate RunCommand to modular dependency injection<br />
+  <sub>[#190791](https://github.com/flutter/flutter/pull/190791) merged on October 13, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/190791) over 2 months, 426 additions and 129 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[walley892](https://github.com/walley892)** &mdash; Fix HDR image packing for ios<br />
   <sub>[#192526](https://github.com/flutter/flutter/pull/192526) merged on October 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/192526) over 1 month, 100 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): extract WebDebugConfig from DebuggingOptions<br />
+  <sub>[#194312](https://github.com/flutter/flutter/pull/194312) merged on October 14, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194312) over 11 hours, 358 additions and 253 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): extract AndroidGradleConfig and move toGradleConfig to AndroidBuildInfo<br />
   <sub>[#194016](https://github.com/flutter/flutter/pull/194016) merged on October 14, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/194016) over 5 days, 233 additions and 137 deletions in 7 files</sub><br />

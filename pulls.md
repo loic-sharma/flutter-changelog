@@ -384,20 +384,20 @@
   <sub>[#194286](https://github.com/flutter/flutter/pull/194286) opened on on October 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194286) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Rashadul Islam Himu](https://github.com/Arefin-Himu)** &mdash; Clarify PlatformException code, message, and details docs<br />
-  <sub>[#194293](https://github.com/flutter/flutter/pull/194293) opened on on October 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194293) 16 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#194293](https://github.com/flutter/flutter/pull/194293) opened on on October 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194293) 16 additions and 3 deletions in 1 file</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Apply view metrics overrides below the framework<br />
   <sub>[#194311](https://github.com/flutter/flutter/pull/194311) opened on on October 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/194311) 3357 additions and 32 deletions in 10 files</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; feat(flutter_tools): extract WebDebugConfig from DebuggingOptions<br />
-  <sub>[#194312](https://github.com/flutter/flutter/pull/194312) opened on on October 13, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194312) 358 additions and 253 deletions in 16 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Add PageStorage.computeStorageKeys and use it in PageStorageBucket and Expansible<br />
   <sub>[#194315](https://github.com/flutter/flutter/pull/194315) opened on on October 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194315) 63 additions and 38 deletions in 3 files</sub><br />
 
 * **[Younes Beriane](https://github.com/drakeo338)** &mdash; Fix RenderListBody intrinsic heights swapping main and cross axis<br />
-  <sub>[#194336](https://github.com/flutter/flutter/pull/194336) opened on on October 14, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194336) 43 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#194336](https://github.com/flutter/flutter/pull/194336) opened on on October 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194336) 73 additions and 4 deletions in 2 files</sub><br />
 
 * **[Manveer Singh](https://github.com/Manveer1999)** &mdash; [widget_inspector] Add withCreationLocations to getRootWidgetTree<br />
   <sub>[#194347](https://github.com/flutter/flutter/pull/194347) opened on on October 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194347) 113 additions and 6 deletions in 3 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; refactor(flutter_tools): migrate shared FlutterCommand options and bundles to OptionDescriptor<br />
+  <sub>[#194356](https://github.com/flutter/flutter/pull/194356) opened on on October 14, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/194356) 586 additions and 286 deletions in 4 files</sub><br />
 
