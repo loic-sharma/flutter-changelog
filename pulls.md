@@ -383,3 +383,6 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update the embedding to respect disabling HCPP<br />
   <sub>[#194402](https://github.com/flutter/flutter/pull/194402) opened on on October 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194402) 113 additions and 4 deletions in 3 files</sub><br />
 
+* **[Mingyun Chae](https://github.com/mg-mg-mg)** &mdash; [flutter_tools] Prevent Git repository environment re-inheritance<br />
+  <sub>[#194429](https://github.com/flutter/flutter/pull/194429) opened on on October 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194429) 112 additions and 5 deletions in 11 files</sub><br />
+
