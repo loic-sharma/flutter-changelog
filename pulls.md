@@ -332,8 +332,8 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] End each pass when the next command is recorded<br />
   <sub>[#194167](https://github.com/flutter/flutter/pull/194167) opened on on October 11, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194167) 639 additions and 14 deletions in 8 files</sub><br />
 
-* **[Ikki Nishihara](https://github.com/haranishi)** &mdash; fix: TreeSliverの連続開閉時の描画例外を修正 (exclude hidden node animations)<br />
-  <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194172) 171 additions and 2 deletions in 2 files</sub><br />
+* **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix TreeSliver painting during rapid toggles<br />
+  <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194172) 163 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; fix: RouterConfig使用時の戻る操作を修正 (default back button dispatcher)<br />
   <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194173) 119 additions and 10 deletions in 2 files</sub><br />
@@ -363,7 +363,7 @@
   <sub>[#194311](https://github.com/flutter/flutter/pull/194311) opened on on October 13, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/194311) 3357 additions and 32 deletions in 10 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Add PageStorage.computeStorageKeys and use it in PageStorageBucket and Expansible<br />
-  <sub>[#194315](https://github.com/flutter/flutter/pull/194315) opened on on October 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194315) 63 additions and 38 deletions in 3 files</sub><br />
+  <sub>[#194315](https://github.com/flutter/flutter/pull/194315) opened on on October 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194315) 63 additions and 38 deletions in 3 files</sub><br />
 
 * **[Younes Beriane](https://github.com/drakeo338)** &mdash; Fix RenderListBody intrinsic heights swapping main and cross axis<br />
   <sub>[#194336](https://github.com/flutter/flutter/pull/194336) opened on on October 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194336) 73 additions and 4 deletions in 2 files</sub><br />
@@ -371,8 +371,8 @@
 * **[Manveer Singh](https://github.com/Manveer1999)** &mdash; [widget_inspector] Add withCreationLocations to getRootWidgetTree<br />
   <sub>[#194347](https://github.com/flutter/flutter/pull/194347) opened on on October 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194347) 113 additions and 6 deletions in 3 files</sub><br />
 
-* **[dkbharti-glitch](https://github.com/dkbharti-glitch)** &mdash; docs: clarify programmatic clearing for DropdownMenu and add code sample<br />
-  <sub>[#194382](https://github.com/flutter/flutter/pull/194382) opened on on October 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194382) 187 additions and 3 deletions in 3 files</sub><br />
+* **[Hurman Iqbal](https://github.com/hurman74)** &mdash; Improve the error when a DraggableScrollableController is attached to more than one sheet<br />
+  <sub>[#194363](https://github.com/flutter/flutter/pull/194363) opened on on October 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194363) 131 additions and 4 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Implement Satellite window<br />
   <sub>[#194390](https://github.com/flutter/flutter/pull/194390) opened on on October 14, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/194390) 629 additions and 5 deletions in 5 files</sub><br />
@@ -385,4 +385,7 @@
 
 * **[Mingyun Chae](https://github.com/mg-mg-mg)** &mdash; [flutter_tools] Prevent Git repository environment re-inheritance<br />
   <sub>[#194429](https://github.com/flutter/flutter/pull/194429) opened on on October 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194429) 112 additions and 5 deletions in 11 files</sub><br />
+
+* **[冰水泡枸杞](https://github.com/xingzihai)** &mdash; Fix FocusNode.ancestors returning a stale list after the node is detached<br />
+  <sub>[#194440](https://github.com/flutter/flutter/pull/194440) opened on on October 15, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194440) 22 additions and 0 deletions in 2 files</sub><br />
 
