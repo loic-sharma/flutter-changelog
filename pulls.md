@@ -162,7 +162,7 @@
   <sub>[#193277](https://github.com/flutter/flutter/pull/193277) opened on on September 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193277) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ayodele Ayoola](https://github.com/CreedTech)** &mdash; Make RawScrollbar respect pointer axis modifiers<br />
-  <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/193290) 114 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/193290) 114 additions and 8 deletions in 2 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] Updated `targetSdk` to 37<br />
   <sub>[#193308](https://github.com/flutter/flutter/pull/193308) opened on on September 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193308) 1 addition and 1 deletion in 1 file</sub><br />
@@ -210,7 +210,7 @@
   <sub>[#193533](https://github.com/flutter/flutter/pull/193533) opened on on September 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193533) 100 additions and 20 deletions in 4 files</sub><br />
 
 * **[赤坂理子](https://github.com/akasakariko)** &mdash; Allow AnimationController to silence unobserved value updates<br />
-  <sub>[#193567](https://github.com/flutter/flutter/pull/193567) opened on on September 30, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/193567) 496 additions and 13 deletions in 5 files</sub><br />
+  <sub>[#193567](https://github.com/flutter/flutter/pull/193567) opened on on September 30, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/193567) 496 additions and 13 deletions in 5 files</sub><br />
 
 * **[DevNexGen](https://github.com/XDevNexGen)** &mdash; [engine] Release the Skia OpenGL resource context on shutdown<br />
   <sub>[#193592](https://github.com/flutter/flutter/pull/193592) opened on on September 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193592) 77 additions and 0 deletions in 3 files</sub><br />
@@ -303,7 +303,7 @@
   <sub>[#194133](https://github.com/flutter/flutter/pull/194133) opened on on October 10, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/194133) 437 additions and 36 deletions in 7 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [skwasm] Implement Wasm worker futex semaphores<br />
-  <sub>[#194139](https://github.com/flutter/flutter/pull/194139) opened on on October 10, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/194139) 159 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#194139](https://github.com/flutter/flutter/pull/194139) opened on on October 10, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/194139) 232 additions and 0 deletions in 4 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] End each pass when the next command is recorded<br />
   <sub>[#194167](https://github.com/flutter/flutter/pull/194167) opened on on October 11, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194167) 639 additions and 14 deletions in 8 files</sub><br />
@@ -350,9 +350,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Implement Satellite window<br />
   <sub>[#194390](https://github.com/flutter/flutter/pull/194390) opened on on October 14, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/194390) 629 additions and 5 deletions in 5 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't remove the a11y placeholder mid-gesture when semantics turns on<br />
-  <sub>[#194393](https://github.com/flutter/flutter/pull/194393) opened on on October 14, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194393) 105 additions and 12 deletions in 5 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Make resize and render atomic on the shared offscreen surface<br />
   <sub>[#194401](https://github.com/flutter/flutter/pull/194401) opened on on October 14, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/194401) 456 additions and 42 deletions in 14 files</sub><br />
 
@@ -371,9 +368,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Migrate Mac mac_unopt to macOS 26<br />
   <sub>[#194461](https://github.com/flutter/flutter/pull/194461) opened on on October 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194461) 8 additions and 8 deletions in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Wait for UI isolate PauseStart on start-paused tests<br />
-  <sub>[#194465](https://github.com/flutter/flutter/pull/194465) opened on on October 15, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/194465) 398 additions and 13 deletions in 6 files</sub><br />
-
 * **[maitycyrus](https://github.com/maitycyrus)** &mdash; Add animationBehavior to ImplicitlyAnimatedWidget<br />
   <sub>[#194468](https://github.com/flutter/flutter/pull/194468) opened on on October 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194468) 119 additions and 0 deletions in 3 files</sub><br />
 
@@ -381,7 +375,7 @@
   <sub>[#194480](https://github.com/flutter/flutter/pull/194480) opened on on October 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194480) 46 additions and 4 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller:gles] fixes early calls to flatten scenes<br />
-  <sub>[#194506](https://github.com/flutter/flutter/pull/194506) opened on on October 15, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/194506) 589 additions and 77 deletions in 15 files</sub><br />
+  <sub>[#194506](https://github.com/flutter/flutter/pull/194506) opened on on October 15, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/194506) 637 additions and 77 deletions in 17 files</sub><br />
 
 * **[Younes Beriane](https://github.com/drakeo338)** &mdash; Interpolate and compare eccentricity in lerped CircleBorder shapes<br />
   <sub>[#194516](https://github.com/flutter/flutter/pull/194516) opened on on October 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194516) 75 additions and 10 deletions in 5 files</sub><br />
@@ -402,7 +396,7 @@
   <sub>[#194557](https://github.com/flutter/flutter/pull/194557) opened on on October 16, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/194557) 51 additions and 9 deletions in 3 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [engine] Enable cppcoreguidelines-pro-type-member-init clang-tidy check<br />
-  <sub>[#194576](https://github.com/flutter/flutter/pull/194576) opened on on October 16, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/194576) 269 additions and 233 deletions in 121 files</sub><br />
+  <sub>[#194576](https://github.com/flutter/flutter/pull/194576) opened on on October 16, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/194576) 269 additions and 233 deletions in 121 files</sub><br />
 
 * **[Christophy Barth](https://github.com/ChristophyBarth)** &mdash; [web] Expose mixed tristate checkboxes as aria-checked="mixed"<br />
   <sub>[#194586](https://github.com/flutter/flutter/pull/194586) opened on on October 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194586) 39 additions and 8 deletions in 2 files</sub><br />
@@ -414,5 +408,5 @@
   <sub>[#194592](https://github.com/flutter/flutter/pull/194592) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194592) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[bardia](https://github.com/bardiakz)** &mdash; [web] Anchor platform view slots to top-left to fix RTL document layout<br />
-  <sub>[#194601](https://github.com/flutter/flutter/pull/194601) opened on on October 16, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194601) 143 additions and 4 deletions in 7 files</sub><br />
+  <sub>[#194601](https://github.com/flutter/flutter/pull/194601) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194601) 142 additions and 4 deletions in 7 files</sub><br />
 
