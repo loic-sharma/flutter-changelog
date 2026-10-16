@@ -110,9 +110,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Ensure no extraction conflicts and unpack all Dart SDK archive artifacts<br />
   <sub>[#192447](https://github.com/flutter/flutter/pull/192447) opened on on September 8, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/192447) 334 additions and 29 deletions in 3 files</sub><br />
 
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] Use DFS traversal to find engines of a scene automatically (rather than manually manage the engines list)<br />
-  <sub>[#192457](https://github.com/flutter/flutter/pull/192457) opened on on September 9, 2026 &mdash; **Extra large:** [48 comments](https://github.com/flutter/flutter/pull/192457) 1112 additions and 834 deletions in 23 files</sub><br />
-
 * **[Dmitrii Zolotov](https://github.com/dzolotov)** &mdash; [Impeller] Key the Vulkan framebuffer cache on the whole attachment set<br />
   <sub>[#192539](https://github.com/flutter/flutter/pull/192539) opened on on September 10, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/192539) 684 additions and 109 deletions in 12 files</sub><br />
 
@@ -305,6 +302,9 @@
 * **[f(x)](https://github.com/fxsoulmate)** &mdash; Add an inset flag to BoxShadow<br />
   <sub>[#194133](https://github.com/flutter/flutter/pull/194133) opened on on October 10, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/194133) 437 additions and 36 deletions in 7 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [skwasm] Implement Wasm worker futex semaphores<br />
+  <sub>[#194139](https://github.com/flutter/flutter/pull/194139) opened on on October 10, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194139) 144 additions and 0 deletions in 3 files</sub><br />
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] End each pass when the next command is recorded<br />
   <sub>[#194167](https://github.com/flutter/flutter/pull/194167) opened on on October 11, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194167) 639 additions and 14 deletions in 8 files</sub><br />
 
@@ -391,4 +391,10 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't terminate the shared EGL display when an engine is disposed<br />
   <sub>[#194520](https://github.com/flutter/flutter/pull/194520) opened on on October 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194520) 57 additions and 1 deletion in 3 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix use-after-free of FlTaskRunner timeout on shutdown<br />
+  <sub>[#194525](https://github.com/flutter/flutter/pull/194525) opened on on October 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194525) 135 additions and 23 deletions in 2 files</sub><br />
+
+* **[Brandon Dick](https://github.com/brandonp2412)** &mdash; Add --no-uninstall to flutter run for Android<br />
+  <sub>[#194531](https://github.com/flutter/flutter/pull/194531) opened on on October 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194531) 69 additions and 0 deletions in 4 files</sub><br />
 
