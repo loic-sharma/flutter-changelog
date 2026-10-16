@@ -383,3 +383,12 @@
 * **[surya_kommana](https://github.com/suryaKommana2662)** &mdash; Fix gap flipping when dragging variable height reorderable items<br />
   <sub>[#194478](https://github.com/flutter/flutter/pull/194478) opened on on October 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194478) 108 additions and 14 deletions in 2 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller:gles] fixes early calls to flatten scenes<br />
+  <sub>[#194506](https://github.com/flutter/flutter/pull/194506) opened on on October 15, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/194506) 589 additions and 77 deletions in 15 files</sub><br />
+
+* **[Younes Beriane](https://github.com/drakeo338)** &mdash; Interpolate and compare eccentricity in lerped CircleBorder shapes<br />
+  <sub>[#194516](https://github.com/flutter/flutter/pull/194516) opened on on October 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194516) 75 additions and 10 deletions in 5 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't terminate the shared EGL display when an engine is disposed<br />
+  <sub>[#194520](https://github.com/flutter/flutter/pull/194520) opened on on October 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194520) 57 additions and 1 deletion in 3 files</sub><br />
+
