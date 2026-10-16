@@ -57,7 +57,7 @@
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/190710) 564 additions and 82 deletions in 13 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Cache.flutterRoot static state to instance configuration<br />
-  <sub>[#190795](https://github.com/flutter/flutter/pull/190795) opened on on August 8, 2026 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/190795) 1752 additions and 1034 deletions in 184 files</sub><br />
+  <sub>[#190795](https://github.com/flutter/flutter/pull/190795) opened on on August 8, 2026 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/190795) 2531 additions and 2061 deletions in 188 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
@@ -222,7 +222,7 @@
   <sub>[#193651](https://github.com/flutter/flutter/pull/193651) opened on on October 1, 2026 &mdash; **Extra large:** [22 comments](https://github.com/flutter/flutter/pull/193651) 1724 additions and 1597 deletions in 29 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals from macOS build, migration, and Xcode project<br />
-  <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/193652) 1115 additions and 1156 deletions in 27 files</sub><br />
+  <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/193652) 1199 additions and 1250 deletions in 27 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals usage from artifacts.dart<br />
   <sub>[#193654](https://github.com/flutter/flutter/pull/193654) opened on on October 1, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/193654) 206 additions and 168 deletions in 7 files</sub><br />
@@ -380,8 +380,8 @@
 * **[maitycyrus](https://github.com/maitycyrus)** &mdash; Add animationBehavior to ImplicitlyAnimatedWidget<br />
   <sub>[#194468](https://github.com/flutter/flutter/pull/194468) opened on on October 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194468) 119 additions and 0 deletions in 3 files</sub><br />
 
-* **[surya_kommana](https://github.com/suryaKommana2662)** &mdash; Fix gap flipping when dragging variable height reorderable items<br />
-  <sub>[#194478](https://github.com/flutter/flutter/pull/194478) opened on on October 15, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194478) 108 additions and 14 deletions in 2 files</sub><br />
+* **[Awais Ur Rehman](https://github.com/awaisdev5765)** &mdash; Support multi-view apps in widget test binding<br />
+  <sub>[#194480](https://github.com/flutter/flutter/pull/194480) opened on on October 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194480) 46 additions and 4 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller:gles] fixes early calls to flatten scenes<br />
   <sub>[#194506](https://github.com/flutter/flutter/pull/194506) opened on on October 15, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/194506) 589 additions and 77 deletions in 15 files</sub><br />
@@ -397,4 +397,7 @@
 
 * **[Brandon Dick](https://github.com/brandonp2412)** &mdash; Add --no-uninstall to flutter run for Android<br />
   <sub>[#194531](https://github.com/flutter/flutter/pull/194531) opened on on October 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194531) 69 additions and 0 deletions in 4 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Log --[no-]deprecated-js-interop build/fail analytics<br />
+  <sub>[#194535](https://github.com/flutter/flutter/pull/194535) opened on on October 16, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/194535) 407 additions and 9 deletions in 7 files</sub><br />
 
