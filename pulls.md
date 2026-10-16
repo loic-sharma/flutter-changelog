@@ -401,3 +401,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Log --[no-]deprecated-js-interop build/fail analytics<br />
   <sub>[#194535](https://github.com/flutter/flutter/pull/194535) opened on on October 16, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/194535) 407 additions and 9 deletions in 7 files</sub><br />
 
+* **[Luis Cardoza Bird](https://github.com/Crdzbird)** &mdash; Skip semantics configuration on attach when semantics is off<br />
+  <sub>[#194557](https://github.com/flutter/flutter/pull/194557) opened on on October 16, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/194557) 51 additions and 9 deletions in 3 files</sub><br />
+
