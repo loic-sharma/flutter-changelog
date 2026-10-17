@@ -231,7 +231,7 @@
   <sub>[#193659](https://github.com/flutter/flutter/pull/193659) opened on on October 1, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/193659) 267 additions and 119 deletions in 4 files</sub><br />
 
 * **[Sai kamal](https://github.com/Dantusaikamal)** &mdash; Skip pending deferred overlay children during geometry operations<br />
-  <sub>[#193673](https://github.com/flutter/flutter/pull/193673) opened on on October 1, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193673) 135 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#193673](https://github.com/flutter/flutter/pull/193673) opened on on October 1, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/193673) 135 additions and 1 deletion in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add wiki page on capturing Flutter startup traces on Android with Perfetto<br />
   <sub>[#193679](https://github.com/flutter/flutter/pull/193679) opened on on October 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193679) 96 additions and 1 deletion in 3 files</sub><br />
@@ -302,9 +302,6 @@
 * **[f(x)](https://github.com/fxsoulmate)** &mdash; Add an inset flag to BoxShadow<br />
   <sub>[#194133](https://github.com/flutter/flutter/pull/194133) opened on on October 10, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/194133) 437 additions and 36 deletions in 7 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [skwasm] Implement Wasm worker futex semaphores<br />
-  <sub>[#194139](https://github.com/flutter/flutter/pull/194139) opened on on October 10, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/194139) 232 additions and 0 deletions in 4 files</sub><br />
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] End each pass when the next command is recorded<br />
   <sub>[#194167](https://github.com/flutter/flutter/pull/194167) opened on on October 11, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194167) 639 additions and 14 deletions in 8 files</sub><br />
 
@@ -374,9 +371,6 @@
 * **[Awais Ur Rehman](https://github.com/awaisdev5765)** &mdash; Support multi-view apps in widget test binding<br />
   <sub>[#194480](https://github.com/flutter/flutter/pull/194480) opened on on October 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194480) 46 additions and 4 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller:gles] fixes early calls to flatten scenes<br />
-  <sub>[#194506](https://github.com/flutter/flutter/pull/194506) opened on on October 15, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/194506) 637 additions and 77 deletions in 17 files</sub><br />
-
 * **[Younes Beriane](https://github.com/drakeo338)** &mdash; Interpolate and compare eccentricity in lerped CircleBorder shapes<br />
   <sub>[#194516](https://github.com/flutter/flutter/pull/194516) opened on on October 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194516) 75 additions and 10 deletions in 5 files</sub><br />
 
@@ -395,9 +389,6 @@
 * **[Luis Cardoza Bird](https://github.com/Crdzbird)** &mdash; Skip semantics configuration on attach when semantics is off<br />
   <sub>[#194557](https://github.com/flutter/flutter/pull/194557) opened on on October 16, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/194557) 51 additions and 9 deletions in 3 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [engine] Enable cppcoreguidelines-pro-type-member-init clang-tidy check<br />
-  <sub>[#194576](https://github.com/flutter/flutter/pull/194576) opened on on October 16, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/194576) 269 additions and 233 deletions in 121 files</sub><br />
-
 * **[Christophy Barth](https://github.com/ChristophyBarth)** &mdash; [web] Expose mixed tristate checkboxes as aria-checked="mixed"<br />
   <sub>[#194586](https://github.com/flutter/flutter/pull/194586) opened on on October 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194586) 39 additions and 8 deletions in 2 files</sub><br />
 
@@ -409,4 +400,10 @@
 
 * **[bardia](https://github.com/bardiakz)** &mdash; [web] Anchor platform view slots to top-left to fix RTL document layout<br />
   <sub>[#194601](https://github.com/flutter/flutter/pull/194601) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194601) 142 additions and 4 deletions in 7 files</sub><br />
+
+* **[Mahady Hasan](https://github.com/mahadydev)** &mdash; Fix typos in doc comments<br />
+  <sub>[#194611](https://github.com/flutter/flutter/pull/194611) opened on on October 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194611) 2 additions and 2 deletions in 2 files</sub><br />
+
+* **[Mohammed Al-Samarraie](https://github.com/mohamedalsamrai)** &mdash; [engine] Honor targetWidth/targetHeight for animated images<br />
+  <sub>[#194615](https://github.com/flutter/flutter/pull/194615) opened on on October 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194615) 227 additions and 20 deletions in 4 files</sub><br />
 
