@@ -428,3 +428,6 @@
 * **[Sankalp Thakur](https://github.com/sankalpsthakur)** &mdash; Remove the remaining `X-UA-Compatible` meta tags<br />
   <sub>[#194687](https://github.com/flutter/flutter/pull/194687) opened on on October 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194687) 0 additions and 4 deletions in 4 files</sub><br />
 
+* **[Littlegnal](https://github.com/littleGnAl)** &mdash; [android] Allow `FlutterEngineGroup` to spawn engines when `kMergeAfterLaunch` is enabled<br />
+  <sub>[#194694](https://github.com/flutter/flutter/pull/194694) opened on on October 18, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/194694) 606 additions and 24 deletions in 13 files</sub><br />
+
