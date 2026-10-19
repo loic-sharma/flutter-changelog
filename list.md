@@ -4,11 +4,35 @@
 
 ### October 17, 2026 to October 23, 2026
 
-1 commits.
+7 commits.
+
+* **[Caroline Liu](https://github.com/caroqliu)** &mdash; [fuchsia] Implement per-app touch gesture-response policy and tests when intercept_all_input is false
+  <sub>[#193912](https://github.com/flutter/flutter/pull/193912) merged on October 19, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/193912) over 1 week, 1512 additions and 53 deletions in 13 files</sub>
+  <sub>Reviewed by: [巢鹏](https://github.com/chaopeng), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jonny Wang](https://github.com/jrwang)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add web benchmark baseline comparison, ANSI summary table, and structured JSON helpers
+  <sub>[#194609](https://github.com/flutter/flutter/pull/194609) merged on October 19, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/194609) over 2 days, 329 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Use local Flutter/FlutterMacOS podspecs to validate plugin podspecs
+  <sub>[#194604](https://github.com/flutter/flutter/pull/194604) merged on October 19, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194604) over 2 days, 110 additions and 15 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Clear HTMLImageElement.src when WebImageInfo and ImgElementPlatformView are disposed
+  <sub>[#193408](https://github.com/flutter/flutter/pull/193408) merged on October 19, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/193408) over 3 weeks, 284 additions and 17 deletions in 3 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [macOS] Fix FlutterTextInputPluginTest crash
+  <sub>[#194581](https://github.com/flutter/flutter/pull/194581) merged on October 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194581) over 2 days, 11 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Sarah Zakarias](https://github.com/szakarias)** &mdash; Fix doc comment references that need prefixed doc imports
   <sub>[#193906](https://github.com/flutter/flutter/pull/193906) merged on October 19, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/193906) over 1 week, 20 additions and 0 deletions in 12 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Update windows_engine_integration_golden_test_feature_level_10_0 test to be non-bringup
+  <sub>[#194767](https://github.com/flutter/flutter/pull/194767) merged on October 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194767) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 ### October 10, 2026 to October 16, 2026
 
@@ -93,7 +117,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] parallelize opengles shader compiles
-  <sub>[#194022](https://github.com/flutter/flutter/pull/194022) merged on October 15, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/194022) over 6 days, 898 additions and 152 deletions in 6 files</sub>
+  <sub>[#194022](https://github.com/flutter/flutter/pull/194022) merged on October 15, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/194022) over 6 days, 898 additions and 152 deletions in 6 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Web Benchmarks Part 2: Benchmark Targeting & Fail-Fast Filtering
@@ -695,9 +719,30 @@
 
 ## flutter/packages
 
+### October 17, 2026 to October 23, 2026
+
+4 commits.
+
+* **[Karim Belkacem](https://github.com/DL3KB)** &mdash; [in_app_purchase_android] Update to Play Billing Library 9.1.0
+  <sub>[#12781](https://github.com/flutter/packages/pull/12781) merged on October 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/12781) over 1 month, 36 additions and 6 deletions in 6 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [material_ui] Fixes SearchAnchor and SearchBar semantics
+  <sub>[#12680](https://github.com/flutter/packages/pull/12680) merged on October 19, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/12680) over 1 month, 211 additions and 4 deletions in 7 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [material_ui] Unskip web tests that pass on CanvasKit and Skwasm: color_scheme_test, elevated_button_test, filled_button_test, icon_button_test
+  <sub>[#13327](https://github.com/flutter/packages/pull/13327) merged on October 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/13327) over 2 hours, 122 additions and 134 deletions in 4 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [webview_flutter_wkwebview] Require iOS 15 / macOS 12 and drop deprecated SecTrustGetCertificateAtIndex code path
+  <sub>[#13294](https://github.com/flutter/packages/pull/13294) merged on October 19, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/13294) over 2 days, 47 additions and 134 deletions in 20 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### October 10, 2026 to October 16, 2026
 
-56 commits.
+<details>
+<summary>56 commits...</summary>
 
 * **[Kravchenko Igor](https://github.com/Gorniv)** &mdash; [go_router] Fix shell route key collisions and dynamic branch updates
   <sub>[#12549](https://github.com/flutter/packages/pull/12549) merged on October 14, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/packages/pull/12549) over 1 month, 1315 additions and 68 deletions in 9 files</sub>
@@ -925,6 +970,8 @@
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [image_picker_ios] Require Flutter 3.47 / iOS 15 and drop deprecated kUTType code paths
   <sub>[#13224](https://github.com/flutter/packages/pull/13224) merged on October 14, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/13224) over 1 day, 28 additions and 25 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
+
+</details>
 
 ### October 3, 2026 to October 9, 2026
 
