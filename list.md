@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### October 17, 2026 to October 23, 2026
+
+1 commits.
+
+* **[Sarah Zakarias](https://github.com/szakarias)** &mdash; Fix doc comment references that need prefixed doc imports
+  <sub>[#193906](https://github.com/flutter/flutter/pull/193906) merged on October 19, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/193906) over 1 week, 20 additions and 0 deletions in 12 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Justin McCandless](https://github.com/justinmc), [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai)</sub>
+
 ### October 10, 2026 to October 16, 2026
 
-90 commits.
+<details>
+<summary>90 commits...</summary>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] Use DFS traversal to find engines of a scene automatically (rather than manually manage the engines list)
   <sub>[#192457](https://github.com/flutter/flutter/pull/192457) merged on October 16, 2026 &mdash; **Extra large:** [48 comments](https://github.com/flutter/flutter/pull/192457) over 1 month, 1112 additions and 834 deletions in 23 files</sub>
@@ -366,6 +375,8 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [master] Update Flutter DEPS to Dart 5933cb486b4aef2f8cf6b9f89a5651c0d5b0955e
   <sub>[#193982](https://github.com/flutter/flutter/pull/193982) merged on October 12, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/193982) over 4 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [Justin McCandless](https://github.com/justinmc), [Zachary Anderson](https://github.com/zanderso), [Alexander Thomas](https://github.com/athomas), [Camille Simon](https://github.com/camsim99), and [2 others](https://github.com/flutter/flutter/pull/193982)</sub>
+
+</details>
 
 ### October 3, 2026 to October 9, 2026
 
