@@ -431,3 +431,6 @@
 * **[Littlegnal](https://github.com/littleGnAl)** &mdash; [android] Allow `FlutterEngineGroup` to spawn engines when `kMergeAfterLaunch` is enabled<br />
   <sub>[#194694](https://github.com/flutter/flutter/pull/194694) opened on on October 18, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/194694) 606 additions and 24 deletions in 13 files</sub><br />
 
+* **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Don't keep a scroll hold that user code already disposed<br />
+  <sub>[#194712](https://github.com/flutter/flutter/pull/194712) opened on on October 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194712) 70 additions and 1 deletion in 2 files</sub><br />
+
