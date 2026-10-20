@@ -24,7 +24,7 @@
   <sub>[#187730](https://github.com/flutter/flutter/pull/187730) opened on on June 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/187730) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [Tool] Add robust SDK cache integrity validation and recovery<br />
-  <sub>[#188455](https://github.com/flutter/flutter/pull/188455) opened on on June 23, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188455) 493 additions and 25 deletions in 3 files</sub><br />
+  <sub>[#188455](https://github.com/flutter/flutter/pull/188455) opened on on June 23, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/188455) 620 additions and 22 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; Add opt-in Skwasm multi-surface rasterizer<br />
   <sub>[#188628](https://github.com/flutter/flutter/pull/188628) opened on on June 26, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/188628) 2313 additions and 134 deletions in 29 files</sub><br />
@@ -156,7 +156,7 @@
   <sub>[#193277](https://github.com/flutter/flutter/pull/193277) opened on on September 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193277) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ayodele Ayoola](https://github.com/CreedTech)** &mdash; Make RawScrollbar respect pointer axis modifiers<br />
-  <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/193290) 114 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/193290) 198 additions and 8 deletions in 3 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] Updated `targetSdk` to 37<br />
   <sub>[#193308](https://github.com/flutter/flutter/pull/193308) opened on on September 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193308) 1 addition and 1 deletion in 1 file</sub><br />
@@ -426,13 +426,10 @@
   <sub>[#194738](https://github.com/flutter/flutter/pull/194738) opened on on October 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194738) 1041 additions and 0 deletions in 11 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Unify `ui.Paragraph` and text styles between CanvasKit and Skwasm<br />
-  <sub>[#194748](https://github.com/flutter/flutter/pull/194748) opened on on October 19, 2026 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/194748) 1647 additions and 2361 deletions in 17 files</sub><br />
+  <sub>[#194748](https://github.com/flutter/flutter/pull/194748) opened on on October 19, 2026 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/194748) 1585 additions and 2391 deletions in 17 files</sub><br />
 
 * **[M0N7Y5](https://github.com/M0n7y5)** &mdash; [Android] Log why Impeller falls back to OpenGLES<br />
   <sub>[#194764](https://github.com/flutter/flutter/pull/194764) opened on on October 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194764) 22 additions and 4 deletions in 2 files</sub><br />
-
-* **[Alexis Cruz-Ayala](https://github.com/alexiscruzdavid)** &mdash; [SkRecorder] Remove remaining uses of SkCPURecorder.h<br />
-  <sub>[#194765](https://github.com/flutter/flutter/pull/194765) opened on on October 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194765) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[M0N7Y5](https://github.com/M0n7y5)** &mdash; [Impeller] Reuse render targets on text shadow cache misses<br />
   <sub>[#194769](https://github.com/flutter/flutter/pull/194769) opened on on October 19, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/194769) 341 additions and 21 deletions in 7 files</sub><br />
@@ -446,8 +443,14 @@
 * **[Sasha Denisov](https://github.com/DenisovAV)** &mdash; [native_assets] Keep a dylib's install name in flutter test when its path does not fit<br />
   <sub>[#194802](https://github.com/flutter/flutter/pull/194802) opened on on October 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194802) 537 additions and 19 deletions in 7 files</sub><br />
 
+* **[Dmytro Popov](https://github.com/mitryp)** &mdash; [gen_l10n] Add `use-explicit-plural-values` option<br />
+  <sub>[#194816](https://github.com/flutter/flutter/pull/194816) opened on on October 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194816) 294 additions and 4 deletions in 6 files</sub><br />
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [SelectableRegion] Keep a focused descendant's focus on a tap outside (web), and dismiss the selection when an editable descendant takes the focus (all)<br />
   <sub>[#194826](https://github.com/flutter/flutter/pull/194826) opened on on October 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194826) 291 additions and 3 deletions in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [gles] Gates enabling parallel shader compilation by the presence of the extension<br />
+  <sub>[#194830](https://github.com/flutter/flutter/pull/194830) opened on on October 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194830) 180 additions and 2 deletions in 6 files</sub><br />
 
 * **[Lee](https://github.com/nezoat)** &mdash; Ignore LayoutBuilder rebuild requests after it is unmounted<br />
   <sub>[#194835](https://github.com/flutter/flutter/pull/194835) opened on on October 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194835) 78 additions and 1 deletion in 2 files</sub><br />
@@ -456,5 +459,23 @@
   <sub>[#194841](https://github.com/flutter/flutter/pull/194841) opened on on October 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194841) 141 additions and 0 deletions in 6 files</sub><br />
 
 * **[Kyrylo K.](https://github.com/krll-kov)** &mdash; Add --windows-aot-format to optionally build Windows x64 AOT snapshots as ELF again instead of PE/COFF<br />
-  <sub>[#194854](https://github.com/flutter/flutter/pull/194854) opened on on October 20, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/194854) 384 additions and 35 deletions in 15 files</sub><br />
+  <sub>[#194854](https://github.com/flutter/flutter/pull/194854) opened on on October 20, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/194854) 388 additions and 37 deletions in 15 files</sub><br />
+
+* **[YeungKC](https://github.com/YeungKC)** &mdash; Allow zero cross axis extent in SliverGridDelegateWithMaxCrossAxisExtent<br />
+  <sub>[#194858](https://github.com/flutter/flutter/pull/194858) opened on on October 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194858) 24 additions and 1 deletion in 2 files</sub><br />
+
+* **[YeungKC](https://github.com/YeungKC)** &mdash; Fix ListWheelScrollView null check error when it reads itemIndex before content dimensions are set<br />
+  <sub>[#194859](https://github.com/flutter/flutter/pull/194859) opened on on October 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194859) 60 additions and 0 deletions in 2 files</sub><br />
+
+* **[YeungKC](https://github.com/YeungKC)** &mdash; Use reverseDuration for the AnimatedCrossFade size animation<br />
+  <sub>[#194860](https://github.com/flutter/flutter/pull/194860) opened on on October 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194860) 67 additions and 2 deletions in 2 files</sub><br />
+
+* **[YeungKC](https://github.com/YeungKC)** &mdash; Call onLongPressCancel when another recognizer wins the arena<br />
+  <sub>[#194861](https://github.com/flutter/flutter/pull/194861) opened on on October 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194861) 93 additions and 4 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Exit cleanly when Windows path exceeds MAX_PATH (OS Error 206)<br />
+  <sub>[#194867](https://github.com/flutter/flutter/pull/194867) opened on on October 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194867) 99 additions and 0 deletions in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix `text_field_test.dart` on web and trim `kWebTestFileKnownFailures`<br />
+  <sub>[#194877](https://github.com/flutter/flutter/pull/194877) opened on on October 20, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194877) 81 additions and 98 deletions in 2 files</sub><br />
 
