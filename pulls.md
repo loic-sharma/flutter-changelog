@@ -396,7 +396,7 @@
   <sub>[#194650](https://github.com/flutter/flutter/pull/194650) opened on on October 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194650) 83 additions and 3 deletions in 2 files</sub><br />
 
 * **[YeungKC](https://github.com/YeungKC)** &mdash; Do not derive a decode size of 0 for very thin images<br />
-  <sub>[#194669](https://github.com/flutter/flutter/pull/194669) opened on on October 18, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194669) 97 additions and 7 deletions in 6 files</sub><br />
+  <sub>[#194669](https://github.com/flutter/flutter/pull/194669) opened on on October 18, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194669) 107 additions and 10 deletions in 6 files</sub><br />
 
 * **[Prasad  Navale](https://github.com/prasad2512)** &mdash; Refresh MediaQuery.alwaysUse24HourFormat when platform configuration changes<br />
   <sub>[#194670](https://github.com/flutter/flutter/pull/194670) opened on on October 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194670) 98 additions and 1 deletion in 6 files</sub><br />
@@ -414,7 +414,7 @@
   <sub>[#194694](https://github.com/flutter/flutter/pull/194694) opened on on October 18, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194694) 641 additions and 24 deletions in 13 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make singleton / simple data classes / native-peer classes `final`<br />
-  <sub>[#194709](https://github.com/flutter/flutter/pull/194709) opened on on October 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194709) 60 additions and 97 deletions in 26 files</sub><br />
+  <sub>[#194709](https://github.com/flutter/flutter/pull/194709) opened on on October 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194709) 59 additions and 96 deletions in 26 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Don't keep a scroll hold that user code already disposed<br />
   <sub>[#194712](https://github.com/flutter/flutter/pull/194712) opened on on October 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194712) 70 additions and 1 deletion in 2 files</sub><br />
