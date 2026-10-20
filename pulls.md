@@ -354,7 +354,7 @@
   <sub>[#194520](https://github.com/flutter/flutter/pull/194520) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194520) 57 additions and 1 deletion in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix use-after-free of FlTaskRunner timeout on shutdown<br />
-  <sub>[#194525](https://github.com/flutter/flutter/pull/194525) opened on on October 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194525) 135 additions and 23 deletions in 2 files</sub><br />
+  <sub>[#194525](https://github.com/flutter/flutter/pull/194525) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194525) 158 additions and 23 deletions in 2 files</sub><br />
 
 * **[Brandon Dick](https://github.com/brandonp2412)** &mdash; Add --no-uninstall to flutter run for Android<br />
   <sub>[#194531](https://github.com/flutter/flutter/pull/194531) opened on on October 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194531) 69 additions and 0 deletions in 4 files</sub><br />
@@ -442,4 +442,13 @@
 
 * **[Jiyad Ahammad](https://github.com/JiyadAhammad)** &mdash; [material] Fix DropdownMenuFormField missing leadingIcon<br />
   <sub>[#194798](https://github.com/flutter/flutter/pull/194798) opened on on October 19, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194798) 192 additions and 0 deletions in 5 files</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [SelectableRegion] Keep a focused descendant's focus on a tap outside (web), and dismiss the selection when an editable descendant takes the focus (all)<br />
+  <sub>[#194826](https://github.com/flutter/flutter/pull/194826) opened on on October 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194826) 291 additions and 3 deletions in 2 files</sub><br />
+
+* **[Lee](https://github.com/nezoat)** &mdash; Ignore LayoutBuilder rebuild requests after it is unmounted<br />
+  <sub>[#194835](https://github.com/flutter/flutter/pull/194835) opened on on October 20, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194835) 78 additions and 1 deletion in 2 files</sub><br />
+
+* **[sunsetyyun](https://github.com/sunsetyyun)** &mdash; [stable][Linux] Dispose sibling framebuffers in their creation context<br />
+  <sub>[#194841](https://github.com/flutter/flutter/pull/194841) opened on on October 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194841) 141 additions and 0 deletions in 6 files</sub><br />
 
