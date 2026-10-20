@@ -138,7 +138,7 @@
   <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/193004) 767 additions and 84 deletions in 24 files</sub><br />
 
 * **[Kevin McDermott-Carpenter](https://github.com/KevMCarp)** &mdash; [windows] Fix touch keyboard behaviour<br />
-  <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/193026) 4864 additions and 32 deletions in 35 files</sub><br />
+  <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/193026) 4864 additions and 32 deletions in 35 files</sub><br />
 
 * **[Suraj2105-1](https://github.com/Suraj2105-1)** &mdash; Add warning about compile time for early returns and texture samplers on ANGLE<br />
   <sub>[#193084](https://github.com/flutter/flutter/pull/193084) opened on on September 21, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193084) 50 additions and 2 deletions in 2 files</sub><br />
@@ -195,7 +195,7 @@
   <sub>[#193515](https://github.com/flutter/flutter/pull/193515) opened on on September 29, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/193515) 321 additions and 110 deletions in 4 files</sub><br />
 
 * **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; Pass --macho-sdk-version to gen_snapshot so App.framework reports the real SDK version<br />
-  <sub>[#193526](https://github.com/flutter/flutter/pull/193526) opened on on September 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193526) 267 additions and 8 deletions in 12 files</sub><br />
+  <sub>[#193526](https://github.com/flutter/flutter/pull/193526) opened on on September 29, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/193526) 294 additions and 9 deletions in 13 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [Linux] Synchronize multi-window renderer lifetime across GTK and raster threads<br />
   <sub>[#193533](https://github.com/flutter/flutter/pull/193533) opened on on September 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193533) 100 additions and 20 deletions in 4 files</sub><br />
@@ -303,7 +303,7 @@
   <sub>[#194206](https://github.com/flutter/flutter/pull/194206) opened on on October 12, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194206) 114 additions and 2 deletions in 3 files</sub><br />
 
 * **[paul-geoghegan](https://github.com/paul-geoghegan)** &mdash; [Linux] Set window title from setApplicationSwitcherDescription<br />
-  <sub>[#194213](https://github.com/flutter/flutter/pull/194213) opened on on October 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194213) 69 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#194213](https://github.com/flutter/flutter/pull/194213) opened on on October 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194213) 234 additions and 20 deletions in 10 files</sub><br />
 
 * **[Sujeong Choi](https://github.com/sujeong000)** &mdash; [Windows] Fix Korean 3-beolsik IME dropping space, digits and punctuation<br />
   <sub>[#194270](https://github.com/flutter/flutter/pull/194270) opened on on October 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194270) 226 additions and 10 deletions in 6 files</sub><br />
@@ -354,7 +354,7 @@
   <sub>[#194520](https://github.com/flutter/flutter/pull/194520) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194520) 57 additions and 1 deletion in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix use-after-free of FlTaskRunner timeout on shutdown<br />
-  <sub>[#194525](https://github.com/flutter/flutter/pull/194525) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194525) 158 additions and 23 deletions in 2 files</sub><br />
+  <sub>[#194525](https://github.com/flutter/flutter/pull/194525) opened on on October 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194525) 159 additions and 23 deletions in 2 files</sub><br />
 
 * **[Brandon Dick](https://github.com/brandonp2412)** &mdash; Add --no-uninstall to flutter run for Android<br />
   <sub>[#194531](https://github.com/flutter/flutter/pull/194531) opened on on October 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194531) 69 additions and 0 deletions in 4 files</sub><br />
@@ -443,6 +443,9 @@
 * **[Jiyad Ahammad](https://github.com/JiyadAhammad)** &mdash; [material] Fix DropdownMenuFormField missing leadingIcon<br />
   <sub>[#194798](https://github.com/flutter/flutter/pull/194798) opened on on October 19, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194798) 192 additions and 0 deletions in 5 files</sub><br />
 
+* **[Sasha Denisov](https://github.com/DenisovAV)** &mdash; [native_assets] Keep a dylib's install name in flutter test when its path does not fit<br />
+  <sub>[#194802](https://github.com/flutter/flutter/pull/194802) opened on on October 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194802) 537 additions and 19 deletions in 7 files</sub><br />
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [SelectableRegion] Keep a focused descendant's focus on a tap outside (web), and dismiss the selection when an editable descendant takes the focus (all)<br />
   <sub>[#194826](https://github.com/flutter/flutter/pull/194826) opened on on October 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194826) 291 additions and 3 deletions in 2 files</sub><br />
 
@@ -451,4 +454,7 @@
 
 * **[sunsetyyun](https://github.com/sunsetyyun)** &mdash; [stable][Linux] Dispose sibling framebuffers in their creation context<br />
   <sub>[#194841](https://github.com/flutter/flutter/pull/194841) opened on on October 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194841) 141 additions and 0 deletions in 6 files</sub><br />
+
+* **[Kyrylo K.](https://github.com/krll-kov)** &mdash; Add --windows-aot-format to optionally build Windows x64 AOT snapshots as ELF again instead of PE/COFF<br />
+  <sub>[#194854](https://github.com/flutter/flutter/pull/194854) opened on on October 20, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/194854) 384 additions and 35 deletions in 15 files</sub><br />
 
