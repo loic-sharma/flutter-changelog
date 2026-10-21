@@ -134,6 +134,9 @@
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Run the shared Vulkan embedder tests under Impeller as well as Skia<br />
   <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/193004) 767 additions and 84 deletions in 24 files</sub><br />
 
+* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [ios] Record OCMReject expectations before the stimulus in FlutterPluginAppLifeCycleDelegateTest<br />
+  <sub>[#193011](https://github.com/flutter/flutter/pull/193011) opened on on September 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193011) 16 additions and 16 deletions in 1 file</sub><br />
+
 * **[Kevin McDermott-Carpenter](https://github.com/KevMCarp)** &mdash; [windows] Fix touch keyboard behaviour<br />
   <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/193026) 4864 additions and 32 deletions in 35 files</sub><br />
 
@@ -179,8 +182,8 @@
 * **[Aurora](https://github.com/auroraxo)** &mdash; docs: remove broken screenshot references in dev/snippets README<br />
   <sub>[#193429](https://github.com/flutter/flutter/pull/193429) opened on on September 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193429) 0 additions and 4 deletions in 1 file</sub><br />
 
-* **[Marcin Jedrzejewski](https://github.com/luskan)** &mdash; [Android] Allow apps to override the HardwareBuffer defect check<br />
-  <sub>[#193441](https://github.com/flutter/flutter/pull/193441) opened on on September 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193441) 99 additions and 0 deletions in 2 files</sub><br />
+* **[Marcin Jedrzejewski](https://github.com/luskan)** &mdash; [Android] Skip the HardwareBuffer defect fallback for platform views<br />
+  <sub>[#193441](https://github.com/flutter/flutter/pull/193441) opened on on September 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193441) 102 additions and 2 deletions in 4 files</sub><br />
 
 * **[Philipp Bauer](https://github.com/ciriousjoker)** &mdash; [Android] Exclude allocation padding when drawing image textures<br />
   <sub>[#193446](https://github.com/flutter/flutter/pull/193446) opened on on September 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193446) 271 additions and 8 deletions in 15 files</sub><br />
@@ -297,7 +300,7 @@
   <sub>[#194270](https://github.com/flutter/flutter/pull/194270) opened on on October 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194270) 226 additions and 10 deletions in 6 files</sub><br />
 
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Add PageStorage.computeStorageKeys and use it in PageStorageBucket and Expansible<br />
-  <sub>[#194315](https://github.com/flutter/flutter/pull/194315) opened on on October 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194315) 63 additions and 38 deletions in 3 files</sub><br />
+  <sub>[#194315](https://github.com/flutter/flutter/pull/194315) opened on on October 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194315) 63 additions and 38 deletions in 3 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Implement Satellite window<br />
   <sub>[#194390](https://github.com/flutter/flutter/pull/194390) opened on on October 14, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/194390) 629 additions and 5 deletions in 5 files</sub><br />
@@ -366,7 +369,7 @@
   <sub>[#194793](https://github.com/flutter/flutter/pull/194793) opened on on October 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194793) 79 additions and 4 deletions in 3 files</sub><br />
 
 * **[Sasha Denisov](https://github.com/DenisovAV)** &mdash; [native_assets] Keep a dylib's install name in flutter test when its path does not fit<br />
-  <sub>[#194802](https://github.com/flutter/flutter/pull/194802) opened on on October 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194802) 537 additions and 19 deletions in 7 files</sub><br />
+  <sub>[#194802](https://github.com/flutter/flutter/pull/194802) opened on on October 19, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/194802) 537 additions and 19 deletions in 7 files</sub><br />
 
 * **[Dmytro Popov](https://github.com/mitryp)** &mdash; [gen_l10n] Add `use-explicit-plural-values` option<br />
   <sub>[#194816](https://github.com/flutter/flutter/pull/194816) opened on on October 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194816) 294 additions and 4 deletions in 6 files</sub><br />
@@ -412,4 +415,10 @@
 
 * **[Amr Elgendy](https://github.com/amrelgendy0)** &mdash; Support flutter run for iOS apps on Apple silicon Macs<br />
   <sub>[#194922](https://github.com/flutter/flutter/pull/194922) opened on on October 21, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/194922) 1462 additions and 90 deletions in 32 files</sub><br />
+
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; [flutter_tools] Stream web dev server proxy responses instead of buffering them<br />
+  <sub>[#194934](https://github.com/flutter/flutter/pull/194934) opened on on October 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194934) 51 additions and 2 deletions in 2 files</sub><br />
+
+* **[arthur](https://github.com/arthvr9)** &mdash; Don't prepend an empty font family when only fontFamilyFallback is set<br />
+  <sub>[#194941](https://github.com/flutter/flutter/pull/194941) opened on on October 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194941) 14 additions and 9 deletions in 2 files</sub><br />
 

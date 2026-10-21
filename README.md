@@ -145,7 +145,7 @@
   <sub><details><summary>1 image...</summary><img width="1128" height="2254" alt="case1-A-vs-B" src="https://github.com/user-attachments/assets/4eabb7ee-7dc2-4a65-a50f-fc1b5a597be4" /></details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller:gles] fixes early calls to flatten scenes<br />
-  <sub>[#194506](https://github.com/flutter/flutter/pull/194506) merged on October 17, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/194506) over 1 day, 587 additions and 77 deletions in 15 files</sub><br />
+  <sub>[#194506](https://github.com/flutter/flutter/pull/194506) merged on October 17, 2026 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/194506) over 1 day, 587 additions and 77 deletions in 15 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Handle newer "chosenRuntimeBuild" iOS simulator runtime key on devicelab tests<br />
