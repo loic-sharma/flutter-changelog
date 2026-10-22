@@ -131,9 +131,6 @@
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Run the shared Vulkan embedder tests under Impeller as well as Skia<br />
   <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/193004) 767 additions and 84 deletions in 24 files</sub><br />
 
-* **[Elijah Okoroh](https://github.com/okorohelijah)** &mdash; [ios] Record OCMReject expectations before the stimulus in FlutterPluginAppLifeCycleDelegateTest<br />
-  <sub>[#193011](https://github.com/flutter/flutter/pull/193011) opened on on September 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193011) 16 additions and 16 deletions in 1 file</sub><br />
-
 * **[Kevin McDermott-Carpenter](https://github.com/KevMCarp)** &mdash; [windows] Fix touch keyboard behaviour<br />
   <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/193026) 4864 additions and 32 deletions in 35 files</sub><br />
 
@@ -323,6 +320,9 @@
 * **[Christophy Barth](https://github.com/ChristophyBarth)** &mdash; [web] Expose mixed tristate checkboxes as aria-checked="mixed"<br />
   <sub>[#194586](https://github.com/flutter/flutter/pull/194586) opened on on October 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194586) 39 additions and 8 deletions in 2 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add DeviceService app launch and flutter run support for tool extensions<br />
+  <sub>[#194589](https://github.com/flutter/flutter/pull/194589) opened on on October 16, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194589) 1222 additions and 98 deletions in 17 files</sub><br />
+
 * **[bardia](https://github.com/bardiakz)** &mdash; [web] Anchor platform view slots to top-left to fix RTL document layout<br />
   <sub>[#194601](https://github.com/flutter/flutter/pull/194601) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194601) 142 additions and 4 deletions in 7 files</sub><br />
 
@@ -363,7 +363,7 @@
   <sub>[#194816](https://github.com/flutter/flutter/pull/194816) opened on on October 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194816) 294 additions and 4 deletions in 6 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [gles] Gates enabling parallel shader compilation by the presence of the extension<br />
-  <sub>[#194830](https://github.com/flutter/flutter/pull/194830) opened on on October 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/194830) 181 additions and 3 deletions in 6 files</sub><br />
+  <sub>[#194830](https://github.com/flutter/flutter/pull/194830) opened on on October 20, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194830) 181 additions and 3 deletions in 6 files</sub><br />
 
 * **[sunsetyyun](https://github.com/sunsetyyun)** &mdash; [stable][Linux] Dispose sibling framebuffers in their creation context<br />
   <sub>[#194841](https://github.com/flutter/flutter/pull/194841) opened on on October 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194841) 141 additions and 0 deletions in 6 files</sub><br />
