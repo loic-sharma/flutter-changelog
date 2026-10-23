@@ -192,13 +192,13 @@
   <sub>[#193533](https://github.com/flutter/flutter/pull/193533) opened on on September 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193533) 100 additions and 20 deletions in 4 files</sub><br />
 
 * **[DevNexGen](https://github.com/XDevNexGen)** &mdash; [engine] Release the Skia OpenGL resource context on shutdown<br />
-  <sub>[#193592](https://github.com/flutter/flutter/pull/193592) opened on on September 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193592) 77 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#193592](https://github.com/flutter/flutter/pull/193592) opened on on September 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193592) 77 additions and 0 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Retry and handle ERROR_DIR_NOT_EMPTY on Windows<br />
   <sub>[#193620](https://github.com/flutter/flutter/pull/193620) opened on on October 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193620) 121 additions and 48 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals from macOS build, migration, and Xcode project<br />
-  <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/193652) 1938 additions and 1878 deletions in 29 files</sub><br />
+  <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/193652) 1938 additions and 1878 deletions in 29 files</sub><br />
 
 * **[Huy Ly](https://github.com/huylyvn)** &mdash; [Linux] Send touchpad pinch position to the scrolling manager<br />
   <sub>[#193659](https://github.com/flutter/flutter/pull/193659) opened on on October 1, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/193659) 267 additions and 119 deletions in 4 files</sub><br />
@@ -306,16 +306,13 @@
   <sub>[#194557](https://github.com/flutter/flutter/pull/194557) opened on on October 16, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/194557) 51 additions and 9 deletions in 3 files</sub><br />
 
 * **[Marcel van Remmerden](https://github.com/MvRemmerden)** &mdash; [iOS] Prune disposed platform views' raster-thread state on the raster thread<br />
-  <sub>[#194560](https://github.com/flutter/flutter/pull/194560) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194560) 152 additions and 12 deletions in 3 files</sub><br />
+  <sub>[#194560](https://github.com/flutter/flutter/pull/194560) opened on on October 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194560) 152 additions and 12 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add flutter assemble support for tool extension assemble targets<br />
   <sub>[#194563](https://github.com/flutter/flutter/pull/194563) opened on on October 16, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/194563) 1530 additions and 191 deletions in 7 files</sub><br />
 
 * **[Christophy Barth](https://github.com/ChristophyBarth)** &mdash; [web] Expose mixed tristate checkboxes as aria-checked="mixed"<br />
   <sub>[#194586](https://github.com/flutter/flutter/pull/194586) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194586) 39 additions and 8 deletions in 2 files</sub><br />
-
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [a11y] Fixes SnackBar showing more Voice Control labels than expected <br />
-  <sub>[#194614](https://github.com/flutter/flutter/pull/194614) opened on on October 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194614) 22 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mohammed Al-Samarraie](https://github.com/mohamedalsamrai)** &mdash; [engine] Honor targetWidth/targetHeight for animated images<br />
   <sub>[#194615](https://github.com/flutter/flutter/pull/194615) opened on on October 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194615) 227 additions and 20 deletions in 4 files</sub><br />
@@ -343,9 +340,6 @@
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Cap the Vulkan command pool recycler cache<br />
   <sub>[#194793](https://github.com/flutter/flutter/pull/194793) opened on on October 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194793) 79 additions and 4 deletions in 3 files</sub><br />
-
-* **[Sasha Denisov](https://github.com/DenisovAV)** &mdash; [native_assets] Keep a dylib's install name in flutter test when its path does not fit<br />
-  <sub>[#194802](https://github.com/flutter/flutter/pull/194802) opened on on October 19, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/194802) 537 additions and 19 deletions in 7 files</sub><br />
 
 * **[Dmytro Popov](https://github.com/mitryp)** &mdash; [gen_l10n] Add `use-explicit-plural-values` option<br />
   <sub>[#194816](https://github.com/flutter/flutter/pull/194816) opened on on October 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194816) 294 additions and 4 deletions in 6 files</sub><br />
@@ -426,5 +420,8 @@
   <sub>[#195167](https://github.com/flutter/flutter/pull/195167) opened on on October 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195167) 37 additions and 8 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates zlib to 1.3.2<br />
-  <sub>[#195173](https://github.com/flutter/flutter/pull/195173) opened on on October 23, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195173) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#195173](https://github.com/flutter/flutter/pull/195173) opened on on October 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195173) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove skia iOS benchmark<br />
+  <sub>[#195180](https://github.com/flutter/flutter/pull/195180) opened on on October 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195180) 1 addition and 24 deletions in 4 files</sub><br />
 
