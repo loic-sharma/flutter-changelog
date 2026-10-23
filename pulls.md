@@ -15,7 +15,7 @@
   <sub>[#185615](https://github.com/flutter/flutter/pull/185615) opened on on April 27, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/185615) 220 additions and 31 deletions in 10 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Add #ifdef guard for including dl_text_impeller.h in paragraph_skia.cc<br />
-  <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#186173](https://github.com/flutter/flutter/pull/186173) opened on on May 7, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/186173) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[巢鹏](https://github.com/chaopeng)** &mdash; [fuchsia] use non-blocking InjectEvents<br />
   <sub>[#187613](https://github.com/flutter/flutter/pull/187613) opened on on June 5, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/187613) 12 additions and 86 deletions in 3 files</sub><br />
@@ -204,7 +204,7 @@
   <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/193652) 1938 additions and 1878 deletions in 29 files</sub><br />
 
 * **[Huy Ly](https://github.com/huylyvn)** &mdash; [Linux] Send touchpad pinch position to the scrolling manager<br />
-  <sub>[#193659](https://github.com/flutter/flutter/pull/193659) opened on on October 1, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/193659) 267 additions and 119 deletions in 4 files</sub><br />
+  <sub>[#193659](https://github.com/flutter/flutter/pull/193659) opened on on October 1, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/193659) 267 additions and 119 deletions in 4 files</sub><br />
 
 * **[Sai kamal](https://github.com/Dantusaikamal)** &mdash; Skip pending deferred overlay children during geometry operations<br />
   <sub>[#193673](https://github.com/flutter/flutter/pull/193673) opened on on October 1, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/193673) 239 additions and 1 deletion in 2 files</sub><br />
@@ -315,7 +315,7 @@
   <sub>[#194586](https://github.com/flutter/flutter/pull/194586) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194586) 39 additions and 8 deletions in 2 files</sub><br />
 
 * **[bardia](https://github.com/bardiakz)** &mdash; [web] Anchor platform view slots to top-left to fix RTL document layout<br />
-  <sub>[#194601](https://github.com/flutter/flutter/pull/194601) opened on on October 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194601) 142 additions and 4 deletions in 7 files</sub><br />
+  <sub>[#194601](https://github.com/flutter/flutter/pull/194601) opened on on October 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194601) 72 additions and 3 deletions in 2 files</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [a11y] Fixes SnackBar showing more Voice Control labels than expected <br />
   <sub>[#194614](https://github.com/flutter/flutter/pull/194614) opened on on October 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194614) 22 additions and 2 deletions in 2 files</sub><br />
@@ -430,4 +430,7 @@
 
 * **[Nikolai](https://github.com/npankov)** &mdash; Document Listenable builders and leaf-level state in State.setState<br />
   <sub>[#195146](https://github.com/flutter/flutter/pull/195146) opened on on October 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195146) 11 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Specify types for pattern-introduced local variables in plugin parsing<br />
+  <sub>[#195156](https://github.com/flutter/flutter/pull/195156) opened on on October 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195156) 22 additions and 22 deletions in 2 files</sub><br />
 
