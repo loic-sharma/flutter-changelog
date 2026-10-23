@@ -207,7 +207,7 @@
   <sub>[#193659](https://github.com/flutter/flutter/pull/193659) opened on on October 1, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/193659) 267 additions and 119 deletions in 4 files</sub><br />
 
 * **[Sai kamal](https://github.com/Dantusaikamal)** &mdash; Skip pending deferred overlay children during geometry operations<br />
-  <sub>[#193673](https://github.com/flutter/flutter/pull/193673) opened on on October 1, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/193673) 173 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#193673](https://github.com/flutter/flutter/pull/193673) opened on on October 1, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/193673) 239 additions and 1 deletion in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add wiki page on capturing Flutter startup traces on Android with Perfetto<br />
   <sub>[#193679](https://github.com/flutter/flutter/pull/193679) opened on on October 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193679) 96 additions and 1 deletion in 3 files</sub><br />
@@ -246,7 +246,7 @@
   <sub>[#194029](https://github.com/flutter/flutter/pull/194029) opened on on October 8, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/194029) 736 additions and 194 deletions in 12 files</sub><br />
 
 * **[Jonas Ockerman](https://github.com/Ockerjo)** &mdash; [web] Decode only the view's bytes in the non-ImageDecoder image fallback<br />
-  <sub>[#194069](https://github.com/flutter/flutter/pull/194069) opened on on October 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/194069) 41 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#194069](https://github.com/flutter/flutter/pull/194069) opened on on October 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194069) 38 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Print the Intel Mac deprecation warning on every command<br />
   <sub>[#194071](https://github.com/flutter/flutter/pull/194071) opened on on October 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194071) 40 additions and 32 deletions in 3 files</sub><br />
@@ -264,7 +264,7 @@
   <sub>[#194133](https://github.com/flutter/flutter/pull/194133) opened on on October 10, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/194133) 437 additions and 36 deletions in 7 files</sub><br />
 
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix TreeSliver painting during rapid toggles<br />
-  <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194172) 163 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194172) 163 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; fix: RouterConfig使用時の戻る操作を修正 (default back button dispatcher)<br />
   <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194173) 119 additions and 10 deletions in 2 files</sub><br />
@@ -278,8 +278,8 @@
 * **[paul-geoghegan](https://github.com/paul-geoghegan)** &mdash; [Linux] Set window title from setApplicationSwitcherDescription<br />
   <sub>[#194213](https://github.com/flutter/flutter/pull/194213) opened on on October 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194213) 234 additions and 20 deletions in 10 files</sub><br />
 
-* **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Add PageStorage.computeStorageKeys and use it in PageStorageBucket and Expansible<br />
-  <sub>[#194315](https://github.com/flutter/flutter/pull/194315) opened on on October 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194315) 63 additions and 38 deletions in 3 files</sub><br />
+* **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Add a namespace to PageStorageBucket readState and writeState<br />
+  <sub>[#194315](https://github.com/flutter/flutter/pull/194315) opened on on October 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194315) 71 additions and 72 deletions in 3 files</sub><br />
 
 * **[Mingyun Chae](https://github.com/mg-mg-mg)** &mdash; [flutter_tools] Prevent Git repository environment re-inheritance<br />
   <sub>[#194429](https://github.com/flutter/flutter/pull/194429) opened on on October 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194429) 112 additions and 5 deletions in 11 files</sub><br />
@@ -418,4 +418,16 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Deprecate AnimatedSize.reverseDuration and RenderAnimatedSize.reverseDuration<br />
   <sub>[#195129](https://github.com/flutter/flutter/pull/195129) opened on on October 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195129) 63 additions and 1 deletion in 9 files</sub><br />
+
+* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Keep semantics editing state while the text input connection is…<br />
+  <sub>[#195141](https://github.com/flutter/flutter/pull/195141) opened on on October 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195141) 110 additions and 1 deletion in 2 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Enable `access_debug_members_only_in_asserts` and fix/suppress the violations<br />
+  <sub>[#195143](https://github.com/flutter/flutter/pull/195143) opened on on October 23, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/195143) 482 additions and 178 deletions in 67 files</sub><br />
+
+* **[Nikolai](https://github.com/npankov)** &mdash; Document using a ListView inside a Column<br />
+  <sub>[#195145](https://github.com/flutter/flutter/pull/195145) opened on on October 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/195145) 51 additions and 0 deletions in 1 file</sub><br />
+
+* **[Nikolai](https://github.com/npankov)** &mdash; Document Listenable builders and leaf-level state in State.setState<br />
+  <sub>[#195146](https://github.com/flutter/flutter/pull/195146) opened on on October 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195146) 11 additions and 0 deletions in 1 file</sub><br />
 
