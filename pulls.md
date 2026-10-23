@@ -27,7 +27,7 @@
   <sub>[#188455](https://github.com/flutter/flutter/pull/188455) opened on on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188455) 212 additions and 29 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [web] Record end-to-end presentation duration in benchmarks<br />
-  <sub>[#188628](https://github.com/flutter/flutter/pull/188628) opened on on June 26, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/188628) 165 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#188628](https://github.com/flutter/flutter/pull/188628) opened on on June 26, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/188628) 169 additions and 17 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
@@ -311,6 +311,9 @@
 * **[Marcel van Remmerden](https://github.com/MvRemmerden)** &mdash; [iOS] Prune disposed platform views' raster-thread state on the raster thread<br />
   <sub>[#194560](https://github.com/flutter/flutter/pull/194560) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194560) 152 additions and 12 deletions in 3 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add flutter assemble support for tool extension assemble targets<br />
+  <sub>[#194563](https://github.com/flutter/flutter/pull/194563) opened on on October 16, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/194563) 1530 additions and 191 deletions in 7 files</sub><br />
+
 * **[Christophy Barth](https://github.com/ChristophyBarth)** &mdash; [web] Expose mixed tristate checkboxes as aria-checked="mixed"<br />
   <sub>[#194586](https://github.com/flutter/flutter/pull/194586) opened on on October 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194586) 39 additions and 8 deletions in 2 files</sub><br />
 
@@ -404,9 +407,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Dispose the flattened picture in `Scene.toImage`/`toImageSync`<br />
   <sub>[#194998](https://github.com/flutter/flutter/pull/194998) opened on on October 21, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194998) 60 additions and 3 deletions in 2 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Skip LUCI engine build wait on fork repositories in Actions<br />
-  <sub>[#195009](https://github.com/flutter/flutter/pull/195009) opened on on October 21, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/195009) 34 additions and 6 deletions in 4 files</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Sync local sky_engine Dart sources in fork Tree_analyze runs<br />
   <sub>[#195014](https://github.com/flutter/flutter/pull/195014) opened on on October 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195014) 29 additions and 0 deletions in 1 file</sub><br />
 
@@ -424,4 +424,7 @@
 
 * **[Asim Awdah](https://github.com/asimawdah)** &mdash; Do not start hero flights for heroes that were never laid out<br />
   <sub>[#195078](https://github.com/flutter/flutter/pull/195078) opened on on October 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195078) 94 additions and 5 deletions in 2 files</sub><br />
+
+* **[Rusino](https://github.com/Rusino)** &mdash; [web_paragraph] Avoid browser text metrics queries on re-layout and speed up first layout<br />
+  <sub>[#195122](https://github.com/flutter/flutter/pull/195122) opened on on October 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/195122) 535 additions and 62 deletions in 4 files</sub><br />
 
