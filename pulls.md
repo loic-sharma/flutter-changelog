@@ -69,7 +69,7 @@
   <sub>[#191459](https://github.com/flutter/flutter/pull/191459) opened on on August 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191459) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Support local Windows arm64 engine build<br />
-  <sub>[#191560](https://github.com/flutter/flutter/pull/191560) opened on on August 23, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/191560) 54 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#191560](https://github.com/flutter/flutter/pull/191560) opened on on August 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191560) 53 additions and 9 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Lazily initialize AppleContext dependencies via builder closures<br />
   <sub>[#191992](https://github.com/flutter/flutter/pull/191992) opened on on August 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191992) 351 additions and 102 deletions in 3 files</sub><br />
@@ -433,4 +433,7 @@
 
 * **[Luis Cardoza Bird](https://github.com/Crdzbird)** &mdash; Keep backgroundBlendMode in BoxDecoration.lerp and scale<br />
   <sub>[#195226](https://github.com/flutter/flutter/pull/195226) opened on on October 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195226) 34 additions and 0 deletions in 2 files</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Minify GLSL shaders<br />
+  <sub>[#195240](https://github.com/flutter/flutter/pull/195240) opened on on October 24, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/195240) 575 additions and 20 deletions in 6 files</sub><br />
 
