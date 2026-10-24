@@ -317,6 +317,9 @@
 * **[Naman Goyal](https://github.com/NamanGoyalK)** &mdash; Gracefully handle ShaderCompilerException in writeBundle and copy_assets<br />
   <sub>[#194634](https://github.com/flutter/flutter/pull/194634) opened on on October 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194634) 183 additions and 10 deletions in 4 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Add support for popping specific routes in Navigator and Route<br />
+  <sub>[#194645](https://github.com/flutter/flutter/pull/194645) opened on on October 17, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/194645) 820 additions and 10 deletions in 3 files</sub><br />
+
 * **[MSOB7Y](https://github.com/MSOB7YY)** &mdash; [flutter_tools] Send one reloadSources request per isolate group<br />
   <sub>[#194650](https://github.com/flutter/flutter/pull/194650) opened on on October 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194650) 83 additions and 3 deletions in 2 files</sub><br />
 
