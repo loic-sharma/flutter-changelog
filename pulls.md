@@ -425,3 +425,9 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [beta] [flutter_tools] Contain web asset server path resolution to its search roots<br />
   <sub>[#195201](https://github.com/flutter/flutter/pull/195201) opened on on October 23, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/195201) 420 additions and 37 deletions in 5 files</sub><br />
 
+* **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Remove Material dependency from splash example<br />
+  <sub>[#195220](https://github.com/flutter/flutter/pull/195220) opened on on October 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195220) 19 additions and 8 deletions in 4 files</sub><br />
+
+* **[Luis Cardoza Bird](https://github.com/Crdzbird)** &mdash; Keep backgroundBlendMode in BoxDecoration.lerp and scale<br />
+  <sub>[#195226](https://github.com/flutter/flutter/pull/195226) opened on on October 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195226) 34 additions and 0 deletions in 2 files</sub><br />
+
