@@ -27,7 +27,7 @@
   <sub>[#188455](https://github.com/flutter/flutter/pull/188455) opened on on June 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/188455) 212 additions and 29 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [web] Record end-to-end presentation duration in benchmarks<br />
-  <sub>[#188628](https://github.com/flutter/flutter/pull/188628) opened on on June 26, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/188628) 169 additions and 17 deletions in 4 files</sub><br />
+  <sub>[#188628](https://github.com/flutter/flutter/pull/188628) opened on on June 26, 2026 &mdash; **Small:** [35 comments](https://github.com/flutter/flutter/pull/188628) 169 additions and 17 deletions in 4 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
@@ -224,9 +224,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Add to app agp9 host error<br />
   <sub>[#193888](https://github.com/flutter/flutter/pull/193888) opened on on October 6, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/193888) 600 additions and 8 deletions in 5 files</sub><br />
 
-* **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Add regression tests for WidgetSpan ordering in bidirectional text<br />
-  <sub>[#193894](https://github.com/flutter/flutter/pull/193894) opened on on October 6, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/193894) 1071 additions and 1 deletion in 5 files</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update gradle wrapper launcher<br />
   <sub>[#193897](https://github.com/flutter/flutter/pull/193897) opened on on October 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193897) 187 additions and 20 deletions in 3 files</sub><br />
 
@@ -315,7 +312,7 @@
   <sub>[#194586](https://github.com/flutter/flutter/pull/194586) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194586) 39 additions and 8 deletions in 2 files</sub><br />
 
 * **[Mohammed Al-Samarraie](https://github.com/mohamedalsamrai)** &mdash; [engine] Honor targetWidth/targetHeight for animated images<br />
-  <sub>[#194615](https://github.com/flutter/flutter/pull/194615) opened on on October 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194615) 227 additions and 20 deletions in 4 files</sub><br />
+  <sub>[#194615](https://github.com/flutter/flutter/pull/194615) opened on on October 17, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/194615) 286 additions and 26 deletions in 8 files</sub><br />
 
 * **[Naman Goyal](https://github.com/NamanGoyalK)** &mdash; Gracefully handle ShaderCompilerException in writeBundle and copy_assets<br />
   <sub>[#194634](https://github.com/flutter/flutter/pull/194634) opened on on October 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194634) 183 additions and 10 deletions in 4 files</sub><br />
@@ -424,4 +421,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove skia iOS benchmark<br />
   <sub>[#195180](https://github.com/flutter/flutter/pull/195180) opened on on October 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195180) 1 addition and 24 deletions in 4 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [beta] [flutter_tools] Contain web asset server path resolution to its search roots<br />
+  <sub>[#195201](https://github.com/flutter/flutter/pull/195201) opened on on October 23, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/195201) 420 additions and 37 deletions in 5 files</sub><br />
 
