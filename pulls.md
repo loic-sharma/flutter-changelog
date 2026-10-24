@@ -339,7 +339,7 @@
   <sub>[#194786](https://github.com/flutter/flutter/pull/194786) opened on on October 19, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/194786) 403 additions and 16 deletions in 2 files</sub><br />
 
 * **[Serhat Güler](https://github.com/sero583)** &mdash; [Impeller] Cap the Vulkan command pool recycler cache<br />
-  <sub>[#194793](https://github.com/flutter/flutter/pull/194793) opened on on October 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194793) 79 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#194793](https://github.com/flutter/flutter/pull/194793) opened on on October 19, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/194793) 79 additions and 4 deletions in 3 files</sub><br />
 
 * **[Dmytro Popov](https://github.com/mitryp)** &mdash; [gen_l10n] Add `use-explicit-plural-values` option<br />
   <sub>[#194816](https://github.com/flutter/flutter/pull/194816) opened on on October 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194816) 294 additions and 4 deletions in 6 files</sub><br />
@@ -435,5 +435,8 @@
   <sub>[#195226](https://github.com/flutter/flutter/pull/195226) opened on on October 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195226) 34 additions and 0 deletions in 2 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Minify GLSL shaders<br />
-  <sub>[#195240](https://github.com/flutter/flutter/pull/195240) opened on on October 24, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/195240) 575 additions and 20 deletions in 6 files</sub><br />
+  <sub>[#195240](https://github.com/flutter/flutter/pull/195240) opened on on October 24, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/195240) 953 additions and 20 deletions in 6 files</sub><br />
+
+* **[Rexios](https://github.com/Rexios80)** &mdash; Roll brotli to v1.2.1<br />
+  <sub>[#195243](https://github.com/flutter/flutter/pull/195243) opened on on October 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195243) 3 additions and 1 deletion in 2 files</sub><br />
 
