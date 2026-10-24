@@ -243,7 +243,7 @@
   <sub>[#194062](https://github.com/flutter/flutter/pull/194062) opened on on October 9, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/194062) 3870 additions and 1975 deletions in 100 files</sub><br />
 
 * **[Jonas Ockerman](https://github.com/Ockerjo)** &mdash; [web] Decode only the view's bytes in the non-ImageDecoder image fallback<br />
-  <sub>[#194069](https://github.com/flutter/flutter/pull/194069) opened on on October 9, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194069) 38 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#194069](https://github.com/flutter/flutter/pull/194069) opened on on October 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194069) 38 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Print the Intel Mac deprecation warning on every command<br />
   <sub>[#194071](https://github.com/flutter/flutter/pull/194071) opened on on October 9, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194071) 40 additions and 32 deletions in 3 files</sub><br />
@@ -263,8 +263,8 @@
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix TreeSliver painting during rapid toggles<br />
   <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194172) 163 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ikki Nishihara](https://github.com/haranishi)** &mdash; fix: RouterConfig使用時の戻る操作を修正 (default back button dispatcher)<br />
-  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194173) 119 additions and 10 deletions in 2 files</sub><br />
+* **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Corrected back navigation behavior when using RouterConfig (default back button dispatcher)<br />
+  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194173) 119 additions and 10 deletions in 2 files</sub><br />
 
 * **[MukeshKBagariya](https://github.com/MukeshKBagariya)** &mdash; Regenerate plugin registrants for release builds with --no-pub<br />
   <sub>[#194204](https://github.com/flutter/flutter/pull/194204) opened on on October 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194204) 162 additions and 7 deletions in 3 files</sub><br />
@@ -312,7 +312,7 @@
   <sub>[#194586](https://github.com/flutter/flutter/pull/194586) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194586) 39 additions and 8 deletions in 2 files</sub><br />
 
 * **[Mohammed Al-Samarraie](https://github.com/mohamedalsamrai)** &mdash; [engine] Honor targetWidth/targetHeight for animated images<br />
-  <sub>[#194615](https://github.com/flutter/flutter/pull/194615) opened on on October 17, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/194615) 286 additions and 26 deletions in 8 files</sub><br />
+  <sub>[#194615](https://github.com/flutter/flutter/pull/194615) opened on on October 17, 2026 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/194615) 286 additions and 26 deletions in 8 files</sub><br />
 
 * **[Naman Goyal](https://github.com/NamanGoyalK)** &mdash; Gracefully handle ShaderCompilerException in writeBundle and copy_assets<br />
   <sub>[#194634](https://github.com/flutter/flutter/pull/194634) opened on on October 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194634) 183 additions and 10 deletions in 4 files</sub><br />
@@ -348,7 +348,7 @@
   <sub>[#194854](https://github.com/flutter/flutter/pull/194854) opened on on October 20, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/194854) 388 additions and 37 deletions in 15 files</sub><br />
 
 * **[YeungKC](https://github.com/YeungKC)** &mdash; Use reverseDuration for the AnimatedCrossFade size animation<br />
-  <sub>[#194860](https://github.com/flutter/flutter/pull/194860) opened on on October 20, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/194860) 67 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#194860](https://github.com/flutter/flutter/pull/194860) opened on on October 20, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/194860) 86 additions and 2 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevents private members on "open" classes from leaking into public API implementations<br />
   <sub>[#194898](https://github.com/flutter/flutter/pull/194898) opened on on October 20, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/194898) 324 additions and 299 deletions in 43 files</sub><br />

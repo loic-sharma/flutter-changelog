@@ -1578,12 +1578,16 @@
 
 ### October 17, 2026 to October 23, 2026
 
-10 commits.
+11 commits.
 
 * **[Manuel Santos Souza](https://github.com/manuelzzz)** &mdash; Add auto-generated table of contents to blog posts
   <sub>[#13881](https://github.com/flutter/website/pull/13881) merged on October 20, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/website/pull/13881) over 1 month, 215 additions and 28 deletions in 10 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub>
   <sub><details><summary>1 image...</summary><img width="1176" height="1318" alt="image" src="https://github.com/user-attachments/assets/525dba04-9506-433d-9b64-8384489eacd5" /></details></sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Update Flutter 3.50 web caching, Wasm, and viewport-fit docs
+  <sub>[#13986](https://github.com/flutter/website/pull/13986) merged on October 24, 2026 &mdash; **Large:** [32 comments](https://github.com/flutter/website/pull/13986) over 1 week, 410 additions and 122 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
 
 * **[Jess K](https://github.com/jesskuras)** &mdash; Expand Firebase page with setup, Auth, and database guides
   <sub>[#13980](https://github.com/flutter/website/pull/13980) merged on October 23, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/website/pull/13980) over 1 week, 264 additions and 30 deletions in 3 files</sub>
