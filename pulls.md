@@ -357,7 +357,7 @@
   <sub>[#194899](https://github.com/flutter/flutter/pull/194899) opened on on October 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194899) 204 additions and 36 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Unify effective font families and strut leading distribution between CanvasKit and Skwasm<br />
-  <sub>[#194903](https://github.com/flutter/flutter/pull/194903) opened on on October 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194903) 147 additions and 105 deletions in 6 files</sub><br />
+  <sub>[#194903](https://github.com/flutter/flutter/pull/194903) opened on on October 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194903) 147 additions and 105 deletions in 6 files</sub><br />
 
 * **[MSOB7Y](https://github.com/MSOB7YY)** &mdash; [flutter_tools] Surface backend build errors on Windows<br />
   <sub>[#194908](https://github.com/flutter/flutter/pull/194908) opened on on October 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194908) 92 additions and 6 deletions in 6 files</sub><br />
