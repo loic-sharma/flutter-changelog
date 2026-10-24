@@ -98,7 +98,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hari07](https://github.com/Hari-07)</sub><br />
 
 * **[r0g18](https://github.com/r0g18)** &mdash; [flutter_tools] Contain web asset server path resolution to its search roots<br />
-  <sub>[#194064](https://github.com/flutter/flutter/pull/194064) merged on October 23, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/194064) over 2 weeks, 423 additions and 36 deletions in 5 files</sub><br />
+  <sub>[#194064](https://github.com/flutter/flutter/pull/194064) merged on October 23, 2026 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/194064) over 2 weeks, 423 additions and 36 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add web benchmark baseline comparison, ANSI summary table, and structured JSON helpers<br />
