@@ -360,7 +360,7 @@
   <sub>[#194899](https://github.com/flutter/flutter/pull/194899) opened on on October 20, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194899) 204 additions and 36 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Unify effective font families and strut leading distribution between CanvasKit and Skwasm<br />
-  <sub>[#194903](https://github.com/flutter/flutter/pull/194903) opened on on October 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194903) 147 additions and 105 deletions in 6 files</sub><br />
+  <sub>[#194903](https://github.com/flutter/flutter/pull/194903) opened on on October 20, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/194903) 147 additions and 105 deletions in 6 files</sub><br />
 
 * **[MSOB7Y](https://github.com/MSOB7YY)** &mdash; [flutter_tools] Surface backend build errors on Windows<br />
   <sub>[#194908](https://github.com/flutter/flutter/pull/194908) opened on on October 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194908) 92 additions and 6 deletions in 6 files</sub><br />
@@ -429,14 +429,11 @@
   <sub>[#195201](https://github.com/flutter/flutter/pull/195201) opened on on October 23, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/195201) 420 additions and 37 deletions in 5 files</sub><br />
 
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Remove Material dependency from splash example<br />
-  <sub>[#195220](https://github.com/flutter/flutter/pull/195220) opened on on October 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195220) 19 additions and 8 deletions in 4 files</sub><br />
+  <sub>[#195220](https://github.com/flutter/flutter/pull/195220) opened on on October 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195220) 29 additions and 8 deletions in 4 files</sub><br />
 
 * **[Luis Cardoza Bird](https://github.com/Crdzbird)** &mdash; Keep backgroundBlendMode in BoxDecoration.lerp and scale<br />
   <sub>[#195226](https://github.com/flutter/flutter/pull/195226) opened on on October 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195226) 34 additions and 0 deletions in 2 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Minify GLSL shaders<br />
   <sub>[#195240](https://github.com/flutter/flutter/pull/195240) opened on on October 24, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/195240) 868 additions and 20 deletions in 6 files</sub><br />
-
-* **[Rexios](https://github.com/Rexios80)** &mdash; Roll brotli to v1.2.1<br />
-  <sub>[#195243](https://github.com/flutter/flutter/pull/195243) opened on on October 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195243) 3 additions and 1 deletion in 2 files</sub><br />
 
