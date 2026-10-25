@@ -153,7 +153,7 @@
   <sub>[#193310](https://github.com/flutter/flutter/pull/193310) opened on on September 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193310) 5 additions and 3 deletions in 1 file</sub><br />
 
 * **[Rahul Shah](https://github.com/rahulshahDEV)** &mdash; Preserve Android status bar theme brightness on startup<br />
-  <sub>[#193386](https://github.com/flutter/flutter/pull/193386) opened on on September 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193386) 38 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#193386](https://github.com/flutter/flutter/pull/193386) opened on on September 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193386) 38 additions and 1 deletion in 2 files</sub><br />
 
 * **[Arno Victor](https://github.com/arnodorian1337)** &mdash; [security test] Validate LUCI commit pinning<br />
   <sub>[#193398](https://github.com/flutter/flutter/pull/193398) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193398) 18 additions and 0 deletions in 1 file</sub><br />
@@ -402,7 +402,7 @@
   <sub>[#195073](https://github.com/flutter/flutter/pull/195073) opened on on October 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195073) 99 additions and 0 deletions in 2 files</sub><br />
 
 * **[Asim Awdah](https://github.com/asimawdah)** &mdash; Do not start hero flights for heroes that were never laid out<br />
-  <sub>[#195078](https://github.com/flutter/flutter/pull/195078) opened on on October 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195078) 94 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#195078](https://github.com/flutter/flutter/pull/195078) opened on on October 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195078) 94 additions and 5 deletions in 2 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; [web_paragraph] Avoid browser text metrics queries on re-layout and speed up first layout<br />
   <sub>[#195122](https://github.com/flutter/flutter/pull/195122) opened on on October 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/195122) 539 additions and 62 deletions in 4 files</sub><br />
@@ -448,4 +448,25 @@
 
 * **[Eric Seidel](https://github.com/eseidel)** &mdash; [tool] Always regenerate Generated.xcconfig in build ios-framework<br />
   <sub>[#195274](https://github.com/flutter/flutter/pull/195274) opened on on October 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195274) 117 additions and 0 deletions in 2 files</sub><br />
+
+* **[Leonardo.](https://github.com/leo7463647526287463836366463664464)** &mdash; Update lock.yml - gh pr checkout 195279<br />
+  <sub>[#195279](https://github.com/flutter/flutter/pull/195279) opened on on October 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195279) 4 additions and 2 deletions in 1 file</sub><br />
+
+* **[Leonardo.](https://github.com/leo7463647526287463836366463664464)** &mdash; Refresh do Patch 1- gh pr checkout 195280<br />
+  <sub>[#195280](https://github.com/flutter/flutter/pull/195280) opened on on October 25, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/195280) 2569401 additions and 560378 deletions in 15204 files</sub><br />
+
+* **[Mahady Hasan](https://github.com/mahadydev)** &mdash; Remove Material dependency from BuildOwner example<br />
+  <sub>[#195282](https://github.com/flutter/flutter/pull/195282) opened on on October 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195282) 3 additions and 5 deletions in 3 files</sub><br />
+
+* **[Mahady Hasan](https://github.com/mahadydev)** &mdash; Fix LateInitializationError in layers example when semantics is enabled at startup<br />
+  <sub>[#195284](https://github.com/flutter/flutter/pull/195284) opened on on October 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195284) 44 additions and 6 deletions in 2 files</sub><br />
+
+* **[Ashutosh Kumar](https://github.com/ashu3699)** &mdash; Add unit tests for MouseCursorManager (services)<br />
+  <sub>[#195286](https://github.com/flutter/flutter/pull/195286) opened on on October 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195286) 194 additions and 0 deletions in 1 file</sub><br />
+
+* **[Lukas Klingsbo](https://github.com/spydon)** &mdash; [Linux] Desynchronize the Wayland subsurface so frames don't redraw the GTK window<br />
+  <sub>[#195287](https://github.com/flutter/flutter/pull/195287) opened on on October 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195287) 153 additions and 10 deletions in 4 files</sub><br />
+
+* **[Ashutosh Kumar](https://github.com/ashu3699)** &mdash; Fix double column/row offset for synthesized Table cell semantics nodes<br />
+  <sub>[#195288](https://github.com/flutter/flutter/pull/195288) opened on on October 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195288) 113 additions and 4 deletions in 2 files</sub><br />
 
