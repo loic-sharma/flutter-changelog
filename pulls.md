@@ -54,7 +54,7 @@
   <sub>[#190710](https://github.com/flutter/flutter/pull/190710) opened on on August 7, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/190710) 564 additions and 82 deletions in 13 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tool] Migrate Cache.flutterRoot static state to instance configuration<br />
-  <sub>[#190795](https://github.com/flutter/flutter/pull/190795) opened on on August 8, 2026 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/190795) 1952 additions and 1440 deletions in 173 files</sub><br />
+  <sub>[#190795](https://github.com/flutter/flutter/pull/190795) opened on on August 8, 2026 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/190795) 1754 additions and 1333 deletions in 179 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
   <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 2 additions and 0 deletions in 1 file</sub><br />
@@ -198,7 +198,7 @@
   <sub>[#193620](https://github.com/flutter/flutter/pull/193620) opened on on October 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193620) 121 additions and 48 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove globals from macOS build, migration, and Xcode project<br />
-  <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/193652) 1938 additions and 1878 deletions in 29 files</sub><br />
+  <sub>[#193652](https://github.com/flutter/flutter/pull/193652) opened on on October 1, 2026 &mdash; **Extra large:** [15 comments](https://github.com/flutter/flutter/pull/193652) 1887 additions and 1853 deletions in 29 files</sub><br />
 
 * **[Huy Ly](https://github.com/huylyvn)** &mdash; [Linux] Send touchpad pinch position to the scrolling manager<br />
   <sub>[#193659](https://github.com/flutter/flutter/pull/193659) opened on on October 1, 2026 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/193659) 267 additions and 119 deletions in 4 files</sub><br />
@@ -240,7 +240,7 @@
   <sub>[#194029](https://github.com/flutter/flutter/pull/194029) opened on on October 8, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/194029) 736 additions and 194 deletions in 12 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Eliminate globals.dart from flutter_plugins.dart<br />
-  <sub>[#194062](https://github.com/flutter/flutter/pull/194062) opened on on October 9, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/194062) 3870 additions and 1975 deletions in 100 files</sub><br />
+  <sub>[#194062](https://github.com/flutter/flutter/pull/194062) opened on on October 9, 2026 &mdash; **Extra large:** [25 comments](https://github.com/flutter/flutter/pull/194062) 2148 additions and 921 deletions in 34 files</sub><br />
 
 * **[Jonas Ockerman](https://github.com/Ockerjo)** &mdash; [web] Decode only the view's bytes in the non-ImageDecoder image fallback<br />
   <sub>[#194069](https://github.com/flutter/flutter/pull/194069) opened on on October 9, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194069) 38 additions and 1 deletion in 2 files</sub><br />
@@ -449,12 +449,6 @@
 * **[Jakub Homlala](https://github.com/jhomlala)** &mdash; [flutter_tools] Shut down isolates in --experimental-faster-testing when suite channels close<br />
   <sub>[#195278](https://github.com/flutter/flutter/pull/195278) opened on on October 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195278) 77 additions and 5 deletions in 2 files</sub><br />
 
-* **[Leonardo.](https://github.com/leo7463647526287463836366463664464)** &mdash; Update lock.yml - gh pr checkout 195279<br />
-  <sub>[#195279](https://github.com/flutter/flutter/pull/195279) opened on on October 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195279) 4 additions and 2 deletions in 1 file</sub><br />
-
-* **[Leonardo.](https://github.com/leo7463647526287463836366463664464)** &mdash; Refresh do Patch 1- gh pr checkout 195280<br />
-  <sub>[#195280](https://github.com/flutter/flutter/pull/195280) opened on on October 25, 2026 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/195280) 2569401 additions and 560378 deletions in 15204 files</sub><br />
-
 * **[Mahady Hasan](https://github.com/mahadydev)** &mdash; Remove Material dependency from BuildOwner example<br />
   <sub>[#195282](https://github.com/flutter/flutter/pull/195282) opened on on October 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195282) 3 additions and 5 deletions in 3 files</sub><br />
 
@@ -469,4 +463,7 @@
 
 * **[Ashutosh Kumar](https://github.com/ashu3699)** &mdash; Fix double column/row offset for synthesized Table cell semantics nodes<br />
   <sub>[#195288](https://github.com/flutter/flutter/pull/195288) opened on on October 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195288) 113 additions and 4 deletions in 2 files</sub><br />
+
+* **[SaiTatter](https://github.com/saitatter)** &mdash; Fix ReorderableList drag under a scaled ancestor<br />
+  <sub>[#195304](https://github.com/flutter/flutter/pull/195304) opened on on October 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195304) 79 additions and 12 deletions in 2 files</sub><br />
 
