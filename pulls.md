@@ -446,8 +446,8 @@
 * **[Muhammad Uvesh](https://github.com/uveshm003)** &mdash; Document why KeyboardListener needs a FocusNode<br />
   <sub>[#195269](https://github.com/flutter/flutter/pull/195269) opened on on October 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195269) 28 additions and 0 deletions in 1 file</sub><br />
 
-* **[Eric Seidel](https://github.com/eseidel)** &mdash; [tool] Always regenerate Generated.xcconfig in build ios-framework<br />
-  <sub>[#195274](https://github.com/flutter/flutter/pull/195274) opened on on October 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195274) 117 additions and 0 deletions in 2 files</sub><br />
+* **[Jakub Homlala](https://github.com/jhomlala)** &mdash; [flutter_tools] Shut down isolates in --experimental-faster-testing when suite channels close<br />
+  <sub>[#195278](https://github.com/flutter/flutter/pull/195278) opened on on October 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195278) 77 additions and 5 deletions in 2 files</sub><br />
 
 * **[Leonardo.](https://github.com/leo7463647526287463836366463664464)** &mdash; Update lock.yml - gh pr checkout 195279<br />
   <sub>[#195279](https://github.com/flutter/flutter/pull/195279) opened on on October 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195279) 4 additions and 2 deletions in 1 file</sub><br />
