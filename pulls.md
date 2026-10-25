@@ -432,11 +432,20 @@
   <sub>[#195220](https://github.com/flutter/flutter/pull/195220) opened on on October 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195220) 29 additions and 8 deletions in 4 files</sub><br />
 
 * **[Luis Cardoza Bird](https://github.com/Crdzbird)** &mdash; Keep backgroundBlendMode in BoxDecoration.lerp and scale<br />
-  <sub>[#195226](https://github.com/flutter/flutter/pull/195226) opened on on October 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195226) 34 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#195226](https://github.com/flutter/flutter/pull/195226) opened on on October 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195226) 34 additions and 0 deletions in 2 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Minify GLSL shaders<br />
   <sub>[#195240](https://github.com/flutter/flutter/pull/195240) opened on on October 24, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/195240) 868 additions and 20 deletions in 6 files</sub><br />
 
 * **[Jakub Homlala](https://github.com/jhomlala)** &mdash; [flutter_tools] Cache test dill once on dispose instead of every compile<br />
   <sub>[#195256](https://github.com/flutter/flutter/pull/195256) opened on on October 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195256) 56 additions and 17 deletions in 2 files</sub><br />
+
+* **[Muhammad Uvesh](https://github.com/uveshm003)** &mdash; Document when RenderObject.debugPaint is called<br />
+  <sub>[#195268](https://github.com/flutter/flutter/pull/195268) opened on on October 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195268) 17 additions and 0 deletions in 1 file</sub><br />
+
+* **[Muhammad Uvesh](https://github.com/uveshm003)** &mdash; Document why KeyboardListener needs a FocusNode<br />
+  <sub>[#195269](https://github.com/flutter/flutter/pull/195269) opened on on October 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195269) 28 additions and 0 deletions in 1 file</sub><br />
+
+* **[Eric Seidel](https://github.com/eseidel)** &mdash; [tool] Always regenerate Generated.xcconfig in build ios-framework<br />
+  <sub>[#195274](https://github.com/flutter/flutter/pull/195274) opened on on October 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195274) 117 additions and 0 deletions in 2 files</sub><br />
 
