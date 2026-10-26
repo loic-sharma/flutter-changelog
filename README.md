@@ -338,6 +338,10 @@
   <sub>[#193607](https://github.com/flutter/flutter/pull/193607) merged on October 13, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/193607) over 1 week, 318 additions and 1096 deletions in 19 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller:gles] fixes early calls to flatten scenes<br />
+  <sub>[#194506](https://github.com/flutter/flutter/pull/194506) merged on October 17, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/194506) over 1 day, 587 additions and 77 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
+
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update cross imports checker to include examples<br />
   <sub>[#191427](https://github.com/flutter/flutter/pull/191427) merged on October 16, 2026 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/191427) over 1 month, 385 additions and 116 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
@@ -350,10 +354,6 @@
   <sub>[#194010](https://github.com/flutter/flutter/pull/194010) merged on October 13, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194010) over 4 days, 27 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [b-luk](https://github.com/b-luk)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1128" height="2254" alt="case1-A-vs-B" src="https://github.com/user-attachments/assets/4eabb7ee-7dc2-4a65-a50f-fc1b5a597be4" /></details></sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller:gles] fixes early calls to flatten scenes<br />
-  <sub>[#194506](https://github.com/flutter/flutter/pull/194506) merged on October 17, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/194506) over 1 day, 587 additions and 77 deletions in 15 files</sub><br />
-  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [b-luk](https://github.com/b-luk)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Handle newer "chosenRuntimeBuild" iOS simulator runtime key on devicelab tests<br />
   <sub>[#194509](https://github.com/flutter/flutter/pull/194509) merged on October 16, 2026 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/194509) over 23 hours, 365 additions and 44 deletions in 3 files</sub><br />
