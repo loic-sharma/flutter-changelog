@@ -416,6 +416,9 @@
 * **[Nikolai](https://github.com/npankov)** &mdash; Document Listenable builders and leaf-level state in State.setState<br />
   <sub>[#195146](https://github.com/flutter/flutter/pull/195146) opened on on October 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195146) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[leazer](https://github.com/super-lz)** &mdash; [iOS] Fix duplicate SMS autofill after marked-text commit<br />
+  <sub>[#195149](https://github.com/flutter/flutter/pull/195149) opened on on October 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195149) 134 additions and 0 deletions in 3 files</sub><br />
+
 * **[Vladislav](https://github.com/snoopdoggy322)** &mdash; [flutter_tools] Don't pass -sdk to xcodebuild for iOS simulator builds<br />
   <sub>[#195167](https://github.com/flutter/flutter/pull/195167) opened on on October 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195167) 37 additions and 8 deletions in 2 files</sub><br />
 
@@ -439,6 +442,9 @@
 
 * **[Jakub Homlala](https://github.com/jhomlala)** &mdash; [flutter_tools] Cache test dill once on dispose instead of every compile<br />
   <sub>[#195256](https://github.com/flutter/flutter/pull/195256) opened on on October 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195256) 56 additions and 17 deletions in 2 files</sub><br />
+
+* **[Rahul Shah](https://github.com/rahulshahDEV)** &mdash; Allow replacing visible system context menus<br />
+  <sub>[#195261](https://github.com/flutter/flutter/pull/195261) opened on on October 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195261) 86 additions and 22 deletions in 2 files</sub><br />
 
 * **[Muhammad Uvesh](https://github.com/uveshm003)** &mdash; Document when RenderObject.debugPaint is called<br />
   <sub>[#195268](https://github.com/flutter/flutter/pull/195268) opened on on October 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195268) 17 additions and 0 deletions in 1 file</sub><br />
@@ -466,4 +472,7 @@
 
 * **[SaiTatter](https://github.com/saitatter)** &mdash; Fix ReorderableList drag under a scaled ancestor<br />
   <sub>[#195304](https://github.com/flutter/flutter/pull/195304) opened on on October 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195304) 79 additions and 12 deletions in 2 files</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Share AiksContext across OpenGL ES surfaces<br />
+  <sub>[#195310](https://github.com/flutter/flutter/pull/195310) opened on on October 26, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/195310) 181 additions and 21 deletions in 7 files</sub><br />
 
