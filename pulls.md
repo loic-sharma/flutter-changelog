@@ -291,7 +291,7 @@
   <sub>[#194563](https://github.com/flutter/flutter/pull/194563) opened on on October 16, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/194563) 1530 additions and 191 deletions in 7 files</sub><br />
 
 * **[Christophy Barth](https://github.com/ChristophyBarth)** &mdash; [web] Expose mixed tristate checkboxes as aria-checked="mixed"<br />
-  <sub>[#194586](https://github.com/flutter/flutter/pull/194586) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194586) 39 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#194586](https://github.com/flutter/flutter/pull/194586) opened on on October 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194586) 39 additions and 8 deletions in 2 files</sub><br />
 
 * **[Naman Goyal](https://github.com/NamanGoyalK)** &mdash; Gracefully handle ShaderCompilerException in writeBundle and copy_assets<br />
   <sub>[#194634](https://github.com/flutter/flutter/pull/194634) opened on on October 17, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194634) 183 additions and 10 deletions in 4 files</sub><br />
@@ -320,9 +320,6 @@
 * **[Dmytro Popov](https://github.com/mitryp)** &mdash; [gen_l10n] Add `use-explicit-plural-values` option<br />
   <sub>[#194816](https://github.com/flutter/flutter/pull/194816) opened on on October 19, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/194816) 294 additions and 4 deletions in 6 files</sub><br />
 
-* **[sunsetyyun](https://github.com/sunsetyyun)** &mdash; [stable][Linux] Dispose sibling framebuffers in their creation context<br />
-  <sub>[#194841](https://github.com/flutter/flutter/pull/194841) opened on on October 20, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194841) 141 additions and 0 deletions in 6 files</sub><br />
-
 * **[Kyrylo K.](https://github.com/krll-kov)** &mdash; Add --windows-aot-format to optionally build Windows x64 AOT snapshots as ELF again instead of PE/COFF<br />
   <sub>[#194854](https://github.com/flutter/flutter/pull/194854) opened on on October 20, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/194854) 388 additions and 37 deletions in 15 files</sub><br />
 
@@ -345,7 +342,7 @@
   <sub>[#194976](https://github.com/flutter/flutter/pull/194976) opened on on October 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194976) 182 additions and 76 deletions in 3 files</sub><br />
 
 * **[James O'Leary](https://github.com/jpohhhh)** &mdash; [Impeller] Order the Vulkan depth/stencil clear after earlier depth writes<br />
-  <sub>[#194990](https://github.com/flutter/flutter/pull/194990) opened on on October 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194990) 134 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#194990](https://github.com/flutter/flutter/pull/194990) opened on on October 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194990) 134 additions and 0 deletions in 4 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Sync local sky_engine Dart sources in fork Tree_analyze runs<br />
   <sub>[#195014](https://github.com/flutter/flutter/pull/195014) opened on on October 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195014) 29 additions and 0 deletions in 1 file</sub><br />
@@ -381,7 +378,7 @@
   <sub>[#195167](https://github.com/flutter/flutter/pull/195167) opened on on October 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195167) 37 additions and 8 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updates zlib to 1.3.2<br />
-  <sub>[#195173](https://github.com/flutter/flutter/pull/195173) opened on on October 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195173) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#195173](https://github.com/flutter/flutter/pull/195173) opened on on October 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195173) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Remove Material dependency from splash example<br />
   <sub>[#195220](https://github.com/flutter/flutter/pull/195220) opened on on October 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195220) 29 additions and 8 deletions in 4 files</sub><br />
@@ -434,12 +431,15 @@
 * **[Mohammed Al-Samarraie](https://github.com/mohamedalsamrai)** &mdash; Use named uniforms instead of setFloat in StretchEffect<br />
   <sub>[#195372](https://github.com/flutter/flutter/pull/195372) opened on on October 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195372) 10 additions and 8 deletions in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; [CP-stable]Remove skia iOS benchmark <br />
-  <sub>[#195373](https://github.com/flutter/flutter/pull/195373) opened on on October 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195373) 1 addition and 24 deletions in 4 files</sub><br />
-
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [web_paragraph] Map code units without a cluster to a cluster<br />
-  <sub>[#195384](https://github.com/flutter/flutter/pull/195384) opened on on October 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195384) 133 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#195384](https://github.com/flutter/flutter/pull/195384) opened on on October 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195384) 133 additions and 5 deletions in 2 files</sub><br />
 
 * **[Chandra ObulaReddy](https://github.com/ChandraChaan)** &mdash; Fix TableBorder.lerp and scale dropping borderRadius<br />
   <sub>[#195398](https://github.com/flutter/flutter/pull/195398) opened on on October 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195398) 21 additions and 0 deletions in 2 files</sub><br />
+
+* **[Chandra ObulaReddy](https://github.com/ChandraChaan)** &mdash; Include misspelledSelectionColor in SpellCheckConfiguration equality<br />
+  <sub>[#195404](https://github.com/flutter/flutter/pull/195404) opened on on October 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195404) 51 additions and 0 deletions in 2 files</sub><br />
+
+* **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Fix portable_ui_test.h includes for newer Fuchsia SDKs<br />
+  <sub>[#195420](https://github.com/flutter/flutter/pull/195420) opened on on October 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195420) 2 additions and 2 deletions in 2 files</sub><br />
 
