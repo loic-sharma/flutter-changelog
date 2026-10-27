@@ -266,9 +266,6 @@
 * **[Mingyun Chae](https://github.com/mg-mg-mg)** &mdash; [flutter_tools] Prevent Git repository environment re-inheritance<br />
   <sub>[#194429](https://github.com/flutter/flutter/pull/194429) opened on on October 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194429) 112 additions and 5 deletions in 11 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [devicelab] Trigger navigation tap via Flutter Driver in service_extensions_test<br />
-  <sub>[#194456](https://github.com/flutter/flutter/pull/194456) opened on on October 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194456) 16 additions and 4 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [devicelab] Fix memory benchmark tap synchronization and swipe flakes<br />
   <sub>[#194457](https://github.com/flutter/flutter/pull/194457) opened on on October 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194457) 202 additions and 71 deletions in 9 files</sub><br />
 
@@ -444,5 +441,5 @@
   <sub>[#195384](https://github.com/flutter/flutter/pull/195384) opened on on October 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195384) 133 additions and 5 deletions in 2 files</sub><br />
 
 * **[Chandra ObulaReddy](https://github.com/ChandraChaan)** &mdash; Fix TableBorder.lerp and scale dropping borderRadius<br />
-  <sub>[#195398](https://github.com/flutter/flutter/pull/195398) opened on on October 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195398) 21 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#195398](https://github.com/flutter/flutter/pull/195398) opened on on October 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195398) 21 additions and 0 deletions in 2 files</sub><br />
 
