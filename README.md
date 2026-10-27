@@ -4,7 +4,7 @@
 
 ### October 24, 2026 to October 30, 2026
 
-13 commits.
+15 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Compute shaders on Metal and Vulkan<br />
   <sub>[#193805](https://github.com/flutter/flutter/pull/193805) merged on October 26, 2026 &mdash; **Extra large:** [125 comments](https://github.com/flutter/flutter/pull/193805) over 3 weeks, 6059 additions and 359 deletions in 76 files</sub><br />
@@ -17,6 +17,14 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Migrate iOS devices, simulators, emulators, and XCDevice away from globals<br />
   <sub>[#193651](https://github.com/flutter/flutter/pull/193651) merged on October 26, 2026 &mdash; **Extra large:** [22 comments](https://github.com/flutter/flutter/pull/193651) over 3 weeks, 1629 additions and 1531 deletions in 28 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
+* **[walley892](https://github.com/walley892)** &mdash; Add benchmark for warmed pipeline usage<br />
+  <sub>[#195001](https://github.com/flutter/flutter/pull/195001) merged on October 27, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/195001) over 5 days, 400 additions and 69 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add device log streaming support to DeviceService and ExtensionBackedDevice<br />
+  <sub>[#194964](https://github.com/flutter/flutter/pull/194964) merged on October 27, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/194964) over 5 days, 1030 additions and 38 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Jonas Ockerman](https://github.com/Ockerjo)** &mdash; [web] Decode only the view's bytes in the non-ImageDecoder image fallback<br />
   <sub>[#194069](https://github.com/flutter/flutter/pull/194069) merged on October 26, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/194069) over 2 weeks, 38 additions and 1 deletion in 2 files</sub><br />
@@ -787,7 +795,36 @@
 
 ### October 24, 2026 to October 30, 2026
 
-2 commits.
+9 commits.
+
+* **[Munawer Ali](https://github.com/Munawer-Ali)** &mdash; [material_ui] Add Checkbox.markInsets<br />
+  <sub>[#12690](https://github.com/flutter/packages/pull/12690) merged on October 27, 2026 &mdash; **Medium:** [37 comments](https://github.com/flutter/packages/pull/12690) over 1 month, 319 additions and 10 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Elliott Brooks](https://github.com/elliette), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Kenneth Koh](https://github.com/xRossKoh)** &mdash; [shared_preferences] Defer SharedPreferences fetch in `LegacySharedPreferencesPlugin` until first use on Android<br />
+  <sub>[#13431](https://github.com/flutter/packages/pull/13431) merged on October 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/13431) over 23 hours, 35 additions and 3 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Jia Hao](https://github.com/jiahaog)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="1920" height="552" alt="shared_preferences_registration_comparison_perfetto" src="https://github.com/user-attachments/assets/c1fea032-a499-4fa4-91de-13648ea03999" /></details></sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [cupertino_ui] Unskip web tests that pass on CanvasKit and Skwasm: nav_bar_transition_test, refresh_test, route_test, text_field_cursor_test<br />
+  <sub>[#13439](https://github.com/flutter/packages/pull/13439) merged on October 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/13439) over 9 hours, 0 additions and 8 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Fix `TextTheme` and `Typography` `debugFillProperties` defaults<br />
+  <sub>[#13374](https://github.com/flutter/packages/pull/13374) merged on October 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/13374) over 5 days, 90 additions and 101 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Update out-of-date typography documentation<br />
+  <sub>[#13372](https://github.com/flutter/packages/pull/13372) merged on October 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/13372) over 5 days, 12 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [material_ui] Fix MenuAnchor non-Unicode shortcut labels on JS web<br />
+  <sub>[#13370](https://github.com/flutter/packages/pull/13370) merged on October 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/13370) over 5 days, 49 additions and 10 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Mac kingsley](https://github.com/mackings)** &mdash; [vector_graphics_compiler] Handle coordinate lists on text and tspan<br />
+  <sub>[#13287](https://github.com/flutter/packages/pull/13287) merged on October 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/13287) over 1 week, 62 additions and 5 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences_foundation] Fix web compilation of apps that import the package<br />
   <sub>[#13447](https://github.com/flutter/packages/pull/13447) merged on October 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/13447) over 1 hour, 100 additions and 38 deletions in 8 files</sub><br />

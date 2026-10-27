@@ -98,6 +98,9 @@
 * **[artemkulyk](https://github.com/artemkulyk)** &mdash; [Impeller] Cache stroke path tessellations on second use<br />
   <sub>[#192682](https://github.com/flutter/flutter/pull/192682) opened on on September 12, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/192682) 801 additions and 47 deletions in 11 files</sub><br />
 
+* **[shinofara](https://github.com/shinofara)** &mdash; Fix null check crash in flushSemantics from a stale ancestor geometry cache<br />
+  <sub>[#192724](https://github.com/flutter/flutter/pull/192724) opened on on September 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192724) 111 additions and 0 deletions in 2 files</sub><br />
+
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; Add animationBehavior to widgets using AnimationController<br />
   <sub>[#192795](https://github.com/flutter/flutter/pull/192795) opened on on September 15, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/192795) 1004 additions and 131 deletions in 81 files</sub><br />
 
@@ -264,7 +267,7 @@
   <sub>[#194429](https://github.com/flutter/flutter/pull/194429) opened on on October 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194429) 112 additions and 5 deletions in 11 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [devicelab] Trigger navigation tap via Flutter Driver in service_extensions_test<br />
-  <sub>[#194456](https://github.com/flutter/flutter/pull/194456) opened on on October 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194456) 14 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#194456](https://github.com/flutter/flutter/pull/194456) opened on on October 15, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194456) 16 additions and 4 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [devicelab] Fix memory benchmark tap synchronization and swipe flakes<br />
   <sub>[#194457](https://github.com/flutter/flutter/pull/194457) opened on on October 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194457) 202 additions and 71 deletions in 9 files</sub><br />
@@ -429,7 +432,7 @@
   <sub>[#195352](https://github.com/flutter/flutter/pull/195352) opened on on October 26, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/195352) 1103 additions and 40 deletions in 20 files</sub><br />
 
 * **[apooverma](https://github.com/apooverma)** &mdash; [iOS] Hide UIScrollEdgeEffect on FlutterSemanticsScrollView on iOS 26+<br />
-  <sub>[#195356](https://github.com/flutter/flutter/pull/195356) opened on on October 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195356) 25 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#195356](https://github.com/flutter/flutter/pull/195356) opened on on October 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195356) 21 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mohammed Al-Samarraie](https://github.com/mohamedalsamrai)** &mdash; Use named uniforms instead of setFloat in StretchEffect<br />
   <sub>[#195372](https://github.com/flutter/flutter/pull/195372) opened on on October 26, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195372) 10 additions and 8 deletions in 1 file</sub><br />
@@ -439,4 +442,7 @@
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [web_paragraph] Map code units without a cluster to a cluster<br />
   <sub>[#195384](https://github.com/flutter/flutter/pull/195384) opened on on October 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195384) 133 additions and 5 deletions in 2 files</sub><br />
+
+* **[Chandra ObulaReddy](https://github.com/ChandraChaan)** &mdash; Fix TableBorder.lerp and scale dropping borderRadius<br />
+  <sub>[#195398](https://github.com/flutter/flutter/pull/195398) opened on on October 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195398) 21 additions and 0 deletions in 2 files</sub><br />
 
