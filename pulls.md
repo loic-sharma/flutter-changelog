@@ -131,9 +131,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update `linux_android_emu` to 37 AVD<br />
   <sub>[#193246](https://github.com/flutter/flutter/pull/193246) opened on on September 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193246) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Ahmed Allam](https://github.com/Ahmed-3lam)** &mdash; Document that hidden Visibility children still receive Flex/Wrap spacing<br />
-  <sub>[#193277](https://github.com/flutter/flutter/pull/193277) opened on on September 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193277) 7 additions and 0 deletions in 1 file</sub><br />
-
 * **[Ayodele Ayoola](https://github.com/CreedTech)** &mdash; Make RawScrollbar respect pointer axis modifiers<br />
   <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/193290) 198 additions and 8 deletions in 3 files</sub><br />
 
@@ -261,10 +258,10 @@
   <sub>[#194457](https://github.com/flutter/flutter/pull/194457) opened on on October 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194457) 202 additions and 71 deletions in 9 files</sub><br />
 
 * **[maitycyrus](https://github.com/maitycyrus)** &mdash; Add animationBehavior to ImplicitlyAnimatedWidget<br />
-  <sub>[#194468](https://github.com/flutter/flutter/pull/194468) opened on on October 15, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/194468) 241 additions and 9 deletions in 5 files</sub><br />
+  <sub>[#194468](https://github.com/flutter/flutter/pull/194468) opened on on October 15, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/194468) 241 additions and 9 deletions in 5 files</sub><br />
 
 * **[Awais Rehman](https://github.com/awaisdev5765)** &mdash; Support multi-view apps in widget test binding<br />
-  <sub>[#194480](https://github.com/flutter/flutter/pull/194480) opened on on October 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194480) 46 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#194480](https://github.com/flutter/flutter/pull/194480) opened on on October 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194480) 46 additions and 4 deletions in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't terminate the shared EGL display when an engine is disposed<br />
   <sub>[#194520](https://github.com/flutter/flutter/pull/194520) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194520) 57 additions and 1 deletion in 3 files</sub><br />
@@ -318,7 +315,7 @@
   <sub>[#194908](https://github.com/flutter/flutter/pull/194908) opened on on October 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194908) 92 additions and 6 deletions in 6 files</sub><br />
 
 * **[Amr Elgendy](https://github.com/amrelgendy0)** &mdash; Support flutter run for iOS apps on Apple silicon Macs<br />
-  <sub>[#194922](https://github.com/flutter/flutter/pull/194922) opened on on October 21, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/194922) 1462 additions and 90 deletions in 32 files</sub><br />
+  <sub>[#194922](https://github.com/flutter/flutter/pull/194922) opened on on October 21, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/194922) 1471 additions and 90 deletions in 32 files</sub><br />
 
 * **[Bilal Khan](https://github.com/BilalWalker)** &mdash; [widget_preview] Stop leaking the previewer ListTileTheme into previewed widgets<br />
   <sub>[#194976](https://github.com/flutter/flutter/pull/194976) opened on on October 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194976) 182 additions and 76 deletions in 3 files</sub><br />
@@ -348,7 +345,7 @@
   <sub>[#195129](https://github.com/flutter/flutter/pull/195129) opened on on October 23, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/195129) 63 additions and 1 deletion in 9 files</sub><br />
 
 * **[Nikolai](https://github.com/npankov)** &mdash; Document using a ListView inside a Column<br />
-  <sub>[#195145](https://github.com/flutter/flutter/pull/195145) opened on on October 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195145) 51 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#195145](https://github.com/flutter/flutter/pull/195145) opened on on October 23, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/195145) 51 additions and 0 deletions in 1 file</sub><br />
 
 * **[leazer](https://github.com/super-lz)** &mdash; [iOS] Fix duplicate SMS autofill after marked-text commit<br />
   <sub>[#195149](https://github.com/flutter/flutter/pull/195149) opened on on October 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195149) 134 additions and 0 deletions in 3 files</sub><br />
@@ -399,11 +396,11 @@
   <sub>[#195444](https://github.com/flutter/flutter/pull/195444) opened on on October 27, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/195444) 95 additions and 327 deletions in 11 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [VPAT] Expose a semantics text field value while it is not being edited<br />
-  <sub>[#195445](https://github.com/flutter/flutter/pull/195445) opened on on October 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195445) 82 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#195445](https://github.com/flutter/flutter/pull/195445) opened on on October 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195445) 82 additions and 10 deletions in 3 files</sub><br />
 
 * **[palmoni5](https://github.com/palmoni5)** &mdash; [a11y] Keep AccessibilityBridge usable after nested reparenting<br />
   <sub>[#195448](https://github.com/flutter/flutter/pull/195448) opened on on October 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195448) 199 additions and 22 deletions in 3 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update golden file testing docs<br />
-  <sub>[#195449](https://github.com/flutter/flutter/pull/195449) opened on on October 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195449) 110 additions and 93 deletions in 3 files</sub><br />
+* **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Use real-home ssh keys for ffx in emulator tests<br />
+  <sub>[#195453](https://github.com/flutter/flutter/pull/195453) opened on on October 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195453) 12 additions and 0 deletions in 1 file</sub><br />
 

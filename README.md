@@ -4,7 +4,7 @@
 
 ### October 24, 2026 to October 30, 2026
 
-23 commits.
+24 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Compute shaders on Metal and Vulkan<br />
   <sub>[#193805](https://github.com/flutter/flutter/pull/193805) merged on October 26, 2026 &mdash; **Extra large:** [125 comments](https://github.com/flutter/flutter/pull/193805) over 3 weeks, 6059 additions and 359 deletions in 76 files</sub><br />
@@ -33,6 +33,10 @@
 * **[walley892](https://github.com/walley892)** &mdash; Add benchmark for warmed pipeline usage<br />
   <sub>[#195001](https://github.com/flutter/flutter/pull/195001) merged on October 27, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/195001) over 5 days, 400 additions and 69 deletions in 17 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Inject dependencies into Darwin build targets, native assets, and Xcode build settings<br />
+  <sub>[#194052](https://github.com/flutter/flutter/pull/194052) merged on October 27, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194052) over 2 weeks, 927 additions and 449 deletions in 32 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add device log streaming support to DeviceService and ExtensionBackedDevice<br />
   <sub>[#194964](https://github.com/flutter/flutter/pull/194964) merged on October 27, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/194964) over 5 days, 1030 additions and 38 deletions in 5 files</sub><br />
@@ -827,7 +831,7 @@
 
 ### October 24, 2026 to October 30, 2026
 
-15 commits.
+18 commits.
 
 * **[Munawer Ali](https://github.com/Munawer-Ali)** &mdash; [material_ui] Add Checkbox.markInsets<br />
   <sub>[#12690](https://github.com/flutter/packages/pull/12690) merged on October 27, 2026 &mdash; **Medium:** [37 comments](https://github.com/flutter/packages/pull/12690) over 1 month, 319 additions and 10 deletions in 5 files</sub><br />
@@ -850,6 +854,10 @@
   <sub>[#13371](https://github.com/flutter/packages/pull/13371) merged on October 27, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/13371) over 5 days, 406 additions and 569 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [google_maps_flutter_ios, pigeon, webview_flutter_wkwebview] Migrate remaining example apps to uiscene<br />
+  <sub>[#13280](https://github.com/flutter/packages/pull/13280) merged on October 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/13280) over 1 week, 89 additions and 2 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [material_ui] Decouple disabled CheckboxListTile state in a11y_assessments<br />
   <sub>[#13177](https://github.com/flutter/packages/pull/13177) merged on October 27, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/13177) over 2 weeks, 14 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
@@ -857,6 +865,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit} Fix more test flakes <br />
   <sub>[#13279](https://github.com/flutter/packages/pull/13279) merged on October 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/13279) over 1 week, 2 additions and 60 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [material_ui] Unskip web tests that pass on CanvasKit and Skwasm: data_table_test, floating_action_button_test, text_field_cursor_test<br />
+  <sub>[#13460](https://github.com/flutter/packages/pull/13460) merged on October 27, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/13460) over 5 hours, 9 additions and 14 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [renzo-olivares-agent](https://github.com/renzo-olivares-agent), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Deprecate the black/white parameters in `Typography.material2021`<br />
   <sub>[#13443](https://github.com/flutter/packages/pull/13443) merged on October 27, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/13443) over 21 hours, 80 additions and 5 deletions in 3 files</sub><br />
@@ -873,6 +885,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Update out-of-date typography documentation<br />
   <sub>[#13372](https://github.com/flutter/packages/pull/13372) merged on October 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/13372) over 5 days, 12 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; manually roll flutter and fix flaky video player test that is preventing roll from landing<br />
+  <sub>[#13465](https://github.com/flutter/packages/pull/13465) merged on October 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/13465) over 1 hour, 3 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [material_ui] Fix MenuAnchor non-Unicode shortcut labels on JS web<br />
   <sub>[#13370](https://github.com/flutter/packages/pull/13370) merged on October 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/13370) over 5 days, 49 additions and 10 deletions in 3 files</sub><br />
