@@ -236,8 +236,8 @@
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix TreeSliver painting during rapid toggles<br />
   <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194172) 163 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Corrected back navigation behavior when using RouterConfig (default back button dispatcher)<br />
-  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194173) 119 additions and 10 deletions in 2 files</sub><br />
+* **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix system back dispatch with RouterConfig<br />
+  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194173) 200 additions and 12 deletions in 2 files</sub><br />
 
 * **[MukeshKBagariya](https://github.com/MukeshKBagariya)** &mdash; Regenerate plugin registrants for release builds with --no-pub<br />
   <sub>[#194204](https://github.com/flutter/flutter/pull/194204) opened on on October 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194204) 162 additions and 7 deletions in 3 files</sub><br />
@@ -258,10 +258,10 @@
   <sub>[#194457](https://github.com/flutter/flutter/pull/194457) opened on on October 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194457) 202 additions and 71 deletions in 9 files</sub><br />
 
 * **[maitycyrus](https://github.com/maitycyrus)** &mdash; Add animationBehavior to ImplicitlyAnimatedWidget<br />
-  <sub>[#194468](https://github.com/flutter/flutter/pull/194468) opened on on October 15, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/194468) 241 additions and 9 deletions in 5 files</sub><br />
+  <sub>[#194468](https://github.com/flutter/flutter/pull/194468) opened on on October 15, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/194468) 256 additions and 9 deletions in 5 files</sub><br />
 
 * **[Awais Rehman](https://github.com/awaisdev5765)** &mdash; Support multi-view apps in widget test binding<br />
-  <sub>[#194480](https://github.com/flutter/flutter/pull/194480) opened on on October 15, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194480) 46 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#194480](https://github.com/flutter/flutter/pull/194480) opened on on October 15, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/194480) 89 additions and 12 deletions in 4 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't terminate the shared EGL display when an engine is disposed<br />
   <sub>[#194520](https://github.com/flutter/flutter/pull/194520) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194520) 57 additions and 1 deletion in 3 files</sub><br />
@@ -388,9 +388,6 @@
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [web_paragraph] Map code units without a cluster to a cluster<br />
   <sub>[#195384](https://github.com/flutter/flutter/pull/195384) opened on on October 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195384) 133 additions and 5 deletions in 2 files</sub><br />
-
-* **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Fix portable_ui_test.h includes for newer Fuchsia SDKs<br />
-  <sub>[#195420](https://github.com/flutter/flutter/pull/195420) opened on on October 27, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195420) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [CP-stable] Migrate CI to macOS 26<br />
   <sub>[#195444](https://github.com/flutter/flutter/pull/195444) opened on on October 27, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/195444) 95 additions and 327 deletions in 11 files</sub><br />
