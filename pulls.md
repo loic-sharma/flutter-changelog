@@ -153,7 +153,7 @@
   <sub>[#193413](https://github.com/flutter/flutter/pull/193413) opened on on September 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193413) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[awababushnagh0-sudo](https://github.com/awababushnagh0-sudo)** &mdash; Clarify that super.dispose() must be called synchronously<br />
-  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/193416) 92 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/193416) 94 additions and 1 deletion in 2 files</sub><br />
 
 * **[Aurora](https://github.com/auroraxo)** &mdash; docs: remove broken screenshot references in dev/snippets README<br />
   <sub>[#193429](https://github.com/flutter/flutter/pull/193429) opened on on September 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193429) 0 additions and 4 deletions in 1 file</sub><br />
@@ -294,7 +294,7 @@
   <sub>[#194687](https://github.com/flutter/flutter/pull/194687) opened on on October 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194687) 0 additions and 4 deletions in 4 files</sub><br />
 
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; [flutter_tools] Support fixed asset keys for flavor-specific configuration files<br />
-  <sub>[#194725](https://github.com/flutter/flutter/pull/194725) opened on on October 19, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/194725) 667 additions and 10 deletions in 7 files</sub><br />
+  <sub>[#194725](https://github.com/flutter/flutter/pull/194725) opened on on October 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194725) 667 additions and 10 deletions in 7 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Share Analytics.isBot and make isRunningOnBot sync<br />
   <sub>[#194744](https://github.com/flutter/flutter/pull/194744) opened on on October 19, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194744) 58 additions and 107 deletions in 15 files</sub><br />
@@ -381,7 +381,7 @@
   <sub>[#195288](https://github.com/flutter/flutter/pull/195288) opened on on October 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195288) 113 additions and 4 deletions in 2 files</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Remove handshake test<br />
-  <sub>[#195329](https://github.com/flutter/flutter/pull/195329) opened on on October 26, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/195329) 0 additions and 335 deletions in 8 files</sub><br />
+  <sub>[#195329](https://github.com/flutter/flutter/pull/195329) opened on on October 26, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/195329) 0 additions and 337 deletions in 8 files</sub><br />
 
 * **[apooverma](https://github.com/apooverma)** &mdash; [iOS] Hide UIScrollEdgeEffect on FlutterSemanticsScrollView on iOS 26+<br />
   <sub>[#195356](https://github.com/flutter/flutter/pull/195356) opened on on October 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195356) 21 additions and 0 deletions in 2 files</sub><br />
@@ -398,6 +398,9 @@
 * **[palmoni5](https://github.com/palmoni5)** &mdash; [a11y] Keep AccessibilityBridge usable after nested reparenting<br />
   <sub>[#195448](https://github.com/flutter/flutter/pull/195448) opened on on October 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195448) 199 additions and 22 deletions in 3 files</sub><br />
 
-* **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Use real-home ssh keys for ffx in emulator tests<br />
-  <sub>[#195453](https://github.com/flutter/flutter/pull/195453) opened on on October 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195453) 12 additions and 0 deletions in 1 file</sub><br />
+* **[liu](https://github.com/devsliu)** &mdash; Fix TapGestureRecognizer stuck state when native dialog swallows pointer events<br />
+  <sub>[#195472](https://github.com/flutter/flutter/pull/195472) opened on on October 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195472) 12 additions and 0 deletions in 1 file</sub><br />
+
+* **[Shubham Padkonde](https://github.com/Shubham-Padkonde)** &mdash; Refresh Focus semantics after attaching to its focus parent<br />
+  <sub>[#195485](https://github.com/flutter/flutter/pull/195485) opened on on October 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195485) 72 additions and 0 deletions in 2 files</sub><br />
 
