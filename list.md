@@ -863,7 +863,7 @@
 
 ### October 24, 2026 to October 30, 2026
 
-22 commits.
+23 commits.
 
 * **[Munawer Ali](https://github.com/Munawer-Ali)** &mdash; [material_ui] Add Checkbox.markInsets
   <sub>[#12690](https://github.com/flutter/packages/pull/12690) merged on October 27, 2026 &mdash; **Medium:** [37 comments](https://github.com/flutter/packages/pull/12690) over 1 month, 319 additions and 10 deletions in 5 files</sub>
@@ -929,6 +929,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Update out-of-date typography documentation
   <sub>[#13372](https://github.com/flutter/packages/pull/13372) merged on October 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/13372) over 5 days, 12 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] update jni dependency to ^1.1.1 and remove workaround proguard rules
+  <sub>[#13464](https://github.com/flutter/packages/pull/13464) merged on October 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/13464) over 1 day, 54 additions and 132 deletions in 14 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [material_ui] Unskip long press drag test on web
   <sub>[#13358](https://github.com/flutter/packages/pull/13358) merged on October 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/13358) over 1 week, 7 additions and 5 deletions in 1 file</sub>
