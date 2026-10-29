@@ -188,12 +188,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Link to MediaQuery.displayFeaturesOf from DisplayFeatures<br />
   <sub>[#193728](https://github.com/flutter/flutter/pull/193728) opened on on October 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193728) 6 additions and 2 deletions in 2 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Correct Android manifest merged thread flag in perf test<br />
-  <sub>[#193866](https://github.com/flutter/flutter/pull/193866) opened on on October 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193866) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[京华](https://github.com/ZhuJHua)** &mdash; [Android] Report the caret location in CursorAnchorInfo<br />
-  <sub>[#193879](https://github.com/flutter/flutter/pull/193879) opened on on October 6, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/193879) 594 additions and 0 deletions in 6 files</sub><br />
-
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Better Error for Add-to-app minCompileSdk<br />
   <sub>[#193886](https://github.com/flutter/flutter/pull/193886) opened on on October 6, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/193886) 1771 additions and 31 deletions in 16 files</sub><br />
 
@@ -264,7 +258,7 @@
   <sub>[#194531](https://github.com/flutter/flutter/pull/194531) opened on on October 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194531) 69 additions and 0 deletions in 4 files</sub><br />
 
 * **[Luis Cardoza Bird](https://github.com/Crdzbird)** &mdash; Skip semantics configuration on attach when semantics is off<br />
-  <sub>[#194557](https://github.com/flutter/flutter/pull/194557) opened on on October 16, 2026 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/194557) 51 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#194557](https://github.com/flutter/flutter/pull/194557) opened on on October 16, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/194557) 51 additions and 9 deletions in 3 files</sub><br />
 
 * **[Marcel van Remmerden](https://github.com/MvRemmerden)** &mdash; [iOS] Prune disposed platform views' raster-thread state on the raster thread<br />
   <sub>[#194560](https://github.com/flutter/flutter/pull/194560) opened on on October 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194560) 152 additions and 12 deletions in 3 files</sub><br />
@@ -386,21 +380,18 @@
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [VPAT] Expose a semantics text field value while it is not being edited<br />
   <sub>[#195445](https://github.com/flutter/flutter/pull/195445) opened on on October 27, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195445) 82 additions and 10 deletions in 3 files</sub><br />
 
-* **[palmoni5](https://github.com/palmoni5)** &mdash; [a11y] Keep AccessibilityBridge usable after nested reparenting<br />
-  <sub>[#195448](https://github.com/flutter/flutter/pull/195448) opened on on October 27, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195448) 199 additions and 22 deletions in 3 files</sub><br />
-
 * **[liu](https://github.com/devsliu)** &mdash; Fix TapGestureRecognizer stuck state when native dialog swallows pointer events<br />
   <sub>[#195472](https://github.com/flutter/flutter/pull/195472) opened on on October 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195472) 12 additions and 0 deletions in 1 file</sub><br />
-
-* **[Shubham Padkonde](https://github.com/Shubham-Padkonde)** &mdash; Refresh Focus semantics after attaching to its focus parent<br />
-  <sub>[#195485](https://github.com/flutter/flutter/pull/195485) opened on on October 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195485) 72 additions and 0 deletions in 2 files</sub><br />
 
 * **[Shubham Padkonde](https://github.com/Shubham-Padkonde)** &mdash; Preserve negative angles when interpolating sweep gradients<br />
   <sub>[#195498](https://github.com/flutter/flutter/pull/195498) opened on on October 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195498) 52 additions and 2 deletions in 2 files</sub><br />
 
-* **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [3.47] Changelog for 3.47.9<br />
-  <sub>[#195509](https://github.com/flutter/flutter/pull/195509) opened on on October 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195509) 5 additions and 0 deletions in 1 file</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Deprecates setFloat API<br />
+  <sub>[#195505](https://github.com/flutter/flutter/pull/195505) opened on on October 28, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195505) 44 additions and 24 deletions in 2 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Remove unused vulkan_provider.cc<br />
-  <sub>[#195513](https://github.com/flutter/flutter/pull/195513) opened on on October 28, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195513) 1 addition and 25 deletions in 2 files</sub><br />
+  <sub>[#195513](https://github.com/flutter/flutter/pull/195513) opened on on October 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195513) 1 addition and 25 deletions in 2 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Replace pull_request_target workflows with pull_request + workflow_run<br />
+  <sub>[#195536](https://github.com/flutter/flutter/pull/195536) opened on on October 28, 2026 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/195536) 801 additions and 183 deletions in 12 files</sub><br />
 
