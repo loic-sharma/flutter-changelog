@@ -153,7 +153,7 @@
   <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/193416) 94 additions and 1 deletion in 2 files</sub><br />
 
 * **[Aurora](https://github.com/auroraxo)** &mdash; docs: remove broken screenshot references in dev/snippets README<br />
-  <sub>[#193429](https://github.com/flutter/flutter/pull/193429) opened on on September 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/193429) 0 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#193429](https://github.com/flutter/flutter/pull/193429) opened on on September 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193429) 0 additions and 4 deletions in 1 file</sub><br />
 
 * **[Marcin Jedrzejewski](https://github.com/luskan)** &mdash; [Android] Skip the HardwareBuffer defect fallback for platform views<br />
   <sub>[#193441](https://github.com/flutter/flutter/pull/193441) opened on on September 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193441) 102 additions and 2 deletions in 4 files</sub><br />
@@ -397,4 +397,19 @@
 
 * **[MOHAMMAD OTHMAN ](https://github.com/Abojawdat)** &mdash; Add regression test for onDrag keyboard dismiss refocusing after pop<br />
   <sub>[#195557](https://github.com/flutter/flutter/pull/195557) opened on on October 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195557) 40 additions and 0 deletions in 1 file</sub><br />
+
+* **[Ronit Rameja](https://github.com/master-wayne7)** &mdash; Rebuild EditableText when it regains focus with a valid selection<br />
+  <sub>[#195563](https://github.com/flutter/flutter/pull/195563) opened on on October 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195563) 73 additions and 3 deletions in 2 files</sub><br />
+
+* **[NemesisDev](https://github.com/NemesisDevX)** &mdash; [web][a11y] Initialize slider semantics values when enabling<br />
+  <sub>[#195564](https://github.com/flutter/flutter/pull/195564) opened on on October 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195564) 216 additions and 4 deletions in 2 files</sub><br />
+
+* **[Mason Liu](https://github.com/masonliiu)** &mdash; [Linux] Fix stuck modifier when two keys are pressed as the same modifier<br />
+  <sub>[#195565](https://github.com/flutter/flutter/pull/195565) opened on on October 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195565) 189 additions and 22 deletions in 2 files</sub><br />
+
+* **[Faizan Ullah](https://github.com/FaizanUllahDev)** &mdash; Fix TextField context menu after focus returns with unchanged selection<br />
+  <sub>[#195572](https://github.com/flutter/flutter/pull/195572) opened on on October 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/195572) 138 additions and 3 deletions in 2 files</sub><br />
+
+* **[NemesisDev](https://github.com/NemesisDevX)** &mdash; [web][a11y] Reset scroll offsets when a list stops scrolling<br />
+  <sub>[#195578](https://github.com/flutter/flutter/pull/195578) opened on on October 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195578) 183 additions and 5 deletions in 2 files</sub><br />
 
