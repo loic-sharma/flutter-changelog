@@ -183,7 +183,7 @@
   <sub>[#193886](https://github.com/flutter/flutter/pull/193886) opened on on October 6, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/193886) 1771 additions and 31 deletions in 16 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [AGP 9] Add to app agp9 host error<br />
-  <sub>[#193888](https://github.com/flutter/flutter/pull/193888) opened on on October 6, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/193888) 600 additions and 8 deletions in 5 files</sub><br />
+  <sub>[#193888](https://github.com/flutter/flutter/pull/193888) opened on on October 6, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/193888) 600 additions and 8 deletions in 5 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update gradle wrapper launcher<br />
   <sub>[#193897](https://github.com/flutter/flutter/pull/193897) opened on on October 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193897) 187 additions and 20 deletions in 3 files</sub><br />
@@ -301,6 +301,9 @@
 
 * **[Asim Awdah](https://github.com/asimawdah)** &mdash; Do not start hero flights for heroes that were never laid out<br />
   <sub>[#195078](https://github.com/flutter/flutter/pull/195078) opened on on October 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195078) 94 additions and 5 deletions in 2 files</sub><br />
+
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [web] Support Skwasm rendering without bitmap capture<br />
+  <sub>[#195103](https://github.com/flutter/flutter/pull/195103) opened on on October 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195103) 151 additions and 27 deletions in 7 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; [web_paragraph] Avoid browser text metrics queries on re-layout and speed up first layout<br />
   <sub>[#195122](https://github.com/flutter/flutter/pull/195122) opened on on October 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/195122) 539 additions and 62 deletions in 4 files</sub><br />
