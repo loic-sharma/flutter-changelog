@@ -353,9 +353,6 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Remove unused vulkan_provider.cc<br />
   <sub>[#195513](https://github.com/flutter/flutter/pull/195513) opened on on October 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195513) 1 addition and 25 deletions in 2 files</sub><br />
 
-* **[Matt Boetger](https://github.com/mboetger)** &mdash; Implement FlutterRenderer.getBitmap via PixelCopy<br />
-  <sub>[#195526](https://github.com/flutter/flutter/pull/195526) opened on on October 28, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/195526) 201 additions and 107 deletions in 6 files</sub><br />
-
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Fix DraggableScrollableSheet resizing after automatic scrolling<br />
   <sub>[#195545](https://github.com/flutter/flutter/pull/195545) opened on on October 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/195545) 906 additions and 9 deletions in 5 files</sub><br />
 
@@ -383,9 +380,6 @@
 * **[Salah Taha](https://github.com/salah-taha)** &mdash; Update reorderable list drag proxy when the dragged item rebuilds<br />
   <sub>[#195592](https://github.com/flutter/flutter/pull/195592) opened on on October 29, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/195592) 440 additions and 39 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds Vulkan sync validation test run<br />
-  <sub>[#195596](https://github.com/flutter/flutter/pull/195596) opened on on October 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195596) 122 additions and 9 deletions in 7 files</sub><br />
-
 * **[Salah Taha](https://github.com/salah-taha)** &mdash; Don't reload Image when its configuration is unchanged<br />
   <sub>[#195597](https://github.com/flutter/flutter/pull/195597) opened on on October 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195597) 115 additions and 10 deletions in 2 files</sub><br />
 
@@ -393,7 +387,7 @@
   <sub>[#195609](https://github.com/flutter/flutter/pull/195609) opened on on October 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195609) 63 additions and 93 deletions in 4 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Hide synthetic autofill inputs from assistive technology<br />
-  <sub>[#195618](https://github.com/flutter/flutter/pull/195618) opened on on October 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195618) 51 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#195618](https://github.com/flutter/flutter/pull/195618) opened on on October 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195618) 51 additions and 0 deletions in 3 files</sub><br />
 
 * **[Aditya Chandrajit Deore](https://github.com/AdityaxDeore)** &mdash; fix: prevent SelectionArea crash when Text.rich with WidgetSpans rebuilds during selection<br />
   <sub>[#195619](https://github.com/flutter/flutter/pull/195619) opened on on October 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195619) 96 additions and 1 deletion in 2 files</sub><br />
@@ -410,12 +404,21 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Handle NaN in InteractiveViewer.getNearestPointInside()<br />
   <sub>[#195682](https://github.com/flutter/flutter/pull/195682) opened on on October 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195682) 51 additions and 1 deletion in 2 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [vulkan]: Adds depth/stencil synchronization for subpasses<br />
+  <sub>[#195689](https://github.com/flutter/flutter/pull/195689) opened on on October 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195689) 24 additions and 16 deletions in 2 files</sub><br />
+
 * **[Ramy Akin Saidi](https://github.com/RamyAkin)** &mdash; [macOS] Create xcfilelists during project setup<br />
   <sub>[#195692](https://github.com/flutter/flutter/pull/195692) opened on on October 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195692) 48 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix XcodeProjectInterpreter dependency cycle in flutter_tools<br />
-  <sub>[#195694](https://github.com/flutter/flutter/pull/195694) opened on on October 30, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195694) 48 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#195694](https://github.com/flutter/flutter/pull/195694) opened on on October 30, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/195694) 66 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ramy Akin Saidi](https://github.com/RamyAkin)** &mdash; [tool] Detect missing libstdc++ in flutter doctor on Linux<br />
-  <sub>[#195705](https://github.com/flutter/flutter/pull/195705) opened on on October 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195705) 97 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#195705](https://github.com/flutter/flutter/pull/195705) opened on on October 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195705) 97 additions and 0 deletions in 3 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [vulkan]: adds "color attachment read" dst dependency to subpass<br />
+  <sub>[#195714](https://github.com/flutter/flutter/pull/195714) opened on on October 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195714) 6 additions and 1 deletion in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Order the Vulkan ResizeTexture layout transition after its blit<br />
+  <sub>[#195721](https://github.com/flutter/flutter/pull/195721) opened on on October 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195721) 5 additions and 6 deletions in 2 files</sub><br />
 
