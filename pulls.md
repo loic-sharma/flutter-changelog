@@ -291,7 +291,7 @@
   <sub>[#195022](https://github.com/flutter/flutter/pull/195022) opened on on October 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195022) 178 additions and 3 deletions in 2 files</sub><br />
 
 * **[Rich Young](https://github.com/richyo-codes)** &mdash; fix(impeller): preserve SDF gradient shader coordinate precision<br />
-  <sub>[#195036](https://github.com/flutter/flutter/pull/195036) opened on on October 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195036) 108 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#195036](https://github.com/flutter/flutter/pull/195036) opened on on October 22, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195036) 108 additions and 10 deletions in 3 files</sub><br />
 
 * **[Fumio Saruki](https://github.com/famio)** &mdash; [flutter_tools] Stop cleaning iOS builds when switching between simulator, device, and build modes<br />
   <sub>[#195045](https://github.com/flutter/flutter/pull/195045) opened on on October 22, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195045) 270 additions and 12 deletions in 3 files</sub><br />
@@ -338,8 +338,8 @@
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; [Linux] Desynchronize the Wayland subsurface so frames don't redraw the GTK window<br />
   <sub>[#195287](https://github.com/flutter/flutter/pull/195287) opened on on October 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195287) 153 additions and 10 deletions in 4 files</sub><br />
 
-* **[Ashutosh Kumar](https://github.com/ashu3699)** &mdash; Fix double column/row offset for synthesized Table cell semantics nodes<br />
-  <sub>[#195288](https://github.com/flutter/flutter/pull/195288) opened on on October 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195288) 113 additions and 4 deletions in 2 files</sub><br />
+* **[Ashutosh Kumar](https://github.com/ashu3699)** &mdash; Fix table cell semantics offsets across assemble passes<br />
+  <sub>[#195288](https://github.com/flutter/flutter/pull/195288) opened on on October 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/195288) 232 additions and 51 deletions in 2 files</sub><br />
 
 * **[apooverma](https://github.com/apooverma)** &mdash; [iOS] Hide UIScrollEdgeEffect on FlutterSemanticsScrollView on iOS 26+<br />
   <sub>[#195356](https://github.com/flutter/flutter/pull/195356) opened on on October 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195356) 21 additions and 0 deletions in 2 files</sub><br />
@@ -375,7 +375,7 @@
   <sub>[#195565](https://github.com/flutter/flutter/pull/195565) opened on on October 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195565) 189 additions and 22 deletions in 2 files</sub><br />
 
 * **[Faizan Ullah](https://github.com/FaizanUllahDev)** &mdash; Fix TextField context menu after focus returns with unchanged selection<br />
-  <sub>[#195572](https://github.com/flutter/flutter/pull/195572) opened on on October 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/195572) 138 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#195572](https://github.com/flutter/flutter/pull/195572) opened on on October 29, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195572) 138 additions and 3 deletions in 2 files</sub><br />
 
 * **[NemesisDev](https://github.com/NemesisDevX)** &mdash; [web][a11y] Reset scroll offsets when a list stops scrolling<br />
   <sub>[#195578](https://github.com/flutter/flutter/pull/195578) opened on on October 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195578) 187 additions and 5 deletions in 2 files</sub><br />
@@ -409,4 +409,10 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [beta] [flutter_tools] Log --[no-]deprecated-js-interop build/fail analytics<br />
   <sub>[#195630](https://github.com/flutter/flutter/pull/195630) opened on on October 29, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/195630) 418 additions and 8 deletions in 7 files</sub><br />
+
+* **[zabirovms](https://github.com/zabirovms)** &mdash; [flutter_localizations] Add Tajik (tg) localization support<br />
+  <sub>[#195677](https://github.com/flutter/flutter/pull/195677) opened on on October 30, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/195677) 1062 additions and 0 deletions in 10 files</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Handle NaN in InteractiveViewer.getNearestPointInside()<br />
+  <sub>[#195682](https://github.com/flutter/flutter/pull/195682) opened on on October 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195682) 51 additions and 1 deletion in 2 files</sub><br />
 

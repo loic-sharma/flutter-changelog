@@ -939,7 +939,7 @@
 
 ### October 24, 2026 to October 30, 2026
 
-31 commits.
+33 commits.
 
 * **[Munawer Ali](https://github.com/Munawer-Ali)** &mdash; [material_ui] Add Checkbox.markInsets<br />
   <sub>[#12690](https://github.com/flutter/packages/pull/12690) merged on October 27, 2026 &mdash; **Medium:** [37 comments](https://github.com/flutter/packages/pull/12690) over 1 month, 319 additions and 10 deletions in 5 files</sub><br />
@@ -963,6 +963,10 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Jia Hao](https://github.com/jiahaog)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1920" height="552" alt="shared_preferences_registration_comparison_perfetto" src="https://github.com/user-attachments/assets/c1fea032-a499-4fa4-91de-13648ea03999" /></details></sub>
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Allow event channel unregistration<br />
+  <sub>[#13438](https://github.com/flutter/packages/pull/13438) merged on October 30, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/13438) over 3 days, 408 additions and 130 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Separate native interop Dart bindings into a conditionally imported companion file<br />
   <sub>[#13393](https://github.com/flutter/packages/pull/13393) merged on October 29, 2026 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/13393) over 1 week, 15619 additions and 15501 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
@@ -978,6 +982,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Refactor `typography.dart` and `text_theme.dart` in preparation for M3E<br />
   <sub>[#13371](https://github.com/flutter/packages/pull/13371) merged on October 27, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/13371) over 5 days, 406 additions and 569 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Mekala Mohankrishna](https://github.com/mmohankrishna-lab)** &mdash; [material_ui] Fix Escape key not closing MenuAnchor opened by tap or click<br />
+  <sub>[#13430](https://github.com/flutter/packages/pull/13430) merged on October 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/13430) over 4 days, 161 additions and 9 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Navaron Bracke](https://github.com/navaronbracke)</sub><br />
 
 * **[Rohan Jariwala](https://github.com/rohanjariwala03)** &mdash; [vector_graphics_compiler] Fix em units in text positions<br />
   <sub>[#13388](https://github.com/flutter/packages/pull/13388) merged on October 29, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/13388) over 6 days, 99 additions and 23 deletions in 8 files</sub><br />
