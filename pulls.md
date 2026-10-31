@@ -390,10 +390,10 @@
   <sub>[#195618](https://github.com/flutter/flutter/pull/195618) opened on on October 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195618) 52 additions and 0 deletions in 3 files</sub><br />
 
 * **[Aditya Chandrajit Deore](https://github.com/AdityaxDeore)** &mdash; fix: prevent SelectionArea crash when Text.rich with WidgetSpans rebuilds during selection<br />
-  <sub>[#195619](https://github.com/flutter/flutter/pull/195619) opened on on October 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195619) 98 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#195619](https://github.com/flutter/flutter/pull/195619) opened on on October 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195619) 98 additions and 1 deletion in 2 files</sub><br />
 
 * **[Aditya Chandrajit Deore](https://github.com/AdityaxDeore)** &mdash; fix: prevent EditableText crash when the toolbar is showing and text shrinks during scroll<br />
-  <sub>[#195620](https://github.com/flutter/flutter/pull/195620) opened on on October 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195620) 89 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#195620](https://github.com/flutter/flutter/pull/195620) opened on on October 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/195620) 89 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [beta] [flutter_tools] Log --[no-]deprecated-js-interop build/fail analytics<br />
   <sub>[#195630](https://github.com/flutter/flutter/pull/195630) opened on on October 29, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/195630) 418 additions and 8 deletions in 7 files</sub><br />
