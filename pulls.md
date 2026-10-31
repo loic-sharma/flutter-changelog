@@ -387,7 +387,7 @@
   <sub>[#195609](https://github.com/flutter/flutter/pull/195609) opened on on October 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195609) 63 additions and 93 deletions in 4 files</sub><br />
 
 * **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Hide synthetic autofill inputs from assistive technology<br />
-  <sub>[#195618](https://github.com/flutter/flutter/pull/195618) opened on on October 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195618) 51 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#195618](https://github.com/flutter/flutter/pull/195618) opened on on October 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195618) 52 additions and 0 deletions in 3 files</sub><br />
 
 * **[Aditya Chandrajit Deore](https://github.com/AdityaxDeore)** &mdash; fix: prevent SelectionArea crash when Text.rich with WidgetSpans rebuilds during selection<br />
   <sub>[#195619](https://github.com/flutter/flutter/pull/195619) opened on on October 29, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195619) 96 additions and 1 deletion in 2 files</sub><br />
@@ -409,9 +409,6 @@
 
 * **[Ramy Akin Saidi](https://github.com/RamyAkin)** &mdash; [macOS] Create xcfilelists during project setup<br />
   <sub>[#195692](https://github.com/flutter/flutter/pull/195692) opened on on October 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195692) 48 additions and 0 deletions in 2 files</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Fix XcodeProjectInterpreter dependency cycle in flutter_tools<br />
-  <sub>[#195694](https://github.com/flutter/flutter/pull/195694) opened on on October 30, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/195694) 66 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ramy Akin Saidi](https://github.com/RamyAkin)** &mdash; [tool] Detect missing libstdc++ in flutter doctor on Linux<br />
   <sub>[#195705](https://github.com/flutter/flutter/pull/195705) opened on on October 30, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195705) 97 additions and 0 deletions in 3 files</sub><br />
