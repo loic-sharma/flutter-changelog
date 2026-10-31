@@ -270,7 +270,7 @@
   <sub>[#194908](https://github.com/flutter/flutter/pull/194908) opened on on October 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194908) 92 additions and 6 deletions in 6 files</sub><br />
 
 * **[Amr Elgendy](https://github.com/amrelgendy0)** &mdash; Support flutter run for iOS apps on Apple silicon Macs<br />
-  <sub>[#194922](https://github.com/flutter/flutter/pull/194922) opened on on October 21, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/194922) 1471 additions and 90 deletions in 32 files</sub><br />
+  <sub>[#194922](https://github.com/flutter/flutter/pull/194922) opened on on October 21, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/194922) 1501 additions and 90 deletions in 31 files</sub><br />
 
 * **[Bilal Khan](https://github.com/BilalWalker)** &mdash; [widget_preview] Stop leaking the previewer ListTileTheme into previewed widgets<br />
   <sub>[#194976](https://github.com/flutter/flutter/pull/194976) opened on on October 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/194976) 182 additions and 76 deletions in 3 files</sub><br />
@@ -353,7 +353,7 @@
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Remove unused vulkan_provider.cc<br />
   <sub>[#195513](https://github.com/flutter/flutter/pull/195513) opened on on October 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195513) 1 addition and 25 deletions in 2 files</sub><br />
 
-* **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Fix DraggableScrollableSheet resizing after automatic scrolling<br />
+* **[Igor Molchanov](https://github.com/molchanovia)** &mdash; Fix DraggableScrollableSheet resizing after automatic scrolling<br />
   <sub>[#195545](https://github.com/flutter/flutter/pull/195545) opened on on October 29, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/195545) 906 additions and 9 deletions in 5 files</sub><br />
 
 * **[MOHAMMAD OTHMAN ](https://github.com/Abojawdat)** &mdash; Add regression test for onDrag keyboard dismiss refocusing after pop<br />

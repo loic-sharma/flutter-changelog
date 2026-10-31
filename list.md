@@ -106,7 +106,7 @@
   <sub>[#194964](https://github.com/flutter/flutter/pull/194964) merged on October 27, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/194964) over 5 days, 1030 additions and 38 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; [flutter_tools] Fix local CanvasKit asset paths on Windows
+* **[Igor Molchanov](https://github.com/molchanovia)** &mdash; [flutter_tools] Fix local CanvasKit asset paths on Windows
   <sub>[#193776](https://github.com/flutter/flutter/pull/193776) merged on October 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193776) over 3 weeks, 168 additions and 13 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
 
@@ -1522,7 +1522,7 @@
   <sub>[#13156](https://github.com/flutter/packages/pull/13156) merged on October 13, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/13156) over 6 days, 19 additions and 182 deletions in 9 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; [material_ui] Clarify Slider labels for continuous sliders
+* **[Igor Molchanov](https://github.com/molchanovia)** &mdash; [material_ui] Clarify Slider labels for continuous sliders
   <sub>[#13121](https://github.com/flutter/packages/pull/13121) merged on October 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/13121) over 1 week, 12 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
@@ -1530,7 +1530,7 @@
   <sub>[#13222](https://github.com/flutter/packages/pull/13222) merged on October 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/13222) over 1 day, 13 additions and 109 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
-* **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; [go_router] Link ShellRoute docs to StatefulShellRoute
+* **[Igor Molchanov](https://github.com/molchanovia)** &mdash; [go_router] Link ShellRoute docs to StatefulShellRoute
   <sub>[#13120](https://github.com/flutter/packages/pull/13120) merged on October 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/13120) over 1 week, 8 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Mohellebi Abdessalem](https://github.com/AbdeMohlbi)</sub>
 
@@ -1727,7 +1727,7 @@
   <sub>[#13927](https://github.com/flutter/website/pull/13927) merged on October 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/13927) over 4 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub>
 
-* **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Add migration guide for WidgetSpan ordering in RTL text
+* **[Igor Molchanov](https://github.com/molchanovia)** &mdash; Add migration guide for WidgetSpan ordering in RTL text
   <sub>[#13988](https://github.com/flutter/website/pull/13988) merged on October 23, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/13988) over 6 days, 95 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Renzo Olivares](https://github.com/Renzo-Olivares), [Connie Ooi ](https://github.com/conooi)</sub>
 
