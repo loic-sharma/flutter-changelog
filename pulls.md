@@ -59,9 +59,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Lazily initialize AppleContext dependencies via builder closures<br />
   <sub>[#191992](https://github.com/flutter/flutter/pull/191992) opened on on August 28, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/191992) 351 additions and 102 deletions in 3 files</sub><br />
 
-* **[Emmanuel LEFEBVRE DIBON](https://github.com/zemanux)** &mdash; Add EdgeInsetsOverlay widget<br />
-  <sub>[#191998](https://github.com/flutter/flutter/pull/191998) opened on on August 28, 2026 &mdash; **Extra large:** [46 comments](https://github.com/flutter/flutter/pull/191998) 2459 additions and 0 deletions in 3 files</sub><br />
-
 * **[corci0x](https://github.com/corci0x)** &mdash; Reject glyph packer placements that don't fit in int16_t<br />
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
 
@@ -417,11 +414,17 @@
   <sub>[#195721](https://github.com/flutter/flutter/pull/195721) opened on on October 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195721) 5 additions and 6 deletions in 2 files</sub><br />
 
 * **[Muhammad Assad Ullah](https://github.com/assassinaj602)** &mdash; Fix RenderTable stale semantics mapping when keyed rows are reordered or removed<br />
-  <sub>[#195751](https://github.com/flutter/flutter/pull/195751) opened on on November 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195751) 112 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#195751](https://github.com/flutter/flutter/pull/195751) opened on on November 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195751) 150 additions and 0 deletions in 3 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Simplify AiksContext ownership on Rasterizer and initialize eagerly at  Shell creation<br />
-  <sub>[#195759](https://github.com/flutter/flutter/pull/195759) opened on on November 1, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/195759) 765 additions and 106 deletions in 28 files</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [Impeller] Own AiksContext on Rasterizer and initialize at Shell startup<br />
+  <sub>[#195759](https://github.com/flutter/flutter/pull/195759) opened on on November 1, 2026 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/195759) 767 additions and 107 deletions in 29 files</sub><br />
 
 * **[Muhammad Assad Ullah](https://github.com/assassinaj602)** &mdash; [PageView] Notify PageController listeners when viewport dimension changes<br />
-  <sub>[#195760](https://github.com/flutter/flutter/pull/195760) opened on on November 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195760) 72 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#195760](https://github.com/flutter/flutter/pull/195760) opened on on November 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195760) 88 additions and 0 deletions in 2 files</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update gcloud_version to version 3@591.0.0.chromium.4<br />
+  <sub>[#195769](https://github.com/flutter/flutter/pull/195769) opened on on November 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195769) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Igor Molchanov](https://github.com/molchanovia)** &mdash; [flutter_tools] Reland fix for local CanvasKit asset paths on Windows<br />
+  <sub>[#195770](https://github.com/flutter/flutter/pull/195770) opened on on November 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195770) 170 additions and 13 deletions in 2 files</sub><br />
 
