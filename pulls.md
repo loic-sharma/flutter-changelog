@@ -419,3 +419,6 @@
 * **[Muhammad Assad Ullah](https://github.com/assassinaj602)** &mdash; Fix RenderTable stale semantics mapping when keyed rows are reordered or removed<br />
   <sub>[#195751](https://github.com/flutter/flutter/pull/195751) opened on on November 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195751) 112 additions and 0 deletions in 2 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Simplify AiksContext ownership on Rasterizer and initialize eagerly at  Shell creation<br />
+  <sub>[#195759](https://github.com/flutter/flutter/pull/195759) opened on on November 1, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/195759) 765 additions and 106 deletions in 28 files</sub><br />
+
