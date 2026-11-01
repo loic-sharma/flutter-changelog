@@ -102,7 +102,7 @@
   <sub>[#192998](https://github.com/flutter/flutter/pull/192998) opened on on September 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192998) 381 additions and 4 deletions in 2 files</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Make an Impeller render target from a Vulkan backing store<br />
-  <sub>[#193003](https://github.com/flutter/flutter/pull/193003) opened on on September 18, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/193003) 642 additions and 67 deletions in 13 files</sub><br />
+  <sub>[#193003](https://github.com/flutter/flutter/pull/193003) opened on on September 18, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/193003) 642 additions and 67 deletions in 13 files</sub><br />
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Run the shared Vulkan embedder tests under Impeller as well as Skia<br />
   <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/193004) 767 additions and 84 deletions in 24 files</sub><br />
@@ -427,4 +427,10 @@
 
 * **[Igor Molchanov](https://github.com/molchanovia)** &mdash; [flutter_tools] Reland fix for local CanvasKit asset paths on Windows<br />
   <sub>[#195770](https://github.com/flutter/flutter/pull/195770) opened on on November 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195770) 170 additions and 13 deletions in 2 files</sub><br />
+
+* **[Jiyad Ahammad](https://github.com/JiyadAhammad)** &mdash; [framework] Fix DraggableScrollableSheet '_hold == null' assertion when touch lifts during snap<br />
+  <sub>[#195771](https://github.com/flutter/flutter/pull/195771) opened on on November 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195771) 68 additions and 0 deletions in 2 files</sub><br />
+
+* **[Morsy 🌙](https://github.com/morsycodes)** &mdash; Fix LiveTestWidgetsFlutterBinding pump hang after a skipped frame<br />
+  <sub>[#195772](https://github.com/flutter/flutter/pull/195772) opened on on November 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195772) 37 additions and 2 deletions in 2 files</sub><br />
 
