@@ -1044,7 +1044,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Νικόλας Πατέρας](https://github.com/npateras)** &mdash; [go_router_builder] Allow `build` 5<br />
-  <sub>[#13455](https://github.com/flutter/packages/pull/13455) merged on October 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/13455) over 3 days, 6 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#13455](https://github.com/flutter/packages/pull/13455) merged on October 30, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/13455) over 3 days, 6 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [John "codefu" McDole](https://github.com/jtmcdole), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Mekala Mohankrishna](https://github.com/mmohankrishna-lab)** &mdash; [material_ui] Fix Escape key not closing MenuAnchor opened by tap or click<br />

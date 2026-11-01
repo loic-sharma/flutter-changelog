@@ -294,7 +294,7 @@
   <sub>[#195078](https://github.com/flutter/flutter/pull/195078) opened on on October 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195078) 94 additions and 5 deletions in 2 files</sub><br />
 
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [web] Support Skwasm rendering without bitmap capture<br />
-  <sub>[#195103](https://github.com/flutter/flutter/pull/195103) opened on on October 22, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195103) 151 additions and 27 deletions in 7 files</sub><br />
+  <sub>[#195103](https://github.com/flutter/flutter/pull/195103) opened on on October 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195103) 155 additions and 27 deletions in 7 files</sub><br />
 
 * **[Rusino](https://github.com/Rusino)** &mdash; [web_paragraph] Avoid browser text metrics queries on re-layout and speed up first layout<br />
   <sub>[#195122](https://github.com/flutter/flutter/pull/195122) opened on on October 22, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/195122) 539 additions and 62 deletions in 4 files</sub><br />
@@ -421,4 +421,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Simplify AiksContext ownership on Rasterizer and initialize eagerly at  Shell creation<br />
   <sub>[#195759](https://github.com/flutter/flutter/pull/195759) opened on on November 1, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/195759) 765 additions and 106 deletions in 28 files</sub><br />
+
+* **[Muhammad Assad Ullah](https://github.com/assassinaj602)** &mdash; [PageView] Notify PageController listeners when viewport dimension changes<br />
+  <sub>[#195760](https://github.com/flutter/flutter/pull/195760) opened on on November 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195760) 72 additions and 0 deletions in 2 files</sub><br />
 
