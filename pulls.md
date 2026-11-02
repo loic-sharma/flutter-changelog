@@ -242,6 +242,9 @@
 * **[Sankalp Thakur](https://github.com/sankalpsthakur)** &mdash; Remove the remaining `X-UA-Compatible` meta tags<br />
   <sub>[#194687](https://github.com/flutter/flutter/pull/194687) opened on on October 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194687) 0 additions and 4 deletions in 4 files</sub><br />
 
+* **[Awais Rehman](https://github.com/awaisdev5765)** &mdash; Preserve test pointer source for synthetic cancels<br />
+  <sub>[#194714](https://github.com/flutter/flutter/pull/194714) opened on on October 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/194714) 44 additions and 1 deletion in 2 files</sub><br />
+
 * **[Mohamed Gawdat](https://github.com/MohamedGawdat)** &mdash; [flutter_tools] Support fixed asset keys for flavor-specific configuration files<br />
   <sub>[#194725](https://github.com/flutter/flutter/pull/194725) opened on on October 19, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/194725) 667 additions and 10 deletions in 7 files</sub><br />
 
@@ -410,6 +413,9 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [vulkan]: adds "color attachment read" dst dependency to subpass<br />
   <sub>[#195714](https://github.com/flutter/flutter/pull/195714) opened on on October 30, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195714) 6 additions and 1 deletion in 2 files</sub><br />
 
+* **[VeeraBabu Jakkula ](https://github.com/JakkulaVeerababu)** &mdash; [flutter_tools] Fail the compile instead of hanging when TestCompiler throws<br />
+  <sub>[#195715](https://github.com/flutter/flutter/pull/195715) opened on on October 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195715) 155 additions and 74 deletions in 2 files</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Order the Vulkan ResizeTexture layout transition after its blit<br />
   <sub>[#195721](https://github.com/flutter/flutter/pull/195721) opened on on October 30, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195721) 5 additions and 6 deletions in 2 files</sub><br />
 
@@ -422,6 +428,15 @@
 * **[Muhammad Assad Ullah](https://github.com/assassinaj602)** &mdash; [PageView] Notify PageController listeners when viewport dimension changes<br />
   <sub>[#195760](https://github.com/flutter/flutter/pull/195760) opened on on November 1, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195760) 88 additions and 0 deletions in 2 files</sub><br />
 
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `ProxyAnimation.didStartListening` and `ProxyAnimation.didStartListening` to use dart's `Conditional member access`<br />
+  <sub>[#195762](https://github.com/flutter/flutter/pull/195762) opened on on November 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195762) 4 additions and 8 deletions in 1 file</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Use modern dart features in the framework<br />
+  <sub>[#195764](https://github.com/flutter/flutter/pull/195764) opened on on November 1, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/195764) 44 additions and 75 deletions in 7 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update outdated `_formattedValues` documentation<br />
+  <sub>[#195765](https://github.com/flutter/flutter/pull/195765) opened on on November 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195765) 1 addition and 6 deletions in 1 file</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update gcloud_version to version 3@591.0.0.chromium.4<br />
   <sub>[#195769](https://github.com/flutter/flutter/pull/195769) opened on on November 1, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195769) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -433,4 +448,10 @@
 
 * **[Morsy 🌙](https://github.com/morsycodes)** &mdash; Fix LiveTestWidgetsFlutterBinding pump hang after a skipped frame<br />
   <sub>[#195772](https://github.com/flutter/flutter/pull/195772) opened on on November 1, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195772) 37 additions and 2 deletions in 2 files</sub><br />
+
+* **[Adel Nizamutdinov](https://github.com/meoyawn)** &mdash; Reset MouseTracker update guard after hit-test and hover exceptions<br />
+  <sub>[#195781](https://github.com/flutter/flutter/pull/195781) opened on on November 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195781) 164 additions and 5 deletions in 2 files</sub><br />
+
+* **[Jianguo Fan](https://github.com/jianguofan)** &mdash; [Android] Disable ImageReaderSurfaceProducer on Huawei Kirin 9000S<br />
+  <sub>[#195783](https://github.com/flutter/flutter/pull/195783) opened on on November 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195783) 52 additions and 5 deletions in 2 files</sub><br />
 
