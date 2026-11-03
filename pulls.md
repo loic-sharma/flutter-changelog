@@ -24,7 +24,7 @@
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
 
 * **[AnasQasem](https://github.com/AnasQasem)** &mdash; [Impeller] Render COLR/CPAL color text as vector paths<br />
-  <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
+  <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
 
 * **[Melrose](https://github.com/heyi1994)** &mdash; [Impeller] Work around GL driver job-pool exhaustion on MediaTek MT6779<br />
   <sub>[#189643](https://github.com/flutter/flutter/pull/189643) opened on on July 17, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/189643) 123 additions and 0 deletions in 5 files</sub><br />
@@ -108,7 +108,7 @@
   <sub>[#193246](https://github.com/flutter/flutter/pull/193246) opened on on September 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193246) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Ayodele Ayoola](https://github.com/CreedTech)** &mdash; Make RawScrollbar respect pointer axis modifiers<br />
-  <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/193290) 198 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#193290](https://github.com/flutter/flutter/pull/193290) opened on on September 24, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/193290) 250 additions and 8 deletions in 3 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; [DO NOT MERGE] Updated `targetSdk` to 37<br />
   <sub>[#193308](https://github.com/flutter/flutter/pull/193308) opened on on September 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193308) 1 addition and 1 deletion in 1 file</sub><br />
@@ -180,10 +180,10 @@
   <sub>[#194091](https://github.com/flutter/flutter/pull/194091) opened on on October 9, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/194091) 633 additions and 117 deletions in 15 files</sub><br />
 
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix TreeSliver painting during rapid toggles<br />
-  <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194172) 163 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194172) 163 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix system back dispatch with RouterConfig<br />
-  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194173) 200 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/194173) 200 additions and 12 deletions in 2 files</sub><br />
 
 * **[paul-geoghegan](https://github.com/paul-geoghegan)** &mdash; [Linux] Set window title from setApplicationSwitcherDescription<br />
   <sub>[#194213](https://github.com/flutter/flutter/pull/194213) opened on on October 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194213) 234 additions and 20 deletions in 10 files</sub><br />
@@ -282,7 +282,7 @@
   <sub>[#195129](https://github.com/flutter/flutter/pull/195129) opened on on October 23, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/195129) 63 additions and 1 deletion in 9 files</sub><br />
 
 * **[Nikolai](https://github.com/npankov)** &mdash; Document using a ListView inside a Column<br />
-  <sub>[#195145](https://github.com/flutter/flutter/pull/195145) opened on on October 23, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/195145) 51 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#195145](https://github.com/flutter/flutter/pull/195145) opened on on October 23, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/195145) 56 additions and 0 deletions in 1 file</sub><br />
 
 * **[leazer](https://github.com/super-lz)** &mdash; [iOS] Fix duplicate SMS autofill after marked-text commit<br />
   <sub>[#195149](https://github.com/flutter/flutter/pull/195149) opened on on October 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195149) 134 additions and 0 deletions in 3 files</sub><br />
@@ -453,7 +453,7 @@
   <sub>[#195860](https://github.com/flutter/flutter/pull/195860) opened on on November 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195860) 48 additions and 3 deletions in 4 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Defer TLHC PlatformViewWrapper frame post and avoid initial 1x1 buffer resize<br />
-  <sub>[#195861](https://github.com/flutter/flutter/pull/195861) opened on on November 3, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/195861) 322 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#195861](https://github.com/flutter/flutter/pull/195861) opened on on November 3, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/195861) 322 additions and 2 deletions in 4 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; local_engine_builds_common out of bringup<br />
   <sub>[#195862](https://github.com/flutter/flutter/pull/195862) opened on on November 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195862) 0 additions and 1 deletion in 1 file</sub><br />
@@ -472,4 +472,13 @@
 
 * **[Chandrabhushan Prakash](https://github.com/itsonu)** &mdash; Remove com.apple.ResourceFork xattr before iOS codesign<br />
   <sub>[#195874](https://github.com/flutter/flutter/pull/195874) opened on on November 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195874) 99 additions and 6 deletions in 3 files</sub><br />
+
+* **[Leapward-Koex](https://github.com/Leapward-Koex)** &mdash; [Windows] Stop idle Direct Manipulation timer polling<br />
+  <sub>[#195880](https://github.com/flutter/flutter/pull/195880) opened on on November 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195880) 265 additions and 10 deletions in 8 files</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; Expose engineId on native plugin bindings and registrars across platforms<br />
+  <sub>[#195881](https://github.com/flutter/flutter/pull/195881) opened on on November 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195881) 234 additions and 8 deletions in 25 files</sub><br />
+
+* **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Patch atkversion.h in sysroots to add C linkage declarations<br />
+  <sub>[#195883](https://github.com/flutter/flutter/pull/195883) opened on on November 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195883) 41 additions and 8 deletions in 3 files</sub><br />
 

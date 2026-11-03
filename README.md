@@ -714,7 +714,7 @@
 
 ### October 31, 2026 to November 6, 2026
 
-9 commits.
+10 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [material_ui] Removes list semantics in some a11y_assessment samples<br />
   <sub>[#13257](https://github.com/flutter/packages/pull/13257) merged on November 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/13257) over 2 weeks, 107 additions and 4 deletions in 20 files</sub><br />
@@ -731,6 +731,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [material_ui] Temporarily exclude material_ui from non-Wasm web unit tests<br />
   <sub>[#13537](https://github.com/flutter/packages/pull/13537) merged on November 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/13537) over 2 hours, 15 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Convert iOS impl example app to Swift<br />
+  <sub>[#13538](https://github.com/flutter/packages/pull/13538) merged on November 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/13538) over 13 hours, 126 additions and 155 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Mohammed Al-Samarraie](https://github.com/mohamedalsamrai)** &mdash; [material_ui] Use named uniforms instead of setFloat in InkSparkle<br />
   <sub>[#13445](https://github.com/flutter/packages/pull/13445) merged on November 2, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/13445) over 6 days, 66 additions and 60 deletions in 2 files</sub><br />
