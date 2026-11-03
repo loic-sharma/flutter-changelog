@@ -23,9 +23,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds devicelab test documentation<br />
   <sub>[#188670](https://github.com/flutter/flutter/pull/188670) opened on on June 27, 2026 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/188670) 2851 additions and 0 deletions in 3 files</sub><br />
 
-* **[AnasQasem](https://github.com/AnasQasem)** &mdash; [Impeller] Render COLR/CPAL color text as vector paths<br />
-  <sub>[#188906](https://github.com/flutter/flutter/pull/188906) opened on on July 2, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/188906) 376 additions and 3 deletions in 6 files</sub><br />
-
 * **[Melrose](https://github.com/heyi1994)** &mdash; [Impeller] Work around GL driver job-pool exhaustion on MediaTek MT6779<br />
   <sub>[#189643](https://github.com/flutter/flutter/pull/189643) opened on on July 17, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/189643) 123 additions and 0 deletions in 5 files</sub><br />
 
@@ -51,7 +48,7 @@
   <sub>[#191459](https://github.com/flutter/flutter/pull/191459) opened on on August 21, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/191459) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Support local Windows arm64 engine build<br />
-  <sub>[#191560](https://github.com/flutter/flutter/pull/191560) opened on on August 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191560) 53 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#191560](https://github.com/flutter/flutter/pull/191560) opened on on August 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191560) 52 additions and 8 deletions in 3 files</sub><br />
 
 * **[corci0x](https://github.com/corci0x)** &mdash; Reject glyph packer placements that don't fit in int16_t<br />
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
@@ -99,7 +96,7 @@
   <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/193004) 767 additions and 84 deletions in 24 files</sub><br />
 
 * **[Kevin McDermott-Carpenter](https://github.com/KevMCarp)** &mdash; [windows] Fix touch keyboard behaviour<br />
-  <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [17 comments](https://github.com/flutter/flutter/pull/193026) 4864 additions and 32 deletions in 35 files</sub><br />
+  <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/193026) 4864 additions and 32 deletions in 35 files</sub><br />
 
 * **[Xavier H.](https://github.com/xvrh)** &mdash; [tool] Pass recorded uses to asset transformers<br />
   <sub>[#193220](https://github.com/flutter/flutter/pull/193220) opened on on September 23, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/193220) 468 additions and 44 deletions in 7 files</sub><br />
@@ -133,9 +130,6 @@
 
 * **[Aurora](https://github.com/auroraxo)** &mdash; docs: remove broken screenshot references in dev/snippets README<br />
   <sub>[#193429](https://github.com/flutter/flutter/pull/193429) opened on on September 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193429) 0 additions and 4 deletions in 1 file</sub><br />
-
-* **[Marcin Jedrzejewski](https://github.com/luskan)** &mdash; [Android] Skip the HardwareBuffer defect fallback for platform views<br />
-  <sub>[#193441](https://github.com/flutter/flutter/pull/193441) opened on on September 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193441) 102 additions and 2 deletions in 4 files</sub><br />
 
 * **[Philipp Bauer](https://github.com/ciriousjoker)** &mdash; [Android] Exclude allocation padding when drawing image textures<br />
   <sub>[#193446](https://github.com/flutter/flutter/pull/193446) opened on on September 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193446) 271 additions and 8 deletions in 15 files</sub><br />
@@ -183,16 +177,13 @@
   <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194172) 163 additions and 2 deletions in 2 files</sub><br />
 
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix system back dispatch with RouterConfig<br />
-  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/194173) 200 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/194173) 200 additions and 12 deletions in 2 files</sub><br />
 
 * **[paul-geoghegan](https://github.com/paul-geoghegan)** &mdash; [Linux] Set window title from setApplicationSwitcherDescription<br />
   <sub>[#194213](https://github.com/flutter/flutter/pull/194213) opened on on October 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194213) 234 additions and 20 deletions in 10 files</sub><br />
 
-* **[yexuan-henryye](https://github.com/yexuan910812)** &mdash; [web] Clear registered typefaces with the Skwasm font collection<br />
-  <sub>[#194216](https://github.com/flutter/flutter/pull/194216) opened on on October 12, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/194216) 46 additions and 0 deletions in 2 files</sub><br />
-
 * **[Omar Alshyokh](https://github.com/omar-alshyokh)** &mdash; Add a namespace to PageStorageBucket readState and writeState<br />
-  <sub>[#194315](https://github.com/flutter/flutter/pull/194315) opened on on October 13, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/194315) 97 additions and 72 deletions in 3 files</sub><br />
+  <sub>[#194315](https://github.com/flutter/flutter/pull/194315) opened on on October 13, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/194315) 97 additions and 72 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [devicelab] Fix memory benchmark tap synchronization and swipe flakes<br />
   <sub>[#194457](https://github.com/flutter/flutter/pull/194457) opened on on October 15, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194457) 202 additions and 71 deletions in 9 files</sub><br />
@@ -250,9 +241,6 @@
 
 * **[Amr Elgendy](https://github.com/amrelgendy0)** &mdash; Support flutter run for iOS apps on Apple silicon Macs<br />
   <sub>[#194922](https://github.com/flutter/flutter/pull/194922) opened on on October 21, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/194922) 1501 additions and 90 deletions in 31 files</sub><br />
-
-* **[James O'Leary](https://github.com/jpohhhh)** &mdash; [Impeller] Order the Vulkan depth/stencil clear after earlier depth writes<br />
-  <sub>[#194990](https://github.com/flutter/flutter/pull/194990) opened on on October 21, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194990) 134 additions and 0 deletions in 4 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Sync local sky_engine Dart sources in fork Tree_analyze runs<br />
   <sub>[#195014](https://github.com/flutter/flutter/pull/195014) opened on on October 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195014) 29 additions and 0 deletions in 1 file</sub><br />
@@ -315,7 +303,7 @@
   <sub>[#195356](https://github.com/flutter/flutter/pull/195356) opened on on October 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195356) 21 additions and 0 deletions in 2 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [web_paragraph] Render soft hyphens<br />
-  <sub>[#195366](https://github.com/flutter/flutter/pull/195366) opened on on October 26, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/195366) 797 additions and 22 deletions in 4 files</sub><br />
+  <sub>[#195366](https://github.com/flutter/flutter/pull/195366) opened on on October 26, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/195366) 797 additions and 22 deletions in 4 files</sub><br />
 
 * **[liu](https://github.com/devsliu)** &mdash; Fix TapGestureRecognizer stuck state when native dialog swallows pointer events<br />
   <sub>[#195472](https://github.com/flutter/flutter/pull/195472) opened on on October 28, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195472) 12 additions and 0 deletions in 1 file</sub><br />
@@ -336,7 +324,7 @@
   <sub>[#195557](https://github.com/flutter/flutter/pull/195557) opened on on October 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195557) 40 additions and 0 deletions in 1 file</sub><br />
 
 * **[NemesisDev](https://github.com/NemesisDevX)** &mdash; [web][a11y] Initialize slider semantics values when enabling<br />
-  <sub>[#195564](https://github.com/flutter/flutter/pull/195564) opened on on October 29, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195564) 216 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#195564](https://github.com/flutter/flutter/pull/195564) opened on on October 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195564) 216 additions and 4 deletions in 2 files</sub><br />
 
 * **[Mason Liu](https://github.com/masonliiu)** &mdash; [Linux] Fix stuck modifier when two keys are pressed as the same modifier<br />
   <sub>[#195565](https://github.com/flutter/flutter/pull/195565) opened on on October 29, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195565) 189 additions and 22 deletions in 2 files</sub><br />
@@ -345,7 +333,7 @@
   <sub>[#195572](https://github.com/flutter/flutter/pull/195572) opened on on October 29, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195572) 138 additions and 3 deletions in 2 files</sub><br />
 
 * **[NemesisDev](https://github.com/NemesisDevX)** &mdash; [web][a11y] Reset scroll offsets when a list stops scrolling<br />
-  <sub>[#195578](https://github.com/flutter/flutter/pull/195578) opened on on October 29, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195578) 187 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#195578](https://github.com/flutter/flutter/pull/195578) opened on on October 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195578) 187 additions and 5 deletions in 2 files</sub><br />
 
 * **[Vukan-Levi9](https://github.com/Vukan-Levi9)** &mdash; docs: remove broken image references from dev/snippets/README.md<br />
   <sub>[#195587](https://github.com/flutter/flutter/pull/195587) opened on on October 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195587) 0 additions and 4 deletions in 1 file</sub><br />
@@ -386,9 +374,6 @@
 * **[VeeraBabu Jakkula ](https://github.com/JakkulaVeerababu)** &mdash; [flutter_tools] Fail the compile instead of hanging when TestCompiler throws<br />
   <sub>[#195715](https://github.com/flutter/flutter/pull/195715) opened on on October 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195715) 155 additions and 74 deletions in 2 files</sub><br />
 
-* **[Reid-Agent](https://github.com/reidbaker-agent)** &mdash; [flutter_tools] Add Gradle error handlers for android.newDsl failures<br />
-  <sub>[#195742](https://github.com/flutter/flutter/pull/195742) opened on on October 31, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/195742) 897 additions and 0 deletions in 2 files</sub><br />
-
 * **[Muhammad Assad Ullah](https://github.com/assassinaj602)** &mdash; Fix RenderTable stale semantics mapping when keyed rows are reordered or removed<br />
   <sub>[#195751](https://github.com/flutter/flutter/pull/195751) opened on on November 1, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195751) 150 additions and 0 deletions in 3 files</sub><br />
 
@@ -420,7 +405,7 @@
   <sub>[#195783](https://github.com/flutter/flutter/pull/195783) opened on on November 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195783) 52 additions and 5 deletions in 2 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Goma is dead, long live RBE!<br />
-  <sub>[#195798](https://github.com/flutter/flutter/pull/195798) opened on on November 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/195798) 116 additions and 323 deletions in 34 files</sub><br />
+  <sub>[#195798](https://github.com/flutter/flutter/pull/195798) opened on on November 2, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/195798) 110 additions and 311 deletions in 34 files</sub><br />
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Add missing cores=32 to wasm builds.<br />
   <sub>[#195799](https://github.com/flutter/flutter/pull/195799) opened on on November 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195799) 4 additions and 2 deletions in 1 file</sub><br />
@@ -432,13 +417,13 @@
   <sub>[#195833](https://github.com/flutter/flutter/pull/195833) opened on on November 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195833) 166 additions and 1 deletion in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Compute gradient positions in highp in Impeller<br />
-  <sub>[#195835](https://github.com/flutter/flutter/pull/195835) opened on on November 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195835) 10 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#195835](https://github.com/flutter/flutter/pull/195835) opened on on November 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195835) 10 additions and 10 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [web] Keep the semantics tree usable when an update lists a child that was never sent<br />
-  <sub>[#195837](https://github.com/flutter/flutter/pull/195837) opened on on November 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195837) 217 additions and 48 deletions in 2 files</sub><br />
+  <sub>[#195837](https://github.com/flutter/flutter/pull/195837) opened on on November 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195837) 217 additions and 48 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [web] Do not stop pruning a detached semantics subtree at a reparented node<br />
-  <sub>[#195842](https://github.com/flutter/flutter/pull/195842) opened on on November 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195842) 110 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#195842](https://github.com/flutter/flutter/pull/195842) opened on on November 2, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195842) 110 additions and 1 deletion in 2 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Unify the brightness override with view metrics overrides<br />
   <sub>[#195843](https://github.com/flutter/flutter/pull/195843) opened on on November 2, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/195843) 250 additions and 61 deletions in 7 files</sub><br />
@@ -455,20 +440,8 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Defer TLHC PlatformViewWrapper frame post and avoid initial 1x1 buffer resize<br />
   <sub>[#195861](https://github.com/flutter/flutter/pull/195861) opened on on November 3, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/195861) 322 additions and 2 deletions in 4 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; local_engine_builds_common out of bringup<br />
-  <sub>[#195862](https://github.com/flutter/flutter/pull/195862) opened on on November 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195862) 0 additions and 1 deletion in 1 file</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Balance tool_tests_commands and web_tool_tests subshards by duration<br />
-  <sub>[#195863](https://github.com/flutter/flutter/pull/195863) opened on on November 3, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/195863) 427 additions and 110 deletions in 5 files</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run the mac_unopt sub-builds as standalone builders<br />
-  <sub>[#195868](https://github.com/flutter/flutter/pull/195868) opened on on November 3, 2026 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/195868) 486 additions and 0 deletions in 9 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Drop Android SDK, JDK, and Gradle dependencies from framework_tests_misc<br />
-  <sub>[#195869](https://github.com/flutter/flutter/pull/195869) opened on on November 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195869) 44 additions and 21 deletions in 3 files</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Split DevTools customer tests into its own customer_testing_devtools shard<br />
-  <sub>[#195871](https://github.com/flutter/flutter/pull/195871) opened on on November 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195871) 98 additions and 12 deletions in 8 files</sub><br />
+  <sub>[#195869](https://github.com/flutter/flutter/pull/195869) opened on on November 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195869) 44 additions and 21 deletions in 3 files</sub><br />
 
 * **[Chandrabhushan Prakash](https://github.com/itsonu)** &mdash; Remove com.apple.ResourceFork xattr before iOS codesign<br />
   <sub>[#195874](https://github.com/flutter/flutter/pull/195874) opened on on November 3, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195874) 99 additions and 6 deletions in 3 files</sub><br />
@@ -476,9 +449,15 @@
 * **[Leapward-Koex](https://github.com/Leapward-Koex)** &mdash; [Windows] Stop idle Direct Manipulation timer polling<br />
   <sub>[#195880](https://github.com/flutter/flutter/pull/195880) opened on on November 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195880) 265 additions and 10 deletions in 8 files</sub><br />
 
-* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; Expose engineId on native plugin bindings and registrars across platforms<br />
-  <sub>[#195881](https://github.com/flutter/flutter/pull/195881) opened on on November 3, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195881) 234 additions and 8 deletions in 25 files</sub><br />
-
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Patch atkversion.h in sysroots to add C linkage declarations<br />
   <sub>[#195883](https://github.com/flutter/flutter/pull/195883) opened on on November 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195883) 41 additions and 8 deletions in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Use `ErrorHandlingFileSystem.deleteIfExists` for `IOSCoreDeviceControl` temp directory cleanup<br />
+  <sub>[#195913](https://github.com/flutter/flutter/pull/195913) opened on on November 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195913) 272 additions and 11 deletions in 2 files</sub><br />
+
+* **[b-luk](https://github.com/b-luk)** &mdash; Read back images on the raster thread on OpenGLES<br />
+  <sub>[#195927](https://github.com/flutter/flutter/pull/195927) opened on on November 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195927) 88 additions and 1 deletion in 2 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Reference dart-lang/sdk#61464 on deprecated_web_configuration ignores<br />
+  <sub>[#195931](https://github.com/flutter/flutter/pull/195931) opened on on November 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195931) 4 additions and 2 deletions in 4 files</sub><br />
 
