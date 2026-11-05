@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/178712) 205 additions and 10 deletions in 9 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/178712) 205 additions and 10 deletions in 9 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -108,7 +108,7 @@
   <sub>[#193308](https://github.com/flutter/flutter/pull/193308) opened on on September 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193308) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Updated Instructions for Determining Gradle Version for `gradle_dists` in CIPD<br />
-  <sub>[#193310](https://github.com/flutter/flutter/pull/193310) opened on on September 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193310) 5 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#193310](https://github.com/flutter/flutter/pull/193310) opened on on September 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193310) 5 additions and 3 deletions in 1 file</sub><br />
 
 * **[Rahul Shah](https://github.com/rahulshahDEV)** &mdash; Preserve Android status bar theme brightness on startup<br />
   <sub>[#193386](https://github.com/flutter/flutter/pull/193386) opened on on September 26, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/193386) 38 additions and 1 deletion in 2 files</sub><br />
@@ -160,9 +160,6 @@
 
 * **[Rich Young](https://github.com/richyo-codes)** &mdash; refactor(linux): introduce GTK3 surface helpers<br />
   <sub>[#193943](https://github.com/flutter/flutter/pull/193943) opened on on October 7, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193943) 120 additions and 6 deletions in 7 files</sub><br />
-
-* **[justinborowitza](https://github.com/justinborowitza)** &mdash; [flutter_tools] Preserve web test selectors on Windows<br />
-  <sub>[#193980](https://github.com/flutter/flutter/pull/193980) opened on on October 7, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193980) 131 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Compute engine content hash from HEAD and only fall back to merge-base on download failure<br />
   <sub>[#194029](https://github.com/flutter/flutter/pull/194029) opened on on October 8, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/194029) 736 additions and 194 deletions in 12 files</sub><br />
@@ -248,6 +245,9 @@
 * **[Asim Awdah](https://github.com/asimawdah)** &mdash; Do not start hero flights for heroes that were never laid out<br />
   <sub>[#195078](https://github.com/flutter/flutter/pull/195078) opened on on October 22, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195078) 94 additions and 5 deletions in 2 files</sub><br />
 
+* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [web] Commit platform-view DOM after rasterization<br />
+  <sub>[#195104](https://github.com/flutter/flutter/pull/195104) opened on on October 22, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/195104) 330 additions and 35 deletions in 5 files</sub><br />
+
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Deprecate AnimatedSize.reverseDuration and RenderAnimatedSize.reverseDuration<br />
   <sub>[#195129](https://github.com/flutter/flutter/pull/195129) opened on on October 23, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/195129) 63 additions and 1 deletion in 9 files</sub><br />
 
@@ -276,7 +276,7 @@
   <sub>[#195288](https://github.com/flutter/flutter/pull/195288) opened on on October 25, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/195288) 232 additions and 51 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Redirect macOS sandbox container DevFS to application_darwin_temp_dir<br />
-  <sub>[#195328](https://github.com/flutter/flutter/pull/195328) opened on on October 26, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/195328) 343 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#195328](https://github.com/flutter/flutter/pull/195328) opened on on October 26, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/195328) 352 additions and 3 deletions in 2 files</sub><br />
 
 * **[apooverma](https://github.com/apooverma)** &mdash; [iOS] Hide UIScrollEdgeEffect on FlutterSemanticsScrollView on iOS 26+<br />
   <sub>[#195356](https://github.com/flutter/flutter/pull/195356) opened on on October 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195356) 21 additions and 0 deletions in 2 files</sub><br />
@@ -288,7 +288,7 @@
   <sub>[#195472](https://github.com/flutter/flutter/pull/195472) opened on on October 28, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/195472) 109 additions and 0 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Deprecates setFloat API<br />
-  <sub>[#195505](https://github.com/flutter/flutter/pull/195505) opened on on October 28, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/195505) 47 additions and 25 deletions in 2 files</sub><br />
+  <sub>[#195505](https://github.com/flutter/flutter/pull/195505) opened on on October 28, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/195505) 48 additions and 26 deletions in 3 files</sub><br />
 
 * **[Michael Brase](https://github.com/mbrase)** &mdash; Remove unused vulkan_provider.cc<br />
   <sub>[#195513](https://github.com/flutter/flutter/pull/195513) opened on on October 28, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195513) 1 addition and 25 deletions in 2 files</sub><br />
@@ -369,7 +369,7 @@
   <sub>[#195883](https://github.com/flutter/flutter/pull/195883) opened on on November 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195883) 41 additions and 8 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Use `ErrorHandlingFileSystem.deleteIfExists` for `IOSCoreDeviceControl` temp directory cleanup<br />
-  <sub>[#195913](https://github.com/flutter/flutter/pull/195913) opened on on November 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195913) 272 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#195913](https://github.com/flutter/flutter/pull/195913) opened on on November 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195913) 273 additions and 11 deletions in 2 files</sub><br />
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Read back images on the raster thread on OpenGLES<br />
   <sub>[#195927](https://github.com/flutter/flutter/pull/195927) opened on on November 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195927) 88 additions and 1 deletion in 2 files</sub><br />
@@ -406,4 +406,13 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Remove unused PlatformViewIOS setup from FlutterPlatformViewsTest<br />
   <sub>[#196033](https://github.com/flutter/flutter/pull/196033) opened on on November 5, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/196033) 96 additions and 695 deletions in 3 files</sub><br />
+
+* **[MarkZ](https://github.com/Markzipan)** &mdash; [beta] Roll dwds to 27.2.1<br />
+  <sub>[#196035](https://github.com/flutter/flutter/pull/196035) opened on on November 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196035) 4 additions and 4 deletions in 2 files</sub><br />
+
+* **[Mehmet Bahadır Güngör](https://github.com/mehmetbahadirgungor)** &mdash; [flutter_tools] Preserve rolling log buffer for Chromium crash diagnostics<br />
+  <sub>[#196037](https://github.com/flutter/flutter/pull/196037) opened on on November 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196037) 260 additions and 4 deletions in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Rasterize scenes at the size passed to `FlutterView.render`<br />
+  <sub>[#196052](https://github.com/flutter/flutter/pull/196052) opened on on November 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196052) 235 additions and 53 deletions in 16 files</sub><br />
 
