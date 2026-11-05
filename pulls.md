@@ -186,7 +186,7 @@
   <sub>[#194468](https://github.com/flutter/flutter/pull/194468) opened on on October 15, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/194468) 266 additions and 10 deletions in 5 files</sub><br />
 
 * **[Awais Rehman](https://github.com/awaisdev5765)** &mdash; Support multi-view apps in widget test binding<br />
-  <sub>[#194480](https://github.com/flutter/flutter/pull/194480) opened on on October 15, 2026 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/194480) 89 additions and 12 deletions in 4 files</sub><br />
+  <sub>[#194480](https://github.com/flutter/flutter/pull/194480) opened on on October 15, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/194480) 199 additions and 18 deletions in 5 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't terminate the shared EGL display when an engine is disposed<br />
   <sub>[#194520](https://github.com/flutter/flutter/pull/194520) opened on on October 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/194520) 57 additions and 1 deletion in 3 files</sub><br />
@@ -222,7 +222,7 @@
   <sub>[#194854](https://github.com/flutter/flutter/pull/194854) opened on on October 20, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/194854) 388 additions and 37 deletions in 15 files</sub><br />
 
 * **[YeungKC](https://github.com/YeungKC)** &mdash; Use reverseDuration for the AnimatedCrossFade size animation<br />
-  <sub>[#194860](https://github.com/flutter/flutter/pull/194860) opened on on October 20, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/194860) 86 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#194860](https://github.com/flutter/flutter/pull/194860) opened on on October 20, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/194860) 105 additions and 2 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevents private members on "open" classes from leaking into public API implementations<br />
   <sub>[#194898](https://github.com/flutter/flutter/pull/194898) opened on on October 20, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/194898) 324 additions and 299 deletions in 43 files</sub><br />
@@ -305,9 +305,6 @@
 * **[Vukan-Levi9](https://github.com/Vukan-Levi9)** &mdash; docs: remove broken image references from dev/snippets/README.md<br />
   <sub>[#195587](https://github.com/flutter/flutter/pull/195587) opened on on October 29, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195587) 0 additions and 4 deletions in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move ios_app_with_extensions_test into the tool integration shard<br />
-  <sub>[#195609](https://github.com/flutter/flutter/pull/195609) opened on on October 29, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195609) 63 additions and 93 deletions in 4 files</sub><br />
-
 * **[Aditya Chandrajit Deore](https://github.com/AdityaxDeore)** &mdash; fix: prevent EditableText crash when the toolbar is showing and text shrinks during scroll<br />
   <sub>[#195620](https://github.com/flutter/flutter/pull/195620) opened on on October 29, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/195620) 89 additions and 0 deletions in 2 files</sub><br />
 
@@ -369,7 +366,7 @@
   <sub>[#195880](https://github.com/flutter/flutter/pull/195880) opened on on November 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/195880) 265 additions and 10 deletions in 8 files</sub><br />
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Patch atkversion.h in sysroots to add C linkage declarations<br />
-  <sub>[#195883](https://github.com/flutter/flutter/pull/195883) opened on on November 3, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195883) 41 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#195883](https://github.com/flutter/flutter/pull/195883) opened on on November 3, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195883) 41 additions and 8 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Use `ErrorHandlingFileSystem.deleteIfExists` for `IOSCoreDeviceControl` temp directory cleanup<br />
   <sub>[#195913](https://github.com/flutter/flutter/pull/195913) opened on on November 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195913) 272 additions and 11 deletions in 2 files</sub><br />
@@ -381,10 +378,10 @@
   <sub>[#195952](https://github.com/flutter/flutter/pull/195952) opened on on November 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195952) 53 additions and 12 deletions in 2 files</sub><br />
 
 * **[Teddy Yeung](https://github.com/TeddyYeung)** &mdash; [web] Fix decoding of still AVIF images on Chrome<br />
-  <sub>[#195958](https://github.com/flutter/flutter/pull/195958) opened on on November 4, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195958) 41 additions and 4 deletions in 4 files</sub><br />
+  <sub>[#195958](https://github.com/flutter/flutter/pull/195958) opened on on November 4, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/195958) 54 additions and 4 deletions in 4 files</sub><br />
 
 * **[ryoganaruse](https://github.com/ryoganaruse)** &mdash; Handle a floating cursor Update without a Start in EditableText<br />
-  <sub>[#195976](https://github.com/flutter/flutter/pull/195976) opened on on November 4, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195976) 127 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#195976](https://github.com/flutter/flutter/pull/195976) opened on on November 4, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/195976) 123 additions and 0 deletions in 2 files</sub><br />
 
 * **[Manish Kumar Panday](https://github.com/Manish1Pandey)** &mdash; Harden Windows batch-file invocations against cmd.exe argument injection<br />
   <sub>[#195994](https://github.com/flutter/flutter/pull/195994) opened on on November 4, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/195994) 199 additions and 0 deletions in 2 files</sub><br />
@@ -394,4 +391,19 @@
 
 * **[NemesisDev](https://github.com/NemesisDevX)** &mdash; [a11y] Remove pinned children pushed out of view by their SliverMainAxisGroup's end from semantics<br />
   <sub>[#196016](https://github.com/flutter/flutter/pull/196016) opened on on November 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196016) 219 additions and 1 deletion in 2 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Impeller] Use separate uniform buffers on VMware SVGA3D<br />
+  <sub>[#196022](https://github.com/flutter/flutter/pull/196022) opened on on November 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196022) 173 additions and 14 deletions in 6 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove Mac mac_unopt builder<br />
+  <sub>[#196027](https://github.com/flutter/flutter/pull/196027) opened on on November 5, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/196027) 10 additions and 485 deletions in 7 files</sub><br />
+
+* **[Teddy Yeung](https://github.com/TeddyYeung)** &mdash; [web] Decode images once in instantiateImageCodecWithSize<br />
+  <sub>[#196029](https://github.com/flutter/flutter/pull/196029) opened on on November 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196029) 186 additions and 15 deletions in 4 files</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; Expose engineId on native plugin registrars on Linux and Windows<br />
+  <sub>[#196032](https://github.com/flutter/flutter/pull/196032) opened on on November 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196032) 130 additions and 4 deletions in 16 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Remove unused PlatformViewIOS setup from FlutterPlatformViewsTest<br />
+  <sub>[#196033](https://github.com/flutter/flutter/pull/196033) opened on on November 5, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/196033) 96 additions and 695 deletions in 3 files</sub><br />
 
