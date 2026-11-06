@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Add support for riscv64 desktop linux engine<br />
-  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [51 comments](https://github.com/flutter/flutter/pull/178712) 205 additions and 10 deletions in 9 files</sub><br />
+  <sub>[#178712](https://github.com/flutter/flutter/pull/178712) opened on on November 18, 2025 &mdash; **Small:** [52 comments](https://github.com/flutter/flutter/pull/178712) 205 additions and 10 deletions in 9 files</sub><br />
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; [engine_tool] add iOS support to engine_tool run command<br />
   <sub>[#180735](https://github.com/flutter/flutter/pull/180735) opened on on January 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/180735) 105 additions and 14 deletions in 3 files</sub><br />
@@ -99,7 +99,7 @@
   <sub>[#193308](https://github.com/flutter/flutter/pull/193308) opened on on September 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193308) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Rahul Shah](https://github.com/rahulshahDEV)** &mdash; Preserve Android status bar theme brightness on startup<br />
-  <sub>[#193386](https://github.com/flutter/flutter/pull/193386) opened on on September 26, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/193386) 38 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#193386](https://github.com/flutter/flutter/pull/193386) opened on on September 26, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/193386) 75 additions and 2 deletions in 4 files</sub><br />
 
 * **[Arno Victor](https://github.com/arnodorian1337)** &mdash; [security test] Validate LUCI commit pinning<br />
   <sub>[#193398](https://github.com/flutter/flutter/pull/193398) opened on on September 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/193398) 18 additions and 0 deletions in 1 file</sub><br />
@@ -153,10 +153,10 @@
   <sub>[#194029](https://github.com/flutter/flutter/pull/194029) opened on on October 8, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/194029) 736 additions and 194 deletions in 12 files</sub><br />
 
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix TreeSliver painting during rapid toggles<br />
-  <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/194172) 163 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/194172) 349 additions and 1 deletion in 3 files</sub><br />
 
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix system back dispatch with RouterConfig<br />
-  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/194173) 200 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/194173) 532 additions and 15 deletions in 5 files</sub><br />
 
 * **[paul-geoghegan](https://github.com/paul-geoghegan)** &mdash; [Linux] Set window title from setApplicationSwitcherDescription<br />
   <sub>[#194213](https://github.com/flutter/flutter/pull/194213) opened on on October 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194213) 234 additions and 20 deletions in 10 files</sub><br />
@@ -171,7 +171,7 @@
   <sub>[#194468](https://github.com/flutter/flutter/pull/194468) opened on on October 15, 2026 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/194468) 266 additions and 10 deletions in 5 files</sub><br />
 
 * **[Awais Rehman](https://github.com/awaisdev5765)** &mdash; Support multi-view apps in widget test binding<br />
-  <sub>[#194480](https://github.com/flutter/flutter/pull/194480) opened on on October 15, 2026 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/194480) 241 additions and 24 deletions in 5 files</sub><br />
+  <sub>[#194480](https://github.com/flutter/flutter/pull/194480) opened on on October 15, 2026 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/194480) 248 additions and 24 deletions in 5 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't terminate the shared EGL display when an engine is disposed<br />
   <sub>[#194520](https://github.com/flutter/flutter/pull/194520) opened on on October 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194520) 57 additions and 1 deletion in 3 files</sub><br />
@@ -303,7 +303,7 @@
   <sub>[#195799](https://github.com/flutter/flutter/pull/195799) opened on on November 2, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/195799) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add `WebParagraph` and `SkParagraph` macrobenchmarks<br />
-  <sub>[#195815](https://github.com/flutter/flutter/pull/195815) opened on on November 2, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/195815) 754 additions and 6 deletions in 7 files</sub><br />
+  <sub>[#195815](https://github.com/flutter/flutter/pull/195815) opened on on November 2, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/195815) 754 additions and 6 deletions in 7 files</sub><br />
 
 * **[mmodh10](https://github.com/mmodh10)** &mdash; Keep the iOS selection handle drag anchor within the text<br />
   <sub>[#195833](https://github.com/flutter/flutter/pull/195833) opened on on November 2, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195833) 166 additions and 1 deletion in 2 files</sub><br />
@@ -359,9 +359,15 @@
 * **[Mehmet Bahadır Güngör](https://github.com/mehmetbahadirgungor)** &mdash; [flutter_tools] Preserve rolling log buffer for Chromium crash diagnostics<br />
   <sub>[#196037](https://github.com/flutter/flutter/pull/196037) opened on on November 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196037) 260 additions and 4 deletions in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Rasterize scenes at the size passed to `FlutterView.render`<br />
-  <sub>[#196052](https://github.com/flutter/flutter/pull/196052) opened on on November 5, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/196052) 238 additions and 54 deletions in 16 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Register plugins in multiple_windows example<br />
   <sub>[#196068](https://github.com/flutter/flutter/pull/196068) opened on on November 5, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196068) 2 additions and 1 deletion in 1 file</sub><br />
+
+* **[Thura Khant Thein](https://github.com/thurakhant)** &mdash; Fix Visibility.of for displayed replacement subtrees<br />
+  <sub>[#196090](https://github.com/flutter/flutter/pull/196090) opened on on November 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196090) 94 additions and 9 deletions in 2 files</sub><br />
+
+* **[Arif Özgün](https://github.com/arifozgun)** &mdash; Add SystemTextMagnifier, which shows the system loupe on iOS<br />
+  <sub>[#196092](https://github.com/flutter/flutter/pull/196092) opened on on November 6, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/196092) 543 additions and 0 deletions in 5 files</sub><br />
+
+* **[Muzammil Hussain](https://github.com/Muzammil-Bit)** &mdash; test(widgets): Migrate hover tests to startHover and stop leaking mouse pointers<br />
+  <sub>[#196100](https://github.com/flutter/flutter/pull/196100) opened on on November 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/196100) 68 additions and 129 deletions in 9 files</sub><br />
 
