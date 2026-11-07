@@ -362,9 +362,6 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [beta] Expose engineId on native plugin bindings and registrars on Android, iOS, and macOS<br />
   <sub>[#196145](https://github.com/flutter/flutter/pull/196145) opened on on November 6, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196145) 102 additions and 1 deletion in 10 files</sub><br />
 
-* **[Rusino](https://github.com/Rusino)** &mdash; [web] Accept the capped letter spacing line shift in kitchensink<br />
-  <sub>[#196148](https://github.com/flutter/flutter/pull/196148) opened on on November 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196148) 9 additions and 1 deletion in 1 file</sub><br />
-
 * **[Bahadir10](https://github.com/Bahadir10)** &mdash; Fix SelectionArea crash when sorting selectables in an offstage route<br />
   <sub>[#196149](https://github.com/flutter/flutter/pull/196149) opened on on November 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196149) 49 additions and 9 deletions in 3 files</sub><br />
 
@@ -387,8 +384,11 @@
   <sub>[#196166](https://github.com/flutter/flutter/pull/196166) opened on on November 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196166) 96 additions and 3 deletions in 5 files</sub><br />
 
 * **[kaluli123123](https://github.com/kaluli123123)** &mdash; Continue route transition animation from current value on predictive back commit<br />
-  <sub>[#196173](https://github.com/flutter/flutter/pull/196173) opened on on November 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196173) 41 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#196173](https://github.com/flutter/flutter/pull/196173) opened on on November 7, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/196173) 41 additions and 2 deletions in 2 files</sub><br />
 
 * **[Muhammad Rohan ](https://github.com/rohanirshad)** &mdash; Clarify PageController.viewportFraction layout and centering behavior<br />
   <sub>[#196176](https://github.com/flutter/flutter/pull/196176) opened on on November 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196176) 35 additions and 1 deletion in 2 files</sub><br />
+
+* **[Mahan](https://github.com/mahanpyk)** &mdash; Handle DevFS temporary directory creation failures<br />
+  <sub>[#196179](https://github.com/flutter/flutter/pull/196179) opened on on November 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196179) 182 additions and 3 deletions in 3 files</sub><br />
 
