@@ -351,7 +351,7 @@
   <sub>[#196104](https://github.com/flutter/flutter/pull/196104) opened on on November 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196104) 257 additions and 35 deletions in 13 files</sub><br />
 
 * **[Muhammad Rohan ](https://github.com/rohanirshad)** &mdash; Add repeat-tap pop and scroll-to-top sample for CupertinoTabScaffold<br />
-  <sub>[#196109](https://github.com/flutter/flutter/pull/196109) opened on on November 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/196109) 224 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#196109](https://github.com/flutter/flutter/pull/196109) opened on on November 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/196109) 224 additions and 0 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Handle Windows reserved characters in test target path<br />
   <sub>[#196116](https://github.com/flutter/flutter/pull/196116) opened on on November 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196116) 48 additions and 1 deletion in 2 files</sub><br />
@@ -366,11 +366,26 @@
   <sub>[#196148](https://github.com/flutter/flutter/pull/196148) opened on on November 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196148) 9 additions and 1 deletion in 1 file</sub><br />
 
 * **[Bahadir10](https://github.com/Bahadir10)** &mdash; Fix SelectionArea crash when sorting selectables in an offstage route<br />
-  <sub>[#196149](https://github.com/flutter/flutter/pull/196149) opened on on November 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196149) 46 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#196149](https://github.com/flutter/flutter/pull/196149) opened on on November 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196149) 49 additions and 9 deletions in 3 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; Add hyphenCharacter to TextPainter, RenderParagraph, RichText and Text<br />
   <sub>[#196152](https://github.com/flutter/flutter/pull/196152) opened on on November 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196152) 155 additions and 1 deletion in 10 files</sub><br />
 
 * **[Hange Yeh](https://github.com/hangy233)** &mdash; Fix TextStyle background color fade-out when lerping to null<br />
   <sub>[#196153](https://github.com/flutter/flutter/pull/196153) opened on on November 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196153) 8 additions and 1 deletion in 2 files</sub><br />
+
+* **[Vinit Tailor](https://github.com/vinittailor)** &mdash; Fix ModalBottomSheet subtracting opposite sub-screen safe area on multi-screen displays<br />
+  <sub>[#196162](https://github.com/flutter/flutter/pull/196162) opened on on November 7, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196162) 80 additions and 31 deletions in 2 files</sub><br />
+
+* **[Mehrzad Mohammadi](https://github.com/mehrzut)** &mdash; Document that didChangeLocales is not called on iOS for device language changes<br />
+  <sub>[#196164](https://github.com/flutter/flutter/pull/196164) opened on on November 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196164) 5 additions and 0 deletions in 1 file</sub><br />
+
+* **[Shubham Sahu](https://github.com/https-shubhamsahu)** &mdash; Analyze every flutter create template, and fix the package_ffi lint<br />
+  <sub>[#196165](https://github.com/flutter/flutter/pull/196165) opened on on November 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196165) 9 additions and 5 deletions in 2 files</sub><br />
+
+* **[Mehrzad Mohammadi](https://github.com/mehrzut)** &mdash; [flutter_test] Allow disposing a SemanticsHandle in addTearDown<br />
+  <sub>[#196166](https://github.com/flutter/flutter/pull/196166) opened on on November 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196166) 96 additions and 3 deletions in 5 files</sub><br />
+
+* **[kaluli123123](https://github.com/kaluli123123)** &mdash; Continue route transition animation from current value on predictive back commit<br />
+  <sub>[#196173](https://github.com/flutter/flutter/pull/196173) opened on on November 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196173) 41 additions and 2 deletions in 2 files</sub><br />
 
