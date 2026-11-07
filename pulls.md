@@ -296,8 +296,8 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support GL_TEXTURE_EXTERNAL_OES embedder textures in Impeller<br />
   <sub>[#195857](https://github.com/flutter/flutter/pull/195857) opened on on November 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195857) 121 additions and 0 deletions in 2 files</sub><br />
 
-* **[caimengnan-ops](https://github.com/caimengnan-ops)** &mdash; [Impeller] Do not clamp DrawDisplayList cull rect to the root render target<br />
-  <sub>[#195860](https://github.com/flutter/flutter/pull/195860) opened on on November 3, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/195860) 65 additions and 2 deletions in 2 files</sub><br />
+* **[caimengnan-ops](https://github.com/caimengnan-ops)** &mdash; [Impeller] Do not clamp the local coverage limit to the root render target<br />
+  <sub>[#195860](https://github.com/flutter/flutter/pull/195860) opened on on November 3, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/195860) 68 additions and 11 deletions in 2 files</sub><br />
 
 * **[Leapward-Koex](https://github.com/Leapward-Koex)** &mdash; [Windows] Stop idle Direct Manipulation timer polling<br />
   <sub>[#195880](https://github.com/flutter/flutter/pull/195880) opened on on November 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/195880) 265 additions and 10 deletions in 8 files</sub><br />
@@ -351,7 +351,7 @@
   <sub>[#196104](https://github.com/flutter/flutter/pull/196104) opened on on November 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196104) 257 additions and 35 deletions in 13 files</sub><br />
 
 * **[Muhammad Rohan ](https://github.com/rohanirshad)** &mdash; Add repeat-tap pop and scroll-to-top sample for CupertinoTabScaffold<br />
-  <sub>[#196109](https://github.com/flutter/flutter/pull/196109) opened on on November 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/196109) 193 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#196109](https://github.com/flutter/flutter/pull/196109) opened on on November 6, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/196109) 224 additions and 0 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Handle Windows reserved characters in test target path<br />
   <sub>[#196116](https://github.com/flutter/flutter/pull/196116) opened on on November 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196116) 48 additions and 1 deletion in 2 files</sub><br />
