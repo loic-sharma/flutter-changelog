@@ -108,7 +108,7 @@
   <sub>[#193413](https://github.com/flutter/flutter/pull/193413) opened on on September 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193413) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[awababushnagh0-sudo](https://github.com/awababushnagh0-sudo)** &mdash; Clarify that super.dispose() must be called synchronously<br />
-  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/193416) 94 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Medium:** [31 comments](https://github.com/flutter/flutter/pull/193416) 388 additions and 2 deletions in 4 files</sub><br />
 
 * **[Aurora](https://github.com/auroraxo)** &mdash; docs: remove broken screenshot references in dev/snippets README<br />
   <sub>[#193429](https://github.com/flutter/flutter/pull/193429) opened on on September 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193429) 0 additions and 4 deletions in 1 file</sub><br />
@@ -378,7 +378,7 @@
   <sub>[#196164](https://github.com/flutter/flutter/pull/196164) opened on on November 7, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196164) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Shubham Sahu](https://github.com/https-shubhamsahu)** &mdash; Analyze every flutter create template, and fix the package_ffi lint<br />
-  <sub>[#196165](https://github.com/flutter/flutter/pull/196165) opened on on November 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196165) 9 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#196165](https://github.com/flutter/flutter/pull/196165) opened on on November 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196165) 11 additions and 7 deletions in 2 files</sub><br />
 
 * **[Mehrzad Mohammadi](https://github.com/mehrzut)** &mdash; [flutter_test] Allow disposing a SemanticsHandle in addTearDown<br />
   <sub>[#196166](https://github.com/flutter/flutter/pull/196166) opened on on November 7, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196166) 96 additions and 3 deletions in 5 files</sub><br />
