@@ -108,7 +108,7 @@
   <sub>[#193413](https://github.com/flutter/flutter/pull/193413) opened on on September 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193413) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[awababushnagh0-sudo](https://github.com/awababushnagh0-sudo)** &mdash; Clarify that super.dispose() must be called synchronously<br />
-  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Medium:** [38 comments](https://github.com/flutter/flutter/pull/193416) 388 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Medium:** [39 comments](https://github.com/flutter/flutter/pull/193416) 388 additions and 2 deletions in 4 files</sub><br />
 
 * **[Aurora](https://github.com/auroraxo)** &mdash; docs: remove broken screenshot references in dev/snippets README<br />
   <sub>[#193429](https://github.com/flutter/flutter/pull/193429) opened on on September 28, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/193429) 0 additions and 4 deletions in 1 file</sub><br />
@@ -153,7 +153,7 @@
   <sub>[#194172](https://github.com/flutter/flutter/pull/194172) opened on on October 11, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/194172) 349 additions and 1 deletion in 3 files</sub><br />
 
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix system back dispatch with RouterConfig<br />
-  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/194173) 532 additions and 15 deletions in 5 files</sub><br />
+  <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/194173) 532 additions and 15 deletions in 5 files</sub><br />
 
 * **[paul-geoghegan](https://github.com/paul-geoghegan)** &mdash; [Linux] Set window title from setApplicationSwitcherDescription<br />
   <sub>[#194213](https://github.com/flutter/flutter/pull/194213) opened on on October 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194213) 234 additions and 20 deletions in 10 files</sub><br />
@@ -397,4 +397,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix layer offset when compositing with glBlitFramebuffer<br />
   <sub>[#196189](https://github.com/flutter/flutter/pull/196189) opened on on November 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196189) 46 additions and 5 deletions in 2 files</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix Vulkan MSAA diagonal seam in FramebufferBlend<br />
+  <sub>[#196197](https://github.com/flutter/flutter/pull/196197) opened on on November 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/196197) 74 additions and 0 deletions in 2 files</sub><br />
 
