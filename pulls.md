@@ -392,3 +392,9 @@
 * **[Mahan](https://github.com/mahanpyk)** &mdash; Handle DevFS temporary directory creation failures<br />
   <sub>[#196179](https://github.com/flutter/flutter/pull/196179) opened on on November 7, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196179) 182 additions and 3 deletions in 3 files</sub><br />
 
+* **[Soroush Yousefpour](https://github.com/gabrimatic)** &mdash; [a11y] Detect undersized tap targets at scrollable boundaries<br />
+  <sub>[#196188](https://github.com/flutter/flutter/pull/196188) opened on on November 8, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/196188) 537 additions and 12 deletions in 4 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix layer offset when compositing with glBlitFramebuffer<br />
+  <sub>[#196189](https://github.com/flutter/flutter/pull/196189) opened on on November 8, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196189) 46 additions and 5 deletions in 2 files</sub><br />
+

@@ -193,7 +193,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [zhongliugo](https://github.com/flutter-zl)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix layer position when compositing without glBlitFramebuffer<br />
-  <sub>[#196083](https://github.com/flutter/flutter/pull/196083) merged on November 6, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/196083) over 20 hours, 8 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#196083](https://github.com/flutter/flutter/pull/196083) merged on November 6, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/196083) over 20 hours, 8 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Remove public GlobalToolContext and globals from runner<br />
