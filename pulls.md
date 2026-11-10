@@ -96,7 +96,7 @@
   <sub>[#193413](https://github.com/flutter/flutter/pull/193413) opened on on September 27, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193413) 1 addition and 3 deletions in 1 file</sub><br />
 
 * **[awababushnagh0-sudo](https://github.com/awababushnagh0-sudo)** &mdash; Clarify that super.dispose() must be called synchronously<br />
-  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Medium:** [44 comments](https://github.com/flutter/flutter/pull/193416) 437 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#193416](https://github.com/flutter/flutter/pull/193416) opened on on September 27, 2026 &mdash; **Medium:** [51 comments](https://github.com/flutter/flutter/pull/193416) 470 additions and 2 deletions in 4 files</sub><br />
 
 * **[Aurora](https://github.com/auroraxo)** &mdash; docs: remove broken screenshot references in dev/snippets README<br />
   <sub>[#193429](https://github.com/flutter/flutter/pull/193429) opened on on September 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/193429) 0 additions and 4 deletions in 1 file</sub><br />
@@ -105,7 +105,7 @@
   <sub>[#193446](https://github.com/flutter/flutter/pull/193446) opened on on September 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193446) 271 additions and 8 deletions in 15 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Reland "Extract Windows archives using native tar with PowerShell fallback"<br />
-  <sub>[#193515](https://github.com/flutter/flutter/pull/193515) opened on on September 29, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/193515) 321 additions and 110 deletions in 4 files</sub><br />
+  <sub>[#193515](https://github.com/flutter/flutter/pull/193515) opened on on September 29, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/193515) 342 additions and 110 deletions in 4 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [Linux] Synchronize multi-window renderer lifetime across GTK and raster threads<br />
   <sub>[#193533](https://github.com/flutter/flutter/pull/193533) opened on on September 29, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193533) 100 additions and 20 deletions in 4 files</sub><br />
@@ -207,7 +207,7 @@
   <sub>[#195129](https://github.com/flutter/flutter/pull/195129) opened on on October 23, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/195129) 63 additions and 1 deletion in 9 files</sub><br />
 
 * **[Nikolai](https://github.com/npankov)** &mdash; Document using a ListView inside a Column<br />
-  <sub>[#195145](https://github.com/flutter/flutter/pull/195145) opened on on October 23, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/195145) 60 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#195145](https://github.com/flutter/flutter/pull/195145) opened on on October 23, 2026 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/195145) 60 additions and 0 deletions in 1 file</sub><br />
 
 * **[Muhammad Uvesh](https://github.com/uveshm003)** &mdash; Document why KeyboardListener needs a FocusNode<br />
   <sub>[#195269](https://github.com/flutter/flutter/pull/195269) opened on on October 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195269) 28 additions and 0 deletions in 1 file</sub><br />
@@ -282,13 +282,13 @@
   <sub>[#195857](https://github.com/flutter/flutter/pull/195857) opened on on November 3, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195857) 121 additions and 0 deletions in 2 files</sub><br />
 
 * **[caimengnan-ops](https://github.com/caimengnan-ops)** &mdash; [Impeller] Do not clamp the local coverage limit to the root render target<br />
-  <sub>[#195860](https://github.com/flutter/flutter/pull/195860) opened on on November 3, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/195860) 66 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#195860](https://github.com/flutter/flutter/pull/195860) opened on on November 3, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/195860) 66 additions and 11 deletions in 2 files</sub><br />
 
 * **[Leapward-Koex](https://github.com/Leapward-Koex)** &mdash; [Windows] Stop idle Direct Manipulation timer polling<br />
   <sub>[#195880](https://github.com/flutter/flutter/pull/195880) opened on on November 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/195880) 265 additions and 10 deletions in 8 files</sub><br />
 
 * **[Valentin Haudiquet](https://github.com/vhaudiquet)** &mdash; Patch atkversion.h in sysroots to add C linkage declarations<br />
-  <sub>[#195883](https://github.com/flutter/flutter/pull/195883) opened on on November 3, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/195883) 41 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#195883](https://github.com/flutter/flutter/pull/195883) opened on on November 3, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/195883) 41 additions and 8 deletions in 3 files</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; [flutter_tools] Use the generic macOS destination when the host arch is in EXCLUDED_ARCHS<br />
   <sub>[#195952](https://github.com/flutter/flutter/pull/195952) opened on on November 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195952) 53 additions and 12 deletions in 2 files</sub><br />
@@ -303,7 +303,7 @@
   <sub>[#196016](https://github.com/flutter/flutter/pull/196016) opened on on November 5, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196016) 219 additions and 1 deletion in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Impeller] Use separate uniform buffers on VMware SVGA3D<br />
-  <sub>[#196022](https://github.com/flutter/flutter/pull/196022) opened on on November 5, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196022) 173 additions and 14 deletions in 6 files</sub><br />
+  <sub>[#196022](https://github.com/flutter/flutter/pull/196022) opened on on November 5, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/196022) 173 additions and 14 deletions in 6 files</sub><br />
 
 * **[Teddy Yeung](https://github.com/TeddyYeung)** &mdash; [web] Decode images once in instantiateImageCodecWithSize<br />
   <sub>[#196029](https://github.com/flutter/flutter/pull/196029) opened on on November 5, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196029) 186 additions and 15 deletions in 4 files</sub><br />
@@ -410,12 +410,18 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Drop test_timeout_secs from shards that no longer need it<br />
   <sub>[#196277](https://github.com/flutter/flutter/pull/196277) opened on on November 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/196277) 0 additions and 15 deletions in 1 file</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop running gtest-parallel unittests twice<br />
+  <sub>[#196278](https://github.com/flutter/flutter/pull/196278) opened on on November 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196278) 6 additions and 11 deletions in 1 file</sub><br />
+
 * **[YeungKC](https://github.com/YeungKC)** &mdash; [Linux] Enable semantics only when an assistive technology uses them<br />
   <sub>[#196281](https://github.com/flutter/flutter/pull/196281) opened on on November 10, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/196281) 628 additions and 4 deletions in 9 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Build local engine wasm configs on 32-core Linux bots<br />
-  <sub>[#196284](https://github.com/flutter/flutter/pull/196284) opened on on November 10, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196284) 4 additions and 2 deletions in 2 files</sub><br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Skip Vulkan impeller_unittests on macOS<br />
+  <sub>[#196282](https://github.com/flutter/flutter/pull/196282) opened on on November 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196282) 3 additions and 4 deletions in 1 file</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Recomposite platform views only if their parameters change<br />
-  <sub>[#196287](https://github.com/flutter/flutter/pull/196287) opened on on November 10, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/196287) 321 additions and 108 deletions in 5 files</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes the tolerances for frame_rate_main_test.dart.<br />
+  <sub>[#196304](https://github.com/flutter/flutter/pull/196304) opened on on November 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196304) 12 additions and 2 deletions in 1 file</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add Flutter Gardener instructions on how to disable a test<br />
+  <sub>[#196312](https://github.com/flutter/flutter/pull/196312) opened on on November 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196312) 26 additions and 1 deletion in 1 file</sub><br />
 
