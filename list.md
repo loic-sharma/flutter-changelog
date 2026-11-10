@@ -4,7 +4,7 @@
 
 ### November 7, 2026 to November 13, 2026
 
-14 commits.
+15 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Split mac_host_{debug,profile,release}_arm64_tests into one step per type
   <sub>[#196031](https://github.com/flutter/flutter/pull/196031) merged on November 9, 2026 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/196031) over 4 days, 122 additions and 9 deletions in 4 files</sub>
@@ -43,9 +43,13 @@
   <sub>[#195871](https://github.com/flutter/flutter/pull/195871) merged on November 9, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/195871) over 6 days, 98 additions and 12 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add Mac web_tool_tests_1_2 and _2_2 in bringup
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase number of 'Mac web_tool_tests' subshards
   <sub>[#196241](https://github.com/flutter/flutter/pull/196241) merged on November 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/196241) over 1 hour, 46 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Rusino](https://github.com/Rusino)** &mdash; [web] Accept the capped letter spacing line shift in kitchensink
+  <sub>[#196148](https://github.com/flutter/flutter/pull/196148) merged on November 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/196148) over 3 days, 7 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[b-luk](https://github.com/b-luk)** &mdash; Read back images on the raster thread on OpenGLES
   <sub>[#195927](https://github.com/flutter/flutter/pull/195927) merged on November 10, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/195927) over 6 days, 144 additions and 8 deletions in 5 files</sub>
