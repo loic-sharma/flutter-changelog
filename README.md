@@ -804,7 +804,7 @@
 
 ### November 7, 2026 to November 13, 2026
 
-19 commits.
+20 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Pass data classes and collections in a single buffer per native interop call<br />
   <sub>[#13265](https://github.com/flutter/packages/pull/13265) merged on November 10, 2026 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/13265) over 3 weeks, 35107 additions and 28274 deletions in 55 files</sub><br />
@@ -837,6 +837,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [vector_graphics] Catch any throwable in useHtmlRenderObject() and cache HTML fallback<br />
   <sub>[#13545](https://github.com/flutter/packages/pull/13545) merged on November 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/13545) over 1 week, 228 additions and 19 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub><br />
+
+* **[dkbharti-glitch](https://github.com/dkbharti-glitch)** &mdash; [material_ui] Document how to programmatically clear DropdownMenu selection<br />
+  <sub>[#13266](https://github.com/flutter/packages/pull/13266) merged on November 11, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/13266) over 3 weeks, 213 additions and 3 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Elliott Brooks](https://github.com/elliette)</sub><br />
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; [image_picker_ios] Convert the iOS example app and UI tests to Swift<br />
   <sub>[#13570](https://github.com/flutter/packages/pull/13570) merged on November 10, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/13570) over 5 days, 378 additions and 472 deletions in 9 files</sub><br />
