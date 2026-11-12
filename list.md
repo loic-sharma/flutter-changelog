@@ -1352,7 +1352,7 @@
 
 ### November 7, 2026 to November 13, 2026
 
-22 commits.
+23 commits.
 
 * **[Abdallah Shaban](https://github.com/abdallahshaban557)** &mdash; flutter create page
   <sub>[#13981](https://github.com/flutter/website/pull/13981) merged on November 10, 2026 &mdash; **Extra large:** [11 comments](https://github.com/flutter/website/pull/13981) over 3 weeks, 3126 additions and 1 deletion in 46 files</sub>
@@ -1397,6 +1397,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update and tighten site infra dependencies
   <sub>[#14030](https://github.com/flutter/website/pull/14030) merged on November 9, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/14030) over 5 days, 49 additions and 48 deletions in 7 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Native interop blog post
+  <sub>[#14065](https://github.com/flutter/website/pull/14065) merged on November 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/14065) over 20 hours, 185 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [Mariam Hasnany](https://github.com/mariamhas), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding info about wasm updates
   <sub>[#14063](https://github.com/flutter/website/pull/14063) merged on November 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/14063) over 25 minutes, 30 additions and 16 deletions in 1 file</sub>
