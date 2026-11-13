@@ -72,7 +72,7 @@
   <sub>[#193004](https://github.com/flutter/flutter/pull/193004) opened on on September 18, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/193004) 767 additions and 84 deletions in 24 files</sub><br />
 
 * **[Kevin McDermott-Carpenter](https://github.com/KevMCarp)** &mdash; [windows] Fix touch keyboard behaviour<br />
-  <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [18 comments](https://github.com/flutter/flutter/pull/193026) 4864 additions and 32 deletions in 35 files</sub><br />
+  <sub>[#193026](https://github.com/flutter/flutter/pull/193026) opened on on September 18, 2026 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/193026) 4864 additions and 32 deletions in 35 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update `linux_android_emu` to 37 AVD<br />
   <sub>[#193246](https://github.com/flutter/flutter/pull/193246) opened on on September 23, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193246) 2 additions and 2 deletions in 1 file</sub><br />
@@ -350,6 +350,9 @@
 * **[Vaibhav Bajpai](https://github.com/VaibhavBajpaij)** &mdash; [flutter_tools] Inherit stdio when running pub with default Stdio<br />
   <sub>[#196447](https://github.com/flutter/flutter/pull/196447) opened on on November 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/196447) 73 additions and 5 deletions in 4 files</sub><br />
 
+* **[Joelle Mahfoud](https://github.com/joellemd)** &mdash; [Linux] Hide libunwind symbols in libflutter_linux_gtk.so<br />
+  <sub>[#196451](https://github.com/flutter/flutter/pull/196451) opened on on November 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196451) 71 additions and 4 deletions in 3 files</sub><br />
+
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Send a semantics update when only the identifier changes<br />
   <sub>[#196460](https://github.com/flutter/flutter/pull/196460) opened on on November 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196460) 37 additions and 0 deletions in 2 files</sub><br />
 
@@ -371,9 +374,15 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix desktop apps installing to the system prefix after a failed build<br />
   <sub>[#196482](https://github.com/flutter/flutter/pull/196482) opened on on November 12, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/196482) 467 additions and 285 deletions in 35 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Preserve index.html and fix web build output tracking<br />
-  <sub>[#196491](https://github.com/flutter/flutter/pull/196491) opened on on November 13, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/196491) 995 additions and 144 deletions in 4 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: use plugin-namespaced ignore comments in flutter_analyzer_plugin README<br />
   <sub>[#196499](https://github.com/flutter/flutter/pull/196499) opened on on November 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196499) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[SaiTatter](https://github.com/saitatter)** &mdash; Graft an OverlayPortal's overlay child only to its own traversal parent<br />
+  <sub>[#196504](https://github.com/flutter/flutter/pull/196504) opened on on November 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196504) 135 additions and 5 deletions in 2 files</sub><br />
+
+* **[Irshad](https://github.com/irshadio)** &mdash; Wrap debugPrintHitTestResults output to avoid truncation on iOS<br />
+  <sub>[#196505](https://github.com/flutter/flutter/pull/196505) opened on on November 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196505) 27 additions and 1 deletion in 2 files</sub><br />
+
+* **[Irshad](https://github.com/irshadio)** &mdash; [iOS a11y] Don't crash when a scrollable reports an infinite scroll position<br />
+  <sub>[#196516](https://github.com/flutter/flutter/pull/196516) opened on on November 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196516) 92 additions and 2 deletions in 2 files</sub><br />
 
