@@ -383,3 +383,6 @@
 * **[tjcGoogle](https://github.com/tjcGoogle)** &mdash; Guard macOS accessibility text field value updates<br />
   <sub>[#196583](https://github.com/flutter/flutter/pull/196583) opened on on November 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196583) 55 additions and 5 deletions in 2 files</sub><br />
 
+* **[T Mohan Aditya](https://github.com/adityajai119)** &mdash; [flutter_tools] Include dependency manifests in copyAssets depfile<br />
+  <sub>[#196596](https://github.com/flutter/flutter/pull/196596) opened on on November 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196596) 94 additions and 1 deletion in 2 files</sub><br />
+
