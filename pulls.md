@@ -377,9 +377,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take customer_testing_flame out of bringup<br />
   <sub>[#196570](https://github.com/flutter/flutter/pull/196570) opened on on November 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196570) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Prasad  Navale](https://github.com/prasad2512)** &mdash; [iOS] Observe NSCurrentLocaleDidChangeNotification in FlutterViewController to send user settings<br />
-  <sub>[#196577](https://github.com/flutter/flutter/pull/196577) opened on on November 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196577) 28 additions and 0 deletions in 2 files</sub><br />
-
 * **[tjcGoogle](https://github.com/tjcGoogle)** &mdash; Guard macOS accessibility text field value updates<br />
   <sub>[#196583](https://github.com/flutter/flutter/pull/196583) opened on on November 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196583) 55 additions and 5 deletions in 2 files</sub><br />
 
