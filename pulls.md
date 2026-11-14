@@ -146,9 +146,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Add ExtensionArtifactManager and command integration for tool extensions<br />
   <sub>[#194588](https://github.com/flutter/flutter/pull/194588) opened on on October 16, 2026 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/194588) 3809 additions and 302 deletions in 24 files</sub><br />
 
-* **[Reginald Alfret V](https://github.com/reginaldalfret)** &mdash; Safely return null on malformed stack trace line in StackFrame.fromStackTraceLine<br />
-  <sub>[#194673](https://github.com/flutter/flutter/pull/194673) opened on on October 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194673) 7 additions and 3 deletions in 2 files</sub><br />
-
 * **[Sankalp Thakur](https://github.com/sankalpsthakur)** &mdash; Remove the remaining `X-UA-Compatible` meta tags<br />
   <sub>[#194687](https://github.com/flutter/flutter/pull/194687) opened on on October 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194687) 0 additions and 4 deletions in 4 files</sub><br />
 
@@ -365,9 +362,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Makes a11y evaluation public and refactor a11y guideline around it<br />
   <sub>[#196544](https://github.com/flutter/flutter/pull/196544) opened on on November 13, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/196544) 174 additions and 372 deletions in 11 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland "[android]: prewarms shaders when the context is created"<br />
-  <sub>[#196549](https://github.com/flutter/flutter/pull/196549) opened on on November 13, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/196549) 784 additions and 225 deletions in 11 files</sub><br />
-
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; [web] Skip stale safeBlur focus transfer when the element was refocused<br />
   <sub>[#196550](https://github.com/flutter/flutter/pull/196550) opened on on November 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196550) 57 additions and 0 deletions in 2 files</sub><br />
 
@@ -382,4 +376,10 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Take customer_testing_flame out of bringup<br />
   <sub>[#196570](https://github.com/flutter/flutter/pull/196570) opened on on November 14, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196570) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Prasad  Navale](https://github.com/prasad2512)** &mdash; [iOS] Observe NSCurrentLocaleDidChangeNotification in FlutterViewController to send user settings<br />
+  <sub>[#196577](https://github.com/flutter/flutter/pull/196577) opened on on November 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196577) 28 additions and 0 deletions in 2 files</sub><br />
+
+* **[tjcGoogle](https://github.com/tjcGoogle)** &mdash; Guard macOS accessibility text field value updates<br />
+  <sub>[#196583](https://github.com/flutter/flutter/pull/196583) opened on on November 14, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196583) 55 additions and 5 deletions in 2 files</sub><br />
 
