@@ -383,3 +383,9 @@
 * **[T Mohan Aditya](https://github.com/adityajai119)** &mdash; [flutter_tools] Include dependency manifests in copyAssets depfile<br />
   <sub>[#196596](https://github.com/flutter/flutter/pull/196596) opened on on November 14, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/196596) 189 additions and 1 deletion in 2 files</sub><br />
 
+* **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; Reply to accessibility channel messages on iOS and macOS<br />
+  <sub>[#196609](https://github.com/flutter/flutter/pull/196609) opened on on November 14, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196609) 37 additions and 7 deletions in 4 files</sub><br />
+
+* **[Vinit Tailor](https://github.com/vinittailor)** &mdash; [flutter_tools] Fix dumpsys meminfo parsing when both PSS and RSS columns are present<br />
+  <sub>[#196625](https://github.com/flutter/flutter/pull/196625) opened on on November 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196625) 78 additions and 1 deletion in 2 files</sub><br />
+
