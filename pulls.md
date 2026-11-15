@@ -389,3 +389,6 @@
 * **[Vinit Tailor](https://github.com/vinittailor)** &mdash; [flutter_tools] Fix dumpsys meminfo parsing when both PSS and RSS columns are present<br />
   <sub>[#196625](https://github.com/flutter/flutter/pull/196625) opened on on November 15, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196625) 78 additions and 1 deletion in 2 files</sub><br />
 
+* **[Lukas Klingsbo](https://github.com/spydon)** &mdash; [Flutter GPU] Expose the maximum render target size<br />
+  <sub>[#196640](https://github.com/flutter/flutter/pull/196640) opened on on November 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196640) 67 additions and 0 deletions in 4 files</sub><br />
+
