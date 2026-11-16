@@ -60,7 +60,7 @@
   <sub>[#192885](https://github.com/flutter/flutter/pull/192885) opened on on September 16, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/192885) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Yazan Arafeh](https://github.com/yazanmg)** &mdash; Expose semantics hints on desktop platforms<br />
-  <sub>[#192979](https://github.com/flutter/flutter/pull/192979) opened on on September 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/192979) 165 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#192979](https://github.com/flutter/flutter/pull/192979) opened on on September 18, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/192979) 165 additions and 0 deletions in 7 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle additional unhandled OS error codes in ErrorHandlingFileSystem<br />
   <sub>[#192998](https://github.com/flutter/flutter/pull/192998) opened on on September 18, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/192998) 381 additions and 4 deletions in 2 files</sub><br />
@@ -186,7 +186,7 @@
   <sub>[#195269](https://github.com/flutter/flutter/pull/195269) opened on on October 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195269) 28 additions and 0 deletions in 1 file</sub><br />
 
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; [Linux] Desynchronize the Wayland subsurface so frames don't redraw the GTK window<br />
-  <sub>[#195287](https://github.com/flutter/flutter/pull/195287) opened on on October 25, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195287) 142 additions and 9 deletions in 4 files</sub><br />
+  <sub>[#195287](https://github.com/flutter/flutter/pull/195287) opened on on October 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/195287) 142 additions and 9 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Redirect macOS sandbox container DevFS to application_darwin_temp_dir<br />
   <sub>[#195328](https://github.com/flutter/flutter/pull/195328) opened on on October 26, 2026 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/195328) 499 additions and 3 deletions in 2 files</sub><br />
@@ -222,13 +222,13 @@
   <sub>[#195815](https://github.com/flutter/flutter/pull/195815) opened on on November 2, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/195815) 754 additions and 6 deletions in 7 files</sub><br />
 
 * **[mmodh10](https://github.com/mmodh10)** &mdash; Keep the iOS selection handle drag anchor within the text<br />
-  <sub>[#195833](https://github.com/flutter/flutter/pull/195833) opened on on November 2, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195833) 166 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#195833](https://github.com/flutter/flutter/pull/195833) opened on on November 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/195833) 166 additions and 1 deletion in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [web] Keep the semantics tree usable when an update lists a child that was never sent<br />
   <sub>[#195837](https://github.com/flutter/flutter/pull/195837) opened on on November 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195837) 217 additions and 48 deletions in 2 files</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][spm]When using cocoapods plugin, give instruction that plugins may just need update<br />
-  <sub>[#195853](https://github.com/flutter/flutter/pull/195853) opened on on November 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195853) 28 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#195853](https://github.com/flutter/flutter/pull/195853) opened on on November 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195853) 28 additions and 6 deletions in 2 files</sub><br />
 
 * **[Leapward-Koex](https://github.com/Leapward-Koex)** &mdash; [Windows] Stop idle Direct Manipulation timer polling<br />
   <sub>[#195880](https://github.com/flutter/flutter/pull/195880) opened on on November 3, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/195880) 374 additions and 10 deletions in 11 files</sub><br />
@@ -285,7 +285,7 @@
   <sub>[#196240](https://github.com/flutter/flutter/pull/196240) opened on on November 9, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/196240) 87 additions and 6 deletions in 3 files</sub><br />
 
 * **[YeungKC](https://github.com/YeungKC)** &mdash; [Linux] Enable semantics only when an assistive technology uses them<br />
-  <sub>[#196281](https://github.com/flutter/flutter/pull/196281) opened on on November 10, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/196281) 628 additions and 4 deletions in 9 files</sub><br />
+  <sub>[#196281](https://github.com/flutter/flutter/pull/196281) opened on on November 10, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/196281) 707 additions and 4 deletions in 9 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Tolerate a missing flutter/service_worker handler in the web first-frame notification<br />
   <sub>[#196329](https://github.com/flutter/flutter/pull/196329) opened on on November 10, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196329) 65 additions and 1 deletion in 2 files</sub><br />
@@ -297,7 +297,7 @@
   <sub>[#196338](https://github.com/flutter/flutter/pull/196338) opened on on November 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196338) 224 additions and 5 deletions in 7 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add AT-SPI integration tests for Linux accessibility<br />
-  <sub>[#196351](https://github.com/flutter/flutter/pull/196351) opened on on November 11, 2026 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/196351) 1475 additions and 1 deletion in 20 files</sub><br />
+  <sub>[#196351](https://github.com/flutter/flutter/pull/196351) opened on on November 11, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/196351) 1475 additions and 1 deletion in 20 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [skia_gold_client] Time out and retry stalled goldctl commands<br />
   <sub>[#196353](https://github.com/flutter/flutter/pull/196353) opened on on November 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196353) 250 additions and 5 deletions in 3 files</sub><br />
@@ -393,5 +393,11 @@
   <sub>[#196640](https://github.com/flutter/flutter/pull/196640) opened on on November 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196640) 67 additions and 0 deletions in 4 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Prevent crash in tessellator with extreme radii<br />
-  <sub>[#196648](https://github.com/flutter/flutter/pull/196648) opened on on November 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196648) 292 additions and 8 deletions in 8 files</sub><br />
+  <sub>[#196648](https://github.com/flutter/flutter/pull/196648) opened on on November 15, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/196648) 297 additions and 8 deletions in 8 files</sub><br />
+
+* **[seunggi](https://github.com/dfdgsdfg)** &mdash; [Impeller] Synchronize Vulkan queue access with device-idle waits<br />
+  <sub>[#196654](https://github.com/flutter/flutter/pull/196654) opened on on November 16, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196654) 214 additions and 18 deletions in 8 files</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix RelativeRect.lerp crash when b is null<br />
+  <sub>[#196655](https://github.com/flutter/flutter/pull/196655) opened on on November 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196655) 9 additions and 1 deletion in 2 files</sub><br />
 

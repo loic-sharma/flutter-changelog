@@ -2,9 +2,22 @@
 
 ## flutter/flutter
 
+### November 14, 2026 to November 20, 2026
+
+2 commits.
+
+* **[Ali Ammari](https://github.com/aliammari1)** &mdash; [flutter_tools] Bound Browser.close in Chromium.close
+  <sub>[#196211](https://github.com/flutter/flutter/pull/196211) merged on November 16, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/196211) over 6 days, 183 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland "[android]: prewarms shaders when the context is created"
+  <sub>[#196579](https://github.com/flutter/flutter/pull/196579) merged on November 16, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/196579) over 2 days, 788 additions and 225 deletions in 11 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
+
 ### November 7, 2026 to November 13, 2026
 
-94 commits.
+<details>
+<summary>94 commits...</summary>
 
 * **[Matt Boetger](https://github.com/mboetger)** &mdash; Fix ime insets animation jump
   <sub>[#191453](https://github.com/flutter/flutter/pull/191453) merged on November 10, 2026 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/191453) over 2 months, 1483 additions and 121 deletions in 12 files</sub>
@@ -385,6 +398,8 @@
 * **[Andy Wolff](https://github.com/andywolff)** &mdash; [Impeller] Reland clipped BackdropFilter square corners fix
   <sub>[#195716](https://github.com/flutter/flutter/pull/195716) merged on November 9, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/195716) over 1 week, 117 additions and 16 deletions in 5 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub>
+
+</details>
 
 ### October 31, 2026 to November 6, 2026
 
