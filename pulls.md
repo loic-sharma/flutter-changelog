@@ -392,3 +392,6 @@
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; [Flutter GPU] Expose the maximum render target size<br />
   <sub>[#196640](https://github.com/flutter/flutter/pull/196640) opened on on November 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196640) 67 additions and 0 deletions in 4 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Prevent crash in tessellator with extreme radii<br />
+  <sub>[#196648](https://github.com/flutter/flutter/pull/196648) opened on on November 15, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196648) 292 additions and 8 deletions in 8 files</sub><br />
+
