@@ -4,7 +4,11 @@
 
 ### November 14, 2026 to November 20, 2026
 
-2 commits.
+3 commits.
+
+* **[Sasha Denisov](https://github.com/DenisovAV)** &mdash; [native_assets] Keep a dylib's install name in flutter test when its path does not fit<br />
+  <sub>[#194802](https://github.com/flutter/flutter/pull/194802) merged on November 16, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/194802) over 3 weeks, 710 additions and 20 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Daco Harkes](https://github.com/dcharkes), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Ali Ammari](https://github.com/aliammari1)** &mdash; [flutter_tools] Bound Browser.close in Chromium.close<br />
   <sub>[#196211](https://github.com/flutter/flutter/pull/196211) merged on November 16, 2026 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/196211) over 6 days, 183 additions and 9 deletions in 2 files</sub><br />
@@ -780,9 +784,18 @@
 
 ## flutter/packages
 
+### November 14, 2026 to November 20, 2026
+
+1 commits.
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; [pigeon] Remove remaining dart:mirrors usage<br />
+  <sub>[#13524](https://github.com/flutter/packages/pull/13524) merged on November 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/13524) over 2 weeks, 6 additions and 48 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 ### November 7, 2026 to November 13, 2026
 
-36 commits.
+<details>
+<summary>36 commits...</summary>
 
 * **[Aleksandr Lozhkovoi](https://github.com/Wreos)** &mdash; [cupertino_ui] Dim disabled CupertinoSlider controls<br />
   <sub>[#13419](https://github.com/flutter/packages/pull/13419) merged on November 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/13419) over 2 weeks, 83 additions and 15 deletions in 3 files</sub><br />
@@ -928,6 +941,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from c197ca5199e9 to ab2912035e16 (1647 revisions)<br />
   <sub>[#13625](https://github.com/flutter/packages/pull/13625) merged on November 11, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/13625) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### October 31, 2026 to November 6, 2026
 

@@ -222,7 +222,7 @@
   <sub>[#195815](https://github.com/flutter/flutter/pull/195815) opened on on November 2, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/195815) 754 additions and 6 deletions in 7 files</sub><br />
 
 * **[mmodh10](https://github.com/mmodh10)** &mdash; Keep the iOS selection handle drag anchor within the text<br />
-  <sub>[#195833](https://github.com/flutter/flutter/pull/195833) opened on on November 2, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/195833) 166 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#195833](https://github.com/flutter/flutter/pull/195833) opened on on November 2, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/195833) 314 additions and 2 deletions in 2 files</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [web] Keep the semantics tree usable when an update lists a child that was never sent<br />
   <sub>[#195837](https://github.com/flutter/flutter/pull/195837) opened on on November 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195837) 217 additions and 48 deletions in 2 files</sub><br />
@@ -294,10 +294,7 @@
   <sub>[#196332](https://github.com/flutter/flutter/pull/196332) opened on on November 10, 2026 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/196332) 282 additions and 29 deletions in 7 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix Orca flat review in Linux accessibility<br />
-  <sub>[#196338](https://github.com/flutter/flutter/pull/196338) opened on on November 10, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196338) 224 additions and 5 deletions in 7 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add AT-SPI integration tests for Linux accessibility<br />
-  <sub>[#196351](https://github.com/flutter/flutter/pull/196351) opened on on November 11, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/196351) 1475 additions and 1 deletion in 20 files</sub><br />
+  <sub>[#196338](https://github.com/flutter/flutter/pull/196338) opened on on November 10, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/196338) 224 additions and 5 deletions in 7 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [skia_gold_client] Time out and retry stalled goldctl commands<br />
   <sub>[#196353](https://github.com/flutter/flutter/pull/196353) opened on on November 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196353) 250 additions and 5 deletions in 3 files</sub><br />
@@ -306,10 +303,7 @@
   <sub>[#196356](https://github.com/flutter/flutter/pull/196356) opened on on November 11, 2026 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/196356) 1070 additions and 2 deletions in 7 files</sub><br />
 
 * **[Vinit Tailor](https://github.com/vinittailor)** &mdash; Clear pending platform message futures between tests in flutter_test<br />
-  <sub>[#196366](https://github.com/flutter/flutter/pull/196366) opened on on November 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196366) 74 additions and 1 deletion in 4 files</sub><br />
-
-* **[Kenneth Koh](https://github.com/xRossKoh)** &mdash; [engine] Defer default font manager resolution to first use for platforms that have a prefetching API only<br />
-  <sub>[#196377](https://github.com/flutter/flutter/pull/196377) opened on on November 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196377) 102 additions and 9 deletions in 7 files</sub><br />
+  <sub>[#196366](https://github.com/flutter/flutter/pull/196366) opened on on November 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196366) 74 additions and 1 deletion in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] [flutter_tools] Avoid unlinking native_assets.json and handle EXDEV<br />
   <sub>[#196382](https://github.com/flutter/flutter/pull/196382) opened on on November 11, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196382) 247 additions and 3 deletions in 4 files</sub><br />
@@ -400,4 +394,13 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix RelativeRect.lerp crash when b is null<br />
   <sub>[#196655](https://github.com/flutter/flutter/pull/196655) opened on on November 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196655) 9 additions and 1 deletion in 2 files</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix RenderTwoDimensionalViewport clipping when every child fits<br />
+  <sub>[#196668](https://github.com/flutter/flutter/pull/196668) opened on on November 16, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196668) 45 additions and 3 deletions in 2 files</sub><br />
+
+* **[Yann Vanneth](https://github.com/YannVanneth)** &mdash; Fix visual overflow check in RenderTwoDimensionalViewport<br />
+  <sub>[#196670](https://github.com/flutter/flutter/pull/196670) opened on on November 16, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196670) 84 additions and 1 deletion in 2 files</sub><br />
+
+* **[Yann Vanneth](https://github.com/YannVanneth)** &mdash; Forward requested performance mode to platformDispatcher in SchedulerBinding<br />
+  <sub>[#196673](https://github.com/flutter/flutter/pull/196673) opened on on November 16, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196673) 115 additions and 4 deletions in 4 files</sub><br />
 
