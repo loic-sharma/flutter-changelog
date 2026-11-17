@@ -4,7 +4,7 @@
 
 ### November 14, 2026 to November 20, 2026
 
-21 commits.
+24 commits.
 
 * **[Sasha Denisov](https://github.com/DenisovAV)** &mdash; [native_assets] Keep a dylib's install name in flutter test when its path does not fit
   <sub>[#194802](https://github.com/flutter/flutter/pull/194802) merged on November 16, 2026 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/194802) over 3 weeks, 710 additions and 20 deletions in 8 files</sub>
@@ -22,6 +22,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Preserve index.html across --web-content-hash transitions
   <sub>[#196491](https://github.com/flutter/flutter/pull/196491) merged on November 17, 2026 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/196491) over 4 days, 760 additions and 72 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [devicelab] Trigger navigation tap via Flutter Driver in service_extensions_test
+  <sub>[#194456](https://github.com/flutter/flutter/pull/194456) merged on November 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/194456) over 1 month, 16 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[Hange Yeh](https://github.com/hangy233)** &mdash; Fix TextStyle background color fade-out when lerping to null
   <sub>[#196153](https://github.com/flutter/flutter/pull/196153) merged on November 17, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/196153) over 1 week, 8 additions and 1 deletion in 2 files</sub>
@@ -54,6 +58,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Skip Vulkan impeller_unittests on macOS
   <sub>[#196282](https://github.com/flutter/flutter/pull/196282) merged on November 16, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/196282) over 6 days, 27 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Shubham Sahu](https://github.com/https-shubhamsahu)** &mdash; Analyze every flutter create template, and fix the package_ffi lint
+  <sub>[#196165](https://github.com/flutter/flutter/pull/196165) merged on November 17, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/196165) over 1 week, 11 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Move the task runners out of Flutter Engine
   <sub>[#196267](https://github.com/flutter/flutter/pull/196267) merged on November 16, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/196267) over 6 days, 116 additions and 12 deletions in 5 files</sub>
@@ -90,6 +98,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland "[android]: prewarms shaders when the context is created"
   <sub>[#196579](https://github.com/flutter/flutter/pull/196579) merged on November 16, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/196579) over 2 days, 788 additions and 225 deletions in 11 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll ICU from b09986242cfb to d3c612f44146 (1 revision)
+  <sub>[#196713](https://github.com/flutter/flutter/pull/196713) merged on November 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196713) over 14 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### November 7, 2026 to November 13, 2026
 
@@ -173,7 +185,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victor Sanni](https://github.com/victorsanni), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Handle RPCError in ScreenshotCommand.runSkia
-  <sub>[#196132](https://github.com/flutter/flutter/pull/196132) merged on November 13, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/196132) over 6 days, 356 additions and 3 deletions in 4 files</sub>
+  <sub>[#196132](https://github.com/flutter/flutter/pull/196132) merged on November 13, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/196132) over 6 days, 356 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 * **[Teddy Yeung](https://github.com/TeddyYeung)** &mdash; [web] Fix decoding of still AVIF images on Chrome
@@ -859,7 +871,15 @@
 
 ### November 14, 2026 to November 20, 2026
 
-3 commits.
+5 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Convert implementation to Kotlin
+  <sub>[#13663](https://github.com/flutter/packages/pull/13663) merged on November 17, 2026 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/13663) over 2 days, 392 additions and 440 deletions in 9 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] add warm up test to preaction 
+  <sub>[#13661](https://github.com/flutter/packages/pull/13661) merged on November 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/13661) over 3 days, 108 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; [pigeon] Remove remaining dart:mirrors usage
   <sub>[#13524](https://github.com/flutter/packages/pull/13524) merged on November 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/13524) over 2 weeks, 6 additions and 48 deletions in 5 files</sub>
