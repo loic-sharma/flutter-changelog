@@ -230,9 +230,6 @@
 * **[Muzammil Hussain](https://github.com/Muzammil-Bit)** &mdash; [web] Fix flashes when platform views are added or removed with multi-threaded Skwasm<br />
   <sub>[#196104](https://github.com/flutter/flutter/pull/196104) opened on on November 6, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196104) 259 additions and 36 deletions in 14 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Handle Windows reserved characters in test target path<br />
-  <sub>[#196116](https://github.com/flutter/flutter/pull/196116) opened on on November 6, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196116) 48 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Ignore AppleDouble test sidecars and reject non-UTF-8 test files<br />
   <sub>[#196133](https://github.com/flutter/flutter/pull/196133) opened on on November 6, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/196133) 550 additions and 9 deletions in 4 files</sub><br />
 
@@ -264,7 +261,7 @@
   <sub>[#196353](https://github.com/flutter/flutter/pull/196353) opened on on November 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196353) 250 additions and 5 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Avoid unlinking native_assets.json and handle EXDEV<br />
-  <sub>[#196383](https://github.com/flutter/flutter/pull/196383) opened on on November 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196383) 247 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#196383](https://github.com/flutter/flutter/pull/196383) opened on on November 11, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/196383) 247 additions and 3 deletions in 4 files</sub><br />
 
 * **[Andrew Wilson](https://github.com/apwilson)** &mdash; Fix lost-wakeup deadlock in flutter::Pipeline::ProducerCommit and Consume<br />
   <sub>[#196410](https://github.com/flutter/flutter/pull/196410) opened on on November 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196410) 142 additions and 14 deletions in 2 files</sub><br />
@@ -318,7 +315,7 @@
   <sub>[#196654](https://github.com/flutter/flutter/pull/196654) opened on on November 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/196654) 95 additions and 15 deletions in 8 files</sub><br />
 
 * **[Jhin Lee](https://github.com/leehack)** &mdash; Keep Linux renderer state alive while compositing<br />
-  <sub>[#196680](https://github.com/flutter/flutter/pull/196680) opened on on November 16, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/196680) 1826 additions and 22 deletions in 14 files</sub><br />
+  <sub>[#196680](https://github.com/flutter/flutter/pull/196680) opened on on November 16, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/196680) 1811 additions and 22 deletions in 14 files</sub><br />
 
 * **[Awais Rehman](https://github.com/awaisdev5765)** &mdash; Add API example for TableCell.colSpan and TableCell.rowSpan<br />
   <sub>[#196704](https://github.com/flutter/flutter/pull/196704) opened on on November 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/196704) 175 additions and 0 deletions in 2 files</sub><br />
@@ -354,13 +351,13 @@
   <sub>[#196804](https://github.com/flutter/flutter/pull/196804) opened on on November 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196804) 27 additions and 27 deletions in 4 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Close Linux popups when their parent loses focuses<br />
-  <sub>[#196825](https://github.com/flutter/flutter/pull/196825) opened on on November 17, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/196825) 93 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#196825](https://github.com/flutter/flutter/pull/196825) opened on on November 17, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/196825) 152 additions and 0 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tonic] Resume pause-on-start after interrupts and queued messages<br />
   <sub>[#196831](https://github.com/flutter/flutter/pull/196831) opened on on November 17, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/196831) 418 additions and 13 deletions in 5 files</sub><br />
 
 * **[Wenkai Fan](https://github.com/wenkaifan0720)** &mdash; Fix OverflowBox dry layout when deferToChild overrides the constraints<br />
-  <sub>[#196839](https://github.com/flutter/flutter/pull/196839) opened on on November 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196839) 60 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#196839](https://github.com/flutter/flutter/pull/196839) opened on on November 18, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/196839) 63 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Bump customer testing version to re-enable forui tests<br />
   <sub>[#196847](https://github.com/flutter/flutter/pull/196847) opened on on November 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196847) 1 addition and 1 deletion in 1 file</sub><br />
@@ -372,5 +369,8 @@
   <sub>[#196866](https://github.com/flutter/flutter/pull/196866) opened on on November 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196866) 17 additions and 7 deletions in 3 files</sub><br />
 
 * **[jjjjjjava](https://github.com/jjjjjjava)** &mdash; [Android] Preserve historical samples in stylus move events<br />
-  <sub>[#196868](https://github.com/flutter/flutter/pull/196868) opened on on November 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196868) 155 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#196868](https://github.com/flutter/flutter/pull/196868) opened on on November 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196868) 155 additions and 14 deletions in 2 files</sub><br />
+
+* **[Yann Vanneth](https://github.com/YannVanneth)** &mdash; Implement describeApproximatePaintClip in clipping render objects<br />
+  <sub>[#196888](https://github.com/flutter/flutter/pull/196888) opened on on November 18, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/196888) 372 additions and 1 deletion in 12 files</sub><br />
 

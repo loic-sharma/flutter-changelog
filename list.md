@@ -249,7 +249,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [walley892](https://github.com/walley892)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [flutter_tools] Add `Cache-Control` headers for web test assets
-  <sub>[#196414](https://github.com/flutter/flutter/pull/196414) merged on November 12, 2026 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/196414) over 22 hours, 330 additions and 92 deletions in 3 files</sub>
+  <sub>[#196414](https://github.com/flutter/flutter/pull/196414) merged on November 12, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/196414) over 22 hours, 330 additions and 92 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip UIScene pre-migration test cases on Xcode 27
@@ -1300,7 +1300,7 @@
 
 ### November 14, 2026 to November 20, 2026
 
-5 commits.
+8 commits.
 
 * **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding blog post about a2ui launch
   <sub>[#14091](https://github.com/flutter/website/pull/14091) merged on November 17, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/website/pull/14091) over 19 hours, 330 additions and 0 deletions in 17 files</sub>
@@ -1310,9 +1310,21 @@
   <sub>[#14088](https://github.com/flutter/website/pull/14088) merged on November 17, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/website/pull/14088) over 1 day, 72 additions and 15 deletions in 3 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Connie Ooi ](https://github.com/conooi)</sub>
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update site build/deploy image to Dart 3.14.1
+  <sub>[#14095](https://github.com/flutter/website/pull/14095) merged on November 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/14095) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve llms.txt and link to Markdown version of pages
   <sub>[#14093](https://github.com/flutter/website/pull/14093) merged on November 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/14093) over 1 hour, 113 additions and 119 deletions in 2 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Kevin Lamenzo](https://github.com/lamek)</sub>
+
+* **[Shams Zakhour](https://github.com/sfshaza2)** &mdash; Adding blog post and updating banner for Q4 survey
+  <sub>[#14085](https://github.com/flutter/website/pull/14085) merged on November 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/14085) over 4 days, 32 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough), [Connie Ooi ](https://github.com/conooi)</sub>
+
+* **[Kevin Lamenzo](https://github.com/lamek)** &mdash; Add Pigeon with native interop video to docs and blog
+  <sub>[#14096](https://github.com/flutter/website/pull/14096) merged on November 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/14096) over 14 hours, 11 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Update Firebase Hosting deployment instructions to use static hosting
   <sub>[#14026](https://github.com/flutter/website/pull/14026) merged on November 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/14026) over 1 week, 29 additions and 24 deletions in 1 file</sub>
