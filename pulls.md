@@ -143,9 +143,6 @@
 * **[llfbandit](https://github.com/llfbandit)** &mdash; [macOS] Forward application:continueUserActivity:restorationHandler to lifecycle delegates<br />
   <sub>[#195069](https://github.com/flutter/flutter/pull/195069) opened on on October 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195069) 102 additions and 0 deletions in 3 files</sub><br />
 
-* **[Asim Awdah](https://github.com/asimawdah)** &mdash; Do not start hero flights for heroes that were never laid out<br />
-  <sub>[#195078](https://github.com/flutter/flutter/pull/195078) opened on on October 22, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/195078) 140 additions and 6 deletions in 2 files</sub><br />
-
 * **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [web] Commit platform-view DOM after rasterization<br />
   <sub>[#195104](https://github.com/flutter/flutter/pull/195104) opened on on October 22, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/195104) 515 additions and 48 deletions in 5 files</sub><br />
 
@@ -156,7 +153,7 @@
   <sub>[#195269](https://github.com/flutter/flutter/pull/195269) opened on on October 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195269) 28 additions and 0 deletions in 1 file</sub><br />
 
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; [Linux] Desynchronize the Wayland subsurface so frames don't redraw the GTK window<br />
-  <sub>[#195287](https://github.com/flutter/flutter/pull/195287) opened on on October 25, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/195287) 142 additions and 9 deletions in 4 files</sub><br />
+  <sub>[#195287](https://github.com/flutter/flutter/pull/195287) opened on on October 25, 2026 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/195287) 142 additions and 9 deletions in 4 files</sub><br />
 
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [web_paragraph] Render soft hyphens<br />
   <sub>[#195366](https://github.com/flutter/flutter/pull/195366) opened on on October 26, 2026 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/195366) 797 additions and 22 deletions in 4 files</sub><br />
@@ -177,7 +174,7 @@
   <sub>[#195715](https://github.com/flutter/flutter/pull/195715) opened on on October 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195715) 155 additions and 74 deletions in 2 files</sub><br />
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `ProxyAnimation.didStartListening` and `ProxyAnimation. didStopListening` to use dart's `Conditional member access`<br />
-  <sub>[#195762](https://github.com/flutter/flutter/pull/195762) opened on on November 1, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/195762) 87 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#195762](https://github.com/flutter/flutter/pull/195762) opened on on November 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195762) 87 additions and 8 deletions in 2 files</sub><br />
 
 * **[Jianguo Fan](https://github.com/jianguofan)** &mdash; [Android] Disable ImageReaderSurfaceProducer on Huawei Kirin 9000S<br />
   <sub>[#195783](https://github.com/flutter/flutter/pull/195783) opened on on November 2, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195783) 52 additions and 5 deletions in 2 files</sub><br />
@@ -193,9 +190,6 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Improve Opted Into Built-in Kotlin but not fully migrated Error Message<br />
   <sub>[#195849](https://github.com/flutter/flutter/pull/195849) opened on on November 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195849) 99 additions and 32 deletions in 2 files</sub><br />
-
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][spm]When using cocoapods plugin, give instruction that plugins may just need update<br />
-  <sub>[#195853](https://github.com/flutter/flutter/pull/195853) opened on on November 3, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195853) 28 additions and 6 deletions in 2 files</sub><br />
 
 * **[Leapward-Koex](https://github.com/Leapward-Koex)** &mdash; [Windows] Stop idle Direct Manipulation timer polling<br />
   <sub>[#195880](https://github.com/flutter/flutter/pull/195880) opened on on November 3, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/195880) 374 additions and 10 deletions in 11 files</sub><br />
@@ -261,7 +255,7 @@
   <sub>[#196435](https://github.com/flutter/flutter/pull/196435) opened on on November 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196435) 19 additions and 8 deletions in 2 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Send a semantics update when only the identifier changes<br />
-  <sub>[#196460](https://github.com/flutter/flutter/pull/196460) opened on on November 12, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196460) 37 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#196460](https://github.com/flutter/flutter/pull/196460) opened on on November 12, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196460) 37 additions and 0 deletions in 2 files</sub><br />
 
 * **[victogomez-cs](https://github.com/victogomez-cs)** &mdash; Use the basic cursor when hovering a scrollbar<br />
   <sub>[#196469](https://github.com/flutter/flutter/pull/196469) opened on on November 12, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/196469) 79 additions and 11 deletions in 2 files</sub><br />
@@ -283,9 +277,6 @@
 
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Convert `size() > 0` to `!isEmpty()` in `FlutterRenderer.java`<br />
   <sub>[#196524](https://github.com/flutter/flutter/pull/196524) opened on on November 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196524) 3 additions and 5 deletions in 1 file</sub><br />
-
-* **[Francesco Vezzani](https://github.com/kekko7072)** &mdash; [Linux] Add FLUTTER_LINUX_RENDERER=opengl-gtk to opt out of the Wayland subsurface<br />
-  <sub>[#196530](https://github.com/flutter/flutter/pull/196530) opened on on November 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196530) 50 additions and 1 deletion in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Makes a11y evaluation public and refactor a11y guideline around it<br />
   <sub>[#196544](https://github.com/flutter/flutter/pull/196544) opened on on November 13, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/196544) 956 additions and 485 deletions in 11 files</sub><br />
@@ -324,7 +315,7 @@
   <sub>[#196751](https://github.com/flutter/flutter/pull/196751) opened on on November 17, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/196751) 305 additions and 4 deletions in 6 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [linux] Use semantics heading level for accessibility headings<br />
-  <sub>[#196758](https://github.com/flutter/flutter/pull/196758) opened on on November 17, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196758) 61 additions and 2 deletions in 5 files</sub><br />
+  <sub>[#196758](https://github.com/flutter/flutter/pull/196758) opened on on November 17, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196758) 61 additions and 2 deletions in 5 files</sub><br />
 
 * **[T Mohan Aditya](https://github.com/adityajai119)** &mdash; [flutter_tools] Handle invalid Contents.json during IPA asset validation<br />
   <sub>[#196767](https://github.com/flutter/flutter/pull/196767) opened on on November 17, 2026 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/196767) 388 additions and 41 deletions in 2 files</sub><br />
