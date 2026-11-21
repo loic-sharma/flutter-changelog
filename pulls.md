@@ -281,6 +281,9 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [linux] Use semantics heading level for accessibility headings<br />
   <sub>[#196758](https://github.com/flutter/flutter/pull/196758) opened on on November 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/196758) 61 additions and 2 deletions in 5 files</sub><br />
 
+* **[Rebar Ahmad](https://github.com/Ahmadre)** &mdash; [macOS] Synthesize modifiers that only set the device-independent flag<br />
+  <sub>[#196769](https://github.com/flutter/flutter/pull/196769) opened on on November 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196769) 211 additions and 4 deletions in 2 files</sub><br />
+
 * **[Mozixun](https://github.com/LFRon)** &mdash; [Linux] [P2] Drive frames at the display refresh rate<br />
   <sub>[#196776](https://github.com/flutter/flutter/pull/196776) opened on on November 17, 2026 &mdash; **Extra large:** [16 comments](https://github.com/flutter/flutter/pull/196776) 2116 additions and 8 deletions in 21 files</sub><br />
 
@@ -365,12 +368,15 @@
 * **[Wenkai Fan](https://github.com/wenkaifan0720)** &mdash; `RadioGroup`: swap Left and Right in right-to-left text<br />
   <sub>[#197077](https://github.com/flutter/flutter/pull/197077) opened on on November 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/197077) 469 additions and 19 deletions in 5 files</sub><br />
 
-* **[Daniel Labañino](https://github.com/texelh4ck)** &mdash; Fix horizontal intrinsic sizes in SegmentedButton with direction: Axis.vertical<br />
-  <sub>[#197078](https://github.com/flutter/flutter/pull/197078) opened on on November 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/197078) 128 additions and 4 deletions in 2 files</sub><br />
-
 * **[chessMan](https://github.com/mohitmishra786)** &mdash; [flutter_tools] Find Chromium on Linux when google-chrome is not on the PATH<br />
   <sub>[#197095](https://github.com/flutter/flutter/pull/197095) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197095) 148 additions and 2 deletions in 3 files</sub><br />
 
 * **[Vinit Tailor](https://github.com/vinittailor)** &mdash; [flutter_tools] Ignore pubspec.yaml changes in nested directories not part of the project or workspace<br />
   <sub>[#197104](https://github.com/flutter/flutter/pull/197104) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197104) 162 additions and 56 deletions in 6 files</sub><br />
+
+* **[Rebar Ahmad](https://github.com/Ahmadre)** &mdash; Restore suspended focus synchronously when the app is resumed<br />
+  <sub>[#197113](https://github.com/flutter/flutter/pull/197113) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197113) 36 additions and 0 deletions in 2 files</sub><br />
+
+* **[Ivan Salvatore](https://github.com/iv-re)** &mdash; [Impeller] Fix backdrop offset for layers with a fractional origin<br />
+  <sub>[#197114](https://github.com/flutter/flutter/pull/197114) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197114) 45 additions and 1 deletion in 2 files</sub><br />
 
