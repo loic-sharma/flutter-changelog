@@ -252,7 +252,7 @@
   <sub>[#196524](https://github.com/flutter/flutter/pull/196524) opened on on November 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196524) 3 additions and 5 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Makes a11y evaluation public and refactor a11y guideline around it<br />
-  <sub>[#196544](https://github.com/flutter/flutter/pull/196544) opened on on November 13, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/196544) 956 additions and 485 deletions in 11 files</sub><br />
+  <sub>[#196544](https://github.com/flutter/flutter/pull/196544) opened on on November 13, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/196544) 956 additions and 485 deletions in 11 files</sub><br />
 
 * **[Daniel Freiling](https://github.com/ddfreiling)** &mdash; [Android] Make hybrid composition platform views important for accessibility<br />
   <sub>[#196567](https://github.com/flutter/flutter/pull/196567) opened on on November 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196567) 57 additions and 4 deletions in 2 files</sub><br />
@@ -367,4 +367,10 @@
 
 * **[Daniel Labañino](https://github.com/texelh4ck)** &mdash; Fix horizontal intrinsic sizes in SegmentedButton with direction: Axis.vertical<br />
   <sub>[#197078](https://github.com/flutter/flutter/pull/197078) opened on on November 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/197078) 128 additions and 4 deletions in 2 files</sub><br />
+
+* **[chessMan](https://github.com/mohitmishra786)** &mdash; [flutter_tools] Find Chromium on Linux when google-chrome is not on the PATH<br />
+  <sub>[#197095](https://github.com/flutter/flutter/pull/197095) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197095) 148 additions and 2 deletions in 3 files</sub><br />
+
+* **[Vinit Tailor](https://github.com/vinittailor)** &mdash; [flutter_tools] Ignore pubspec.yaml changes in nested directories not part of the project or workspace<br />
+  <sub>[#197104](https://github.com/flutter/flutter/pull/197104) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197104) 162 additions and 56 deletions in 6 files</sub><br />
 
