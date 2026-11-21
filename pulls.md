@@ -164,9 +164,6 @@
 * **[NemesisDev](https://github.com/NemesisDevX)** &mdash; [web][a11y] Reset scroll offsets when a list stops scrolling<br />
   <sub>[#195578](https://github.com/flutter/flutter/pull/195578) opened on on October 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/195578) 187 additions and 5 deletions in 2 files</sub><br />
 
-* **[Ramy Akin Saidi](https://github.com/RamyAkin)** &mdash; [macOS] Create xcfilelists during project setup<br />
-  <sub>[#195692](https://github.com/flutter/flutter/pull/195692) opened on on October 30, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/195692) 69 additions and 0 deletions in 2 files</sub><br />
-
 * **[Ramy Akin Saidi](https://github.com/RamyAkin)** &mdash; [tool] Detect missing libstdc++ in flutter doctor on Linux<br />
   <sub>[#195705](https://github.com/flutter/flutter/pull/195705) opened on on October 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195705) 97 additions and 0 deletions in 3 files</sub><br />
 
@@ -251,9 +248,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: use plugin-namespaced ignore comments in flutter_analyzer_plugin README<br />
   <sub>[#196499](https://github.com/flutter/flutter/pull/196499) opened on on November 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196499) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[SaiTatter](https://github.com/saitatter)** &mdash; Graft an OverlayPortal's overlay child only to its own traversal parent<br />
-  <sub>[#196504](https://github.com/flutter/flutter/pull/196504) opened on on November 13, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196504) 135 additions and 5 deletions in 2 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Convert `size() > 0` to `!isEmpty()` in `FlutterRenderer.java`<br />
   <sub>[#196524](https://github.com/flutter/flutter/pull/196524) opened on on November 13, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196524) 3 additions and 5 deletions in 1 file</sub><br />
 
@@ -267,13 +261,10 @@
   <sub>[#196583](https://github.com/flutter/flutter/pull/196583) opened on on November 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196583) 55 additions and 5 deletions in 2 files</sub><br />
 
 * **[seunggi](https://github.com/dfdgsdfg)** &mdash; [Impeller] Avoid device-idle waits during headless Vulkan snapshot cleanup<br />
-  <sub>[#196654](https://github.com/flutter/flutter/pull/196654) opened on on November 16, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/196654) 95 additions and 15 deletions in 8 files</sub><br />
+  <sub>[#196654](https://github.com/flutter/flutter/pull/196654) opened on on November 16, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/196654) 95 additions and 15 deletions in 8 files</sub><br />
 
 * **[Jhin Lee](https://github.com/leehack)** &mdash; Keep Linux renderer state alive while compositing<br />
   <sub>[#196680](https://github.com/flutter/flutter/pull/196680) opened on on November 16, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/196680) 1811 additions and 22 deletions in 14 files</sub><br />
-
-* **[zhongliugo](https://github.com/flutter-zl)** &mdash; [web] Carry autofillHints through semantics so hints apply before focus<br />
-  <sub>[#196712](https://github.com/flutter/flutter/pull/196712) opened on on November 16, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/196712) 290 additions and 1 deletion in 13 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Emit canonical URLs for API docs and defer cookie banner JS<br />
   <sub>[#196717](https://github.com/flutter/flutter/pull/196717) opened on on November 16, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/196717) 371 additions and 1 deletion in 3 files</sub><br />
@@ -300,7 +291,7 @@
   <sub>[#196788](https://github.com/flutter/flutter/pull/196788) opened on on November 17, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/196788) 1198 additions and 4 deletions in 46 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moves windows to ThinLTO<br />
-  <sub>[#196811](https://github.com/flutter/flutter/pull/196811) opened on on November 17, 2026 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/196811) 42 additions and 25 deletions in 9 files</sub><br />
+  <sub>[#196811](https://github.com/flutter/flutter/pull/196811) opened on on November 17, 2026 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/196811) 42 additions and 25 deletions in 9 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [tonic] Resume pause-on-start after interrupts and queued messages<br />
   <sub>[#196831](https://github.com/flutter/flutter/pull/196831) opened on on November 17, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/196831) 418 additions and 13 deletions in 5 files</sub><br />
@@ -362,6 +353,18 @@
 * **[Paul Shin](https://github.com/toyaji)** &mdash; [Impeller][Vulkan] Add opt-in wide gamut (extended sRGB FP16) support on Android<br />
   <sub>[#197050](https://github.com/flutter/flutter/pull/197050) opened on on November 20, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/197050) 365 additions and 16 deletions in 20 files</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Harden CkSurface failure disposal and size it from its canvas<br />
+  <sub>[#197064](https://github.com/flutter/flutter/pull/197064) opened on on November 20, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/197064) 692 additions and 59 deletions in 3 files</sub><br />
+
 * **[e1](https://github.com/e1024x)** &mdash; Fix typos in API and engine crash documentation<br />
   <sub>[#197069](https://github.com/flutter/flutter/pull/197069) opened on on November 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197069) 3 additions and 3 deletions in 2 files</sub><br />
+
+* **[Wenkai Fan](https://github.com/wenkaifan0720)** &mdash; `RadioGroup`: keep a Tab stop when the selected radio is disabled<br />
+  <sub>[#197073](https://github.com/flutter/flutter/pull/197073) opened on on November 20, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/197073) 303 additions and 10 deletions in 3 files</sub><br />
+
+* **[Wenkai Fan](https://github.com/wenkaifan0720)** &mdash; `RadioGroup`: swap Left and Right in right-to-left text<br />
+  <sub>[#197077](https://github.com/flutter/flutter/pull/197077) opened on on November 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/197077) 469 additions and 19 deletions in 5 files</sub><br />
+
+* **[Daniel Labañino](https://github.com/texelh4ck)** &mdash; Fix horizontal intrinsic sizes in SegmentedButton with direction: Axis.vertical<br />
+  <sub>[#197078](https://github.com/flutter/flutter/pull/197078) opened on on November 20, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/197078) 128 additions and 4 deletions in 2 files</sub><br />
 
