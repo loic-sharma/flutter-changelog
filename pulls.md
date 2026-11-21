@@ -380,3 +380,6 @@
 * **[Ivan Salvatore](https://github.com/iv-re)** &mdash; [Impeller] Fix backdrop offset for layers with a fractional origin<br />
   <sub>[#197114](https://github.com/flutter/flutter/pull/197114) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197114) 45 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jason Holt](https://github.com/kingdomseed)** &mdash; Forward setSemanticsTreeEnabled in TestPlatformDispatcher<br />
+  <sub>[#197128](https://github.com/flutter/flutter/pull/197128) opened on on November 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197128) 31 additions and 0 deletions in 2 files</sub><br />
+
