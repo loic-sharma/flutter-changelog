@@ -146,9 +146,6 @@
 * **[llfbandit](https://github.com/llfbandit)** &mdash; [macOS] Forward application:continueUserActivity:restorationHandler to lifecycle delegates<br />
   <sub>[#195069](https://github.com/flutter/flutter/pull/195069) opened on on October 22, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195069) 102 additions and 0 deletions in 3 files</sub><br />
 
-* **[Burak Karahan](https://github.com/MarlonJD)** &mdash; [web] Commit platform-view DOM after rasterization<br />
-  <sub>[#195104](https://github.com/flutter/flutter/pull/195104) opened on on October 22, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/195104) 515 additions and 48 deletions in 5 files</sub><br />
-
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Deprecate AnimatedSize.reverseDuration and RenderAnimatedSize.reverseDuration<br />
   <sub>[#195129](https://github.com/flutter/flutter/pull/195129) opened on on October 23, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/195129) 63 additions and 1 deletion in 9 files</sub><br />
 
@@ -382,4 +379,7 @@
 
 * **[Jason Holt](https://github.com/kingdomseed)** &mdash; Forward setSemanticsTreeEnabled in TestPlatformDispatcher<br />
   <sub>[#197128](https://github.com/flutter/flutter/pull/197128) opened on on November 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197128) 31 additions and 0 deletions in 2 files</sub><br />
+
+* **[Artem Chikolaev](https://github.com/ArtemChikolaev)** &mdash; Preserve BoxShadow blur styles at interpolation endpoints<br />
+  <sub>[#197152](https://github.com/flutter/flutter/pull/197152) opened on on November 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/197152) 17 additions and 0 deletions in 2 files</sub><br />
 

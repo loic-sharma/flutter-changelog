@@ -1162,7 +1162,7 @@
 
 ### November 14, 2026 to November 20, 2026
 
-30 commits.
+31 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [tool] Set up the `script/ci_info` package and add initial `find_builds` tool<br />
   <sub>[#13580](https://github.com/flutter/packages/pull/13580) merged on November 18, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/13580) over 1 week, 771 additions and 0 deletions in 14 files</sub><br />
@@ -1180,6 +1180,10 @@
 * **[palmoni5](https://github.com/palmoni5)** &mdash; [flutter_svg] Add SvgLoader.provideSvgInIsolate for unsendable loaders<br />
   <sub>[#13598](https://github.com/flutter/packages/pull/13598) merged on November 19, 2026 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/13598) over 1 week, 178 additions and 21 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [gaaclarke](https://github.com/gaaclarke), [b-luk](https://github.com/b-luk)</sub><br />
+
+* **[BHAGYA PRASAD](https://github.com/Bhagyaprasad92)** &mdash; [cupertino_ui] Adopt code excerpts in README<br />
+  <sub>[#13400](https://github.com/flutter/packages/pull/13400) merged on November 22, 2026 &mdash; **Small:** [26 comments](https://github.com/flutter/packages/pull/13400) over 4 weeks, 141 additions and 6 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Tong Mu](https://github.com/dkwingsmt), [Peter Kammer](https://github.com/pjkammer)</sub><br />
 
 * **[Paul Shin](https://github.com/toyaji)** &mdash; [camera_android_camerax] Only set the ImageCapture flash mode when it changes<br />
   <sub>[#13468](https://github.com/flutter/packages/pull/13468) merged on November 20, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/13468) over 3 weeks, 131 additions and 14 deletions in 4 files</sub><br />
