@@ -381,5 +381,5 @@
   <sub>[#197128](https://github.com/flutter/flutter/pull/197128) opened on on November 21, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197128) 31 additions and 0 deletions in 2 files</sub><br />
 
 * **[Artem Chikolaev](https://github.com/ArtemChikolaev)** &mdash; Preserve BoxShadow blur styles at interpolation endpoints<br />
-  <sub>[#197152](https://github.com/flutter/flutter/pull/197152) opened on on November 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/197152) 17 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#197152](https://github.com/flutter/flutter/pull/197152) opened on on November 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/197152) 26 additions and 0 deletions in 2 files</sub><br />
 
