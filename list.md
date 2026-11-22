@@ -351,7 +351,7 @@
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matt Boetger](https://github.com/mboetger), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Prevent crash in tessellator with extreme radii
-  <sub>[#196648](https://github.com/flutter/flutter/pull/196648) merged on November 20, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/196648) over 4 days, 297 additions and 8 deletions in 8 files</sub>
+  <sub>[#196648](https://github.com/flutter/flutter/pull/196648) merged on November 20, 2026 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/196648) over 4 days, 297 additions and 8 deletions in 8 files</sub>
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; Close Linux popups when their parent loses focuses
