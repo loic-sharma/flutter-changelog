@@ -111,7 +111,7 @@
   <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/194173) 467 additions and 15 deletions in 4 files</sub><br />
 
 * **[paul-geoghegan](https://github.com/paul-geoghegan)** &mdash; [Linux] Set window title from setApplicationSwitcherDescription<br />
-  <sub>[#194213](https://github.com/flutter/flutter/pull/194213) opened on on October 12, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/194213) 234 additions and 20 deletions in 10 files</sub><br />
+  <sub>[#194213](https://github.com/flutter/flutter/pull/194213) opened on on October 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194213) 234 additions and 20 deletions in 10 files</sub><br />
 
 * **[yexuan-henryye](https://github.com/yexuan910812)** &mdash; [web] Test Skwasm font byte views from Dart and JavaScript<br />
   <sub>[#194218](https://github.com/flutter/flutter/pull/194218) opened on on October 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194218) 49 additions and 0 deletions in 1 file</sub><br />
@@ -312,7 +312,7 @@
   <sub>[#196877](https://github.com/flutter/flutter/pull/196877) opened on on November 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196877) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[matasb-google](https://github.com/matasb-google)** &mdash; [Android] Yield one VSync to ViewRootImpl traversal after first Flutter frame<br />
-  <sub>[#196890](https://github.com/flutter/flutter/pull/196890) opened on on November 18, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196890) 123 additions and 1 deletion in 6 files</sub><br />
+  <sub>[#196890](https://github.com/flutter/flutter/pull/196890) opened on on November 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/196890) 235 additions and 5 deletions in 8 files</sub><br />
 
 * **[A.M Ghaderi](https://github.com/ghaderi0x)** &mdash; Ignore WidgetSpan placeholders in text finders<br />
   <sub>[#196937](https://github.com/flutter/flutter/pull/196937) opened on on November 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196937) 55 additions and 2 deletions in 2 files</sub><br />
@@ -394,4 +394,7 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Record pipeline state as plain data and cache pipelines per state<br />
   <sub>[#197190](https://github.com/flutter/flutter/pull/197190) opened on on November 23, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/197190) 450 additions and 184 deletions in 12 files</sub><br />
+
+* **[Sam Markoe](https://github.com/samlythemanly)** &mdash; Fix missed `use_super_parameters` lint violations.<br />
+  <sub>[#197198](https://github.com/flutter/flutter/pull/197198) opened on on November 23, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197198) 43 additions and 54 deletions in 19 files</sub><br />
 
