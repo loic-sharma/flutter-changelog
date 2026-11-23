@@ -225,7 +225,7 @@
   <sub>[#196281](https://github.com/flutter/flutter/pull/196281) opened on on November 10, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/196281) 695 additions and 4 deletions in 9 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix Orca flat review in Linux accessibility<br />
-  <sub>[#196338](https://github.com/flutter/flutter/pull/196338) opened on on November 10, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/196338) 227 additions and 5 deletions in 7 files</sub><br />
+  <sub>[#196338](https://github.com/flutter/flutter/pull/196338) opened on on November 10, 2026 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/196338) 244 additions and 5 deletions in 7 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [skia_gold_client] Time out and retry stalled goldctl commands<br />
   <sub>[#196353](https://github.com/flutter/flutter/pull/196353) opened on on November 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196353) 250 additions and 5 deletions in 3 files</sub><br />
@@ -258,7 +258,7 @@
   <sub>[#196583](https://github.com/flutter/flutter/pull/196583) opened on on November 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196583) 55 additions and 5 deletions in 2 files</sub><br />
 
 * **[seunggi](https://github.com/dfdgsdfg)** &mdash; [Impeller] Avoid device-idle waits during headless Vulkan snapshot cleanup<br />
-  <sub>[#196654](https://github.com/flutter/flutter/pull/196654) opened on on November 16, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/196654) 95 additions and 15 deletions in 8 files</sub><br />
+  <sub>[#196654](https://github.com/flutter/flutter/pull/196654) opened on on November 16, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/196654) 476 additions and 65 deletions in 20 files</sub><br />
 
 * **[Jhin Lee](https://github.com/leehack)** &mdash; Keep Linux renderer state alive while compositing<br />
   <sub>[#196680](https://github.com/flutter/flutter/pull/196680) opened on on November 16, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/196680) 1811 additions and 22 deletions in 14 files</sub><br />
@@ -276,7 +276,7 @@
   <sub>[#196751](https://github.com/flutter/flutter/pull/196751) opened on on November 17, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/196751) 305 additions and 4 deletions in 6 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [linux] Use semantics heading level for accessibility headings<br />
-  <sub>[#196758](https://github.com/flutter/flutter/pull/196758) opened on on November 17, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/196758) 61 additions and 2 deletions in 5 files</sub><br />
+  <sub>[#196758](https://github.com/flutter/flutter/pull/196758) opened on on November 17, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/196758) 61 additions and 2 deletions in 5 files</sub><br />
 
 * **[Rebar Ahmad](https://github.com/Ahmadre)** &mdash; [macOS] Synthesize modifiers that only set the device-independent flag<br />
   <sub>[#196769](https://github.com/flutter/flutter/pull/196769) opened on on November 17, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196769) 211 additions and 4 deletions in 2 files</sub><br />
@@ -382,4 +382,16 @@
 
 * **[Artem Chikolaev](https://github.com/ArtemChikolaev)** &mdash; Preserve BoxShadow blur styles at interpolation endpoints<br />
   <sub>[#197152](https://github.com/flutter/flutter/pull/197152) opened on on November 22, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/197152) 26 additions and 0 deletions in 2 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Run gpu_unittests with the host engine tests, and three small fixes<br />
+  <sub>[#197187](https://github.com/flutter/flutter/pull/197187) opened on on November 23, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197187) 86 additions and 6 deletions in 11 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Bind Metal resources through a flat cache<br />
+  <sub>[#197188](https://github.com/flutter/flutter/pull/197188) opened on on November 23, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/197188) 258 additions and 94 deletions in 11 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Count pipeline uses once per pass and skip a pipeline that is already bound<br />
+  <sub>[#197189](https://github.com/flutter/flutter/pull/197189) opened on on November 23, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/197189) 186 additions and 17 deletions in 15 files</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Record pipeline state as plain data and cache pipelines per state<br />
+  <sub>[#197190](https://github.com/flutter/flutter/pull/197190) opened on on November 23, 2026 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/197190) 450 additions and 184 deletions in 12 files</sub><br />
 
