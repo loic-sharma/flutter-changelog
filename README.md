@@ -4,7 +4,7 @@
 
 ### November 21, 2026 to November 27, 2026
 
-19 commits.
+22 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Support standalone UI packages in gen-l10n<br />
   <sub>[#194500](https://github.com/flutter/flutter/pull/194500) merged on November 23, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/194500) over 1 month, 381 additions and 14 deletions in 8 files</sub><br />
@@ -18,6 +18,14 @@
   <sub>[#192724](https://github.com/flutter/flutter/pull/192724) merged on November 24, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/192724) over 2 months, 116 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_tools] Fix web compiler output tracking in web builds<br />
+  <sub>[#196563](https://github.com/flutter/flutter/pull/196563) merged on November 24, 2026 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/196563) over 1 week, 1184 additions and 263 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Mouad Debbar](https://github.com/mdebbar), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [Linux] Fix deadlock presenting to a Wayland subsurface<br />
+  <sub>[#196945](https://github.com/flutter/flutter/pull/196945) merged on November 24, 2026 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/196945) over 5 days, 263 additions and 62 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Lukas Klingsbo](https://github.com/spydon), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
 * **[Lukas Klingsbo](https://github.com/spydon)** &mdash; [Flutter GPU] Expose the maximum render target size<br />
   <sub>[#196640](https://github.com/flutter/flutter/pull/196640) merged on November 23, 2026 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/196640) over 1 week, 81 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Brandon DeRosier](https://github.com/bdero), [Andy Wolff](https://github.com/andywolff)</sub><br />
@@ -29,6 +37,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Composite platform views from layers in tests<br />
   <sub>[#197021](https://github.com/flutter/flutter/pull/197021) merged on November 23, 2026 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/197021) over 3 days, 125 additions and 337 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Upgrade CI to Xcode 27.2<br />
+  <sub>[#196807](https://github.com/flutter/flutter/pull/196807) merged on November 24, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/196807) over 6 days, 238 additions and 238 deletions in 50 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Harden extension diagnostics models and RPC failure handling<br />
   <sub>[#196233](https://github.com/flutter/flutter/pull/196233) merged on November 23, 2026 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/196233) over 2 weeks, 1155 additions and 240 deletions in 7 files</sub><br />
@@ -1206,7 +1218,7 @@
 
 ### November 21, 2026 to November 27, 2026
 
-11 commits.
+13 commits.
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Resize WebP assets, coalesce scroll checks, and drop copy islands<br />
   <sub>[#14103](https://github.com/flutter/website/pull/14103) merged on November 23, 2026 &mdash; **Large:** [13 comments](https://github.com/flutter/website/pull/14103) over 4 days, 676 additions and 192 deletions in 22 files</sub><br />
@@ -1220,9 +1232,17 @@
   <sub>[#14109](https://github.com/flutter/website/pull/14109) merged on November 23, 2026 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/14109) over 4 days, 960 additions and 0 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Abdallah Shaban](https://github.com/abdallahshaban557), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
+* **[Chris Ray Gill](https://github.com/chrisraygill)** &mdash; Add Genkit Dart and A2UI full-stack agentic UI blog post<br />
+  <sub>[#14131](https://github.com/flutter/website/pull/14131) merged on November 24, 2026 &mdash; **Medium:** [6 comments](https://github.com/flutter/website/pull/14131) over 2 hours, 493 additions and 0 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Expand unrendered Liquid links and update redirect-hop URLs<br />
   <sub>[#14105](https://github.com/flutter/website/pull/14105) merged on November 23, 2026 &mdash; **Extra large:** [6 comments](https://github.com/flutter/website/pull/14105) over 4 days, 1483 additions and 1480 deletions in 92 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Give the blog index its own layout<br />
+  <sub>[#14128](https://github.com/flutter/website/pull/14128) merged on November 24, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/website/pull/14128) over 18 hours, 247 additions and 113 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicate icon font from blog<br />
   <sub>[#14129](https://github.com/flutter/website/pull/14129) merged on November 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/14129) over 11 minutes, 1 addition and 4 deletions in 2 files</sub><br />
