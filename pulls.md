@@ -152,9 +152,6 @@
 * **[YeungKC](https://github.com/YeungKC)** &mdash; Request the keyboard on every focusedEditable assignment<br />
   <sub>[#195133](https://github.com/flutter/flutter/pull/195133) opened on on October 23, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195133) 38 additions and 6 deletions in 2 files</sub><br />
 
-* **[Uvesh Menpur](https://github.com/uveshm003)** &mdash; Document why KeyboardListener needs a FocusNode<br />
-  <sub>[#195269](https://github.com/flutter/flutter/pull/195269) opened on on October 25, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195269) 28 additions and 0 deletions in 1 file</sub><br />
-
 * **[David Bebawy](https://github.com/dbebawy)** &mdash; [web_paragraph] Render soft hyphens<br />
   <sub>[#195366](https://github.com/flutter/flutter/pull/195366) opened on on October 26, 2026 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/195366) 797 additions and 22 deletions in 4 files</sub><br />
 
@@ -197,9 +194,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Validate ARB placeholder names and exit with ToolExit when dart format fails in generateLocalizations<br />
   <sub>[#195911](https://github.com/flutter/flutter/pull/195911) opened on on November 3, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195911) 141 additions and 5 deletions in 3 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Do not crash if buildXcodeProject temporary directory is deleted before cleanup<br />
-  <sub>[#195918](https://github.com/flutter/flutter/pull/195918) opened on on November 3, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/195918) 214 additions and 4 deletions in 2 files</sub><br />
-
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; [flutter_tools] Use the generic macOS destination when the host arch is in EXCLUDED_ARCHS<br />
   <sub>[#195952](https://github.com/flutter/flutter/pull/195952) opened on on November 4, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/195952) 53 additions and 12 deletions in 2 files</sub><br />
 
@@ -234,16 +228,13 @@
   <sub>[#196353](https://github.com/flutter/flutter/pull/196353) opened on on November 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196353) 250 additions and 5 deletions in 3 files</sub><br />
 
 * **[Andrew Wilson](https://github.com/apwilson)** &mdash; Fix lost-wakeup deadlock in flutter::Pipeline::ProducerCommit and Consume<br />
-  <sub>[#196410](https://github.com/flutter/flutter/pull/196410) opened on on November 11, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196410) 142 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#196410](https://github.com/flutter/flutter/pull/196410) opened on on November 11, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/196410) 142 additions and 14 deletions in 2 files</sub><br />
 
 * **[Faizan Ullah](https://github.com/FaizanUllahDev)** &mdash; [flutter_tools] Fix parsing multiple filesystem roots in Gradle<br />
   <sub>[#196435](https://github.com/flutter/flutter/pull/196435) opened on on November 12, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196435) 19 additions and 8 deletions in 2 files</sub><br />
 
 * **[Jeremy Morren](https://github.com/jeremy-morren)** &mdash; Fail instead of hanging when the VM service can't start<br />
   <sub>[#196474](https://github.com/flutter/flutter/pull/196474) opened on on November 12, 2026 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/196474) 363 additions and 0 deletions in 4 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix desktop apps installing to the system prefix after a failed build<br />
-  <sub>[#196482](https://github.com/flutter/flutter/pull/196482) opened on on November 12, 2026 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/196482) 467 additions and 285 deletions in 35 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: use plugin-namespaced ignore comments in flutter_analyzer_plugin README<br />
   <sub>[#196499](https://github.com/flutter/flutter/pull/196499) opened on on November 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196499) 3 additions and 3 deletions in 1 file</sub><br />
@@ -255,7 +246,10 @@
   <sub>[#196544](https://github.com/flutter/flutter/pull/196544) opened on on November 13, 2026 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/196544) 956 additions and 485 deletions in 11 files</sub><br />
 
 * **[Daniel Freiling](https://github.com/ddfreiling)** &mdash; [Android] Make hybrid composition platform views important for accessibility<br />
-  <sub>[#196567](https://github.com/flutter/flutter/pull/196567) opened on on November 13, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/196567) 57 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#196567](https://github.com/flutter/flutter/pull/196567) opened on on November 13, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196567) 57 additions and 4 deletions in 2 files</sub><br />
+
+* **[Prasad  Navale](https://github.com/prasad2512)** &mdash; [iOS] Observe NSCurrentLocaleDidChangeNotification in FlutterViewController to send user settings<br />
+  <sub>[#196577](https://github.com/flutter/flutter/pull/196577) opened on on November 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196577) 28 additions and 0 deletions in 2 files</sub><br />
 
 * **[tjcGoogle](https://github.com/tjcGoogle)** &mdash; Guard macOS accessibility text field value updates<br />
   <sub>[#196583](https://github.com/flutter/flutter/pull/196583) opened on on November 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196583) 55 additions and 5 deletions in 2 files</sub><br />
@@ -305,9 +299,6 @@
 * **[Mozixun](https://github.com/LFRon)** &mdash; Recreate the Wayland subsurface after the window is shown<br />
   <sub>[#196862](https://github.com/flutter/flutter/pull/196862) opened on on November 18, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/196862) 509 additions and 11 deletions in 4 files</sub><br />
 
-* **[ujwalbasnet1](https://github.com/ujwalbasnet1)** &mdash; [Impeller] Compute UberSDF gradient t in highp<br />
-  <sub>[#196866](https://github.com/flutter/flutter/pull/196866) opened on on November 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196866) 17 additions and 7 deletions in 3 files</sub><br />
-
 * **[jjjjjjava](https://github.com/jjjjjjava)** &mdash; [Android] Preserve historical samples in stylus move events<br />
   <sub>[#196868](https://github.com/flutter/flutter/pull/196868) opened on on November 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196868) 155 additions and 14 deletions in 2 files</sub><br />
 
@@ -327,7 +318,7 @@
   <sub>[#196963](https://github.com/flutter/flutter/pull/196963) opened on on November 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196963) 99 additions and 26 deletions in 2 files</sub><br />
 
 * **[Bruno Corona](https://github.com/mbcorona)** &mdash; Add a timeout to adb getprop so a frozen emulator does not hang flutter devices<br />
-  <sub>[#196984](https://github.com/flutter/flutter/pull/196984) opened on on November 19, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196984) 67 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#196984](https://github.com/flutter/flutter/pull/196984) opened on on November 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/196984) 67 additions and 12 deletions in 2 files</sub><br />
 
 * **[rlueders](https://github.com/rlueders)** &mdash; [stable] [Impeller] Use the transfer stage for the Vulkan readback barrier (#194991)<br />
   <sub>[#196985](https://github.com/flutter/flutter/pull/196985) opened on on November 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196985) 4 additions and 3 deletions in 1 file</sub><br />
@@ -343,15 +334,6 @@
 
 * **[Albert](https://github.com/slevin-7)** &mdash; [macOS] Expose Semantics.identifier as AXIdentifier<br />
   <sub>[#197041](https://github.com/flutter/flutter/pull/197041) opened on on November 20, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197041) 41 additions and 0 deletions in 2 files</sub><br />
-
-* **[Paul Shin](https://github.com/toyaji)** &mdash; [Impeller][Vulkan] Add opt-in wide gamut (extended sRGB FP16) support on Android<br />
-  <sub>[#197050](https://github.com/flutter/flutter/pull/197050) opened on on November 20, 2026 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/197050) 365 additions and 16 deletions in 20 files</sub><br />
-
-* **[Wenkai Fan](https://github.com/wenkaifan0720)** &mdash; `RadioGroup`: keep a Tab stop when the selected radio is disabled<br />
-  <sub>[#197073](https://github.com/flutter/flutter/pull/197073) opened on on November 20, 2026 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/197073) 303 additions and 10 deletions in 3 files</sub><br />
-
-* **[Wenkai Fan](https://github.com/wenkaifan0720)** &mdash; `RadioGroup`: swap Left and Right in right-to-left text<br />
-  <sub>[#197077](https://github.com/flutter/flutter/pull/197077) opened on on November 20, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/197077) 469 additions and 19 deletions in 5 files</sub><br />
 
 * **[chessMan](https://github.com/mohitmishra786)** &mdash; [flutter_tools] Find Chromium on Linux when google-chrome is not on the PATH<br />
   <sub>[#197095](https://github.com/flutter/flutter/pull/197095) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197095) 148 additions and 2 deletions in 3 files</sub><br />
@@ -378,7 +360,7 @@
   <sub>[#197241](https://github.com/flutter/flutter/pull/197241) opened on on November 23, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197241) 172 additions and 57 deletions in 6 files</sub><br />
 
 * **[Veli Bacik](https://github.com/VB10)** &mdash; [flutter_tools] Add -n and -N short flags to flutter test<br />
-  <sub>[#197273](https://github.com/flutter/flutter/pull/197273) opened on on November 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197273) 32 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#197273](https://github.com/flutter/flutter/pull/197273) opened on on November 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/197273) 32 additions and 0 deletions in 2 files</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Retain the source buffer of deferred GLES texture uploads<br />
   <sub>[#197275](https://github.com/flutter/flutter/pull/197275) opened on on November 24, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197275) 77 additions and 1 deletion in 3 files</sub><br />
@@ -401,15 +383,24 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Migrate `withOpacity` usages to `withValues` in `app.dart`<br />
   <sub>[#197298](https://github.com/flutter/flutter/pull/197298) opened on on November 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197298) 6 additions and 2 deletions in 1 file</sub><br />
 
-* **[Naman Garg](https://github.com/namangarg1902)** &mdash; Add See also links from AnnotatedRegion and AppBarTheme to SystemChrome.setSystemUIOverlayStyle<br />
-  <sub>[#197301](https://github.com/flutter/flutter/pull/197301) opened on on November 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197301) 18 additions and 0 deletions in 2 files</sub><br />
-
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Migrate `withOpacity` usages to `withValues` in `image_icon.dart‎`<br />
   <sub>[#197304](https://github.com/flutter/flutter/pull/197304) opened on on November 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197304) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Emir Gunumdogdu](https://github.com/gunumdogdu)** &mdash; Draw content inside an earlier platform view overlay instead of dropping it<br />
   <sub>[#197308](https://github.com/flutter/flutter/pull/197308) opened on on November 24, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/197308) 129 additions and 0 deletions in 2 files</sub><br />
 
+* **[Felix](https://github.com/flowhorn)** &mdash; [Impeller] Add sample-only 16-bit float formats (R16, RG16)<br />
+  <sub>[#197328](https://github.com/flutter/flutter/pull/197328) opened on on November 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/197328) 270 additions and 4 deletions in 21 files</sub><br />
+
 * **[Eduardo de Souza Alves](https://github.com/EduardoSA8006)** &mdash; [engine] Throw instead of crashing when loadFontFromList is called off the root isolate<br />
   <sub>[#197336](https://github.com/flutter/flutter/pull/197336) opened on on November 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197336) 32 additions and 1 deletion in 2 files</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix PointerPanZoomUpdateEvent.localPan and localPanDelta under transformations<br />
+  <sub>[#197350](https://github.com/flutter/flutter/pull/197350) opened on on November 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197350) 228 additions and 7 deletions in 3 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [stable] [Linux] Fix synchronization and locking with subsurfaces<br />
+  <sub>[#197353](https://github.com/flutter/flutter/pull/197353) opened on on November 24, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/197353) 402 additions and 68 deletions in 9 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Move platform view frame state to IOSExternalViewEmbedder<br />
+  <sub>[#197362](https://github.com/flutter/flutter/pull/197362) opened on on November 25, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/197362) 113 additions and 217 deletions in 4 files</sub><br />
 
