@@ -30,7 +30,7 @@
   <sub>[#191459](https://github.com/flutter/flutter/pull/191459) opened on on August 21, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/191459) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Support local Windows arm64 engine build<br />
-  <sub>[#191560](https://github.com/flutter/flutter/pull/191560) opened on on August 23, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/191560) 52 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#191560](https://github.com/flutter/flutter/pull/191560) opened on on August 23, 2026 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/191560) 51 additions and 8 deletions in 3 files</sub><br />
 
 * **[corci0x](https://github.com/corci0x)** &mdash; Reject glyph packer placements that don't fit in int16_t<br />
   <sub>[#192141](https://github.com/flutter/flutter/pull/192141) opened on on September 2, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/192141) 39 additions and 1 deletion in 2 files</sub><br />
@@ -87,7 +87,7 @@
   <sub>[#193533](https://github.com/flutter/flutter/pull/193533) opened on on September 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193533) 100 additions and 20 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [flutter_tools] Retry and handle ERROR_DIR_NOT_EMPTY on Windows<br />
-  <sub>[#193620](https://github.com/flutter/flutter/pull/193620) opened on on October 1, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/193620) 121 additions and 48 deletions in 2 files</sub><br />
+  <sub>[#193620](https://github.com/flutter/flutter/pull/193620) opened on on October 1, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/193620) 121 additions and 48 deletions in 2 files</sub><br />
 
 * **[Huy Ly](https://github.com/huylyvn)** &mdash; [Linux] Send touchpad pinch position to the scrolling manager<br />
   <sub>[#193659](https://github.com/flutter/flutter/pull/193659) opened on on October 1, 2026 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/193659) 267 additions and 119 deletions in 4 files</sub><br />
@@ -258,7 +258,7 @@
   <sub>[#196656](https://github.com/flutter/flutter/pull/196656) opened on on November 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/196656) 151 additions and 42 deletions in 5 files</sub><br />
 
 * **[Jhin Lee](https://github.com/leehack)** &mdash; Keep Linux renderer state alive while compositing<br />
-  <sub>[#196680](https://github.com/flutter/flutter/pull/196680) opened on on November 16, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/196680) 1811 additions and 22 deletions in 14 files</sub><br />
+  <sub>[#196680](https://github.com/flutter/flutter/pull/196680) opened on on November 16, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/196680) 1841 additions and 26 deletions in 14 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Emit canonical URLs for API docs and defer cookie banner JS<br />
   <sub>[#196717](https://github.com/flutter/flutter/pull/196717) opened on on November 16, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/196717) 371 additions and 1 deletion in 3 files</sub><br />
@@ -401,9 +401,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; [stable] [Linux] Fix synchronization and locking with subsurfaces<br />
   <sub>[#197353](https://github.com/flutter/flutter/pull/197353) opened on on November 24, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/197353) 402 additions and 68 deletions in 9 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Move platform view frame state to IOSExternalViewEmbedder<br />
-  <sub>[#197362](https://github.com/flutter/flutter/pull/197362) opened on on November 25, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/197362) 113 additions and 217 deletions in 4 files</sub><br />
-
 * **[Jasper](https://github.com/jipeng6036-del)** &mdash; Avoid querying Scribe from Android web text fields<br />
   <sub>[#197372](https://github.com/flutter/flutter/pull/197372) opened on on November 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197372) 24 additions and 3 deletions in 2 files</sub><br />
 
@@ -415,4 +412,25 @@
 
 * **[Om Bharambe](https://github.com/om29dev)** &mdash; Pass configured ndkVersion from Gradle to build hooks<br />
   <sub>[#197383](https://github.com/flutter/flutter/pull/197383) opened on on November 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/197383) 105 additions and 20 deletions in 10 files</sub><br />
+
+* **[T Mohan Aditya](https://github.com/adityajai119)** &mdash; [flutter_tools] Reject web resources that overwrite generated web assets<br />
+  <sub>[#197391](https://github.com/flutter/flutter/pull/197391) opened on on November 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197391) 39 additions and 1 deletion in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [beta] [flutter_tools] Strip embedded credentials from repository URLs<br />
+  <sub>[#197401](https://github.com/flutter/flutter/pull/197401) opened on on November 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197401) 283 additions and 7 deletions in 6 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Strip embedded credentials from repository URLs<br />
+  <sub>[#197402](https://github.com/flutter/flutter/pull/197402) opened on on November 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197402) 275 additions and 7 deletions in 5 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [stable] [flutter_tools] Do not crash if buildXcodeProject temporary directory is deleted before cleanup<br />
+  <sub>[#197403](https://github.com/flutter/flutter/pull/197403) opened on on November 25, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/197403) 217 additions and 4 deletions in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fix large glyphs from getting added to the glyph atlas in the FirstPassDispatcher<br />
+  <sub>[#197405](https://github.com/flutter/flutter/pull/197405) opened on on November 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197405) 89 additions and 11 deletions in 4 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Submit platform view frames from IOSExternalViewEmbedder<br />
+  <sub>[#197411](https://github.com/flutter/flutter/pull/197411) opened on on November 25, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/197411) 288 additions and 262 deletions in 6 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes glyph atlas resize more robust to failures<br />
+  <sub>[#197416](https://github.com/flutter/flutter/pull/197416) opened on on November 25, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/197416) 319 additions and 88 deletions in 7 files</sub><br />
 
