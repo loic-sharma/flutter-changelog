@@ -81,7 +81,7 @@
   <sub>[#193400](https://github.com/flutter/flutter/pull/193400) opened on on September 26, 2026 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/193400) 11 additions and 0 deletions in 4 files</sub><br />
 
 * **[Philipp Bauer](https://github.com/ciriousjoker)** &mdash; [Android] Exclude allocation padding when drawing image textures<br />
-  <sub>[#193446](https://github.com/flutter/flutter/pull/193446) opened on on September 28, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/193446) 271 additions and 8 deletions in 15 files</sub><br />
+  <sub>[#193446](https://github.com/flutter/flutter/pull/193446) opened on on September 28, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193446) 271 additions and 8 deletions in 15 files</sub><br />
 
 * **[John "codefu" McDole](https://github.com/jtmcdole)** &mdash; [Linux] Synchronize multi-window renderer lifetime across GTK and raster threads<br />
   <sub>[#193533](https://github.com/flutter/flutter/pull/193533) opened on on September 29, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/193533) 100 additions and 20 deletions in 4 files</sub><br />
@@ -306,7 +306,7 @@
   <sub>[#196877](https://github.com/flutter/flutter/pull/196877) opened on on November 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196877) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[matasb-google](https://github.com/matasb-google)** &mdash; [Android] Yield one VSync to ViewRootImpl traversal after first Flutter frame<br />
-  <sub>[#196890](https://github.com/flutter/flutter/pull/196890) opened on on November 18, 2026 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/196890) 235 additions and 5 deletions in 8 files</sub><br />
+  <sub>[#196890](https://github.com/flutter/flutter/pull/196890) opened on on November 18, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/196890) 235 additions and 5 deletions in 8 files</sub><br />
 
 * **[A.M Ghaderi](https://github.com/ghaderi0x)** &mdash; Ignore WidgetSpan placeholders in text finders<br />
   <sub>[#196937](https://github.com/flutter/flutter/pull/196937) opened on on November 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196937) 55 additions and 2 deletions in 2 files</sub><br />
@@ -393,7 +393,7 @@
   <sub>[#197328](https://github.com/flutter/flutter/pull/197328) opened on on November 24, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/197328) 270 additions and 4 deletions in 21 files</sub><br />
 
 * **[Eduardo de Souza Alves](https://github.com/EduardoSA8006)** &mdash; [engine] Throw instead of crashing when loadFontFromList is called off the root isolate<br />
-  <sub>[#197336](https://github.com/flutter/flutter/pull/197336) opened on on November 24, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197336) 32 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#197336](https://github.com/flutter/flutter/pull/197336) opened on on November 24, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/197336) 32 additions and 1 deletion in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix PointerPanZoomUpdateEvent.localPan and localPanDelta under transformations<br />
   <sub>[#197350](https://github.com/flutter/flutter/pull/197350) opened on on November 24, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197350) 228 additions and 7 deletions in 3 files</sub><br />
@@ -403,4 +403,16 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Move platform view frame state to IOSExternalViewEmbedder<br />
   <sub>[#197362](https://github.com/flutter/flutter/pull/197362) opened on on November 25, 2026 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/197362) 113 additions and 217 deletions in 4 files</sub><br />
+
+* **[Jasper](https://github.com/jipeng6036-del)** &mdash; Avoid querying Scribe from Android web text fields<br />
+  <sub>[#197372](https://github.com/flutter/flutter/pull/197372) opened on on November 25, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197372) 24 additions and 3 deletions in 2 files</sub><br />
+
+* **[Vukan-Levi9](https://github.com/Vukan-Levi9)** &mdash; docs: fix broken relative links and script references in documentation<br />
+  <sub>[#197379](https://github.com/flutter/flutter/pull/197379) opened on on November 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197379) 16 additions and 17 deletions in 7 files</sub><br />
+
+* **[Vukan-Levi9](https://github.com/Vukan-Levi9)** &mdash; [flutter_tools] Fix pubspec environment typo in mock test data<br />
+  <sub>[#197381](https://github.com/flutter/flutter/pull/197381) opened on on November 25, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197381) 2 additions and 2 deletions in 2 files</sub><br />
+
+* **[Om Bharambe](https://github.com/om29dev)** &mdash; Pass configured ndkVersion from Gradle to build hooks<br />
+  <sub>[#197383](https://github.com/flutter/flutter/pull/197383) opened on on November 25, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/197383) 105 additions and 20 deletions in 10 files</sub><br />
 
