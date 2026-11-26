@@ -18,7 +18,7 @@
   <sub>[#190641](https://github.com/flutter/flutter/pull/190641) opened on on August 6, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/190641) 196 additions and 37 deletions in 6 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Add --orchestrate flag for x64 test variants in run_tests.py<br />
-  <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 97 additions and 11 deletions in 4 files</sub><br />
+  <sub>[#190880](https://github.com/flutter/flutter/pull/190880) opened on on August 10, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/190880) 117 additions and 15 deletions in 4 files</sub><br />
 
 * **[sazzadhossainemon06-droid](https://github.com/sazzadhossainemon06-droid)** &mdash; Update CONTRIBUTING.md<br />
   <sub>[#191362](https://github.com/flutter/flutter/pull/191362) opened on on August 19, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/191362) 21 additions and 1 deletion in 1 file</sub><br />
@@ -294,7 +294,7 @@
   <sub>[#196831](https://github.com/flutter/flutter/pull/196831) opened on on November 17, 2026 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/196831) 378 additions and 18 deletions in 4 files</sub><br />
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Bump customer testing version to re-enable forui tests<br />
-  <sub>[#196847](https://github.com/flutter/flutter/pull/196847) opened on on November 18, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/196847) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#196847](https://github.com/flutter/flutter/pull/196847) opened on on November 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196847) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mozixun](https://github.com/LFRon)** &mdash; Recreate the Wayland subsurface after the window is shown<br />
   <sub>[#196862](https://github.com/flutter/flutter/pull/196862) opened on on November 18, 2026 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/196862) 509 additions and 11 deletions in 4 files</sub><br />
@@ -306,7 +306,7 @@
   <sub>[#196877](https://github.com/flutter/flutter/pull/196877) opened on on November 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196877) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[matasb-google](https://github.com/matasb-google)** &mdash; [Android] Yield one VSync to ViewRootImpl traversal after first Flutter frame<br />
-  <sub>[#196890](https://github.com/flutter/flutter/pull/196890) opened on on November 18, 2026 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/196890) 235 additions and 5 deletions in 8 files</sub><br />
+  <sub>[#196890](https://github.com/flutter/flutter/pull/196890) opened on on November 18, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/196890) 794 additions and 5 deletions in 14 files</sub><br />
 
 * **[A.M Ghaderi](https://github.com/ghaderi0x)** &mdash; Ignore WidgetSpan placeholders in text finders<br />
   <sub>[#196937](https://github.com/flutter/flutter/pull/196937) opened on on November 18, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196937) 55 additions and 2 deletions in 2 files</sub><br />
@@ -428,9 +428,21 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fix large glyphs from getting added to the glyph atlas in the FirstPassDispatcher<br />
   <sub>[#197405](https://github.com/flutter/flutter/pull/197405) opened on on November 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197405) 89 additions and 11 deletions in 4 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Submit platform view frames from IOSExternalViewEmbedder<br />
-  <sub>[#197411](https://github.com/flutter/flutter/pull/197411) opened on on November 25, 2026 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/197411) 288 additions and 262 deletions in 6 files</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Makes glyph atlas resize more robust to failures<br />
   <sub>[#197416](https://github.com/flutter/flutter/pull/197416) opened on on November 25, 2026 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/197416) 319 additions and 88 deletions in 7 files</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Test submitting a platform view frame with an overlay<br />
+  <sub>[#197417](https://github.com/flutter/flutter/pull/197417) opened on on November 25, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197417) 80 additions and 0 deletions in 1 file</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a Swift section to the engine CONTRIBUTING.md<br />
+  <sub>[#197427](https://github.com/flutter/flutter/pull/197427) opened on on November 25, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/197427) 21 additions and 2 deletions in 4 files</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Cache backend image in _StaticEngineCodec across getNextFrame<br />
+  <sub>[#197434](https://github.com/flutter/flutter/pull/197434) opened on on November 26, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/197434) 182 additions and 24 deletions in 3 files</sub><br />
+
+* **[DevNexGen](https://github.com/XDevNexGen)** &mdash; Handle stale child indices in the accessibility bridge<br />
+  <sub>[#197435](https://github.com/flutter/flutter/pull/197435) opened on on November 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197435) 39 additions and 2 deletions in 2 files</sub><br />
+
+* **[DevNexGen](https://github.com/XDevNexGen)** &mdash; Skip undefined custom actions in the accessibility bridge<br />
+  <sub>[#197437](https://github.com/flutter/flutter/pull/197437) opened on on November 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197437) 63 additions and 32 deletions in 3 files</sub><br />
 
