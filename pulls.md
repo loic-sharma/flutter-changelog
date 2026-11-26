@@ -165,7 +165,7 @@
   <sub>[#195705](https://github.com/flutter/flutter/pull/195705) opened on on October 30, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/195705) 97 additions and 0 deletions in 3 files</sub><br />
 
 * **[VeeraBabu Jakkula ](https://github.com/JakkulaVeerababu)** &mdash; [flutter_tools] Fail the compile instead of hanging when TestCompiler throws<br />
-  <sub>[#195715](https://github.com/flutter/flutter/pull/195715) opened on on October 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195715) 158 additions and 74 deletions in 2 files</sub><br />
+  <sub>[#195715](https://github.com/flutter/flutter/pull/195715) opened on on October 30, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/195715) 138 additions and 74 deletions in 2 files</sub><br />
 
 * **[Vice](https://github.com/Phenek)** &mdash; [iOS] Fix platform view consuming touches in clipped-away areas<br />
   <sub>[#195766](https://github.com/flutter/flutter/pull/195766) opened on on November 1, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/195766) 122 additions and 0 deletions in 3 files</sub><br />
@@ -339,7 +339,7 @@
   <sub>[#197095](https://github.com/flutter/flutter/pull/197095) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197095) 148 additions and 2 deletions in 3 files</sub><br />
 
 * **[Vinit Tailor](https://github.com/vinittailor)** &mdash; [flutter_tools] Ignore pubspec.yaml changes in nested directories not part of the project or workspace<br />
-  <sub>[#197104](https://github.com/flutter/flutter/pull/197104) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197104) 162 additions and 56 deletions in 6 files</sub><br />
+  <sub>[#197104](https://github.com/flutter/flutter/pull/197104) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197104) 153 additions and 50 deletions in 6 files</sub><br />
 
 * **[Rebar Ahmad](https://github.com/Ahmadre)** &mdash; Restore suspended focus synchronously when the app is resumed<br />
   <sub>[#197113](https://github.com/flutter/flutter/pull/197113) opened on on November 21, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197113) 36 additions and 0 deletions in 2 files</sub><br />
@@ -441,8 +441,32 @@
   <sub>[#197434](https://github.com/flutter/flutter/pull/197434) opened on on November 26, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/197434) 182 additions and 24 deletions in 3 files</sub><br />
 
 * **[DevNexGen](https://github.com/XDevNexGen)** &mdash; Handle stale child indices in the accessibility bridge<br />
-  <sub>[#197435](https://github.com/flutter/flutter/pull/197435) opened on on November 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197435) 39 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#197435](https://github.com/flutter/flutter/pull/197435) opened on on November 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/197435) 39 additions and 2 deletions in 2 files</sub><br />
 
 * **[DevNexGen](https://github.com/XDevNexGen)** &mdash; Skip undefined custom actions in the accessibility bridge<br />
   <sub>[#197437](https://github.com/flutter/flutter/pull/197437) opened on on November 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197437) 63 additions and 32 deletions in 3 files</sub><br />
+
+* **[Tolga Sözbir](https://github.com/tolgasozbir)** &mdash; Fix ShapedInputBorder painting a line through the floating label<br />
+  <sub>[#197447](https://github.com/flutter/flutter/pull/197447) opened on on November 26, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197447) 58 additions and 36 deletions in 2 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix analysis pattern in the framework's `analysis_options.yaml`<br />
+  <sub>[#197448](https://github.com/flutter/flutter/pull/197448) opened on on November 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/197448) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Darrell Chee](https://github.com/darrellchee)** &mdash; [web] Keep the autofilled value of the refocused field when a dormant autofill form wakes up<br />
+  <sub>[#197452](https://github.com/flutter/flutter/pull/197452) opened on on November 26, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/197452) 617 additions and 6 deletions in 4 files</sub><br />
+
+* **[Bilal Khan](https://github.com/BilalWalker)** &mdash; [flutter_tools] Handle stdin write errors when starting the resident compiler<br />
+  <sub>[#197454](https://github.com/flutter/flutter/pull/197454) opened on on November 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/197454) 93 additions and 4 deletions in 2 files</sub><br />
+
+* **[vukan-markovic](https://github.com/vukan-markovic)** &mdash; Fix apostrophes in generated Apple plugin podspecs<br />
+  <sub>[#197460](https://github.com/flutter/flutter/pull/197460) opened on on November 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/197460) 60 additions and 15 deletions in 6 files</sub><br />
+
+* **[vukan-markovic](https://github.com/vukan-markovic)** &mdash; Define Swift DEBUG for new iOS apps<br />
+  <sub>[#197461](https://github.com/flutter/flutter/pull/197461) opened on on November 26, 2026 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/197461) 65 additions and 1 deletion in 2 files</sub><br />
+
+* **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update `InheritedWidget` docs to explain more about it's usage <br />
+  <sub>[#197463](https://github.com/flutter/flutter/pull/197463) opened on on November 26, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197463) 14 additions and 2 deletions in 1 file</sub><br />
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [Windows] Fix MASM flags in Windows GN `tool("asm")`<br />
+  <sub>[#197464](https://github.com/flutter/flutter/pull/197464) opened on on November 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197464) 7 additions and 9 deletions in 2 files</sub><br />
 
