@@ -110,9 +110,6 @@
 * **[Ikki Nishihara](https://github.com/haranishi)** &mdash; Fix system back dispatch with RouterConfig<br />
   <sub>[#194173](https://github.com/flutter/flutter/pull/194173) opened on on October 11, 2026 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/194173) 467 additions and 15 deletions in 4 files</sub><br />
 
-* **[paul-geoghegan](https://github.com/paul-geoghegan)** &mdash; [Linux] Set window title from setApplicationSwitcherDescription<br />
-  <sub>[#194213](https://github.com/flutter/flutter/pull/194213) opened on on October 12, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/194213) 234 additions and 20 deletions in 10 files</sub><br />
-
 * **[yexuan-henryye](https://github.com/yexuan910812)** &mdash; [web] Test Skwasm font byte views from Dart and JavaScript<br />
   <sub>[#194218](https://github.com/flutter/flutter/pull/194218) opened on on October 12, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/194218) 49 additions and 0 deletions in 1 file</sub><br />
 
@@ -222,7 +219,7 @@
   <sub>[#196240](https://github.com/flutter/flutter/pull/196240) opened on on November 9, 2026 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/196240) 128 additions and 6 deletions in 3 files</sub><br />
 
 * **[YeungKC](https://github.com/YeungKC)** &mdash; [Linux] Enable semantics only when an assistive technology uses them<br />
-  <sub>[#196281](https://github.com/flutter/flutter/pull/196281) opened on on November 10, 2026 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/196281) 695 additions and 4 deletions in 9 files</sub><br />
+  <sub>[#196281](https://github.com/flutter/flutter/pull/196281) opened on on November 10, 2026 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/196281) 695 additions and 4 deletions in 9 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [skia_gold_client] Time out and retry stalled goldctl commands<br />
   <sub>[#196353](https://github.com/flutter/flutter/pull/196353) opened on on November 11, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/196353) 250 additions and 5 deletions in 3 files</sub><br />
@@ -297,7 +294,7 @@
   <sub>[#196868](https://github.com/flutter/flutter/pull/196868) opened on on November 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196868) 155 additions and 14 deletions in 2 files</sub><br />
 
 * **[Jhin Lee](https://github.com/leehack)** &mdash; [Linux] Report accessible node parent-relative extents<br />
-  <sub>[#196877](https://github.com/flutter/flutter/pull/196877) opened on on November 18, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196877) 16 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#196877](https://github.com/flutter/flutter/pull/196877) opened on on November 18, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/196877) 16 additions and 1 deletion in 2 files</sub><br />
 
 * **[matasb-google](https://github.com/matasb-google)** &mdash; [Android] Yield one VSync to ViewRootImpl traversal after first Flutter frame<br />
   <sub>[#196890](https://github.com/flutter/flutter/pull/196890) opened on on November 18, 2026 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/196890) 794 additions and 5 deletions in 14 files</sub><br />
@@ -321,7 +318,7 @@
   <sub>[#197003](https://github.com/flutter/flutter/pull/197003) opened on on November 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197003) 41 additions and 1 deletion in 2 files</sub><br />
 
 * **[Joelle Mahfoud](https://github.com/joellemd)** &mdash; [Linux] Don't load a cursor with an empty name at startup<br />
-  <sub>[#197005](https://github.com/flutter/flutter/pull/197005) opened on on November 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197005) 8 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#197005](https://github.com/flutter/flutter/pull/197005) opened on on November 19, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197005) 8 additions and 4 deletions in 2 files</sub><br />
 
 * **[Mohammed Al-Samarraie](https://github.com/mohamedalsamrai)** &mdash; Document how the image format affects downscaled images<br />
   <sub>[#197011](https://github.com/flutter/flutter/pull/197011) opened on on November 19, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197011) 11 additions and 0 deletions in 2 files</sub><br />
@@ -431,6 +428,9 @@
 * **[Mohellebi Abdessalem](https://github.com/AbdeMohlbi)** &mdash; Fix analysis pattern in the framework's `analysis_options.yaml`<br />
   <sub>[#197448](https://github.com/flutter/flutter/pull/197448) opened on on November 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/197448) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Darrell Chee](https://github.com/darrellchee)** &mdash; [flutter_tools] Trace font assets that the icon tree shaker leaves whole<br />
+  <sub>[#197450](https://github.com/flutter/flutter/pull/197450) opened on on November 26, 2026 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/197450) 189 additions and 0 deletions in 2 files</sub><br />
+
 * **[Darrell Chee](https://github.com/darrellchee)** &mdash; [web] Keep the autofilled value of the refocused field when a dormant autofill form wakes up<br />
   <sub>[#197452](https://github.com/flutter/flutter/pull/197452) opened on on November 26, 2026 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/197452) 617 additions and 6 deletions in 4 files</sub><br />
 
@@ -452,9 +452,9 @@
 * **[daarshnicsanjeev](https://github.com/daarshnicsanjeev)** &mdash; Scope TextField accessibility focus handlers to EditableText (#197193)<br />
   <sub>[#197476](https://github.com/flutter/flutter/pull/197476) opened on on November 26, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/197476) 165 additions and 2 deletions in 2 files</sub><br />
 
-* **[leoreium](https://github.com/leoreium)** &mdash; Update and rename cp-trigger.yml to Cherry-Pick-Assigned.yml<br />
-  <sub>[#197484](https://github.com/flutter/flutter/pull/197484) opened on on November 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/197484) 10 additions and 9 deletions in 1 file</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland [tool][engine] Enable experimental VM service by default<br />
+  <sub>[#197483](https://github.com/flutter/flutter/pull/197483) opened on on November 26, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/197483) 2275 additions and 108 deletions in 48 files</sub><br />
 
-* **[leoreium](https://github.com/leoreium)** &mdash; gh pr checkout 197485<br />
-  <sub>[#197485](https://github.com/flutter/flutter/pull/197485) opened on on November 26, 2026 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/197485) 10 additions and 9 deletions in 1 file</sub><br />
+* **[daarshnicsanjeev](https://github.com/daarshnicsanjeev)** &mdash; Preserve multiple absorbed traversalParentIdentifiers in SemanticsNode (#197102)<br />
+  <sub>[#197490](https://github.com/flutter/flutter/pull/197490) opened on on November 27, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/197490) 345 additions and 75 deletions in 2 files</sub><br />
 
