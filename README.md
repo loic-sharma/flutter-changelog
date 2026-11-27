@@ -1431,7 +1431,7 @@
 
 ### November 21, 2026 to November 27, 2026
 
-16 commits.
+17 commits.
 
 * **[Kilian Schulte](https://github.com/schultek)** &mdash; [site_shared] Add utilities and component improvements to support dart.dev migration<br />
   <sub>[#14130](https://github.com/flutter/website/pull/14130) merged on November 25, 2026 &mdash; **Medium:** [17 comments](https://github.com/flutter/website/pull/14130) over 1 day, 381 additions and 100 deletions in 20 files</sub><br />
@@ -1472,6 +1472,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Specify image sizes and reduce layout shifts<br />
   <sub>[#14123](https://github.com/flutter/website/pull/14123) merged on November 23, 2026 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/14123) over 2 hours, 100 additions and 23 deletions in 14 files</sub><br />
   <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Shams Zakhour](https://github.com/sfshaza2)</sub><br />
+
+* **[Kilian Schulte](https://github.com/schultek)** &mdash; [site_shared] Add option to preserve underscores in slugify<br />
+  <sub>[#14135](https://github.com/flutter/website/pull/14135) merged on November 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/14135) over 23 hours, 101 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Sumit kumar](https://github.com/sumit-2007-git)** &mdash; docs(android): fix duplicate apkanalyzer command, typo, and stale mul…<br />
   <sub>[#14068](https://github.com/flutter/website/pull/14068) merged on November 25, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/14068) over 1 week, 17 additions and 60 deletions in 4 files</sub><br />

@@ -129,7 +129,7 @@
   <sub>[#194687](https://github.com/flutter/flutter/pull/194687) opened on on October 18, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/194687) 0 additions and 4 deletions in 4 files</sub><br />
 
 * **[Kyrylo K.](https://github.com/krll-kov)** &mdash; Add --windows-aot-format to optionally build Windows x64 AOT snapshots as ELF again instead of PE/COFF<br />
-  <sub>[#194854](https://github.com/flutter/flutter/pull/194854) opened on on October 20, 2026 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/194854) 388 additions and 37 deletions in 15 files</sub><br />
+  <sub>[#194854](https://github.com/flutter/flutter/pull/194854) opened on on October 20, 2026 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/194854) 372 additions and 37 deletions in 15 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevents private members on "open" classes from leaking into public API implementations<br />
   <sub>[#194898](https://github.com/flutter/flutter/pull/194898) opened on on October 20, 2026 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/194898) 324 additions and 299 deletions in 43 files</sub><br />
@@ -457,4 +457,13 @@
 
 * **[daarshnicsanjeev](https://github.com/daarshnicsanjeev)** &mdash; Preserve multiple absorbed traversalParentIdentifiers in SemanticsNode (#197102)<br />
   <sub>[#197490](https://github.com/flutter/flutter/pull/197490) opened on on November 27, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/197490) 345 additions and 75 deletions in 2 files</sub><br />
+
+* **[Superman](https://github.com/SuperAiPm)** &mdash; [Impeller] Apply the glyph coverage gamma when uploading the A8 atlas<br />
+  <sub>[#197496](https://github.com/flutter/flutter/pull/197496) opened on on November 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/197496) 70 additions and 0 deletions in 1 file</sub><br />
+
+* **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Remove undefined localizations from regional and script locales<br />
+  <sub>[#197508](https://github.com/flutter/flutter/pull/197508) opened on on November 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197508) 145 additions and 20 deletions in 2 files</sub><br />
+
+* **[Naman Garg](https://github.com/namangarg1902)** &mdash; Add DataTable example with single-column sorting<br />
+  <sub>[#197511](https://github.com/flutter/flutter/pull/197511) opened on on November 27, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/197511) 220 additions and 2 deletions in 3 files</sub><br />
 
