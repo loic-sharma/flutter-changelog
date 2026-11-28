@@ -243,7 +243,7 @@
   <sub>[#196583](https://github.com/flutter/flutter/pull/196583) opened on on November 14, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/196583) 55 additions and 5 deletions in 2 files</sub><br />
 
 * **[Jagmit Singh](https://github.com/jagmit)** &mdash; Send keyboard-inserted content over a binary channel<br />
-  <sub>[#196656](https://github.com/flutter/flutter/pull/196656) opened on on November 16, 2026 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/196656) 151 additions and 42 deletions in 5 files</sub><br />
+  <sub>[#196656](https://github.com/flutter/flutter/pull/196656) opened on on November 16, 2026 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/196656) 194 additions and 44 deletions in 5 files</sub><br />
 
 * **[Jhin Lee](https://github.com/leehack)** &mdash; Keep Linux renderer state alive while compositing<br />
   <sub>[#196680](https://github.com/flutter/flutter/pull/196680) opened on on November 16, 2026 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/196680) 1841 additions and 26 deletions in 14 files</sub><br />
