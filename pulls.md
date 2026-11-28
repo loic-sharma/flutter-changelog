@@ -452,8 +452,8 @@
 * **[daarshnicsanjeev](https://github.com/daarshnicsanjeev)** &mdash; Preserve multiple absorbed traversalParentIdentifiers in SemanticsNode (#197102)<br />
   <sub>[#197490](https://github.com/flutter/flutter/pull/197490) opened on on November 27, 2026 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/197490) 345 additions and 75 deletions in 2 files</sub><br />
 
-* **[Superman](https://github.com/SuperAiPm)** &mdash; [Impeller] Apply the glyph coverage gamma when uploading the A8 atlas<br />
-  <sub>[#197496](https://github.com/flutter/flutter/pull/197496) opened on on November 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/197496) 70 additions and 0 deletions in 1 file</sub><br />
+* **[Superman](https://github.com/SuperAiPm)** &mdash; [Impeller] Correct the glyph coverage ramp for dark text<br />
+  <sub>[#197496](https://github.com/flutter/flutter/pull/197496) opened on on November 27, 2026 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/197496) 41 additions and 0 deletions in 2 files</sub><br />
 
 * **[Shah Fahad](https://github.com/fahaddoc)** &mdash; Remove undefined localizations from regional and script locales<br />
   <sub>[#197508](https://github.com/flutter/flutter/pull/197508) opened on on November 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197508) 145 additions and 20 deletions in 2 files</sub><br />
@@ -463,4 +463,10 @@
 
 * **[Leo Farias](https://github.com/leoafarias)** &mdash; Reuse and release the OpacityLayer in RenderListWheelViewport<br />
   <sub>[#197538](https://github.com/flutter/flutter/pull/197538) opened on on November 27, 2026 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/197538) 72 additions and 0 deletions in 2 files</sub><br />
+
+* **[criskell](https://github.com/criskell)** &mdash; Reland "Fix physical path leakage in dart_plugin_registrant URI"<br />
+  <sub>[#197540](https://github.com/flutter/flutter/pull/197540) opened on on November 28, 2026 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/197540) 11 additions and 8 deletions in 2 files</sub><br />
+
+* **[Jasper](https://github.com/jipeng6036-del)** &mdash; [web] Content-hash self-hosted CanvasKit and Skwasm<br />
+  <sub>[#197548](https://github.com/flutter/flutter/pull/197548) opened on on November 28, 2026 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/197548) 132 additions and 12 deletions in 6 files</sub><br />
 

@@ -51,7 +51,7 @@
   <sub>Reviewed by: [Lukas Klingsbo](https://github.com/spydon), [gemini-code-assist](https://github.com/apps/gemini-code-assist), [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[criskell](https://github.com/criskell)** &mdash; Fix physical path leakage in dart_plugin_registrant URI<br />
-  <sub>[#192218](https://github.com/flutter/flutter/pull/192218) merged on November 28, 2026 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/192218) over 2 months, 104 additions and 15 deletions in 2 files</sub><br />
+  <sub>[#192218](https://github.com/flutter/flutter/pull/192218) merged on November 28, 2026 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/192218) over 2 months, 104 additions and 15 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Bilal Khan](https://github.com/BilalWalker)** &mdash; [flutter_tools] Check that dartaotruntime can run before starting the frontend server<br />
